@@ -1,0 +1,18 @@
+ID: 95-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Tabela 1 Considere a estrutura e uma instância da tabela relacional FILIACAO exibida a seguir. FILIACAO Pessoa Genitor Alexandre Francisco Francisco João Joaquina João Carlota Joaquina João Manuel Paulo Manuel Maria Paulo Com relação à tabela FILIACAO (Tabela 1), analise o comando SQL a seguir. select distinct t3.Pessoa, t4.Pessoa FROM FILIACAO t1, FILIACAO t2, FILIACAO t3, FILIACAO t4 WHERE t1.Pessoa < t2.Pessoa and t1.Genitor = t2.Genitor and t3.Genitor = t1.Pessoa and t4.Genitor = t2.Pessoa Afora a linha de títulos, o número de linhas produzidas pela execução do referido comando SQL é:
+
+[ALTERNATIVAS]
+(A) 3;
+(B) 4;
+(C) 5;
+(D) 6;
+(E) 7.
+
+[GABARITO]
+A

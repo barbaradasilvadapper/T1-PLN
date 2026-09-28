@@ -1,0 +1,18 @@
+ID: 06-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do jQuery, analise o script a seguir. <script> $(document).ready(function(){ $("button").click(function(){ alert($("#xpto").val()); }); }); </script> A função do termo “#xpto”, utilizado nesse código, é:
+
+[ALTERNATIVAS]
+(A) detectar o acionamento do evento “xpto”;
+(B) provocar o acionamento do evento “#xpto”;
+(C) acionar uma função JavaScript intitulada “xpto”;
+(D) referenciar um elemento HTML que pertence à class “xpto”;
+(E) referenciar um elemento HTML que possui o valor do atributo id igual a “xpto”.
+
+[GABARITO]
+E

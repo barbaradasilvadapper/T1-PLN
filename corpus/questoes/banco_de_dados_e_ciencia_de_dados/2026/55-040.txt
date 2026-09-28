@@ -1,0 +1,18 @@
+ID: 55-040
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em um sistema de gestão arquivística de documentos digitais, os metadados podem desempenhar diferentes funções, como descrever o conteúdo dos documentos, registrar informações de gestão, apoiar sua preservação ou indicar a forma como seus componentes se relacionam. Nesse contexto, os metadados estruturais são aqueles que
+
+[ALTERNATIVAS]
+(A) descrevem o assunto, o produtor, a data, o título e outros elementos utilizados para identificação e recuperação intelectual do documento.
+(B) registram informações sobre permissões de acesso, prazos de guarda, regras de uso, tramitação e responsabilidades administrativas associadas ao documento.
+(C) correspondem às unidades elementares de informação registradas em um sistema, ainda sem organização contextual suficiente para produzir significado arquivístico, como valores isolados em campos, códigos, datas ou caracteres.
+(D) documentam ações voltadas à preservação digital, como migração de formato, verificação de integridade, fixidade, obsolescência tecnológica e eventos de preservação.
+(E) indicam a organização interna do documento digital e as relações entre seus componentes, como páginas, capítulos, anexos, versões, arquivos vinculados ou partes que compõem um objeto digital.
+
+[GABARITO]
+E

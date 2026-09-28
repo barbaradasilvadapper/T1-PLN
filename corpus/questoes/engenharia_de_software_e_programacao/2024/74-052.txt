@@ -1,0 +1,18 @@
+ID: 74-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+ASP.NET Core é um framework de desenvolvimento de software open-source desenvolvido pela Microsoft para construir aplicações web modernas e robustas. Ele é uma versão reescrita e mais aprimorada do ASP.NET. Uma das principais vantagens da arquitetura modular do ASP.NET Core em comparação com o ASP.NET tradicional, para o desenvolvimento de aplicações web é
+
+[ALTERNATIVAS]
+(A) o uso exclusivo de bancos de dados relacionais.
+(B) a dependência de um servidor web específico, como o IIS.
+(C) o suporte para o desenvolvimento de aplicações apenas para Windows.
+(D) a possibilidade de criar aplicativos web de maneira crossplatform e modular.
+(E) a integração exclusiva com a linguagem C#.
+
+[GABARITO]
+D

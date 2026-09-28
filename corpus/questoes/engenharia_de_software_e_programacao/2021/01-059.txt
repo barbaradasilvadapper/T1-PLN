@@ -1,0 +1,18 @@
+ID: 01-059
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Gabriela está trabalhando na especificação de Casos de Uso para um novo sistema e constatou que o comportamento de um dos Casos de Uso requer a execução sistemática de procedimentos para controle e fluxo de dados, definidos por normas organizacionais da empresa que utilizará o sistema. Com base na especificação da UML 2.5.1, para modelar o comportamento do Caso de Uso em questão, Gabriela deverá utilizar o diagrama de:
+
+[ALTERNATIVAS]
+(A) sequência;
+(B) atividades;
+(C) temporização;
+(D) causa e efeito;
+(E) ocorrências.
+
+[GABARITO]
+B

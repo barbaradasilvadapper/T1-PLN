@@ -1,0 +1,18 @@
+ID: 17-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O comando correto de administração numa instalação SQL Server que concede a permissão de execução de uma stored procedure X num esquema (schema) Y para um papel (role) Z é:
+
+[ALTERNATIVAS]
+(A) ALLOW EXECUTE(X) FOR Y.Z;
+(B) CALL EXECUTE_PERMISSION X(Y.X);
+(C) FOR X IN Y ALLOW EXECUTE TO Z;
+(D) GRANT EXECUTE ON OBJECT::Y.X TO Z;
+(E) GRANT USER Z EXEC X UNDER Y.
+
+[GABARITO]
+D

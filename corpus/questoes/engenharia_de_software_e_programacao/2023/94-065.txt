@@ -1,0 +1,18 @@
+ID: 94-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Na metodologia ágil Scrum, os sprints são eventos de duração fixa de um mês ou menos que podem ser cancelados se a Meta do sprint se tornar obsoleta. O único integrante do Scrum Team que tem autoridade para cancelar o sprint é o:
+
+[ALTERNATIVAS]
+(A) Stakeholder;
+(B) Desenvolvedor;
+(C) Scrum Master;
+(D) Product Owner;
+(E) Analista de Teste.
+
+[GABARITO]
+D

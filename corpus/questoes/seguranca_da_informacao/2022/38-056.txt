@@ -1,0 +1,18 @@
+ID: 38-056
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+De acordo com a composição da ANPD (Autoridade Nacional de Proteção de Dados) prevista na LGPD (Lei Geral de Proteção de Dados Pessoais), disseminar o conhecimento sobre a proteção de dados pessoais e da privacidade à população é uma atribuição do(a):
+
+[ALTERNATIVAS]
+(A) Conselho Diretor;
+(B) Unidades especializadas;
+(C) Unidades administrativas;
+(D) Coordenação-Geral de Administração;
+(E) Conselho Nacional de Proteção de Dados Pessoais e da Privacidade.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 44-082
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de seguranca tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com relação ao tratamento de incidentes, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) Um incidente de página desfigurada representa grande risco pois envolve uma intrusão de difícil detecção e que pode levar a maiores prejuízos. ( ) Um incidente de DoS representa um vazamento grave de dados dos usuários, incluindo possivelmente dados de autenticação, o que deve ser prontamente informado aos usuários afetados. ( ) Ao ocorrer um incidente, o primeiro passo do seu tratamento é a triagem (ou classificação) e eventualmente resulta na notificação do incidente aos interessados. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) F – F – V.
+(C) V – V – V.
+(D) V – F – V.
+(E) F – V – V.
+
+[GABARITO]
+B

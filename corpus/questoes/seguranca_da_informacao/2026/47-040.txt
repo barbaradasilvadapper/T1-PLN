@@ -1,0 +1,18 @@
+ID: 47-040
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma instituição pública está revisando seus controles de acesso. O objetivo é permitir que servidores utilizem uma única identidade corporativa para acessar diferentes sistemas internos, reforçar a autenticação em acessos sensíveis e limitar privilégios administrativos apenas ao período necessário para execução de tarefas críticas. Nesse cenário, uma implementação adequada de IAM (Identity and Access Management) consiste em
+
+[ALTERNATIVAS]
+(A) implementar SSO (Single Sign-On) como mecanismo de autorização granular, pois ele substitui controles como RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control) e PAM (Privileged Access Management) na definição de privilégios de acesso.
+(B) substituir o MFA (Multi-Factor Authentication) por senhas complexas, pois a autenticação multifator é incompatível com ambientes de SSO e dificulta a integração entre sistemas corporativos.
+(C) adotar SSO para centralizar a autenticação, MFA para reforçar acessos sensíveis, RBAC ou ABAC para controle de autorização e PAM para gerenciar acessos privilegiados.
+(D) utilizar PAM para autenticar todos os usuários comuns da organização, dispensando o uso de políticas de autorização como RBAC ou ABAC.
+(E) aplicar RBAC exclusivamente para criptografar credenciais armazenadas, deixando a concessão de permissões a cargo de cada usuário final.
+
+[GABARITO]
+C

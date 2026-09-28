@@ -1,0 +1,18 @@
+ID: 90-058
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto de Web Services e respectivos padrões, analise as afirmativas a seguir. I. SOAP é um protocolo para troca de mensagens estruturadas baseado em XML. II. SDL é uma linguagem baseada em HTML para descrever Web Services. III. XML é uma linguagem utilizada para formatar e exibir páginas Web. Está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I, somente.
+(B) II, somente.
+(C) I e III, somente.
+(D) II e III, somente.
+(E) I, II e III.
+
+[GABARITO]
+A

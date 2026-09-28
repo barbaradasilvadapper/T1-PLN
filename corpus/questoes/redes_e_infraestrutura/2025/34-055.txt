@@ -1,0 +1,18 @@
+ID: 34-055
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Entre os meios de transmissão guiados utilizados em infraestruturas de rede, aquele que oferece maior imunidade a interferências eletromagnéticas e capacidade de transmissão a longas distâncias sem amplificação é a
+
+[ALTERNATIVAS]
+(A) fibra óptica.
+(B) cabo coaxial.
+(C) par trançado UTP.
+(D) par trançado STP.
+(E) cabo de par trançado Cat6A.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 93-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os processos de otimização de consultas SQL em ambientes Oracle podem utilizar diversos tipos de índices. O tipo de índice adequado para colunas que possuem um número relativamente baixo de valores, para aplicações de armazenamento de dados em que há baixa atividade de declarações SQL do tipo DML e filtragens ad hoc e eficiente em consultas com a função COUNT ( ) denomina-se índice
+
+[ALTERNATIVAS]
+(A) baseado em função.
+(B) chave reversa.
+(C) particionado.
+(D) árvore B.
+(E) bitmap.
+
+[GABARITO]
+E

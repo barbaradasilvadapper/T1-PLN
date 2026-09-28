@@ -1,0 +1,18 @@
+ID: 69-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com relação à Lei nº 13.709, intitulada Lei Geral de Proteção de Dados Pessoais (LGPD), analise as afirmativas a seguir. I. Dado pessoal se refere a origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico; esses dados devem ter uma atenção maior, pois são muito pessoais e podem gerar atos discriminatórios e lesivos. II. O titular é o indivíduo mantenedor dos dados que são os objetos de tratamento; por exemplo, em um formulário de cadastro, quando um cliente preenche seus dados pessoais para serem armazenados por uma empresa de serviços computacionais, a empresa para a ser a titular dos dados. III. Os agentes de tratamento são o controlador e o operador: controlador é a pessoa física ou jurídica que pode ser de direito público ou privado que toma decisões referentes ao tratamento de dados pessoais; operador é a pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

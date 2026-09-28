@@ -1,0 +1,18 @@
+ID: 60-034
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um servidor público necessita enviar informações sigilosas sobre um projeto de pesquisa para os membros de sua equipe. Para evitar a interceptação e a leitura não autorizada dessas informações, o servidor protegeu os arquivos com criptografia assimétrica. Um dos métodos criptográficos que pode ser utilizado na técnica de criptografia adotada é:
+
+[ALTERNATIVAS]
+(A) IDEA;
+(B) AES;
+(C) MD5;
+(D) Blowfish;
+(E) RSA.
+
+[GABARITO]
+E

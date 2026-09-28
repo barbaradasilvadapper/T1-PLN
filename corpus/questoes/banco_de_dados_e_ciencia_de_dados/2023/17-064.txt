@@ -1,0 +1,18 @@
+ID: 17-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Bancos de dados Big Data podem armazenar petabytes de informações heterogêneas e são caracterizados por:
+
+[ALTERNATIVAS]
+(A) garantirem as operações ACID para controlarem as múltiplas transações concorrentes em tempo real;
+(B) permitirem o armazenamento mono-model para evitar que grandes volumes de dados sejam corrompidos ao serem transferidos pela rede;
+(C) possuírem esquemas não rígidos no qual os dados podem ser armazenados para o esquema ser definido posteriormente e dinamicamente;
+(D) utilizarem linguagem de consulta estruturada para recuperar e processar seus dados com múltiplas consultas concorrentes em grandes volumes de dados;
+(E) armazenarem dados estruturados em tabelas indexadas com esquemas que precisam ser definidos a priori para melhorar o desempenho das consultas complexas.
+
+[GABARITO]
+C

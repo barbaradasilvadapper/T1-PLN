@@ -1,0 +1,18 @@
+ID: 92-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto de roteamento em redes de computadores, assinale a opção que descreve a diferença fundamental entre roteamento estático e roteamento dinâmico.
+
+[ALTERNATIVAS]
+(A) O roteamento estático utiliza tabelas de roteamento atualizadas automaticamente, enquanto o roteamento dinâmico requer atualizações manuais.
+(B) O roteamento estático possui a habilidade de se adaptar dinamicamente às mudanças na topologia da rede, ao passo que o roteamento dinâmico requer uma configuração fixa dos roteadores.
+(C) No roteamento estático, as rotas são configuradas manualmente pelos administradores de rede, enquanto no roteamento dinâmico, as rotas são aprendidas e ajustadas automaticamente por um protocolo de roteamento.
+(D) O roteamento estático utiliza algoritmos de roteamento avançados, enquanto o roteamento dinâmico é baseado em listas de endereços pré-configuradas.
+(E) O roteamento estático é exclusivamente empregado em redes de grande escala, enquanto o roteamento dinâmico é mais adequado para redes de pequena escala com topologia estável.
+
+[GABARITO]
+C

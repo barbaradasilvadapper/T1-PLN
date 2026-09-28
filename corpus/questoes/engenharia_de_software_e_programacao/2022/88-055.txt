@@ -1,0 +1,18 @@
+ID: 88-055
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Python a seguir. L=["Um","Dois","Três","Quatro","Cinco","Seis"] print(L[4][2]) Assinale o efeito da execução desse trecho.
+
+[ALTERNATIVAS]
+(A) A exibição da letra “n”.
+(B) A exibição da lista "[“Quatro","Cinco"].
+(C) A exibição da palavra “Cinco”.
+(D) A exibição do número 5.
+(E) A mensagem de erro “object is not subscriptable”.
+
+[GABARITO]
+A

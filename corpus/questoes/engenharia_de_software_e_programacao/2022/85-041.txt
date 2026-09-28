@@ -1,0 +1,18 @@
+ID: 85-041
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Python a seguir. class ClasseX: a = 10 ...... Para que esse código exiba o número 20, o trecho pontilhado deve ser substituído por:
+
+[ALTERNATIVAS]
+(A) print(classeX.a * 2)
+(B) print(this.a * 2)
+(C) X = ClasseX() print(X.a * 2)
+(D) X = new(ClasseX) print(X.a * 2)
+(E) X = object of ClasseX print(X.[a * 2])
+
+[GABARITO]
+C

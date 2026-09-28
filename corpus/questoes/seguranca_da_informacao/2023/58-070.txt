@@ -1,0 +1,18 @@
+ID: 58-070
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Joana é a CISO de uma grande empresa e está avaliando a implementação de um sistema MFA (Múltiplos Fatores de Autenticação) robusto. Ela deseja garantir que os usuários sejam autenticados por meio de algo que saibam, algo que tenham e algo que sejam, respectivamente. A seguinte combinação de métodos de autenticação atenderia às necessidades de Joana:
+
+[ALTERNATIVAS]
+(A) senha, token de hardware e reconhecimento facial.
+(B) impressão digital, cartão inteligente e pergunta de segurança.
+(C) token OTP por SMS, impressão digital e senha.
+(D) senha, localização geográfica e reconhecimento de voz.
+(E) pergunta de segurança, token de software e biometria de retina.
+
+[GABARITO]
+A

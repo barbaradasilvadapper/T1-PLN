@@ -1,0 +1,18 @@
+ID: 02-063
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Roberto foi contratado por uma empresa para implementar uma solução de segurança para proteger sua propriedade intelectual armazenada em sua rede interna, considerando os seguintes requisitos: - único ponto de entrada e saída para a rede interna, de forma que o tráfego bidirecional possa ser verificado e tenha controle de acesso para a rede interna, autorizando apenas o tráfego permitido; - o servidor Web com o site da empresa, instalado na rede interna, deverá ser acessado por clientes oriundos da Internet; e - acesso seguro à rede interna para os funcionários que trabalhem em home office. Para atender aos requisitos solicitados pela empresa, Roberto deve implementar um(a):
+
+[ALTERNATIVAS]
+(A) zona desmilitarizada (DMZ) onde ficará o servidor Web da empresa; outra zona desmilitarizada (DMZ) para o banco de dados que o servidor Web da DMZ anterior faz acesso, cada uma possuindo seus firewalls delimitando seus perímetros;
+(B) firewall separando as redes interna e externa; um servidor Web após o firewall, de forma que se permita o controle de acesso e o site da empresa fique disponível aos clientes oriundos da Internet;
+(C) firewall entre a rede interna e a externa, de forma que apenas o tráfego autorizado possa chegar ao site da empresa; antivírus atualizado automaticamente em todos os computadores da rede interna, de forma a protegê-los de malwares quando acessados pelos usuários em home office;
+(D) firewall para separar a rede interna da Internet; um sistema de detecção de intrusão (IDS), como segundo nível de proteção, caso haja alguma violação do firewall; uma rede privada virtual (VPN) para acesso via home office; e instalação do servidor Web após o firewall;
+(E) par de firewalls criando uma zona desmilitarizada (DMZ), um para separar a Internet da zona desmilitarizada (DMZ) e o outro para separar a zona desmilitarizada (DMZ) da rede interna; instalação do servidor Web na zona desmilitarizada (DMZ) para acesso via Internet; e configuração de uma rede privada virtual (VPN) para o acesso via home office.
+
+[GABARITO]
+E

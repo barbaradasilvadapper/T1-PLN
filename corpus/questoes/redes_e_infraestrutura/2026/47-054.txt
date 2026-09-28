@@ -1,0 +1,18 @@
+ID: 47-054
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No âmbito da segurança da informação, o spoofing é uma violação do princípio da autenticidade, na qual o atacante forja a origem de uma mensagem ou requisição, buscando fazer passar-se por uma origem distinta. Dadas as diversas formas de operacionalizar o spoofing, torna-se importante correlacionar cada tipo de spoofing às suas técnicas de mitigação. Nesse contexto, analise as afirmativas a seguir. I. O ARP spoofing é um ataque focado na rede local, onde se altera o MAC address em um frame, e pode ser mitigado utilizando-se listas de MAC estático no firewall de borda. II. O IP spoofing envolve a alteração do cabeçalho no campo do endereço de origem, e pode ser mitigado aceitando-se apenas pacotes com endereços de origem válidos. III. O DNS spoofing funciona alterando-se os endereços de IP resolvidos para determinado domínio, e pode ser mitigado utilizando-se DNSSEC que valida a autenticidade e integridade das respostas de DNS.
+
+[ALTERNATIVAS]
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

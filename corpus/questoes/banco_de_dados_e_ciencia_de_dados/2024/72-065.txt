@@ -1,0 +1,18 @@
+ID: 72-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A implementação de um banco de dados analítico requer a carga de dados extraídos de outros bancos. Cada banco de dados de origem implementa as suas próprias chaves para identificar seus registros. Para evitar conflitos com as chaves utilizadas nos bancos de dados de origem dos sistemas transacionais, a rotina ETL de um Data Mart deve gerar uma chave:
+
+[ALTERNATIVAS]
+(A) candidata;
+(B) estrangeira;
+(C) composta;
+(D) surrogada;
+(E) alternativa.
+
+[GABARITO]
+D

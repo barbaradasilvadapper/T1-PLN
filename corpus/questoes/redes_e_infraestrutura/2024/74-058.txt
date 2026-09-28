@@ -1,0 +1,18 @@
+ID: 74-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Containers são uma tecnologia que permite empacotar e isolar aplicações e seus ambientes em unidades consistentes e portáteis. Eles são usados para desenvolver, implantar e executar aplicações de maneira eficiente e previsível, independentemente do ambiente em que estejam sendo executados. Uma boa prática para o desenvolvimento e gerenciamento de containers em um ambiente de produção é
+
+[ALTERNATIVAS]
+(A) incluir todas as ferramentas e utilitários necessários para o desenvolvimento e a produção dentro do mesmo container para garantir que tudo esteja disponível em um único local.
+(B) manter containers grandes e genéricos que possam ser usados para vários aplicativos para simplificar a gestão e a configuração.
+(C) utilizar imagens base pequenas e específicas para cada container, garantindo que cada container tenha apenas as dependências necessárias para sua funcionalidade.
+(D) desenvolver containers que executem múltiplos serviços para otimizar o uso dos recursos do sistema e reduzir o número total de containers.
+(E) armazenar dados persistentes dentro do próprio container para garantir que os dados estejam sempre disponíveis junto com o container.
+
+[GABARITO]
+C

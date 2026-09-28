@@ -1,0 +1,18 @@
+ID: 21-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Considerando os conceitos de gerenciamento de projetos, analise as afirmativas a seguir. I. A linha de base do escopo, composta pela especificação do escopo do projeto, pela EAP e pelo dicionário da EAP, é considerada a referência para o monitoramento e o controle do projeto. II. O pacote de trabalho é considerado o nível mais baixo de uma EAP e não pode ser decomposto em atividades. III. Não há diferença entre escopo do produto e o escopo do projeto, haja vista que os dois se referem aos objetivos do projeto.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

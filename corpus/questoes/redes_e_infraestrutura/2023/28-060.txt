@@ -1,0 +1,18 @@
+ID: 28-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A empresa X adotou o EAPS como protocolo de controle de looping Ethernet em seu campus de Aracaju. Uma característica desse protocolo é o(a):
+
+[ALTERNATIVAS]
+(A) existência de uma VLAN de controle;
+(B) existência de um nó mestre e um nó auxiliar;
+(C) envio pelo nó mestre da mensagem de link-down;
+(D) proteção a falhas na camada 3 do modelo OSI;
+(E) envio pelo nó de trânsito da mensagem de flush-FDB.
+
+[GABARITO]
+A

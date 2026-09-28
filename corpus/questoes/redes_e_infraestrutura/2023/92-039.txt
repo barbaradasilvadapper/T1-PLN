@@ -1,0 +1,18 @@
+ID: 92-039
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A virtualização desempenha um papel fundamental na infraestrutura de TI moderna, oferecendo uma série de benefícios e vantagens. A importância da virtualização reside principalmente na capacidade de otimizar o uso de recursos de hardware, simplificar a administração de sistemas e fornecer maior flexibilidade e escalabilidade. Nesse contexto, assinale a opção que descreve corretamente a diferença entre um hipervisor tipo 1 e um hipervisor tipo 2.
+
+[ALTERNATIVAS]
+(A) Um hipervisor tipo 1 é executado diretamente no hardware físico, enquanto um hipervisor tipo 2 é executado como um aplicativo em cima de um sistema operacional hospedeiro.
+(B) Um hipervisor tipo 2 é executado diretamente no hardware físico, enquanto um hipervisor tipo 1 é executado como um aplicativo em cima de um sistema operacional hospedeiro.
+(C) Um hipervisor tipo 1 é projetado exclusivamente para virtualizar servidores, enquanto um hipervisor tipo 2 é projetado para virtualizar desktops e laptops.
+(D) Um hipervisor tipo 1 suporta apenas virtualização completa, enquanto um hipervisor tipo 2 suporta apenas virtualização parcial.
+(E) Um hipervisor tipo 2 pode suportar paravirtualização enquanto o hipervisor tipo 1 não é capaz.
+
+[GABARITO]
+A

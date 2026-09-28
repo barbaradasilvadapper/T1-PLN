@@ -1,0 +1,18 @@
+ID: 74-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Arquitetura de microsserviços é um estilo de arquitetura de software em que uma aplicação é dividida em uma série de serviços pequenos e independentes, cada um com uma função específica e executado de forma autônoma. Assinale a opção que descreve corretamente um princípio fundamental da arquitetura de microsserviços.
+
+[ALTERNATIVAS]
+(A) Cada microsserviço deve ter seu próprio banco de dados para garantir a independência e escalabilidade dos serviços.
+(B) Todos os microsserviços devem compartilhar o mesmo banco de dados para garantir a consistência e facilitar a comunicação entre eles.
+(C) Os microsserviços devem ser desenvolvidos e implantados como uma única unidade para garantir a consistência do sistema.
+(D) Cada microsserviço deve ter uma dependência rígida em uma biblioteca de terceiros para garantir funcionalidades comuns em todos os serviços.
+(E) Microsserviços devem ser implementados em uma arquitetura monolítica para facilitar a comunicação entre os serviços.
+
+[GABARITO]
+A

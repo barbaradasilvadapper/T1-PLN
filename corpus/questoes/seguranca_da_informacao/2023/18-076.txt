@@ -1,0 +1,18 @@
+ID: 18-076
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma empresa de consultoria X foi contratada para verificar os riscos quanto à segurança da informação no Tribunal de Justiça do Amapá (TJAP). Para atender ao requisito licitatório, a consultoria fez uso da norma ABNT NBR ISO/IEC 27005:2011. Em seu relatório de segurança, a consultoria identificou riscos causados por fenômenos naturais, de forma que a melhor alternativa era mover fisicamente as instalações para um local onde tal risco não exista ou esteja sob controle. A empresa de consultoria X se baseou no tópico de tratamento de riscos de:
+
+[ALTERNATIVAS]
+(A) reter o risco;
+(B) modificar o risco;
+(C) evitar o risco;
+(D) compartilhar o risco;
+(E) aceitar o risco.
+
+[GABARITO]
+C

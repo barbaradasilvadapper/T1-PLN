@@ -1,0 +1,18 @@
+ID: 56-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista sênior de redes Ribeirão recebeu a incumbência de esclarecer as nuances e atributos fundamentais das redes de computadores para um grupo de estagiários em uma corporação de grande porte. No que se refere às propriedades e funcionalidades vitais das redes P2P, WAN, LAN e WLAN, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) as redes LAN (Local Area Networks) são projetadas para cobrir áreas geográficas extensas, como cidades ou estados, facilitando a comunicação de longa distância com alta latência;
+(B) redes WAN (Wide Area Networks) operam exclusivamente dentro do espectro de frequência sem fio, o que as torna indistinguíveis das WLANs (Wireless Local Area Networks) em termos de tecnologia de transmissão;
+(C) a tecnologia WLAN (Wireless Local Area Network) é inerentemente incapaz de suportar protocolos de criptografia, o que limita severamente sua aplicabilidade em ambientes que requerem comunicações seguras;
+(D) em redes P2P (Peer-to-Peer), a presença de um servidor central é crucial para a gestão de tráfego e autorização de acesso, garantindo a estabilidade e segurança da rede;
+(E) as redes WAN (Wide Area Networks) são utilizadas para conectar redes menores em distâncias geograficamente extensas, incluindo LANs (Local Area Networks) entre diferentes locais, cidades ou até países.
+
+[GABARITO]
+E

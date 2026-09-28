@@ -1,0 +1,18 @@
+ID: 60-027
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de infraestrutura de um órgão adquiriu novos servidores para a instalação de um novo sistema de gestão utilizado por todos os seus setores. Para aumentar a disponibilidade e segurança dos dados, os discos internos dos servidores foram configurados com RAID 1+0. Sobre essa configuração de RAID, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) armazena os dados duas vezes, gravando-os no disco principal e no disco espelhado e requerendo pelo menos 2 unidades de disco;
+(B) utiliza paridade de dados distribuída em todas as unidades de disco, requerendo pelo menos 3 unidades de disco;
+(C) grava os dados de paridade em duas unidades, requerendo pelo menos 4 unidades de disco;
+(D) espelha todos os dados em unidades secundárias e usa striping em cada conjunto de unidades, requerendo pelo menos 4 unidades de disco;
+(E) combina a paridade distribuída com striping, requerendo no mínimo 6 unidades de disco.
+
+[GABARITO]
+D

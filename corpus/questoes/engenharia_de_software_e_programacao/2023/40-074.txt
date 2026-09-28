@@ -1,0 +1,18 @@
+ID: 40-074
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A metodologia Scrum é um framework que apoia o desenvolvimento de soluções adaptativas para problemas complexos utilizando diversos artefatos. O artefato do Scrum composto pela Meta da Sprint (por que), o conjunto de itens do Product Backlog selecionados para a Sprint (o que), bem como um plano de ação para entregar o Incremento (como) é o:
+
+[ALTERNATIVAS]
+(A) kanban;
+(B) incremento;
+(C) sprint backlog;
+(D) product owner;
+(E) meta do produto.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 33-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao criar um cluster vSphere HA, é possível configurar o monitoramento das VM e das aplicações hospedadas para aumentar a sua disponibilidade. A configuração de monitoramento de VM é realizada no painel:
+
+[ALTERNATIVAS]
+(A) falhas e respostas;
+(B) controle de admissão;
+(C) datastores heartbeat;
+(D) vSAN;
+(E) alta disponibilidade proativa.
+
+[GABARITO]
+A

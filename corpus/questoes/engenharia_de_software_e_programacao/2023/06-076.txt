@@ -1,0 +1,18 @@
+ID: 06-076
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Cátia criou o branch tarefa10 em um repositório Git local. Logo após, Cátia alternou o branch de trabalho atual para o branch recém-criado, tarefa10. Estando no branch local tarefa10, Cátia precisou renomear o branch para t10_concluida, com um único comando da ferramenta git. Para renomear o branch de trabalho atual com um único comando, Cátia executou no repositório Git local o comando do git:
+
+[ALTERNATIVAS]
+(A) mv t10_concluida;
+(B) reset t10_concluida;
+(C) rebase t10_concluida;
+(D) branch -m t10_concluida;
+(E) checkout -b t10_concluida.
+
+[GABARITO]
+D

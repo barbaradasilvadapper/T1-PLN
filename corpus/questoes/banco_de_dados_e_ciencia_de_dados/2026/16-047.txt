@@ -1,0 +1,18 @@
+ID: 16-047
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O comando explain plan (ou similar, dependendo do SGBD) é um recurso valioso para nortear as decisões de um administrador ou desenvolvedor de banco de dados quando o volume de dados pode comprometer o desempenho das consultas. Assinale a opção que apresenta, corretamente, a situação em que o uso do plano de execução é mais indicado para resolver um problema de performance.
+
+[ALTERNATIVAS]
+(A) Quando se deseja verificar se o SGBD está convertendo tipos de dados de forma implícita e invalidando o uso de índices.
+(B) Quando é necessário garantir que os dados sensíveis de uma tabela sejam criptografados antes do armazenamento.
+(C) Quando é necessário auditar o usuário que realizou a última alteração em um registro específico da tabela.
+(D) Quando o desenvolvedor deseja alterar permanentemente a ordem física das linhas no disco rígido.
+(E) Quando uma cópia física de segurança (backup) de uma visão materializada será criada.
+
+[GABARITO]
+A

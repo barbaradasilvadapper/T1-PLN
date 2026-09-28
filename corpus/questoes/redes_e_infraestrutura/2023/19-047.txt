@@ -1,0 +1,18 @@
+ID: 19-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com referência à estrutura básica de diretórios do Linux, a lista que contém somente diretórios imediatamente subordinados ao root (\) é:
+
+[ALTERNATIVAS]
+(A) active, home, lib;
+(B) bin, bootstrap;
+(C) dev, etc, source;
+(D) proc, services;
+(E) tmp, usr, var.
+
+[GABARITO]
+E

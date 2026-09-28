@@ -1,0 +1,18 @@
+ID: 56-017
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte código em Python: from math import prod strPow = lambda r: prod(len(r) for x in r) print(strPow('25'*2),"",sep=";") Ao ser executado em um interpretador Python com suporte à função de biblioteca prod, o código acima imprime na saída padrão:
+
+[ALTERNATIVAS]
+(A) 0;
+(B) 40;
+(C) 256;
+(D) 625;
+(E) erro.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 58-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Analise as seguintes afirmações relacionadas às soluções para Segurança da Informação: I. O Firewall é uma solução de segurança projetada para monitorar e filtrar o tráfego de rede, permitindo ou bloqueando a comunicação com base em um conjunto de regras de segurança. II. Sistemas de Prevenção de Intrusão (Intrusion Prevention System ou IPS) são capazes de detectar atividades suspeitas ou maliciosas na rede, mas necessitam de intervenção humana para bloquear o tráfego suspeito. III. Sistemas de Detecção de Intrusão (IDS) têm como principal função prevenir atividades maliciosas na rede, bloqueando automaticamente o tráfego suspeito. IV. Um Security Information and Event Management (SIEM) consolida logs e eventos de diversas fontes, proporcionando análise e correlação para identificar comportamentos anormais. Está correto apenas o que se afirma em
+
+[ALTERNATIVAS]
+(A) I e II.
+(B) I, II e III.
+(C) II e IV.
+(D) I, III e IV.
+(E) I e IV.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 93-078
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação aos serviços implementados em rede de computadores, avalie os itens a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Active Directory (AD) e OpenLDAP são softwares que suportam o protocolo padrão LDAP (Lightweight Directory Access Protocol), que facilita a autenticação e autorização de recursos de rede. ( ) O serviço de e-mail emprega o protocolo SMTP (Simple Mail Transfer Protocol) para o envio de mensagens na internet tendo como padrão a Porta 25; no entanto, deveria usar a Porta 587 ou a Porta 465 como alternativas, para implementar acesso seguro SMTPS (SMTP Secure). ( ) Os protocolos de transferência de hipertexto empregados na internet usam endereçamentos diferentes que correspondem ao serviço padrão HTTP (porta 80) e ao serviço seguro HTTPS (porta 443).
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) F – F – F.
+(C) V – V – V.
+(D) V – F – F.
+(E) F – V – V.
+
+[GABARITO]
+C

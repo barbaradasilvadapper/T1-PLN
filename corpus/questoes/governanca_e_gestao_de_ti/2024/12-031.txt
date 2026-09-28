@@ -1,0 +1,18 @@
+ID: 12-031
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A Governança Corporativa de TI busca fazer o alinhamento entre a área de Tecnologia da Informação (TI) em uma organização com os objetivos estratégicos e operacionais da empresa. Para isso, algumas normas buscam caminhos para alcançar tal alinhamento. O principal objetivo da norma ABNT NBR ISO/IEC 38500 em Governança Corporativa de TI é
+
+[ALTERNATIVAS]
+(A) definir requisitos técnicos específicos para sistemas de TI.
+(B) estabelecer diretrizes para a gestão eficaz da governança de TI.
+(C) fornecer procedimentos detalhados para auditoria de segurança da informação.
+(D) implementar práticas para desenvolvimento ágil de software.
+(E) padronizar protocolos de rede para interoperabilidade entre sistemas.
+
+[GABARITO]
+B

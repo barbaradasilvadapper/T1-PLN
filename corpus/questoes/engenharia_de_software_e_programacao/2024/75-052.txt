@@ -1,0 +1,18 @@
+ID: 75-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+MapReduce é um framework de processamento paralelo para clusters inspirado em programação funcional, que teve seu artigo seminal publicado em 2004 no artigo : “MapReduce: Simplified Data Processing on Large Clusters”. Com relação à tecnologia MapReduce, assinale V para a afirmativa verdadeira e F para a falsa. ( ) A ideia principal do MapReduce é dividir e processar tarefas e depois juntar as informações, o que permite dividir um grande problema em vários pedaços e distribuí-los em diversos computadores. ( ) Os principais passos correspondem a: (i) Input split, onde a entrada é dividida em várias partes, onde cada parte será consumida por um Map; (ii) Map, onde é criada uma lista de pares chave-valor; (iii) Shuffling , onde se classifica e agrupa a saída da etapa anterior para servir de entrada para a seguinte; (iv) Reduce, onde se processa a saída da etapa anterior e se agregam as informações; (v) Output, quando as informações são retornadas. ( ) As principais características do MapReduce se referem a esconder os detalhes do processamento em série, tolerância a falhas, otimização de localidade e balanceamento de memória, que resultam em modelo fácil de usar, mesmo para programadores sem experiência com sistemas paralelos e distribuídos.
+
+[ALTERNATIVAS]
+(A) F – V – F.
+(B) V – V – V.
+(C) V – F – V.
+(D) V – V – F.
+(E) F – F – V.
+
+[GABARITO]
+D

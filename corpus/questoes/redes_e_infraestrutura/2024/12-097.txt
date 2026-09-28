@@ -1,0 +1,18 @@
+ID: 12-097
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O auditor de controle externo Amon foi encarregado de configurar um contêiner para a plataforma Grafana, especializada em análise e visualização de dados. Ele precisa criar e iniciar um novo contêiner Docker a partir da imagem grafana/grafana, executando-o em segundo plano. Além disso, Amon deseja nomear o contêiner como grafanatce e mapear as portas entre o contêiner e o host, onde a porta 3000 do contêiner será mapeada para a porta 8080 do host (sua máquina local). Diante disso, assinale a opção que apresenta os comandos que atendem à essas especificações
+
+[ALTERNATIVAS]
+(A) docker run -d grafana/grafana --name=grafanatce -P 8080:3000
+(B) docker run -d grafana/grafana --name= grafanatce -p 3000:8080
+(C) docker run -D --name= grafanatce -p 3000: 8080 grafana/grafana
+(D) docker run -d grafana/grafana --name= grafanatce -p 8080:3000
+(E) docker run -d grafana/grafana --name= grafanatce -P 3000:8080
+
+[GABARITO]
+D

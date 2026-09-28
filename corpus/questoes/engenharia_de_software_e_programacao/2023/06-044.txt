@@ -1,0 +1,18 @@
+ID: 06-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Java a seguir, no qual foi ocultada a segunda linha de código. abstract class X { --public void exibe() { System.out.println("Concluído"); } } class Z extends X { public void X1(String P) { System.out.println(P); } } class Main { public static void main(String[] args) { Z objZ = new Z(); objZ.X1("OK"); objZ.exibe(); } } O trecho que substitui corretamente a linha tracejada é:
+
+[ALTERNATIVAS]
+(A) public abstract void X1(String P);
+(B) public static void X1(String P);
+(C) public String X1(String P);
+(D) public void X1(String P);
+(E) public X1(String P);
+
+[GABARITO]
+A

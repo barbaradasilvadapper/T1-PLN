@@ -1,0 +1,18 @@
+ID: 50-078
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A respeito de VoIP e os protocolos SIP e H.323, analise os itens a seguir: I. VoIP é uma aplicação de áudio e vídeo interativo em tempo real; II. O protocolo SIP é um protocolo de camada de transporte que estabelece, gerencia e encerra sessões multimídia; III. O H.323 é um protocolo padrão ITU que permite a um telefone convencional da rede de telefonia pública se comunicar com um computador conectado à Internet.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) II, apenas.
+
+[GABARITO]
+C

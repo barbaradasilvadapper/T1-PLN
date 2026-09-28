@@ -1,0 +1,18 @@
+ID: 11-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O OWASP Top 10 é uma lista bastante renomada sobre os riscos de segurança mais impactantes para aplicações web. Em sua última edição, o item Quebra de Controle de Acesso, que se refere à criação de políticas para que os usuários não possam agir fora de suas permissões pretendidas, ficou em 1º lugar. Assinale a opção a seguir que não corresponde a uma ação de prevenção para Quebra de Controle de Acesso.
+
+[ALTERNATIVAS]
+(A) Minimizar o uso de Cross-Origin Resource Sharing (CORS).
+(B) Os tokens JWT sem estado devem ter vida curta e, para os de longa duração, é recomendável seguir os padrões OAuth para revogar o acesso.
+(C) Desabilitar redirecionamentos de HTTP.
+(D) Desativar a listagem de diretórios do servidor web.
+(E) Implementar mecanismos de controle de acesso uma vez e reutilizá-los por toda a aplicação.
+
+[GABARITO]
+C

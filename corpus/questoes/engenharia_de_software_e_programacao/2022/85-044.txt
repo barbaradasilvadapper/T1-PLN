@@ -1,0 +1,18 @@
+ID: 85-044
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o HTML de uma página Web exibido a seguir. <!DOCTYPE html> <html> <head> <style> td { border: 1px solid #dddddd; padding: 20px; } </style> <h2>Tabela UM</h2> <table> <tr> <td>A</td> <td>B</td> </tr> <td>C</td> <td>B2</td> </tr> </table> </body> </html> Sobre esse script, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) #dddddd representa a cor da borda de uma tabela;
+(B) a página renderiza duas tabelas, com uma linha em cada tabela;
+(C) nenhuma tabela seria renderizada, pois as tags td e tr estão invertidas;
+(D) a página renderiza corretamente uma tabela com duas linhas e três colunas;
+(E) o trecho delimitado pelas tags style está fora do lugar, pois deveria estar localizado antes da tag head.
+
+[GABARITO]
+A

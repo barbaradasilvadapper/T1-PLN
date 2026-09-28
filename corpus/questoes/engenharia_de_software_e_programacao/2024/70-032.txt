@@ -1,0 +1,18 @@
+ID: 70-032
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O modelo de desenvolvimento de software que possui ênfase na documentação extensiva e planejamento detalhado que é caracterizado por uma abordagem sequencial e linear, no qual cada fase deve ser concluída antes que a próxima seja iniciada, é conhecido como
+
+[ALTERNATIVAS]
+(A) Modelo Espiral.
+(B) Desenvolvimento Orientado a Testes (TDD).
+(C) Modelo Lean.
+(D) Modelo em Cascata.
+(E) Desenvolvimento Ágil.
+
+[GABARITO]
+D

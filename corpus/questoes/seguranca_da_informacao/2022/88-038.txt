@@ -1,0 +1,18 @@
+ID: 88-038
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O objetivo da prática de gerenciamento de arquitetura, segundo o ITIL v4, é
+
+[ALTERNATIVAS]
+(A) minimizar o impacto negativo de interrupções não planejadas de um serviço, restaurando a operação normal o mais rápido possível.
+(B) garantir que a organização entenda e lide com os riscos de forma eficaz para garantir a sustentabilidade contínua de seus negócios.
+(C) fornecer os princípios, padrões e ferramentas que permitem a uma organização gerenciar mudanças complexas de maneira estruturada e ágil.
+(D) mover hardware, software, documentação, processos ou qualquer outro componente novo ou alterado para ambientes produtivos.
+(E) assegurar que a organização entenda e gerencie os riscos à confidencialidade, integridade e disponibilidade das informações.
+
+[GABARITO]
+C

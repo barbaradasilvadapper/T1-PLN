@@ -1,0 +1,18 @@
+ID: 02-057
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um ambiente híbrido de homologação de software, composto por sistemas Windows e Linux, foi solicitado à equipe de desenvolvimento de sistemas de um tribunal de contas. A fim de otimizar o emprego de recursos públicos, a equipe utilizará a tecnologia de virtualização, através do Hypervisor VMWare (chamado ESXi) versão 6.5. É correto afirmar que o Hypervisor VMWare versão 6.5:
+
+[ALTERNATIVAS]
+(A) é uma aplicação que gerencia máquinas virtuais, também denominadas containers;
+(B) deve ser instalado diretamente em máquina de hardware compatível, por ser um hipervisor tipo 1;
+(C) pode ser instalado como aplicação adicional em sistemas operacionais Unix, por possuir um núcleo desse mesmo tipo;
+(D) requer que os sistemas operacionais tenham os instaladores ligeiramente modificados para operarem em máquinas virtuais;
+(E) é uma aplicação que pode gerenciar containers através da para-virtualização.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 94-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere o comando SQL a seguir. SELECT a.X, b.Y FROM T1 a, T2 b WHERE a.R = b.S Dado que essa consulta pode ser expressa usando as operações primitivas da Álgebra Relacional, a lista que contém as operações necessárias e suficientes para essa conversão é, em ordem alfabética:
+
+[ALTERNATIVAS]
+(A) Diferença, Produto, Projeção;
+(B) Produto, Projeção, União;
+(C) Projeção, União;
+(D) Produto, Projeção, Seleção;
+(E) Seleção, União.
+
+[GABARITO]
+D

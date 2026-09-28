@@ -1,0 +1,18 @@
+ID: 92-033
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um analista de suporte realiza a instalação do sistema operacional Windows ou superior, exceto a 11, em um computador com um processador de 64bits e 8Gb de memória RAM; ao fim da instalação notou-se que aproximadamente 4Gb de memória RAM foram reconhecidos pelo sistema operacional, considerando que não há nenhum problema de hardware. Assinale a opção que indica o procedimento que o analista de suporte deverá fazer para que o sistema operacional reconheça os 8Gb de memória RAM.
+
+[ALTERNATIVAS]
+(A) Instalar novamente o sistema operacional Windows na versão 64 bits.
+(B) Realizar uma atualização do sistema operacional no Windows Update.
+(C) Realizar uma mudança de configuração no BIOS do computador.
+(D) Após uma mudança configuração no BIOS, reinstalar o sistema operacional.
+(E) Retirar a memória excedente para evitar problemas no funcionamento do Windows.
+
+[GABARITO]
+A

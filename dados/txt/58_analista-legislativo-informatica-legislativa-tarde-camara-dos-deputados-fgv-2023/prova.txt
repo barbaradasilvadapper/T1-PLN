@@ -1,0 +1,1476 @@
+C ÂMARA DOS D EPUTADOS
+C ONCURSO P ÚBLICO – E DITAL 4
+SUA PROVA
+
+Além deste caderno contendo 70 (setenta)
+questões objetivas, você receberá do fiscal de
+prova o cartão de respostas.
+
+TEMPO
+
+Você dispõe de 4 (quatro) horas para a
+realização da prova, já incluído o tempo para a
+marcação do cartão de respostas.
+
+2 (duas) horas após o início da prova é possível
+retirar-se da sala, sem levar o caderno de prova.
+ A partir dos 30 minutos anteriores ao término da
+prova é possível retirar-se da sala levando o
+caderno de questões.
+NÃO SERÁ PERMITIDO
+
+Qualquer tipo de comunicação entre
+candidatos durante a aplicação da prova.
+os
+
+Anotar informações relativas às respostas em
+qualquer outro meio que não seja o caderno de
+questões.
+
+Levantar da cadeira sem autorização do fiscal de
+sala.
+
+Usar o sanitário ao término da prova, após deixar
+a sala.
+T ARDE
+A NALISTA L EGISLATIVO
+T IPO 1 – B RANCA
+INFORMAÇÕES GERAIS
+
+Verifique se seu caderno de questões está completo,
+sem repetição de questões ou falhas. Caso contrário,
+notifique imediatamente o fiscal da sala, para que
+sejam tomadas as devidas providências.
+
+Confira seus dados pessoais, especialmente nome,
+número de inscrição e documento de identidade, e
+leia atentamente as instruções para preencher o
+cartão de respostas.
+
+Use somente caneta esferográfica, fabricada em
+material transparente, com tinta preta ou azul.
+
+Assine
+seu
+reservado(s).
+nome
+apenas
+no(s)
+espaço(s)
+
+Confira seu cargo, cor e tipo do caderno de questões.
+Caso tenha recebido caderno de cargo, cor ou tipo
+diferente do impresso em seu cartão de respostas, o
+fiscal deve ser obrigatoriamente informado para o
+devido registro na ata da sala.
+
+Reserve tempo suficiente para o preenchimento do
+seu cartão de respostas. O preenchimento é de sua
+responsabilidade e não será permitida troca do cartão
+de resposta em caso de erro do candidato.
+
+Para fins de avaliação, serão levadas em consideração
+apenas as marcações realizadas no cartão de
+respostas.
+
+A FGV coletará as impressões digitais dos candidatos
+na lista de presença.
+
+Os candidatos serão submetidos ao sistema de
+detecção de metais quando do ingresso e da saída de
+sanitários durante a realização das provas.
+Boa sorte!
+I NFORMÁTICA L EGISLATIVA
+
+Câmara dos Deputados – Concurso Público 2023
+C ONHECIMENTOS E SPECÍFICOS
+Arquitetura de Sistemas de Informação
+1
+Considere o trecho de código Java exibido a seguir.
+public class Main {
+static int m1(int x, int y) {
+return x + y;
+}
+static double m1(double x, double y) {
+return x * y;
+}
+public static void main(String[] args) {
+int a = m1(20, 3);
+double b = m1(3.56, 1.01);
+System.out.println("int: " + a);
+System.out.println("double: " + b);
+}
+}
+A execução desse código produz
+(A) um erro de sintaxe, pois há dois métodos com o mesmo
+nome.
+(B) um erro de execução, pois há incompatibilidade de tipos.
+(C) a exibição das linhas
+double: 23.0
+double: 3.5956
+(D) a exibição das linhas
+int: 23
+int: 4
+(E) a exibição das linhas
+int: 23
+double: 3.5956
+2
+Analise o código Java a seguir, exibido com um trecho omitido.
+import java.util.ArrayList;
+public class Main {
+public static void main(String[] args) {
+ArrayList<Integer> x = new ArrayList<Integer>();
+x.add(100); x.add(200); x.add(300);
+x.forEach( -------------------- );
+}
+}
+Quando executado, esse código deve exibir as linhas a seguir.
+100
+200
+300
+Assinale a expressão lambda que deve substituir o trecho
+tracejado para produzir esse resultado.
+(A) def f(n) -> { System.out.println(n); }
+(B) (n) -> { System.out.println(n); }
+(C) f(n) { System.out.println(n); }
+(D) n >> { System.out.println(n); }
+(E) f(n) >> { System.out.println(n); }
+Analista Legislativo - Informática Legislativa
+3
+Assinale o método JavaScript que retorna o número de caracteres
+em uma string.
+(A) charAt()
+(B) count
+(C) len()
+(D) length
+(E) size
+4
+Analise as operações bitwise do JavaScript, exibidas a seguir.
+4 & 1
+7 | 2
+~ -5
+9 >> 2
+9 >>> 1
+Os valores de cada uma dessas expressões, na ordem, são:
+(A) 0; 7; 5; 1; 2.
+(B) 1; 9; 5; 1; 2.
+(C) 0; 7; 4; 2; 4.
+(D) 0; 9; 4; 0; 4.
+(E) 1; 1; -5; 4; 2.
+5
+Considere o script JavaScript a seguir.
+function f(f) { return (f*f); }
+let value1 = f;
+alert(value1);
+let value2 = f(100);
+alert(value2);
+let value3 = f;
+alert(value3(100));
+Assinale os valores exibidos na execução do script acima, na
+ordem.
+(A) function f(f) { return (f*f); }
+10000
+10000
+(B) function f(f) { return (f*f); }
+10000
+undefined
+(C) undefined
+10000
+undefined
+(D) 10000
+(E) undefined
+undefined
+undefined
+
+Tipo Branca – Página 2
+
+Câmara dos Deputados – Concurso Público 2023
+Atenção: o enunciado a seguir refere-se às três próximas
+questões.
+Quando mencionada, considere a tabela relacional intitulada fibo,
+com duas colunas, cuja instância, não necessariamente nessa
+ordem, é exibida a seguir.
+Tabela fibo
+P
+N
+1
+0
+2
+1
+3
+1
+4
+2
+5
+3
+6
+5
+7
+8
+8
+13
+9
+21
+10
+34
+A coluna da esquerda enumera as linhas, continuamente, e a
+coluna da direita armazena os dez primeiros elementos da
+sequência de Fibonacci, na qual os dois primeiros termos são
+0 e 1, por definição, e cada termo subsequente é a soma dos dois
+termos anteriores.
+----------------------------------------------------------------
+Suponha que a tabela fibo, apresentada anteriormente, tenha
+sido danificada, e sua instância corrente seja a que segue.
+P
+N
+1
+0
+2
+1
+3
+1
+6
+5
+7
+8
+Para restaurar a tabela, foi produzido o comando SQL a seguir.
+insert into fibo
+select f2.P + 1, f1.N + f2.N
+from fibo f1, fibo f2
+where f1.P = f2.P - 1
+and f2.P < 10
+and not exists
+(select * from fibo f3
+where f1.N + f2.N = f3.N and f3.P > f2.P)
+6
+À luz das características de funcionamento do SQL, o número
+mínimo de vezes que esse comando deve ser acionado para
+restaurar a instância original, é
+(A) 1.
+(B) 2.
+(C) 3.
+(D) 4.
+(E) 5.
+Analista Legislativo - Informática Legislativa
+7
+A instância da tabela fibo, anteriormente apresentada, foi
+danificada na primeira coluna em algumas linhas, com exceção
+das duas primeiras linhas, como mostrado a seguir.
+P
+N
+1
+0
+2
+1
+0
+1
+5
+2
+4
+3
+6
+5
+3
+8
+0
+13
+8
+21
+10
+34
+Para a restauração da instância da tabela fibo a partir desse
+estado, foram preparados três comandos SQL.
+update fibo
+set fibo.P = (select sum(1) from fibo f1
+where f1.N <= fibo.N)
+where fibo.P > 2
+I.
+update fibo
+set fibo.P = (select sum(1) from fibo f1
+where f1.N <= fibo.N
+group by f1.N)
+where fibo.P > 2
+II.
+update fibo
+set fibo.P = select sum(1) from fibo f1
+where f1.N < fibo.N
+and fibo.P > 2
+III.
+Com relação ao emprego desses comandos, assinale a afirmativa
+correta.
+(A) Nenhum é adequado.
+(B) Somente I e II são adequados.
+(C) Somente I e III são adequados.
+(D) Somente II e III são adequados.
+(E) Todos são adequados.
+
+Tipo Branca – Página 3
+
+Câmara dos Deputados – Concurso Público 2023
+8
+Considere a instância da tabela fibo, anteriormente apresentada,
+depois de um conjunto de alterações errôneas.
+P
+N
+1
+0
+2
+1
+3
+1
+4
+2
+5
+4
+6
+5
+9
+8
+7
+13
+9
+21
+10
+34
+Considere ainda o comando SQL a seguir.
+delete from fibo
+where fibo.P > 2
+and ( exists
+(select * from fibo f
+where f.P > fibo.P and f.N < fibo.N )
+or
+exists
+(select * from fibo f
+where f.P < fibo.P and f.N > fibo.N )
+or
+not exists
+(select * from fibo f1, fibo f2
+where fibo.P - 2 = f1.P
+and fibo.P - 1 = f2.P
+and fibo.N = f1.N + f2.N )
+)
+Assinale o número de linhas removidas da tabela fibo pela
+execução do comando acima com a presente instância.
+(A) 0.
+(B) 2.
+(C) 4.
+(D) 6.
+(E) 8.
+9
+Observe o documento HTML exibido a seguir.
+<!DOCTYPE html>
+<html>
+<body>
+<h2>EXEMPLO</h2>
+<xxx src="https://www.estadao.com.br/"
+height="400" width="600" title="Exemplo"></xxx>
+</body>
+</html>
+Assinale a tag que substitui as duas ocorrências do símbolo xxx
+no script acima, de modo que o site referenciado seja exibido
+corretamente.
+(A) canvas
+(B) div
+(C) iframe
+(D) img
+(E) site
+Analista Legislativo - Informática Legislativa
+10
+No contexto de recursos utilizados na construção de projetos
+Web, analise as afirmativas a seguir.
+I. Angular é um framework e plataforma baseada em
+TypeScript.
+II. React é uma library baseada em JavaScript.
+III. Angular e React são open source.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+11
+No contexto do NodeJS, considere o script a seguir.
+var http = require('http');
+http.createServer(function (req, res) {
+res.writeHead(200, {'Content-Type': 'text/html'});
+res.write(req.url);
+res.end();
+}).listen(8080);
+Sobre esse script, analise as afirmativas a seguir.
+I. Esse script é executado pelo browser, no lado do cliente.
+II. A função passada no createServer recebe o argumento req na
+forma de um objeto http.IncomingMessage object.
+III. A Query String da requisição pode ser acessada pela
+propriedade url do argumento req.
+Está correto o que se afirma em
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+12
+Considere a requisição AJAX a seguir.
+xhttp.open("GET", "teste.txt", true);
+xhttp.send();
+O valor true, utilizado como o terceiro parâmetro do método,
+estabelece que
+(A) a execução da requisição é síncrona.
+(B) a execução da requisição é assíncrona.
+(C) a execução da requisição inclui um call back.
+(D) um evento erro na requisição deve ser tratado.
+(E) em caso de sucesso, o valor é retornado pela requisição
+
+Tipo Branca – Página 4
+
+Câmara dos Deputados – Concurso Público 2023
+13
+No contexto de bancos de dados NoSQL, sobre o uso de índices
+analise as afirmativas a seguir.
+I. O suporte a índices secundários é frequente nas
+implementações NoSQL mais amplamente usadas, como, por
+exemplo, MongoBD.
+II. Índices implementados em tabelas hash em bancos dados
+NoSQL permitem consultas por intervalos (range) com
+complexidade O(1).
+III. Em contraste aos bancos relacionais, árvores B constituem o
+tipo de índice mais utilizado em bancos NoSQL.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+14
+A sigla ETL, originária do inglês, denota, no contexto da análise e
+exploração de dados, o processo de
+(A) modelagem conceitual, lógica e física.
+(B) extração, transformação e carga de dados.
+(C) padronização, agregação e limpeza de dados.
+(D) estruturação, seleção e combinação de dados.
+(E) exploração, tratamento e disponibilização de dados.
+15
+No âmbito da arquitetura do Hibernate, assinale o objeto que
+estabelece uma conexão física com um banco de dados e é
+projetado para ser instanciado a cada vez que seja necessária
+uma interação com o mesmo.
+(A) Criteria object.
+(B) Query object.
+(C) Session object.
+(D) SessionFactory object.
+(E) Transaction object.
+16
+Assinale a opção que indica o padrão de projeto GoF ('Gang of
+Four') que, com finalidade comportamental, sem violar o
+encapsulamento, captura e externaliza um estado interno de um
+objeto, de modo que o mesmo possa posteriormente ser
+restaurado para este estado.
+(A) bridge.
+(B) facade.
+(C) flyweight.
+(D) memento.
+(E) visitor.
+Analista Legislativo - Informática Legislativa
+17
+Padrões GRASP comunicam princípios fundamentais de
+atribuição de responsabilidades em um projeto orientado a
+objetos e oferecem soluções idiomáticas que guiam os projetistas
+na criação de software.
+De acordo com esses padrões, um princípio fundamental,
+segundo o qual as responsabilidades são atribuídas em projetos
+orientado a objetos, é
+(A) atribuir responsabilidade de maneira que o acoplamento
+entre classes permaneça forte.
+(B) atribuir responsabilidade à classe que tem a informação
+necessária para satisfazer a responsabilidade.
+(C) atribuir responsabilidades de forma que a coesão das classes
+permanece baixa.
+(D) atribuir a responsabilidade do tratamento dos eventos de
+sistema de um mesmo caso de uso a múltiplas classes.
+(E) atribuir um conjunto de responsabilidades sem coesão a uma
+classe artificial para permitir a reutilização.
+18
+O HTTP/2 é uma revisão importante do protocolo de rede HTTP
+amplamente utilizado pela World Wide Web.
+Sobre o HTTP/2, assinale a afirmativa correta.
+(A) Permite multiplexar várias solicitações de recursos dentro de
+uma mesma conexão TCP.
+(B) Usa os esquemas de URI nos formatos "h2p://" e "h2ps://"
+em detrimento do "http://" e "https://".
+(C) É uma especificação alternativa que modifica, aprimora e
+obsoleta a sintaxe do HTTP/1.
+(D) Opera por padrão sobre a porta 88 e não mais na porta 80
+conforme versões anteriores deste protocolo.
+(E) Aumenta a latência na web ao impedir a compactação de
+cabeçalhos HTTP para manter a retrocompatibilidade.
+19
+O padrão Saga é uma maneira de gerenciar a consistência de
+dados entre microsserviços em cenários de transações
+distribuída.
+Sobre esse padrão, assinale a afirmativa correta.
+(A) Uma saga é uma transação de estilo ACID no nível da própria
+saga mesmo havendo múltiplos microsserviços.
+(B) Como os microsserviços participantes de uma saga não
+colaboram entre sim, não há risco de dependência cíclica.
+(C) As sagas coreografadas causam maior acoplamento entre
+microsserviços do que as sagas orquestradas.
+(D) As transações de compensação são iguais a rollback em
+banco de dados, desfaz tudo como se nada tivessem
+ocorrido.
+(E) As sagas orquestradas usam um coordenador centralizado
+para definir a ordem de execução dos microsserviços.
+
+Tipo Branca – Página 5
+
+Câmara dos Deputados – Concurso Público 2023
+20
+GraphQL (Graph Query Language) é uma linguagem muito útil
+para busca de dados.
+Sobre a sintaxe da linguagem GraphQL, assinale a afirmativa
+correta.
+(A) Ela possui um esquema de tipos escalares e enumerações,
+sem suporte a tipos abstratos.
+(B) A indentação por meio de espaços em branco é a maneira de
+agrupar os campos dos objetos definidos para consulta.
+(C) Ela define um conjunto de operações para consultar dados,
+mas não oferece meios para modificá-los no lado do servidor.
+(D) As consultas são estruturadas hierarquicamente e têm o
+mesmo formato dos dados que elas retornam.
+(E) O formato XML deve ser usado para serialização das
+consultas e respostas.
+21
+Márcia está usando os métodos utilitários do módulo Júpiter do
+framework JUnit 5 para criar testes automatizados.
+Para verificar as condições de teste quanto à igualdade entre dois
+objetos, Márcia gostaria de usar um único método utilitário que
+comparasse dois parâmetros fornecidos do tipo objeto e que
+esses objetos sejam considerados iguais, caso ambos sejam
+nulos.
+Assinale a opção que indica o método que Márcia deve usar.
+(A) assertEquals().
+(B) assertIdentical().
+(C) assertNull().
+(D) assertThrowsExactly().
+(E) assertTrue().
+22
+O framework Cucumber é comumente utilizado por equipes de
+desenvolvimento para automatizar testes de software.
+Este framework lê especificações executáveis escritas em texto
+simples e estruturado, conforme regras gramaticais da linguagem
+Gherkin.
+De acordo com esta linguagem, assinale a opção que apresenta a
+palavra-chave que deve ser utilizada para descrever o contexto
+inicial e as pré-condições de um cenário de teste.
+(A) Before.
+(B) Feature.
+(C) Given.
+(D) Rule.
+(E) Setup.
+23
+O OAuth2 é um protocolo de autorização amplamente utilizado
+em seviços da web. Neste protocolo, a autorização é expressa na
+forma de uma concessão de autorização (authorization grant),
+que a aplicação cliente utiliza para solicitar o token de acesso.
+São tipos de concessão de autorização definidos no OAuth2:
+(A) application grant e authorization code grant.
+(B) application grant e resource owner grant.
+(C) authorization code grant e user system grant.
+(D) client credentials grant e implicit grant.
+(E) user credentials grant e system resource grant.
+Analista Legislativo - Informática Legislativa
+24
+Maria quer enviar uma mensagem para João por meio de um
+canal inseguro e escolheu um método de criptografia assimétrica
+para garantir o sigilo de modo que somente João possa ler o
+conteúdo da mensagem original.
+Nesse contexto, assinale a afirmativa correta.
+(A) Uma única cifra de transposição deve ser usada para cifrar e
+decifrar a mensagem.
+(B) Uma única cifra de substituição deve ser usada para cifrar e
+decifrar a mensagem.
+(C) Uma função hash deve ser usada para cifrar e decifrar a
+mensagem.
+(D) Uma única chave secreta deve ser usada para cifrar e decifrar
+a mensagem.
+(E) Uma chave pública deve ser usada para cifrar e uma chave
+privada para decifrar a mensagem.
+25
+Apache Kafka é um sistema de mensageria altamente escalável,
+que usa tópicos e partições para enfileiramento de mensagens.
+Sobre os componentes arquitetônicos do Kafka, assinale a
+afirmativa correta.
+(A) As partições são divididas em tópicos que os consumidores
+assinam para receber mensagens.
+(B) Um tópico pode ter apenas um produtor que escreve eventos
+nele, porém pode ter muitos consumidores que o assinam.
+(C) Os eventos no tópico são imutáveis, o que significa que não
+podem ser modificados depois de escritos.
+(D) Os produtores atribuem uma chave a cada mensagem e o
+Kafka a armazena no tópico principal da partição mais vazia.
+(E) Os consumidores sempre recebem as mensagens na ordem
+em que foram enviadas.
+26
+As solicitações de mudança em um projeto podem requerer
+novas estimativas e exigir ajustes no plano de gerenciamento do
+projeto.
+De acordo com o Guia PMBok, a técnica de estimativa de custos
+ou duração que aplica uma média ponderada das estimativas
+otimistas, pessimistas e mais prováveis, quando existe incerteza
+em relação às estimativas da atividade em questão, é
+denominada
+(A) análoga.
+(B) bottom-up.
+(C) equilibrada.
+(D) paramétrica.
+(E) três pontos.
+27
+Os objetivos de governança e gestão no COBIT 2019 estão
+agrupados em domínios bem definidos. Controlar todos os ativos
+de informação e tecnologia para otimizar o valor fornecido pelo
+seu uso, é um objetivo de gestão do domínio
+(A) avaliar, orientar e monitorar.
+(B) alinhar, planejar e organizar.
+(C) construir, adquirir e implementar.
+(D) entregar serviço e suporte.
+(E) monitorar, avaliar e analisar.
+
+Tipo Branca – Página 6
+
+Câmara dos Deputados – Concurso Público 2023
+28
+A Norma NBR ISO 31000:2018 fornece orientações sobre as
+características da gestão de riscos eficaz e eficiente.
+De acordo com esta norma, assinale a afirmativa correta.
+(A) A gestão de riscos é parte integrante de todas as atividades
+organizacionais.
+(B) O processo de gestão de riscos é rígido, padronizado e
+centrado no contexto interno da organização.
+(C) Os riscos podem emergir e mudar diante do efeito da
+incerteza nos objetivos, mas não podem desaparecer.
+(D) O comportamento humano e a cultura da empresa têm
+pouca influência na gestão de riscos.
+(E) Uma abordagem abrangente para a gestão de riscos contribui
+para resultados inconsistentes e incomparáveis.
+29
+Considere o seguinte código em Kotlin:
+fun main() {
+val list = listOf(1, 2, 3, 5, 8)
+val result = list.map { it * 2 }.filter { it > 4 }
+println(result)
+}
+Assinale a opção que indica a saída do terminal após a execução
+do código acima.
+(A) [1, 2, 3]
+(B) [5, 8]
+(C) [4, 6, 10]
+(D) [6, 10, 16]
+(E) [8, 12, 20]
+30
+Considere o seguinte código em Swift:
+var nome = "João"
+let closure = { [nome] in print("Olá \(nome)")}
+nome = "Maria"
+closure()
+Assinale a opção que indica a saída do terminal após a execução
+do código acima.
+(A) A saída do código será "Olá " (uma saída vazia sem o nome).
+(B) A saída do código será "Olá João Maria".
+(C) A saída do código será "Olá João".
+(D) A saída do código será "Olá Maria".
+(E) O código retornará um erro.
+Analista Legislativo - Informática Legislativa
+31
+No contexto das ferramentas e conceitos relacionados à análise
+de logs e ao monitoramento de desempenho, assinale a
+afirmativa incorreta.
+(A) Logstash é uma ferramenta de processamento de logs que
+pode coletar, transformar e encaminhar dados para vários
+destinos.
+(B) Kibana é uma plataforma de visualização de dados que
+permite aos usuários criar dashboards personalizados para
+visualizar dados de logs e métricas.
+(C) Logstash suporta uma variedade de plugins de entrada, filtros
+e saídas, permitindo a personalização do processamento de
+logs.
+(D) Kibana permite a realização de pesquisas avançadas, análise
+de dados e visualização de dados em tempo real.
+(E) Logstash e Kibana são utilizados exclusivamente para análise
+de logs e não podem ser integrados com outras ferramentas
+de monitoramento e observabilidade.
+32
+Considere um contêiner Docker de ID ‘123abc456def’ em
+execução em sua máquina local.
+Assinale a opção que apresenta o comando apropriado para
+acessar o terminal interno desse contêiner para executar
+comandos diretamente dentro dele.
+(A) ‘docker run -it 123abc456def /bin/bash’
+(B) ‘docker exec -it 123abc456def /bin/sh’
+(C) ‘docker attach 123abc456def’
+(D) ‘docker start -it 123abc456def’
+(E) ‘docker container -it 123abc456def’
+33
+João está trabalhando com um cluster Kubernetes e precisa criar
+um novo pod que hospedará um contêiner com uma aplicação
+web. O pod deve ser configurado para ser reiniciado
+automaticamente em caso de falha, e você também deseja que
+ele seja acessível internamente no cluster através do nome web-
+app.
+A imagem Docker da aplicação web está hospedada em um
+repositório e pode ser acessada através do nome
+‘minhaapp/web:1.0’.
+Com base nessas informações, assinale a opção que indica o
+comando e os argumentos necessários para criar o pod no
+Kubernetes.
+(A) kubectl run web-app --image=minhaapp/web:1.0 --
+restart=Always
+(B) kubectl create pod web-app --image=minhaapp/web:1.0 --
+restart=Always
+(C) kubectl apply -f pod.yaml
+(D) kubectl
+create
+deployment
+web-app
+--
+image=minhaapp/web:1.0
+(E) kubectl expose pod web-app --port=80 --target-port=8080
+
+Tipo Branca – Página 7
+
+Câmara dos Deputados – Concurso Público 2023
+34
+No contexto do padrão WCAG 2.1, assinale a afirmativa correta.
+(A) WCAG 2.1 é uma atualização do WCAG 2.0 que remove
+muitos dos critérios de sucesso anteriores para simplificar o
+padrão.
+(B) WCAG 2.1 foca exclusivamente na acessibilidade para
+usuários com deficiência visual, ignorando outras
+deficiências.
+(C) A conformidade com WCAG 2.1 é opcional e não é
+reconhecida internacionalmente como um padrão de
+acessibilidade.
+(D) WCAG 2.1 introduz novos critérios de sucesso, ampliando a
+abordagem do WCAG 2.0 para incluir considerações sobre
+dispositivos móveis e usuários com deficiências cognitivas.
+(E) O padrão WCAG 2.1 sugere que a semântica do HTML seja
+ignorada em favor de soluções baseadas em JavaScript para
+melhorar a acessibilidade.
+35
+No contexto das práticas de design de UX e UI, assinale a opção
+que apresenta corretamente uma justificativa para a utilização
+dos Mapas de Calor (Heatmaps).
+(A) Garantem que o contraste entre texto e fundo seja suficiente
+em todas as partes do site ou do aplicativo.
+(B) Otimizam a carga de trabalho dos servidores, assegurando
+que o site ou o aplicativo tenha um desempenho melhor.
+(C) Obtêm insights visuais sobre como os usuários interagem
+com diferentes áreas da interface, identificando pontos de
+alto e baixo engajamento.
+(D) Providenciam descrições textuais detalhadas para todos os
+elementos visuais, incluindo imagens e vídeos.
+(E) Garantem uma navegação intuitiva e acessível, assegurando
+que todos os elementos de interface estejam ao alcance de
+usuários com diversas capacidades.
+36
+No contexto dos métodos e técnicas de aprendizado de máquina,
+assinale a afirmativa incorreta.
+(A) O algoritmo K-Means é uma técnica de aprendizado não
+supervisionado usada para clustering.
+(B) A Análise de Componentes Principais (PCA) é um método de
+redução de dimensionalidade.
+(C) SVM (Support Vector Machine) é um algoritmo de
+aprendizado de máquina usado para classificação e
+regressão.
+(D) Random Forest é um algoritmo de aprendizado profundo,
+amplamente utilizado em reconhecimento de fala.
+(E) A Regressão Logística é comumente usada para problemas de
+classificação binária.
+Analista Legislativo - Informática Legislativa
+37
+Joselito é um desenvolvedor especializado em inteligência
+artificial e trabalha para uma renomada indústria.
+Recentemente, ele finalizou o treinamento de um modelo de
+visão computacional, cujo objetivo é identificar se os
+colaboradores estão utilizando capacetes enquanto circulam pelo
+chão de fábrica, visando a assegurar o cumprimento das normas
+de segurança. Durante a apresentação do projeto para a equipe
+de liderança, o modelo demonstrou alta acurácia na maioria das
+situações.
+Entretanto, houve um padrão atípico de erro: o chefe de Joselito,
+que é calvo, foi consistentemente identificado pelo modelo como
+estando de capacete, ainda que estivesse sem capacete.
+Com base nessas informações, assinale a opção que indica a
+causa mais provável do comportamento anômalo observado no
+modelo de Joselito.
+(A) O modelo foi treinado com um conjunto de dados
+desbalanceado tendo muito mais exemplos de pessoas
+usando capacetes do que sem.
+(B) O chefe de Joselito tem características faciais únicas que o
+modelo não conseguiu aprender corretamente durante o
+treinamento.
+(C) O modelo está superajustado (overfitting), capturando
+detalhes muito específicos do conjunto de treinamento que
+não generalizam bem para dados não vistos.
+(D) O conjunto de dados de treinamento não tinha uma
+quantidade balanceada de pessoas calvas sem utilizar o
+capacete, fazendo o modelo associar erroneamente a calvície
+com o uso de capacete.
+(E) A resolução da câmera utilizada durante a demonstração era
+significativamente inferior à usada para coletar imagens do
+conjunto de dados de treinamento, levando o modelo a
+interpretar incorretamente características faciais.
+38
+A evolução das redes neurais impulsionou significativamente o
+avanço da inteligência artificial, resultando em arquiteturas
+inovadoras.
+Entre elas, uma se sobressai por sua habilidade em gerenciar
+sequências de tamanho variável, eficiência em treinamentos com
+grandes volumes de dados e pela implementação do mecanismo
+de atenção, o que possibilita uma análise ponderada e dinâmica
+das entradas.
+Essa arquitetura é denominada
+(A) Transformer.
+(B) Rede Neural Convolucional (CNN).
+(C) Perceptron Multicamadas (MLP).
+(D) Rede Neural Recorrente (RNN).
+(E) Rede Neural de Memória Longa de Curto Prazo (LSTM).
+
+Tipo Branca – Página 8
+
+Câmara dos Deputados – Concurso Público 2023
+39
+Considere um modelo de classificação que produziu os seguintes
+resultados:
+Verdadeiros Positivos (VP): 80
+Falsos Negativos (FN): 20
+Verdadeiros Negativos (VN):70
+Falsos Positivos (FP): 30
+Com base nessas informações, a revocação (recall) do modelo
+será, aproximadamente,
+(A) 0,72.
+(B) 0,76.
+(C) 0,79.
+(D) 0,80.
+(E) 0,89.
+40
+As funções de ativação são amplamente utilizadas em redes
+neurais para regular a ativação de neurônios artificiais.
+Considere a função matemática dada por
+1
+1 + 𝑒 −𝑥
+𝑓(𝑥) =
+Assinale a opção que indica a função de ativação representada
+por essa fórmula.
+(A) Tangente Hiperbólica (Tanh).
+(B) Unidade Linear Retificada (ReLU).
+(C) Sigmoide.
+(D) Softmax.
+(E) Unidade Linear Retificada com Vazamento (Leaky ReLU).
+41
+Considere o código em Python que utiliza a biblioteca NLTK
+(Natural Language Toolkit) a seguir.
+import nltk
+from nltk.tokenize import word_tokenize
+nltk.download('punkt')
+texto = "Processamento de Linguagem Natural é uma área
+da inteligência artificial que lida com a interação
+entre computadores e linguagem humana."
+tokens = word_tokenize(texto)
+print(tokens)
+Assinale a opção que corresponde ao propósito do código
+apresentado.
+(A) Realizar a tradução automática de um texto de um idioma
+para outro.
+(B) Analisar a estrutura gramatical de um texto.
+(C) Extrair informações relevantes de um texto, como entidades
+nomeadas.
+(D) Sintetizar um texto a partir de um conjunto de palavras-
+chave.
+(E) Realizar a tokenização do texto, ou seja, dividir o texto em
+palavras ou unidades significativas.
+Analista Legislativo - Informática Legislativa
+42
+Considere o trecho de código em Python a seguir, que define uma
+rede neural usando TensorFlow e Keras.
+import tensorflow as tf
+from tensorflow.keras import layers, models
+modelo = models.Sequential()
+modelo.add(layers.Conv2D(32, (3, 3),
+activation='relu', input_shape=(64, 64, 3)))
+modelo.add(layers.MaxPooling2D((2, 2)))
+modelo.add(layers.Conv2D(64, (3, 3),
+activation='relu'))
+modelo.add(layers.MaxPooling2D((2, 2)))
+modelo.add(layers.Conv2D(64, (3, 3),
+activation='relu'))
+modelo.add(layers.Flatten())
+modelo.add(layers.Dense(64, activation='relu'))
+modelo.add(layers.Dense(10, activation='softmax'))
+Com base no código apresentado, assinale a afirmativa incorreta.
+(A) A rede neural definida no código é do tipo convolucional
+(CNN).
+(B) O código define uma arquitetura de rede neural para realizar
+classificação de imagens em duas classes.
+(C) A entrada para a rede deve ser uma imagem de dimensões 64
+x 64 pixels com 3 canais de cor.
+(D) A camada de saída da rede possui 10 unidades e utiliza a
+função de ativação softmax.
+(E) Todas as camadas convolucionais utilizam filtros de tamanho
+3 x 3 e função de ativação ReLU.
+
+Tipo Branca – Página 9
+
+Câmara dos Deputados – Concurso Público 2023
+43
+Analista Legislativo - Informática Legislativa
+
+Tipo Branca – Página 10
+Semáforos são variáveis protegidas, comumente utilizadas em programação multithread para controlar o acesso a recursos
+compartilhados. Analise o código a seguir em linguagem de programação Java.
+Ao executar esse programa em um terminal, em condições normais e sem a ocorrência de exceções, será escrito na saída padrão:
+(A) 11221100
+(B) 11102122
+(C) 22112211
+(D) 21100112
+(E) 10112221
+
+Câmara dos Deputados – Concurso Público 2023
+Arquitetura de Infraestrutura de
+Tecnologia da Informação e
+Comunicação
+44
+Assinale a opção que apresenta a sintaxe correta do comando
+Power Shell que exibe o valor do parâmetro WindowsProductId
+no Windows 10.
+(A) Get-ComputerInfo | -filter "*ProductId*"
+(B) Get-ComputerInfo | Out-String | include Product
+(C) Get-ComputerInfo include "Product"
+(D) Get-ComputerInfo -Property WindowsProductId
+(E) Get-ComputerInfo Where-Object "*WindosProductId*"
+45
+No contexto de script Bash, considere os comandos a seguir num
+ambiente Linux like operando com as configurações usuais.
+1.
+echo "Texto de exemplo 1." > saida1.txt
+2.
+echo "Texto de exemplo 2." >> saida2.txt
+Sobre esses comandos, é correto afirmar que
+(A) o primeiro falha quando o arquivo saida1.txt já existe.
+(B) o segundo falha quando o arquivo saida2.txt já existe.
+(C) o segundo falha quando o arquivo saida2.txt não existe.
+(D) os dois são funcionalmente equivalentes em qualquer
+circunstância.
+(E) os dois são funcionalmente equivalentes quando o arquivo
+saida2.txt não existe.
+46
+No contexto de uma instalação do MS SQL Server, a configuração
+inicial do server collation (Agrupamento do servidor, em
+português), analise as afirmativas a seguir.
+I. Não é possível criar bancos de dados com um valor do
+parâmetro Agrupamento diferente daquele adotado na
+instalação do SQL Server.
+II. A escolha do Agrupamento pode ter impacto nas
+comparações entre strings em comandos SQL.
+III. A escolha do Agrupamento não tem impacto na ordenação
+(order by) em comandos SQL.
+Está correto o que se afirma em
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+47
+Numa instalação de bancos de dados Oracle, as tabelas do tipo
+Index-Organized permitem
+(A) a participação num grupo de tabelas (table cluster).
+(B) a supressão da cláusula primary key.
+(C) o acesso às linhas da tabela em certa ordem num full scan.
+(D) o uso de colunas do tipo long.
+(E) o uso de colunas virtuais (virtual columns).
+Analista Legislativo - Informática Legislativa
+48
+No contexto das interações com o sistema operacional Windows,
+João recebeu a incumbência de escrever um script Python que,
+quando executado, deve produzir uma resposta como a que
+segue, não necessariamente na mesma ordem.
+C:\TESTE
+figuras
+figuraUm.jpg
+TESTE.HTML
+testePythonScript.py
+João considerou três versões do script:
+import os
+print (os.getcwd())
+path = os.getcwd()
+z = os.listdir(path)
+for x in z:
+print (x)
+I.
+import os
+path = os.chdir(os.getcwd())
+print (path)
+for x in range(1,len(os.listdir(path)),1):
+print (x)
+II.
+import os
+print (os.getcwd() + "\n" + "\n".join(os.listdir()))
+III.
+Dado que a pasta corrente durante a execução, C:\TESTE,
+contém, além de três arquivos, uma subpasta e um arquivo
+contendo o código escolhido por João, assinale a opção que
+indica os scripts que produziriam a resposta desejada.
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+49
+Uma das características da utilização de bancos de dados NoSQL
+é a escalabilidade horizontal, oferecida por meio da
+fragmentação entre servidores (nós). Nesse cenário de
+distribuição, contudo, é importante analisar os modelos de
+coerência (consistency) oferecidos em cada implementação.
+Assinale a premissa fundamental do nível de coerência forte em
+um cenário de particionamento de dados em um network.
+(A) Toda operação de read recebe o valor mais recentemente
+gravado no network, ou um erro.
+(B) Toda operação de read recebe o valor mais recentemente
+gravado no nó de origem da requisição.
+(C) Toda operação de read recebe o valor mais recentemente
+gravado no nó central do network.
+(D) Toda operação de write é disseminada para todos os nós do
+network.
+(E) Toda operação de write é replicada no nó central do network.
+
+Tipo Branca – Página 11
+
+Câmara dos Deputados – Concurso Público 2023
+50
+Considere uma tabela relacional TT, com uma única coluna, N,
+que deveria conter números inteiros positivos, sem repetição,
+correspondentes a um conjunto de potências de 2, calculadas a
+partir de um expoente inteiro x, que vai sendo incrementado
+continuamente, de 1 em 1, como a seguir.
+2, 4, 8, 16, 32, 64, 128, 256, 512, 1024
+Entretanto, há falhas na sequência natural das potências, e é
+preciso descobrir as que estão ausentes na numeração. Por
+exemplo, se a coluna N contivesse apenas os números
+4, 16, 32, 256, 1024
+os intervalos de potências ausentes seriam o que seguem.
+3-3
+6-7
+9-9
+x
+Assumindo que a função log(N, 2) retorna x, tal que 2 = N,
+assinale o comando SQL que produz esses intervalos para
+qualquer instância da tabela TT construída nesses moldes.
+select log(t1.N + 1,2), log(t2.N -1, 2)
+from TT t1, TT t2
+where log(t1.N, 2) + 1 < log(t2.N, 2)
+and not exists
+(select * from TT tt
+where t1.N < tt.N
+and t2.N > tt.N)
+order by 1
+(A)
+select log(t1.N,2) +1, log(t2.N, 2) -1
+from TT t1, TT t2
+where log(t1.N, 2) + 1 < log(t2.N, 2)
+and exists
+(select * from TT tt
+where t1.N > tt.N
+and t2.N < tt.N)
+order by 1
+(B)
+select log(t1.N,2), log(t2.N, 2) -1
+from TT t1, TT t2
+where log(t1.N, 2) + 1 < log(t2.N, 2)
+and not exists
+(select * from TT tt
+where t1.N < tt.N
+and t2.N > tt.N)
+order by 1
+(C)
+select log(t1.N,2) +1, log(t2.N, 2)
+from TT t1, TT t2
+where t1.N < t2.N - 1
+and exists
+(select * from TT tt
+where t2.N > tt.N
+and t1.N < tt.N)
+order by 1
+(D)
+select log(t1.N,2) +1, log(t2.N, 2) -1
+from TT t1, TT t2
+where log(t1.N, 2) + 1 < log(t2.N, 2)
+and not exists
+(select * from TT tt
+where t1.N < tt.N
+and t2.N > tt.N)
+order by 1
+(E)
+Analista Legislativo - Informática Legislativa
+51
+Sobre as tecnologias de storage comumente utilizadas pelas
+organizações, assinale a afirmativa correta.
+(A) DAS é diretamente conectado à rede local.
+(B) NAS possui sistema operacional próprio.
+(C) SAN utiliza exclusivamente unidades de estado sólido.
+(D) DAS e NAS utilizam armazenamento em bloco.
+(E) NAS e SAN precisam estar conectados ao servidor host.
+52
+Aline, diretora de TI de uma empresa, precisa implementar uma
+estratégia para retenção mais longa possível das cópias de
+segurança de um ambiente e com um número limitado de três
+conjuntos de mídias de backup.
+Para isso, ela escolheu uma estratégia de rotação de modo que o
+primeiro conjunto de mídia é usado em dias alternados iniciando
+no primeiro dia, o segundo conjunto é usado no 2º e 6º dias e, o
+terceiro conjunto é usado no 4º e 8º dias. A partir do 9º dia este
+ciclo se repete.
+A estratégia de backup utilizada por Aline chama-se
+(A) fifo.
+(B) gfs.
+(C) rpo.
+(D) round robin.
+(E) torre de Hanoi.
+53
+O movimento DevOps introduziu princípios e práticas para
+desenvolver software com qualidade de forma mais rápida e
+confiável.
+Assinale a opção que indica um princípio central do movimento
+DevOps.
+(A) As equipes de desenvolvimento e de operações devem
+trabalhar em silos independentes.
+(B) Crie um processo adaptativo, flexível e irrepetível para
+entrega contínua de software.
+(C) Mantenha tudo o que é necessário para criar, testar,
+implantar e lançar o software em um sistema de controle de
+versões.
+(D) A integração é uma atividade laboriosa e deve ser adiada até
+o início da etapa de testes funcionais.
+(E) Evite automatizar testes porque eles deterioram com o
+tempo e é mais fácil fazê-los manualmente.
+54
+Marcos trabalha em uma equipe de desenvolvimento de software
+que utiliza o Git como plataforma de gestão de configuração.
+Um membro da equipe, no entanto, fez um commit que
+introduziu, de maneira não intencional, um código com
+comportamento errático.
+Assinale a opção que indica o comando do Git que Marcos
+utilizou para fazer uma pesquisa binária para descobrir qual
+commit, no histórico do seu projeto, introduziu esse problema.
+(A) bisect.
+(B) fetch.
+(C) find.
+(D) locate.
+(E) rebase.
+
+Tipo Branca – Página 12
+
+Câmara dos Deputados – Concurso Público 2023
+55
+Kubernetes é uma plataforma open-source de orquestração de
+contêineres.
+Sobre esta plataforma, assinale a afirmativa correta.
+(A) Executa cargas de trabalho colocando pods em contêineres
+para execução em nodes.
+(B) Nodes são as menores unidades de computação implantáveis
+que é possível criar e gerenciar no Kubernetes.
+(C) Uma imagem de contêiner é um pacote de software leve sem
+as dependências necessárias para executar o aplicativo.
+(D) Um node pode ser uma máquina virtual ou física e contém os
+serviços necessários para executar os pods.
+(E) A execução de um contêiner é decomposta em um grupo de
+um ou mais kubelets com armazenamento efêmero.
+56
+Para configurar o servidor web NGINX para balancear a carga do
+tráfego HTTP entre um grupo de servidores, é necessário definir
+este grupo por meio da diretiva
+(A) alias.
+(B) upstream.
+(C) servers.
+(D) sticky.
+(E) balance.
+57
+A Kibana Query Language (KQL) é uma linguagem de consulta
+simples baseada em texto para filtrar dados.
+De acordo com essa linguagem, para encontrar os documentos
+que possuem um campo http.request.method com valor
+diferente de GET, deve ser utilizada a seguinte sintaxe:
+(A) NOT http.request.method: GET
+(B) http.request.method <> 'GET'
+(C) http.request.method != GET
+(D) ! http.request.method: GET
+(E) http.request.method NOT “GET”
+Analista Legislativo - Informática Legislativa
+58
+Associe as ferramentas listadas a seguir aos seus principais usos
+ou características.
+( ) Ferramenta de automação que permite a
+integração contínua e a entrega contínua
+de projetos, ajudando as equipes de
+desenvolvimento a automatizar partes do
+processo de desenvolvimento de software.
+( ) Ferramenta que utiliza um modelo
+declarativo para ajudar na automação de
+configurações
+de
+infraestrutura,
+garantindo que os sistemas estejam no
+estado desejado.
+1. Puppet
+2. Jenkins
+3. Ansible
+( ) Ferramenta de
+gerenciamento
+de
+configuração e automação de TI que utiliza
+YAML para definir as configurações e
+procedimentos, não necessitando de um
+agente instalado nas máquinas-alvo.
+Assinale a opção que indica a relação correta, na ordem
+apresentada.
+(A) 1 – 3 – 2.
+(B) 1 – 2 – 3.
+(C) 2 – 3 – 1.
+(D) 2 – 1 – 3.
+(E) 3 – 2 – 1.
+59
+Considere um trecho de um playbook do Ansible com o seguinte
+código:
+tasks:
+- name: Instala o Apache
+apt:
+name: apache2
+state: present
+- name: Inicia o serviço do Apache
+service:
+name: apache2
+state: ____
+enabled: yes
+O administrador deseja garantir que o serviço do Apache esteja
+em execução e configurado para iniciar automaticamente no
+boot.
+O parâmetro a ser adicionado na lacuna apontada pela seta no
+campo state é:
+(A) ‘stopped’
+(B) ‘started’
+(C) ´restarted´
+(D) ´reloaded´
+(E) ´enabled´
+60
+Considere uma sub-rede IPv4 - 192.168.10.24/29.
+Nesse caso, é correto afirmar que
+(A) a máscara de sub-rede é 255.255.255.224.
+(B) o endereço de broadcast desta sub-rede é 192.168.10.32.
+(C) o endereço 192.168.10.29 é o endereço de rede.
+(D) esta sub-rede permite até 6 endereços IP válidos para hosts.
+(E) o endereço 192.168.10.31 pode ser atribuído a um host.
+
+Tipo Branca – Página 13
+
+Câmara dos Deputados – Concurso Público 2023
+61
+No contexto das Redes sem Fio (wireless), assinale a afirmativa
+incorreta.
+(A) BLE (Bluetooth Low Energy) é uma versão do Bluetooth
+otimizada para baixo consumo de energia.
+(B) Wi-Fi 6, também conhecido como 802.11ax, é a mais recente
+geração de tecnologia Wi-Fi que oferece melhor desempenho
+em comparação com o Wi-Fi 5 (802.11ac).
+(C) ZigBee é uma tecnologia utilizada principalmente para
+automação residencial e industrial, com baixo consumo de
+energia e operando na faixa ISM (Industrial, Scientific, and
+Medical).
+(D) LoRA é uma tecnologia de longo alcance que utiliza uma
+modulação especial para permitir comunicações a longas
+distâncias, sendo adequada para aplicações de Internet das
+Coisas (IoT).
+(E) NFC (Near Field Communication) é uma tecnologia de
+comunicação de curto alcance usada exclusivamente em
+transações financeiras.
+62
+Em relação às Redes Definidas por Software (SDN – Software
+Defined Networking), assinale a afirmativa correta.
+(A) A SDN separa o plano de controle do plano de dados,
+permitindo que o roteamento e a comutação sejam
+gerenciados de forma centralizada.
+(B) Em uma arquitetura SDN, os dispositivos de rede, como
+switches e roteadores, são responsáveis por tomar decisões
+de encaminhamento com base em políticas e regras locais.
+(C) Em uma arquitetura SDN, o plano de controle e o plano de
+dados são fortemente acoplados, operando sempre no
+mesmo dispositivo de rede, como switches e roteadores.
+(D) O OpenFlow é um protocolo amplamente utilizado para
+comunicação entre os planos de controle e de dados em uma
+arquitetura SDN, mas não permite a programação de
+dispositivos de rede.
+(E) Em uma arquitetura SDN, o plano de dados é responsável
+pela tomada de decisões relacionadas ao roteamento e
+encaminhamento de pacotes, enquanto o plano de controle
+desempenha um papel passivo.
+63
+No contexto de padrões e normativas para sistemas de
+cabeamento estruturado e infraestrutura de redes, assinale a
+afirmativa correta.
+(A) O padrão TIA/EIA-568-A é exclusivamente empregado na
+confecção de cabos crossover, ao passo que o padrão
+TIA/EIA-568-B é restrito à criação de cabos diretos.
+(B) A adoção de padrões distintos em cada extremidade do cabo
+resulta na formação de um cabo direto.
+(C) Cabos criados com o padrão TIA/EIA 568A em uma
+extremidade e, TIA/EIA 568B, na outra, são conhecidos como
+cabos crossover.
+(D) As duas normas são totalmente incompatíveis entre si, e a
+utilização de uma em uma extremidade do cabo e a outra na
+extremidade oposta resultará em falha de comunicação em
+todos os casos.
+(E) A norma TIA/EIA-568-A é exclusivamente adotada na Europa,
+enquanto a norma TIA/EIA-568-B é licenciada para uso no
+território brasileiro.
+Analista Legislativo - Informática Legislativa
+64
+No contexto do Microsoft Active Directory, as ferramentas
+“Resultant Set of Policy” (RSoP) e “gpresult” são utilizadas para
+(A) criar e aplicar novas Group Policies Objects (GPOs).
+(B) diagnosticar e identificar problemas na aplicação de GPOs.
+(C) reiniciar os serviços do Active Directory.
+(D) criar e gerenciar contas de usuário e grupos de segurança.
+(E) realizar backups regulares das configurações do Active
+Directory e dos dados dos usuários.
+Segurança Cibernética e da Informação
+65
+No contexto da criptografia simétrica e assimétrica, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a
+falsa.
+( ) A criptografia assimétrica utiliza um par de chaves: uma
+chave pública e uma chave privada.
+( ) O protocolo TLS usa uma combinação de criptografia
+simétrica e assimétrica para fornecer confidencialidade,
+integridade e autenticidade nas comunicações pela Internet.
+( ) A criptografia assimétrica é geralmente mais rápida que a
+criptografia simétrica, sendo frequentemente utilizada para
+cifrar grandes volumes de dados.
+As afirmativas são, respectivamente,
+(A) F – V – F.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+(E) F – F – V.
+66
+Analise as seguintes afirmações relacionadas às soluções para
+Segurança da Informação:
+I. O Firewall é uma solução de segurança projetada para
+monitorar e filtrar o tráfego de rede, permitindo ou
+bloqueando a comunicação com base em um conjunto de
+regras de segurança.
+II. Sistemas de Prevenção de Intrusão (Intrusion Prevention
+System ou IPS) são capazes de detectar atividades suspeitas
+ou maliciosas na rede, mas necessitam de intervenção
+humana para bloquear o tráfego suspeito.
+III. Sistemas de Detecção de Intrusão (IDS) têm como principal
+função prevenir atividades maliciosas na rede, bloqueando
+automaticamente o tráfego suspeito.
+IV. Um Security Information and Event Management (SIEM)
+consolida logs e eventos de diversas fontes, proporcionando
+análise e correlação para identificar comportamentos
+anormais.
+Está correto apenas o que se afirma em
+(A) I e II.
+(B) I, II e III.
+(C) II e IV.
+(D) I, III e IV.
+(E) I e IV.
+
+Tipo Branca – Página 14
+
+Câmara dos Deputados – Concurso Público 2023
+67
+No contexto da gestão de riscos em segurança da informação e
+avaliação de segurança de produtos de TI, a ISO/IEC 27005 e a
+ISO/IEC 15408 são normas internacionalmente reconhecidas.
+Em relação ao tema, analise as afirmativas a seguir e assinale
+(V) para a verdadeira e (F) para a falsa.
+( ) A ISO/IEC 27005 é uma norma que fornece diretrizes para o
+processo de gestão de riscos em segurança da informação,
+incluindo a identificação, análise e tratamento de riscos.
+( ) A ISO/IEC 15408, também conhecida como Critérios Comuns
+(Common Criteria), é uma norma que estabelece um
+framework para a avaliação da segurança de produtos de
+software, mas não inclui hardware em seu escopo.
+( ) Ambas as normas, ISO/IEC 27005 e ISO/IEC 15408, fornecem
+critérios específicos para a certificação de produtos e serviços
+em segurança da informação.
+As afirmativas são, respectivamente,
+(A) V – F – F.
+(B) V – V – F.
+(C) F – V – F.
+(D) F – V – V.
+(E) F – F – V.
+68
+Os frameworks de segurança da informação e segurança
+cibernética são ferramentas cruciais para orientar as
+organizações na proteção de seus ativos digitais. Eles oferecem
+uma estrutura padronizada para identificar, prevenir e responder
+a ameaças cibernéticas.
+Nesse contexto, relacione os frameworks a seguir aos seus
+respectivos propósitos:
+( ) É uma base de conhecimento que
+lista
+táticas,
+técnicas
+e
+procedimentos (TTPs) usados por
+atacantes cibernéticos.
+1. MITRE ATT&CK
+( ) É composto por cinco funções
+principais: Identificar, Proteger,
+Detectar,
+Responder
+e
+Recuperar.
+2. CyBOK
+3. NIST Cybersecurity
+( ) Fornece práticas recomendadas e
+diretrizes
+específicas
+para
+implementar
+controles
+de
+segurança em uma organização.
+Assinale a opção que indica a relação correta, na ordem
+apresentada.
+(A) 1 – 2 – 3.
+(B) 1 – 3 – 2.
+(C) 2 – 1 – 3.
+(D) 2 – 3 – 1.
+(E) 3 – 2 – 1.
+Analista Legislativo - Informática Legislativa
+69
+A Injeção de SQL, ou SQL Injection, está entre as vulnerabilidades
+mais críticas em aplicações Web.
+De acordo com a OWASP, a melhor maneira de prevenir essa
+vulnerabilidade é
+(A) utilizar uma política de senha forte.
+(B) desativar mensagens de erro detalhadas.
+(C) usar um firewall de aplicativo web (WAF).
+(D) usar consultas parametrizadas ou Prepared Statements.
+(E) restringir o acesso à base de dados apenas ao IP do servidor.
+70
+Joana é a CISO de uma grande empresa e está avaliando a
+implementação de um sistema MFA (Múltiplos Fatores de
+Autenticação) robusto. Ela deseja garantir que os usuários sejam
+autenticados por meio de algo que saibam, algo que tenham e
+algo que sejam, respectivamente.
+A seguinte combinação de métodos de autenticação atenderia às
+necessidades de Joana:
+(A) senha, token de hardware e reconhecimento facial.
+(B) impressão digital, cartão inteligente e pergunta de segurança.
+(C) token OTP por SMS, impressão digital e senha.
+(D) senha, localização geográfica e reconhecimento de voz.
+(E) pergunta de segurança, token de software e biometria de
+retina.
+
+Tipo Branca – Página 15
+
+Realização

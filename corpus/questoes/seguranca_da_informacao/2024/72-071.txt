@@ -1,0 +1,18 @@
+ID: 72-071
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A organização da ICP-Brasil é constituída por várias entidades com atribuições específicas no processo de geração de certificados digitais. Periodicamente é emitida uma Lista de Certificados Revogados (LCR), os quais não podem ser utilizados para assinatura pelos responsáveis enquanto permanecerem na LCR. A entidade responsável por emitir e assinar digitalmente a LCR é o(a):
+
+[ALTERNATIVAS]
+(A) Autoridade de Registro;
+(B) Autoridade Certificadora do Tempo;
+(C) Prestador de Serviço Biométrico;
+(D) Comitê Gestor da ICP-Brasil;
+(E) Autoridade Certificadora.
+
+[GABARITO]
+E

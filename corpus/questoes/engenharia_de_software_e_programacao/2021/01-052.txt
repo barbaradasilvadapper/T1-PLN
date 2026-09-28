@@ -1,0 +1,18 @@
+ID: 01-052
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o quadro comparativo a seguir, publicado em sites ligados ao estudo e à investigação de diferentes estratégias/metodologias para implementar um sistema ágil de desenvolvimento ou gestão de projetos. Aspectos X Y Ritmo Sprints Fluxo contínuo Funções definidas bem Sem necessárias funções Funções Entregas Final de cada sprint Entrega contínua Mudanças Evitar durante sprint A qualquer momento É correto identificar que X e Y representam, respectivamente:
+
+[ALTERNATIVAS]
+(A) Crystal e Scrum;
+(B) Extreme Programming e Crystal;
+(C) Kanban e Lean;
+(D) Lean e Extreme Programming;
+(E) Scrum e Kanban.
+
+[GABARITO]
+E

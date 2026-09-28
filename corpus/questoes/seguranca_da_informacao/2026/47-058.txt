@@ -1,0 +1,18 @@
+ID: 47-058
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+As funções de resumo criptográfico, conhecidas como hashes, são ferramentas fundamentais para garantir a integridade de arquivos e o armazenamento seguro de credenciais. O hashing gera uma "impressão digital" única de um dado original, sendo amplamente aplicado em verificações de autenticidade e em sistemas de autenticação modernos. Sobre os principais algoritmos e mecanismos de hash, assinale a
+
+[ALTERNATIVAS]
+(A) O SHA-1 é a variante do mecanismo SHA que tem a mais baixa resistência à colisão, o que significa que é impossível que dois arquivos diferentes gerem o mesmo hash.
+(B) O HMAC (Hash-based Message Authentication Code) é um tipo de hash simples que dispensa o uso de chaves secretas, servindo apenas para verificar se um arquivo foi corrompido durante o download via HTTP.
+(C) O algoritmo bcrypt foi especificamente projetado para o armazenamento de senhas, pois incorpora um recurso de salt e possui um fator de custo ajustável que o torna resistente a ataques de força bruta e rainbow tables.
+(D) O SHA-3 foi a primeira variante SHA a empregar hashing triplo, tendo sido utilizado no protocolo SSL, mas acabou descontinuado devido às vulnerabilidades encontradas com o crescimento da capacidade das CPUs.
+(E) O SHA-256 é considerado uma função criptográfica reversível, permitindo que o administrador de um banco de dados recupere a senha original de um usuário caso este a esqueça, sendo empregado também em protocolos TLS.
+
+[GABARITO]
+C

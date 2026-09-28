@@ -1,0 +1,18 @@
+ID: 34-061
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa de logística recebeu o bloco de endereços 172.30.0.0/18 para estruturar sua rede corporativa. O administrador precisa criar 32 sub-redes de tamanhos iguais para diferentes centros de distribuição. Após realizar o subnetting apropriado, o número de hosts válidos em cada sub-rede será
+
+[ALTERNATIVAS]
+(A) 510.
+(B) 1022.
+(C) 2046.
+(D) 254.
+(E) 126.
+
+[GABARITO]
+A

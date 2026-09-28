@@ -1,0 +1,18 @@
+ID: 56-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista José está diante de um sistema operacional hipotético que implementa um modelo avançado de gerenciamento de processos. Esse modelo define cinco estados distintos pelos quais um processo pode passar durante seu ciclo de vida, além de incorporar mecanismos sofisticados para o escalonamento e a comunicação entre processos. Considerando esse cenário, José precisa resolver um problema complexo de deadlock que ocorreu devido a uma sequência específica de transições de estado e solicitações de recursos entre quatro processos distintos. Para entender e resolver esse problema, é fundamental que o analista compreenda os conceitos e estados de processo no contexto dos sistemas operacionais. Para resolver o problema de deadlock, a sequência dos estados de processo e os conceitos que o analista José deve considerar são:
+
+[ALTERNATIVAS]
+(A) criação (o processo é criado), pronto (aguarda pela alocação do processador), executando (o processo está sendo executado pelo processador), espera/bloqueado (o processo espera por algum evento ou recurso), terminado (o processo conclui sua execução). Deadlocks ocorrem quando processos em estado de espera/bloqueado mantêm recursos que outros processos estão tentando acessar, enquanto simultaneamente tentam acessar recursos mantidos por outros processos, criando um ciclo de dependência sem resolução;
+(B) executando (o processo está sendo executado pelo processador), pronto (aguarda pela alocação do processador), espera/bloqueado (o processo espera por algum evento ou recurso), criação (o processo é criado), terminado (o processo conclui sua execução). Deadlocks são resolvidos automaticamente pelo sistema operacional através de preempção regular dos processos;
+(C) pronto (aguarda pela alocação do processador), executando (o processo está sendo executado pelo processador), criação (o processo é criado), terminado (o processo conclui sua execução), espera/bloqueado (o processo espera por algum evento ou recurso). Deadlocks não são problemáticos em sistemas que implementam algoritmos de escalonamento baseados em prioridades;
+(D) espera/bloqueado (o processo espera por algum evento ou recurso), pronto (aguarda pela alocação do processador), executando (o processo está sendo executado pelo processador), criação (o processo é criado), terminado (o processo conclui sua execução). A detecção de deadlocks requer que o sistema operacional monitore o grafo de alocação de recursos para identificar ciclos de dependência;
+(E) terminado (o processo conclui sua execução), espera/bloqueado (o processo espera por algum evento ou recurso), pronto (aguarda pela alocação do processador), executando (o processo está sendo executado pelo processador), criação (o processo é criado). Em sistemas operacionais modernos, mecanismos de comunicação entre processos, como semáforos e monitores, são utilizados para prevenir e resolver deadlocks.
+
+[GABARITO]
+A

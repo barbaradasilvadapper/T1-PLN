@@ -1,0 +1,18 @@
+ID: 92-043
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um endereço IPv6 é formado por oito grupos de quatro dígitos hexadecimais. Com base nessa informação, assinale a opção que indica a quantidade em bits de um endereço IPv6.
+
+[ALTERNATIVAS]
+(A) 128 bits
+(B) 256 bits
+(C) 32 bits
+(D) 64 bits
+(E) 16 bits
+
+[GABARITO]
+A

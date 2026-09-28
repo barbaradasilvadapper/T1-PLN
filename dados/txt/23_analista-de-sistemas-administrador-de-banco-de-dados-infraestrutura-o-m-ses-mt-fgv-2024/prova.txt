@@ -1,0 +1,1533 @@
+G OVERNO DO E STADO DE M ATO G ROSSO
+SUA PROVA
+ Além deste caderno contendo 80 (oitenta)
+questões objetivas você receberá do fiscal de
+prova o cartão de respostas;
+
+As questões objetivas têm 4 (quatro) opções de
+resposta (A, B, C, D) e somente uma delas está
+correta.
+
+TEMPO
+
+Você dispõe de 4 (quatro) horas para a
+realização da prova, já incluído o tempo para a
+marcação do cartão de respostas;
+
+2 (duas) horas e 30 (trinta) minutos após o
+início da prova, é possível retirar-se da sala, sem
+levar o caderno de questões;
+ A partir dos 30 (trinta) minutos anteriores ao
+término da prova é possível retirar-se da sala
+levando o caderno de questões.
+NÃO SERÁ PERMITIDO
+
+Qualquer tipo de comunicação entre
+candidatos durante a aplicação da prova;
+os
+
+Anotar informações relativas às respostas em
+qualquer outro meio que não seja o caderno de
+questões;
+
+Levantar da cadeira sem autorização do fiscal de
+sala;
+
+Usar o sanitário ao término da prova, após deixar
+a sala.
+S ECRETARIA DE E STADO DE S AÚDE
+C ONCURSO P ÚBLICO – EDITAL Nº 001
+T ARDE
+A NALISTA DE S ISTEMAS
+T IPO 1 – BRANCA
+INFORMAÇÕES GERAIS
+
+Verifique se seu caderno de questões está completo,
+sem repetição de questões ou falhas. Caso contrário,
+notifique imediatamente o fiscal da sala, para
+que sejam tomadas as devidas providências;
+
+Confira seus dados pessoais, especialmente nome,
+número de inscrição e documento de identidade e leia
+atentamente as instruções para preencher o cartão de
+respostas;
+
+Para o preenchimento do cartão de respostas, use
+somente caneta esferográfica, fabricada em material
+transparente, com tinta preta ou azul;
+
+Assine seu nome apenas no(s) espaço(s) reservado(s)
+no cartão de respostas;
+
+Confira seu cargo, cor e tipo do caderno de questões.
+Caso tenha recebido caderno de cargo ou cor ou tipo
+diferente do impresso em seu cartão de respostas, o
+fiscal deve ser obrigatoriamente informado para o
+devido registro na ata da sala;
+
+Reserve tempo suficiente para o preenchimento do
+seu cartão de respostas. O preenchimento é de sua
+responsabilidade e não será permitida a troca do
+cartão de respostas em caso de erro cometido
+pelo candidato;
+
+Para fins de avaliação, serão levadas em consideração
+apenas as marcações realizadas no cartão de
+respostas;
+
+A FGV coletará as impressões digitais dos candidatos
+na lista de presença;
+
+Os candidatos serão submetidos ao sistema de
+detecção de metais quando do ingresso e da saída de
+sanitários durante a realização das provas.
+
+Boa sorte!
+A DMINISTRADOR DE B ANCO DE D ADOS ;
+I NFRAESTRUTURA ; O&M
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+C ONHECIMENTOS G ERAIS
+Língua Portuguesa
+1
+Leia o texto a seguir.
+Os homens não estão cientes do calor que emana de seu coração,
+embora ele dê vida e movimento a todas as outras partes do seu
+corpo. [...] O mesmo se dá com a vaidade: ela é tão natural para o
+homem que ele não a percebe. E, embora seja isso que dê, por
+assim dizer, vida e movimento à maioria dos seus pensamentos e
+desígnios, isso ocorre de um modo que é imperceptível para o
+sujeito. [...] Os homens não percebem que é a vaidade que dá
+ímpeto à maioria de suas ações.
+A respeito do significado ou da estruturação desse fragmento,
+assinale a afirmativa inadequada.
+(A) O comentário inicial sobre o calor do coração serve de ponto
+de comparação para o papel da vaidade.
+(B) A semelhança entre o calor do coração e a vaidade é que
+ambos são imperceptíveis para os homens.
+(C) Ao indicar a vaidade como fonte da maioria das ações
+humanas, o autor do texto as desvaloriza.
+(D) O homem deve tornar a vaidade uma força consciente para o
+seu progresso.
+2
+Leia o texto a seguir.
+Em seu coração, os homens desejam ser estimados, mas eles
+cuidadosamente ocultam esse desejo porque querem se passar
+por virtuosos e porque o desejo de receber da virtude qualquer
+vantagem além dela mesma não seria ser virtuoso, mas amar a
+estima e o elogio – ou seja, ser vaidoso. Os homens são muito
+vaidosos, mas não há nada que eles mais detestem do que serem
+considerados vaidosos.
+Assinale a afirmativa adequada ao seu significado ou à sua
+estruturação.
+(A) A discussão no texto opõe a essência (os homens serem
+vaidosos) à aparência (quererem passar por virtuosos).
+(B) A vaidade humana só não é vista como um defeito porque os
+homens fazem questão de ocultá-la.
+(C) Os homens têm o desejo de serem estimados, ou seja,
+pretendem alcançar a estima e o elogio, sem serem
+motivados pela vaidade.
+(D) O fato de serem considerados vaidosos faz com que a
+imagem pública dos homens cresça ao olhar dos outros.
+3
+Assinale a opção que apresenta a frase em que os dois termos
+sublinhados não são antônimos.
+(A) Juízes implacáveis são todos aqueles que antes foram réus.
+(B) O homem não teria alcançado o possível se, repetidas vezes,
+não tivesse tentado o impossível.
+(C) Você não será nada se quiser ser tudo.
+(D) Só tenho por seguro o que é incerto.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+4
+Analise a frase a seguir.
+É claro que a justiça, sendo cega, não vê se é vista, e então não
+cora. (Machado de Assis)
+As opções a seguir apresentam formas de reescrever a frase
+acima sem modificação do seu sentido original, à exceção de
+uma. Assinale-a.
+(A) É claro que a justiça, sendo cega, não cora, já que não vê se é
+vista.
+(B) Sendo cega, é claro que a justiça não vê se é vista, e então
+não cora.
+(C) É claro que, sendo cega, a justiça não vê se é vista, e então
+não cora.
+(D) É claro que a justiça não vê se é vista, e então, sendo cega,
+não cora.
+5
+Assinale a frase que não apresenta tom crítico.
+(A) Nenhum homem rico é feio, dizia uma grande atriz.
+(B) Mostre-me um herói e eu escreverei uma tragédia.
+(C) Não é bom que o homem esteja só.
+(D) Ele é a pessoa mais interessante que ele já conheceu.
+6
+Assinale a frase em que não está presente a construção de voz
+passiva com o pronome se.
+(A) O casamento é uma escola onde se aprende algo com o
+outro.
+(B) Alugou-se uma casa à beira-mar para as férias, mas os
+temporais acabaram com os sonhos.
+(C) Nunca se é demasiado velho para crescer.
+(D) Fazem-nos na época atual constituições para os povos como
+se fariam vestidos para as pessoas sem se lhes tomar as
+medidas.
+7
+Segundo o gramático Celso Cunha, os adjetivos mostram os
+seguintes valores: uma qualidade, uma característica, um estado
+ou uma relação.
+Assinale a opção que apresenta a frase em que o adjetivo
+sublinhado é classificado como adjetivo de relação.
+(A) As colônias não deixam de ser colônias pelo fato de serem
+independentes.
+(B) É necessário mudar muitas vezes de opinião para estar
+sempre de acordo com o seu partido político.
+(C) As leis ruins são a pior espécie de tirania.
+(D) Juízes implacáveis são aqueles que antes foram réus.8
+Nas frases a seguir há várias formas de adjetivos referentes aos
+substantivos sublinhados.
+Assinale a opção em que a forma de adjetivação está identificada
+inadequadamente.
+(A) Como todos os soldados, João também tinha cabelo curto. /
+adjetivo.
+(B) Apesar de pianista, o artista mostrava mãos grosseiras, rudes.
+/ locução.
+(C) O livro que o professor recomendara, esgotou rapidamente. /
+oração adjetiva.
+(D) José era considerado um cabeça-de-vento. / substantivo
+composto.
+
+TIPO BRANCA – PÁGINA 2
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+9
+Assinale a frase que não exemplifica o caso de um adjetivo com
+valor adverbial.
+(A) Comecei de cima e trabalhei duro até chegar embaixo.
+(B) Você não aprende a manter firme sua posição no mundo
+ficando de guarda, mas atacando e sendo atacado.
+(C) Por que com tão curta a vida organizamos tantos projetos?
+(D) Tão rápido foge a vida que toda sorte é boa, em tão breve
+jornada.
+10
+Assinale a frase em que as duas ocorrências do vocábulo
+destacado desempenham a mesma função sintática.
+(A) A coisa mais importante da vida é saber o que é importante.
+(B) A vida é feita de ilusões; entre essas ilusões, algumas
+triunfam.
+(C) Para que um grande sonho se torne realidade, você precisa
+primeiro de um grande sonho.
+(D) O planejamento familiar é um sonho que o pai de família
+traça para ter a ilusão do dinheiro que guarda.
+11
+Assinale a opção em que a modificação de uma forma reduzida
+de infinitivo foi adequadamente modificada para uma forma
+desenvolvida.
+(A) Novos ricos também pesquisam antes de comprar / antes de
+que comprem.
+(B) O divórcio foi uma chance dada ao meu casamento para eu
+errar outra vez. / para que eu erre outra vez.
+(C) Ao se divorciar, procurou ficar com os bens. / Quando se
+divorciasse.
+(D) O casamento parece inventado para recompensar os
+perversos. / para a recuperação dos perversos.
+12
+As frases a seguir são compostas de dois segmentos separadas
+por um sinal de pontuação.
+Assinale aquela em que essa pontuação foi inadequadamente
+substituída por um conectivo.
+(A) Não é a maioria que é silenciosa. O governo é que é surdo. /
+mas.
+(B) Não gosto de pensar que estou envelhecendo. Adoro a ideia
+de que nasci há muito tempo. / portanto.
+(C) O ilegal é o que fazemos imediatamente. O inconstitucional é
+o que exige um pouco mais de tempo. / enquanto.
+(D) Não pergunte a seus pais o que podem fazer por você. Eles
+podem fingir que não ouviram. / pois.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+Raciocínio Lógico Matemático
+13
+Considere a frase:
+Se você é cuiabano, então é mato-grossense.
+É logicamente equivalente à frase acima, a seguinte proposição:
+(A) Se você é mato-grossense, então é cuiabano.
+(B) Se você é cuiabano, então não é mato-grossense.
+(C) Se você não é mato-grossense, então não é cuiabano.
+(D) Se você não é cuiabano, então não é mato-grossense.
+14
+Em uma reunião de uma unidade hospitalar, estavam presentes
+8 servidores, sendo 6 médicos e 2 enfermeiros. Todos sentaram-
+se ao redor de uma mesa redonda.
+A quantidade de maneiras distintas que essa mesa pode ser
+organizada de forma que entre os dois enfermeiros tenha sempre
+três médicos é
+(A) 120.
+(B) 240.
+(C) 480.
+(D) 720.
+15
+Na malha quadriculada a seguir, formada por quadrados de lados
+medindo 1cm, estão representados os triângulos ABC e ACD.
+2
+A área do triângulo ABC, em cm , é igual a
+(A) 4,25.
+(B) 4,00.
+(C) 3,75.
+(D) 3,50.
+16
+Sobre números inteiros, racionais e reais, analise as afirmativas a
+seguir e assinale (V) para a verdadeira e (F) para a falsa.
+( ) Há mais números racionais que números inteiros.
+( ) A soma de dois números irracionais resulta sempre em um
+número irracional.
+( ) A dízima periódica 6,999... é igual ao número inteiro 7.
+As afirmativas são, respectivamente,
+(A) F – F – V.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+
+TIPO BRANCA – PÁGINA 3
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+17
+Os atendimentos realizados por 6 médicos de uma unidade
+hospitalar em determinado dia foram registrados. Porém, no fim
+da semana, percebeu-se que a informação dos atendimentos
+realizados por um desses médicos foi perdida, conforme a lista
+apresentada a seguir.
+10, 9, 15, 9, X, 12
+Sabe-se que, nesse dia, nenhum médico fez menos que 6 e mais
+que 15 atendimentos e que a média de atendimentos é um
+número inteiro.
+Assim, a mediana da lista é
+(A) 10.
+(B) 10,5.
+(C) 11.
+(D) 11,5.
+18
+A Federação Mato-grossense de Futebol (FMF) realiza
+anualmente a competição “Copa FMF” na modalidade masculina.
+Na edição de 2023, a fase final foi disputada por Cuiabá, Mixto,
+Nova Mutum e Operário VG em um formato quadrangular, no
+qual todos se enfrentam apenas uma vez.
+Em relação aos gols ocorridos nesta fase, sabe-se que:
+ Mixto fez o triplo de gols que tomou;
+ Cuiabá e Nova Mutum tomaram 6 gols cada;
+ Operário VG fez 1 gol e tomou 2 gols;
+ Cuiabá fez um gol a mais que Nova Mutum;
+ foram feitos 17 gols no total.
+Dessa forma, a quantidade de gols feitos pela equipe Nova
+Mutum foi igual a
+(A) 5.
+(B) 4.
+(C) 3.
+(D) 2.
+19
+A serviço de uma unidade do Sistema Único de Saúde há três
+veículos: um automóvel, um ônibus e uma van. Um deles tem a
+cor azul, outro tem a cor amarela e outro tem a cor verde.
+Das afirmativas a seguir, apenas uma é verdadeira:
+I. O automóvel é verde.
+II. O ônibus não é amarelo.
+III. A van não é verde.
+Assim, é correto afirmar que
+(A) o automóvel é amarelo.
+(B) o automóvel é azul.
+(C) o ônibus é verde.
+(D) a van é amarela.
+20
+Em uma fábrica de desfibriladores, foi verificado que eram
+necessários 8 dias para produzir determinada quantidade de
+aparelhos, usando a mão de obra de 6 trabalhadores por 4 horas
+em cada dia.
+Para reduzir o tempo de produção para 2 dias, será necessário:
+(A) duplicar o número de trabalhadores.
+(B) triplicar o número de horas trabalhadas por dia.
+(C) duplicar o número de horas trabalhadas por dia.
+(D) duplicar o número de trabalhadores e o número de horas
+trabalhadas por dia.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+História Política e Econômica e Geografia
+de Mato Grosso
+21
+Analise o gráfico a seguir.
+Risco de desmatamento por estado em 2023 (km 2 )
+o
+Fonte: https://g1.globo.com/mt/mato-grosso/noticia/2023/01/18/mt-e-o-3 -
+estado-com-maior-risco-de-desmatamento-em-2023-aponta-imazon.ghtml. Adapt.
+De acordo com o gráfico, o Estado de Mato Grosso é o terceiro
+estado brasileiro com maior risco de desmatamento na
+Amazônia.
+Analise as afirmativas a seguir sobre os fatores que concorrem
+para esse fenômeno.
+I. A prática agrícola é um dos fatores que contribui para a
+aceleração dos processos erosivos do solo e do
+desmatamento. Isso ocorre devido ao emprego, de técnicas
+agrícolas extensivas, com a retirada de vegetação para a
+instalação de grandes lavouras monocultoras.
+II. A prática do garimpo ilegal gera diversos impactos
+ambientais, como o desmatamento, por meio da retirada de
+vegetação nativa, seja para estabelecer acessos às áreas ricas
+em minerais, seja para criar espaços destinados à própria
+atividade de mineração.
+III. A demarcação de terras indígenas no Estado contribui para o
+desmatamento, uma vez que o processo envolve a utilização
+de madeira para a construção de residências tradicionais e a
+exploração dos recursos naturais para fins de subsistência.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apensas.
+22
+Sobre os biomas mato-grossenses e suas respectivas localizações
+conforme a organização espacial do estado, analise as afirmativas
+a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+( ) O bioma Amazônico é caracterizado pela vegetação densa da
+floresta tropical; está presente no norte do Estado e um dos
+seus espaços é a microrregião de Sinop.
+( ) O bioma Cerrado é caracterizado pela vegetação composta de
+arvores baixas e com plantas com raízes profundas; está
+presente na mesorregião do Centro-Sul Mato-grossense.
+( ) O bioma Pantanal é caracterizado por suas extensas áreas
+alagadas e pela planície aluvial; está presente na mesorregião
+Centro-sul do estado, englobando os municípios de Cáceres e
+Poconé.
+As afirmativas são, na ordem apresentada, respectivamente,
+(A) V – V – F.
+(B) V – F – V.
+(C) F – V – F.
+(D) V – V – V.
+
+TIPO BRANCA – PÁGINA 4
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+23
+Analise os trechos a seguir.
+I. Código Civil dos Estados Unidos do Brasil, de 1916
+Art. 6º. São incapazes, relativamente a certos atos (Art. 147,
+inciso I), ou à maneira de os exercer:
+IV - os silvícolas.
+Parágrafo único. Os silvícolas ficarão sujeitos ao regime
+tutelar, estabelecido em leis e regulamentos especiais, e que
+cessará à medida de sua adaptação.
+II. Lei nº 6.001 de 1973
+Art. 2º. Cumpre à União, aos Estados e aos Municípios, bem
+como aos órgãos das respectivas administrações indiretas,
+nos limites de sua competência, para a proteção das
+comunidades indígenas e a preservação dos seus direitos: II -
+prestar assistência aos índios e às comunidades indígenas
+ainda não integrados à comunhão nacional; VI - respeitar, no
+processo de integração do índio à comunhão nacional, a
+coesão das comunidades indígenas, os seus valores culturais,
+tradições, usos e costumes; VIII - utilizar a cooperação, o
+espírito de iniciativa e as qualidades pessoais do índio, tendo
+em vista a melhoria de suas condições de vida e a sua
+integração no processo de desenvolvimento. ( Adaptado.)
+III. Constituição Federal de 1988
+Art. 231. São reconhecidos aos índios sua organização social,
+costumes, línguas, crenças e tradições, e os direitos
+originários sobre as terras que tradicionalmente ocupam,
+competindo à União demarcá-las, proteger e fazer respeitar
+todos os seus bens.
+Sobre a questão indígena no Brasil, de acordo com os trechos,
+assinale a afirmativa que interpreta corretamente os princípios
+que orientaram os marcos normativos mencionados.
+(A) Em I, a integração das comunidades indígenas à sociedade
+brasileira é preconizada por meio de um regime tutelar, que
+os considerava como indivíduos não plenamente
+desenvolvidos; em II, a autonomia dos indígenas é garantida
+por meio do direito à escolha de manter seu isolamento.
+(B) Em I, a autonomia das populações indígenas é assegurada
+pela concessão de agência individual, reconhecendo-as como
+capazes de resolver seus próprios conflitos territoriais; em II,
+a autonomia é manifestada pela isenção do poder federal de
+qualquer responsabilidade na garantia de seus direitos.
+(C) Em II, a preservação das comunidades indígenas se dá
+mediante o respeito pelo isolamento como uma medida para
+prevenir a propagação de doenças e evitar o extermínio; em
+III, a conservação da diversidade étnica e cultural dos
+indígenas é garantida por meio da criação de reservas.
+(D) Em II, a integração dos indígenas à sociedade brasileira é
+prevista por práticas de assimilacão, que entendiam seus
+modos de vida como uma condição transitória; em III, os
+direitos dos indígenas são reconhecidos pela liberdade de
+organização sociocultural, responsabilizando o Estado
+Brasileiro de proteger suas terras.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+24
+O Estado do Mato Grosso destaca-se tanto nacional quanto
+internacionalmente por sua significativa produção agrícola.
+A respeito do escoamento dos excedentes destinados à
+exportação, assinale a afirmativa correta.
+(A) O transporte ferroviário é a principal opção, da qual depende
+o Estado para o envio de sua produção para os portos da
+Região Sul.
+(B) O transporte hidroviário é ineficiente, visto que sua aplicação
+se restringe apenas à manutenção das conexões internas do
+Estado.
+(C) O transporte rodoviário, principalmente a rodovia BR 364,
+permite transportar a produção até o Estado de São Paulo,
+alcançando o porto de Santos.
+(D) O transporte rodoviário, principalmente a rodovia BR 163,
+permite a entrega da soja para o Rio de Janeiro, principal
+mercado consumidor.
+25
+A Capitania de Mato Grosso é uma das mais importantes de todo
+o Brasil, tanto pela sua extensão e pelas sabidas, mas ainda
+intactas riquezas, que guardam os seus vastíssimos sertões, como
+por ser fronteira ao vasto, populoso e rico Peru.
+Adaptado de: Reflexões sobre o estado atual da capitania de Mato Grosso,
+combinando com os domínios espanhóis que lhe são confinantes, em: Serra,
+Ricardo, Reflexões sobre a Capitania de Mato Grosso, Cuiabá: IHGMT, 2002, p. 12.
+A respeito do contexto da criação da Capitania de Mato Grosso e
+da delimitação de suas fronteiras, assinale a afirmativa correta.
+(A) A fronteira sul com a cidade de Assunção, que estava sob
+domínio espanhol, desempenhava um papel crucial na
+proteção do interior do território brasileiro.
+(B) A fronteira oriente com a capitania de Goiás, então no auge
+da sua produção de cana de açúcar, atuava como ponto de
+contato para trocas comerciais entre as duas regiões.
+(C) A fronteira leste com a capitania de São Paulo, representou o
+cumprimento do estabelecido pelo Tratado de Tordesilhas,
+que concedeu a posse da região centro oeste aos
+portugueses.
+(D) A fronteira norte com a capitania de Rondônia revelava-se
+estratégica para a exploração e tráfico da borracha e permitia
+uma conexão vital com os mercadores europeus.
+26
+A respeito da guerra entre a Tríplice Aliança e o Paraguai, assinale
+a afirmativa que descreve corretamente o envolvimento de Mato
+Grosso no conflito.
+(A) Os antecedentes do conflito são marcados pela assinatura do
+Tratado da Tríplice Aliança, o qual legitimava a guerra contra
+o Paraguai e designava Mato Grosso como capital da bacia
+platina, devido à sua extensa ocupação populacional.
+(B) No início do conflito, ocorreu a invasão paraguaia a Mato
+Grosso, que não encontrou dificuldade em ocupá-lo devido à
+precária defesa do território brasileiro.
+(C) Durante o conflito, a reconquista do território do Mato
+Grosso pelo Brasil foi facilitada pela acessibilidade à região,
+tanto por redes viárias quanto pelas rotas navegáveis.
+(D) O desfecho do conflito resultou na vitória brasileira, que
+retomou o território mato-grossense, que apesar de
+conquistado, jamais foi ocupado pelos paraguaios devido às
+ofensivas dos índios e às epidemias locais.
+
+TIPO BRANCA – PÁGINA 5
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+27
+Analise a imagem a seguir.
+Fonte:https://g1.globo.com/ac/acre/noticia/2019/08/06/revolucao-acreana-
+charges-e-cronicas-tratavam-acre-como-um-estorvo-pra-nacao.ghtml
+A charge ilustra o Barão do Rio Branco carregando uma bomba
+com a inscrição “Acre”, enquanto outro personagem, posicionado
+atrás, acende o pavio. A legenda diz: “ – Cuidado, barão! Com
+esta bomba nem S. Pedro com seus tiros o salvará.”
+Sobre as medidas estabelecidas pelo Tratado de Petrópolis,
+assinado entre o Brasil e a Bolívia, que resultou na incorporação
+do Acre ao território brasileiro, assinale a afirmativa correta.
+(A) Proibiu a navegação boliviana nos confluentes brasileiros,
+encerrando a saída da Bolívia ao Oceano Atlântico.
+(B) Autorizou o acesso boliviano ao território brasileiro,
+estipulando que seria de responsabilidade da Bolívia construir
+uma ferrovia para facilitar sua mobilidade.
+(C) Concedeu permissão para o estabelecimento de agentes
+bolivianos nas alfândegas comerciais brasileiras na região de
+fronteira entre os dois países.
+(D) Desalojou colonos bolivianos da região, especialmente os que
+dependiam de atividades extrativistas, sem que o Brasil
+indenizasse o governo boliviano pela perda do território.
+28
+Deve-se promover a integração da península do Centro-Oeste
+brasileiro, equipando-a de meios que lhe permitam desempenhar
+seu duplo papel de sólida plataforma para um transbordamento
+sobre a Hileia ou para ações visando a contrapor-se ao avanço
+para o norte de um imperialismo platino.
+Fonte: SILVA, Golbery do Couto e. Conjuntura política nacional: o poder executivo &
+geopolítica do Brasil. Brasília: Ed. UnB, 1981. (Coleção Temas Brasileiro, n. 7). Citado
+por Cavalcanti, Marcelo; Barreira, Celene. Ações da Sudeco no desenvolvimento do
+Centro-Oeste, B.goiano.geogr.Goiânia, v. 31, n. 2, 2011, p. 180.
+As afirmativas a seguir descrevem corretamente os objetivos da
+Superintendência de Desenvolvimento do Centro-Oeste
+(SUDECO) durante a ditadura militar brasileira, à exceção de
+uma. Assinale-a.
+(A) Estimular o processo de industrialização na região, visando
+criar polos industriais capazes de competir com os centros
+empresariais do Sudeste.
+(B) Ocupar as áreas da região identificadas como “vazios
+estratégicos”, consideradas suscetíveis à influência
+comunista.
+(C) Promover a integração regional com outras partes do
+território brasileiro por meio do desenvolvimento de
+infraestrutura rodoviária.
+(D) Fomentar a mecanização e a modernização da agricultura
+para impulsionar a ocupação produtiva da fronteira agrícola.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+Noções de Administração Pública, Ética,
+Filosofia e Atualidades
+29
+A pirâmide de Maslow foi uma das primeiras teorias
+desenvolvidas para entender o sentido da motivação.
+De acordo com essa teoria, assinale a afirmativa correta.
+(A) Os seres humanos são estimulados por uma sequência de
+necessidades, devendo ocorrer a satisfação das necessidades
+mais básicas antes de se aspirarem as outras.
+(B) Os indivíduos são naturalmente preguiçosos, demandando,
+por isso, mecanismos de controle rígidos para o bom
+desempenho.
+(C) As pessoas são incentivadas pela percepção de justiça em seu
+ambiente, comparando suas recompensas e retribuições com
+a de seus pares.
+(D) Os sujeitos tendem a ser encorajados por atividades que são
+vistas como alcançáveis, conforme as suas capacidades.
+30
+O momento em que o aprovado em um concurso público é
+investido em cargo público, mediante a aceitação expressa das
+responsabilidades inerentes à função, é conhecido como posse.
+No entanto, é apenas no exercício que o servidor desempenha
+efetivamente suas atribuições.
+Com relação ao disposto na Lei Complementar nº 04/1990, que
+dispõe sobre os servidores do Estado de Mato Grosso, é correto
+afirmar que, o servidor deve entrar em exercício
+(A) imediatamente após a posse.
+(B) até 5 dias após a posse.
+(C) até 20 dias após a posse.
+(D) até 30 dias após a posse.
+31
+Como regra geral, a contratação de pessoa na Administração
+Pública deve ocorrer por prazo indeterminado. No entanto,
+algumas situações de excepcionalidade permitem que sejam
+realizadas contratações em caráter temporário.
+Com base nisso, analise as afirmativas a seguir.
+I. Combater surtos epidêmicos.
+II. Realizar o recenseamento.
+III. Permitir a execução de serviço, nas áreas de pesquisa
+científica, por profissional de notória especialização.
+Em conformidade com a Lei Complementar nº 04/1990, assinale
+a opção que indica a(s) situação(ões) que permite(m) contratação
+temporária.
+(A) I, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I, II e III.
+32
+Em uma situação hipotética, determinado servidor do Estado do
+Mato Grosso, pertencente à Secretaria de Saúde, cometeu falta
+punível com cassação de aposentadoria.
+Nesse caso, com base na Lei Complementar nº 04/1990,
+a autoridade que deve aplicar a respectiva penalidade ao
+servidor é o
+(A) Governador do Estado.
+(B) chefe da repartição do servidor.
+(C) Presidente do Tribunal de Contas do Estado.
+(D) Corregedor-geral do Estado.
+
+TIPO BRANCA – PÁGINA 6
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+33
+Max Weber diferencia a ética da convicção da ética da
+responsabilidade.
+A esse respeito, analise as afirmativas a seguir e assinale (V) para
+a verdadeira e (F) para a falsa.
+( ) A ética da responsabilidade é a que tem como preocupação
+central as consequências das ações realizadas.
+( ) A ética da convicção é a mais apropriada para a função
+pública, pois independe de variações individuais.
+( ) A ética da responsabilidade baseia-se nas predisposições
+éticas dos agentes e espera deles um elevado senso moral.
+As afirmativas são, respectivamente,
+(A) F – V – F.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+34
+O instituto da cidadania estabelece direitos e deveres para os
+indivíduos pertencentes à determinada sociedade. Esses direitos
+podem ser divididos em civis, políticos e sociais.
+Assinale a opção que exemplifica corretamente os direitos sociais.
+(A) Direito à vida e à liberdade.
+(B) Direito à representação política.
+(C) Direito à propriedade privada.
+(D) Direito à saúde e à moradia.
+35
+Um funcionário do governo fica responsável pela distribuição de
+recursos limitados em uma pequena cidade e se depara com um
+dilema moral. Uma enchente atingiu a região e ele precisa decidir
+como alocar os recursos de emergência. Há dois grupos que
+precisam urgentemente de ajuda: um é um orfanato com várias
+crianças, e o outro, um hospital que atende a toda a comunidade.
+Ambos estão em situações críticas e os recursos não são
+suficientes para atender às necessidades de ambos.
+Na situação acima, é correto afirmar que o funcionário aderiu a
+uma ética utilitarista se ele optou por
+(A) agir conforme o dever e o princípio moral de direcionar a
+ajuda para o grupo mais desfavorecido.
+(B) tomar o caminho de ação capaz de favorecer o maior número
+possível das pessoas afetadas.
+(C) conduzir a situação do modo mais compatível possível com o
+cultivo coletivo das virtudes cívicas.
+(D) atuar de maneira a distribuir os recursos equitativamente,
+sem favorecer ou preterir nenhuma das partes.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+36
+Com relação ao Estatuto dos Servidores Públicos do Estado do
+Mato Grosso (Lei Complementar nº 04/1990), associe cada forma
+de provimento de cargo público à sua descrição.
+1. Reversão
+2. Recondução
+3. Readaptação
+4. Reintegração
+( ) O servidor aposentado por invalidez retorna à atividade ao
+serem declarados insubsistentes os motivos da
+aposentadoria.
+( ) O servidor passa a assumir responsabilidades e atribuições
+compatíveis com uma limitação física ou mental sofrida.
+( ) O servidor retorna a um cargo anteriormente ocupado, por
+exemplo, devido à inabilitação em estágio probatório.
+( ) O servidor retorna ao cargo anteriormente ocupado devido a
+uma invalidação de uma anterior demissão.
+Assinale a opção que indica a relação correta, segundo a ordem
+apresentada.
+(A) 1 – 3 – 2 – 4.
+(B) 1 – 4 – 2 – 3.
+(C) 4 – 2 – 3 – 1.
+(D) 4 – 3 – 2 – 1.
+Legislação do SUS + Plano Nacional de
+Atenção Básica à Saúde
+37
+Assinale a opção que apresenta, corretamente, um objetivo do
+Sistema Único de Saúde – SUS.
+(A) Integração em nível executivo das ações de saúde, meio
+ambiente e saneamento básico.
+(B) Organização dos serviços públicos de modo a evitar
+duplicidade de meios para fins idênticos.
+(C) Identificação e divulgação dos fatores condicionantes e
+determinantes da saúde.
+(D) Capacidade de resolução dos serviços em todos os níveis de
+assistência.
+38
+Assinale a opção que apresenta o princípio que foi acrescentado
+ao Sistema Único de Saúde, em 2023.
+(A) Organizar atendimento público específico e especializado
+para mulheres e vítimas de violência doméstica em geral.
+(B) Divulgar informações quanto ao potencial dos serviços de
+saúde e da sua utilização pelo usuário.
+(C) Utilizar a epidemiologia para estabelecer prioridades, a
+alocação de recursos e a orientação programática.
+(D) Proteger integralmente os direitos humanos de todos os
+usuários e, em especial, identificar maus-tratos, negligência e
+violência sexual praticados contra crianças e adolescentes.
+
+TIPO BRANCA – PÁGINA 7
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+39
+o
+Com base nas disposições da Lei n 8.080/90 acerca do
+acompanhamento à mulher nos serviços de saúde, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a
+falsa.
+( ) Em consultas, exames e procedimentos realizados em
+unidades de saúde públicas ou privadas, toda mulher tem o
+direito de fazer-se acompanhar por pessoa maior de idade,
+durante todo o período do atendimento, independentemente
+de notificação prévia.
+( ) Em caso de atendimento com sedação, a eventual renúncia
+da paciente ao direito de acompanhante deverá ser feita por
+escrito, após o esclarecimento dos seus direitos, com no
+mínimo 24 (vinte e quatro) horas de antecedência, assinada
+por ela e arquivada em seu prontuário.
+( ) Em casos de urgência e emergência, os profissionais de saúde
+ficam autorizados a agir na proteção e defesa da saúde e da
+vida da paciente, ainda que na ausência do acompanhante
+requerido.
+As afirmativas são, respectivamente,
+(A) F – V – F.
+(B) V – V – V.
+(C) F – F – V.
+(D) V – F – V.
+40
+Com base na organização dos níveis de assistência à saúde,
+assinale a opção que apresenta a um serviço da atenção terciária.
+(A) Unidade de Transplante Renal.
+(B) Ambulatório de Neurologia.
+(C) Serviço de Ressonância Magnética.
+(D) Unidades de Pronto Atendimento.
+41
+Os Programas de Qualidade de Vida e Saúde para os
+Trabalhadores da Saúde e o Colegiado Gestor fazem parte do
+seguinte elemento da Politica Nacional de Humanização.
+(A) Valores.
+(B) Princípios.
+(C) Diretrizes.
+(D) Dispositivos.
+42
+Com base nos Requisitos de Boas Práticas de Funcionamento
+para os Serviços de Saúde, analise as afirmativas a seguir e
+assinale (V) para a verdadeira e (F) para a falsa.
+( ) Em serviços de saúde com mais de vinte trabalhadores é
+obrigatória a instituição de Comissão Interna de Prevenção de
+Acidentes - CIPA.
+( ) O serviço de saúde deve garantir que o prontuário contenha
+registros relativos à identificação e todos os procedimentos
+prestados ao paciente.
+( ) O serviço de saúde deve garantir que os trabalhadores sejam
+avaliados, no mínimo, uma vez ao ano em relação à saúde
+ocupacional.
+As afirmativas são, respectivamente,
+(A) V – V – V.
+(B) F – V – F.
+(C) V – V – F.
+(D) V – F – F.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+43
+De acordo com a Carta dos Direitos e Deveres da Pessoa Usuária
+da Saúde, assinale a afirmativa correta.
+(A) O usuário tem direito a acompanhante, pessoa de sua livre
+escolha, nas consultas e exames.
+(B) O atendimento nos serviços de saúde deve ser sempre com
+hora marcada.
+(C) O usuário tem liberdade de procurar parecer de outro
+profissional, exceto em casos com impedimento legal.
+(D) Toda pessoa previamente cadastrada tem direito a participar
+dos conselhos e das conferências de saúde.
+44
+De acordo com as disposições normativas acerca da segurança do
+paciente, os eventos adversos que evoluírem para óbito devem
+ser notificados em até
+(A) 12 horas, a partir do ocorrido.
+(B) 24 horas, a partir do ocorrido.
+(C) 48 horas, a partir do ocorrido.
+(D) 72 horas, a partir do ocorrido.
+45
+Com base nas disposições da Lei nº 8.142/90, analise as
+afirmativas a seguir.
+I. O Conselho de Saúde é um órgão colegiado responsável por
+avaliar a situação de saúde e propor diretrizes para
+formulação da política de saúde.
+II. Um dos requisitos para que Estados e Municípios recebam os
+recursos destinados à cobertura das ações e serviços de
+saúde é a elaboração do Plano de Saúde.
+III. Os Municípios poderão estabelecer consórcio para execução
+de ações e serviços de saúde.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) II e III, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+46
+Conforme disposições sobre a organização do SUS, o conjunto de
+ações e serviços de saúde, articulados em níveis de complexidade
+crescente com a finalidade de garantir a integralidade da
+assistência à saúde, corresponde ao(à)
+(A) Mapa de Saúde.
+(B) Região de Saúde.
+(C) Rede de Atenção à Saúde.
+(D) Serviços Especiais de Acesso Aberto.
+
+TIPO BRANCA – PÁGINA 8
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+C ONHECIMENTOS E SPECÍFICOS
+Reconhecendo a importância estratégica deste profissional na
+gestão e otimização de sistemas de informação, infraestrutura
+tecnológica e bancos de dados, buscamos elucidar questões
+fundamentais que permeiam suas responsabilidades e desafios.
+Ao mergulhar neste conjunto de questionamentos, pretendemos
+não apenas compreender as competências técnicas exigidas, mas
+também as habilidades interpessoais necessárias para enfrentar
+os complexos cenários do mundo digital contemporâneo.
+47
+Durante uma entrevista para uma posição de desenvolvimento
+de software, o entrevistador deseja avaliar seu conhecimento
+sobre alguns princípios básicos e sua habilidade em reconhecer
+linguagens de programação que incorporam esses conceitos.
+Assinale a opção que indica a linguagem que tem, como
+características, o encapsulamento, a herança, o polimorfismo e a
+abstração.
+(A) Python, JavaScript e JQuery.
+(B) NodeJS, HTML 5 e C#.
+(C) C#, JQuery e CSS3.
+(D) C#, Java, Python.
+48
+Gerir riscos constitui uma etapa vital no contexto da segurança
+da informação, implicando na identificação, avaliação e mitigação
+dos potenciais riscos que possam impactar a confidencialidade,
+integridade e disponibilidade dos dados e sistemas
+organizacionais.
+Com relação à gerência de risco, assinale (V) para a afirmativa
+verdadeira e (F) para falsa.
+( ) Processos, atividades do negócio e informações são ativos
+primários de uma organização.
+( ) As ameaças podem ter origem humana ou ambiental
+( ) Salvaguardas referem-se a medidas de proteção prescritas
+com o intuito de cumprir os requisitos de segurança, tais
+como confidencialidade, integridade e disponibilidade,
+previamente estabelecidos para um sistema de informação.
+( ) Reduzir riscos de segurança é um processo iterativo que
+envolve identificar os riscos, implementar controles para
+mitigá-los e reavaliar constantemente diante das mudanças.
+As afirmativas são, respectivamente,
+(A) F – F – F – F.
+(B) V – V – V – V.
+(C) F – F – V – V.
+(D) V – V – F – F.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+49
+Observe a figura a seguir, que representa a estrutura básica do
+SOA e assinale (V) para a afirmativa verdadeira e (F) para falsa
+( ) Consumidor de Serviço são as aplicações que consultam o
+Provedor de serviços para invocar os serviços do Registro de
+Serviços.
+( ) O Provedor de Serviço implementa e disponibiliza serviços,
+publicando suas descrições para que possam ser descobertas
+e consumidas pelas aplicações.
+( ) O Registro de Serviços armazena e disponibiliza as descrições
+dos serviços publicados.
+( ) Na SOA, a separação de assuntos envolve dividir problemas
+grandes em partes menores, facilitando a decomposição da
+solução em diferentes componentes específicos.
+As afirmativas são, respectivamente,
+(A) F – V – V – V.
+(B) V – F – V – F.
+(C) F – V – F – V.
+(D) V – F – F – F.
+50
+Os ativos de informação desempenham um papel vital nas
+empresas, uma vez que armazenam dados sensíveis e
+informações estratégicas essenciais.
+Em relação a esses ativos, assinale a afirmativa correta.
+(A) No cenário cada vez mais digitalizado em que vivemos, as
+informações se transformaram em ativos de grande valor, no
+entanto, devido a grande quantidade de dados gerados
+diariamente, a análise desses dados torna-se impossível.
+(B) Toda informação produzida ou obtida por um indivíduo ou
+organização deve estar acessível a todos, indistintamente,
+sempre que necessário, para qualquer finalidade.
+(C) Toda informação deve ser protegida conforme seu nível de
+confidencialidade, a fim de restringir o acesso e o uso apenas
+às pessoas autorizadas.
+(D) Toda informação deve ser preservada na condição em que foi
+disponibilizada pelo seu proprietário, com o objetivo de
+protegê-la contra qualquer tipo de alteração não autorizada,
+seja intencional ou acidental.
+
+TIPO BRANCA – PÁGINA 9
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+51
+Uma empresa de tecnologia que está revisando sua política de
+segurança para garantir a proteção eficaz de todos os sistemas
+operacionais usados em sua infraestrutura de TI.
+Existem várias medidas de proteção que podem ser adotadas
+para resguardar os sistemas operacionais contra ataques de
+malware, exploração de vulnerabilidades, negação de serviço, e
+outras ameaças similares.
+São consideradas medidas de proteção os itens:
+I. Patches de segurança,
+II. Capacitação dos funcionários no tema,
+III. Antivírus,
+IV. Controle de acesso
+Está correto o que se afirma em
+(A) I, II e III, apenas.
+(B) II, III e IV, apenas
+(C) I, II, III, IV.
+(D) II e III, apenas.
+52
+Dada a importância crucial dos planos de contingência para
+sustentar a resiliência operacional de uma organização, torna-se
+imperativo uma análise detalhada desse assunto.
+Nesse sentido, assinale a afirmativa correta.
+(A) O plano de contingência e/ou continuidade dispensa passar
+por revisões e testes regulares para garantir sua eficácia em
+situações de necessidade.
+(B) O desenvolvimento do plano de contingência requer a
+participação efetiva e única da alta gestão da empresa para
+validar as diretrizes de continuidade. É essencial deixar todo o
+processo claro para evitar falhas futuras.
+(C) O Plano de Contingência deve ser totalmente eficaz na
+restauração total ou parcial das informações em situações de
+ataques ou desastres.
+(D) Na gestão de continuidade de negócios, é opcional o
+estabelecimento de um processo dinâmico para a
+manutenção de todos os documentos.
+53
+Em um cenário de rápido crescimento tecnológico e demandas
+cada vez mais complexas, os frameworks de arquitetura surgem
+como resposta à necessidade de padronização e organização no
+desenvolvimento de sistemas distribuídos, visando facilitar a
+escalabilidade, a interoperabilidade e a manutenção em
+ambientes heterogêneos e dinâmicos.
+Assinale a opção que indica características de um framework de
+arquitetura.
+(A) Os frameworks de arquitetura são estruturas conceituais ou
+um conjunto de estruturas, para desenvolvimento,
+implementação e manutenção de uma arquitetura.
+(B) Esses frameworks ampliam a complexidade do
+desenvolvimento incremental da arquitetura e descrevem
+convenções e práticas de arquitetura em comunidades e
+domínios de aplicação.
+(C) Esses frameworks obrigatoriamente incluem descrições de
+aspectos de interesse e escopo da arquitetura a ser
+desenvolvida.
+(D) Os frameworks de arquitetura podem ser usados em
+contexto específico de processos que facilitam a comunicação
+entre projetos.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+54
+HTML5 e CSS3 desempenham um papel fundamental no
+desenvolvimento web contemporâneo, fornecendo uma extensa
+variedade de recursos que permitem a criação de páginas web
+atrativas visualmente, adaptáveis a diferentes dispositivos e
+enriquecidas semanticamente.
+Com relação as linguagens de marcação, assinale (V) para a
+afirmativa verdadeira e (F) para falsa.
+( ) O CSS3 suporta elementos multimídia integrados, como áudio
+e vídeo, sem a necessidade de plugins externos.
+( ) HTML5 e CSS3 são fundamentais para criar websites
+responsivos, que se adaptam automaticamente a diferentes
+dispositivos e tamanhos de tela, proporcionando uma melhor
+experiência de usuário em smartphones, tablets e desktops.
+( ) O HTML5 e o CSS3 são as linguagens de marcação e de estilo
+mais recentes para desenvolvimento web
+( ) O HTML 5 oferece flexibilidade e controle mais precisos sobre
+o posicionamento e o design dos elementos em uma página
+web.
+As afirmativas são, respectivamente,
+(A) F – F – F – V.
+(B) V – V – V – V.
+(C) F – V – V – F.
+(D) V – V – V – F.
+55
+A excelência no desenvolvimento de software começa com testes
+meticulosos, assim como a precisão é crucial em uma obra de
+arte. Diversas técnicas de teste de software existem, cada uma
+com propósito e abordagem específicos.
+Assinale a opção que indica o tipo de teste que assegura que as
+funcionalidades previamente implementadas não serão afetadas
+pelas alterações feitas no código.
+(A) Teste Unitário.
+(B) Teste de Integração.
+(C) Teste de Usabilidade.
+(D) Teste de Regressão.
+56
+Na era digital, onde a informação é um dos ativos mais valiosos, a
+implementação de uma política de segurança da informação é
+crucial para proteger os dados sensíveis e garantir a confiança de
+clientes e parceiros. Quando se trata de desenvolver uma política
+de segurança da informação, é recomendável ter em mente
+alguns conceitos:
+I. Toda informação deve ser mantida na sua condição original,
+tal como fornecida pelo seu proprietário, com o objetivo de
+protegê-la contra quaisquer alterações indevidas, sejam elas
+intencionais ou acidentais.
+II. É fundamental registrar tanto o acesso quanto o uso da
+informação, permitindo a identificação dos usuários que
+acessaram e as ações realizadas com os dados.
+III. Toda informação deve ser protegida conforme o seu nível de
+sigilo, com o objetivo de restringir o acesso e o uso apenas às
+pessoas autorizadas a recebê-la.
+As afirmações acima referem-se aos seguintes conceitos,
+respectivamente.
+(A) Integridade– Disponibilidade – Legalidade.
+(B) Disponibilidade – Confidencialidade – Legalidade.
+(C) Auditabilidade – Legalidade – Confidencialidade.
+(D) Integridade – Auditabilidade – Confidencialidade.
+
+TIPO BRANCA – PÁGINA 10
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+57
+Assim como idiomas moldam a maneira como pensamos e nos
+comunicamos, as linguagens de programação são as ferramentas
+que permitem dar vida às nossas ideias no mundo digital,
+transformando lógica e criatividade em código executável.
+Sobre linguagens de programação, analise os itens a seguir.
+I – JavaScript é uma linguagem de programação de alto nível,
+compilada e multi-paradigma.
+II – A linguagem Java é conhecida pela sua portabilidade, o que
+significa que os programas escritos em Java podem ser
+executados em diferentes tipos de dispositivos sem
+necessidade de modificação.
+III - A linguagem C# é semelhante em muitos aspectos ao Java e
+ao C++, o que facilita a transição para desenvolvedores
+familiarizados com essas linguagens.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I, II e III.
+(C) II e III, apenas.
+(D) I e III, apenas.
+58
+Representational State Transfer, mais conhecido como REST, é
+um estilo de arquitetura de software baseado em comunicação
+via rede. Ele foi apresentado pela primeira vez por Roy Fielding
+em sua tese de doutorado em 2000 e é amplamente utilizado na
+construção de APIs web.
+Sobre esse estilo de arquitetura, assinale a afirmativa correta.
+(A) É uma linguagem de marcação que define regras para
+codificar documentos de forma legível tanto para humanos
+quanto para máquinas.
+(B) Utiliza os métodos HTTP (GET, POST, PUT, DELETE) para
+acessar e manipular recursos identificados por URLs.
+(C) Fornece um registro central onde empresas podem listar
+informações sobre seus serviços web, como descrições,
+localização e métodos de acesso.
+(D) É usado para estruturar, armazenar e transportar
+informações de forma independente de plataformas.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+59
+Existem várias técnicas de teste de software, cada uma com seus
+próprios objetivos e métodos específicos. Relacione os testes de
+software listados a seguir, às suas respectivas definições.
+1. Teste Funcional
+2. Teste de Conformidade
+3. Teste de Caixa Preta
+4. Teste de Desempenho
+( ) Avalia como o sistema se comporta em termos de velocidade,
+escalabilidade e estabilidade sob diferentes condições de
+carga.
+( ) Testa o software sem conhecimento interno da lógica ou
+estrutura do código, focando nos requisitos e funcionalidades
+visíveis.
+( ) Verifica se as funções do software estão operando conforme
+esperado. Isso pode incluir testes de casos de uso, fluxos de
+trabalho e requisitos funcionais.
+( ) Verifica se o software atende a padrões, regulamentos e
+requisitos legais.
+Assinale a opção que indica a relação correta, na ordem
+apresentada.
+(A) 2 – 4 – 3 – 1.
+(B) 2 – 1 – 3 – 4.
+(C) 4 – 3 – 1 – 2.
+(D) 4 – 2 – 1 – 3.
+60
+Teoricamente, um programa escrito em C é compatível com um
+compilador C++.
+Com relação a compatibilidade com um compilador C++, analise
+os itens a seguir.
+I. Na realidade essa compatibilidade não é de 100% pois o C++
+possui mais palavras reservadas e um código C que utilize
+uma destas palavras não é um programa C++ correto.
+II. Em C++ uma estrutura só é válida no escopo em que foi
+declarada enquanto no código escrito em C o escopo de
+declaração é sempre global.
+III. O uso de bibliotecas C em programas C++ é sempre possível
+pois o C++ permitir sobrecarga de nomes de funções e os
+compiladores empregam a mesma regra para geração dos
+nomes durante a compilação da função.
+Está correto o que se afirma em
+(A) I, II e III.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+
+TIPO BRANCA – PÁGINA 11
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+61
+Os códigos reproduzidos abaixo (CÓDIGO-01 e CÓDIGO-02) foram
+desenvolvidos na linguagem C#. Ambos resultam na mesma saída
+(OUTPUT).
+CÓDIGO-01
+Console.WriteLine ("***Sounds animals.***");
+Tiger tiger = new(); tiger.Sound();
+Dog dog = new(); dog.Sound();
+Console.ReadKey();
+class Tiger
+{ public void Sound() {Console.WriteLine("Tigers roar."); } }
+class Dog
+{ public void Sound() { Console.WriteLine("Dogs bark."); } }
+CÓDIGO-02
+Console.WriteLine ("***Sounds animals.***");
+IAnimal animal = new Tiger(); animal.Sound();
+animal = new Dog(); animal.Sound();
+interface IAnimal
+{ void Sound(); }
+class Tiger : IAnimal
+{ public void Sound() { Console.WriteLine("Tigers roar."); } }
+class Dog : IAnimal
+{ public void Sound() { Console.WriteLine("Dogs bark."); } }
+OUTPUT
+***Sounds
+Tigers
+Dogs bark.
+animals.***
+roar.
+Assinale a opção que indica o pilar da programação orientada a
+objetos que diferencia o segundo código (CÓDIGO-02) do
+primeiro.
+(A) Encapsulamento.
+(B) Polimorfismo.
+(C) Herança.
+(D) Sobrecarga.
+62
+A técnica de Análise de Pontos de Função (Function Point
+Analysis, FPA), da International Function Point Users Group
+(IFPUG), é um método tradicional empregado para medir
+sistemas pela quantificação da funcionalidade solicitada e
+fornecida.
+Considerando a técnica FPA, assinale a afirmativa correta.
+(A) A técnica FPA busca medir como o software foi construído.
+(B) A unidade “ponto de função” serve para medição das
+funcionalidades de um software (o que o software faz) sob o
+ponto de vista do usuário.
+(C) A técnica é baseada na avaliação de implementações de
+código do ponto de vista da gestão.
+(D) Abrange exclusivamente a funcionalidade genérica requerida
+pelo usuário.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+63
+No desenvolvimento de software por metodologias ágeis têm
+sido empregadas métricas ágeis para acompanhamento de
+projetos Scrum. Elas têm sido aplicadas para avaliar se os
+requisitos de qualidade e as necessidades dos clientes foram
+atendidos.
+Quanto ao emprego de métricas ágeis baseadas em Scrum,
+assinale a afirmativa correta.
+(A) As métricas ágeis são baseadas na análise de funcionalidades.
+(B) Permitem o acompanhamento individual e em tempo real de
+equipe, software e projeto.
+(C) Elas se concentram no sucesso do projeto e no tamanho
+funcional do software a partir da visão do gestor.
+(D) Medem diretamente a produtividade por meio de linhas de
+código, mas possuem limitações em mensurar esforços da
+equipe.
+64
+Relacione as técnicas de elicitação e especificação de requisitos às
+suas respectivas definições:
+1. Entrevistas
+2. Etnografia
+3. Histórias e Cenários
+4. Casos de Uso
+( ) Identifica os atores envolvidos, as funcionalidades principais,
+bem como a interação entre atores e funcionalidades do
+sistema
+( ) Identifica características sobre o sistema (ou processo) atual e
+sobre o sistema que será desenvolvido a partir de
+questionamento aos stakeholders
+( ) Descreve situação de uso do sistema, com informações como:
+ator(es); pré-condição; fluxo normal; fluxos alternativos; e
+pós-condição.
+( ) Técnica de observação onde o analista (engenheiro de
+requisitos) se insere na organização do cliente, observa o
+trabalho no dia a dia e anota as tarefas dos funcionários
+Assinale a opção que indica a relação correta, segundo a ordem
+apresentada.
+(A) 2, 4, 1 e 3.
+(B) 3, 2, 4 e 1.
+(C) 1, 3, 2 e 4.
+(D) 4, 1, 3 e 2.
+65
+A engenharia de software tem empregado prototipação para
+gerar modelos representativos simulados para validação dos
+requisitos dos usuários.
+Com relação à prototipação, analise os itens a seguir.
+I. É o processo de criação de um protótipo, que dependendo
+das necessidades do projeto, podem empregar, entre outros:
+protótipos de papel, wireframes, mockups ou protótipos
+interativos.
+II. No processo de engenharia de requisitos, as fases de
+elicitação e validação dos requisitos do sistema podem ser
+auxiliadas por um protótipo.
+III. Um protótipo desenvolvido no processo de projeto do
+sistema pode auxiliar na exploração de soluções de software
+e no desenvolvimento de uma interface com o usuário para o
+sistema.
+Está correto o que se afirma em
+(A) I, II e III.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+
+TIPO BRANCA – PÁGINA 12
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+66
+Com relação à segurança no desenvolvimento de programação e
+revisão de código, analise as afirmativas a seguir e assinale (V)
+para a verdadeira e (F) para a falsa.
+( ) O ciclo de vida de desenvolvimento de software (SDLC) pode
+ser aperfeiçoado pelo uso do framework de desenvolvimento
+de software seguro (Secure Software Development
+Framework, SSDF), do NIST Cybersecurity, podendo ser usado
+por organizações de qualquer setor ou comunidade,
+independentemente do tamanho ou da sofisticação da
+segurança cibernética, bem como podendo ser usado para
+qualquer tipo de desenvolvimento de software,
+independentemente da tecnologia, plataforma, linguagem de
+programação ou ambiente operacional.
+( ) O uso do Secure Coding Practices Checklist , do Developer
+Guide e do Offensive Web Testing Framework (OWTF), da
+Open Web Application Security Project (OWASP), proporciona
+melhores práticas de programação segura e revisão de
+código.
+( ) O uso do Web Security Testing Guide (WSTG) em conjunto
+com o Web Application Penetration Checklist , ambos da
+OWASP, proporcionam a identificação dos mais adequados
+controles de segurança que devem ser executados, de
+acordo com as informações do OWASP TOP 10 e WSTG.
+As afirmativas são, respectivamente,
+(A) F, V e F.
+(B) F, F e V.
+(C) V, F e V.
+(D) V, V e V.
+67
+O projeto Application Security Verification Standard (ASVS), da
+Open Web Application Security Project (OWASP), fornece um
+padrão de segurança de aplicativo aberto para aplicativos da web
+e serviços da web de todos os tipos. Ele serve para verificar a
+efetividade dos controles de segurança.
+Assinale a opção que indica o requisito de ciclo de vida de
+desenvolvimento de software seguro.
+(A) Verificar se todas as chaves e senhas são substituíveis e
+fazem parte de um processo bem definido para criptografar
+novamente os dados confidenciais.
+(B) Verificar a documentação e a justificativa de todos os limites
+de confiança, componentes e fluxos de dados significativos
+do aplicativo
+(C) Verificar se todos os níveis de proteção têm um conjunto
+associado de requisitos de proteção, como requisitos de
+criptografia, requisitos de integridade, retenção, privacidade
+e outros requisitos de confidencialidade, e que estes são
+aplicados na arquitetura.
+(D) Verificar se a solução de controle de acesso escolhida é
+flexível o suficiente para atender às necessidades do
+aplicativo.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+68
+A norma ABNT NBR ISO/IEC 27002:2013 estabelece um código de
+prática para controles de segurança. Ela fornece diretrizes para
+prática de gestão de segurança da informação para as
+organizações, incluindo a seleção, implementação e o
+gerenciamento dos controles levando em consideração os
+ambientes de risco da segurança da informação da organização.
+Relacione os termos de segurança da informação a seguir, às suas
+respectivas definições.
+1. Segurança da informação
+2. Incidente de segurança de informação
+3. Evento de segurança de informação
+4. Risco
+( ) Preservação da confidencialidade, da integridade e da
+disponibilidade da informação; adicionalmente, outras
+propriedades, tais como autenticidade, responsabilidade, não
+repúdio e confiabilidade, podem também estar envolvidas.
+( ) Ocorrência que indica uma possível violação da política de
+segurança da informação ou falha de controles, ou uma
+situação previamente desconhecida, que possa ser relevante
+para a segurança da informação e que pode ser identificada
+em um sistema, serviço ou rede.
+( ) Ocorrência(s) indesejada(s) ou inesperada(s) que tem grande
+probabilidade de comprometer as operações do negócio e
+ameaçar a segurança da informação.
+( ) Combinação da probabilidade de um evento e de suas
+consequências.
+Assinale a opção que indica a relação correta, segundo a ordem
+apresentada.
+(A) 4, 2, 3 e 1
+(B) 1, 3, 2 e 4
+(C) 4, 3, 2 e 1
+(D) 1, 2, 3 e 4
+69
+A ABNT NBR ISO/IEC 27005:2011 fornece diretrizes para o
+processo de Gestão de Riscos de Segurança da Informação de
+uma organização, atendendo particularmente aos requisitos de
+um Sistema de Gestão de Segurança da Informação (SGSI)
+Com relação à Gestão de Risco, em conformidade com a norma
+ABNT NBR ISO/IEC 27005:2011, analise os itens a seguir.
+I. O risco é o efeito da incerteza nos objetivos, sendo muitas
+vezes caracterizado pela referência aos eventos potenciais e
+às consequências, ou uma combinação destes.
+II. O risco residual (ou "risco retido") se refere ao risco
+remanescente após o tratamento de eventos sucessivos.
+III. O nível de risco se relaciona a magnitude de um risco,
+expressa em termos da combinação das consequências e de
+suas probabilidades (likelihood)
+Está correto o que se afirma em
+(A) I e II, apenas.
+(B) I e III, apenas.
+(C) II e III, apenas.
+(D) I, II e III.
+
+TIPO BRANCA – PÁGINA 13
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+70
+A sequência de Fibonacci tem aplicação, dentre outras, em
+algoritmos de busca, classificação e criptografia. Trata-se de
+uma lista infinita de números, em que cada um de seus valores é
+o resultado da soma dos dois anteriores. Matematicamente, esta
+relação de recorrência é representada por:
+f(0) = 0
+f(1) = 1
+f(n) = f(n-1) + f(n+2), para qualquer natural n > 1
+Considere que foram elaboradas duas implementações
+algorítmicas definidas em linguagem Python (CODIGO-01 e
+CODIGO-02).
+CODIGO-01
+def f(n: int):
+if n == 1:
+return 1
+if n == 2:
+return 1
+else:
+return f(n-1) + f(n-2)
+CODIGO-02
+def f(n: int):
+ultimo = 1
+penultimo = 1
+if n == 1:
+return penultimo
+elif n == 2:
+return ultimo
+else:
+atual = 0
+for i in range(2, n):
+atual = ultimo + penultimo
+penultimo = ultimo
+ultimo = atual
+return atual
+Quanto às implementações, assinale a afirmativa correta.
+(A) Somente o primeiro algoritmo emprega função recursiva.
+(B) Os dois algoritmos empregam função recursiva.
+(C) Somente o primeiro algoritmo emprega função iterativa.
+(D) Os dois algoritmos empregam função iterativa.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+71
+Relacione os algoritmos populares listados a seguir, às suas
+respectivas definições.
+1. Algoritmos de classificação
+2. Algoritmos de clustering
+3. Algoritmos de gradient boosting
+4. Algoritmos de regressão linear
+( ) Usam cálculos preditivos para atribuir dados a categorias
+predefinidas.
+( ) mostram ou preveem a relação entre duas variáveis ou dois
+fatores ajustando uma linha reta contínua aos dados.
+( ) Produzem um modelo de previsão que agrupa modelos de
+previsão fracos por meio de um processo de ensembling que
+aprimora o desempenho geral do modelo
+( ) Dividem os dados em vários grupos determinando o nível de
+similaridade entre os pontos de dados.
+Assinale a opção que indica a relação correta, segundo a ordem
+apresentada.
+(A) 2, 3, 4 e 1.
+(B) 3, 2, 1 e 4.
+(C) 1, 4, 3 e 2.
+(D) 4, 1, 2 e 3.
+72
+Com relação à Engenharia de Requisitos, analise as afirmativas a
+seguir e assinale (V) para a verdadeira e (F) para a falsa.
+( ) A Engenharia de Requisitos inclui três atividades
+fundamentais: elicitação (e análise); especificação; e,
+validação.
+( ) Na etapa de classificação e organização, no processo de
+elicitação e análise de requisitos, o conjunto não estruturado
+de requisitos é agrupado pelos requisitos relacionados e
+organizado em grupos coerentes.
+( ) Na prática, a Engenharia de Requisitos é um processo
+iterativo, no qual as atividades são intercaladas
+As afirmativas são, respectivamente:
+(A) V, F e F.
+(B) F, V e F.
+(C) F, F e V.
+(D) V, V e V.
+73
+Um analista necessita fazer a conversão de um número inteiro
+não negativo na base decimal para a base binária.
+A representação em binário do número 197 é
+(A) 101011.
+(B) 1110101.
+(C) 11000101.
+(D) 101000111.
+74
+Os elementos de suporte descritos na norma IEC27001:2013 da
+Organização Internacional de Normalização (ISO) são:
+(A) awaraness, competence, communication, documented
+information e resources.
+(B) availability, acessibility, concurrency, provenance e resources
+management.
+(C) accountability, interoperability, provenance e resources
+management.
+(D) awaraness, interoperability, concurrency e resources.
+
+TIPO BRANCA – PÁGINA 14
+
+SECRETARIA DE ESTADO DE SAÚDE DO MATO GROSSO
+75
+Computadores utilizam diversos tipos de dispositivos de
+memória. Considerando que um sistema de memória
+semicondutora está sujeito a erros, as falhas nesses sistemas
+podem ser do tipo
+(A) locais e remotas.
+(B) voláteis e não voláteis.
+(C) inteiras e ponto flutuante.
+(D) permanentes e não permanentes.
+76
+Os computadores podem converter dados entre a base 2 (binária)
+e a base 16 (hexadecimal). Os dígitos binários são agrupados em
+conjuntos de quatro bits, chamados de nibble.
+Relacione os nibbles às respectivas definições nem hexadecimal.
+1. 1000
+2. 1010
+3. 1101
+4. 0011
+( ) A;
+( ) 3;
+( ) D.
+( ) 8.
+Assinale a opção que apresenta a relação correta.
+(A) 1-3-4-2.
+(B) 2-4-3-1.
+(C) 3-4-1-2
+(D) 4-1-2-3.
+77
+Um administrador de sistemas necessita instalar o sistema
+operacional CentOS (versão 7) em uma máquina que atuará como
+servidor de banco de dados da Secretaria de Saúde.
+O utilitário de instalação a ser executado pelo administrador
+chama-se
+(A) rattlesnake.
+(B) anaconda.
+(C) cobra.
+(D) snake.
+CNS303 - ANALISTA DE SISTEMAS – ADM DE BD INFRA OEM – TARDE
+78
+Um analista de infraestrutura necessita instalar o MS SQLServer
+2014 em um Core Server com Windows Server na Secretaria de
+Saúde do Estado do Mato Grosso.
+Assinale a opção que indica a lista de pré-requisitos indicados
+pelo Microsoft para que a instalação seja bem-sucedida.
+(A) Windows Server 2008 R2 SP1 e Windows Installer 3.0.
+(B) Windows Server 2008 R2 SP1, .NET Framework 4.0 SP1 Full
+Profile e Windows PowerShell 3.0.
+(C) .NET Framework 4 Server Core Profile, Windows Server 2008
+R2 SP1 e Windows PowerShell 2.5.
+(D) .NET Framework 2.0 SP2, .NET Framework 3.5 SP1 Full Profile,
+.NET Framework 4 Server Core Profile, Windows Installer 4.5
+e Windows PowerShell 2.0.
+79
+Existem diversas formas normais que podem ser utilizadas na
+normalização de esquemas relacionais. A forma normal Boyce-
+Codd (FNBC) foi proposta para ser uma simplificação, mas
+descobriu-se que ela é mais rigorosa que a forma normal que ela
+pretendia simplificar.
+A forma normal que a FNBC pretendia simplificar é a
+(A) 1FN.
+(B) 2FN.
+(C) 3FN.
+(D) 4FN.
+80
+Os servidores MYSQL versão 8.3 possuem diversos tipos de
+arquivos de log.
+Os arquivos de log usados nos serviços de replicação de dados
+são
+(A) binary e relay logs.
+(B) error e general logs
+(C) replication e DDL logs.
+(D) slow query e DML logs.
+
+TIPO BRANCA – PÁGINA 15
+
+Realização

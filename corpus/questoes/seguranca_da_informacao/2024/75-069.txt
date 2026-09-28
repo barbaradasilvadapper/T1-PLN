@@ -1,0 +1,18 @@
+ID: 75-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O risco de segurança da informação abrange os possíveis eventos ou circunstâncias que podem levar a perturbações dentro de uma organização, prejudicar a sua reputação ou resultar em perdas financeiras devido a falhas nos sistemas de informação. Avalie se, para evitar esses eventos, as seguintes ações podem ser executadas: I. Identificar riscos potenciais e avaliar a sua gravidade e probabilidade de ocorrência. II. Priorizar os riscos identificados e desenvolver estratégias para aceitá-los, transferi-los, mitigá-los ou evitá-los. III. A organização deve verificar os esforços de gestão de riscos ao finalizar o evento. Está correto o que se propõe em
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I, II e III.
+(C) II, apenas.
+(D) III, apenas.
+(E) I, apenas.
+
+[GABARITO]
+A

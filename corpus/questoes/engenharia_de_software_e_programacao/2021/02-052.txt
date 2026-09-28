@@ -1,0 +1,18 @@
+ID: 02-052
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O projeto de desenvolvimento de software ProjSystem adotou a UML (Unified Modeling Language) como a linguagem de apoio e documentação do sistema. A UML possui diversos diagramas e, dessa forma, apoia a criação de diferentes modelos de sistema. Nos casos em que é necessário modelar as interações entre os atores e os objetos em um sistema e as interações entre os próprios objetos, é utilizado o diagrama de:
+
+[ALTERNATIVAS]
+(A) classes;
+(B) atividades;
+(C) sequência;
+(D) estados;
+(E) casos de uso.
+
+[GABARITO]
+C

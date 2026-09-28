@@ -1,0 +1,18 @@
+ID: 87-074
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o seguinte recorte de um documento WSDL. <message name="getProcessoRequest"> <part name="processo" type="xs:string"/> </message> <message name="getProcessoResponse"> <part name="numero" type="xs:string"/> </message> <portType name="ServicoProcesso"> <operation name="getProcesso"> <input message="getProcessoRequest"/> <output message="getProcessoResponse"/> </operation> </portType> O tipo de operação que pode ser executado pelo serviço descrito é:
+
+[ALTERNATIVAS]
+(A) one-way;
+(B) request-response;
+(C) solicit-response;
+(D) notification;
+(E) binding.
+
+[GABARITO]
+B

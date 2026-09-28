@@ -1,0 +1,18 @@
+ID: 59-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação ao sistema de nomes de domínio (Domain Name System ̶ DNS), analise as afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s). ( ) DNS é um protocolo localizado na camada 6 do modelo OSI (Open Systems Interconnection), pois resolve endereços de aplicações do tipo http. ( ) O domínio .com.br é um domínio de primeiro nível. ( ) A capacidade de um determinado domínio em aceitar correio eletrônico deve estar indicado nos registros de recursos do domínio.
+
+[ALTERNATIVAS]
+(A) F, F e F;
+(B) F, F e V;
+(C) V, F e F;
+(D) V, F e V;
+(E) V, V e F.
+
+[GABARITO]
+B

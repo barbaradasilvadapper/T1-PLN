@@ -1,0 +1,18 @@
+ID: 61-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A detecção de outliers é uma tarefa importante que integra tanto a etapa de pré-processamento do processo de mineração de dados quanto a análise exploratória de dados em aprendizado de máquina. Outliers são valores atípicos que podem fornecer informações importantes ou, em alguns casos, distorcer análises de dados. Eles são classificados em diferentes tipos, dependendo de suas características e do contexto em que aparecem. Considere um cenário em que uma sequência de vendas de um produto permanece constante durante uma promoção que normalmente gera picos de vendas, retornando aos patamares normais ao final da promoção. Nessas condições, o tipo de outlier observado nessa sequência de vendas é o
+
+[ALTERNATIVAS]
+(A) coletivo.
+(B) contextual.
+(C) global.
+(D) intencional.
+(E) multivariado.
+
+[GABARITO]
+A

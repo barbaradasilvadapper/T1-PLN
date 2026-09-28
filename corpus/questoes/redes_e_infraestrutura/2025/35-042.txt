@@ -1,0 +1,18 @@
+ID: 35-042
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A quantidade de bits utilizados na parte do endereçamento de redes em um endereço IPv4 de classe A é igual a
+
+[ALTERNATIVAS]
+(A) 7.
+(B) 8.
+(C) 16.
+(D) 21.
+(E) 32.
+
+[GABARITO]
+A

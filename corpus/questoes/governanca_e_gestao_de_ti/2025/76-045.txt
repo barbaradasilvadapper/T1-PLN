@@ -1,0 +1,18 @@
+ID: 76-045
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A equipe de melhoria de processos decidiu utilizar a técnica de Simulação para analisar o novo Modelo TO-BE do Processo de Votação Eletrônica de Projetos de Lei antes de sua implementação. A principal vantagem da utilização da Simulação de Processos antes da implementação de um novo Modelo TO-BE é
+
+[ALTERNATIVAS]
+(A) garantir que o modelo AS-IS esteja perfeitamente documentado em BPMN.
+(B) assegurar que os recursos de TI serão imediatamente liberados.
+(C) reduzir a necessidade de definição de Indicadores de Desempenho (KPIs).
+(D) testar o comportamento do novo processo sob diferentes cenários e cargas de trabalho sem afetar a operação real.
+(E) eliminar a necessidade de documentação do Modelo AS-IS.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 63-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Metodologias de desenvolvimento de software definem paradigmas visando promover eficiência e qualidade do produto final. Entre estas, o desenvolvimento seguindo o modelo TDD (Test Driven Development) é realizado por meio de um ciclo composto por três etapas: red, green e refactoring. Acerca dessas etapas, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Na fase red, os desenvolvedores escrevem testes de aceitação que devem falhar inicialmente.
+(B) Na fase green, os desenvolvedores escrevem o código mínimo necessário para fazer o código passar no teste.
+(C) Na fase refactoring, os desenvolvedores buscam otimizar o código de novas funcionalidades reprovadas no teste.
+(D) Na fase red, os desenvolvedores revisam o código para identificar oportunidades de melhoria.
+(E) Na fase green, os desenvolvedores documentam as mudanças realizadas na fase refactoring.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 31-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O administrador de banco de dados MySQL de um certo tribunal precisa restaurar o banco de dados MySQL, chamado "tjdb", usando o arquivo de backup nomeado backup_tjdb.sql". Para isso ele deve acessar o usuário root, usando a senha apropriada. Um comando que poderia ser usado é
+
+[ALTERNATIVAS]
+(A) mysql -u root -p tjdb > backup_tjdb.sql
+(B) mysql -u root -p -D tjdb < backup_tjdb.sql
+(C) mysql -u root -p -D tjdb > backup_tjdb.sql
+(D) mysql -u root -p -h tjdb < backup_tjdb.sql
+(E) mysql -u root -p -D tjdb backup_tjdb.sql
+
+[GABARITO]
+B

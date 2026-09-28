@@ -1,0 +1,18 @@
+ID: 15-062
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do desenvolvimento de software ágil, a adoção de testes automatizados é essencial. Considerando sua aplicação em ambientes ágeis e sua integração com práticas como a integração contínua, assinale a afirmação verdadeira.
+
+[ALTERNATIVAS]
+(A) Testes automatizados são opcionais em ambientes ágeis, pois a comunicação constante da equipe elimina a necessidade de validação do código.
+(B) A realização de testes após o desenvolvimento do código é uma prática recomendada em ambientes ágeis, pois permite que os desenvolvedores se concentrem na implementação de novas funcionalidades.
+(C) A criação de testes automatizados melhora a qualidade do código, permitindo que as equipes façam modificações de forma mais segura e rápida.
+(D) Testes automatizados devem ser exclusivamente unitários para serem eficazes em projetos ágeis, uma vez que eles focam apenas na validação de pequenas unidades do código.
+(E) Em ambientes ágeis, os testes devem ser realizados apenas por equipes especializadas em qualidade, já que os desenvolvedores não devem se preocupar com testes.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 85-050
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto do MySQL, o comando SQL que produz um desfecho diferente dos demais é:
+
+[ALTERNATIVAS]
+(A) SELECT País, count(*) Contagem FROM Países GROUP BY País ORDER BY count(*)
+(B) SELECT País, count(*) Contagem FROM Países GROUP BY País ORDER BY Contagem
+(C) SELECT País, count(*) Contagem FROM Países GROUP BY País ORDER BY 2
+(D) SELECT País, count(*) Contagem FROM Países GROUP BY País WHERE count(*) > 5 ORDER BY count(*)
+(E) SELECT País, count(*) AS Contagem FROM Países GROUP BY País ORDER BY count(*)
+
+[GABARITO]
+D

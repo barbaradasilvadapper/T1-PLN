@@ -1,0 +1,18 @@
+ID: 03-067
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Alfama Telecom oferece ao mercado de consumo, ao mesmo tempo, serviços de telefonia e de internet por banda larga. A fim de maximizar seus lucros, passa a privilegiar a qualidade das ligações telefônicas, deixando mais lenta para os usuários a velocidade de conexão da internet em serviços e aplicativos que realizam chamadas de vídeo e voz. À luz do Marco Civil da Internet (Lei nº 12.965/2014), essa prática é considerada
+
+[ALTERNATIVAS]
+(A) lícita, porque a lei assegura a livre iniciativa e a livre concorrência.
+(B) ilícita, porque viola a regra que impõe a neutralidade da rede.
+(C) ilícita, porque viola a regra da inimputabilidade da rede.
+(D) lícita, porque não configura conduta anticoncorrencial.
+(E) ilícita, porque aplicações não configuram pacotes de dados.
+
+[GABARITO]
+B

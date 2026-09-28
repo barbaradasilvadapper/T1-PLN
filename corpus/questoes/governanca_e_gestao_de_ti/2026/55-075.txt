@@ -1,0 +1,18 @@
+ID: 55-075
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O crescente investimento em tecnologia da informação, em âmbito público e privado, justifica a necessidade de implementar a governança de TI para garantir, entre outros fatores, a conformidade dos processos de TI com as regulamentações vigentes. A respeito da governança de TI no setor público, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A transparência em TI exige concentrar-se prioritariamente na divulgação dos resultados alcançados, cabendo às áreas técnicas definir de forma autônoma quais informações operacionais serão compartilhadas com as partes interessadas.
+(B) A conformidade, no contexto da tecnologia da informação, consiste em cumprir as normas aplicáveis e os requisitos legais. Portanto, é necessário monitorar, de forma contínua, as instruções normativas, as leis e os decretos.
+(C) O monitoramento das ações de tecnologia da informação deve priorizar indicadores operacionais e de infraestrutura, uma vez que a avaliação de benefícios e resultados dos projetos é atribuição exclusiva das áreas de negócio.
+(D) A avaliação do uso da tecnologia da informação por parte dos órgãos públicos é realizada somente de forma interna, ou seja, por um setor específico do próprio órgão, que tem a missão de garantir as boas práticas das ações de TI.
+(E) A implantação de um modelo de governança de TI tem como foco principal a padronização tecnológica e a eficiência operacional dos serviços de TI, independentemente dos objetivos estratégicos definidos pela organização.
+
+[GABARITO]
+B

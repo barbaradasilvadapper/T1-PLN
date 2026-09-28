@@ -1,0 +1,18 @@
+ID: 61-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Nesse contexto, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) a especificação da restrição imposta sobre o atributo cpf_cand da relação candidato produzirá erro de compilação, pois há a demanda pela especificação da cláusula CONSTRAINT.
+(B) a existência do atributo cpf_cand na relação candidato_questao viola, nessa relação, a segunda forma normal.
+(C) a restrição de integridade referencial imposta sobre o atributo cpf_cand da tabela candidato_questao é conflitante com a definição de chave primária da relação.
+(D) a restrição de verificação imposta sobre o atributo gabarito da relação questao permite troca direta entre os predicados IN e EXISTS.
+(E) o atributo cpf_cand é um atributo principal da superchave mínima A= {cpf_cand, id_quest} da relação candidato_questao.
+
+[GABARITO]
+E

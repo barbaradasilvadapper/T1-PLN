@@ -1,0 +1,18 @@
+ID: 11-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando a linguagem de programação Python, analise os itens I, II e III a seguir. Os códigos foram escritos na versão 3.10.12. I. Após a execução das linhas de código abaixo, o valor atribuído a y será zero. <1> x = {x : x ** 2 for x in range(10) if x%2} <2> y = x.pop(0) II. Considerando as linhas de código abaixo, pode-se afirmar que a atribuição na linha <7> não será executada. <1> x = 1 <2> while x < 100: <3> x = x + 1 <4> if not x // 3: <5> break <6> else: <7> y = x III. Considere o código abaixo. <1> def f(n): <2> if n==1: <3> return 1 <4> else: <5> return f(n-1)*n A expressão f(5) retorna 120.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

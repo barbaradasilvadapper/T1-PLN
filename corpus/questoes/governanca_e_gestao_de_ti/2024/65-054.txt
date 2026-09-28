@@ -1,0 +1,18 @@
+ID: 65-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Uma empresa de tecnologia pretende implementar um escritório de projetos (PMO). Assinale a afirmativa que descreve o modelo PMO correto.
+
+[ALTERNATIVAS]
+(A) O PMO Controle fornece suporte administrativo aos gerentes de projeto, limitando-se à gestão de documentos e ao controle de recursos, sem intervir nas decisões estratégicas do projeto.
+(B) O PMO Organizacional atua como uma entidade consultiva, oferecendo diretrizes, padrões, e políticas para a gestão de projetos, mas não possui autoridade para gerenciar ou tomar decisões sobre projetos específicos.
+(C) O PMO de Apoio oferece uma gama de serviços de suporte aos projetos, incluindo treinamento, software de gerenciamento de projetos e melhores práticas, atuando de maneira consultiva e, em alguns casos, administrativa.
+(D) O PMO Diretivo assume a responsabilidade integral pela gestão de projetos, controlando-os diretamente e tomando todas as decisões estratégicas e operacionais, o que garante que estejam alinhados com os objetivos organizacionais.
+(E) O PMO de Integração é responsável exclusivamente pela coordenação de interfaces entre diversos projetos, não oferecendo nenhum tipo de serviço de suporte, treinamento ou diretriz metodológica.
+
+[GABARITO]
+C

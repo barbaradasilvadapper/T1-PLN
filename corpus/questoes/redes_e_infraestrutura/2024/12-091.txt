@@ -1,0 +1,18 @@
+ID: 12-091
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em um ambiente de microsserviços, o Service Discovery é essencial para a comunicação eficiente entre serviços. Analise as seguintes práticas de implementação: I. Utilizar um sistema de Service Discovery centralizado com registros dinâmicos e consultas via DNS ou API. II. Codificar os endereços IP dos serviços nos arquivos de configuração dos consumidores para reduzir a latência de busca. III. Utilizar um balanceador de carga junto com Service Discovery para distribuir o tráfego entre instâncias de serviço. Com o objetivo de garantir uma descoberta de serviços robusta e resiliente, é(são) prática(s) correta(s):
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 47-035
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No contexto da segurança da informação, os controles podem ser classificados em físicos e lógicos, conforme sua natureza e forma de atuação. Considerando esse contexto, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O firewall é um mecanismo de segurança física voltado à proteção do perímetro organizacional.
+(B) A autenticação por senha é um mecanismo de segurança física, pois restringe o acesso aos equipamentos computacionais.
+(C) A criptografia de dados, o registro de logs e os mecanismos de auditoria são exemplos de controles de segurança física, pois atuam na proteção da infraestrutura.
+(D) A proteção ambiental de instalações críticas e a política de descarte seguro de mídias digitais constituem, respectivamente, controles de segurança lógica e de segurança física.
+(E) O uso de tokens FIDO2 para autenticação de usuários em sistemas corporativos e a instalação de câmeras de monitoramento (CFTV) em data centers constituem, respectivamente, controles de segurança lógica e de segurança física.
+
+[GABARITO]
+E

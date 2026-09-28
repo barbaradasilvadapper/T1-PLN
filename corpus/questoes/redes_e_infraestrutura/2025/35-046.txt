@@ -1,0 +1,18 @@
+ID: 35-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Atualmente existem diversos meios de transmissão guiados. Com relação as propriedades e vantagens de utilização dos cabos de fibras óticas em relação a outros meios guiados, analise os itens a seguir. I. A fibras óticas tem atenuação baixa. Curiosamente a atenuação foi o principal problema para utilização das fibras óticas, porém atualmente consegue-se atenuações menores de 0.1 dB/Km, que permitem a colocação de repetidores com intervalos de 50 a 100 Km. II. As fibras óticas sofrem baixa interferências de ruídos e possuem excelente imunidade termomagnética. Por serem construídas utilizando apenas materiais dielétricos elas não sofrem interferência termomagnética. Além disso, não existe problema de aterramento no interfaceamento dos transceptores. O rompimento de uma fibra ótica não provoca faíscas, permitindo sua utilização em ambientes explosivos, como indústria de petróleo. Como não sofrem as interferências de ruídos não há risco com a proximidade de motores ou sofrer com descargas atmosféricas, possibilitando sua instalação junto às linhas de transmissão de energia elétrica ou leito de ferrovias. III. As fibras possuem peso e larguras reduzidas. A elevada densidade da fibra quando comparada aos equivalentes metálicos e a grande banda passante possibilitam a construção de cabos significativamente menores e mais leves. Apesar, do excelente confinamento do sinal luminoso que permite a construção de cabos com múltiplas fibras, quando aterradas as fibras são inumes às interferências termomagnética.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 34-045
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo de roteamento RIP (Routing Information Protocol) utiliza como métrica principal para seleção de rotas o número de saltos até o destino. O número máximo de saltos suportado pelo RIP para considerar uma rota válida é
+
+[ALTERNATIVAS]
+(A) 10.
+(B) 15.
+(C) 30.
+(D) 100.
+(E) 255.
+
+[GABARITO]
+B

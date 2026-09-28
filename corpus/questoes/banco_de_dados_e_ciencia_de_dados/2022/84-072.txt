@@ -1,0 +1,18 @@
+ID: 84-072
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação aos conceitos de aprendizado de máquina, assinale V para a afirmativa verdadeira e F para a falsa. I. Os três principais paradigmas de aprendizado de máquina são os de aprendizado supervisionado, não supervisionado e por inteligência profunda. II. os algoritmos de classificação e clusterização estão correlacionados com paradigma de aprendizado supervisionado. III. os algoritmos de support vector machines e randon forest são paradigmas do aprendizado de inteligência profunda. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V, V e V.
+(B) V, V e F.
+(C) V, F e V.
+(D) F, V e V.
+(E) F, F e F.
+
+[GABARITO]
+E

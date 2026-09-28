@@ -1,0 +1,18 @@
+ID: 94-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o pretenso código JavaScript a seguir. const xpto = (a, b) => a + b; Sobre esse trecho, é correto afirmar que esse código:
+
+[ALTERNATIVAS]
+(A) é válido, porque define uma função que retorna a soma de dois números fornecidos como parâmetros;
+(B) não compila devido à ausência de um par dos delimitadores “{“ e “}”;
+(C) não compila porque o símbolo “=>” não é permitido na definição de uma função JavaScript;
+(D) não compila porque o símbolo “=>” não é permitido numa declaração const;
+(E) pode ser compilado, mas gera erro em tempo de execução quando xpto for invocada.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 78-060
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma interface de programação de aplicativos (API, Application Programming Interface) fornece uma maneira de integrar aplicações e conectar componentes em arquiteturas de microsserviços. Uma API REST (Representational State Transfer, ou transferência de estado representacional)
+
+[ALTERNATIVAS]
+(A) proporciona conformidade integrada, fazendo com que seja uma opção recomendada para casos empresariais.
+(B) é um protocolo.
+(C) possibilita comunicação entre aplicações através de métodos HTTP.
+(D) é um conjunto de regras e diretrizes sobre como você deve criar uma API DESKTOP.
+(E) implementa a linguagem de descrição de serviços web (WSDL, Web Services Description Language).
+
+[GABARITO]
+C

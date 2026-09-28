@@ -1,0 +1,18 @@
+ID: 95-057
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Carlos foi incumbido de testar o web service WebJus. A fim de avaliar o funcionamento básico do WebJus, Carlos criou o plano de teste TstBasico no JMeter. O TstBasico executa duas requisições ao WebJus, utilizando na primeira requisição o método HTTP GET e na segunda o método HTTP POST. Para determinar ao JMeter a execução das duas requisições, Carlos adicionou ao TstBasico dois elementos de teste do tipo:
+
+[ALTERNATIVAS]
+(A) timer;
+(B) listener;
+(C) sampler;
+(D) assertion;
+(E) controller.
+
+[GABARITO]
+C

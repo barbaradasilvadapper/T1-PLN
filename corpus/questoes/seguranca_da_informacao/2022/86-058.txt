@@ -1,0 +1,18 @@
+ID: 86-058
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em relação ao conceito de ameaças, vulnerabilidades e impactos, analise as afirmativas a seguir. I. O vazamento de dados sensíveis e sigilosos pode causar um grande impacto à imagem de uma empresa. II. Ameaças podem ser identificadas e até mesmo eliminadas se forem adotados os controles e medidas de proteção adequadas. III. Espionagem industrial é uma vulnerabilidade permanente para determinados segmentos de negócios.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) I e III, apenas.
+
+[GABARITO]
+A

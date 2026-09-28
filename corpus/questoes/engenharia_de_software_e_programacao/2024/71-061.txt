@@ -1,0 +1,18 @@
+ID: 71-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Acerca de microsserviços, avalie se as afirmativas a seguir são ( ) A camada de orquestração é responsável por monitorar o desempenho dos microsserviços, identificar gargalos e gerenciar a execução dos microsserviços. ( ) O particionamento inteligente pode ser usado para categorizar microsserviços com base em seu uso e dependência de outros microsserviços, garantindo uma alocação eficiente de recursos. ( ) A orquestração de microsserviços se concentra principalmente no gerenciamento da implantação e execução de aplicativos monolíticos, em vez de microsserviços.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – F – F.
+(C) F – V – F.
+(D) F – F – V.
+(E) V – V – V.
+
+[GABARITO]
+A

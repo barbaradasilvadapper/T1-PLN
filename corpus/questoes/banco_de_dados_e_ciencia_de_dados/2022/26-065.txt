@@ -1,0 +1,18 @@
+ID: 26-065
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de suporte de sistemas senado federal
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O particionamento em um SGBD geralmente é empregado em tabelas com grande volume de dados. Como resultado desse processo são gerados conjuntos menores de dados. Essa configuração pode contribuir para melhor desempenho de consultas. Considere que no banco de dados do sistema financeiro da empresa XPTO exista uma tabela chamada Fatura. Essa tabela possui bilhões de tuplas e não está particionada. O Analista de banco de dados propõe particionar a tabela Fatura utilizando a coluna Ano. O SGBD utilizado para gerenciar o banco de dados do sistema é o SQL Server. Com relação aos itens que devem ser cumpridos para realizar o particionamento da tabela, analise os itens a seguir: I. Os componentes fundamentais para particionar a tabela são: elaborar uma função de partição, criar um esquema de partição, especificar novo grupo de arquivos no banco de dados, criar arquivos de dados para cada ano e criar índice clusterizado contendo a coluna utilizada para o particionamento. II. A função de partição com RANGE RIGHT sobre uma coluna datetime ou datetime2 indica que as tuplas registradas meia noite ficaram em outra partição, ou seja, sendo o primeiro elemento da fragmentação seguinte. III. A função de partição não permite parâmetro de input dos tipos de dados varchar ou nvarchar. IV. Se não for especificado o método adotado para criar os intervalos de fragmentação na função de partição por padrão é adotado o RANGE LEFT. Está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I, III e IV, apenas.
+(B) I, apenas.
+(C) III e IV, apenas.
+(D) II, apenas.
+(E) III, apenas.
+
+[GABARITO]
+C

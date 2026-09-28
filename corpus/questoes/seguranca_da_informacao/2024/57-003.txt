@@ -1,0 +1,18 @@
+ID: 57-003
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+As recomendações de segurança CIS Critical Security Controls, estruturadas em camadas, envolvem à implementação de um conjunto de controles de segurança. Em sua versão 8, são compostas por 18 níveis ou controles macro. Sobre esses controles, aquele que está definido corretamente de acordo com a especificação é o:
+
+[ALTERNATIVAS]
+(A) controle CIS 5: Gerenciamento de Controle de Acesso - visa a estabelecer e manter a configuração segura de ativos corporativos (dispositivos de usuário final, incluindo portáteis e móveis; dispositivos de rede; dispositivos não computacionais/IoT; e servidores) e software (sistemas operacionais e aplicativos);
+(B) controle CIS 7: Gerenciamento de Controle de Acesso - usa processos e ferramentas para atribuir e gerenciar a autorização de credenciais para contas de usuário, incluindo contas de administrador, bem como contas de serviço, para ativos e software corporativos;
+(C) controle CIS 1: Gerenciamento Contínuo de Vulnerabilidades - coleta, alerta, revisão e retenção de logs de auditoria de eventos que podem ajudar a detectar, entender ou se recuperar de um ataque;
+(D) controle CIS 11: Teste de Penetração - indica processos e ferramentas para estabelecer e manter monitoramento de rede abrangente e defesa contra ameaças de segurança em toda a infraestrutura de rede e base de usuários da empresa;
+(E) controle CIS 3: Proteção de dados - desenvolve processos e controles técnicos para identificar, classificar, manipular, reter e descartar dados com segurança.
+
+[GABARITO]
+E

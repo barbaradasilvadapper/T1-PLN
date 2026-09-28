@@ -1,0 +1,18 @@
+ID: 66-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um sistema do Departamento de Trânsito tem um serviço implementado por meio de uma Servlet, com o trecho de código a seguir, que retorna o dono de um carro de uma placa específica. protected void doGet (HttpServletRequest request, HttpServletResponse response) ... String placa = request.getParameter(“placa”); ... Response.getWriter().write(“O dono é: “ + dono); ... Assinale o código que mostra a função javascript que utiliza a biblioteca AJAX para fazer esta consulta a Servlet.
+
+[ALTERNATIVAS]
+(A) function consultarDono (placa) { fetch(`/buscarDono?placa=${placa}`) .then(response => response.text() ) .then(dados => consolo.log(dados) ); }
+(B) function consultarDono (placa) { $.ajax({ url: '/buscarDono', type: 'POST', DATA: { placa: placa }, success: function(response) { console.log(response); } }); }
+(C) function consultarDono (placa) { const xhr = new XMLHttpRequest(); xhr.open('POST' /buscarDono, true); xhr.setRequestHeader('Content-Type'); xhr.send(placa=${placa}); }
+(D) function consultarDono (placa) { fetch(/buscarDono, { method: 'GET', headers: { 'application/json'}, body: JSON.stringgify({ placa: placa }) }) .then(response => response.json() ) .then(dados => console.log(dados) ); }
+(E) function consultarDono (placa) { axios.get(/buscarDono, { params: { id: placa } }) .then(function(response) { console.log(response.data) })); }
+
+[GABARITO]
+A

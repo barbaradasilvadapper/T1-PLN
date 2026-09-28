@@ -1,0 +1,18 @@
+ID: 43-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Uma fábrica de software está abrindo uma filial. A fim de identificar antecipadamente possíveis vulnerabilidades na arquitetura de suas aplicações, e seguindo orientações da matriz, ela está implementando o modelo de ameaças STRIDE. Para verificar a correta implementação, a matriz encaminhou um projeto para execução na filial. Esta identificou que a aplicação encaminhada fazia alterações em dados persistentes no banco de dados. Na abordagem STRIDE, a filial está trabalhando na categoria:
+
+[ALTERNATIVAS]
+(A) falsificação;
+(B) elevação de privilégios;
+(C) adulteração;
+(D) divulgação de informações confidenciais;
+(E) repúdio.
+
+[GABARITO]
+C

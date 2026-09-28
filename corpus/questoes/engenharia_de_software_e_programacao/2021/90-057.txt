@@ -1,0 +1,18 @@
+ID: 90-057
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O uso do XML é bastante difundido no Brasil para troca de dados em aplicações, como notas fiscais, procedimentos médicos e várias outras. Assinale a utilidade de um Schema XML em aplicações dessa natureza.
+
+[ALTERNATIVAS]
+(A) Direciona os aplicativos que leem arquivos no formato XML.
+(B) Permite a conversão automática de arquivos XML para o formato CSV.
+(C) Estabelece precisamente a versão do XML em uso num arquivo no formato XML.
+(D) Permite que um Web Service interprete corretamente um arquivo de dados no formato XML.
+(E) Permite a verificação da estrutura e regras de preenchimento de um arquivo contendo dados no formato XML.
+
+[GABARITO]
+E

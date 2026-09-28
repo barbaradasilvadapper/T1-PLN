@@ -1,0 +1,18 @@
+ID: 95-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A desenvolvedora Amélia está trabalhando no projeto AppBravo. O controle de versões do código-fonte do AppBravo é feito pelo Git. Logo após realizar algumas modificações no branch um do código-fonte do AppBravo, Amélia precisou alterar a cópia de trabalho para o branch dois. Para não perder o progresso feito no branch um, que não estava pronto para ser commitado, Amélia utilizou o comando do Git que arquiva localmente as alterações realizadas que não foram commitadas. Portanto, Amélia utilizou o comando do Git:
+
+[ALTERNATIVAS]
+(A) diff;
+(B) fetch;
+(C) stash;
+(D) reset;
+(E) rebase.
+
+[GABARITO]
+C

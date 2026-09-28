@@ -1,0 +1,18 @@
+ID: 92-057
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O banco de dados relacional de uma escola contém as tabelas denominadas TB_STUDENT_A e TB_STUDENT_B e ambas possuem apenas as colunas ID e NAME. O conteúdo dessas tabelas está detalhado a seguir: Analise a seguinte consulta em linguagem SQL: SELECT * FROM TB_STUDENT_A LEFT JOIN TB_STUDENT_B ON TB_STUDENT_A.NAME=TB_STUDENT_B.NAME. O número de linhas do resultado produzido pela execução deste comando SQL sobre o banco de dados desta escola, excetuada a linha de títulos, é:
+
+[ALTERNATIVAS]
+(A) 2.
+(B) 3.
+(C) 4.
+(D) 5.
+(E) 6.
+
+[GABARITO]
+D

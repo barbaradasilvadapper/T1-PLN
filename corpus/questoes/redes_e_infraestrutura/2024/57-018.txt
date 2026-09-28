@@ -1,0 +1,18 @@
+ID: 57-018
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um órgão público contratou serviço de um provedor de computação em nuvem pública no modelo SaaS (Software as a Service), mas, por ter dados sigilosos, contratou também uma solução de nuvem privada para manipulá-los, em consonância com a LGPD (Lei Geral de Proteção de Dados). Os requisitos tecnológicos para ambas as soluções são iguais, porém o órgão possui apenas uma conexão com a internet para intercambiar informações entre as soluções contratadas. Uma vantagem da nuvem privada em relação à nuvem pública contratada é o(a):
+
+[ALTERNATIVAS]
+(A) menor demanda de profissionais do órgão para administrar a solução;
+(B) maior controle na administração e configuração da infraestrutura;
+(C) maior confiabilidade devido ao maior número de provedores de infraestrutura de comunicação;
+(D) maior desempenho devido às configurações dos equipamentos tecnológicos;
+(E) maior elasticidade por causa da maior quantidade de equipamentos envolvidos na solução.
+
+[GABARITO]
+B

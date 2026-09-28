@@ -1,0 +1,18 @@
+ID: 86-032
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O processo de criar a estrutura analítica do projeto (EAP), comumente realizado em gerenciamento de projetos, consiste em
+
+[ALTERNATIVAS]
+(A) decompor as entregas e o trabalho do projeto em componentes menores e mais facilmente gerenciáveis.
+(B) definir repositórios de conhecimento para guardar informações históricas e lições aprendidas durante o projeto.
+(C) coletar os requisitos de negócios para compor a declaração de escopo do projeto a ser aprovada pelos stakeholders.
+(D) elaborar uma representação hierárquica dos responsáveis e unidades organizacionais impactadas pelo projeto.
+(E) promover uma ação coordenada dentro da organização para assegurar que todos os riscos do projeto sejam mitigados.
+
+[GABARITO]
+A

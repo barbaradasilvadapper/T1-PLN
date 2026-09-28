@@ -1,0 +1,18 @@
+ID: 76-080
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Ao desenvolver a área de intranet da Assembleia, o Analista de Sistemas deve se proteger contra ataques de Cross-Site Scripting (XSS), que ocorrem quando um invasor injeta código malicioso no navegador de um usuário. A principal linha de defesa contra a maioria dos ataques XSS, aplicada na saída de dados do servidor para o browser, é
+
+[ALTERNATIVAS]
+(A) o Output Encoding de dados não confiáveis.
+(B) implementar Rate Limiting no backend.
+(C) utilizar senhas fortes e únicas para cada usuário.
+(D) usar Prepared Statements no banco de dados.
+(E) bloquear todas as requisições HTTP do tipo POST.
+
+[GABARITO]
+A

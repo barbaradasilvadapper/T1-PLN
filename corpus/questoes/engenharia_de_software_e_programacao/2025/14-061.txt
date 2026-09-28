@@ -1,0 +1,18 @@
+ID: 14-061
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O design de software é uma etapa crucial no desenvolvimento de sistemas de software, pois define a estrutura e a arquitetura do sistema antes da implementação. Com relação aos conceitos e práticas importantes no design de software analise os itens a seguir. I. Modelagem UML (Unified Modeling Language, ou Linguagem de Modelagem Unificada) é usada para visualizar e documentar o design do software através de diagramas como diagramas de classes, diagramas de sequência e diagramas de casos de uso. II. Design Orientado a Domínio (ou domain-driven design, DDD) é uma abordagem que foca na modelagem que pode levar a abstrações de software chamadas modelos de domínio. III. Design Responsivo e Escalável busca garantir que o software possa lidar com diferentes cargas de trabalho e se adaptar a diferentes dispositivos e tamanhos de tela. Está correto o que se afirma em.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

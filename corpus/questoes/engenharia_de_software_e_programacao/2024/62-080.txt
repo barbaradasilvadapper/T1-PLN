@@ -1,0 +1,18 @@
+ID: 62-080
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação à linguagem de marcação HTML 5, o elemento disponibilizado para dividir o conteúdo do documento em seções para conteúdos específicos, é o elemento
+
+[ALTERNATIVAS]
+(A) <mark>.
+(B) <aside>.
+(C) <canvas>.
+(D) <main>.
+(E) <item>.
+
+[GABARITO]
+B

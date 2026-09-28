@@ -1,0 +1,18 @@
+ID: 60-028
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um sistema possui uma política de backup que estabelece cópias incrementais executadas diariamente às 6 horas e às 18 horas, de segunda-feira a sábado. Aos domingos é realizada uma cópia completa semanal às 5 horas e uma cópia incremental às 18 horas. O tempo disponível para a equipe de Tecnologia da Informação (TI) recuperar o backup é de 4 horas. Supondo que o sistema tenha sofrido uma avaria às 3 horas de uma quarta-feira e considerando o backup disponível para recuperação de acordo com a política de backup estabelecida, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o RTO (Recovery Time Objective) do sistema é de 3 horas;
+(B) o RPO (Recovery Point Object) do sistema é de 6 horas;
+(C) o backup disponível para recuperação atenderá ao RPO do sistema;
+(D) haverá perda de dados além do RPO do sistema;
+(E) o MTBF (Mean Time Between Failures) é de 7 dias.
+
+[GABARITO]
+C

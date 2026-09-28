@@ -1,0 +1,18 @@
+ID: 48-043
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação às propriedades ACID, fundamentais na implementação de bancos de dados relacionais, a durabilidade das transações é obtida por meio:
+
+[ALTERNATIVAS]
+(A) da utilização de triggers;
+(B) de algoritmos baseados em timestamp ordering;
+(C) de algoritmos two-phase locking;
+(D) de mecanismos e recursos externos ao SGBD;
+(E) de replicação e redundância em memória estável.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 16-039
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A orquestração de contêineres permite automatizar a implantação, o escalonamento e o gerenciamento de aplicações distribuídas. Nesse contexto, ferramentas surgiram para administrar clusters de nós computacionais e garantir alta disponibilidade e eficiência operacional. Diante do exposto, analise as afirmativas a seguir. I. O Kubernetes é uma plataforma de orquestração de contêineres que permite automatizar a implantação, o escalonamento e a gestão de aplicações em clusters de nós computacionais. II. O Rancher é uma ferramenta nativa do Kubernetes utilizada para o gerenciamento de clusters. III. Em um cluster Kubernetes, os nós de trabalho executam os pods, enquanto o plano de controle é responsável pelo gerenciamento do estado do cluster.
+
+[ALTERNATIVAS]
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 09-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto de DevOps, o conceito que descreve única e corretamente a prática de fornecer rapidamente uma nova versão de software ao ambiente de produção com o mínimo de interrupções para os usuários é chamado
+
+[ALTERNATIVAS]
+(A) Integração Contínua (CI).
+(B) Entrega Contínua (CD).
+(C) Gerenciamento de Configuração.
+(D) Monitoramento Contínuo.
+(E) Controle de Versão.
+
+[GABARITO]
+B

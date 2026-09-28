@@ -1,0 +1,18 @@
+ID: 78-041
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+TDD é uma das práticas de programação propostas dentro do escopo das metodologias ágeis. Com relação aos objetivos propostos pelo TDD, analise os itens a seguir. I. Favorecer a escrita de códigos com alta testabilidade. Essa característica é uma consequência natural da manutenção do fluxo de trabalho proposta pela metodologia XP. Por exemplo, como o desenvolvedor sabe que ele terá que escrever a classe C e depois o teste T, é natural que desde o início ele planeje C de forma a facilitar a escrita de T. II. Prática relacionada não apenas com testes, mas também com a melhoria do design de um sistema. Isso acontece porque o desenvolvedor, coloca-se na posição de um usuário da classe C para escrever um teste T III. Evitar que os desenvolvedores esqueçam de escrever testes. TDD promove testes à primeira atividade de qualquer tarefa de programação, seja ela corrigir um bug ou implementar o código de uma nova funcionalidade. Está correto o que se afirma em:
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) III, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

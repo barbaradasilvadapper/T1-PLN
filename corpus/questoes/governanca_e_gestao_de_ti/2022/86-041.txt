@@ -1,0 +1,18 @@
+ID: 86-041
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A Metodologia de Gerência de Projetos do Sistema de Administração de Recursos de Tecnologia da Informação (MGP- SISP) é um instrumento que reúne processos, artefatos, técnicas e ferramentas para os órgãos da Administração Pública. Segundo o ciclo de vida padrão da MGP-SISP, versão 1.0, a estrutura analítica do projeto (EAP) é um artefato que deve ser elaborado na fase de
+
+[ALTERNATIVAS]
+(A) iniciação.
+(B) planejamento.
+(C) execução.
+(D) monitoramento e controle.
+(E) encerramento.
+
+[GABARITO]
+B

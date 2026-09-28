@@ -1,0 +1,18 @@
+ID: 18-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Python a seguir. L=[0,1,1,2,3,5,8,13] for k in range(1,len(L)): L[k],L[k-1] = L[k-1],L[k] print L[-1] O último valor exibido na execução desse código é:
+
+[ALTERNATIVAS]
+(A) 0;
+(B) 1;
+(C) 5;
+(D) 8;
+(E) 13.
+
+[GABARITO]
+A

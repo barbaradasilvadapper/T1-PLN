@@ -1,0 +1,18 @@
+ID: 03-064
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Você foi contratado para liderar uma equipe de DevOps. Um dos objetivos da sua liderança é aumentar a velocidade das entregas e a qualidade de novos recursos das aplicações utilizando o desenvolvimento orientado a testes. Assinale a opção que apresenta a ordem que descreve o ciclo de desenvolvimento orientado a testes.
+
+[ALTERNATIVAS]
+(A) Refatorar - > Escrever um código funcional
+(B) Escrever um caso de teste -> Refatorar
+(C) Refatorar - > Escrever um código funcional - > Escrever um caso de teste
+(D) Escrever um caso de teste -> Escrever um código funcional -> Refatorar
+(E) Escrever um código funcional -> Escrever um caso de teste -> Refatorar
+
+[GABARITO]
+D

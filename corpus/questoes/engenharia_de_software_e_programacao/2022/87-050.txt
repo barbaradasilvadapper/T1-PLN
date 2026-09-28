@@ -1,0 +1,18 @@
+ID: 87-050
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No JavaScript, as três funções nativas que permitem uma rápida comunicação com o usuário de uma página web são:
+
+[ALTERNATIVAS]
+(A) alert, confirm, input;
+(B) alert, input, output;
+(C) exhibit, read, write;
+(D) input, msgbox, print;
+(E) read, ring, output.
+
+[GABARITO]
+A

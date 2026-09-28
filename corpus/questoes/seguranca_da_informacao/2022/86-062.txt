@@ -1,0 +1,18 @@
+ID: 86-062
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Ao analisar uma aplicação web, um auditor verificou que ela estava vulnerável a um ataque conhecido como SSRF, uma das vulnerabilidades Top Ten 2021 do OWASP. Caso um invasor consiga explorar tal vulnerabilidade, ele poderá
+
+[ALTERNATIVAS]
+(A) ler os conteúdos dos cookies que um navegador armazenou relativos a um dado domínio.
+(B) executar scripts no navegador da vítima, podendo inclusive realizar um sequestro de sessão do usuário.
+(C) injetar dados maliciosos no banco de dados da aplicação.
+(D) realizar requisições não autorizadas a outras localidades por meio do lado servidor dessa aplicação web vulnerável.
+(E) realizar uma desfiguração em qualquer página da aplicação web vulnerável. Análise, Desenho e Automação de Processos, e Engenharia de Software
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 41-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+João é um servidor público do Tribunal de Justiça de Sergipe (TJSE) e deverá identificar a configuração feita quando o storage foi instalado no Centro de Dados do TJSE (CD-TJSE). Com isso, ele elencou algumas características: organização de paridade por blocos intercalados, manter um bloco de paridade em um disco separado para blocos correspondentes dos N outros discos e o fato de pequenas gravações independentes não poderem ser executadas em paralelo. Tais características elencadas por João nos remetem ao RAID:
+
+[ALTERNATIVAS]
+(A) 1;
+(B) 2;
+(C) 3;
+(D) 4;
+(E) 5.
+
+[GABARITO]
+D

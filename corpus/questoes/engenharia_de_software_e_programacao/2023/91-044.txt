@@ -1,0 +1,18 @@
+ID: 91-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Marcos está trabalhando em um projeto de sistemas em Java e quer garantir que o atributo de uma classe seja inicializado apenas uma vez e que seu valor não possa ser modificado posteriormente. Na linguagem de programação Java, esse atributo deve ser definido com o modificador
+
+[ALTERNATIVAS]
+(A) abstract.
+(B) default.
+(C) final.
+(D) native.
+(E) volatile.
+
+[GABARITO]
+C

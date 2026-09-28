@@ -1,0 +1,18 @@
+ID: 27-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Lara trabalha no setor de backup e restauração de uma grande empresa. Após participar de alguns workshops, ela identificou um tipo de backup que poderá contribuir para melhor agilidade e segurança dos dados de sua organização. Notou que é bem semelhante ao incremental, porém, seu diferencial está na disponibilidade dos dados. Outras características são: permite a automatização do processo de recuperação de dados, de forma que não é necessário verificar quais bancos de dados necessitam ser recuperados, reduz a quantidade de dados que passa pela rede e apenas as versões mais recentes de blocos que pertencem a um backup restaurado são restauradas. Necessita apenas de um backup completo, logo tem uma menor necessidade de espaço. O tipo de backup implementado por Lara é o backup:
+
+[ALTERNATIVAS]
+(A) completo;
+(B) diferencial;
+(C) incremental;
+(D) diferencial contínuo;
+(E) incremental contínuo.
+
+[GABARITO]
+E

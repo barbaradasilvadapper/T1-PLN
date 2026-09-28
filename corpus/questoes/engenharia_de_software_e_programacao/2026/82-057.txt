@@ -1,0 +1,18 @@
+ID: 82-057
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma consultoria foi contratada para auditar a infraestrutura de integração de uma sociedade empresária que adota arquiteturas orientadas a serviços. Durante a análise, o auditor encontrou as seguintes descrições em um documento da equipe técnica: - "usamos um diretório para que novos sistemas consigam localizar automaticamente os serviços disponíveis"; - "cada serviço expõe sua especificação em um documento que outros sistemas leem para saber como invocá-lo". Considerando os padrões adotados em uma arquitetura SOA, as duas funcionalidades descritas são desempenhadas, respectivamente, por
+
+[ALTERNATIVAS]
+(A) UDDI e WSDL.
+(B) WSDL e UDDI.
+(C) UDDI e SOAP.
+(D) SOAP e WSDL.
+(E) WSDL e SOAP.
+
+[GABARITO]
+A

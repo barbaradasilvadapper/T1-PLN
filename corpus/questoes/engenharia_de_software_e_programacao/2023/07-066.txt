@@ -1,0 +1,18 @@
+ID: 07-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando as boas práticas de construção de código HTML seguindo o Modelo de Acessibilidade em Governo Eletrônico (eMAG), uma recomendação de acessibilidade associada a comportamento é:
+
+[ALTERNATIVAS]
+(A) utilizar CAPTCHAs para impedir que softwares automatizados, conhecidos como bots, executem ações que degradem a qualidade do serviço de um sistema;
+(B) atualizar periodicamente a página em sites com conteúdos dinâmicos, como os canais de notícias;
+(C) redirecionar páginas automaticamente para que o usuário não tenha que redigitar um endereço Web;
+(D) organizar dados em tabelas para efeitos de disposição dos elementos na página;
+(E) disponibilizar todas as funções da página via teclado.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 09-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A Inteligência Artificial (IA) é uma área da ciência da computação que visa desenvolver sistemas capazes de realizar tarefas que normalmente exigiriam inteligência humana. O conceito que está mais diretamente relacionado ao desenvolvimento de sistemas que aprendem com os dados e melhoram seu desempenho ao longo do tempo é o de
+
+[ALTERNATIVAS]
+(A) Algoritmo Genético.
+(B) Redes Neurais Artificiais.
+(C) Lógica Booleana.
+(D) Busca Heurística.
+(E) Programação Linear.
+
+[GABARITO]
+B

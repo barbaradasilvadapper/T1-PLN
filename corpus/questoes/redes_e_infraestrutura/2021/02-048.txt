@@ -1,0 +1,18 @@
+ID: 02-048
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No ambiente Linux, o comando ssh:
+
+[ALTERNATIVAS]
+(A) exibe a lista de processos ativos;
+(B) exibe a utilização e a capacidade do disco;
+(C) exibe informações sobre os arquivos do diretório corrente;
+(D) loga remotamente em outra máquina Linux;
+(E) troca a conta do usuário.
+
+[GABARITO]
+D

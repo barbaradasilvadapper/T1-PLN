@@ -1,0 +1,18 @@
+ID: 93-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação aos conceitos de IaaS, PaaS e SaaS, analise os itens a seguir: I. O modelo de Infraestrutura como Serviço (IaaS) oferece a maior flexibilidade em dar ao cliente acesso e a capacidade de configurar a rede, armazenamento e serviços de computação subjacentes que alimentam suas aplicações de linha de negócios. II. A Plataforma como Serviço (PaaS) é outro modelo de computação em nuvem projetado para remover o fardo de configurar e gerenciar recursos de infraestrutura subjacentes, como serviços de computação, armazenamento e rede. III. O modelo Software como Serviço (SaaS) é projetado para permitir que sua organização se concentre no desenvolvimento do código de sua aplicação e oferece uma plataforma para implantar e gerenciar as versões, atualizações e melhorias de sua aplicação.
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I, II e III.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) III, apenas.
+
+[GABARITO]
+A

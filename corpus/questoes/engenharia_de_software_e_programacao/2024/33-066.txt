@@ -1,0 +1,18 @@
+ID: 33-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Paula foi designada como responsável por um projeto com as seguintes características: inovação, alto grau de incerteza, não ter sido realizado nenhum outro similar em seu órgão e provavelmente passar por muitas mudanças durante o processo. Considerando essas características do projeto, Paula decidiu pela abordagem ágil usando o framework Scrum. A atividade empregada pelo framework Scrum que Paula deve utilizar, para tratar a alta incerteza do projeto, é:
+
+[ALTERNATIVAS]
+(A) realização de sprints;
+(B) manutenção da declaração de escopo;
+(C) confecção de documentação abrangente;
+(D) revisões periódicas de processos e ferramentas;
+(E) acompanhamento permanente da equipe de desenvolvimento.
+
+[GABARITO]
+A

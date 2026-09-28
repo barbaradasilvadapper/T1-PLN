@@ -1,0 +1,18 @@
+ID: 80-025
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Gestão de Riscos busca identificar, analisar e mitigar ameaças potenciais, garantindo a resiliência e a sustentabilidade da organização. Assinale a opção que apresenta, corretamente, o risco de conformidade.
+
+[ALTERNATIVAS]
+(A) Trata-se do risco de perdas financeiras geradas por falhas tecnológicas, como interrupções em sistemas e ataques cibernéticos.
+(B) Representa a probabilidade de perdas decorrentes do não cumprimento de leis, normas e regulamentos, internos ou externos, podendo afetar financeiramente a organização.
+(C) Refere-se ao risco associado à variação de mercado e às flutuações cambiais, que impactam diretamente o desempenho financeiro da organização.
+(D) Diz respeito aos riscos operacionais relacionados à má alocação de recursos humanos e à deficiência na comunicação interna.
+(E) Está ligado exclusivamente à gestão de contratos e ao descumprimento de cláusulas contratuais por parte de fornecedores terceirizados.
+
+[GABARITO]
+B

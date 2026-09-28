@@ -1,0 +1,18 @@
+ID: 48-073
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere o conjunto de dados da entidade PACIENTE que possui o atributo do tipo contínuo TEMPERATURA com os valores {38.0, 39.5, 36.0, 35.5}. Para alimentar uma tarefa de Mineração de Dados, é necessário transformar os dados do atributo TEMPERATURA em um número finito de intervalos, como: {35-37, 38-40}. A tarefa de preparação de dados utilizada no atributo TEMPERATURA é:
+
+[ALTERNATIVAS]
+(A) codificação;
+(B) normalização;
+(C) padronização;
+(D) discretização;
+(E) partição de dados.
+
+[GABARITO]
+D

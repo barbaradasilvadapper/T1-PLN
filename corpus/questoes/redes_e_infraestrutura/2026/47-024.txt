@@ -1,0 +1,18 @@
+ID: 47-024
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto de redes de computadores, existem dois modelos de referência consagrados na literatura: o modelo OSI e o modelo TCP/IP (ou arquitetura TCP/IP). Com relação aos dois modelos, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Os dois modelos se baseiam no conceito de camadas de protocolos independentes. ( ) O modelo TCP/IP não contempla o uso do protocolo UDP (User Datagram Protocol). ( ) Uma das funções precípuas da camada de enlace de dados do modelo OSI é o controle de congestionamento.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – F – V.
+(C) V – F – F.
+(D) F – F – V.
+(E) F – V – V.
+
+[GABARITO]
+C

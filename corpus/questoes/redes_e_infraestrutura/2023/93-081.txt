@@ -1,0 +1,18 @@
+ID: 93-081
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considerando a organização e arquitetura de computadores, avalie os itens a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Um conjunto inter-relacionado de componentes corresponde a um sistema de computador, que se caracteriza pela forma como os componentes são interligados e pela operação dos componentes individuais, tendo como principais componentes: processador, memória e E/S (entrada e saída). ( ) Agrupamento de computadores em forma de clusters propiciam abordagem de alto desempenho e disponibilidade e correspondem a um grupo de computadores completos interconectados trabalhando juntos, como um recurso computacional unificado que pode criar a ilusão de ser uma única máquina. ( ) As placas de vídeo ou unidade de processamento gráfico (GPU, Graphics Processing Unit) tem sido amplamente empregadas em aplicações densamente serializáveis, com excelente aproveitamento em operações matemáticas complexas, atuando na solução de problemas de redes neuronais, bioinformática, dinâmica molecular, modelagem estatística e imagens médicas.
+
+[ALTERNATIVAS]
+(A) V – V – V.
+(B) V – F – V.
+(C) F – F – V.
+(D) F – V – F.
+(E) V – V – F.
+
+[GABARITO]
+E

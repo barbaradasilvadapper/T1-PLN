@@ -1,0 +1,18 @@
+ID: 87-054
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Após comprar um headset bluetooth para usar em videoconferências, um usuário de um computador com sistema operacional Windows 10 ligou o headset, mas este não se conectou automaticamente ao computador. O caminho mais simples que esse usuário pode usar para configurar esse dispositivo é:
+
+[ALTERNATIVAS]
+(A) Botão Iniciar → Configurações → Dispositivos → Bluetooth & outros dispositivos;
+(B) Botão Iniciar → Configurações → Sistema → Som → Bluetooth;
+(C) Botão Iniciar → Configurações → Som → Bluetooth & outros dispositivos;
+(D) Botão Iniciar → Painel de controle → Dispositivos → Comunicação sem fio;
+(E) Botão Iniciar → Painel de controle → Dispositivos → Som → Bluetooth.
+
+[GABARITO]
+A

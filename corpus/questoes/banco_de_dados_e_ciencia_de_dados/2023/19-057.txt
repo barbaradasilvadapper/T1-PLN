@@ -1,0 +1,18 @@
+ID: 19-057
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O administrador de banco de dados do TJSE deverá projetar um banco de dados relacional para armazenar dados, oriundos do novo sistema de gestão de processos. O banco de dados armazenará dados sobre processos, autor, advogado, ocorrência, tipo da ação, município, situação, dentre outros. Para atender esses requisitos, o administrador deverá criar um banco de dados:
+
+[ALTERNATIVAS]
+(A) com uma única tabela para armazenar todos os dados;
+(B) separado para cada tabela, distribuindo os dados entre os bancos de dados;
+(C) com um esquema lógico das tabelas relacionadas, sem definir as chaves estrangeiras;
+(D) com todas as tabelas desnormalizadas para reduzir a redundância de dados;
+(E) com um esquema lógico das tabelas relacionadas, mantendo a integridade referencial.
+
+[GABARITO]
+E

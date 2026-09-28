@@ -1,0 +1,18 @@
+ID: 80-032
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Paula e Maria estão avaliando as potencialidades dos usos de JSON e XML no desenvolvimento de aplicações Web para uma grande companhia estatal. As analistas sabem que JSON e XML são duas escolhas muito comuns quando se trata de formatos de dados na Web. A esse respeito, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Com relação à legibilidade, Paula informa que ambos são legíveis por humanos, mas os documentos XML são mais detalhados.
+(B) Com relação ao volume de dados, Maria informa que o JSON é maior e menos compacto que o XML devido aos elementos extra de marcação.
+(C) Com relação as análises, Paula informa que as análises dos documentos JSON são mais complexas que os XML.
+(D) Com relação ao apoio à gestão de dados, Maria informa que ambos possuem limitado suporte ao idioma português e que o XML está em desuso.
+(E) Com relação aos casos de uso, Paula informa que o JSON é geralmente preterido para aplicações web devido ao seu código binário ser maior o que XML.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 58-031
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto das ferramentas e conceitos relacionados à análise de logs e ao monitoramento de desempenho, assinale a afirmativa incorreta.
+
+[ALTERNATIVAS]
+(A) Logstash é uma ferramenta de processamento de logs que pode coletar, transformar e encaminhar dados para vários destinos.
+(B) Kibana é uma plataforma de visualização de dados que permite aos usuários criar dashboards personalizados para visualizar dados de logs e métricas.
+(C) Logstash suporta uma variedade de plugins de entrada, filtros e saídas, permitindo a personalização do processamento de logs.
+(D) Kibana permite a realização de pesquisas avançadas, análise de dados e visualização de dados em tempo real.
+(E) Logstash e Kibana são utilizados exclusivamente para análise de logs e não podem ser integrados com outras ferramentas de monitoramento e observabilidade.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 34-054
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em bancos de dados relacionais, o objeto que agrupa um conjunto de comandos SQL armazenados no servidor, podendo receber parâmetros e ser executado múltiplas vezes, é denominado
+
+[ALTERNATIVAS]
+(A) View.
+(B) Index.
+(C) Stored Procedure.
+(D) Cursor.
+(E) Schema.
+
+[GABARITO]
+C

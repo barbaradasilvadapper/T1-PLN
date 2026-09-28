@@ -1,0 +1,18 @@
+ID: 07-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+João, gerente de projetos, finalizou com sucesso o seu último projeto e, para isso, utilizou uma técnica de decompor as entregas e o trabalho do projeto em componentes menores e mais facilmente gerenciáveis. A técnica utilizada por João é:
+
+[ALTERNATIVAS]
+(A) bottom-up;
+(B) caminho crítico;
+(C) estrutura analítica do projeto;
+(D) planejamento em ondas sucessivas;
+(E) método do diagrama de precedência.
+
+[GABARITO]
+C

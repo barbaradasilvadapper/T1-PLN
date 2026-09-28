@@ -1,0 +1,18 @@
+ID: 33-075
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A política de segurança da cibernética do Poder Judiciário (PSEC-PJ) tem por finalidade prover princípios, objetivos e instrumentos capazes de assegurar a segurança cibernética no Poder Judiciário. Dentre os instrumentos da PSEC-PJ, foi instituído o protocolo de gerenciamento de crises cibernéticas no âmbito do Poder Judiciário (PGCC-PJ). Considerando o previsto na PSEC-PJ e no PGCC-PJ, ações responsivas devem ser colocadas em prática quando:
+
+[ALTERNATIVAS]
+(A) um incidente de segurança impactar o processo judicial eletrônico;
+(B) o computador de um analista judiciário do TRF1 for contaminado por vírus;
+(C) a mídia noticiar o comprometimento de credenciais de acesso de um sistema descontinuado;
+(D) o servidor de arquivos de backup do TRF1 ficar em manutenção por dois dias consecutivos;
+(E) a contratação do serviço da nuvem nacional da plataforma digital do Poder Judiciário brasileiro atrair grande atenção da mídia e da população em geral.
+
+[GABARITO]
+A

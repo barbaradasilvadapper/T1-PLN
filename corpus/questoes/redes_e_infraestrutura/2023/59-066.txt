@@ -1,0 +1,18 @@
+ID: 59-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um servidor de endereços IP (Dynamic Host Configuration Protocol – DHCP) foi configurado para fornecer endereços IPv4 para máquinas da rede 10.1.2.160/27. Em sua configuração, os quatro últimos IP úteis foram excluídos da oferta DHCP para hospedar o gateway da rede e três máquinas com IP fixo. Com relação à configuração realizada nesse servidor, analise os itens a seguir. I. Os IPv4 reservados para os dispositivos com necessidade de IP fixo são os IP 10.1.2.187, 10.1.2.188, 10.1.2.189 e 10.1.2.190. II. A faixa de IPv4 a ser distribuída pelo servidor DHCP, vai do IPv4 10.1.2.160 até o IPv4 10.1.2.191. III. O servidor DHCP poderá configurar endereço de rede em até 26 máquinas.
+
+[ALTERNATIVAS]
+(A) somente II;
+(B) somente I e II;
+(C) somente I e III;
+(D) somente II e III;
+(E) I, II e III.
+
+[GABARITO]
+C

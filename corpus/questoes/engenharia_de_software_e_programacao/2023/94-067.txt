@@ -1,0 +1,18 @@
+ID: 94-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um Time de Desenvolvimento de Software (TDS) segue um protocolo automatizado para gerar, testar e combinar pacotes de software gerados separadamente. Todo software combinado precisa passar por um processo que inclui uma requisição formal ao Time de Operações (TO) de um Centro de Dados para executar um conjunto de testes, com o intuito de verificar vulnerabilidades no software antes de entrar em produção. Considerando os conceitos de DevOps e DevSecOps, o TDS e o TO estão falhando no princípio:
+
+[ALTERNATIVAS]
+(A) automação;
+(B) colaboração ágil;
+(C) produção contínua;
+(D) integração contínua;
+(E) ação centrada no cliente.
+
+[GABARITO]
+A

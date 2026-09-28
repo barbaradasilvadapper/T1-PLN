@@ -1,0 +1,18 @@
+ID: 13-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A gestora de dados Maria observou que diversos sistemas do MPU utilizam cadastros com as mesmas entidades, como: PROMOTOR, JUIZ, ESTADO, FUNCIONÁRIO. Além disso, Maria observou que cada sistema implementa suas próprias tabelas de cadastro. Diante disso, Maria decidiu implantar a governança de dados corporativa no MPU, iniciando pela gestão dos dados críticos que são compartilhados pelos sistemas de informação, visando a assegurar um uso consistente com a versão mais precisa, oportuna e relevante das entidades essenciais do MPU, e a reduzir os riscos de redundância de dados. De acordo com o DAMA/DMBOK 2ª edição, Maria deve começar pela Área de Conhecimento:
+
+[ALTERNATIVAS]
+(A) Metadata;
+(B) Qualidade de Dados;
+(C) Arquitetura de Dados;
+(D) Dados Mestres e de Referência;
+(E) Integração e Interoperabilidade de Dados.
+
+[GABARITO]
+D

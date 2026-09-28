@@ -1,0 +1,18 @@
+ID: 95-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto da linguagem JavaScript, analise as afirmativas sobre variáveis declaradas como const. I. Devem ter seus valores atribuídos na declaração. II. Podem ter seus valores alterados depois de declaradas. III. Têm sempre escopo global. Está correto o que se afirma em:
+
+[ALTERNATIVAS]
+(A) somente II e III;
+(B) somente I;
+(C) somente II;
+(D) somente III;
+(E) I, II e III.
+
+[GABARITO]
+B

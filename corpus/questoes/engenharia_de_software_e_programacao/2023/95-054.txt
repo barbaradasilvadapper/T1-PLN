@@ -1,0 +1,18 @@
+ID: 95-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Equipe de Tecnologia da Informação (ETI) de um tribunal está envolvida no projeto TERC cujo ciclo de vida segue uma abordagem adaptativa (ágil). Considerando o ciclo de vida empregado no TERC, a ETI:
+
+[ALTERNATIVAS]
+(A) especifica os requisitos do produto final antes do início do desenvolvimento;
+(B) solicita o envolvimento das partes interessadas chave em marcos específicos;
+(C) controla os riscos à medida em que surgem requisitos e restrições;
+(D) ajusta o ciclo de vida do projeto ao ciclo de vida do produto;
+(E) estabelece as fases do projeto com base em um ciclo de vida de desenvolvimento preditivo.
+
+[GABARITO]
+C

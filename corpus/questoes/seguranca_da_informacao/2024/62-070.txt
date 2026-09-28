@@ -1,0 +1,18 @@
+ID: 62-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considerando a necessidade da EPE em proteger suas redes sem fio contra acessos não autorizados e garantir a integridade das comunicações, ela irá revisar e implementar as melhores práticas de segurança. Para assegurar a segurança das redes sem fio, a EPE deve implementar
+
+[ALTERNATIVAS]
+(A) EAP para autenticação, sem nenhuma forma de criptografia adicional.
+(B) WPA2 com algoritmo AES, para fornecer criptografia e proteção contra acessos não autorizados.
+(C) MCHAP-V2, para criptografar todos os dados em trânsito.
+(D) Sistema de Criptografia WEP, sem necessidade de autenticação adicional.
+(E) Sistema Aberto, sem segurança para facilitar o acesso.
+
+[GABARITO]
+B

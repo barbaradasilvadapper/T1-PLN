@@ -1,0 +1,18 @@
+ID: 29-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em redes de computadores, sobre o IPv4 a opção Strict source routing apresenta o(a):
+
+[ALTERNATIVAS]
+(A) caminho restrito da origem;
+(B) caminho completo a ser seguido;
+(C) lista de roteadores que podem ser a origem;
+(D) lista de cada roteador que anexou seu endereço IP;
+(E) lista de roteadores que não devem ser esquecidos.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 70-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma startup de tecnologia em crescimento precisa expandir sua infraestrutura de TI para suportar novos serviços. Para isso, a startup precisa de uma solução que permita flexibilidade e escalabilidade, permitindo o rápido provisionamento de recursos computacionais adicionais, como máquinas virtuais, armazenamento e redes, sem a complexidade de adquirir e gerenciar hardware físico. Além disso, a empresa busca otimizar seus custos operacionais, pagando apenas pelos recursos que efetivamente irá utilizar. Nesse contexto, a opção mais adequada para atender às necessidades da startup, oferecendo máxima flexibilidade e controle sobre o ambiente de computação é
+
+[ALTERNATIVAS]
+(A) Software como Serviço (SaaS).
+(B) Infraestrutura como Serviço (IaaS).
+(C) Plataforma como Serviço (Paas).
+(D) Hospedagem dedicada, alugando servidores físicos em um data center.
+(E) Virtualização On-Premises.
+
+[GABARITO]
+B

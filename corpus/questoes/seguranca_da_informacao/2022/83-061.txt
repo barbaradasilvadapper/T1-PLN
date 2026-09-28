@@ -1,0 +1,18 @@
+ID: 83-061
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ) tem sua regulamentação instituída pela Resolução CNJ nº 396/2021 e pela Portaria CNJ nº 162/2021. Quanto às definições de eventos Cibernéticos do Poder Judiciário, assinale V para a afirmativa verdadeira e F para a falsa. I. Na Prevenção de Incidentes Cibernéticos do Poder Judiciário são princípios críticos que asseguram a construção de sistema de segurança cibernética eficaz: base de conhecimento de vírus, diagnóstico contínuo e automação. II. Na Investigação para Ilícitos Cibernéticos do Poder Judiciário o protocolo tem por finalidade estabelecer os procedimentos básicos para coleta e preservação de evidências e para comunicação obrigatória dos fatos penalmente relevantes ao Ministério Público e ao órgão de polícia judiciária com atribuição para o início da persecução penal. III. Considerando a Prevenção e Mitigação de Ameaças Cibernéticas e Confiança Digital, na etapa de recuperação espera-se que a organização conte com plano que preveja ações a serem executadas durante ou após um incidente e que incorpore as lições aprendidas, bem como que exista gerenciamento de comunicação com o público e um plano de recuperação de reputação após incidentes.
+
+[ALTERNATIVAS]
+(A) F, V e V.
+(B) F, F e V.
+(C) V, F e F.
+(D) V, V e F.
+(E) V, F e V.
+
+[GABARITO]
+A

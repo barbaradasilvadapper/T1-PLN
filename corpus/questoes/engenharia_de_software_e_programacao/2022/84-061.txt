@@ -1,0 +1,18 @@
+ID: 84-061
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+JUnit é um framework que facilita o desenvolvimento e execução de testes unitários em códigos Java. Ao contrário das versões anteriores, o JUnit 5 é composto por muitos módulos oriundos de três subprojetos diferentes conhecidos como
+
+[ALTERNATIVAS]
+(A) IntelliJ IDEA, Spring Boot e Ant.
+(B) Plataforma JUnit, Maven e Eclipse.
+(C) Gradle, Jupyter Notebook e Mockito.
+(D) Plataforma JUnit, JUnit Jupiter e JUnit Vintage.
+(E) Visual Studio Code, Gradle e Plataforma Vintage.
+
+[GABARITO]
+D

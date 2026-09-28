@@ -1,0 +1,18 @@
+ID: 70-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto da criação de usuários em Sistemas Operacionais Linux, há dois comandos possíveis: adduser e useradd. Escolha a alternativa que corretamente representa a diferença entre os dois comandos.
+
+[ALTERNATIVAS]
+(A) adduser é uma interface interativa que simplifica a criação de usuários, enquanto useradd é um comando de linha de comando usado para criar usuários diretamente, exigindo opções adicionais.
+(B) adduser e useradd têm a mesma função, mas são usados em diferentes distribuições Linux por questões de preferência de nomenclatura.
+(C) adduser é exclusivamente usado para criar usuários comuns, enquanto useradd é destinado a criar usuários com privilégios de administrador.
+(D) adduser é um comando mais antigo e obsoleto, enquanto useradd é a opção mais moderna e preferida para a criação de usuários em ambientes Linux.
+(E) adduser e useradd são sinônimos e podem ser usados de forma intercambiável para criar usuários em sistemas Linux.
+
+[GABARITO]
+A

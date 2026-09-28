@@ -1,0 +1,18 @@
+ID: 86-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um dos mecanismos importantes de segurança é aquele que tenta solucionar o problema da autenticidade. A criptografia moderna procura resolver esse problema através dos algoritmos de criptografia assimétrica. Para que isso ocorra,
+
+[ALTERNATIVAS]
+(A) o emissor criptografa a mensagem com a chave pública do receptor e o receptor confirma a autenticidade decriptografando a mensagem usando sua própria chave privada.
+(B) o emissor gera um hash da mensagem e o envia para o receptor junto com a mensagem. O receptor recalcula o hash e o compara com o hash enviado, e se forem iguais, a autenticidade estará confirmada.
+(C) o emissor gera um hash da mensagem e o criptografa com sua chave privada. Para confirmar a autenticidade, o receptor decriptografa o hash recebido usando a chave pública do emissor, e verifica se esse hash é o mesmo calculado da mensagem.
+(D) o emissor e receptor compartilham uma chave para criptografar e assinar digitalmente o hash gerado da mensagem.
+(E) o emissor criptografa a mensagem com o certificado digital do receptor e o receptor confirma a autenticidade usando o certificado digital do emissor.
+
+[GABARITO]
+C

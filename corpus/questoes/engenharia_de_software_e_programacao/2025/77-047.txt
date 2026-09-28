@@ -1,0 +1,18 @@
+ID: 77-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em portais corporativos legislativos, o módulo de Workflow é crítico para a publicação de Atos Oficiais. O Analista de Sistemas precisa garantir que as regras de negócio sejam implementadas para que um documento nunca possa ser publicado antes de ser revisado por pelo menos dois chefes de setor e validado por um procurador. Em termos de Gestão de Conteúdo e Processos, este requisito é um exemplo clássico de como o workflow impõe
+
+[ALTERNATIVAS]
+(A) a segregação de banco de dados entre o conteúdo privado e o público.
+(B) a conformidade com o princípio de Mobile First para o editor de texto.
+(C) o uso exclusivo de HTML semântico para o processo de revisão.
+(D) regras de Negócio e Controles de Segurança/Conformidade no ciclo de vida da informação.
+(E) o uso de Microservices para o backend do portal.
+
+[GABARITO]
+D

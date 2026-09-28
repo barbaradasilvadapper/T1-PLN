@@ -1,0 +1,18 @@
+ID: 45-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A criptografia assimétrica utiliza um par de chaves para codificar e decodificar as mensagens trocadas entre o emissor e o receptor. Sobre a criptografia assimétrica, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o texto cifrado pela chave pública somente poderá ser decifrado com a chave pública;
+(B) o texto cifrado pela chave pública poderá ser decifrado com a chave privada;
+(C) o texto cifrado pela chave privada somente poderá ser decifrado com a chave privada;
+(D) a chave pública não deve ser compartilhada aleatoriamente, devendo ser compartilhada apenas com o receptor da mensagem;
+(E) a chave privada não deve ser compartilhada aleatoriamente, devendo ser compartilhada apenas com o receptor da mensagem.
+
+[GABARITO]
+B

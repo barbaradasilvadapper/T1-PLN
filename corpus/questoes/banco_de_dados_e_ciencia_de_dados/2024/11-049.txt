@@ -1,0 +1,18 @@
+ID: 11-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Ao projetar um banco de dados, espera-se atualizar valores de alguns campos de uma tabela a cada vez que um novo registro é inserido em outra tabela. Para que isso aconteça sem a intervenção do usuário, deve ser implementada, em SQL, a estrutura denominada
+
+[ALTERNATIVAS]
+(A) FUNCTION.
+(B) SCHEMA.
+(C) TRIGGER.
+(D) UPDATE.
+(E) VIEW.
+
+[GABARITO]
+C

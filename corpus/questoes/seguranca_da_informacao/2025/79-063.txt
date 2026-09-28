@@ -1,0 +1,18 @@
+ID: 79-063
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A analista Juliana deve promover, no MPU, a realização de certas atividades previstas na norma NBR ISO/IEC 27001. Ela deve se certificar de que o MPU realize, de forma periódica, a avaliação de riscos da segurança da informação. A analista deve promover ainda a realização efetiva de auditorias internas, de forma recorrente. As atividades que Juliana deve promover são, de fato, exigidas pela norma, nas seções principais de:
+
+[ALTERNATIVAS]
+(A) Planejamento e Melhoria;
+(B) Planejamento e Operação;
+(C) Operação e Contexto da Organização;
+(D) Avaliação de Desempenho e Melhoria;
+(E) Operação e Avaliação de Desempenho.
+
+[GABARITO]
+E

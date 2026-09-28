@@ -1,0 +1,18 @@
+ID: 86-063
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O Business Process Management (BPM) apresenta importantes benefícios para as diferentes partes interessadas. A melhoria do Planejamento e Projeções é um benefício que impacta, diretamente,
+
+[ALTERNATIVAS]
+(A) a organização.
+(B) o cliente.
+(C) a gerência.
+(D) o ator do processo.
+(E) o colaborador.
+
+[GABARITO]
+C

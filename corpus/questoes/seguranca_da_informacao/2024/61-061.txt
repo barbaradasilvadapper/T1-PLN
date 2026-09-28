@@ -1,0 +1,18 @@
+ID: 61-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Lei Geral de Proteção de Dados – LGPD (Lei nº 13.709/2018), em sua Seção II – Do Tratamento de Dados Sensíveis, aborda o conceito de pseudonimização de dados em seu Art. 13, § 4º. Tal conceito refere-se ao tratamento que inviabiliza a identificação de um indivíduo por associação a um dado, a menos por uso de informação adicional mantido separadamente, em ambiente controlado e seguro, e atribui essa responsabilidade de manutenção ao
+
+[ALTERNATIVAS]
+(A) controlador.
+(B) encarregado.
+(C) executor.
+(D) operador.
+(E) titular.
+
+[GABARITO]
+A

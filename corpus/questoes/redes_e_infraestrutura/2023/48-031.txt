@@ -1,0 +1,18 @@
+ID: 48-031
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Renata presta serviço para a área de redes para a empresa B. Renata identificou que muitos usuários ainda faziam uso do telnet para efetuar login remoto e iniciou a implementação do SSH. Este garante segurança no login remoto, além de oferecer uma capacidade cliente/servidor mais genérica, e pode ser usado para funções de rede como transferência de arquivos e e-mail. Para a implementação correta, o SSH faz uso de vários protocolos. De forma a multiplexar o túnel encriptado para diversos canais lógicos existentes, Renata deverá usar o protocolo:
+
+[ALTERNATIVAS]
+(A) SSH User Authentication Protocol;
+(B) SSH Connection Protocol;
+(C) SSH Transport Layer Protocol;
+(D) Protocolo de Controle de Transmissão;
+(E) Protocolo de Internet.
+
+[GABARITO]
+B

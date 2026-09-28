@@ -1,0 +1,18 @@
+ID: 32-076
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com relação a tecnologias de segurança de rede, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) Um IPS é um sistema que busca detectar ataques em curso, e pode tomar uma ação automática para mitigar ou impedir o ataque. ( ) Um analisador de tráfego como o WireShark permite visualizar pacotes que trafegam pela rede desde que sua interface de rede não esteja em modo promíscuo. ( ) O NAT (Network Address Translation) pode ser divido em DNAT que altera o cabeçalho dos pacotes e SNAT que altera o payload dos pacotes. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) F – F – F.
+(C) V – V – V.
+(D) V – F – V.
+(E) F – V – V.
+
+[GABARITO]
+A

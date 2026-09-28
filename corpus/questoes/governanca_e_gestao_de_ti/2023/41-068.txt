@@ -1,0 +1,18 @@
+ID: 41-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+De acordo com a Resolução CNJ nº 182/2013 (Diretrizes para as contratações de Solução de Tecnologia da Informação e Comunicação), o instrumento de diagnóstico, planejamento e gestão de pessoas, de processos e de Tecnologia da Informação e Comunicação, que visa atender as necessidades de tecnologia de informação e de comunicação de um órgão em um período determinado é o:
+
+[ALTERNATIVAS]
+(A) Plano de Trabalho;
+(B) Plano Anual de Contratações;
+(C) Planejamento Estratégico Institucional;
+(D) Planejamento Estratégico de Tecnologia da Informação e Comunicação;
+(E) Plano Diretor de Tecnologia da Informação e Comunicação.
+
+[GABARITO]
+E

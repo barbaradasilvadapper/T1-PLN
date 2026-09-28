@@ -1,0 +1,18 @@
+ID: 36-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+João é consultor de uma empresa de armazenamento de dados e foi contratado pela empresa X para buscar a solução mais adequada. João então elaborou um relatório com os requisitos. A empresa X possui um servidor dedicado e um data center. Esse servidor dedicado exige um controle direto sobre o armazenamento e a segurança dos dados, com acesso à camada de hardware do dispositivo. Entretanto, o data center busca uma solução em um sistema especializado especificamente para block storage, com recursos como capturas instantâneas, provisionamento fino e data replication. Com base no relatório de João, a empresa X implementará um storage, respectivamente:
+
+[ALTERNATIVAS]
+(A) virtual e físico;
+(B) definido por software e físico;
+(C) físico e físico;
+(D) virtual e definido por software;
+(E) físico e definido por software.
+
+[GABARITO]
+E

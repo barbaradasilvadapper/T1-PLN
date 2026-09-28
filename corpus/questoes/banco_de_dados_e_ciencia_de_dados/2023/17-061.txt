@@ -1,0 +1,18 @@
+ID: 17-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Maria criou um banco de dados no qual há uma tabela com uma coluna X que não aceita valores nulos. Entretanto, como o sistema que mantém essa tabela é novo, na carga inicial dos dados essa coluna não existe. Como Maria não quer abrir mão do impedimento de valores nulos, Maria poderia carregar as linhas incompletas desde que, na coluna X, usasse a cláusula:
+
+[ALTERNATIVAS]
+(A) skip;
+(B) check;
+(C) default;
+(D) float;
+(E) case when ... then ... end.
+
+[GABARITO]
+C

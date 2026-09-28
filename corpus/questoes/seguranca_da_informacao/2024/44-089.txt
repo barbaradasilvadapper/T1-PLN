@@ -1,0 +1,18 @@
+ID: 44-089
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de seguranca tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A segurança de dados em dispositivos móveis é cada vez mais importante devido ao crescente uso deste tipo de dispositivos para atividades pessoais e profissionais. Correlacione as boas práticas ou tecnologias apresentadas a seguir com os respectivos riscos à segurança da informação que elas mitigam neste tipo de dispositivo. 1. Usar senhas fortes e biometria 2. Realizar atualizações regulares de software 3. Utilizar antivírus e antimalware 4. Evitar de usar redes Wi-Fi públicas não seguras ( ) Correção de vulnerabilidades de segurança conhecidas. ( ) Proteger contra ameaças conhecidas. ( ) Protege o acesso ao dispositivo. ( ) Evita ataques providos por servidores de rede não confiáveis, como DHCP, PROXY etc. apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 2 – 3 – 4.
+(B) 4 – 2 – 3 – 1.
+(C) 1 – 4 – 3 – 2.
+(D) 2 – 3 – 1 – 4.
+(E) 4 – 3 – 2 – 1.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 33-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O ethical hacker contratado pelo órgão identificou um malware instalado em alguns computadores do órgão. Ele analisou o comportamento desse malware e identificou as seguintes características: 1. foi recebido por email; 2. foi instalado após sua execução explícita; 3. sua propagação ocorreu por meio de envio de uma cópia de si próprio automaticamente por email; 4. não furta informações sensíveis; e 5. não envia SPAM e phishing. O malware identificado é do tipo:
+
+[ALTERNATIVAS]
+(A) rootkit;
+(B) backdoor;
+(C) worm;
+(D) trojan;
+(E) vírus.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 60-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Tribunal de Justiça do Mato Grosso do Sul (TJMS) recebeu novos integrantes da área de infraestrutura de TI via concurso público. Esses novos servidores terão a responsabilidade de conectar um novo prédio cedido ao TJMS ao prédio principal. A nova instalação deve possuir um nó central que conecte nós secundários. Esses nós têm uma relação pai-filho com os dispositivos. A topologia é extremamente flexível e escalável, oferecendo facilidade na identificação de erros. Porém, a estrutura pode ser difícil de gerenciar e possuir ponto único de falha. Essa nova equipe implementará a topologia em:
+
+[ALTERNATIVAS]
+(A) anel;
+(B) barramento;
+(C) árvore;
+(D) híbrida;
+(E) malha.
+
+[GABARITO]
+C

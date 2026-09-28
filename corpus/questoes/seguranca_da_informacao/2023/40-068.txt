@@ -1,0 +1,18 @@
+ID: 40-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Ana trabalha na empresa Y em home office. Ao retornar do almoço, ela verificou uma mensagem pop-up com o logo de uma empresa de antivírus informando que sua máquina havia sido invadida e que para resolver o problema deveria clicar na verificação de malware solicitada na mensagem. Ana acabou clicando no local solicitado e a mensagem sumiu. Após alguns dias, Ana notou que seus dados pessoais haviam sido roubados e que compras foram feitas em seu nome. Ana entrou em contato com a empresa Y, informando que tinha sofrido um ataque de:
+
+[ALTERNATIVAS]
+(A) scareware;
+(B) spyware;
+(C) adware;
+(D) malware sem arquivo;
+(E) ransomware.
+
+[GABARITO]
+A

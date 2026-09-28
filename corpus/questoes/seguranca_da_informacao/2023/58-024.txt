@@ -1,0 +1,18 @@
+ID: 58-024
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Maria quer enviar uma mensagem para João por meio de um canal inseguro e escolheu um método de criptografia assimétrica para garantir o sigilo de modo que somente João possa ler o conteúdo da mensagem original. Nesse contexto, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Uma única cifra de transposição deve ser usada para cifrar e decifrar a mensagem.
+(B) Uma única cifra de substituição deve ser usada para cifrar e decifrar a mensagem.
+(C) Uma função hash deve ser usada para cifrar e decifrar a mensagem.
+(D) Uma única chave secreta deve ser usada para cifrar e decifrar a mensagem.
+(E) Uma chave pública deve ser usada para cifrar e uma chave privada para decifrar a mensagem.
+
+[GABARITO]
+E

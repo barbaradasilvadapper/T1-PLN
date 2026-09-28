@@ -1,0 +1,18 @@
+ID: 56-008
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista João desenvolveu o web service cvmWS, com base no protocolo Simple Object Access Protocol (SOAP). A fim de otimizar a serialização de um arquivo binário anexo à mensagem SOAP, João implementou em cvmWS a especificação SOAP Message Transmission Optimization Mechanism (MTOM). Quando a serialização otimizada do MTOM é bem-sucedida, os clientes do cvmWS devem ler o conteúdo do arquivo anexo contido:
+
+[ALTERNATIVAS]
+(A) dentro do envelope SOAP, no elemento xop;
+(B) fora do envelope SOAP, no corpo da mensagem;
+(C) dentro do envelope SOAP, no elemento binaryData;
+(D) dentro do envelope SOAP, no elemento base64Binary;
+(E) fora do envelope SOAP, em uma mensagem subsequente.
+
+[GABARITO]
+B

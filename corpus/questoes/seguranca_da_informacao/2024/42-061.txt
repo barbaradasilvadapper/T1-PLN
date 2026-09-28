@@ -1,0 +1,18 @@
+ID: 42-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No contexto de Gerenciamento de Projetos aplicados à Segurança Cibernética e Proteção de Dados, os grupos de processos e áreas de conhecimento desempenham um papel essencial para garantir a implementação de políticas de segurança eficazes e a mitigação de riscos cibernéticos. Assinale a opção que representa uma prática que pertence ao grupo de Planejamento e à área de conhecimento de Gestão de Riscos.
+
+[ALTERNATIVAS]
+(A) Monitorar incidentes de segurança cibernética e atualizar o plano de resposta a incidentes.
+(B) Identificar as partes interessadas e documentar suas expectativas no projeto.
+(C) Desenvolver o plano de gerenciamento de riscos, identificando as ameaças e vulnerabilidades no ambiente de TI.
+(D) Realizar a auditoria de conformidade com as normas de proteção de dados após a implementação.
+(E) Executar o plano de resposta a incidentes para mitigar ameaças cibernéticas em tempo real.
+
+[GABARITO]
+C

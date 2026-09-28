@@ -1,0 +1,18 @@
+ID: 57-031
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O LDAP é utilizado como base de autenticação para vários sistemas de uma organização. Para aumentar a disponibilidade, foi criada uma estrutura com dois servidores master que replicam os dados entre si (master x master ou multimaster) e replicam os dados para 2 servidores slaves (master x slave). Foi utilizada a versão 2.4 do OpenLdap. Sobre a replicação dos dados no LDAP, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) os clientes LDAP podem consumir os dados em todos os servidores (master e slave);
+(B) durante a replicação master x master, ambos os servidores se comportam como fornecedores dos dados simultaneamente;
+(C) a replicação multimaster permite o balanceamento de carga entre os servidores;
+(D) na replicação master x slave, os servidores slaves aceitam operações de leitura e escrita;
+(E) na replicação master x slave, o servidor slave pode ser tornar master, em caso de indisponibilidade do servidor master.
+
+[GABARITO]
+E

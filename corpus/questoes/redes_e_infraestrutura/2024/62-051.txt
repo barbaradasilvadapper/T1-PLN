@@ -1,0 +1,18 @@
+ID: 62-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A concepção do endereçamento IPv6 foi essencial para suprir à escassez de endereços no IPv4, oferecendo maior oferta de endereços para dispositivos em redes de dados, melhor segurança e suporte aprimorado para novas tecnologias. Sobre o endereçamento IPv6, analise as afirmativas a seguir. I. O EUI-64 (Extended Unique Identifier-64) é um método que permite que as máquinas utilizem os 48 bits do seu endereço MAC para gerar os 64 bits menos significativos do endereço IPv6. Isso é feito por meio da inserção dos hexadecimais “FFFE” no meio do endereço MAC original e da inversão de valor do bit 7, (7º bit da esquerda para a direita) do mesmo endereço MAC. II. No endereçamento IPv6 são admitidas as formas de encaminhamento de pacotes unicast, multicast, anycast e broadcast. III. Endereços link-local IPv6 são endereços que são válidos apenas dentro de um único link ou segmento de rede local. Eles são utilizados para comunicação entre dispositivos na mesma rede local e não são roteados para outras redes.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III apenas.
+(D) II e III apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

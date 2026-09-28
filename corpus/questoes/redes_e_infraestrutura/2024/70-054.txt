@@ -1,0 +1,18 @@
+ID: 70-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considere uma rede MPLS que utiliza LDP (Label Distribution Protocol) para a distribuição de rótulos e engenharia de tráfego para otimizar o fluxo de dados entre diversos pontos de extremidade. Essa rede é projetada para suportar aplicações críticas que exigem QoS (Quality of Service) diferenciada, incluindo VoIP (Voice over IP) e streaming de vídeo. Com base nesta configuração, assinale a opção que descreve corretamente a aplicação de políticas de engenharia de tráfego e a seleção de caminhos em um ambiente MPLS, considerando os objetivos de desempenho e a eficiência da rede.
+
+[ALTERNATIVAS]
+(A) A engenharia de tráfego em MPLS não afeta a QoS, já que o LDP foca apenas na distribuição de rótulos, ignorando a latência ou perda de pacotes.
+(B) MPLS utiliza engenharia de tráfego para priorizar aplicações como VoIP, usando LSPs para assegurar QoS e otimizar a largura de banda.
+(C) O LDP em MPLS automaticamente escolhe caminhos de menor latência para todas as aplicações, eliminando a necessidade de engenharia de tráfego extra.
+(D) A seleção de caminhos por LDP em MPLS é aleatória, com engenharia de tráfego aplicada apenas para pequenos ajustes, sem grande impacto na QoS.
+(E) Engenharia de tráfego em MPLS cria LSPs com QoS única, direcionando todo o tráfego pelo mesmo caminho, independentemente de sua sensibilidade à latência ou perda de pacotes, otimizando apenas a largura de banda.
+
+[GABARITO]
+B

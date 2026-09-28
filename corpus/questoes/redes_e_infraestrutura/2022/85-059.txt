@@ -1,0 +1,18 @@
+ID: 85-059
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+César foi contratado para desenvolver um sistema em uma empresa e deve usar seu próprio notebook. Por questões de segurança, apenas os notebooks cadastrados podem usar a rede local da empresa. Para isso, a equipe de suporte de redes solicitou a César o endereço exclusivo da placa de rede do seu notebook que contém 48 bits, normalmente escrito em notação hexadecimal, por exemplo: 00-C0-75-E2-B7-91. Para isso, César deve fornecer o endereço:
+
+[ALTERNATIVAS]
+(A) IP;
+(B) IPv6;
+(C) MAC;
+(D) IMAP;
+(E) Netmask.
+
+[GABARITO]
+C

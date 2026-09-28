@@ -1,0 +1,18 @@
+ID: 75-035
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A técnica de armazenamento de dados na nuvem pode usar estruturas de nuvem públicas e privadas. O serviço de nuvem oferecido pela empresa Microsoft é o
+
+[ALTERNATIVAS]
+(A) Dropbox.
+(B) Drive.
+(C) OneDrive.
+(D) AWS.
+(E) Bing.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 38-032
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O site do Tribunal de Justiça está na fase de pré-produção, ou seja, faltam apenas pequenos ajustes para disponibilizá-lo. Durante os últimos testes foi verificado que não estava conseguindo cadastrar o serviço de DNS para o site, pois o tráfego do protocolo UDP estava com alguns problemas. Para que o protocolo funcione corretamente, a equipe de rede deve implementar a funcionalidade de:
+
+[ALTERNATIVAS]
+(A) envio de uma quantidade de mensagens maior que o TCP;
+(B) checksum do cabeçalho, dos dados e de um pseudocabeçalho conceituais do IP;
+(C) controle de congestionamento a partir do protocolo de janela deslizante;
+(D) controle de retransmissão utilizando o jitter em sua verificação;
+(E) controle de fluxo para que não haja a perda de pacotes e que, caso ocorra, solicite a retransmissão.
+
+[GABARITO]
+B

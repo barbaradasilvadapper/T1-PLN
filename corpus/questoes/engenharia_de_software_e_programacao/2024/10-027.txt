@@ -1,0 +1,18 @@
+ID: 10-027
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Bárbara implementa um algoritmo de ordenação estável cuja complexidade temporal média O T pertence a O(n.logn) e cuja complexidade espacial O E pertence a O(n), sendo n o tamanho do vetor a ser ordenado. O algoritmo implementado é o:
+
+[ALTERNATIVAS]
+(A) quick sort;
+(B) merge sort;
+(C) bubble sort;
+(D) insertion sort;
+(E) selection sort.
+
+[GABARITO]
+B

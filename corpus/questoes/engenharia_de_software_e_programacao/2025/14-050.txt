@@ -1,0 +1,18 @@
+ID: 14-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Sistemas de Gestão de Conteúdo (CMS) facilitam a criação, edição e organização de conteúdo online, sem a necessidade de conhecimentos técnicos em programação. Joomla é um CMS gratuito, de código aberto e muito popular em várias organizações públicas. Considere a versão 1.5 desse CMS e o cenário onde um administrador deseja restringir o acesso a um artigo. Com relação aos passo-a-passo a ser executado pelo administrador, analise os itens a seguir. I. Efetuar login no back-end como administrador e selecionar “Conteúdo > Gerenciador de Artigos”. Lá o administrador verá uma lista de todos os artigos criados. II. O administrador poderá ver as permissões para cada artigo na coluna “Access Level”. Por padrão, os artigos são salvos com permissões de acesso “Public”. III. Caso o administrador queira alterar as permissões de acesso (por exemplo, negar acesso a um artigo para usuários não registrados), ele tem dois caminhos possíveis: a) Clicar no link da coluna “Nível de acesso” para alterá-lo de “Público” ou para “Registrado” ou “Especial”, e em seguida “Salvar” as alterações. Ou b) Clicar no título do artigo escolhido para visualizar o conteúdo e alterar o nível de acesso em “Parâmetros (artigo) > Nível de acesso”, não sendo necessário salvar as alterações. Está correto, o que se afirma em
+
+[ALTERNATIVAS]
+(A) II e III, apenas.
+(B) I e III, apenas.
+(C) I e II, apenas.
+(D) III, apenas.
+(E) II, apenas.
+
+[GABARITO]
+C

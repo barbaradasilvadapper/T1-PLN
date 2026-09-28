@@ -1,0 +1,18 @@
+ID: 35-067
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Wi-Fi 6, também conhecido como padrão IEEE 802.11ax, tem como taxa de transferência máxima em vários canais o valor nominal de até
+
+[ALTERNATIVAS]
+(A) 2.4 Gbps.
+(B) 3.5 Gbps.
+(C) 5.0 Gbps.
+(D) 9.6 Gbps.
+(E) 19.2 Gbps.
+
+[GABARITO]
+D

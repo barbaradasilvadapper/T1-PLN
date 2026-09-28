@@ -1,0 +1,18 @@
+ID: 78-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O padrão arquitetural MVC foi proposto na década de 70 e desde então vem sendo amplamente utilizado no mercado. Com relação às afirmativas sobre o padrão, avalie as afirmativas a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Visão - são as classes responsáveis pela apresentação da interface gráfica do sistema, incluindo janelas, botões, menus, barras de rolagem. A interface gráfica é formada por objetos de visão e contêineres. ( ) Conteiner - são as classes que tratam e interpretam eventos gerados por dispositivos de entrada, como mouse e teclado. Como resultado de tais eventos, contêineres podem solicitar uma alteração no estado do Modelo ou da Visão. Suponha, por exemplo, uma Calculadora. Quando o usuário clica em um botão +, uma classe Controladora deve capturar esse evento e chamar um método do Modelo. ( ) Modelo - são as classes que armazenam os dados manipulados pela aplicação e que têm a ver com o domínio do sistema em construção. Assim, classes de Modelo não têm qualquer conhecimento ou dependência para classes de Visão e Contêineres. Além de dados, classes de Modelo podem conter métodos que alteram o estado dos objetos de domínio.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – F – F.
+(C) F – V – F.
+(D) F – V – V.
+(E) F – F – V.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 73-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Você é um administrador de rede em uma grande empresa que utiliza o protocolo SNMP para monitorar e gerenciar dispositivos de rede, como roteadores, switches e servidores. Recentemente, houve uma preocupação crescente com a segurança das informações trocadas entre esses dispositivos e o servidor de gerenciamento. Para aumentar a segurança, você decide implementar o SNMPv3, que oferece recursos avançados de segurança em comparação com as versões anteriores do protocolo. Durante uma reunião de equipe, seu chefe pergunta sobre as características de segurança específicas do SNMPv3, especialmente no que se refere ao mecanismo de segurança que ele utiliza para fornecer criptografia, autenticação, proteção contra ataques de reprodução e controle de acesso. A segurança SNMPv3 é conhecida como baseada:
+
+[ALTERNATIVAS]
+(A) em PGP;
+(B) em IPsec;
+(C) no usuário;
+(D) em SSL/TLS;
+(E) na assinatura digital.
+
+[GABARITO]
+C

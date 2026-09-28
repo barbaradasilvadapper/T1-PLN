@@ -1,0 +1,18 @@
+ID: 85-047
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A caixa de execução (run box) intitulada Executar do Windows 10, por meio da qual é possível abrir pastas, documentos, programas e recursos da Internet, pode ser acionada pela combinação das teclas:
+
+[ALTERNATIVAS]
+(A) Alt + E;
+(B) Alt + W;
+(C) Ctrl + Alt + Del;
+(D) Esc + Home;
+(E) Windows + R.
+
+[GABARITO]
+E

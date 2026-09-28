@@ -1,0 +1,18 @@
+ID: 11-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Disponibilizado inicialmente em 2012, o OAuth2 é um protocolo de autorização cujo objetivo é permitir que os usuários deem acesso aos seus recursos hospedados por um provedor de serviços, sem apresentar credenciais. A respeito do OAuth2, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Ao contrário dos tokens de acesso, os tokens de atualização são destinados ao uso somente com servidores de autorização e nunca são enviados aos servidores de recursos.
+(B) Os clientes não precisam registrar seus redirecionamentos de URI antes de usá-los em um fluxo de autorização.
+(C) O servidor de recursos emite tokens de acesso ao cliente após autenticar o proprietário do recurso com sucesso e obter autorização.
+(D) Os tokens de atualização devem ser enviados diretamente ao cliente para autenticação, sem necessidade de proteção adicional.
+(E) Só existe um tipo de cliente, o confidencial, aquele capaz de manter a confidencialidade de suas credenciais.
+
+[GABARITO]
+A

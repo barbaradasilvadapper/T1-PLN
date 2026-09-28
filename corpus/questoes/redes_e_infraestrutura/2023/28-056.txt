@@ -1,0 +1,18 @@
+ID: 28-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Rafaela é a responsável pela configuração dos serviços de e-mail da Ouvidoria do TJSE e adotou a estratégia de ocupar o menor espaço possível no servidor de e-mails. Os e-mails enviados para a caixa da Ouvidoria podem ser manipulados por todos os funcionários da Ouvidoria, mas os e-mails enviados ao ouvidorgeral são acessados apenas por ele. Para o recebimento de e-mails, os clientes de e-mail dos computadores dos funcionários da Ouvidoria e do ouvidor-geral usam, respectivamente, os protocolos:
+
+[ALTERNATIVAS]
+(A) SMTP e POP3;
+(B) POP3 e IMAP;
+(C) IMAP e POP3;
+(D) IMAP e IMAP;
+(E) POP3 e POP3.
+
+[GABARITO]
+C

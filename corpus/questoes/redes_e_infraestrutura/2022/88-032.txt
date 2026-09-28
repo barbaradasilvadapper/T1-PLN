@@ -1,0 +1,18 @@
+ID: 88-032
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma determinada organização usa um sistema de monitoramento e vigilância por meio de câmeras distribuídas e conectadas a um sistema central. As imagens dessas câmeras são armazenadas em um equipamento de gravação que possui 3 discos rígidos iguais. Para proteger os dados em caso de falha, o equipamento de gravação implementa a tecnologia RAID, na qual os dados são subdivididos em blocos e bits de paridade são criados. Os blocos de dados e as informações de paridade são distribuídas de forma alternada em todos os discos. O nível de RAID implementado neste equipamento de gravação é o
+
+[ALTERNATIVAS]
+(A) RAID 0.
+(B) RAID 1.
+(C) RAID 5.
+(D) RAID 10.
+(E) RAID 50.
+
+[GABARITO]
+C

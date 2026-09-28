@@ -1,0 +1,18 @@
+ID: 70-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em uma empresa XPTO, havia um sistema corporativo interno cujos servidores de aplicação e banco de dados eram hospedados localmente (on-premises). Os usuários reclamavam da demora em uma consulta específica do sistema ao banco, que durava cerca de 10 a 15 segundos, impactando a produtividade. Para abordar essa questão, a empresa contratou Joselito, um DBA, com a tarefa de otimizar o desempenho do banco de dados. Ansioso para demonstrar suas habilidades, ele implementou rapidamente uma mudança, esperando melhorar o tempo de resposta. No entanto, o resultado foi o oposto do esperado: o tempo de resposta da consulta, em vez de diminuir, aumentou para cerca de 300 segundos. Assinale a opção que representa o comando que foi utilizado por Joselito.
+
+[ALTERNATIVAS]
+(A) DROP TABLE
+(B) DROP INDEX
+(C) REBUILD INDEX
+(D) VACUUM TABLE
+(E) OPTIMIZE TABLE
+
+[GABARITO]
+B

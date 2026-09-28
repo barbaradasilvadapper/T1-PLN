@@ -1,0 +1,18 @@
+ID: 22-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte código em R: É correto afirmar que
+
+[ALTERNATIVAS]
+(A) carrega a biblioteca "ggplot2", carrega o dataset "mpg" e cria um gráfico de barras mostrando a relação entre as variáveis displ e hwy.
+(B) carrega a biblioteca "ggplot2", carrega o dataset "mpg" e cria um gráfico de pontos mostrando a relação entre as variáveis displ e hwy.
+(C) cria um histograma da variável displ usando o dataset "mpg".
+(D) carrega a biblioteca "dplyr", carrega o dataset "mpg" e cria um gráfico de pontos mostrando a relação entre as variáveis displ e hwy.
+(E) carrega a biblioteca "ggplot2", carrega o dataset "mpg", mas o código contém um erro, então não gera nenhum gráfico.
+
+[GABARITO]
+B

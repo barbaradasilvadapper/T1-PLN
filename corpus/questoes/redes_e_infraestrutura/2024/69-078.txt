@@ -1,0 +1,18 @@
+ID: 69-078
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Entre as soluções prestadas por plataforma e infraestrutura como serviço para auxiliar a administração de serviços na nuvem, destaca-se
+
+[ALTERNATIVAS]
+(A) a Infrastructure-as-a-Service (IaaS, ou infraestrutura como serviço), que fornece uma plataforma baseada na nuvem para executar, desenvolver e gerenciar aplicativos.
+(B) a Platform-as-a-Service (PaaS, ou plataforma como serviço), onde os clientes usam o hardware por meio de conexão de Internet, sendo tarifados de forma pré-paga ou conforme assinatura.
+(C) o Software-as-a-service (SaaS, software como serviço), que se refere a um software de aplicativo pronto para uso e hospedado na nuvem.
+(D) a Infrastructure-as-a-Service (IaaS), que possui como principal benefício permitir desenvolvimentos, testagens, implementações, execuções, atualizações e ajustes na escala de aplicativos de forma mais rápida e com custo mais reduzido do que seria possível se tivessem que desenvolver.
+(E) o Software-as-a-service (SaaS), que possui como benefício principal possibilitar acesso por meio de uma interface gráfica com o usuário (GUI), em que equipes de desenvolvimento ou de software development and operations (DevOps) podem colaborar em todos os seus trabalhos durante todo o ciclo de vida do aplicativo, incluindo programação, integração, teste, entrega, implementação e feedback.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 87-071
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Equipe de Sistemas de Software (ESS) de um Ministério Público deseja criar um Web Service para verificação do andamento dos processos a ser reutilizável por diversos usuários e aplicações. Para que o Web Service seja utilizado, a ESS deve incluir na descrição do serviço a:
+
+[ALTERNATIVAS]
+(A) definição dos namespaces em WSDL (Web Service Definition Language);
+(B) descrição da assinatura do serviço com as operações, parâmetros e seus tipos;
+(C) especificação de suas características não funcionais, como desempenho e confiança;
+(D) definição da interface de serviço incluindo informações sobre a semântica do serviço;
+(E) especificação do padrão UDDI (Universal Description, Discovery and Integration) como protocolo para troca de mensagens.
+
+[GABARITO]
+B

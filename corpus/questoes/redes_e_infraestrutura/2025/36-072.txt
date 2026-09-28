@@ -1,0 +1,18 @@
+ID: 36-072
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Por ordem da chefia, Wallace está analisando possíveis melhorias ao protocolo da camada de acesso ao meio na rede local onde trabalha. Ele identificou que o protocolo usado escuta o canal quando deseja enviar um quadro e, se ninguém mais estiver transmitindo, inicia a transmissão imediatamente. Contudo, caso o canal esteja sendo utilizado, não ficará escutando o canal para identificar o fim da transmissão anterior. Então, ele aguardará um intervalo aleatório e repetirá o algoritmo. Wallace identificou que sua rede local faz uso do protocolo:
+
+[ALTERNATIVAS]
+(A) CSMA não persistente;
+(B) CSMA 1-persistente;
+(C) CSMA p-persistente;
+(D) CSMA/CD;
+(E) ALOHA.
+
+[GABARITO]
+A

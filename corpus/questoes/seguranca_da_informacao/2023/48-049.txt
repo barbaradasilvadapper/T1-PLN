@@ -1,0 +1,18 @@
+ID: 48-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Davi é servidor do Departamento de Segurança da Informação do Tribunal de Contas do Estado de São Paulo (TCE SP) e recebeu a tarefa de classificar as informações trafegadas na rede interna do Tribunal. O objetivo é assegurar que a informação receba um nível adequado de proteção de acordo com a sua importância para a organização e conformidade com a LGPD (Lei Geral de Proteção de Dados). Davi encontrou algumas informações estratégicas da empresa que deveriam estar disponíveis apenas para grupos restritos de colaboradores e que deveriam ter níveis médios de confidencialidade. As informações encontradas por Davi devem ser classificadas como:
+
+[ALTERNATIVAS]
+(A) ultrassecretas;
+(B) confidenciais;
+(C) restritas;
+(D) de uso interno;
+(E) públicas.
+
+[GABARITO]
+C

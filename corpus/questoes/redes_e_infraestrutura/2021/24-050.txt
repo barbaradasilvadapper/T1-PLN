@@ -1,0 +1,18 @@
+ID: 24-050
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de segurança da informação definiu que os recursos de banco de dados alocados dentro do ambiente de nuvem pública utilizados pela empresa precisam ser isolados em uma subnet de acesso restrito que não esteja conectada à internet. Para assegurar esse nível de isolamento, deve ser implementado na nuvem pública o seguinte mecanismo:
+
+[ALTERNATIVAS]
+(A) Content Delivery Network;
+(B) Virtual Private Cloud;
+(C) Cloud Load Balancing;
+(D) Hypervisor;
+(E) Serverless.
+
+[GABARITO]
+B

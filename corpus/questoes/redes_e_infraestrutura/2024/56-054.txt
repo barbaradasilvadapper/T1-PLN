@@ -1,0 +1,18 @@
+ID: 56-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Paulo está investigando um problema complexo de performance em um sistema operacional distribuído que utiliza um modelo de sistema de arquivos específico. Ele tem o objetivo de melhorar a eficiência no acesso e manipulação de dados nesse ambiente de alta disponibilidade. Nesse contexto, considerando os diferentes modelos de sistemas de arquivos e suas características, o sistema de arquivos analisado por Paulo é o:
+
+[ALTERNATIVAS]
+(A) FAT32 (File Allocation Table 32);
+(B) NTFS (New Technology File System);
+(C) ext4 (Fourth Extended Filesystem);
+(D) HDFS (Hadoop Distributed File System);
+(E) APFS (Apple File System).
+
+[GABARITO]
+D

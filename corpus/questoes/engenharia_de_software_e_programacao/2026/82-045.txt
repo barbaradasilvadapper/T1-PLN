@@ -1,0 +1,18 @@
+ID: 82-045
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+As Single Page Applications (SPAs) representam um paradigma de desenvolvimento web no qual a aplicação é carregada uma única vez no navegador, e as atualizações de conteúdo ocorrem dinamicamente por meio de requisições assíncronas e manipulação do DOM, sem a necessidade de recarregamento completo da página. Frameworks como Angular, React e Vue.js popularizaram essa abordagem, que se apoia fortemente em APIs do navegador, roteamento do lado do cliente e comunicação com o servidor via APIs REST ou GraphQL. Considere o seguinte cenário: Uma equipe de desenvolvimento está construindo uma SPA utilizando um framework JavaScript moderno. A aplicação possui múltiplas rotas (/home, /produtos, /contato) e consome dados de uma API REST. Ao navegar entre as rotas, o usuário percebe que a URL do navegador é atualizada, porém a página não é recarregada. Considerando os conceitos, as características e o funcionamento das Single Page Applications, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A navegação entre rotas em uma SPA provoca, a cada mudança de URL, uma nova requisição HTTP ao servidor web para obter o documento HTML correspondente à rota acessada, da mesma forma que ocorre em aplicações tradicionais multipágina (MPA).
+(B) O roteamento do lado do cliente em uma SPA utiliza APIs do navegador, como a History API (pushState e replaceState), para atualizar a URL exibida na barra de endereços sem disparar uma requisição de página ao servidor, enquanto o JavaScript se encarrega de renderizar o conteúdo correspondente à nova rota.
+(C) Em uma SPA, o Search Engine Optimization (SEO) é naturalmente superior ao de aplicações multipágina, pois todo o conteúdo da aplicação já está presente no HTML inicial carregado pelo navegador, facilitando a indexação pelos mecanismos de busca.
+(D) As Single Page Applications dispensam completamente a comunicação com o servidor após o carregamento inicial, pois todos os dados necessários para o funcionamento da aplicação são embutidos no JavaScript durante o processo de build.
+(E) O roteamento do lado do cliente em uma SPA é realizado exclusivamente por meio de redirecionamentos HTTP com códigos de status 301 ou 302, cabendo ao servidor decidir qual componente deve ser renderizado a cada mudança de rota.
+
+[GABARITO]
+B

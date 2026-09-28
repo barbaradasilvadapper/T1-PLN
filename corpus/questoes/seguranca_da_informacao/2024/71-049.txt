@@ -1,0 +1,18 @@
+ID: 71-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O objetivo principal do protocolo TLS é fornecer um canal seguro entre dois pares que estão se comunicando. Com relação ao TSL, avalie se as afirmativas a seguir são ( ) Autenticação – O lado servidor do canal é sempre autenticado; o lado do cliente é opcionalmente autenticado e a autenticação pode acontecer por meio de criptografia simétrica (por exemplo, AES ou RC4 ou IDEA). ( ) Confidencialidade – Os dados enviados pelo canal após o estabelecimento são visíveis apenas para os endpoints. TLS não esconde o comprimento dos dados que ele transmite, embora os endpoints sejam capazes de preencher TLS, a fim de ocultar comprimentos e melhorar a proteção contra técnicas de análise de tráfego. ( ) O TLS consiste em dois componentes principais, um protocolo de criptografia e um protocolo de registro que utiliza os parâmetros estabelecidos pelo protocolo de criptografia para proteger o tráfego entre pares que estão se comunicando.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) F – V – F.
+(C) V – F – F.
+(D) F – V – V.
+(E) F – F – V.
+
+[GABARITO]
+B

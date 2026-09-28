@@ -1,0 +1,18 @@
+ID: 71-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Infraestrutura como código (IaC) é uma forma de gerenciamento e provisionamento de infraestrutura por meio de código em vez de processos manuais. Com relação às três práticas para implementar IaC, analise as afirmativas a seguir. I. Definir todas as suas coisas como código é uma prática básica para fazer alterações rápidas e de modo confiável. Os principais motivos para a adoção dessa prática são a interoperabilidade, a consistência e a acessibilidade. II. Testar e entregar continuamente todo o trabalho em andamento é uma prática onde as equipes de infraestrutura são rigorosas nos testes. Eles usam a automação para implantar e testar o sistema como um todo antes de testar e integrar todos os módulos desenvolvidos por todos os envolvidos. III. Construir peças pequenas e simples, que os membros da equipe podem alterar independentemente é uma prática essencial, pois muitas equipes enfrentam dificuldades quando seus sistemas são grandes e fortemente acoplados. Quanto maior um sistema, mais difícil mudá-lo e mais fácil quebrar.
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I, apenas.
+(C) II, apenas.
+(D) III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

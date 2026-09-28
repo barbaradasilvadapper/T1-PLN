@@ -1,0 +1,18 @@
+ID: 69-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação as topologias de rede, analise as afirmativas a seguir. I. A topologia Anel consiste em estações conectadas através de um caminho fechado. São capazes de transmitir e receber dados em qualquer direção, mas as configurações mais usuais são unidirecionais, de forma a tornar menos sofisticado os protocolos de comunicação que asseguram a entrega da mensagem corretamente e em sequência ao destino. II. Na topologia barramento a configuração consiste em vários pontos de concentração, cada um com seu conjunto próprio de terminais geograficamente concentrados. As ligações são estabelecidas apenas entre estes pontos de concentração, o que diminui consideravelmente os custos das linhas. Só estas linhas precisarão ter uma capacidade muito maior de transmissão para poder atender às requisições de comunicação exigidas pelos seus terminais. III. Na topologia em estrela todos os usuários comunicam-se com um nó central, que tem o controle supervisor do sistema. Através deste nó central os usuários podem se comunicar entre si e com processadores remotos ou terminais. No segundo caso, o nó central funciona como um comutador de mensagens para passar os dados entre eles.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) I e III, apenas.
+
+[GABARITO]
+E

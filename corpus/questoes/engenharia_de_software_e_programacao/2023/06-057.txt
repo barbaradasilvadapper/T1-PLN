@@ -1,0 +1,18 @@
+ID: 06-057
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o seguinte Diagrama de Classes da UML 2.5.1. O tipo de relacionamento entre as classes representado no diagrama é a:
+
+[ALTERNATIVAS]
+(A) Associação;
+(B) Composição;
+(C) Dependência;
+(D) Agregação;
+(E) Generalização.
+
+[GABARITO]
+E

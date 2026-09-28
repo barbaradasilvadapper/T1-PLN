@@ -1,0 +1,18 @@
+ID: 30-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um determinado invasor utilizou a opção de fragmentação do IP para criar fragmentos extremamente pequenos e forçar que a informação do cabeçalho TCP fique em um fragmento de pacote separado. Uma contramedida efetiva para tal cenário é impor uma regra que:
+
+[ALTERNATIVAS]
+(A) descarte todos os pacotes que usem a opção de roteamento baseado na origem;
+(B) descarte pacotes cujo endereço de origem seja interno se esses pacotes chegarem a uma interface externa;
+(C) estabeleça que o primeiro fragmento de um pacote deve conter uma quantidade mínima predefinida do cabeçalho de transporte;
+(D) estabeleça que o último fragmento de um pacote deve conter uma quantidade mínima predefinida do cabeçalho de transporte;
+(E) estabeleça que o primeiro fragmento de um pacote deve conter uma quantidade máxima predefinida do cabeçalho de transporte.
+
+[GABARITO]
+C

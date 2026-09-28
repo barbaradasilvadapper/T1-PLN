@@ -1,0 +1,18 @@
+ID: 36-076
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um intruso atacou os servidores DNS do Ministério Público da União (MPU) enviando centenas de solicitações de DNS para o domínio do MPU, assim como um conjunto de respostas falsificadas para as solicitações fingindo ser um servidor de nomes de nível seguinte e carregando uma suposição diferente para o ID da consulta. O servidor de nomes local armazenou o mapeamento em seu cache. Nesse momento, o invasor passou a atuar como intermediário entre os clientes e o servidor (man-in-the-middle). Após isso, o invasor continuou a atacar não um único site, mas a zona inteira de DNS's. A Divisão de Segurança do MPU iniciou a busca pela solução ao ataque de:
+
+[ALTERNATIVAS]
+(A) Kaminsky;
+(B) spoofing de conexão;
+(C) sequestro de conexão;
+(D) envenenamento de ARP;
+(E) canal lateral.
+
+[GABARITO]
+A

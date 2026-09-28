@@ -1,0 +1,18 @@
+ID: 91-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Márcia precisa adquirir um novo servidor; para se proteger contra possíveis defeitos que possam ocorrer no disco rígido, ela escolheu um modelo de servidor que possui dois HDs e oferece redundância por espelhamento, isto é, os dados são gravados de forma idêntica nas duas unidades de disco rígido. Caso algum setor de um dos discos venha a falhar, basta recuperar o setor defeituoso copiando os arquivos contidos no segundo disco. Este subsistema de armazenamento composto por dois discos rígidos que implementa o espelhamento é o
+
+[ALTERNATIVAS]
+(A) RAID 0.
+(B) RAID 1.
+(C) RAID 4.
+(D) RAID 10.
+(E) RAID 50.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 83-069
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere uma tabela relacional X com uma única coluna A, cuja instância contém uma linha apenas, e os comandos SQL a seguir. ------------- 1. delete from X where exists (select * from X x2 where x2.A = X.A) 2. delete from X where not exists (select * from X x2 where x2.A = X.A) ------------- Nesse contexto, analise as afirmativas sobre os efeitos desses comandos. I. Nenhuma linha seria deletada na execução do comando 1. II. Uma linha seria deletada na execução do comando 1. III. Nenhuma linha seria deletada na execução do comando 2. IV. Uma linha seria deletada na execução do comando 2. V. Os dois comandos gerariam erros de execução. Está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I e III, apenas.
+(B) I e IV, apenas.
+(C) II e III, apenas.
+(D) II e IV, apenas.
+(E) V, apenas.
+
+[GABARITO]
+C

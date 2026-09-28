@@ -1,0 +1,18 @@
+ID: 27-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Karen foi contratada pela Defensoria Pública do Estado do Rio Grande do Sul (DPE/RS) para a melhoria da qualidade do tráfego de operações dos roteadores. Ela fez um monitoramento da rede por um tempo e identificou que uma mudança no algoritmo de escalonamento agregaria melhor Qualidade de Serviço (QoS). A essência do algoritmo buscado parte do princípio de que os roteadores têm filas separadas, uma para cada fluxo para determinada interface de saída. Quando a interface fica ociosa, o roteador varre as filas em círculo. Depois, o algoritmo pega o primeiro pacote na próxima fila. Outra característica é que o algoritmo dá a todos os hosts a mesma prioridade. O algoritmo corretamente selecionado por Karen foi:
+
+[ALTERNATIVAS]
+(A) enfileiramento ordenado com rodízio de filas;
+(B) FIFO (First-In, First-Out);
+(C) descarte de cauda;
+(D) enfileiramento ordenado com rodízio de filas ponderado;
+(E) roteamento por QoS.
+
+[GABARITO]
+A

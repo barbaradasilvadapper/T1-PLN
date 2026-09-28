@@ -1,0 +1,18 @@
+ID: 14-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Swagger é composto por um conjunto de ferramentas de código aberto criadas em torno da especificação OpenAPI que podem ajudar os desenvolvedores a construírem, documentarem e consumirem APIs REST. Com relação às ferramentas do Swagger, avalie as afirmativas a seguir e assinale (V) para a afirmativa e (F) para a falsa. ( ) Swagger Parser - É uma biblioteca autônoma para analisar definições OpenAPI no formato JSON ou YAML. ( ) Swagger APIDom - Fornece uma estrutura única e unificadora para descrever APIs em várias linguagens, por exemplo, RAML, API Blueprint, e formatos de serialização, como por exemplo XML, YAML ou JSON. ( ) Swagger SourceGen - Faz a geração automática de bibliotecas de cliente de APIs e stubs de servidor a partir de uma definição OpenAPI.
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) V – V – F.
+(C) F – F – V.
+(D) F – V – V.
+(E) F – V – F.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 45-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O órgão XYZ está passando por um processo de transformação digital e adaptou vários processos que passaram a adotar assinatura digital em documentos nato digitais, eliminando tarefas de coleta física de assinaturas e posterior digitalização para armazenagem. Sobre o processo de assinatura digital, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o documento é codificado e decodificado por chaves simétricas;
+(B) o documento é codificado por uma chave pública do certificado digital, recebe aplicação de uma função hash e é decodificado com a chave privada do certificado digital;
+(C) o documento é codificado por uma chave secreta do certificado digital, recebe aplicação de uma função hash e é decodificado com a chave pública do certificado digital;
+(D) é gerado um hash criptográfico do documento, cujo resultado é codificado pela chave secreta do certificado digital e decodificado pela chave pública;
+(E) é gerado um hash criptográfico do documento, cujo resultado é codificado pela chave pública do certificado digital e decodificado também pela chave pública.
+
+[GABARITO]
+D

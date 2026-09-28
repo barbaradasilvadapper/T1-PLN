@@ -1,0 +1,18 @@
+ID: 76-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Na fase inicial da Análise Orientada a Objetos (AOO) para desenvolver um sistema de gestão de Atos Administrativos, o Analista de Sistemas está lendo o documento de requisitos. Os requisitos descrevem que um Ato é criado, enviado para Assinatura Eletrônica pelo Diretor, e posteriormente é publicado no Diário Oficial. Os seguintes termos destacados são os candidatos mais fortes a se tornarem as Classes principais no modelo do sistema:
+
+[ALTERNATIVAS]
+(A) Criado, Enviado, Publicado.
+(B) Assinatura Eletrônica e Diário Oficial.
+(C) Ato, Diretor, Assinatura Eletrônica.
+(D) Ato, Assinatura Eletrônica, Publicado.
+(E) Diretor, Diário Oficial, Lendo.
+
+[GABARITO]
+C

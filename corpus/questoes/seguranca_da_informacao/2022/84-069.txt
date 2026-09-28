@@ -1,0 +1,18 @@
+ID: 84-069
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os firewalls podem ser um meio eficaz de proteger sistemas e redes contra ameaças de segurança. Com relação às suas limitações, analise os itens a seguir. I. Não são capazes de proteger contra os ataques que contornam o firewall. II. Não protegem contra ameaças internas, como funcionários insatisfeitos ou que cooperam com um atacante externo. III. Não protegem contra a transferência de programas ou arquivos infectados com vírus.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I, II e III.
+(E) II e III, apenas.
+
+[GABARITO]
+D

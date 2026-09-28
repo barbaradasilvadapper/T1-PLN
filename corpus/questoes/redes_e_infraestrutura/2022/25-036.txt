@@ -1,0 +1,18 @@
+ID: 25-036
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A arquitetura TCP/IP é um conjunto de protocolos de comunicação entre computadores, e seu modelo de referência se divide em algumas camadas. Os protocolos e técnicas pertencentes à camada de rede são:
+
+[ALTERNATIVAS]
+(A) TCP e UDP;
+(B) TCP e IP;
+(C) IP, ICMP e NAT;
+(D) IP, IPSec, ICMP e SSH;
+(E) UDP, HTTP e NAT.
+
+[GABARITO]
+C

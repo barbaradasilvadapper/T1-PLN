@@ -1,0 +1,18 @@
+ID: 83-051
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A classe da biblioteca scikit-learn, versão 1.1.2, utilizada em scripts python para a implementação de regressão linear baseada no método dos mínimos quadrados é
+
+[ALTERNATIVAS]
+(A) scikit-learn.LinearRegression.
+(B) sklearn.linear.ml.LinearRegression.
+(C) sklearn.linear_model.LinearRegression.
+(D) sklearn.model.ml.Linear_Regression.LstSquare.
+(E) scikit-learn.linear_model.LinearRegression.LeastSquare.
+
+[GABARITO]
+C

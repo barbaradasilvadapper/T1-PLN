@@ -1,0 +1,18 @@
+ID: 36-064
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Virgínia enviará uma informação confidencial a João por um canal não seguro. Ela fará uso de algoritmos simétricos com dois modos de operação diferentes para cada objetivo. O modo de operação A será utilizado para transmitir uma mensagem de baixa entropia (caracteres de inicialização para o modo de operação B) e poderá usar o paralelismo. Já o modo de operação B deverá cifrar o conteúdo da mensagem usando o número de inicialização enviado pelo modo de operação A e, mesmo que a mensagem tenha baixa entropia, o modo de operação B conseguirá remover as estatísticas da mensagem. Os modos A e B fazem uso do completamento da mensagem ao seu final para adequar ao tamanho do bloco. Portanto, Virgínia fará uso dos modos de operação A e B, respectivamente:
+
+[ALTERNATIVAS]
+(A) Counter - OFB;
+(B) OFB - CFB;
+(C) CFB - CBC;
+(D) ECB - CBC;
+(E) ECB - CFB.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 36-048
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A gerente de projetos Lúcia está organizando as tarefas de um grande projeto do MPU que envolve diversas pessoas e muitas entregas. De acordo com o PMBOK 7 a Edição, a lista ordenada de tarefas do projeto a serem executadas de forma priorizada que Lúcia deve usar é:
+
+[ALTERNATIVAS]
+(A) backlog;
+(B) roadmap;
+(C) benchmarking;
+(D) caminho crítico;
+(E) Estrutura Analítica do Projeto (EAP).
+
+[GABARITO]
+A

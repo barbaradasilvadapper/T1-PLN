@@ -1,0 +1,18 @@
+ID: 80-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Quando implementado no Microsoft Windows, o SMB (Server Message Block) é conhecido como protocolo SMB da Microsoft. Os níveis de autenticação do SMB da Microsoft são conhecidos como
+
+[ALTERNATIVAS]
+(A) nível do dispositivo, nível de diretório e nível de rede, apenas.
+(B) nível do usuário e nível de compartilhamento, apenas.
+(C) nível do volume e nível de dispositivo, apenas.
+(D) nível do arquivo e nível de diretório, apenas.
+(E) nível do acesso e nível de bloqueio, apenas.
+
+[GABARITO]
+B

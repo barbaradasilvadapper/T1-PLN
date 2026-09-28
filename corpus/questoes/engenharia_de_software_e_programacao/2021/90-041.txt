@@ -1,0 +1,18 @@
+ID: 90-041
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação à representação computacional de números, assinale a opção que indica o valor decimal que corresponde ao hexadecimal F4D2.
+
+[ALTERNATIVAS]
+(A) 3. 908
+(B) 16. 532
+(C) 48. 562
+(D) 62. 674
+(E) 1.002. 784
+
+[GABARITO]
+D

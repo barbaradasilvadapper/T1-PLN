@@ -1,0 +1,18 @@
+ID: 94-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+De acordo com a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), a convicção religiosa e a opinião política vinculadas a uma pessoa natural são consideradas dados pessoais sensíveis. O tratamento realizado nesse tipo de dado que perde a possibilidade de associação, direta ou indireta, a um indivíduo é:
+
+[ALTERNATIVAS]
+(A) Difusão;
+(B) Bloqueio;
+(C) Eliminação;
+(D) Anonimização;
+(E) Compartilhamento.
+
+[GABARITO]
+D

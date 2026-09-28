@@ -1,0 +1,18 @@
+ID: 86-044
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A criação de um banco de dados Oracle, por meio do DBCA, passa por vários passos, nos quais diversos parâmetros são estabelecidos. No passo final, o administrador pode escolher diferentes opções (Creation options) para prosseguir. Assinale as opções básicas disponíveis nesse passo.
+
+[ALTERNATIVAS]
+(A) Create Database, Create as EmptyDatabase, Generate Database Creation Scripts.
+(B) Create Database, Generate Database Creation Scripts, Create Temporary Only.
+(C) Create Database, Save as Database Template, Create Database From BackUpFiles.
+(D) Create Database, Save as Database Template, Generate Database Creation Scripts.
+(E) Create Database, Save as Database Template, Generate Database Creation Scripts, Create Database as RandomData.
+
+[GABARITO]
+D

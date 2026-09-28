@@ -1,0 +1,18 @@
+ID: 09-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Lei nº 13.709, de 14 de agosto de 2018, trouxe ao ordenamento jurídico duas figuras jurídicas importantes no sistema de proteção de dados pessoais. Sobre o desenho legal da Autoridade Nacional de Proteção de Dados e o Conselho Nacional de Proteção de Dados Pessoais e da Privacidade, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) atualmente, Conselho Nacional de Proteção de Dados Pessoais e da Privacidade possui natureza de empresa pública federal e a Autoridade Nacional de Proteção de Dados é órgão da administração pública federal.
+(B) o Conselho Diretor é composto de representantes, titulares e suplentes, da Câmara dos Deputados, do Comitê Gestor da Internet do Brasil, do Senado Federal, do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público.
+(C) o Conselho Nacional de Proteção de Dados Pessoais e da Privacidade possui atribuição de sugerir ações a serem realizadas pela Autoridade Nacional de Proteção de Dados e disseminar o conhecimento sobre a proteção de dados pessoais e da privacidade à população.
+(D) os membros do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade somente perderão seus cargos em virtude de renúncia, condenação judicial transitada em julgado ou pena de demissão decorrente de processo administrativo disciplinar.
+(E) a Autoridade Nacional de Proteção de Dados é uma das integrantes do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade, figurando como conselheira presidente, na hipótese de nomeação pelo Presidente da República.
+
+[GABARITO]
+C

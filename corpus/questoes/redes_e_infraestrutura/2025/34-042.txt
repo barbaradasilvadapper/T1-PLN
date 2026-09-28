@@ -1,0 +1,18 @@
+ID: 34-042
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em redes Ethernet modernas, o protocolo responsável por mapear endereços IP em endereços MAC dentro de uma rede local, enviando requisições em broadcast para descobrir o endereço físico correspondente ao endereço lógico, é o
+
+[ALTERNATIVAS]
+(A) RARP.
+(B) ICMP.
+(C) ARP.
+(D) IGMP.
+(E) DNS.
+
+[GABARITO]
+C

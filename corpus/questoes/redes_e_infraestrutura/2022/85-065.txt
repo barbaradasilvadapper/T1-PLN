@@ -1,0 +1,18 @@
+ID: 85-065
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de analistas de infraestrutura de TI do TCE/TO está planejando o endereçamento lógico de dois novos departamentos. Uma única rede classe C empregando os últimos endereços IP (Internet Protocol) possíveis para redes desta classe atenderá ambos os departamentos. A rede será dividida em duas sub-redes de mesmo tamanho, uma para cada departamento. Portanto, na notação CIDR (Classes Inter-Domain Routing), a equipe utilizará os blocos de endereços:
+
+[ALTERNATIVAS]
+(A) 223.167.0.0/25 e 223.167.0.128/25
+(B) 224.255.255.0/28 e 224.255.255.128/28
+(C) 223.255.255.0/25 e 223.255.255.128/25
+(D) 224.0.1.0/28 e 224.0.1.128/28
+(E) 224.0.128.0/25 e 224.0.128.255/25
+
+[GABARITO]
+C

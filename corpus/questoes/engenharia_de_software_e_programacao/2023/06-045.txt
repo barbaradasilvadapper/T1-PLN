@@ -1,0 +1,18 @@
+ID: 06-045
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Python a seguir. L=[0,1,1,2,3] for k in range(4, -4, -1): print (L[k] + L[k % len(L)]) O resultado da execução desse código, na ordem, é:
+
+[ALTERNATIVAS]
+(A) 4, 2, 2, 0, 6, 4;
+(B) 6, 4, 2, 2, 0, 6, 4, 2, 2;
+(C) 6, 4, 2, 2, 0, 6, 4, 2;
+(D) 6, 4, 2, 2, 6, 4, 2;
+(E) 6, 4, 2, 0, 6, 4, 2.
+
+[GABARITO]
+C

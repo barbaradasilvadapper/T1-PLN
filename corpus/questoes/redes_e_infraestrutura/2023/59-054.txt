@@ -1,0 +1,18 @@
+ID: 59-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Qualidade de serviço (QoS – Quality of Service) é fundamental para garantir o trânsito de dados de alta prioridade de tráfego numa rede de capacidade limitada. Com relação ao assunto, analise os itens a seguir. I. O cabeçalho IEEE 802.1q possui 03 (três) bits relacionados à prioridade de pacotes (PCP – Priority Code Point). II. O campo Priority Code Point (PCP) do protocolo IEEE 802.1q pode assumir valores de 0 até 7, sendo os pacotes classificados com 0 os de maior prioridade e os classificados com 7 os de menor prioridade. III. Em conexões de rede do tipo Tronco de VLAN (Virtual Local Area Network) é possível realizar a prioridade de tráfego entre as VLAN existentes por meio do campo Priority Code Point (PCP) do protocolo IEEE 802.1q.
+
+[ALTERNATIVAS]
+(A) somente I;
+(B) somente I e II;
+(C) somente I e III;
+(D) somente II e III;
+(E) I, II e III.
+
+[GABARITO]
+C

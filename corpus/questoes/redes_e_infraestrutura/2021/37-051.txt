@@ -1,0 +1,18 @@
+ID: 37-051
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A ferramenta iptables é comumente utilizada para limitar o tráfego de dados como forma de proteção contra a entrada de intrusos e a saída de dados secretos. A expressão que inclui uma regra na iptables, definindo o descarte dos pacotes de dados HTTP que chegam na porta 80 em qualquer interface de rede de um dado servidor, é:
+
+[ALTERNATIVAS]
+(A) iptables -A OUTPUT -p all --dport 80 -j REJECT
+(B) iptables -A INPUT -p tcp --dport 80 -j DROP
+(C) iptables -A OUTPUT -o eth1 --dport 80 -j DROP
+(D) iptables -A INPUT -i eth1 --dport 80 -j RETURN
+(E) iptables -A OUTPUT -p tcp --dport 80 -j REJECT
+
+[GABARITO]
+B

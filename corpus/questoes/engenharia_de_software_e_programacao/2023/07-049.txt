@@ -1,0 +1,18 @@
+ID: 07-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do PHP, a função die() é operacionalmente semelhante a uma outra função da linguagem, cujo nome é:
+
+[ALTERNATIVAS]
+(A) catch;
+(B) eval;
+(C) exit;
+(D) pack;
+(E) sleep.
+
+[GABARITO]
+C

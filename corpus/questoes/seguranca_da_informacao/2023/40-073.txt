@@ -1,0 +1,18 @@
+ID: 40-073
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um órgão público realiza tratamento dos dados pessoais dos seus servidores para implementar o módulo de autenticação de usuários de seus sistemas de informação e para prevenir ataques de softwares maliciosos na sua rede interna. Nesse cenário, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o órgão público deve recorrer à base legal do legítimo interesse adotando medidas para garantir a transparência do tratamento dos dados dos seus funcionários;
+(B) o órgão público deve anonimizar os dados dos funcionários para poder usar no módulo de autenticação;
+(C) a Autoridade Nacional de Proteção de Dados deverá autorizar o tratamento dos dados sensíveis dos funcionários do órgão público;
+(D) o registro de um incidente de segurança é requisito para justificar o tratamento dos dados do servidor para o módulo de segurança;
+(E) cada funcionário deve manifestar seu consentimento concordando com o tratamento de seus dados pessoais para serem usados pelo módulo de autenticação.
+
+[GABARITO]
+A

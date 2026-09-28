@@ -1,0 +1,18 @@
+ID: 10-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Durante o desenvolvimento de um sistema de gestão de estoque para uma empresa de varejo, o desenvolvedor se depara com uma situação desafiadora. O sistema deve garantir que os produtos em estoque nunca tenham uma quantidade negativa, pois isso pode causar problemas sérios de integridade de dados e impactar as operações da empresa. No entanto, enquanto revisava o código do procedimento PL/SQL responsável por atualizar a quantidade de produtos em estoque após uma venda, o desenvolvedor percebeu que não havia tratamento de exceções para o caso em que a quantidade vendida fosse maior que a quantidade disponível em estoque. Diante dessa situação, o desenvolvedor precisa criar uma exceção específica, associá-la a um código de erro personalizado e garantir que o sistema use a nova exceção criada. Para atingir esse objetivo, o desenvolvedor deverá:
+
+[ALTERNATIVAS]
+(A) definir uma variável do tipo EXCEPTION, associar um código de erro específico à exceção usando PRAGMA EXCEPTION_INIT e usar RAISE para lançar a exceção personalizada no procedimento PL/SQL;
+(B) utilizar uma declaração EXCEPTION para definir a exceção personalizada e associar um código de erro específico diretamente no RAISE, dentro do procedimento PL/SQL;
+(C) utilizar uma declaração EXCEPTION para definir a exceção personalizada e lançar a exceção diretamente no procedimento PL/SQL, sem associar um código de erro específico;
+(D) utilizar uma declaração EXCEPTION para definir a exceção personalizada e associar um código de erro específico usando PRAGMA EXCEPTION_INIT, mas não utilizar RAISE no procedimento PL/SQL;
+(E) usar as exceções embutidas já fornecidas pelo Oracle, o que torna desnecessário criar uma exceção personalizada.
+
+[GABARITO]
+A

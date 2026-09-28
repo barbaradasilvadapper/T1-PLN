@@ -1,0 +1,18 @@
+ID: 95-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe o modelo multidimensional de dados de um Data Warehouse a seguir. Local Gênero Magistrado Contador(1) Ano de Nomeação Instância O tipo de modelagem multidimensional empregada é:
+
+[ALTERNATIVAS]
+(A) Star Schema;
+(B) Snowflake Schema;
+(C) Fact Constellation;
+(D) Data Lake;
+(E) Data Mart.
+
+[GABARITO]
+A

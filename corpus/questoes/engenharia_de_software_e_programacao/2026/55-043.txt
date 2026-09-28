@@ -1,0 +1,18 @@
+ID: 55-043
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No âmbito do Domain-Driven Design (DDD), assinale a afirmativa correta a respeito do emprego e das características de Value Objects e Entities.
+
+[ALTERNATIVAS]
+(A) Um Value Object é projetado com uma identidade única e exclusiva, sendo capaz de sofrer mudanças contínuas de estado ao longo de um grande período de tempo.
+(B) A principal característica de um Value Object é a sua mutabilidade, o que permite que seus atributos internos sejam alterados livremente após a sua criação no sistema.
+(C) A igualdade entre dois Value Objects é determinada pela comparação de seus identificadores, independentemente de quais sejam os valores de seus atributos.
+(D) O design deve priorizar o uso de Value Objects em vez de Entities sempre que possível, pois tipos de valor que medem, quantificam ou descrevem coisas são mais fáceis de criar, testar e manter.
+(E) Os métodos de um Value Object devem, por padrão, produzir efeitos colaterais para que possam modificar seu próprio estado ou o estado de outras Entities com as quais se relacionam.
+
+[GABARITO]
+D

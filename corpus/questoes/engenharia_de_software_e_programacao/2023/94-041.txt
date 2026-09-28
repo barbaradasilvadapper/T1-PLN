@@ -1,0 +1,18 @@
+ID: 94-041
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+João está trabalhando com uma base de dados que contém centenas de milhares de registros de pessoas, na qual a chave de busca é o CPF. Nesse contexto, o algoritmo/método de busca que, corretamente empregado, oferece a melhor complexidade é:
+
+[ALTERNATIVAS]
+(A) Árvore B;
+(B) Bitmap;
+(C) Busca binária;
+(D) Lista encadeada;
+(E) Tabela Hash.
+
+[GABARITO]
+E

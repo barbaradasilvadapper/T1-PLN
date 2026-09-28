@@ -1,0 +1,18 @@
+ID: 22-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A validação cruzada é uma importante técnica em aprendizado de máquina, usada para obter uma estimativa mais robusta do erro de generalização. Dessa forma, ela contribui para a construção de modelos mais confiáveis, permitindo uma avaliação mais precisa de sua capacidade preditiva em diferentes cenários. Uma das características da validação cruzada com k conjuntos é que esse método
+
+[ALTERNATIVAS]
+(A) considera, na sua versão estratificada, a proporção de exemplos de cada classe quando da geração de subconjuntos mutuamente exclusivos.
+(B) divide aleatoriamente registros em treinamento e teste em proporções p e (1-p), respectivamente.
+(C) gera conjuntos cuja interseção é não vazia, utilizados a cada iteração como conjunto de treino e teste.
+(D) penaliza os conjuntos de treino com k sorteios aleatórios, de modo a torná-lo equilibrado frente ao conjunto de teste.
+(E) produz o conjunto de treinamento a partir de N sorteios aleatórios com reposição a partir dos dados originais.
+
+[GABARITO]
+A

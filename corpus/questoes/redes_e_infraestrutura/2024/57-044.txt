@@ -1,0 +1,18 @@
+ID: 57-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No que se refere ao funcionamento de uma conexão TCP, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) durante a apresentação de três vias, o processo cliente bate na porta de entrada do processo servidor. Quando o servidor “ouve” a batida, aloca uma porta (mais precisamente, um socket) compartilhada entre diversos clientes;
+(B) ao criar a conexão TCP, associamos a ela o endereço de socket (apenas o número de porta) do cliente e do servidor. Com a conexão estabelecida, quando um lado quer enviar dados para o outro, basta deixá-los na conexão TCP por meio de seu socket;
+(C) com o processo servidor em execução, ele pode iniciar uma conexão TCP com o cliente, o que é feito no programa cliente pela criação de um socket TCP. Quando cria seu socket TCP, o servidor especifica o endereço do socket receptivo do cliente;
+(D) como acontece no UDP, o programa servidor TCP precisa rodar como um processo antes de o cliente tentar iniciar contato, e o programa servidor tem de ter algum socket especial que acolha algum contato inicial de um processo cliente que esteja rodando em um hospedeiro qualquer;
+(E) do ponto de vista da aplicação, o socket do cliente e o de conexão do servidor estão conectados diretamente, e o processo servidor pode enviar bytes para seu socket de modo arbitrário; entretanto, o TCP não garante que o processo servidor receberá cada byte na ordem em que foram enviados.
+
+[GABARITO]
+D

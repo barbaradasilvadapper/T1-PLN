@@ -1,0 +1,18 @@
+ID: 52-020
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A Mineração de Dados é a etapa do processo de KDD (Knowledge Discovery in Databases) responsável por extrair modelos de conhecimento a partir dos dados disponíveis. Após a construção desses modelos, é fundamental avaliar sua qualidade, o que exige compará-los com dados específicos para mensurar métricas que reflitam seu desempenho. Para garantir uma avaliação imparcial, os dados utilizados na criação do modelo não devem ser os mesmos empregados em sua validação. Assim, o processo de KDD deve utilizar, no mínimo, dois conjuntos distintos de dados: um conjunto de treinamento, para gerar o modelo, e um conjunto de testes, para avaliá-lo. Selecione a opção que identifica o método de particionamento de dados em que o “conjunto de treinamento” é gerado por N sorteios aleatórios com reposição a partir do conjunto de dados original (que contém N registros). Já o “conjunto de testes” é composto pelos registros não selecionados para o “conjunto de treinamento”.
+
+[ALTERNATIVAS]
+(A) Holdout.
+(B) Bootstrap.
+(C) Leave-One-Out.
+(D) K-Fold CrossValidation.
+(E) Stratifield K-Fold CrossValidation.
+
+[GABARITO]
+B

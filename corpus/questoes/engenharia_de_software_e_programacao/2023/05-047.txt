@@ -1,0 +1,18 @@
+ID: 05-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código a seguir. <!DOCTYPE html> <html> <body> <%! int variable_value=5; %> <%= " O valor é :"+ variable_value %> </body> </html> É correto afirmar que os trechos delimitados pelas tags <% e %> contêm código específico para:
+
+[ALTERNATIVAS]
+(A) Angular;
+(B) HTML avançado;
+(C) JavaScript;
+(D) jQuery;
+(E) páginas JSP.
+
+[GABARITO]
+E

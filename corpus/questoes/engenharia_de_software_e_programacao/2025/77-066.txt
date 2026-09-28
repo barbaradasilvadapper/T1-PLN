@@ -1,0 +1,18 @@
+ID: 77-066
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No final do desenvolvimento de uma nova interface para a área de consulta pública do portal, o Analista de Sistemas conduz testes de usabilidade. O principal objetivo de Testes com Usuários em Testes de Usabilidade é de
+
+[ALTERNATIVAS]
+(A) confirmar que o código JavaScript foi escrito de forma otimizada para ser rápido.
+(B) medir a eficácia, eficiência e satisfação com que usuários específicos podem alcançar objetivos específicos na interface.
+(C) assegurar que 100% dos bytes de dados foram transferidos com sucesso pela rede.
+(D) verificar se as queries SQL geradas pelo sistema são seguras contra injeção.
+(E) validar que o layout está em conformidade com as diretrizes de acessibilidade WCAG.
+
+[GABARITO]
+B

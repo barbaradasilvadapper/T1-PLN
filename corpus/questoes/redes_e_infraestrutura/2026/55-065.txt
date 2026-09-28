@@ -1,0 +1,18 @@
+ID: 55-065
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Na arquitetura clássica descrita por Von Neumann, o computador é representado por um processador, barramentos, uma memória principal e dispositivos de entrada e saída. Entretanto, os computadores atuais executam múltiplos processos, possuem diversos núcleos de processamento, e possuem arquiteturas multinível de memória. Para organizar todos esses recursos, utiliza-se um programa especial chamado de Sistema Operacional. Com relação ao Sistema Operacional e à alocação de recursos computacionais, assinale (V) para afirmativa verdadeira e (F) para falsa. ( ) O sistema operacional utiliza um escalonador para conceder e revogar acesso ao processador a cada processo em execução, por meio da implementação de algoritmos como FIFO ou round-robin. ( ) A arquitetura multinível de memória visa diminuir a latência de acesso à memória, sendo composta por caches de diferentes velocidades de acesso, pela memória RAM e pela memória virtual. ( ) Os dispositivos de entrada e saída permitem que o computador interaja com o mundo exterior, e o sistema operacional é responsável por conceder acesso a esses dispositivos para os processos, por meio de programas conhecidos como daemons.
+
+[ALTERNATIVAS]
+(A) F – V – F.
+(B) V – F – F.
+(C) F – F – V.
+(D) F – V – V.
+(E) V – V – F.
+
+[GABARITO]
+E

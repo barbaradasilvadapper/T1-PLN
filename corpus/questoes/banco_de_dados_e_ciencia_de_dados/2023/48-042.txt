@@ -1,0 +1,18 @@
+ID: 48-042
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Views, em bancos de dados relacionais, configuram um importante mecanismo para flexibilizar o acesso aos dados armazenados. Em alguns casos, são ditas atualizáveis, pois podem ser utilizadas como alvo de comandos SQL como insert, update, delete. Uma característica que não impede uma view de ser atualizável é:
+
+[ALTERNATIVAS]
+(A) a clásula group by;
+(B) a cláusula distinct;
+(C) a cláusula order by;
+(D) a presença do operador algébrico union;
+(E) a inexistência de uma fonte de registros atualizáveis na cláusula from.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 77-042
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O setor de TI da Assembleia planeja desenvolver um sistema que possa prever a probabilidade de aprovação de um Projeto de Lei com base em dados históricos como autores, partidos, tema e resultado final. O sistema deve ser capaz de aprender padrões a partir desses dados sem ser explicitamente programado com regras para cada cenário. O subcampo da Inteligência Artificial que foca no desenvolvimento de algoritmos que permitem aos computadores aprender a partir de dados e fazer previsões ou tomar decisões é
+
+[ALTERNATIVAS]
+(A) Robótica.
+(B) Processamento de Linguagem Natural.
+(C) Lógica Simbólica.
+(D) Machine Learning.
+(E) Visão Computacional.
+
+[GABARITO]
+D

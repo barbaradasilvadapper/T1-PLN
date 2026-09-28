@@ -1,0 +1,18 @@
+ID: 06-041
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João tem pouca experiência com SQL, mas precisa de uma consulta que exiba os competidores que têm o mesmo número de disputas com as camisas azul e verde. João escreveu três scripts, utilizando as tabelas Competidor e Disputa, como definidas anteriormente, e tentou a sorte. select distinct c.nome from Competidor c, Disputa d group by c.nome having count(distinct d.azul) = count(distinct d.verde) select c.nome from Competidor c where (select sum(1) from Disputa d where d.azul = c.nome) = (select sum(1) from Disputa d where d.verde = c.nome) select distinct c.nome from Competidor c, Disputa d where (select sum(1) where d.azul = c.nome) = (select sum(1) where d.verde = c.nome) Dado que a resposta correta deve exibir somente o competidor B, conclui-se que:
+
+[ALTERNATIVAS]
+(A) nenhum dos scripts funciona;
+(B) somente o primeiro script funciona;
+(C) somente o segundo script funciona;
+(D) somente o terceiro script funciona;
+(E) os três scripts funcionam.
+
+[GABARITO]
+C

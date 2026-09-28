@@ -1,0 +1,18 @@
+ID: 57-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Jorge recebeu a demanda de fazer a distribuição de IP para novos departamentos da CVM, baseado nas informações a seguir. I. o range 172.16.0.0/20 é o único que está disponível para esse projeto; II. o departamento de material terá 255 notebooks; III. o departamento de TI terá 200 máquinas e 200 telefones IP conectados; IV. cada telefone será conectado ao switch por um cabo de rede; V. cada máquina será conectada à rede por um cabo de rede conectado ao telefone, onde houver telefone; VI. o departamento de inteligência terá 15 máquinas, sendo somente 4 delas conectadas à rede, por questões de segurança. Atendendo às premissas acima, é correto afirmar que Jorge deve configurar:
+
+[ALTERNATIVAS]
+(A) o gateway do departamento de inteligência com o IP 172.16.14.1, máscara 255.255.255.252 e as máquinas no bloco 172.16.14.248/30, excluindo o IP do gateway, para que as devidas máquinas se conectem à rede;
+(B) ○ gateway do departamento de inteligência com o IP 172.16.14.249, máscara 255.255.255.248 e as máquinas no bloco 172.16.14.248/29, excluindo o IP do gateway, para que as devidas máquinas se conectem à rede;
+(C) o gateway do departamento de material com o IP 172.16.0.1, máscara 255.255.255.0 e os notebooks no bloco 172.16.0.0/24, excluindo o IP do gateway, para que todas as máquinas do departamento citado se conectem à rede;
+(D) o gateway do departamento de TI com o IP 172.17.16.1, máscara 255.255.254.0 e as máquinas no bloco 172.17.16.0/23, excluindo o IP do gateway, para que todas as máquinas e telefones do departamento citado se conectem à rede;
+(E) o gateway do departamento de TI com o IP 172.16.0.1, máscara 255.255.255.0 e as máquinas e os telefones IP no bloco 172.16.0.0/24, excluindo o IP do gateway, para que todas as máquinas e telefones do departamento citado se conectem à rede.
+
+[GABARITO]
+B

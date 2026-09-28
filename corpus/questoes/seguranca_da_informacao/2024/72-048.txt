@@ -1,0 +1,18 @@
+ID: 72-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A CERTI_Online é uma aplicação Web que viabiliza a solicitação de certidões e comprovantes para pessoas físicas. A CERTI_Online requer que o usuário se autentique para que possa preencher formulários para cada solicitação. Júlia, ao utilizar a CERT_ Online, precisou de bastante tempo para preencher um dos formulários. Quando ela tentou enviar a solicitação, a CERT_ Online apresentou uma mensagem dizendo que o tempo de preenchimento havia expirado. Para que Júlia tenha uma experiência consonante às recomendações do WCAG (World Content Accessibility Guide), a CERT_ Online deve:
+
+[ALTERNATIVAS]
+(A) reter dados do formulário no servidor, disponibilizar a opção de novo processo de autenticação e aguardar novo login de Júlia bem-sucedido dentro do prazo de expiração do token;
+(B) dispensar a reautenticação caso Júlia esteja interagindo com a aplicação por meio de um leitor de tela, visto que ela pode precisar de mais tempo para navegar e preencher o formulário;
+(C) verificar se o processo usado para passar os dados para a página de reautenticação está configurado e iniciar nova contagem de tempo em separado para expiração do processo de novo login de Júlia;
+(D) viabilizar a reautenticação de Júlia, a qual, se bem sucedida, permite que o processo continue e seja concluído sem perda de dados, incluindo os dados originais e quaisquer alterações feitas após a reautenticação;
+(E) fornecer uma funcionalidade para verificar se Júlia deseja receber um código por e-mail ou telefone para dar continuidade ao preenchimento do formulário e preservar os dados digitados no modo oculto na página até que Júlia decida o que fazer.
+
+[GABARITO]
+D

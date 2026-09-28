@@ -1,0 +1,18 @@
+ID: 05-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do Spring Data JPA, analise a declaração a seguir. public interface UserRepository extends JpaRepository<User, Long> { @Query("select codigo from User u where u.emailAddress = ?1") User findByEmailAddress(String emailAddress); } Supondo-se que todas as definições complementares à declaração foram devidamente estabelecidas, é correto afirmar que o trecho ‘?1’ expressa:
+
+[ALTERNATIVAS]
+(A) uma referência a uma variável de ambiente declarada e definida no Spring Data JPA;
+(B) uma expressão regular a ser aplicada na execução do comando ‘select’;
+(C) um código que estabelece o uso da cláusula LIKE na execução do comando ‘select’;
+(D) um código que provoca o disparo de um prompt para coletar o valor a ser utilizado na execução do comando ‘select’;
+(E) o valor de um parâmetro utilizado na invocação do método associado à consulta.
+
+[GABARITO]
+E

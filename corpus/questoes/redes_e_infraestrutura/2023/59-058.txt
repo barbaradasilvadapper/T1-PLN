@@ -1,0 +1,18 @@
+ID: 59-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em um sistema de cabeamento estruturado, a conexão entre os equipamentos ativos de rede e o cabeamento horizontal pode ser realizada utilizando-se duas técnicas distintas. A técnica em que as portas dos ativos de rede são conectadas diretamente às portas do patch panel do cabeamento horizontal, utilizando patch cords, é conhecida como:
+
+[ALTERNATIVAS]
+(A) interconexão;
+(B) conexão direta;
+(C) conexão cruzada;
+(D) conexão crossover;
+(E) conexão back-to-back.
+
+[GABARITO]
+A

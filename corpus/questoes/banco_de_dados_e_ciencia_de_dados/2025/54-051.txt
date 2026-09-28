@@ -1,0 +1,18 @@
+ID: 54-051
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Não existe uma definição única e precisa de aplicações ou sistemas de Big Data embora se saiba que eles podem manipular dados estruturados, semiestruturados ou não estruturados. As aplicações ou sistemas de Big Data são tipicamente caracterizados pelos conceitos que compõem os “quatro Vs” (embora outros também tenham sido especificados). Em relação ao tema, relacione os conceitos a seguir às suas respectivas aplicações. 1. Volume. 2. Variedade. 3. Velocidade. 4. Veracidade. ( ) Os sistemas gerenciadores de bancos de dados relacionais foram projetados e otimizados para funcionar em dados estruturados. Em aplicações de Big Data isto não é mandatório, os demais tipos de dados também têm de ser geridos e processados. Além dos estruturados, os dados podem incluir imagens, texto, áudio e vídeo. Aproximadamente 90% dos dados gerados atualmente são não estruturados. Os sistemas de Big Data precisam ser capazes de gerenciar e processar todos esses tipos de dados perfeitamente. ( ) Os dados usados em aplicações de Big Data vêm de muitas fontes, cada uma pode ter estruturas distintas e não ser totalmente confiáveis, podem haver erros, ruídos, inconsistências, desinformações deliberadas entre outros. São comumente referidos como “dados sujos”, alega-se que dados sujos custam bilhões dólares por ano e os sistemas de Big Data precisam “limpar” os dados e manter sua proveniência para justificar sua confiabilidade. ( ) Os conjuntos de dados usados nas aplicações de Big Data são massivos, normalmente na faixa de petabytes, com o rápido crescimento da Internet as aplicações em breve atingirão zettabytes. Para colocar isso em perspectiva, em 2016, o Google informou que os uploads de usuários para o YouTube exigiram 1 petabytes de nova capacidade de armazenamento por dia. Em 2018, o Facebook armazenava cerca de 250 bilhões de imagens exigindo exabytes de armazenamento. ( ) Um aspecto importante das aplicações de Big Data é que elas precisam lidar com dados que chegam ao sistema sob a forma fluxos em tempo real, exigindo que sejam capazes de processar os dados à medida que eles chegam. O Facebook processa mais de 900 milhões de fotos que os usuários carregam por dia. O Alibaba informou que durante um recente período de pico tiveram que processar 470 milhões registros de eventos por segundo. Sistemas desse tipo não permitem que os dados sejam armazenados antes do processamento. A relação correta, na ordem apresentada, é:
+
+[ALTERNATIVAS]
+(A) 1 - 3 - 4 – 2.
+(B) 2 - 4 - 1 – 3.
+(C) 3 - 1 - 4 – 2.
+(D) 3 - 2 - 1 – 4.
+(E) 4 - 3 - 2 – 1.
+
+[GABARITO]
+B

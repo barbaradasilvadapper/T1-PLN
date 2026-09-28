@@ -1,0 +1,18 @@
+ID: 77-077
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um Portal Corporativo, como o portal de transparência da Assembleia, exige um componente robusto para gerenciar notícias, documentos regulamentares e páginas estáticas de forma dinâmica, permitindo que a área de Comunicação atualize o site sem intervenção da Programação. Assinale o componente de software essencial na arquitetura de um Portal Corporativo para gerenciar o ciclo de vida e a publicação de conteúdo não-estruturado como documentos, imagens e textos
+
+[ALTERNATIVAS]
+(A) Enterprise Resource Planning (ERP).
+(B) Customer Relationship Management (CRM).
+(C) Business Intelligence (BI).
+(D) Content Management System (CMS).
+(E) Single Sign-On (SSO).
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 63-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Histórias de usuários são fundamentais para capturar requisitos centrados no usuário em projetos ágeis. Assinale a opção que indica um exemplo de história de usuário escrito corretamente do ponto de vista da sintaxe.
+
+[ALTERNATIVAS]
+(A) O sistema deve permitir que o usuário redefina a senha quando solicitado.
+(B) Como cliente, eu quero um botão de leitura em voz alta na tela inicial para que pessoas com necessidades possam navegar com mais facilidade.
+(C) Como gerente de projetos, eu quero visualizar o progresso das tarefas para que possa monitorar o andamento do projeto.
+(D) Como cliente, eu quero acessar o sistema de pagamentos.
+(E) Como administrador, eu quero que os clientes possam ver suas transações para aumentar sua satisfação.
+
+[GABARITO]
+C

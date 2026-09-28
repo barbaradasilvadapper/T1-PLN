@@ -1,0 +1,18 @@
+ID: 15-041
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do desenvolvimento ágil de software, o Scrum destaca-se como um framework amplamente adotado para a gestão de projetos complexos, promovendo entregas incrementais, colaboração entre equipes e adaptação contínua a mudanças. Considerando os princípios e práticas do método Scrum, assinale a alternativa correta.
+
+[ALTERNATIVAS]
+(A) O Scrum Master é responsável por definir todos os requisitos do projeto e garantir que a equipe os siga estritamente.
+(B) A equipe de desenvolvimento no Scrum é composta por profissionais com habilidades diversas, mas não é necessário que todos os membros compreendam todas as áreas de conhecimento do projeto.
+(C) As reuniões diárias de Scrum devem ser realizadas em um ambiente informal e podem durar mais de trinta minutos, dependendo das necessidades da equipe.
+(D) O backlog do produto é uma lista fixa que não pode ser alterada uma vez que os requisitos são definidos, para garantir a previsibilidade do projeto.
+(E) O planejamento do sprint é um momento em que somente o Product Owner pode falar e decidir quais itens do backlog serão priorizados para o desenvolvimento.
+
+[GABARITO]
+B

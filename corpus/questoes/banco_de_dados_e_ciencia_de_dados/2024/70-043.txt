@@ -1,0 +1,18 @@
+ID: 70-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto das linguagens de manipulação de dados, relacione as linguagens com seus respectivos comandos: 1. 2. 3. 4. 5. DDL DML DQL DTL DCL ( ) GRANT ( ) TRANSACTION ( ) SELECT ( ) INSERT ( ) DROP Assinale a opção que indica a relação correta na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 2 – 3 – 4 – 5.
+(B) 2 – 1 – 5 – 3 – 4.
+(C) 3 – 4 – 1 – 5 – 2.
+(D) 4 – 3 – 2 – 1 – 5.
+(E) 5 – 4 – 3 – 2 – 1.
+
+[GABARITO]
+E

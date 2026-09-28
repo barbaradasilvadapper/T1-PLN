@@ -1,0 +1,18 @@
+ID: 86-039
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A Instrução Normativa SLTI/MP nº 4/2010 dispõe sobre o processo de contratação de soluções de tecnologia da informação pelos órgãos e entidades integrantes do SISP. Segundo esta normativa, o processo de contratação permite
+
+[ALTERNATIVAS]
+(A) prever em edital a remuneração dos funcionários da contratada.
+(B) reembolsar despesas com transporte e hospedagem que são de responsabilidade da contratada.
+(C) indicar pessoas para compor o quadro funcional da contratada.
+(D) incluir no termo de referência a justificativa para contratação e o cronograma físico-financeiro.
+(E) exigir que os fornecedores apresentem, em seus quadros, funcionários certificados antes da contratação.
+
+[GABARITO]
+D

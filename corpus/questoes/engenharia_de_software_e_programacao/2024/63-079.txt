@@ -1,0 +1,18 @@
+ID: 63-079
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+As métricas de qualidade de software são medidas quantitativas que auxiliam na análise e medição de diversos aspectos. Nesse contexto, considere a seguinte função: função processarDados(entrada) { resultado = 0 i = 1 se entrada > 0 { resultado = resultado + 1 } senão se entrada < 0 { resultado = resultado - 1} senão { resultado = resultado } enquanto i < 4 { se i == entrada { resultado = resultado * 2} i = i + 1 } retornar resultado } A complexidade ciclomática da função acima vale
+
+[ALTERNATIVAS]
+(A) 3.
+(B) 4.
+(C) 5.
+(D) 6.
+(E) 7.
+
+[GABARITO]
+D

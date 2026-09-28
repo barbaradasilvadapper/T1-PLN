@@ -1,0 +1,18 @@
+ID: 91-031
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O BPMN (Business Process Model and Notation) apresenta um conjunto robusto de símbolos para modelagem de diferentes aspectos de processos de negócio. Analise a notação gráfica a seguir: De acordo com o BPMN 2.0, esta notação representa
+
+[ALTERNATIVAS]
+(A) uma atividade de transação.
+(B) um evento de sincronização.
+(C) um gateway inclusivo.
+(D) um subprocesso de eventos.
+(E) uma tarefa de compensação.
+
+[GABARITO]
+C

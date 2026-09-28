@@ -1,0 +1,18 @@
+ID: 88-037
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A norma NBR ISO/IEC 27002:2013 é uma orientação para as organizações implementarem controles de segurança da informação comumente aceitos. De acordo com essa norma, convém que
+
+[ALTERNATIVAS]
+(A) os funcionários possam instalar e utilizar os programas utilitários que preferirem.
+(B) os diretores estatutários continuem com os ativos da organização após o encerramento do contrato de trabalho.
+(C) toda informação dentro da organização seja classificada como sigilosa para evitar divulgação não autorizada.
+(D) grupos de serviços de informação, usuários e sistemas de informação sejam segregados em redes.
+(E) o disco rígido dos equipamentos a serem descartados não sejam inspecionadas para evitar furto de informação.
+
+[GABARITO]
+D

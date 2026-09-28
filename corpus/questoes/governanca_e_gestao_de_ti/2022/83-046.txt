@@ -1,0 +1,18 @@
+ID: 83-046
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+De acordo com o ITIL 4, a prática que visa a garantir que a organização tenha a combinação certa de programas, projetos, produtos e serviços para executar a estratégia da organização é o gerenciamento de
+
+[ALTERNATIVAS]
+(A) ativos.
+(B) catálogo de serviço.
+(C) configuração.
+(D) portfólio.
+(E) release.
+
+[GABARITO]
+D

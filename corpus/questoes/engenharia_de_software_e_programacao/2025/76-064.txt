@@ -1,0 +1,18 @@
+ID: 76-064
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Sistemas encontra um conflito de estilos em um elemento HTML que deveria estar com a cor azul, mas está com a cor vermelha. O CSS da página tem as seguintes regras aplicadas ao mesmo elemento: 1. div#identificador-principal { color: blue; } 2. .classe-alvo { color: red; } 3. div { color: green !important; } 4. Estilo inline no HTML: <div style="color: purple;"> Assumindo que o elemento <div> possui a classe .classe-alvo e o id="identificador-principal", e que a regra inline é removida do HTML, assinale a opção que indica qual regra prevalecerá na determinação da cor e por quê
+
+[ALTERNATIVAS]
+(A) Regra 3 (color: green !important;), devido à palavra-chave !important
+(B) Regra 1 (color: blue;), devido à alta especificidade do seletor ID.
+(C) Regra 2 (color: red;), devido à ordem no CSS (última regra ganha).
+(D) Regra inline (se estivesse lá), pois tem a maior precedência.
+(E) Regra 2 (color: red;), pois seletores de classe sempre ganham de seletores ID.
+
+[GABARITO]
+A

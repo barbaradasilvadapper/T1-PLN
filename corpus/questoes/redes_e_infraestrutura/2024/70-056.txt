@@ -1,0 +1,18 @@
+ID: 70-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em relação aos protocolos Rapid Spanning Tree (IEEE 802.1w) e o Protocolo Spanning Tree (IEEE 802.1d), é correto afirmar que
+
+[ALTERNATIVAS]
+(A) o Rapid Spannning Tree é mais eficiente em termos de utilização da largura de banda, enquanto o Spanning Tree não.
+(B) o Rapid Spanning Tree converge em menos de 1 segundo, enquanto o Spanning Tree converge em torno de 30 a 50 segundos em caso de falha de link
+(C) o Rapid Spanning Tree é um protocolo de camada 3, enquanto o Spanning Tree é um protocolo de camada 2.
+(D) o Rapid Spanning Tree automatiza a otimização da topologia, enquanto o Spanning Tree requer intervenção manual.
+(E) o Rapid Spanning Tree permite a criação de links redundantes, mas o Spanning Tree não.
+
+[GABARITO]
+B

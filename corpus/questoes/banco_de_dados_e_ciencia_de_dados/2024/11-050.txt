@@ -1,0 +1,18 @@
+ID: 11-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Dados são importantes elementos de apoio à tomada de decisão, sendo que algumas aplicações geram quantidade massiva e heterogênea de dados com alta velocidade. Para lidar com esse cenário, foi desenvolvido um modelo de programação que consiste em dividir, processar e combinar os dados em paralelo, de forma a acelerar o processamento e garantir a confiabilidade dos resultados. Estamos falando do modelo
+
+[ALTERNATIVAS]
+(A) Data Warehousing.
+(B) Elastic Search.
+(C) Hadoop.
+(D) MapReduce.
+(E) NoSQL.
+
+[GABARITO]
+D

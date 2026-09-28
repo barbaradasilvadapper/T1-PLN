@@ -1,0 +1,18 @@
+ID: 72-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Roberto foi contratado para gerenciar a implantação de um novo data center, que servirá para hospedar o ambiente de nuvem de um conjunto de organizações. Nesse ambiente, cada organização participante poderá criar seus serviços, com base nas ferramentas disponibilizadas no ambiente de nuvem, mas sem poder utilizar tecnologias arbitrárias. Segundo as definições da recomendação NIST SP 800-145, o ambiente configurado por Roberto é classificado como:
+
+[ALTERNATIVAS]
+(A) nuvem pública com modelo de serviço SaaS;
+(B) nuvem comunitária com modelo de serviço IaaS;
+(C) nuvem pública com modelo de serviço IaaS;
+(D) nuvem privada com modelo de serviço PaaS;
+(E) nuvem comunitária com modelo de serviço PaaS.
+
+[GABARITO]
+E

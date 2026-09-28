@@ -1,0 +1,18 @@
+ID: 73-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+João editou o documento ListaNomes.odt com informações sensíveis e quer enviá-lo para Maria com segurança utilizando uma senha. No LibreOffice, para definir uma senha para Maria abrir o documento ListaNomes.odt, João deve executar:
+
+[ALTERNATIVAS]
+(A) Formatar/Congelar Documento
+(B) Ferramenta/Proteger Documento
+(C) Geral/Segurança/Definir Senha
+(D) Editar/Registrar Alterações
+(E) Propriedades/Segurança/Proteger
+
+[GABARITO]
+E

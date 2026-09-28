@@ -1,0 +1,18 @@
+ID: 21-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um pesquisador desenvolveu um estudo longitudinal para analisar o consumo de energia elétrica mensal de empresas do setor energético de determinada região, ao longo dos últimos 40 anos. Analisando a base de dados coletada, o pesquisador verificou que a base tinha vários dados faltantes e que necessitava utilizar alguma técnica de imputação de dados. Assinale a opção que apresenta a técnica mais apropriada para o estudo do pesquisador.
+
+[ALTERNATIVAS]
+(A) A substituição por um valor de tendência central.
+(B) A predição por meio de um modelo de regressão linear simples.
+(C) O algoritmo EM.
+(D) O último valor observado.
+(E) O método de Monte Carlo.
+
+[GABARITO]
+D

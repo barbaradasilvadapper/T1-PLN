@@ -1,0 +1,18 @@
+ID: 79-067
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Embora simples, o comando dd no Linux é de grande uso na computação forense, pois está presente mesmo nas distribuições mais simples e permite a cópia de dados com grande flexibilidade. A respeito do comando dd, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) ele é a opção mais recomendada para cópia do conteúdo de dispositivos de armazenamento, pois automaticamente comprime os dados de forma segura e eficiente, poupando espaço no dispositivo de destino;
+(B) executando o comando "dd if=/dev/hdb of=inicio.raw bs=512K", serão copiados os primeiros 512 kB do dispositivo "hdb" no arquivo "inicio.raw" na pasta corrente;
+(C) com o comando "dd if=/dev/zero of=/dev/sda1", todo o conteúdo do dispositivo de destino será sobrescrito com o caractere "0" (ASCII 0x30);
+(D) para se realizar uma cópia integral do conteúdo do dispositivo "sda" em um arquivo binário de nome "img.dd" na pasta "/media", deve ser utilizado o comando "dd if=/dev/sda of=/media/img.dd";
+(E) os operandos "if" e "of" são opcionais, sendo os comandos "dd if=/dev/hda of=/dev/sdb" e "dd /dev/hda /dev/sdb" equivalentes.
+
+[GABARITO]
+D

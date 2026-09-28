@@ -1,0 +1,18 @@
+ID: 82-056
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma equipe de desenvolvimento integrou ao pipeline de DevSecOps uma ferramenta de análise de código-fonte capaz de identificar vulnerabilidades de segurança sem executar a aplicação. Durante a análise, a ferramenta identificou o seguinte trecho de código PHP como potencialmente vulnerável: <?php $usuario = $_GET['user']; $query = "SELECT * FROM usuarios WHERE nome = '$usuario'"; $resultado = mysqli_query($conexao, $query); ?> Considerando o cenário apresentado, assinale a opção que descreve corretamente a atuação da ferramenta utilizada.
+
+[ALTERNATIVAS]
+(A) A ferramenta executa a aplicação em tempo de execução para identificar falhas relacionadas ao uso de entradas do usuário.
+(B) A ferramenta realiza análise dinâmica, enviando entradas maliciosas para verificar como o sistema responde às instruções construídas.
+(C) A ferramenta identifica padrões inseguros no código-fonte, como o uso direto de entradas externas na construção de instruções, sem necessidade de execução.
+(D) A ferramenta monitora o comportamento da aplicação em execução, analisando como entradas do usuário afetam os registros de log.
+(E) A ferramenta realiza testes automatizados explorando possíveis falhas decorrentes do uso de entradas do usuário na aplicação.
+
+[GABARITO]
+C

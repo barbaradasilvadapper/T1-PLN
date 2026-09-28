@@ -1,0 +1,18 @@
+ID: 52-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considerando as disposições da Lei Geral de Proteção de Dados Pessoais (LGPD), especialmente no que se refere à segurança da informação e às boas práticas adotadas no tratamento de dados pessoais, analise as afirmativas a seguir. I. Os agentes de tratamento devem assegurar a proteção dos dados pessoais desde a concepção até a execução dos produtos ou serviços, adotando medidas técnicas e administrativas contra acessos não autorizados e incidentes como destruição, perda ou modificação indevida dos dados. II. A responsabilidade pela segurança dos dados está vinculada ao período em que o tratamento está em curso, portanto, a fase posterior não exige a manutenção dos padrões de segurança da informação em relação aos dados pessoais utilizados durante a atividade principal, já que serão excluídos e passam a ter menor exposição a riscos operacionais. III. Em caso de incidente de segurança com risco ou dano relevante ao titular, a comunicação à autoridade nacional e ao titular deve conter a descrição da natureza dos dados afetados, os riscos envolvidos e as medidas adotadas para mitigar os efeitos do ocorrido.
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I e III, apenas.
+(C) II e III, apenas.
+(D) III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

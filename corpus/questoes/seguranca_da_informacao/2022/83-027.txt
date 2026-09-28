@@ -1,0 +1,18 @@
+ID: 83-027
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Determinado órgão de segurança pública almejava realizar o tratamento dos dados pessoais de diversos indivíduos, sendo que todos eram pessoas naturais, para um objetivo estritamente relacionado às suas atividades finalísticas. Ao tomar conhecimento dessa iniciativa, a organização não governamental “amigos da privacidade” consultou o seu advogado a respeito de sua compatibilidade com a Lei Geral de Proteção de Dados (LGPD), sendo corretamente esclarecido que
+
+[ALTERNATIVAS]
+(A) a LGPD não é aplicada à referida espécie de tratamento, que deve ser regida por legislação específica.
+(B) a LGPD autoriza expressamente essa espécie de tratamento, que pode ser livremente realizado por órgão público ou por pessoa jurídica de direito privado.
+(C) a LGPD veda expressamente essa espécie de tratamento, salvo se houver prévia e expressa autorização do titular dos dados pessoais.
+(D) a LGPD veda expressamente essa espécie de tratamento, ressalvada, apenas, a possibilidade de ponderação, no caso concreto, à luz dos interesses envolvidos;
+(E) a LGPD somente permite o arquivamento dos dados pessoais, não o tratamento almejado pelo órgão de segurança pública, sem o consentimento do titular dos dados.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 38-044
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma equipe de segurança de um órgão público designada para realizar testes de penetração conseguiu obter um arquivo de senhas pré-computadas em seus hashes correspondentes de um servidor de banco de dados. O tipo de ataque mais efetivo para descobrir as senhas a partir desses hashes é o:
+
+[ALTERNATIVAS]
+(A) Pass the hash;
+(B) Rainbow Table;
+(C) Ataque de força bruta;
+(D) Hashcat;
+(E) Password Spraying.
+
+[GABARITO]
+B

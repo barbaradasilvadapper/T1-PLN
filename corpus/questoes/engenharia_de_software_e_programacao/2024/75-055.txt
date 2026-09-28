@@ -1,0 +1,18 @@
+ID: 75-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação aos frameworks Java, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Frameworks Java funcionam em múltiplas linguagens, portanto, não são específicos a essa linguagem de programação. ( ) O gerenciamento de bancos de dados relacionais pode ser implementado por mapeamento objeto-relacional (ORM) usando o framework hibernate, que pode executar consultas SQL com a ajuda das APIs da Java Database Connectivity (JDBC). ( ) A criação de aplicativos stand-alone é intuitiva com o Spring Boot pois ele emprega recursos que automatizam muitas das tarefas de configuração e implantação de aplicativos, e funciona sem nenhuma geração de código e nenhum requisito para configuração XML.
+
+[ALTERNATIVAS]
+(A) F – V – F.
+(B) F – F – V.
+(C) V – V – F.
+(D) F – V – V.
+(E) V – F – V.
+
+[GABARITO]
+D

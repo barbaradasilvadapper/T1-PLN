@@ -1,0 +1,18 @@
+ID: 59-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No cabeçalho do protocolo IP, versão 4, existem dois campos chamados IHL (Internet Header Length) e TTL (Time To Live). O comprimento desses campos é de 4 e 8 bits, respectivamente. Um pacote IP transmitiu um valor hexadecimal de 5 para o IHL e um valor hexadecimal de FF para o TTL. Sabendo-se que esse pacote também transmitiu uma informação útil de 8 bytes, é correto afirmar que o pacote IP transmitido:
+
+[ALTERNATIVAS]
+(A) possui um comprimento total de 5 bytes;
+(B) possui um comprimento total de 13 bytes;
+(C) possui um comprimento total de 20 bytes;
+(D) consegue passar por 200 roteadores sem ser descartado;
+(E) consegue passar por 300 roteadores sem ser descartado.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 59-074
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os protocolos de roteamento, de acordo com sua área de aplicação, são divididos em Protocolos de Caminho Interno (Interior Gateway Protocols – IGP) e Protocolos de Caminho Externo (Exterior Gateway Protocols – EGP). Os tipos mais comuns de protocolos IGP são os baseados em Vetor de Distância (Distance Vector) e em Estado de Enlace (Link–State). Por outro lado, os protocolos EGP mais comuns são aqueles baseados em Vetor de Caminho (Path Vector). Correlacione os tipos de protocolos IGP e EGP com os protocolos de roteamento dinâmico apresentados. 1. IGP – Distance Vector 2. IGP – Link-State 3. EGP – Path Vector ( ) RIP versão 2 (Routing Information Protocol) ( ) OSPF (Open Shortest Path First) ( ) BGP (Border Gateway Protocol) ( ) IS-IS (Intermediate System – Intermediate System)
+
+[ALTERNATIVAS]
+(A) 1, 2, 3, 3;
+(B) 2, 1, 2, 3;
+(C) 3, 1, 2, 1;
+(D) 1, 2, 3, 2;
+(E) 2, 2, 1, 3.
+
+[GABARITO]
+D

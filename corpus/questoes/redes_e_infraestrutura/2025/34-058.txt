@@ -1,0 +1,18 @@
+ID: 34-058
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Na suíte de protocolos H.323 para videoconferência, o componente responsável pela negociação de capacidades de mídia e gerenciamento de canais lógicos entre terminais é o
+
+[ALTERNATIVAS]
+(A) H. 225
+(B) H. 245
+(C) H. 261
+(D) H. 264
+(E) H. 450
+
+[GABARITO]
+B

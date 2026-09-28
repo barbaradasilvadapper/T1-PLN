@@ -1,0 +1,18 @@
+ID: 29-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Marcelo, administrador de rede, está configurando um servidor Linux (Ubuntu) que distribua endereços IP para qualquer sistema que o solicite. O servidor também deve ser responsável por distribuir os locais dos servidores DNS e o gateway padrão. Para redes IPv4, Marcelo deve configurar o arquivo de configuração principal, que é o:
+
+[ALTERNATIVAS]
+(A) dhcpd4.conf;
+(B) named.conf;
+(C) dhcpd.conf;
+(D) squid.conf;
+(E) squid4.conf.
+
+[GABARITO]
+C

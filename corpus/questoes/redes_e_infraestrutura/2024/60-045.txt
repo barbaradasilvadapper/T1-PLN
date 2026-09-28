@@ -1,0 +1,18 @@
+ID: 60-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Caio César, que trabalha no Departamento de Virtualização do Tribunal de Justiça do Mato Grosso do Sul (TJMS), recebeu uma demanda de migração de algumas máquinas virtuais para uma instância de vCenter diferente. Ele entrou em contato com a VMware, que orientou a migração com Storage vMotion. Para executar esse processo, Caio César poderá migrar:
+
+[ALTERNATIVAS]
+(A) as máquinas virtuais se colocar os hosts offline para manutenção, pois, a partir desse processo, poderá movê-las para outro host;
+(B) as máquinas virtuais e seus arquivos de disco de um repositório de dados para outro enquanto elas estão em execução;
+(C) as máquinas virtuais desligadas ou suspensas entre hosts em clusters, centros de dados e instâncias do vCenter Server;
+(D) de um switch padrão para um padrão ou distribuído com as máquinas virtuais desligadas;
+(E) as máquinas virtuais para outro recurso de processamento, como um host, cluster etc. usando a migração a frio ou a quente.
+
+[GABARITO]
+B

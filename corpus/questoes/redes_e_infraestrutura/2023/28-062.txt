@@ -1,0 +1,18 @@
+ID: 28-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Cláudio, analista de infraestrutura do Tribunal de Justiça de Sergipe, foi questionado por seu encarregado sobre o motivo de ser utilizado o protocolo SIP e não o protocolo H.323 na rede do Tribunal. Cláudio respondeu, corretamente, que:
+
+[ALTERNATIVAS]
+(A) H.323 não possui criptografia;
+(B) SIP possui o formato de mensagens binário;
+(C) H.323 não suporta negociação de parâmetros;
+(D) SIP faz a sinalização de chamadas sobre TCP ou UDP;
+(E) H.323 não suporta chamadas de vários participantes.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 31-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Norma ABNT NBR ISO/IEC 27002:2022 categorizou 93 controles em 4 temas: Pessoais, Físicos, Tecnológicos e Organizacionais. Nesse contexto, assinale a opção que apresenta apenas controles organizacionais.
+
+[ALTERNATIVAS]
+(A) Políticas para Segurança da Informação e Termos e Condições de Contratação.
+(B) Responsabilidades após Término ou Mudança de Contratação e Proteção de Escritórios, Salas e Instalações.
+(C) Trabalho em Áreas Seguras e Gerenciamento de Vulnerabilidades Técnicas.
+(D) Segurança da Informação no Gerenciamento de Projetos e Segurança da Informação em Relacionamentos com Fornecedores.
+(E) Resposta aos Incidentes de Segurança da Informação e Redundância de Recursos de Processamento de Informações.
+
+[GABARITO]
+D

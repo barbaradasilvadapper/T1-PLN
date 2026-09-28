@@ -1,0 +1,18 @@
+ID: 56-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Durante uma análise detalhada da comunicação de dados em uma grande corporação, o analista Claudio identificou uma série de problemas relativos ao processamento de dados na rede interna. Para solucionar esses problemas, ele decidiu aplicar seus conhecimentos sobre a Arquitetura OSI da ISO, uma vez que essa estrutura fornece um modelo para compreender e solucionar questões de comunicação de rede. A função da camada de Sessão na Arquitetura OSI, escolhida por Claudio, é a de:
+
+[ALTERNATIVAS]
+(A) gerenciar a transmissão de bits brutos sobre um meio físico;
+(B) fornecer conectividade e seleção de caminho entre dois sistemas de host;
+(C) entregar dados entre dois processos em diferentes sistemas;
+(D) controlar o estabelecimento, gerenciamento e término de conexões entre aplicações;
+(E) realizar a conversão de dados para garantir a transferência segura entre sistemas.
+
+[GABARITO]
+D

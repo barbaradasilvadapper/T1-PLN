@@ -1,0 +1,18 @@
+ID: 82-021
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O desenvolvimento web moderno exige domínio das tecnologias HTML5 e CSS3, que trabalham de forma complementar para estruturar e estilizar páginas. Enquanto o HTML define a semântica e a estrutura do conteúdo, o CSS3 introduz recursos avançados de layout, como Flexbox e Grid, além de seletores sofisticados e propriedades de transformação e transição. Considere o seguinte trecho de código: <style> .container { display: flex; justify-content: space-between; align-items: center; } .item:nth-child(2n) { background-color: lightblue; } </style> <div class="container"> <div class="item">A</div> <div class="item">B</div> <div class="item">C</div> <div class="item">D</div> </div> Considerando o comportamento padrão dos navegadores modernos compatíveis com as especificações do W3C, sobre o código apresentado, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A propriedade align-items: center alinha os itens horizontalmente ao centro do eixo principal do contêiner flexível.
+(B) O seletor .item:nth-child(2n) aplicará a cor de fundo lightblue apenas aos itens "A" e "C", pois eles ocupam as posições ímpares dentro do contêiner.
+(C) O seletor .item:nth-child(2n) aplicará a cor de fundo lightblue aos itens "B" e "D", pois corresponde aos elementos filhos cujas posições são múltiplas de 2.
+(D) Para que o Flexbox funcione corretamente, seria obrigatório declarar também a propriedade flex-direction: row, caso contrário os itens seriam empilhados verticalmente por padrão.
+(E) A propriedade justify-content: space-between distribui os itens com espaçamento igual entre eles e também nas extremidades do contêiner, deixando margens laterais iguais aos espaços internos.
+
+[GABARITO]
+C

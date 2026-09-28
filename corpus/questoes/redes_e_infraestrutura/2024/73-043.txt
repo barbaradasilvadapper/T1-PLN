@@ -1,0 +1,18 @@
+ID: 73-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Priscila escreveu o seguinte shell script no arquivo q03.sh: #!/bin/bash alias echo3='echo -n TRF' function echo2 () { $echo1 } echo1='echo TRF' $echo1 echo2 echo3 Priscila executou o script acima em um terminal com o interpretador Bash, através do comando “bash q03.sh”. Após a execução do comando, Priscila observou que a string “TRF” foi impressa na saída do terminal:
+
+[ALTERNATIVAS]
+(A) uma vez;
+(B) três vezes;
+(C) duas vezes;
+(D) nenhuma vez, gerando erro;
+(E) nenhuma vez, sem gerar erro.
+
+[GABARITO]
+C

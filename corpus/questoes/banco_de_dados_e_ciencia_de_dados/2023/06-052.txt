@@ -1,0 +1,18 @@
+ID: 06-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere um esquema relacional criado com o seguinte script SQL. create table E1( a int not null primary key, b int not null) create table E2( c int not null, d int not null foreign key references E1(a)) Para evitar a introdução de erros de integridade na tabela E2 decorrentes da remoção de registros da tabela E1, a cláusula complementar na definição da chave estrangeira seria:
+
+[ALTERNATIVAS]
+(A) no action;
+(B) on delete cascade;
+(C) on delete raiserror;
+(D) on delete restrict;
+(E) set null.
+
+[GABARITO]
+B

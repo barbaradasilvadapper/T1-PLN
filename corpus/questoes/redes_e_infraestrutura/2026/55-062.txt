@@ -1,0 +1,18 @@
+ID: 55-062
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A computação em nuvem é um modelo que permite o acesso sob demanda a recursos computacionais, como rede, servidores e armazenamento. No contexto de desenvolvimento de software em nuvem e uso de containers, considere os itens a seguir. I. Recurso que pode ser compartilhado pelos containers com o sistema operacional do hospedeiro, mas não pelas máquinas virtuais. II. Orquestrador de containers. III. Novo modelo de desenvolvimento em que as aplicações são feitas para a nuvem, e não adaptadas a ela. Assinale a opção que apresenta, respectivamente, os recursos ou conceitos listados.
+
+[ALTERNATIVAS]
+(A) Kernel, Docker, IaaS.
+(B) Cluster, Node, Microserviços.
+(C) Kernel, Kubernetes, Cloud Native.
+(D) Hardware, Hypervisor, Cluster.
+(E) Sistema de arquivos base, Kubernetes, DevOps.
+
+[GABARITO]
+C

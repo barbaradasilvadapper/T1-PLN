@@ -1,0 +1,18 @@
+ID: 57-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A empresa K está implementando uma solução de autenticação de segurança baseada no protocolo RADIUS com objetivo de melhorar a segurança em sua rede sem fio. Para a execução dessa tarefa, a empresa está buscando um arcabouço de autenticação que forneça autenticação mútua e baseada em certificados do cliente e da rede por meio de um canal criptografado (ou túnel), bem como um meio para derivar chaves WEP dinâmicas, por usuário e por sessão. O arcabouço também deve requerer apenas certificados do lado do servidor. A empresa K implementará o método de protocolo de autenticação extensível (EAP) denominado:
+
+[ALTERNATIVAS]
+(A) EAP-MD5;
+(B) EAP-TLS;
+(C) AP-SIM;
+(D) EAP-AKA;
+(E) EAP-TTLS.
+
+[GABARITO]
+E

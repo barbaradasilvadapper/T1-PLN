@@ -1,0 +1,18 @@
+ID: 32-072
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma empresa hipotética está instalada em um local com grande incidência de falta de energia elétrica. Após a identificação dos riscos provenientes da falta de energia elétrica ao negócio da empresa, foram instalados um grupo motor-gerador e um sistema nobreak. Dentro do contexto da NBR ISSO 22301, da ABNT, a estratégia de continuidade de negócios adotada pela empresa é
+
+[ALTERNATIVAS]
+(A) definindo e selecionando.
+(B) determinação dos recursos necessários.
+(C) proteção e mitigação.
+(D) avaliação.
+(E) medição.
+
+[GABARITO]
+C

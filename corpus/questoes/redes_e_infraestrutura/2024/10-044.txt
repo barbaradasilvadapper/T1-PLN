@@ -1,0 +1,18 @@
+ID: 10-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O e-MAG (Modelo de Acessibilidade em Governo Eletrônico) recomenda que links adjacentes sejam separados por mais do que simples espaços para que não fiquem confusos, em especial para usuários que utilizam leitor de tela. O trecho de código que gera um resultado aderente à recomendação supracitada, de modo a ser lido corretamente por um leitor de tela, é:
+
+[ALTERNATIVAS]
+(A) <table><th>menu</th> <tr><a href="https://www.m1.com/pt-br/menu1">menu 1</a></tr> <tr><a href="https://www.m2.com/pt-br/menu2">menu 2</a></tr> <tr><a href="https://www.m3.com/pt-br/menu3">menu 3</a></tr> </table>
+(B) <p id="menu"> <a href="https://www.m1.com/pt-br/menu1">Menu 1</a> <a href="https://www.m2.com/pt-br/menu2">Menu 2</a> <a href="https://www.m3.com/pt-br/menu3">Menu 3</a> </p>
+(C) <tr id="menu"> <td><a href="https://www.m1.com/pt-br/menu1">Menu 1</a></td> <td><a href="https://www.m2.com/pt-br/menu2">Menu 2</a></td> <td><a href="https://www.m3.com/pt-br/menu3">Menu 3</a></td> </tr>
+(D) <div class="menu"> <ul> <li><a href="https://www.m1.com/pt-br/menu1">Menu 1</a></li> <li><a href="https://www.m2.com/pt-br/menu2">Menu 2</a></li> <li><a href="https://www.m3.com/pt-br/menu3">Menu 3</a></li> </ul> </div>
+(E) <label for="menu">menu</label> <select id="menu"> <option value=<a href="https://www.m1.com/ptbr/menu1">Menu 1</a></option> <option value=<a href="https://www.m2.com/ptbr/menu2">Menu 2</a></option> <option value=<a href="https://www.m3.com/ptbr/menu3">Menu 3</a></option> </select>
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 31-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de desenvolvimento do TJ-RR precisa de uma solução de computação em nuvem que permita a criação e o gerenciamento de sua própria aplicação, mas prefere concentrar seus esforços exclusivamente no desenvolvimento do software, sem a necessidade de gerenciar detalhes da infraestrutura subjacente, como servidores, balanceamento de carga ou atualizações de sistema operacional. Além disso, essa solução deve oferecer escalabilidade para lidar com picos de demanda, integração com ferramentas de desenvolvimento, e a possibilidade de implantar rapidamente novas versões da aplicação. Assinale a afirmativa correta acerca do modelo de serviço em nuvem mais adequado para esse cenário.
+
+[ALTERNATIVAS]
+(A) Infrastructure as a Service (IaaS) seria o mais indicado, pois possibilita que a equipe de desenvolvimento configure seu ambiente de infraestrutura virtual.
+(B) Software as a Service (SaaS) oferece a maior simplicidade, já que a equipe de desenvolvimento pode utilizar aplicações prontas, com mínima necessidade de ajustes na infraestrutura.
+(C) Platform as a Service (PaaS) facilita o gerenciamento de servidores e redes, permitindo que a organização desenvolva e execute suas próprias aplicações, sem preocupações com infraestrutura física, mas com responsabilidade total sobre os sistemas operacionais.
+(D) Infrastructure as a Service (IaaS) proporciona flexibilidade na configuração de infraestrutura, permitindo à organização adaptar os recursos de hardware virtual conforme as necessidades da aplicação, sem precisar gerenciar balanceamento de carga.
+(E) Platform as a Service (PaaS) é a solução mais apropriada, uma vez que disponibiliza um ambiente completo de desenvolvimento e execução, eliminando a necessidade de gerenciamento de servidores, balanceamento de carga e sistemas operacionais, enquanto garante a escalabilidade e integração com ferramentas de desenvolvimento.
+
+[GABARITO]
+E

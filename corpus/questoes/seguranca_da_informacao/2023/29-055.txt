@@ -1,0 +1,18 @@
+ID: 29-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A empresa Y foi contratada por uma fabricante de software para verificar uma quebra de segurança, com perda da confidencialidade ocorrida na empresa, e suas consequências. Em seu relatório, a empresa Y informou que: - houve uma perda financeira limitada; - ocorreram danos limitados nos recursos da organização; - a organização consegue realizar suas funções primárias, mas com a eficiência delas notadamente reduzida. A partir dessas caraterísticas, a empresa Y informou que o nível de impacto sobre a organização foi:
+
+[ALTERNATIVAS]
+(A) baixo;
+(B) alto;
+(C) moderado;
+(D) muito baixo;
+(E) muito alto.
+
+[GABARITO]
+A

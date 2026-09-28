@@ -1,0 +1,18 @@
+ID: 59-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma rede de dados é composta por 1 servidor e 10 máquinas clientes conectadas por meio de um comutador (switch) de rede. Todas as interfaces do comutador e dos dispositivos de rede possuem capacidade de transmissão e recepção de até 1 Gbps. Esse servidor pode transmitir arquivos, por meio de uma aplicação, para as máquinas clientes por protocolos do tipo Unicast ou Multicast, bastando, para isso, ajustar a configuração entre o servidor e as máquinas clientes que irão receber os arquivos. Para o envio de um arquivo específico por essa aplicação é necessária a transmissão de 10 GB de dados pelo servidor. Os tempos mínimos necessários para a completa transmissão deste arquivo para as 10 máquinas clientes, quando utilizados os protocolos Unicast e Multicast, são, respectivamente:
+
+[ALTERNATIVAS]
+(A) 10 segundos e 100 segundos;
+(B) 80 segundos e 800 segundos;
+(C) 100 segundos e 10 segundos;
+(D) 100 segundos e 100 segundos;
+(E) 800 segundos e 80 segundos.
+
+[GABARITO]
+E

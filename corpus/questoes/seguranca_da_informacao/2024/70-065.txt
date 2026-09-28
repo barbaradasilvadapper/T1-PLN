@@ -1,0 +1,18 @@
+ID: 70-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Apesar de ser considerado um protocolo robusto para Redes Wi- Fi, o WPA2 ainda apresenta algumas vulnerabilidades. O ataque que explora uma vulnerabilidade na autenticação da chave de grupo do WPA2, possibilitando que um invasor intercepte e manipule o tráfego de dados entre um dispositivo cliente e um ponto de acesso sem fio, é denominado
+
+[ALTERNATIVAS]
+(A) DDoS.
+(B) KRACK.
+(C) MiTM.
+(D) Rogue AP.
+(E) Poison ARP.
+
+[GABARITO]
+B

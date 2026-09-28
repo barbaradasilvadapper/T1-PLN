@@ -1,0 +1,18 @@
+ID: 47-022
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Em relação ao uso de OKRs e KPIs em uma sociedade empresária que desenvolve soluções digitais, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Os OKRs acompanham performance contínua de serviços de TI.
+(B) Os KPIs substituem integralmente os OKRs em um modelo de gestão orientado por resultados.
+(C) Os KPIs possuem caráter estratégico e são definidos em ciclos periódicos, normalmente trimestrais.
+(D) Os KPIs são utilizados para definir metas de transformação e inovação, enquanto os OKRs monitoram a estabilidade dos processos operacionais.
+(E) Os OKRs em TI promovem o alinhamento estratégico e a transparência, permitindo que as equipes foquem em resultados de alto impacto e compartilhem seus objetivos com toda a organização.
+
+[GABARITO]
+E

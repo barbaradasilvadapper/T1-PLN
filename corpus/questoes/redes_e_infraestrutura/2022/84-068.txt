@@ -1,0 +1,18 @@
+ID: 84-068
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O cmdlet do Powershell no Windows 10 capaz de exibir o modelo e o fabricante de uma máquina é o
+
+[ALTERNATIVAS]
+(A) Get-CimInstance - ClassName Win32_QuickFixEngineering - Property HotFixID.
+(B) Get-CimInstance - ClassName Win32_LogonSession.
+(C) Get-CimInstance - ClassName Win32_ComputerSystem.
+(D) Get-CimInstance - ClassName Win32_OperatingSystem | Select-Object - Property BuildNumber, BuildType, OSType, ServicePackMajorVersion, ServicePackMinorVersion.
+(E) Get-CimInstance - ClassName Win32_BIOS.
+
+[GABARITO]
+C

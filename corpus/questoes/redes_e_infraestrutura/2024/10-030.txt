@@ -1,0 +1,18 @@
+ID: 10-030
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No sistema operacional Ubuntu, Antônio, analista do TJ-MS, deseja alterar o proprietário da pasta “novo_sistema” e de todos os seus arquivos para o usuário “root”, assim como mudar o grupo da pasta e dos arquivos para “www-data”. Supondo que ele já esteja com o prompt na pasta adequada, Antônio executa o comando:
+
+[ALTERNATIVAS]
+(A) sudo chown -r root:www-data novo_sistema;
+(B) sudo chown -R root:www-data novo_sistema;
+(C) sudo chown -R www-data:root novo_sistema;
+(D) sudo chowner -r root:www-data novo_sistema;
+(E) sudo chowner -R root:www-data novo_sistema.
+
+[GABARITO]
+B

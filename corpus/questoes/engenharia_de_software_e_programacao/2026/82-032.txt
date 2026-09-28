@@ -1,0 +1,18 @@
+ID: 82-032
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um Engenheiro de Testes acaba de receber uma demanda para conduzir um teste de sistema com sua equipe. Sobre esse tipo de teste, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Deve ser conduzido antes dos testes de integração e conduzido, preferencialmente, por uma equipe de testes. ( ) Tem como objetivo confrontar o software em funcionamento com seus requisitos funcionais e não funcionais, sendo executado em um ambiente muito semelhante ao de produção. ( ) Pode ser dividido em fases alfa (em ambiente de desenvolvimento) e beta (em ambiente que emula a produção) e realizado integralmente pela equipe de testes. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – V – V.
+(B) V – F – F.
+(C) F – V – F.
+(D) F – V – V.
+(E) F – F – V.
+
+[GABARITO]
+C

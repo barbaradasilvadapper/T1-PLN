@@ -1,0 +1,18 @@
+ID: 16-042
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de Sistemas de Gerenciamento de Bancos de Dados Relacionais (SGBD), um conjunto de operações é considerado uma transação confiável se atender a critérios rigorosos que garantam, por exemplo, que uma falha no sistema não deixa os dados em um estado parcial ou corrompido. Sobre as propriedades fundamentais que regem as transações em bancos de dados, assinale a opção que indica a propriedade que, uma vez confirmada, assegura que a operação não será perdida, mesmo em caso de falha de energia ou colapso do sistema.
+
+[ALTERNATIVAS]
+(A) Atomicidade.
+(B) Consistência.
+(C) Durabilidade
+(D) Isolamento.
+(E) Persistência.
+
+[GABARITO]
+C

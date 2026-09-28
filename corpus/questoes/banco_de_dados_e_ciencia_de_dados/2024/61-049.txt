@@ -1,0 +1,18 @@
+ID: 61-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere a execução dos comandos SQL a seguir: Assinale a opção que apresenta a ordem correta dos nomes impressos pelo comando SELECT.
+
+[ALTERNATIVAS]
+(A) ‘Andrade’, ‘Ferreira’ e ‘Verçosa’.
+(B) ‘Ferreira’ e ‘Andrade’.
+(C) ‘Ferreira’ e ‘Verçosa’.
+(D) ‘Lavor’.
+(E) ‘Verçosa’ e ‘Ferreira’.
+
+[GABARITO]
+C

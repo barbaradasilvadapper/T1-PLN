@@ -1,0 +1,18 @@
+ID: 83-049
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Mockito 4.8.0 é um framework que tem como objetivo fazer testes unitários em aplicações Java. O pacote nativo de verificação de erros é o
+
+[ALTERNATIVAS]
+(A) org.mockito.configuration.stacktrace.
+(B) org.mockito.exceptions.verification.
+(C) org.mockito.invocation.listeners.
+(D) org.mkt.failures.checking.
+(E) org.mkt.errors.verifing.
+
+[GABARITO]
+B

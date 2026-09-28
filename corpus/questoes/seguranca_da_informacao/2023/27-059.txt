@@ -1,0 +1,18 @@
+ID: 27-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Tânia trabalha em uma prestadora de serviços de Internet. Equivocadamente, ela enviou ao servidor um comando UPDATE, o qual alterou indevidamente a base de dados, não permitindo mais seu acesso. De forma a ocultar seu erro, Tânia descobriu um post-it sob o teclado com a senha de um dos técnicos que trabalhava com ela. Então, utilizando a senha, entrou no sistema e efetuou novas modificações, de forma que a culpa recaísse sobre o técnico. No incidente relatado, houve a quebra do(a):
+
+[ALTERNATIVAS]
+(A) confidencialidade e autenticidade;
+(B) integridade e autenticidade;
+(C) irretratabilidade e disponibilidade;
+(D) não repúdio e confidencialidade;
+(E) confidencialidade e integridade.
+
+[GABARITO]
+B

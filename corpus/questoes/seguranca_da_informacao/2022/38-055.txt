@@ -1,0 +1,18 @@
+ID: 38-055
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+João administra uma rede de computadores com muitos sistemas de informação cujas operações são de acesso restrito, pois contém informações confidenciais. Nos últimos meses, João recebeu diversos relatos de ataques de keylogger e screenlog. Diante desse cenário, João deve proteger a sua rede de ataques do tipo:
+
+[ALTERNATIVAS]
+(A) worm;
+(B) spyware;
+(C) botnet;
+(D) zumbi;
+(E) remote access trojan.
+
+[GABARITO]
+B

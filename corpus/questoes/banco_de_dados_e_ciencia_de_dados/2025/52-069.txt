@@ -1,0 +1,18 @@
+ID: 52-069
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+SQL é uma linguagem de banco de dados abrangente que inclui comandos para definição de dados (DDL - Data Definition Language), manipulação de dados (DML - Data Manipulation Language), controle (DCL – Data Control Language), dentre outros. Neste contexto, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) O comando para apagar registros em uma tabela é o DELETE. ( ) Os comandos REVOKE, UPDATE e TRUNCATE pertencem, respectivamente, aos subconjuntos DCL, DML e DDL. ( ) O comando SAVEPOINT é um dos comandos do subconjunto DCL. ( ) O comando DROP pertence ao subconjunto DDL, sendo usado para limpar completamente uma tabela mantendo sua estrutura original. As afirmativas são, respetivamente,
+
+[ALTERNATIVAS]
+(A) V – V – F – F.
+(B) F – V – V – V.
+(C) V – F – F – V.
+(D) F – F – V – F.
+(E) V – V – F – V.
+
+[GABARITO]
+A

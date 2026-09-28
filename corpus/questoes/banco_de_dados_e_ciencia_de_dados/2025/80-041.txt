@@ -1,0 +1,18 @@
+ID: 80-041
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A arquitetura em três camadas surgiu no final dos anos 80 e ainda é comum na construção de sistemas de informação corporativos. As três camadas dessa arquitetura são
+
+[ALTERNATIVAS]
+(A) interface com o usuário, lógica de negócio e banco de dados.
+(B) interface com o usuário, microsserviços e repositório.
+(C) publicador, broker de eventos e assinante.
+(D) cliente, web server e banco de dados.
+(E) modelo, visão e controle.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 68-033
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Queremos construir uma aplicação WEB em JAVA em três camadas. Sobre a utilização do padrão de projeto MVC nesta aplicação, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A primeira camada, ou camada de apresentação, e a segunda camada, ou camada de negócios, ambas implementam uma versão do MVC.
+(B) A camada de apresentação corresponde a View do MVC além de implementar as classes do Model.
+(C) A camada de apresentação corresponde a View do padrão MVC, o Controler é implementado na segunda camada utilizando o Model que é implementado na terceira camada.
+(D) A primeira camada corresponde a View do padrão MVC e a terceira camada implementa o Controler e o Model do padrão MVC.
+(E) A camada de apresentação corresponde ao frontend e o backend coresponde unicamente a View e o Controler do padrão MVC.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 73-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Você é um administrador de rede responsável por garantir a segurança das comunicações entre vários escritórios de uma empresa global. Para proteger os dados que trafegam pela internet entre esses escritórios, você decide implementar o IPsec para criar uma VPN. Durante uma sessão de treinamento para a equipe de TI, você explica como o IPsec funciona e menciona que, antes de enviar datagramas IPsec entre duas entidades da rede, é necessário estabelecer uma conexão lógica de rede denominada:
+
+[ALTERNATIVAS]
+(A) Conexão Segura;
+(B) Canal de Confiança;
+(C) Associação de Rede;
+(D) Sessão de Segurança;
+(E) Associação de Segurança.
+
+[GABARITO]
+E

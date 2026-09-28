@@ -1,0 +1,18 @@
+ID: 35-058
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O modelo OSI e o modelo TCP/IP são modelos de referência para redes de computadores que descrevem as camadas e funções de comunicação entre computadores. Com relação aos modelos de referência OSI e TCP/IP para redes de computadores, analise os itens a seguir. I. O modelo OSI possui 7 camadas e é uma abstração teórica que deu origem a vários modelos que são utilizados na prática (incluindo o TCP/IP). II. No modelo TCP/IP a camada de transporte possui o mesmo papel da camada transporte do modelo OSI, enquanto a camada de aplicação do modelo TCP/IP possui as responsabilidades das camadas sessão, apresentação e aplicação do modelo OSI. III. O modelo TCP/IP é mais simples e reduzido que o modelo OSI, podendo ser representado pela versão com 4 camadas (que possui as camadas Enlace e Física separadas) ou pela versão com 5 camadas (que possui as camadas Enlace e Física unificadas, tal qual no modelo OSI). Está correto o que se afirma em.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

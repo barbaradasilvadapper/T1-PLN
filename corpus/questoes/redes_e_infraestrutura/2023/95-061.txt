@@ -1,0 +1,18 @@
+ID: 95-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Maria gerencia a aplicação WebJus. A WebJus requer a execução de dois containers Docker que necessitam de comunicação entre si. No entanto, para fins de balanceamento de carga, cada container da WebJus foi alocado em um servidor diferente. A fim de configurar a comunicação entre os containers da WebJus de forma simples, Maria criou a rede Docker NetJus, que é capaz de conectar containers rodando em servidores diferentes. A NetJus utiliza o driver de rede Docker:
+
+[ALTERNATIVAS]
+(A) host;
+(B) ipvlan;
+(C) bridge;
+(D) overlay;
+(E) macvlan.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 47-038
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No contexto da gestão de riscos em segurança da informação, a Gestão de Identidades e Acessos (IAM) é estruturada para mitigar riscos operacionais e de conformidade. Sobre o tema, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O provisionamento automatizado de acessos eleva a eficiência operacional, reduzindo erros operacionais e aumentando a consistência na atribuição de permissões. ( ) A adoção de mecanismos de Single Sign-On em ambientes corporativos dispensa a necessidade de auditoria e rastreabilidade de acessos, uma vez que a autenticação ocorre de forma centralizada. ( ) O modelo de controle de acesso Attribute-Based Access Control utiliza atributos como localização, horário, perfil do usuário ou tipo de dispositivo para determinar a autorização de acesso a recursos de TI.
+
+[ALTERNATIVAS]
+(A) V – V – V.
+(B) V – V – F.
+(C) F – F – V.
+(D) V – F – F.
+(E) V – F – V.
+
+[GABARITO]
+E

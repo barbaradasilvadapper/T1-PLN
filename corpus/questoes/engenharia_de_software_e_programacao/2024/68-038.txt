@@ -1,0 +1,18 @@
+ID: 68-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código a seguir que é usado para capturar a sintaxe de diversos tipos de frase a ser usado. A saída correta desse código é
+
+[ALTERNATIVAS]
+(A) vou a praia Vai
+(B) vou Vai
+(C) vou vai
+(D) Eu Você
+(E) Retorna erro
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 27-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Davi está implementando um software que monitora os serviços prestados nas camadas do modelo OSI. Uma camada desse monitoramento garante que a mensagem enviada chegue ao seu destino sem que haja qualquer alteração. Também garante sequência correta de pacotes, controle de erros e de fluxo de origem ao destino. A camada do modelo OSI monitorada por Davi é:
+
+[ALTERNATIVAS]
+(A) aplicação;
+(B) sessão;
+(C) transporte;
+(D) apresentação;
+(E) física.
+
+[GABARITO]
+C

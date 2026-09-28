@@ -1,0 +1,18 @@
+ID: 38-039
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Marcelo está elaborando a política de segurança em seu órgão e incluiu orientações sobre criação de senhas fortes para acesso aos sistemas, principalmente aqueles acessados pela internet. A orientação do Marcelo visa proteger seus usuários contra ataques de hackers que utilizam software automático para descobrir senhas fracas. A técnica para obtenção de senhas da qual Marcelo está tentando proteger seus usuários é:
+
+[ALTERNATIVAS]
+(A) man-in-the-middle;
+(B) brute force;
+(C) backdoors;
+(D) session hijacking;
+(E) XSS.
+
+[GABARITO]
+B

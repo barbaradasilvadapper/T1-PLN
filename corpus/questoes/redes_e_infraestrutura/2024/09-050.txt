@@ -1,0 +1,18 @@
+ID: 09-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto da arquitetura de aplicações para ambientes web, é fundamental compreender a função e a distinção entre os diversos tipos de servidores utilizados, como o servidor de aplicações e o servidor web. Assinale a opção que apresenta corretamente as características dos servidores na arquitetura web.
+
+[ALTERNATIVAS]
+(A) O servidor de aplicações é responsável exclusivamente pelo envio de páginas estáticas (HTML, CSS, JavaScript), enquanto o servidor web processa lógica de negócios e acessa bancos de dados.
+(B) O servidor web tem como principal função processar requisições HTTP e enviar páginas estáticas ou dinâmicas ao cliente, enquanto o servidor de aplicações fornece uma camada intermediária para execução de lógica de negócios e integração com bancos de dados.
+(C) O servidor de aplicações é responsável por gerenciar o tráfego HTTP, enquanto o servidor web faz o papel de intermediar requisições a sistemas legados e bancos de dados.
+(D) O servidor web e o servidor de aplicações são essencialmente o mesmo, pois ambos servem conteúdos dinâmicos e processam a lógica de negócios da aplicação.
+(E) O servidor de aplicações apenas faz o balanceamento de carga entre diferentes servidores web, sem processar requisições de lógica de negócios ou conectar-se a bancos de dados.
+
+[GABARITO]
+B

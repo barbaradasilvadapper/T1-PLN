@@ -1,0 +1,18 @@
+ID: 12-098
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Azure DevOps dá suporte a uma cultura colaborativa e um conjunto de processos que reúnem desenvolvedores, gerentes de projetos e colaboradores para desenvolver software. Ele permite que as organizações criem e melhorem produtos em ritmos mais acelerados do que o fariam com abordagens tradicionais de desenvolvimento de software. Sobre os serviços incluídos no Azure DevOps, avalie as descrições a seguir. I. Azure Test Plans - Fornece várias ferramentas para testar seus aplicativos, incluindo testes manuais/exploratórios e testes contínuos. II. Azure Pipelines - Fornece serviços de compilação e lançamento para dar suporte à integração contínua e à distribuição de seus aplicativos. III. Azure Boards - Entrega um conjunto de ferramentas Agile para dar apoio ao trabalho de planejamento e acompanhamento, aos defeitos de código e aos problemas de uso dos métodos Kanban e Scrum. Está correto o que se descreve em
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

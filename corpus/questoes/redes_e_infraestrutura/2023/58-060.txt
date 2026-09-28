@@ -1,0 +1,18 @@
+ID: 58-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considere uma sub-rede IPv4 - 192.168.10.24/29. Nesse caso, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) a máscara de sub-rede é 255.255.255.224.
+(B) o endereço de broadcast desta sub-rede é 192.168.10.32.
+(C) o endereço 192.168.10.29 é o endereço de rede.
+(D) esta sub-rede permite até 6 endereços IP válidos para hosts.
+(E) o endereço 192.168.10.31 pode ser atribuído a um host.
+
+[GABARITO]
+D

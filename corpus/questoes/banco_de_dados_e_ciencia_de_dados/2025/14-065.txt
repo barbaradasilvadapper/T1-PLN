@@ -1,0 +1,18 @@
+ID: 14-065
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No Django 5.1, existem vários comandos que os desenvolvedores podem utilizar para interagir com migrações e manipulação dos esquemas de banco de dados. O comando que exibe as instruções SQL para uma migração é o
+
+[ALTERNATIVAS]
+(A) showmigration.
+(B) viewmigration.
+(C) sqlmigration.
+(D) sqlmigrate.
+(E) migrate.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 34-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em sistemas de banco de dados, o mecanismo que executa automaticamente um conjunto de comandos em resposta a eventos específicos (INSERT, UPDATE, DELETE) em uma tabela é denominado
+
+[ALTERNATIVAS]
+(A) Stored Procedure.
+(B) Index.
+(C) View.
+(D) Constraint.
+(E) Trigger.
+
+[GABARITO]
+E

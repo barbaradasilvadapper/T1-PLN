@@ -1,0 +1,18 @@
+ID: 69-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A ferramenta de linha de comando do Windows Server 2022 usada por usuários que possuem privilégios de administrador para criar, baixar ou fazer upload de jobs e monitorar seu progresso se chama
+
+[ALTERNATIVAS]
+(A) powershell.
+(B) bitsadmin.
+(C) sysadmin.
+(D) pconsole.
+(E) admazr.
+
+[GABARITO]
+B

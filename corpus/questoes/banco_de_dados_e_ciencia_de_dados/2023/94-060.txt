@@ -1,0 +1,18 @@
+ID: 94-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere uma tabela intitulada TESTE, criada numa instalação MySQL, cuja instância possui dez linhas, e analise o comando a seguir. SELECT * FROM TESTE ORDER BY 1 LIMIT 5,2 Na execução desse comando, é correto afirmar que, do conjunto de linhas coletadas no resultado, somente serão exibidas:
+
+[ALTERNATIVAS]
+(A) as cinco primeiras linhas e as duas últimas linhas;
+(B) cinco linhas a partir da segunda linha;
+(C) cinco linhas a partir da terceira linha;
+(D) duas linhas a partir da quinta linha;
+(E) duas linhas a partir da sexta linha.
+
+[GABARITO]
+C

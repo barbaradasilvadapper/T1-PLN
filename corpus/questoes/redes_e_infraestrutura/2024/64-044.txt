@@ -1,0 +1,18 @@
+ID: 64-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os segmentos UDP e TCP possuem campos especiais que indicam a porta para a qual cada segmento deve ser entregue. Esses campos são o de número de porta de fonte e número de porta de destino. Cada número de porta é um número de 16 bits na faixa de 0 a 65535. Os números de porta entre 0 e 1023 são denominados números de porta bem conhecidos e são restritos. Isso significa que estão reservados para utilização por protocolos de aplicação bem conhecidos, como o HTTP, que usa a porta de número 80. Relacione os protocolos de aplicação a seguir a suas respectivas portas. ( ) 21 ( ) 23 ( ) 25 ( ) 53 1. 2. 3. 4. DNS FTP SMTP TELNET Assinale a opção que indica a relação correta, segundo a ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 3 – 2 – 4.
+(B) 1 – 4 – 2 – 3.
+(C) 4 – 2 – 3 – 1.
+(D) 2 – 4 – 3 – 1.
+(E) 4 – 3 – 2 – 1.
+
+[GABARITO]
+D

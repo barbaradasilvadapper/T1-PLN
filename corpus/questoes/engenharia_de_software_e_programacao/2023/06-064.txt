@@ -1,0 +1,18 @@
+ID: 06-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Silvia está desenvolvendo o front-end do novo sistema de ordens de serviço de sua empresa, onde foi especificado o uso do framework Angular no projeto. A nova interface utilizará o roteamento do Angular e, para incluir o componente da rota corrente no template HTML da tela principal, Silvia irá definir a área de apresentação através de uma tag:
+
+[ALTERNATIVAS]
+(A) pathMatch;
+(B) router-outlet;
+(C) snapshot;
+(D) nav;
+(E) routerLink.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 42-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa está montando uma arquitetura de nuvem, de modo que possa disponibilizar serviços para terceiros. No caso, a empresa está trabalhando com a configuração do back-end, cuidando dos seus componentes, cujas principais partes são
+
+[ALTERNATIVAS]
+(A) camada de virtualização, infraestrutura híbrida e sistema operacional.
+(B) infraestrutura híbrida, interface com o usuário e tecnologia de acesso.
+(C) hardware do data center, camada de virtualização e camada de aplicativos e serviços.
+(D) hardware do data center, interface com o usuário e sistema operacional.
+(E) hardware do data center, camada de aplicativos e serviços e tecnologia de acesso.
+
+[GABARITO]
+C

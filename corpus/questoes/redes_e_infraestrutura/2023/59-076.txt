@@ -1,0 +1,18 @@
+ID: 59-076
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Correlacione os protocolos e tecnologias de switching com suas respectivas definições ou aplicações. 1. Spanning Tree Protocol (STP) 2. Virtual LAN (VLAN) 3. Domain Name System (DNS) 4. Port Address Translation (PAT) ( ) Permite a proteção contra loops de rede em camada 2 do modelo OSI. ( ) Permite a navegação de máquinas com IPv4 sob a RFC 1918 em redes públicas, como a internet. ( ) Realiza a tradução de nomes em endereços IP. ( ) Permite o compartilhamento de meios físicos entre máquinas pertencentes a redes lógicas diferentes.
+
+[ALTERNATIVAS]
+(A) 1, 2, 3, 4;
+(B) 1, 4, 3, 2;
+(C) 2, 3, 1, 4;
+(D) 4, 2, 3, 1;
+(E) 4, 3, 2, 1.
+
+[GABARITO]
+B

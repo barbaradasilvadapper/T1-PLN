@@ -1,0 +1,18 @@
+ID: 80-035
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Hibernate 7.0 representa um marco significativo na evolução do Hibernate ORM com foco especial na sua nova especificação para repositórios. O Hibernate Data Repositories é uma implementação baseado no
+
+[ALTERNATIVAS]
+(A) Java EE8.
+(B) JBoss 3.0.
+(C) JQuery Data.
+(D) Jakarta Data.
+(E) Jakarta API 2.0.
+
+[GABARITO]
+D

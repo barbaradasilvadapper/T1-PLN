@@ -1,0 +1,18 @@
+ID: 94-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o trecho de descrição de uma página Web, no qual as referências da terceira linha foram omitidas. <html> <head> <link rel="..." href="..."> </head> <style> .xxxxx { font-size: 18px; text-align: center; color: #fff; background-color: blue; } ---------- </style> <body> <button class=xxxxx id="b1">Clique aqui.</button> <p>Boa tarde.</p> </body> </html> Na linha tracejada, o texto que faz com que o botão mude de cor de fundo quando o mouse é posicionado sobre ele é:
+
+[ALTERNATIVAS]
+(A) .b1:hover { }
+(B) .button:hover { }
+(C) .xxxxx:hover { }
+(D) hover:b1 { }
+(E) hover:button { }
+
+[GABARITO]
+C

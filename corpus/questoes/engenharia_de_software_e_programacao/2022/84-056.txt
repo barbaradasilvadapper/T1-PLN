@@ -1,0 +1,18 @@
+ID: 84-056
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O SwaggerEditor permite editar e documentar APIs. Em relação ao tema, assinale V para a afirmativa verdadeira e F para a falsa. I. O editor pode ser utilizado online como uma ferramenta web de código aberto ou ser instalada e executada localmente a partir de um servidor. II. A página inicial da versão online é composta por quatro elementos de interface: um toolbar, um painel de edição de API, um painel de visualização de documentos e um painel para testar os webhooks e chamadas da API. III. O editor, na versão online, salva os códigos da APIs nos formatos das especificações YAML, JSON e XML. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V, F e F.
+(B) V, V e F.
+(C) V, F e V.
+(D) F, V e V.
+(E) F, F e V.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 43-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Tribunal de Justiça do Mato Grosso de Sul (TJMS) identificou a necessidade de compreender os ataques cibernéticos sofridos. Com o objetivo de observar o comportamento de invasores, decidiu implementar um honeypot, de forma a permitir análises detalhadas das motivações, das ferramentas utilizadas e das vulnerabilidades exploradas pelos atacantes. A opção por implementar um honeypot de alta interatividade se deve ao fato de este possuir:
+
+[ALTERNATIVAS]
+(A) baixo risco de comprometimento e não exigir mecanismos de contenção;
+(B) um processo de instalação complexo, porém, com um processo de manutenção facilitado;
+(C) aplicações e serviços oferecidos emulados, apesar de poder ser comprometido pelo atacante;
+(D) uma difícil instalação e manutenção trabalhosa, além de poder ser comprometido pelo atacante;
+(E) um bloqueio do atacante ao sistema operacional real (em teoria) e baixo risco de comprometimento.
+
+[GABARITO]
+D

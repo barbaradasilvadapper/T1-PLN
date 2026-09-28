@@ -1,0 +1,18 @@
+ID: 80-039
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+JUnit 5 é um framework de testes unitários para códigos Java. Ele possui uma arquitetura modular e três subprojetos principais. O subprojeto que fornece uma engine para executar testes baseados em JUnit 3 e JUnit 4 se chama
+
+[ALTERNATIVAS]
+(A) builder.
+(B) fashion.
+(C) jupiter.
+(D) vintage
+(E) tester.
+
+[GABARITO]
+D

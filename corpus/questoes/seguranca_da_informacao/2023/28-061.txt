@@ -1,0 +1,18 @@
+ID: 28-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O computador de Elias foi infectado por um rootkit que não foi mais detectado no computador assim que ele foi reiniciado. É correto afirmar que o computador havia sido infectado por um rootkit de:
+
+[ALTERNATIVAS]
+(A) memória;
+(B) kernel;
+(C) aplicativos;
+(D) carregador de boot;
+(E) firmware.
+
+[GABARITO]
+A

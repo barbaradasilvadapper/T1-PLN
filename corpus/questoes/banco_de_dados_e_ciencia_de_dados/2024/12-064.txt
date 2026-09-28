@@ -1,0 +1,18 @@
+ID: 12-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Alguns algoritmos de aprendizado de máquina servem para agrupar instâncias de dados em clusters, podendo ser utilizados para tarefas como segmentação de imagens, ou segmentação social (por exemplo, para agrupamento de clientes em uma mesma categoria. Dois dos mais populares algoritmos são o K-means e o DBSCAN. A respeito desses algoritmos, relacione-os com suas principais características: 1. K-means 2. DBSCAN ( ) Precisa da definição de um número inicial de agrupamentos. ( ) Mais robusto à ocorrência de outliers, por sua provável localização em regiões de baixa densidade de dados. ( ) Precisa da definição do número mínimo de vizinhos e do raio da vizinhança para determinar limites dos agrupamentos. ( ) Determina centróides dos agrupamentos e agrupa as instâncias de dados em função de uma métrica de distância entre as instâncias e os centróides. Das opções a seguir, aquela que indica a relação correta na sequência apresentada é
+
+[ALTERNATIVAS]
+(A) 2 – 1 – 2 – 1.
+(B) 1 – 1 – 2 – 1.
+(C) 2 – 1 – 1 – 2.
+(D) 2 – 1 – 1 – 1
+(E) 1 – 2 – 2 – 1.
+
+[GABARITO]
+E

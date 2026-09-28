@@ -1,0 +1,18 @@
+ID: 31-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A técnica de spoofing é muito empregada em testes de penetração e ataques cibernéticos. Ao usar spoofing pode-se escolher entre diversas possibilidades. Por exemplo, a aplicação apenas da técnica de IP spoofing permite
+
+[ALTERNATIVAS]
+(A) criar um malware capaz de permitir acesso remoto à um dispositivo infectado.
+(B) comprometer uma conta ignorando o processo de autenticação.
+(C) redirecionar o tráfego para um domínio distinto.
+(D) substituir uma interface de rede por outra controlada pelo atacante.
+(E) falsificar o cabeçalho de datagramas para ocultar seu remetente.
+
+[GABARITO]
+E

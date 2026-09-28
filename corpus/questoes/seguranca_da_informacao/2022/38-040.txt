@@ -1,0 +1,18 @@
+ID: 38-040
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um novo sistema operacional foi instalado nos servidores de um Centro de Dados, e a equipe de segurança recebeu a informação de que o novo sistema pode ter uma vulnerabilidade dia-zero. As vulnerabilidades dia-zero são perigosas porque são desconhecidas e suas correções ainda não foram produzidas. Durante o período de espera pela correção, os usuários ficam sujeitos às tentativas de explorações dessas vulnerabilidades pelos hackers. Uma das formas utilizadas pelos hackers para a descoberta das vulnerabilidades dia-zero é o fuzzing, cujo processo de funcionamento consiste em:
+
+[ALTERNATIVAS]
+(A) inserir muitos dados em intervalos diferentes e verificar como um programa responde;
+(B) adaptar vulnerabilidades anteriores a novos programas;
+(C) roubar a identidade de um desenvolvedor para ter acesso ao código-fonte do programa;
+(D) confundir um roteador a fim de se passar por um ativo da rede;
+(E) enviar um código malicioso através de uma porta aberta na aplicação.
+
+[GABARITO]
+A

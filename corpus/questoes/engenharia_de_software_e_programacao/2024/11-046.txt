@@ -1,0 +1,18 @@
+ID: 11-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Modelo de Processo de Software Brasileiro (MPS.BR) tem por objetivo promover a melhoria contínua dos processos de desenvolvimento e gestão de software nas organizações brasileiras, ajudando-as a alcançar maior eficiência, qualidade e competitividade. O Modelo de Referência MPS para Software de 2023 (MR-MPS- SW:2023) define níveis de maturidade que são uma combinação entre processos e sua capacidade. Nesse sentido, correlacione os níveis de maturidade apresentados abaixo com as respectivas descrições ou explicações. 1. Nível A. 2. Nível F. 3. Nível G. ( ) Neste nível de capacidade, processos selecionados e previsíveis são continuamente objeto de melhorias e estão alinhados aos objetivos organizacionais. ( ) Neste nível de capacidade, a execução do processo é gerenciada. ( ) Neste nível de capacidade, a execução do processo e os produtos de trabalhos são gerenciados. Assinale a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 2 – 3.
+(B) 2 – 3 – 1.
+(C) 3 – 1 – 2.
+(D) 2 – 1 – 3.
+(E) 1 – 3 – 2.
+
+[GABARITO]
+E

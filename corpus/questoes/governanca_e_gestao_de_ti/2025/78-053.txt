@@ -1,0 +1,18 @@
+ID: 78-053
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A modelagem de processos de negócio, também conhecida como Business Process Modeling (BPM), é uma metodologia que representa os processos de uma empresa. Com relação ao BPM, analise os itens a seguir. I. É uma metodologia voltada para administrar todo o ciclo de vida dos processos, desde a concepção, a modelagem e simulação, passando pela execução e alcançando o monitoramento e controle dos processos II. O propósito da modelagem é criar uma representação parcial e estimada do funcionamento do processo. III. O principal orientador do BPM é o Guia ‘Corpo Comum de Conhecimento em Gerenciamento de Processos de Negócio’ (ou BPM CBOK, Business Process Management Common Body of Knowledge).
+
+[ALTERNATIVAS]
+(A) III apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

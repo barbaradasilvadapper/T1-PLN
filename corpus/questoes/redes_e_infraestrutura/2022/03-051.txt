@@ -1,0 +1,18 @@
+ID: 03-051
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa do setor imobiliário está implantando uma nova infraestrutura de servidores para hospedar seus sites. Considere os seguintes pré-requisitos: I. os sites serão acessíveis por um único IP público, por meio dos protocolos HTTP e HTTPS, porém estarão instalados em servidores diferentes em seu datacenter; II. deve-se evitar a comunicação direta entre usuários e servidores onde estarão hospedados os sites, impedindo ataques diretos a esses sites. Em relação à solução que atende os pré-requisitos listados acima, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Não é possível que vários servidores atendam a um único IP público.
+(B) Configurar o switch da rede interna para os servidores responderem para o mesmo IP privado.
+(C) Configurar o serviço de DNS para distribuir corretamente o conteúdo do site pela internet.
+(D) Configurar um proxy-reverso para redirecionar o tráfego dos sites para o servidor correto de acordo com os cabeçalhos HTTP.
+(E) Configurar um balanceador de carga da camada 4 para distribuir os pacotes TCP entre os servidores de acordo com os cabeçalhos HTTP.
+
+[GABARITO]
+D

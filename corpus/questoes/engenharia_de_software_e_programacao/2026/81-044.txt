@@ -1,0 +1,18 @@
+ID: 81-044
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Abstração em Programação Orientada a Objetos – POO (ou Object- Oriented Programming, OOP) corresponde a uma visão ou representação de uma entidade que inclui apenas os atributos mais significativos. Com relação à JAVA e a OOP, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) O Java emprega uma adesão consistente aos princípios orientados a objetos, tendo a abstração como supressão intencional, ou ocultação, de alguns detalhes de um processo ou artefato, focando nas características e comportamentos essenciais de um objeto do mundo real. ( ) Java não permite classes sem pais, pois a herança é mandatória e centralizada, e usa dynamic binding (Ligação Dinâmica ou Tardia) como comportamento padrão para métodos de instância em Java para vincular chamadas de método às definições de métodos, que corresponde ao Polimorfismo (de inclusão ou sobreposição). ( ) Java usa interfaces para fornecer uma forma de suporte à herança múltipla, que não possui todas as desvantagens da herança múltipla real.
+
+[ALTERNATIVAS]
+(A) F – F – F.
+(B) V – V – V.
+(C) V – F – F.
+(D) V – F – V.
+(E) F – F – V.
+
+[GABARITO]
+B

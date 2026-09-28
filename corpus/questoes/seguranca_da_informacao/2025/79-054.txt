@@ -1,0 +1,18 @@
+ID: 79-054
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Ao estabelecer uma VPN institucional entre o MPT, o MPF e n procuradores com notebooks conectados remotamente, é necessário configurar associações de segurança (SAs) para suportar o tráfego IPsec bidirecional. Essas associações são estabelecidas entre: • o roteador de borda do MPF e o roteador de borda do MPT; • o roteador de borda do MPF e cada notebook dos n procuradores. Nesse caso, o número total de associações de segurança necessárias para suportar o tráfego IPsec bidirecional é de:
+
+[ALTERNATIVAS]
+(A) 2n;
+(B) 4n;
+(C) 2+n;
+(D) 2+2n;
+(E) 2+3n.
+
+[GABARITO]
+D

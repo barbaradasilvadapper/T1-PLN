@@ -1,0 +1,18 @@
+ID: 30-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Na multinacional em que Mateus trabalha, foi definido que ele criaria uma "Wikipédia" interna, isto é, acessível somente aos colaboradores internos. Ele deverá manter o mesmo modelo de segurança de uma página web comum que use o protocolo TLS/SSL para a navegação segura entre o servidor e os navegadores. Para garantir a segurança, Mateus deverá usar a cifra de fluxo simétrica:
+
+[ALTERNATIVAS]
+(A) AES;
+(B) RC4;
+(C) Twofish;
+(D) Blowfish;
+(E) IDEA.
+
+[GABARITO]
+B

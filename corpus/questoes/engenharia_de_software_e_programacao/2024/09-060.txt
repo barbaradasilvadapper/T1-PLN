@@ -1,0 +1,18 @@
+ID: 09-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os Sistemas de Suporte à Decisão (SSDs) contribuem para gestores na tomada de decisões, utilizando dados, análises e algoritmos sofisticados. Eles auxiliam a enfrentar diferentes tipos de problemas, desde os muito bem definidos até os que exigem uma certa intuição e julgamento humano. Assinale a opção que representa corretamente a capacidade dos SSDs de lidar com diferentes tipos de problemas e decisões:
+
+[ALTERNATIVAS]
+(A) Os SSDs são adequados apenas para problemas estruturados, com procedimentos claramente definidos e automatizáveis.
+(B) Os SSDs são ideais para problemas não estruturados, em que a intuição e o julgamento humano são fundamentais.
+(C) Os SSDs são mais eficazes em problemas semiestruturados, combinando elementos estruturados e não estruturados.
+(D) Os SSDs podem ser aplicados a problemas estruturados, semiestruturados e não estruturados, oferecendo flexibilidade para apoiar decisões em diversos contextos.
+(E) Os SSDs são limitados a problemas específicos de uma única área funcional e não se aplicam a outros setores empresariais.
+
+[GABARITO]
+D

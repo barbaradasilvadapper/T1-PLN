@@ -1,0 +1,18 @@
+ID: 19-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O Data Warehouse do TJSE armazena um grande cubo de dados contendo diversas métricas e dimensões, como: DIM_TEMPO, DIM_LOCAL e DIM_PROCESSO. A analista Julia precisa extrair um subconjunto deste cubo de dados contendo apenas os fatos do primeiro trimestre de 2023 e processos com a situação “arquivado”. Para obter esse subconjunto de dados, Julia utilizou uma ferramenta OLAP e executou a seguinte operação:
+
+[ALTERNATIVAS]
+(A) Dice;
+(B) Slice;
+(C) Rotate;
+(D) Roll up;
+(E) Drill down.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 36-045
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe os conjuntos de dados do MongoDB a seguir. Coleções: Autor: { "_id": 1, "nome": "João", "email": "joao@ www.mpu.mp.br" } Endereco: { "_id": 101, "usuario_id": 1, "quadra": "202", "cidade": "Brasília", "cep": "70000-000" } Resultado da junção: { "_id": 1, "nome": "João", "email": " joao@ www.mpu.mp.br ", "detalhes_endereco": [ { "_id": 101, "usuario_id": 1, "quadra": "202", "cidade": " Brasília", "cep": "70000-000" } ] } No MongoDB, para realizar operações de junção entre as coleções combinando os dados de Autor e seu respectivo Endereco , deve-se utilizar a operação:
+
+[ALTERNATIVAS]
+(A) $skip
+(B) $sort
+(C) $match
+(D) $group
+(E) $lookup
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 24-052
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O servidor HTTP Apache versão 2.4 é configurado por meio de diretivas presentes no arquivo de configuração denominado httpd.conf. A diretiva que define o diretório base onde as páginas web devem ser armazenadas para disponibilização pelo servidor Apache é:
+
+[ALTERNATIVAS]
+(A) DocumentRoot;
+(B) ServerRoot;
+(C) ServerPath;
+(D) ServerName;
+(E) ChRootDir.
+
+[GABARITO]
+A

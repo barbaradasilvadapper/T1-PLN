@@ -1,0 +1,18 @@
+ID: 22-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Algoritmos de agrupamento podem ser classificados em diferentes categorias. Um algoritmo de agrupamento amplamente utilizado em aprendizado de máquina e mineração de dados é conhecido como K-Means. O K-Means, em sua versão original, é classificado como um tipo de algoritmo
+
+[ALTERNATIVAS]
+(A) baseado em grade.
+(B) baseado em grafo.
+(C) hierárquico.
+(D) partitivo.
+(E) por densidade.
+
+[GABARITO]
+D

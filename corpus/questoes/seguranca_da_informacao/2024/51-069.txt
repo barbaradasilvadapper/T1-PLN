@@ -1,0 +1,18 @@
+ID: 51-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A criptografia é uma técnica fundamental para garantir a segurança da informação, especialmente na proteção de dados transmitidos pela internet. Em relação ao objetivo principal da criptografia assimétrica, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Utiliza uma única chave para criptografar e descriptografar os dados, garantindo que apenas o remetente tenha acesso à informação.
+(B) Utiliza duas chaves diferentes: uma pública para criptografar e uma privada para descriptografar, garantindo a confidencialidade da comunicação.
+(C) Utiliza uma chave única que é compartilhada entre as partes, permitindo a troca segura de dados, mas sem garantir a confidencialidade.
+(D) Garante que os dados sejam criptografados apenas em repouso, não afetando a transmissão de dados.
+(E) Utiliza uma chave única para criptografar e descriptografar os dados, mas não oferece proteção contra acessos não autorizados.
+
+[GABARITO]
+B

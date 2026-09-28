@@ -1,0 +1,18 @@
+ID: 73-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de TI de uma empresa está conduzindo uma investigação minuciosa dos registros de recursos DNS. Enquanto revisavam esses registros, eles se depararam com um registro de recurso com o campo type = A. Nesse registro, o campo:
+
+[ALTERNATIVAS]
+(A) Name é um nome de domínio e Value é o endereço IP para o nome de domínio;
+(B) Name é um nome de hospedeiro e Value é o endereço IP para o nome de hospedeiro;
+(C) Name é um nome de domínio e Value é o endereço IP para o nome de um servidor DNS recursivo;
+(D) Name é um nome de domínio e Value é o endereço IP para o nome de um servidor DNS autoritativo;
+(E) Name é um nome de hospedeiro e Value é o endereço IP para o nome de um servidor DNS recursivo.
+
+[GABARITO]
+B

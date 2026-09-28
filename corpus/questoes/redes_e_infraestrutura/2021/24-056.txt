@@ -1,0 +1,18 @@
+ID: 24-056
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No seu notebook rodando Windows 10, João pretende remover alguns arquivos presentes na pasta C:\xpto e, recursivamente, as respectivas subpastas em todos os níveis. Devem ser removidos somente os arquivos cuja última alteração tenha ocorrido há mais de 14 dias. Por meio da PowerShell, o script adequado para essa remoção é:
+
+[ALTERNATIVAS]
+(A) Remove-Item | Get-ChildItem –Path "C:\xpto" -Recurse | Where-Object {($_.LastWriteTime -< (Get-Date).AddDays(-14))}
+(B) Remove-Item –Path "C:\xpto" -Recurse | Where-Object {($_.LastWriteTime -lt (Get-Date).AddDays(14))}
+(C) Remove –Path "C:\xpto" -Recurse | Where-Object {($_.LastWriteTime -lt (Get-Date).AddDays(-14))}
+(D) Get-ChildItem From "C:\xpto" -Recurse | Where-Object {($_.LastWriteTime -lt (Get-Date).AddDays(-14))} > Litter
+(E) Get-ChildItem –Path "C:\xpto" -Recurse | Where-Object {($_.LastWriteTime -lt (Get-Date).AddDays(-14))} | Remove-Item
+
+[GABARITO]
+E

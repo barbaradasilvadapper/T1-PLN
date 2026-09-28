@@ -1,0 +1,18 @@
+ID: 48-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Grupo de Desenvolvimento de Software (GRUDEV) construirá um aplicativo para dispositivos móveis cujo público-alvo são os cidadãos estaduais. Com foco na produção de um aplicativo que atenda aos princípios de usabilidade, o GRUDEV deve:
+
+[ALTERNATIVAS]
+(A) utilizar modais para avisos importantes, prevenção ou correção de erros;
+(B) condicionar que os conteúdos ou serviços vinculados sejam apresentados em resposta às pesquisas dos usuários;
+(C) disponibilizar grandes quantidades de texto, principalmente para auxílio na navegação, de modo que o funcionamento do aplicativo esteja explícito;
+(D) aplicar barras de rolagem quando o conteúdo ultrapassar o tamanho físico da tela em polegadas, para que o conteúdo útil fique disponível em uma mesma tela;
+(E) construir os botões com funcionalidades para submissão de dados em tamanhos maiores, com fontes maiores que os demais, para ocupar a largura total da tela do dispositivo móvel, de modo a facilitar a confirmação de dados pelos usuários.
+
+[GABARITO]
+A

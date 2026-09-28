@@ -1,0 +1,18 @@
+ID: 57-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Um analista da CVM reforçou para sua equipe que os fatores de desempenho impactam de diferentes maneiras a adaptação do sistema de governança de uma organização. O COBIT 2019 distingue três tipos diferentes de impacto, que são:
+
+[ALTERNATIVAS]
+(A) conformidade, prioridade e necessidade de áreas de foco específicas;
+(B) prioridade, componentes variantes e necessidade de áreas de foco específicas;
+(C) prioridade, serviços de segurança gerenciados e componentes variantes;
+(D) conformidade, componentes variantes e serviços de segurança gerenciados;
+(E) serviços de segurança gerenciados, conformidade e necessidade de áreas de foco específicas.
+
+[GABARITO]
+B

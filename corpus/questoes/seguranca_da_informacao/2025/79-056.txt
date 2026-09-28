@@ -1,0 +1,18 @@
+ID: 79-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma equipe de segurança cibernética está implementando um sistema de autenticação para verificar a integridade de arquivos baixados do servidor do MPM. A ideia é que cada arquivo seja acompanhado por um hash que permita verificar se o conteúdo foi alterado durante o processo de download. A equipe decide utilizar um algoritmo de hash que gere resumos de mensagem de 128 bits. Diante dessa decisão, o algoritmo a ser utilizado é o:
+
+[ALTERNATIVAS]
+(A) AES;
+(B) RSA;
+(C) MD5;
+(D) SHA-1;
+(E) SHA-256.
+
+[GABARITO]
+C

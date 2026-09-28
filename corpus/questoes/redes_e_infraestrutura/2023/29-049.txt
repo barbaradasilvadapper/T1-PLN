@@ -1,0 +1,18 @@
+ID: 29-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Alessandra, analista judiciária, fazendo a depuração de um problema de conectividade, recebeu a mensagem ICMP TIME EXCEEDED. Com isso, Alessandra pode concluir que:
+
+[ALTERNATIVAS]
+(A) o roteador não pode localizar o destino;
+(B) o pacote foi descartado, pois seu contador de TTL (time to live) alcançou 255;
+(C) o pacote com o bit DF não pode ser entregue porque uma rede com pacote pequeno se encontra no caminho;
+(D) o pacote foi descartado, pois seu contador de TTL (time to live) alcançou 1;
+(E) o pacote está realizando, sintomaticamente, um looping.
+
+[GABARITO]
+E

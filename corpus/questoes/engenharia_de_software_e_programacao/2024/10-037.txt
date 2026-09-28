@@ -1,0 +1,18 @@
+ID: 10-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista José desenvolveu a versão para iOS do aplicativo JustNotifica. Mediante o uso do recurso Universal Link do iOS, ele implementou o caso de uso no qual o JustNotifica é acionado por outros aplicativos de forma direta. Ao ser acionado por meio de um Universal Link, o JustNotifica deve receber do iOS um objeto do tipo:
+
+[ALTERNATIVAS]
+(A) UIApplication;
+(B) NSUserActivity;
+(C) NSURLQueryItem;
+(D) NSURLComponents;
+(E) UIUserActivityRestoring.
+
+[GABARITO]
+B

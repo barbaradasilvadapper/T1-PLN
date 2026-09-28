@@ -1,0 +1,18 @@
+ID: 57-024
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Micael está trabalhando em um projeto de automação de infraestrutura para uma grande empresa de tecnologia. Ele decidiu utilizar o Ansible para automatizar a implantação e configuração de servidores na nuvem, visando a melhorar a eficiência e a consistência dos ambientes de computação. Ao configurar seus playbooks no Ansible, ele se deparou com um desafio relacionado à melhor prática para garantir que os scripts sejam idempotentes e reutilizáveis em diferentes ambientes de nuvem. A melhor prática a ser adotada pelo analista Micael é:
+
+[ALTERNATIVAS]
+(A) utilizar comandos shell e scripts personalizados dentro dos playbooks para instalação de pacotes e serviços;
+(B) utilizar hardcoding de senhas e chaves de API diretamente nos playbooks do Ansible;
+(C) evitar o uso de variáveis e templates para configurar os serviços, optando por valores fixos nos playbooks;
+(D) utilizar módulos específicos de provedores de nuvem para criar e gerenciar recursos, evitando a abstração;
+(E) empregar roles e variáveis para modularizar os playbooks, facilitando a reutilização e a customização em diferentes ambientes.
+
+[GABARITO]
+E

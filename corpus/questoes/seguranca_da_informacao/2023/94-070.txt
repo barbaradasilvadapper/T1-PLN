@@ -1,0 +1,18 @@
+ID: 94-070
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os analistas de TI da PGM de Niterói foram incumbidos de revisar a segurança dos servidores de aplicação com base nas recomendações do ranking de vulnerabilidades OWASP Top Ten 2021. O analista José focou sua revisão nos sistemas recématualizados, verificando se os recursos de segurança que ficaram disponíveis após atualizações de software estavam habilitados e corretamente configurados. Agindo assim, José mitigou uma vulnerabilidade apresentada pelo OWASP Top Ten 2021 especificamente na categoria de:
+
+[ALTERNATIVAS]
+(A) design inseguro;
+(B) quebra de controle de acesso;
+(C) configuração incorreta de segurança;
+(D) componentes desatualizados e vulneráveis;
+(E) falhas de integridade de dados e de software.
+
+[GABARITO]
+C

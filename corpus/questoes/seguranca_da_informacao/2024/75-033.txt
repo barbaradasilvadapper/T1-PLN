@@ -1,0 +1,18 @@
+ID: 75-033
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um tipo de ataque cibernético é aquele que consiste na falsificação de endereços de IP, de DNS ou de e-mails. Esse ataque é denominado
+
+[ALTERNATIVAS]
+(A) Backdoor.
+(B) Spoofing.
+(C) Ransonware.
+(D) Phishing.
+(E) DDos.
+
+[GABARITO]
+B

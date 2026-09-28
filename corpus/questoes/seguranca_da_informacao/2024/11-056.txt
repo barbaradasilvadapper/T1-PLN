@@ -1,0 +1,18 @@
+ID: 11-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os Manuais e Protocolos criados pela Resolução CNJ nº 396/2021, que instituiu a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ) e aprovados pela Portaria nº 162 de 10/06/2021, normatizam diversas atividades na área de segurança cibernética a serem implantadas pelos diversos órgãos do Poder Judiciário. Com base nos Manuais e Protocolos aprovados pela Portaria nº 162 de 10/06/2021, analise as afirmações a seguir. I. Os Protocolos e Manuais serão atualizados a qualquer tempo por indicação do Comitê Gestor de Segurança Cibernética do Poder Judiciário. II. O Protocolo de Investigação de Ilícitos Cibernéticos do Poder Judiciário (PIILC-PJ) deverá ser implementado por todos os órgãos do Poder Judiciário, com exceção do Supremo Tribunal Federal. III. O Manual de Proteção de Infraestruturas de TIC descreve as ações responsivas a serem colocadas em prática quando ficar evidente que um incidente de segurança cibernética não será mitigado rapidamente.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

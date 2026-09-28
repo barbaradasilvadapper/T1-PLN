@@ -1,0 +1,18 @@
+ID: 75-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O Big Data é um conceito recente, sendo normalmente definido por um conjunto de termos, definidos como 5 “V”s. Relacione os termos a seguir com suas respectivas representações. 1. Volume. 2. Variedade. 3. Veracidade. 4. Velocidade. ( ) É um termo cunhado pela IBM que está sendo usado como o quarto “V” para descrever Big Data. Refere-se à conformidade com os fatos: precisão, qualidade ou confiabilidade dos dados. Ferramentas e técnicas são frequentemente usadas para lidar com Big Data, transformando os dados em insights de qualidade e confiáveis. ( ) Significa a celeridade com que os dados estão sendo produzidos e com que presteza os dados devem ser processados (ou seja, capturados, armazenados e analisados) para atender a necessidade ou demanda. Talvez seja a característica mais negligenciada do Big Data. ( ) É a característica mais comum do Big Data. Muitos fatores contribuíram ao aumento exponencial na quantidade de dados, como dados baseados em transações armazenados ao longo dos anos, os dados das mídias sociais, aumentando a quantidade de dados de sensores, dados RFID e GPS gerados automaticamente e assim por diante. ( ) Atualmente os dados hoje possuem diversos e tipos e formatos, desde bancos de dados relacionais aos XML e dados capturados por sensores, vídeo, áudio. Segundo estimativas, 80 a 85 por cento de todos os dados das organizações estão em algum tipo de formato não estruturado ou semiestruturado. A relação correta, na ordem dada, é
+
+[ALTERNATIVAS]
+(A) 4 – 2 – 3 – 1.
+(B) 3 – 1 – 4 – 2.
+(C) 4 – 3 – 2 – 1.
+(D) 3 – 4 – 1 – 2.
+(E) 2 – 3 – 1 – 4.
+
+[GABARITO]
+D

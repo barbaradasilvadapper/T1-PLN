@@ -1,0 +1,18 @@
+ID: 66-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Para analisar as vendas dos vários livros correspondentes a vários autores em uma rede de livrarias, construiu-se um DataMart com uma nova tabela "FATO" que armazenará os preços dos livros, chamada #VendaLivro (LivroID, AutorID, PrecoVenda). Assinale a opção que descreve a ação correta para incluir esta nova tabela no banco de dados, considerando que já há dados nas tabelas #Livro e #Autor.
+
+[ALTERNATIVAS]
+(A) CREATE TABLE #VendaLivro ( LivroID INT, AutorID INT, FOREIGN KEY (AutorID) REFERENCES #Autor(AutorID) );
+(B) CREATE TABLE #VendaLivro ( LivroID INT, QuantidadeVendida INT, FOREIGN KEY (LivroID) REFERENCES #Autor(LivroID) );
+(C) CREATE TABLE #VendaLivro ( LivroID INT, AutorID INT, FOREIGN KEY (LivroID) REFERENCES #Livro(LivroID) ), FOREIGN KEY (AutorID) REFERENCES #Autor(AutorID) );
+(D) CREATE TABLE #VendaLivro ( AutorID INT, FOREIGN KEY (AutorID) REFERENCES #Autor(LivroID) );
+(E) CREATE TABLE #VendaLivro ( FOREIGN KEY (LivroID) REFERENCES #Livro(LivroID) ), FOREIGN KEY (AutorID) REFERENCES #Autor(AutorID) );
+
+[GABARITO]
+C

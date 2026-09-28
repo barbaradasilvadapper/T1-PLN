@@ -1,0 +1,18 @@
+ID: 77-071
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Sistemas deve garantir a Rastreabilidade dos requisitos do projeto de forma bidirecional. O principal benefício da Rastreabilidade no Gerenciamento do Ciclo de Vida do Software é o de
+
+[ALTERNATIVAS]
+(A) reduzir o custo da documentação em 50%.
+(B) aumentar a velocidade de compilação do código.
+(C) permitir avaliar o impacto de uma mudança no requisito sobre os artefatos downstream e vice-versa.
+(D) automatizar a geração de testes de aceitação no pipeline de CI/CD.
+(E) garantir que todos os stakeholders aprovem o Plano de Teste.
+
+[GABARITO]
+C

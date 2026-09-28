@@ -1,0 +1,18 @@
+ID: 58-022
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O framework Cucumber é comumente utilizado por equipes de desenvolvimento para automatizar testes de software. Este framework lê especificações executáveis escritas em texto simples e estruturado, conforme regras gramaticais da linguagem Gherkin. De acordo com esta linguagem, assinale a opção que apresenta a palavra-chave que deve ser utilizada para descrever o contexto inicial e as pré-condições de um cenário de teste.
+
+[ALTERNATIVAS]
+(A) Before.
+(B) Feature.
+(C) Given.
+(D) Rule.
+(E) Setup.
+
+[GABARITO]
+C

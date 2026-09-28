@@ -1,0 +1,18 @@
+ID: 74-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Paradigmas de linguagens de programação são diferentes abordagens ou estilos de programação que influenciam a maneira como os problemas são resolvidos e como o código é estruturado. Cada paradigma oferece um conjunto distinto de conceitos e métodos para desenvolver softwares. O paradigma de linguagens de programação que se destaca por seu foco na definição de funções e aplicação de funções para transformar dados, sem a ênfase na alteração de estado ou no fluxo de controle é o
+
+[ALTERNATIVAS]
+(A) Paradigma Imperativo.
+(B) Paradigma Orientado a Objetos.
+(C) Paradigma Funcional.
+(D) Paradigma Declarativo.
+(E) Paradigma Lógico.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 10-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A DeSoftware é uma organização que tem buscado a melhoria de seus processos atinentes à gerência e desenvolvimento de projetos de software. Recentemente, essa organização estabeleceu e institucionalizou seus processos de gerência de projetos e engenharia de requisitos, além do processo organizacional de gerência de configuração. Assim, com base no Modelo de Referência do MPS.BR, após a avaliação por instituição autorizada, a DeSoftware poderá alcançar, no máximo, o nível:
+
+[ALTERNATIVAS]
+(A) G - parcialmente gerenciado;
+(B) F - parcialmente definido;
+(C) E - gerenciado e definido;
+(D) D - totalmente gerenciado;
+(E) C - totalmente definido.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 64-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A respeito do protocolo de controle de acesso ao meio das redes 802.11 (MAC 802.11), analise os itens a seguir. I. O protocolo utilizado é o CSMA/CA. II. A sigla "CA", do protocolo CSMA/CA, indica que o protocolo previne colisões. III. O protocolo CSMA/CA possui um esquema de reserva inteligente (mas opcional) que ajuda a evitar colisões mesmo na presença de terminais ocultos. Para isso, são utilizados quadros de controle chamados de DIFS e SIFS.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II apenas.
+(C) I e III apenas.
+(D) II e III apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

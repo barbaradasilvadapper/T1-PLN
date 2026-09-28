@@ -1,0 +1,18 @@
+ID: 37-048
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Antônio recebeu uma mensagem SMS supostamente enviada pela segurança corporativa, orientando-o a clicar em um link para atualizar um cadastro. Ao fazê-lo, Antônio cai em um site falso, mas bastante parecido com o da sua empresa, e fornece dados sigilosos como nome de usuário e senha. Esse tipo de técnica de engenharia social que se aproveita da confiança depositada por um usuário para roubar dados é denominado:
+
+[ALTERNATIVAS]
+(A) trojan;
+(B) phishing;
+(C) spoofing;
+(D) backdoor;
+(E) ransomware.
+
+[GABARITO]
+B

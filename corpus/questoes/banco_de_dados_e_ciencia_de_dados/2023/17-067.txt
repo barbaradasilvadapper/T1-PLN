@@ -1,0 +1,18 @@
+ID: 17-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em relação ao mecanismo de armazenamento, o padrão utilizado no MySQL, que suporta transação segura, compatível com a propriedade ACID (Atomicidade, Consistência, Isolamento e Durabilidade), bloqueio em nível de linha e restrições de integridade referencial, é:
+
+[ALTERNATIVAS]
+(A) MyISAM;
+(B) InnoDB;
+(C) Memory;
+(D) Archive;
+(E) NDB.
+
+[GABARITO]
+B

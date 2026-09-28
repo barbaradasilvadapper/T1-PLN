@@ -1,0 +1,17 @@
+ID: 23-076
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os computadores podem converter dados entre a base 2 (binária) e a base 16 (hexadecimal). Os dígitos binários são agrupados em conjuntos de quatro bits, chamados de nibble. Relacione os nibbles às respectivas definições nem hexadecimal. 1. 1000 2. 1010 3. 1101 4. 0011 ( ) A; ( ) 3; ( ) D. ( ) 8. Assinale a opção que apresenta a relação correta.
+
+[ALTERNATIVAS]
+(A) 1-3-4-2.
+(B) 2-4-3-1.
+(C) 3-4-1-2
+(D) 4-1-2-3.
+
+[GABARITO]
+B

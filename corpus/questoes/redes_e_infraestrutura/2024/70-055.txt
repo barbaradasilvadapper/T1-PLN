@@ -1,0 +1,18 @@
+ID: 70-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto das redes sem fio de longa distância voltadas para a Internet das Coisas (IoT), diversas tecnologias foram desenvolvidas para atender às demandas específicas de comunicação entre dispositivos com requisitos de baixo consumo de energia e capacidade de transmissão de dados a grandes distâncias. Entre estas, uma tecnologia se destaca por ser padronizada pela 3GPP (3rd Generation Partnership Project), focada em otimizar a penetração de sinal em ambientes internos e alcançar uma ampla cobertura geográfica. Essa tecnologia é especialmente projetada para suportar conexões de dispositivos IoT em rede celular, promovendo eficiência energética e conectividade confiável mesmo em locais remotos ou de difícil acesso. Com base nessa descrição, assinale a opção que corresponde à tecnologia mencionada.
+
+[ALTERNATIVAS]
+(A) LoRaWAN.
+(B) Zigbee.
+(C) Sigfox.
+(D) NB-IoT.
+(E) Starlink.
+
+[GABARITO]
+D

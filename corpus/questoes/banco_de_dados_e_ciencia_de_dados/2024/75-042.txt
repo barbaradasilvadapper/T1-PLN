@@ -1,0 +1,18 @@
+ID: 75-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+As dimensões de qualidade de dados discutidas no DAMA- DMBOK2 descrevem características mensuráveis dos dados que ajudam a definir seus requisitos de qualidade. A dimensão que se refere ao grau em que os dados representam corretamente entidades da “vida real” é denominada
+
+[ALTERNATIVAS]
+(A) validity.
+(B) accuracy.
+(C) consistency.
+(D) uniqueness.
+(E) completeness.
+
+[GABARITO]
+B

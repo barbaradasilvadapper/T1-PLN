@@ -1,0 +1,18 @@
+ID: 04-043
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Python 3.9 a seguir. class Teste: def ---------self.altura = xaltura self.largura = xlargura def dimensoes(self): print("altura = " + str(self.altura) + + "largura = " + str(self.largura)) x = Teste(12, 20) x.dimensoes() "\n" \ Para que a execução desse código exiba altura = 12 largura = 20 o trecho tracejado na segunda linha deve ser substituído por:
+
+[ALTERNATIVAS]
+(A) __init__(self, xaltura, xlargura):
+(B) __init__(xaltura, xlargura):
+(C) init (xaltura, xlargura):
+(D) new (self, args[xaltura, xlargura]):
+(E) new (self, xaltura, xlargura):
+
+[GABARITO]
+A

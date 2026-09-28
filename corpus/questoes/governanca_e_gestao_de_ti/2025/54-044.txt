@@ -1,0 +1,18 @@
+ID: 54-044
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A Resolução CGPAR nº 11, de 10 de maio de 2016, tratava de como as empresas estatais deveriam planejar, implementar e manter práticas de governança de Tecnologia da Informação (TI) para atender de forma adequada os padrões usualmente reconhecidos nessa área. No entanto, ela foi revogada. A nova resolução que a substituiu estabelece as diretrizes e parâmetros para implementação, desenvolvimento e aperfeiçoamento da Governança de TI e Comunicação nas empresas estatais federais. A nova resolução CGPAR é a
+
+[ALTERNATIVAS]
+(A) nº 29, de 5 de abril de 2022;
+(B) nº 41, de 4 de agosto de 2022;
+(C) nº 45, de 30 de dezembro de 2022;
+(D) nº 50, de 27 de dezembro de 2023;
+(E) nº 52, de 17 de abril de 2024.
+
+[GABARITO]
+B

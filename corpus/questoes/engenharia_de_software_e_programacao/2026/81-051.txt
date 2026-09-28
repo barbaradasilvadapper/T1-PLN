@@ -1,0 +1,18 @@
+ID: 81-051
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Java foi uma das linguagens que popularizou o uso de Padrões de Projeto (Design Patterns) no desenvolvimento corporativo, transformando esses conceitos em padrões de mercado para criar sistemas robustos. Com relação à Linguagem de desenvolvimento JAVA, analise os itens a seguir: I. O desenvolvimento de aplicações empresariais, APIs RESTful e microsserviços, focando em arquitetura e produtividade, pode ser obtido pelo uso de Frameworks (Spring Boot, Quarkus). II. A partir do Java 8 (JSR 335: Lambda Expressions for the Java™ Programming Language) houve transição do paradigma puramente imperativo para o paradigma funcional, permitindo que o código Java fosse mais conciso, legível e preparado para processamento paralelo. III. O acesso a dados em Java pode ocorrer pelo uso de frameworks ORM (Object-Relational Mapping), como o Hibernate, sendo viabilizado de forma robusta pela API JDBC que provê a conectividade base, e evolui para uma gestão estruturada através da especificação Jakarta Persistence (JPA).
+
+[ALTERNATIVAS]
+(A) III, apenas
+(B) I e II, apenas
+(C) II e II, apenas
+(D) I e III, apenas
+(E) I, II e III.
+
+[GABARITO]
+E

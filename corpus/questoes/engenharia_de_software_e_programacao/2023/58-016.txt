@@ -1,0 +1,18 @@
+ID: 58-016
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Assinale a opção que indica o padrão de projeto GoF ('Gang of Four') que, com finalidade comportamental, sem violar o encapsulamento, captura e externaliza um estado interno de um objeto, de modo que o mesmo possa posteriormente ser restaurado para este estado.
+
+[ALTERNATIVAS]
+(A) bridge.
+(B) facade.
+(C) flyweight.
+(D) memento.
+(E) visitor.
+
+[GABARITO]
+D

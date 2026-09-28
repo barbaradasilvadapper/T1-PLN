@@ -1,0 +1,18 @@
+ID: 30-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A equipe de infraestrutura e redes do TJMS constatou que a quantidade de spams recebidos por meio do serviço de correio eletrônico aumentou recentemente. Para reduzir o recebimento de spam, a equipe implementou novos filtros de verificação na ferramenta antispam existente. De acordo com o previsto no processo de tratamento de riscos, estabelecido na Norma ISO 27005, a opção de tratamento do risco escolhido pela equipe de infraestrutura e redes foi:
+
+[ALTERNATIVAS]
+(A) modificação do risco;
+(B) retenção do risco;
+(C) ação de evitar o risco;
+(D) compartilhamento do risco;
+(E) aceitação do risco.
+
+[GABARITO]
+A

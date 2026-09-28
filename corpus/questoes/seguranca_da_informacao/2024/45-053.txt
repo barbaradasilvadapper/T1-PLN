@@ -1,0 +1,18 @@
+ID: 45-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um órgão implementou uma solução de segurança que permite gerenciar usuários, concedendo-lhes acesso aos recursos disponíveis, com base em funções. A autenticação é realizada por meio de um único ponto de acesso. A solução também permite gerar relatórios dos tempos de autenticação dos usuários e dos recursos acessados. A solução de segurança implementada pelo órgão é:
+
+[ALTERNATIVAS]
+(A) kerberos;
+(B) RBAC;
+(C) IAM;
+(D) SIEM;
+(E) proxy.
+
+[GABARITO]
+C

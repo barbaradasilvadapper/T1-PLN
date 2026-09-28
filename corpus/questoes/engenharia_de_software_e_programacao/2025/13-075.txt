@@ -1,0 +1,18 @@
+ID: 13-075
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código HTML a seguir. <div id="composicao" posicao="0"> <p posicao="1"> MPF </p><br/> <p posicao="2"> MPT </p><br/> <p posicao="3"> MPM </p><br/> <p posicao="4"> MPDFT </p><br/> </div> E o respectivo código CSS: div { display: flex; flex-direction: row-reverse; } p[posicao]::after { content: "|"; } #composicao p::before { content: attr(posicao); } Após renderizar o código acima, um navegador web padrão exibe a linha:
+
+[ALTERNATIVAS]
+(A) MPF |MPT |MPM |MPDFT
+(B) 0| MPF | MPT | MPM | MPDFT |
+(C) 4 MPDFT |3 MPM|2 MPT|1 MPF |
+(D) 4| MPDFT 3| MPM 2| MPT 1| MPF
+(E) 0| 0 MPDFT |0 MPM|0 MPT|0 MPF |
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 76-063
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Ao projetar uma página responsiva utilizando a abordagem Mobile First, o Analista de Sistemas deve garantir que o estilo base (móvel) seja definido primeiro e, posteriormente, as regras para telas maiores sejam aplicadas. Das estruturas Media Query abaixo, a que está sintaticamente correta e é tipicamente usada para aplicar estilos específicos para telas maiores que 768px em um projeto Mobile First é a
+
+[ALTERNATIVAS]
+(A) @media screen and (max-width: 768px) { ... }
+(B) @media screen and (min-width: 768px) { ... }
+(C) @media screen and (orientation: landscape) { ... }
+(D) @media screen, print and (width: 768px) { ... }
+(E) @media screen and (resolution: 2x) { ... }
+
+[GABARITO]
+B

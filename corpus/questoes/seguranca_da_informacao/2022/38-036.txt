@@ -1,0 +1,18 @@
+ID: 38-036
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Marina recebeu uma ligação de um suposto funcionário que dizia estar fazendo uma pesquisa sanitária sobre uma pandemia. Marina passou suas informações pessoais e profissionais, que permitiram ao falso funcionário acessar um sistema com suas credenciais. A técnica empregada pelo falso funcionário para conseguir as informações de Marina é:
+
+[ALTERNATIVAS]
+(A) poisoning;
+(B) flooding;
+(C) engenharia social;
+(D) suborno;
+(E) sniffer.
+
+[GABARITO]
+C

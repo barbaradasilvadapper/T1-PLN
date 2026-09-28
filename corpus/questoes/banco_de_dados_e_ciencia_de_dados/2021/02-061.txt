@@ -1,0 +1,18 @@
+ID: 02-061
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A Inteligência Artificial (IA) apoia o desenvolvimento de soluções tecnológicas capazes de realizar atividades similares às capacidades cognitivas humanas. Como exemplo, a plataforma Sinapses, desenvolvida pelo Tribunal de Justiça do Estado de Rondônia (TJRO) e adaptada para uso nacional, gerencia o treinamento supervisionado de modelos de IA. Em soluções de IA, a tecnologia que possui a capacidade de melhorar o desempenho na realização de alguma tarefa por meio da experiência usando dados de treinamento, podendo ser supervisionado ou não, é o(a):
+
+[ALTERNATIVAS]
+(A) Motor de Inferência (Inference Engine) de Sistemas Especialistas (Expert Systems);
+(B) Raciocínio Automatizado (Automated Reasoning);
+(C) Compreensão de Linguagem Natural (Natural-Language Understanding);
+(D) Representação do Conhecimento (Knowledge Representation) usando Lógica de Primeira Ordem (First Logic Order);
+(E) Aprendizado de Máquina (Machine Learning).
+
+[GABARITO]
+E

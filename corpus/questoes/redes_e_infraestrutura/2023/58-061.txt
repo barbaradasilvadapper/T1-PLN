@@ -1,0 +1,18 @@
+ID: 58-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto das Redes sem Fio (wireless), assinale a afirmativa incorreta.
+
+[ALTERNATIVAS]
+(A) BLE (Bluetooth Low Energy) é uma versão do Bluetooth otimizada para baixo consumo de energia.
+(B) Wi-Fi 6, também conhecido como 802.11ax, é a mais recente geração de tecnologia Wi-Fi que oferece melhor desempenho em comparação com o Wi-Fi 5 (802.11ac).
+(C) ZigBee é uma tecnologia utilizada principalmente para automação residencial e industrial, com baixo consumo de energia e operando na faixa ISM (Industrial, Scientific, and Medical).
+(D) LoRA é uma tecnologia de longo alcance que utiliza uma modulação especial para permitir comunicações a longas distâncias, sendo adequada para aplicações de Internet das Coisas (IoT).
+(E) NFC (Near Field Communication) é uma tecnologia de comunicação de curto alcance usada exclusivamente em transações financeiras.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 83-055
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Relacione os tipos de Sprint do SCRUM com as definições dos seus objetivos. 1. Inspecionar o progresso em direção ao Sprint Goal e adaptar o Sprint Backlog conforme necessário, ajustando o próximo trabalho planejado, é um evento de até 15 minutos para os desenvolvedores. 2. Estabelecer o trabalho a ser executado no Sprint. O plano resultante é criado pelo trabalho colaborativo de todo o time. 3. Planejar maneiras de aumentar a qualidade e a eficácia. 4. Inspecionar o resultado do Sprint e determinar futuras adaptações. O time apresenta os resultados do seu trabalho para as principais partes interessadas, sendo discutido o progresso em direção ao Produto. ( ) Sprint de Planejamento ( ) Sprint de Retrospectiva ( ) Reunião Diária ( ) Sprint de Revisão Assinale a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 2 – 4 – 3.
+(B) 1 – 3 – 2 – 1.
+(C) 2 – 3 – 1 – 4.
+(D) 3 – 4 – 1 – 2.
+(E) 4 – 1 – 3 – 2.
+
+[GABARITO]
+C

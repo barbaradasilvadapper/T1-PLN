@@ -1,0 +1,18 @@
+ID: 60-031
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O administrador de redes de um determinado órgão implementou o serviço de DHCP (Dynamic Host Configuration Protocol) para alocar os endereços IP para as estações de trabalho gerenciadas. A opção pelo uso do DHCP foi motivada pela facilidade na gerência e na mobilidade de dispositivos entre as diversas redes existentes. Sobre os mecanismos de alocação de endereços IP suportados pelo DHCP, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) na alocação automática, é associado um endereço IP ao cliente por um período limitado de tempo;
+(B) na alocação dinâmica, é associado um endereço IP permanente ao cliente;
+(C) na alocação manual, o endereço IP é atribuído pelo administrador da rede e o DHCP é usado simplesmente para transmiti-lo ao cliente;
+(D) a alocação automática, permite a reutilização de um endereço IP que não é mais necessário pelo cliente ao qual foi atribuído;
+(E) o DHCP não suporta alocação manual de endereços IP.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 26-055
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de suporte de sistemas senado federal
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma rede de uma empresa é composta por 5 VLANs, cada uma atendendo a um departamento específico. Em um determinado momento, ao estudar a troca dos switches que compõem a rede, o gestor da empresa precisa tomar uma decisão. Assumindo que o gestor deseja manter o modelo de VLANs existente, assinale a afirmativa incorreta.
+
+[ALTERNATIVAS]
+(A) É possível concentrar as VLANs em um único switch contanto que ele tenha portas suficientes para atender a toda a rede.
+(B) Uma opção recomendável para a implementação de VLANs seriam switches que implementem o protocolo IEEE 802.1q.
+(C) Caso seja necessário, é possível configurar dois switches localizados em salas distintas para operar na mesma VLAN.
+(D) É possível implementar VLANs que levem em consideração os dispositivos ou os usuários que estão autenticados.
+(E) É necessário adquirir um modelo de equipamento que seja capaz de operar na camada 3 do modelo OSI para manter as VLANs funcionando.
+
+[GABARITO]
+E

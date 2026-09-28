@@ -1,0 +1,18 @@
+ID: 31-039
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No contexto de criptografia de chave simétrica, faça a associação correta dos algoritmos abaixo elencados com as técnicas de cifragem utilizadas. ( ) 3DES. ( ) RC4. 1. Cifra de bloco. 2. Cifra de fluxo. ( ) AES. ( ) SEAL. A associação correta é
+
+[ALTERNATIVAS]
+(A) 1 – 1 – 2 – 1.
+(B) 2 – 1 – 2 – 2.
+(C) 1 – 2 – 1 – 2.
+(D) 2 – 2 – 1 – 1.
+(E) 2 – 2 – 1 – 2.
+
+[GABARITO]
+C

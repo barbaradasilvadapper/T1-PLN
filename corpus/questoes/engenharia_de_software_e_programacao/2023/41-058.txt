@@ -1,0 +1,18 @@
+ID: 41-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Para empregar uma cifra de bloco em diversas aplicações, cinco modos de operação foram definidos pelo Instituto Nacional de Padrões e Tecnologia (NIST). Dentre os cinco modos de operação, o modo mais simples é o Electronic Codebook (ECB), no qual:
+
+[ALTERNATIVAS]
+(A) a entrada do algoritmo de encriptação é o XOR dos próximos 64 bits de texto claro e os 64 bits anteriores de texto cifrado;
+(B) cada bloco de bits de texto claro é codificado independentemente, usando a mesma chave;
+(C) o texto cifrado anterior é usado como entrada para o algoritmo de encriptação a fim de produzir uma saída pseudoaleatória;
+(D) a entrada do algoritmo de encriptação é a saída DES anterior, e são usados blocos completos;
+(E) em cada bloco de texto claro é aplicado a um XOR com um contador encriptado.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 06-072
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe a seguinte requisição em Hypertext Transfer Protocol (HTTP) feita a uma Application Programming Interface (API) RESTful: PUT http://webservice.tjapp/recursos/1 A respectiva resposta HTTP da API RESTful apresentou o código de status 204. Os dados apresentados acima indicam que a API RESTful processou a solicitação de:
+
+[ALTERNATIVAS]
+(A) obtenção de um recurso de forma bem-sucedida;
+(B) atualização de um recurso de forma malsucedida;
+(C) criação de um novo recurso de forma malsucedida;
+(D) atualização de um recurso de forma bem-sucedida;
+(E) criação de um novo recurso de forma bem-sucedida.
+
+[GABARITO]
+D

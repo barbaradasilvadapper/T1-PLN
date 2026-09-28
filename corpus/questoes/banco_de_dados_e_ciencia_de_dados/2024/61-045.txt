@@ -1,0 +1,18 @@
+ID: 61-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto do sistema gerenciador de banco de dados PostgreSQL, versão 16.4, a função da visão pg_stat_slru é a de fornecer informações sobre o funcionamento
+
+[ALTERNATIVAS]
+(A) da atividade de prefetching durante o processo de recuperação de um banco de dados.
+(B) da atividade de uma componente que garante a durabilidade e a consistência dos dados.
+(C) das conexões ativas no banco de dados, monitorando detalhes nas conexões entre o cliente e o servidor.
+(D) das estruturas de armazenamento usadas para gerenciar tabelas de controle de transações.
+(E) do uso de entrada e saída de disco para todas as sequências de números únicos do banco de dados.
+
+[GABARITO]
+D

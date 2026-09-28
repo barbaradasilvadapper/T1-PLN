@@ -1,0 +1,18 @@
+ID: 88-049
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O perito José copiou dados brutos do DiscoA, que possui tamanho de setor de 4096 bytes, para o arquivoB do DiscoC. Para este fim, José utilizou a ferramenta dd, executando no sistema operacional do DiscoC o seguinte comando: dd if=DiscoA of=arquivoB bs=4096w count=1 seek=6 O argumento bs definiu o tamanho do bloco utilizado pelo dd para a entrada e para a saída. Portanto, o comando executado por José copiou do DiscoA
+
+[ALTERNATIVAS]
+(A) 1 setor, iniciando no 6º bloco do DiscoA, para o DiscoC, iniciando no 1º bloco do arquivoB.
+(B) 2 setores, iniciando no 1º bloco do DiscoA, para o DiscoC, iniciando no 7º bloco do arquivoB.
+(C) 2 setores, iniciando no 6º bloco do DiscoA, para o DiscoC, iniciando no 1º bloco do arquivoB.
+(D) 4096 setores, iniciando no 1º bloco do DiscoA, para o DiscoC, iniciando no 6º bloco do arquivoB.
+(E) 4096 setores, iniciando no 7º bloco do DiscoA, para o DiscoC, iniciando no 1º bloco do arquivoB.
+
+[GABARITO]
+B

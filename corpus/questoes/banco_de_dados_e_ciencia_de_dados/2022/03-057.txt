@@ -1,0 +1,18 @@
+ID: 03-057
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O sistema da ONG Bioma tem como finalidade catalogar as espécies de árvores relacionando a mata onde foram identificadas. Uma espécie de árvore existe em uma ou várias matas e as matas podem conter várias espécies de árvores. O SGBD utilizado é Oracle. O modelo a seguir apresenta a relação entre as entidades Arvore e Mata, assim como seus atributos e cardinalidades. O usuário Kadu solicita ao DBA Caue uma visão das espécies de árvores, biomas e a data que foram identificadas. Como não é permitida a criação de VIEWs no esquema das tabelas do sistema, o DBA cria o objeto abaixo em seu próprio esquema: CREATE OR REPLACE VIEW arvoreBioma AS SELECT a.nomeEspecie, m.bioma FROM owner.arvore a, owner.mata m, owner.identificado i WHERE a.idArvore = i.idArvore AND m.idMata = i.idMata Para que Kadu possa ter permissão de seleção na VIEW ,
+
+[ALTERNATIVAS]
+(A) o esquema proprietário das tabelas Arvore e Mata é obrigado a executar GRANT SELECT com WITH GRANT OPTION para os usuários Caue e Kadu.
+(B) o esquema proprietário das tabelas Arvore, Identificado e Mata não é obrigado a executar GRANT SELECT com opção WITH GRANT OPTION para Caue que deve executar GRANT SELECT para o usuário Kadu não sendo obrigatório uso do WITH GRANT OPTION.
+(C) O esquema proprietário das tabelas Arvore, Identificado e Mata é obrigado a executar GRANT SELECT com WITH GRANT OPTION para Caue que deve executa GRANT SELECT para o usuário Kadu sendo obrigatório uso do WITH GRANT OPTION .
+(D) O esquema proprietário das tabelas Arvore e Mata é obrigado a executar GRANT SELECT com opção WITH GRANT OPTION para Caue que deve executar GRANT SELECT para o usuário Kadu não sendo obrigatório uso do WITH GRANT OPTION .
+(E) O esquema proprietário das tabelas Arvore, Identificado e Mata é obrigado a executar GRANT SELECT com opção WITH GRANT OPTION para Caue que deve executar GRANT SELECT para o usuário Kadu não sendo obrigatório uso do WITH GRANT OPTION .
+
+[GABARITO]
+E

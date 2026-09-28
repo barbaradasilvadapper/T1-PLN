@@ -1,0 +1,18 @@
+ID: 87-073
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe de analistas de sistemas de um órgão público decidiu utilizar o framework Scrum para agilizar o desenvolvimento dos seus sistemas de informação. No Scrum, a lista ordenada do que é necessário para melhorar o produto contendo os requisitos de desenvolvimento é o:
+
+[ALTERNATIVAS]
+(A) increment;
+(B) backlog;
+(C) sprint review;
+(D) sprint retrospective;
+(E) burndown chart.
+
+[GABARITO]
+B

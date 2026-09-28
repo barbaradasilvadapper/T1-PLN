@@ -1,0 +1,18 @@
+ID: 45-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Cláudio, um analista designado ao Tribunal Regional Federal, observou que, cotidianamente, durante o período noturno e ocasionalmente durante a manhã subsequente, um considerável volume de tráfego oneroso sobrecarrega a infraestrutura de rede do tribunal. Tal fenômeno tem origem no procedimento diário de backup, que abarca a totalidade dos dados do ambiente. Com vistas a mitigar esse problema, Cláudio propôs substituir o tipo de backup atual por um que grave exclusivamente os arquivos novos/modificados desde a última operação de backup, independentemente do tipo desse backup. Assim sendo, é adequado afirmar que o tipo de backup sugerido é o:
+
+[ALTERNATIVAS]
+(A) full;
+(B) clone;
+(C) mirror;
+(D) diferencial;
+(E) incremental.
+
+[GABARITO]
+E

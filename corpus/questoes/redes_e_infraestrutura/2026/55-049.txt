@@ -1,0 +1,18 @@
+ID: 55-049
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O setor de tecnologia de um tribunal desenvolveu uma aplicação web composta por três serviços: cadastro de usuários, consulta processual e geração de relatórios. Cada serviço possui dependências próprias e deve ser implantado de forma padronizada nos ambientes de desenvolvimento, homologação e produção. Além disso, a equipe precisa distribuir réplicas desses serviços em diferentes nós de um cluster, reiniciar automaticamente instâncias com falha, ampliar a quantidade de réplicas em períodos de maior demanda e administrar, por uma interface centralizada, mais de um cluster Kubernetes utilizado pela instituição. Nesse contexto, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) o Docker permite empacotar aplicações e dependências em containers, o Kubernetes orquestra a implantação e o escalonamento desses containers, e o Rancher auxilia na gestão centralizada de clusters Kubernetes.
+(B) o Docker permite empacotar aplicações e dependências em containers, o Kubernetes orquestra a implantação e o escalonamento desses containers, e o Rancher é um formato de imagem utilizado para distribuir containers.
+(C) o Docker permite empacotar aplicações e dependências em containers, o Kubernetes é utilizado principalmente para criar imagens de containers, e o Rancher auxilia na gestão centralizada de clusters Kubernetes.
+(D) o Docker é utilizado principalmente para empacotar aplicações e dependências em máquinas virtuais completas, o Kubernetes orquestra a implantação e o escalonamento de containers, e o Rancher auxilia na gestão centralizada de clusters Kubernetes.
+(E) o Docker permite empacotar aplicações e dependências em containers, o Kubernetes orquestra a implantação e o escalonamento desses containers, e o Rancher substitui a necessidade de clusters Kubernetes por execução local isolada.
+
+[GABARITO]
+A

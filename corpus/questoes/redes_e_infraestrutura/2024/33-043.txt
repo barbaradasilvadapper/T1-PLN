@@ -1,0 +1,18 @@
+ID: 33-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um determinado usuário relatou que está utilizando endereço IPv6. Entretanto, por não saber descrever corretamente qual endereço estava sendo utilizado, ele enviou os endereços para o especialista analisar. O endereço IPv6 que pode estar sendo utilizado pelo usuário é o:
+
+[ALTERNATIVAS]
+(A) 224.0.0.1;
+(B) 192.168.0.1;
+(C) ::192.31.20.46;
+(D) 8000:123:4567:89AW:CDEF;
+(E) 8000:0000:0000:0000:0123:4567:89AB:DEFG.
+
+[GABARITO]
+C

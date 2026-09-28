@@ -1,0 +1,18 @@
+ID: 51-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os bancos de dados NoSQL são uma categoria de sistemas de gerenciamento de banco de dados (SGBD) projetados para lidar com dados não estruturados ou semiestruturados, ou seja, dados que não seguem um modelo de esquema rígido como o relacional (SQL). O termo NoSQL (que originalmente significava “sem SQL”) evoluiu para se referir a “Not Only SQL”, destacando a flexibilidade dessas bases de dados em relação aos modelos tradicionais. No contexto dos bancos de dados NoSQL, bancos de dados do tipo documento
+
+[ALTERNATIVAS]
+(A) armazenam dados em tabelas estruturadas, com linhas e colunas, semelhantes aos bancos de dados relacionais.
+(B) utilizam um modelo de grafos para representar e armazenar dados complexos, como relações entre entidades.
+(C) são projetados para garantir transações ACID em todos os casos, oferecendo suporte a operações complexas de leitura e escrita.
+(D) armazenam dados em um modelo de chave-valor, onde cada chave corresponde a um valor específico.
+(E) armazenam dados em formato JSON, BSON ou XML, permitindo flexibilidade para armazenar diferentes tipos de informações em um único documento.
+
+[GABARITO]
+E

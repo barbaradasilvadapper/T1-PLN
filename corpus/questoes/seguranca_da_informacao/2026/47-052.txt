@@ -1,0 +1,18 @@
+ID: 47-052
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A ISO 22301 é a norma que garante Gestão de Continuidade de Negócios (GCN). Nesse cenário, a equipe de TI definiu que, em caso de falha em ambientes de computação em nuvem, o sistema deve estar funcional em até 2 horas, com uma perda máxima de dados de 15 minutos. Esses parâmetros referem-se, respectivamente, a
+
+[ALTERNATIVAS]
+(A) RPO (Recovery Point Objective) e RTO (Recovery Time Objective).
+(B) SLA (Service Level Agreement) e BIA (Business Impact Analysis).
+(C) Backup Incremental e Espelhamento de Disco.
+(D) MAO (Maximum Acceptable Outage) e RPO (Recovery Point Objective).
+(E) RTO (Recovery Time Objective) e RPO (Recovery Point Objective).
+
+[GABARITO]
+E

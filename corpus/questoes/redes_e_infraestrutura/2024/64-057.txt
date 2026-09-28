@@ -1,0 +1,18 @@
+ID: 64-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os registradores são unidades de memória dispostas no interior de processadores de computadores. Sua função é armazenar elementos que permitam o correto funcionamento do sistema computacional, evitando, sempre que possível, o acesso à memória principal. Considerando uma arquitetura de um processador (ou UCP, de Unidade Central de Processamento), assinale a opção que indica o registrador que contém bits de controle tais como o modo de execução (núcleo ou usuário) e a prioridade da UCP.
+
+[ALTERNATIVAS]
+(A) Instruction Register (IR).
+(B) Memory Address Register (MAR).
+(C) Memory Data Register (MDR).
+(D) Program Counter (PC).
+(E) Program Status Word (PSW).
+
+[GABARITO]
+E

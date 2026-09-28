@@ -1,0 +1,18 @@
+ID: 03-042
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Um dos projetos mais importantes da Brasil Eventos, da qual você faz parte como membro do time do projeto, tem enfrentado diversas dificuldades com relação às suas entregas. A Expert – Soluções em TI, consultoria contratada para auxiliar na solução, diagnosticou que o principal problema se refere à forma como o Gerente de Projetos (GP) tem se posicionado. Sugere, então, aos responsáveis da Brasil Eventos que, para as próximas duas semanas, o GP foque seu comportamento priorizando apenas atitudes e habilidades de liderança de equipe e não de gerenciamento. Diante disso, seu gerente imediato, sabendo que você conhece o Guia PMBOK®, solicita que você indique a ele como deverá ser o comportamento do GP, com base na recomendação da consultoria. Sobre o comportamento do GP, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Precisará influenciar e guiar as equipes, utilizando seu poder de relacionamento dentro da Brasil Eventos em vez de utilizar-se de sua posição de Gerente de Projetos. ( ) Deverá se manter focado nas metas de curto prazo do projeto e não ter foco e visão de longo alcance durante as duas próximas semanas. ( ) Deverá sempre manter o alinhamento e a motivação da equipes, além de inspirar sua confiança. ( ) Durante o período recomendado pela consultoria, o GP deverá administrar o projeto e não inovar em sua forma de atuar. ( ) Apenas ao longo das duas semanas, o GP deverá manter o foco nos sistemas e na estrutura da organização para que o projeto alcance os resultados e não no relacionamento com as pessoas e com o time. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) F, F, V, F e V.
+(B) V, F, V, F e F.
+(C) V, F, V, V e V.
+(D) F, V, F, F e V.
+(E) V, F, V, V e F.
+
+[GABARITO]
+B

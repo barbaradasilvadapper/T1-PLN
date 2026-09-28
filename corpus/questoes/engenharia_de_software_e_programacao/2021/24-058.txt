@@ -1,0 +1,18 @@
+ID: 24-058
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código Python 2.7 a seguir. L=[6,5,4,3,2,1] for k in range(-3,3): print L[k] A execução desse código exibe os números:
+
+[ALTERNATIVAS]
+(A) 1 1 1 6 5 4;
+(B) 1 2 3 4 5 6;
+(C) 3 2 1 6 5 4;
+(D) 6 5 4 3 2 1;
+(E) 6 5 4 6 5 4.
+
+[GABARITO]
+C

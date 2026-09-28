@@ -1,0 +1,18 @@
+ID: 34-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No sistema DNS, o tipo de registro utilizado especificamente para apontar um nome de domínio para um endereço IPv6 é o:
+
+[ALTERNATIVAS]
+(A) A
+(B) AAAA
+(C) CNAME
+(D) MX
+(E) PTR
+
+[GABARITO]
+B

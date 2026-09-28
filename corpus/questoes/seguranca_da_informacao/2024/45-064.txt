@@ -1,0 +1,18 @@
+ID: 45-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A equipe de gestão de riscos de um órgão está adequando o seu processo de tratamento de riscos à norma ABNT NBR ISO/IEC 27005:2023. Para tal, foi estabelecido um processo interativo que engloba as seguintes atividades: I. formular e selecionar opções de tratamento de riscos; II. avaliar se os riscos estão de acordo com o contexto do SGSI; III. decidir sobre a aceitabilidade do risco residual; IV. identificar os riscos da organização; V. avaliar os riscos identificados. Dentre as atividades acima, fazem parte do processo interativo de tratamento de riscos, segundo a ABNT NBR ISO/IEC 27005:2023, somente as atividades:
+
+[ALTERNATIVAS]
+(A) I e III;
+(B) II e IV;
+(C) III e V;
+(D) IV e V;
+(E) I e IV.
+
+[GABARITO]
+A

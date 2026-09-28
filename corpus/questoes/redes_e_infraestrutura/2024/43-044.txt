@@ -1,0 +1,18 @@
+ID: 43-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em uma reunião de governança da empresa K, o setor estratégico decidiu migrar alguns serviços para nuvem. A empresa buscou uma prestadora de serviço de nuvem que atenda à arquitetura de referência proposta pelo NIST (National Institute of Standards and Technology), a qual define cinco atores principais (consumidor, provedor, agente, auditor e operador). Em virtude da complexidade do serviço, houve um foco maior no agente da nuvem, que oferece tipos de suporte diferentes. A empresa K identificou que precisará de suporte na arbitragem de serviço. A arbitragem de serviço caracteriza-se pelo fato de que:
+
+[ALTERNATIVAS]
+(A) apresenta serviço de valor agregado, tal como gerenciamento de identidade, relatórios de desempenho e segurança reforçada;
+(B) os serviços fornecidos podem ser avaliados por um provedor em termos de controles de segurança, impacto de privacidade, desempenho, dentre outros;
+(C) um agente tem a flexibilidade de escolher dentre serviços de várias agências;
+(D) vários serviços na nuvem podem ser combinados a fim de atender às necessidades dos consumidores que não sejam especificamente atendidas por um único provedor;
+(E) podem ser fornecidos conectividade e transporte de serviços de nuvem entre os consumidores da nuvem e os provedores de serviços.
+
+[GABARITO]
+C

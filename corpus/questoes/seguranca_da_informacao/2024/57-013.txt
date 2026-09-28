@@ -1,0 +1,18 @@
+ID: 57-013
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A fim de incrementar a segurança da rede da organização, a equipe de segurança instalou sistemas de detecção de intrusão (IDS – Intrusion Detection System) para monitorar a rede, identificando os eventos que violem suas regras de segurança. O IDS instalado baseia sua detecção na análise do comportamento do tráfego, comparando-o com seu comportamento padrão. O tipo de IDS instalado foi o:
+
+[ALTERNATIVAS]
+(A) host-based com detecção de anomalia;
+(B) network-based com detecção de anomalia;
+(C) host-based com detecção de assinatura;
+(D) network-based com detecção de assinatura;
+(E) host-based com análise de protocolo.
+
+[GABARITO]
+B

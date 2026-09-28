@@ -1,0 +1,18 @@
+ID: 94-045
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma característica positiva da codificação de caracteres conhecida como UTF-8 é a compatibilidade exata com a codificação ASCII. Essa compatibilidade ocorre nos primeiros:
+
+[ALTERNATIVAS]
+(A) 63 caracteres;
+(B) 127 caracteres;
+(C) 255 caracteres;
+(D) 256 caracteres;
+(E) 512 caracteres.
+
+[GABARITO]
+B

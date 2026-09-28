@@ -1,0 +1,18 @@
+ID: 80-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O anexo II da Portaria 162/2021 do Conselho Nacional de Justiça estabelece um protocolo de gerenciamento de crises cibernéticas do poder judiciário (PGCRC-PJ). O gerenciamento de crises se refere às atividades que devem ser executadas para avaliar o problema e determinar a resposta inicial diante da ocorrência de um evento adverso de segurança da informação. O gerenciamento de crises está divido em
+
+[ALTERNATIVAS]
+(A) 3 fases.
+(B) 4 fases.
+(C) 5 fases.
+(D) 6 fases.
+(E) 7 fases.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 32-098
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os sistemas de arquivos são fundamentais para a organização, armazenamento e recuperação de dados em sistemas computacionais. Um analista de segurança deve escolher um sistema de arquivos para um disco de armazenamento de dados onde será instalado o sistema operacional Linux Ubuntu. Dos sistemas de arquivos apresentados a seguir, assinale o mais apropriado para a instalação desse sistema operacional.
+
+[ALTERNATIVAS]
+(A) NTFS (New Technology File System).
+(B) EXT4 (Fourth Extended File System).
+(C) VMFS (Virtual Machine File System).
+(D) ReFS (Resilient File System).
+(E) HFS+ (Hierarchical File System Plus).
+
+[GABARITO]
+B

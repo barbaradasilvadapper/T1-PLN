@@ -1,0 +1,18 @@
+ID: 20-021
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No decorrer do desenvolvimento de um software, Gabriel, analista de sistemas, depara-se com a necessidade de incorporar uma funcionalidade que demanda o uso de uma estrutura de dados capaz de armazenar e acessar informações seguindo uma ordem específica. Essencialmente, a funcionalidade exige que o último item adicionado seja o primeiro a ser extraído e processado. Além disso, é crucial que o sistema possua a habilidade de adicionar e remover elementos de maneira extremamente eficaz. Levando em consideração esses requisitos, Gabriel identifica que a estrutura adequada para cumprir tais exigências é a:
+
+[ALTERNATIVAS]
+(A) fila;
+(B) lista;
+(C) pilha;
+(D) árvore;
+(E) lista duplamente encadeada.
+
+[GABARITO]
+C

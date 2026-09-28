@@ -1,0 +1,18 @@
+ID: 90-055
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto do Linux, assinale o comando utilizado para listar o conteúdo de um diretório.
+
+[ALTERNATIVAS]
+(A) cd
+(B) lp
+(C) ls
+(D) tar
+(E) grep
+
+[GABARITO]
+C

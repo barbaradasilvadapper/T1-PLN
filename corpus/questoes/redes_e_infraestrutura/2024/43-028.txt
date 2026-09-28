@@ -1,0 +1,18 @@
+ID: 43-028
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao investigar um problema na rede, um especialista utilizou um utilitário que emprega o método de enviar uma sequência de pacotes para o destino, primeiro com um TTL de 1, depois um TTL de 2, 3 e assim por diante. Os contadores nesses pacotes alcançarão zero em roteadores sucessivos ao longo do caminho. Cada um desses roteadores enviará fielmente uma mensagem TIME EXCEEDED de volta ao host. É correto afirmar que o especialista utilizou:
+
+[ALTERNATIVAS]
+(A) ping;
+(B) nslookup;
+(C) traceroute;
+(D) source quench;
+(E) timestamp request.
+
+[GABARITO]
+C

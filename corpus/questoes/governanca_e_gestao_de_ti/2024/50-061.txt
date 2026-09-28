@@ -1,0 +1,18 @@
+ID: 50-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Considerando as metodologias de gestão de projetos e de TI, COBIT, ITIL e PMBOK possuem abordagens distintas para a gestão de riscos. Assinale a opção que descreve corretamente a diferença fundamental entre esses três frameworks.
+
+[ALTERNATIVAS]
+(A) COBIT foca na governança de riscos gerais em TI, enquanto ITIL aborda a gestão de riscos nos serviços de TI e PMBOK se concentra na gestão de projetos em geral, sem especialização em TI.
+(B) ITIL é usado para análise quantitativa de riscos, ao contrário do COBIT e do PMBOK, que se concentram em análises qualitativas.
+(C) PMBOK não inclui processos de gestão de riscos, diferentemente do COBIT e do ITIL que oferecem guias detalhados sobre o tema.
+(D) COBIT, ITIL e PMBOK são equivalentes e intercambiáveis quando se trata de gestão de riscos, sendo uma questão de preferência pessoal a escolha entre eles.
+(E) ITIL e COBIT são focados em TI, com ITIL voltado exclusivamente para a gestão de riscos em serviços de TI e COBIT para a governança de riscos TI, enquanto PMBOK é um guia de práticas para a gestão de projetos em geral.
+
+[GABARITO]
+A

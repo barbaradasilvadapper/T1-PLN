@@ -1,0 +1,18 @@
+ID: 54-042
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A ISO 27001 (2013) é a norma que define requisitos para a gestão da segurança da informação, sendo que o tratamento de riscos possui um grande destaque. Uma decisão de tratamento de risco dever ser tomada para cada risco identificados após sua avaliação. Avalie se são possíveis controles para o tratamento de riscos dispostos na ISO 27001: I. mitigar de forma consciente e objetiva os riscos considerados mais baixos, desde que satisfaçam claramente a política de custos e os critérios de aceitação de risco da organização; II. evitar riscos, não permitindo ações que possam causar sua ocorrência; III. aplicar os controles adequados para reduzir os riscos, transferir os riscos associados a outras partes, por exemplo, para seguradoras ou fornecedores.
+
+[ALTERNATIVAS]
+(A) I e III, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I, II e III.
+(E) II, apenas.
+
+[GABARITO]
+C

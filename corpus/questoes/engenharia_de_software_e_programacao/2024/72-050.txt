@@ -1,0 +1,18 @@
+ID: 72-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Joaquim implementou o código do sistema TRF1Web seguindo os princípios SOLID. O TRF1Web já se encontra em produção. A documentação do TRF1Web, escrita por Joaquim, estabelece que novas funcionalidades devem ser introduzidas no sistema por meio de plugins, sem modificar o código atual do sistema. Essa maneira de introduzir novas funcionalidades no TRF1Web é resultado direto da aplicação do seguinte princípio SOLID:
+
+[ALTERNATIVAS]
+(A) aberto/fechado;
+(B) substituição de Liskov;
+(C) responsabilidade única;
+(D) segregação de interfaces;
+(E) inversão de dependência.
+
+[GABARITO]
+A

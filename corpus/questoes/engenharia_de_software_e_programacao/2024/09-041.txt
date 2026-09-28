@@ -1,0 +1,18 @@
+ID: 09-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No desenvolvimento de software, os frameworks Spring, Spring Cloud, Spring Boot, Hibernate e JUnit desempenham papéis importantes na construção de aplicações modernas. Assinale a opção correta em relação às características e finalidades desses frameworks.
+
+[ALTERNATIVAS]
+(A) O Spring Boot é responsável por fornecer uma solução para desenvolvimento de microsserviços escaláveis, enquanto o Spring Cloud facilita a configuração e o gerenciamento de sistemas distribuídos.
+(B) O Hibernate é um framework de teste para aplicações Java, amplamente utilizado em conjunto com o JUnit para realizar testes de unidade.
+(C) O Spring é um framework voltado exclusivamente para o desenvolvimento de aplicações monolíticas, não oferecendo suporte para arquiteturas baseadas em microsserviços.
+(D) O JUnit é um framework de persistência utilizado para o mapeamento objeto-relacional (ORM), permitindo interações eficientes com bancos de dados.
+(E) O Spring Boot elimina a necessidade de configuração manual de dependências e servidores de aplicação, mas exige o uso de servidores como Tomcat e JBoss em modo standalone.
+
+[GABARITO]
+A

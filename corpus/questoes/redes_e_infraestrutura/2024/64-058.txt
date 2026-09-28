@@ -1,0 +1,18 @@
+ID: 64-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Memórias cache são dispositivos de armazenamento existentes nos sistemas computacionais com o propósito de acelerar o processamento, respondendo às requisições do processador em um intervalo de tempo quando comparada à memória principal (RAM – Random Access Memory). A técnica LRU (Least Recently Used), quando utilizada no contexto de memórias cache, relaciona-se ao(à)
+
+[ALTERNATIVAS]
+(A) algoritmo de mapeamento.
+(B) política de substituição.
+(C) latência de acesso.
+(D) política de escrita.
+(E) nível da cache.
+
+[GABARITO]
+B

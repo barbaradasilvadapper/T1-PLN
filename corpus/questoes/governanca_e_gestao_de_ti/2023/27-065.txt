@@ -1,0 +1,18 @@
+ID: 27-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Rafael trabalha em uma empresa de consultoria de Governança de Tecnologia da Informação. Sua empresa está executando o processo de melhoria de serviço do ITIL v.4. O sucesso de uma iniciativa de melhoria depende de uma clara e precisa compreensão do ponto de partida e do impacto da iniciativa. Essa melhoria deve ser pensada como uma jornada do ponto A ao ponto B, de forma a identificar claramente as condições do ponto A. Uma jornada não pode ser mapeada se o ponto de partida não é conhecido. A mensagem chave elencada por Rafael determina que ele está na fase:
+
+[ALTERNATIVAS]
+(A) Tome uma atitude
+(B) Como chegamos lá?
+(C) Onde queremos estar?
+(D) Qual é a visão?
+(E) Onde estamos agora?
+
+[GABARITO]
+E

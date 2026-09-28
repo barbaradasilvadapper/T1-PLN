@@ -1,0 +1,18 @@
+ID: 58-038
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A evolução das redes neurais impulsionou significativamente o avanço da inteligência artificial, resultando em arquiteturas inovadoras. Entre elas, uma se sobressai por sua habilidade em gerenciar sequências de tamanho variável, eficiência em treinamentos com grandes volumes de dados e pela implementação do mecanismo de atenção, o que possibilita uma análise ponderada e dinâmica das entradas. Essa arquitetura é denominada
+
+[ALTERNATIVAS]
+(A) Transformer.
+(B) Rede Neural Convolucional (CNN).
+(C) Perceptron Multicamadas (MLP).
+(D) Rede Neural Recorrente (RNN).
+(E) Rede Neural de Memória Longa de Curto Prazo (LSTM).
+
+[GABARITO]
+A

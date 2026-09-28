@@ -1,0 +1,18 @@
+ID: 09-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Sobre as tecnologias XML, XSLT e JSON, assinale a opção correta.
+
+[ALTERNATIVAS]
+(A) O XML é mais eficiente que o JSON em termos de legibilidade e compactação de dados, sendo amplamente utilizado em aplicações web modernas devido à sua simplicidade.
+(B) O XSLT é uma linguagem utilizada para transformar documentos JSON em outro formato, como HTML ou XML.
+(C) O JSON é amplamente utilizado em APIs devido à sua estrutura simples e leve, que facilita o transporte de dados entre cliente e servidor.
+(D) Tanto XML quanto JSON têm suporte nativo para transformação de dados utilizando XSLT, o que facilita sua manipulação em diferentes formatos.
+(E) O XML e o JSON são formatos estritamente equivalentes em termos de expressividade e uso no armazenamento e transporte de dados em diferentes plataformas.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 39-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Buscando aumentar sua produtividade, a empresa JusTI S/A adotará o framework COBIT 5. Dessa maneira, a JusTI S/A deve:
+
+[ALTERNATIVAS]
+(A) tratar governança e gestão como disciplinas isoladas;
+(B) desdobrar as necessidades das partes interessadas em objetivos de TI;
+(C) tratar a informação ao mesmo tempo como um recurso e um habilitador;
+(D) utilizar a cascata de objetivos referente ao porte específico da empresa;
+(E) organizar uma equipe de TI para definir as necessidades das partes interessadas.
+
+[GABARITO]
+C

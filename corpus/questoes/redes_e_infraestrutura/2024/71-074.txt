@@ -1,0 +1,18 @@
+ID: 71-074
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+É comum o uso de soluções oferecidas por serviços de software (SaaS), plataformas (PaaS) e infraestrutura (IaaS) disponibilizados na nuvem, os quais podem ser contratados para integrar a infraestrutura das instituições. Em relação às plataformas (IaaS, PaaS e SaaS), analise os itens a seguir. I. IaaS, PaaS e SaaS são mutuamente exclusivos. II. Para a atividade de Desenvolvimento de Software deve-se optar prioritariamente pela IaaS, ao invés da PaaS. III. O benefício principal do SaaS é que ele transfere toda a infraestrutura e o gerenciamento do aplicativo para o fornecedor do serviço, enquanto o principal benefício da PaaS é permitir aos clientes desenvolver, testar, implementar, executar, atualizar e ajustar a escala de aplicativos de forma mais rápida e com custo reduzido do que eles poderiam se tivessem que desenvolver e gerenciar sua própria plataforma no local. Está correto o que se afirma em:
+
+[ALTERNATIVAS]
+(A) III, apenas.
+(B) II, apenas.
+(C) I, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 25-047
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O órgão XPTO do Poder Judiciário está implementando tecnologia em nuvem para prover serviços para outros órgãos. Os serviços ofertados consistirão em um ambiente no qual os clientes receberão máquinas virtuais, com suas áreas de armazenamento definidas (storage) e as interfaces de rede de acordo com os ambientes (produtivos ou não produtivos), nas quais poderão instalar os sistemas operacionais e suas aplicações para disponibilizarem serviços para seus clientes. De acordo com a NIST SP 800-145, o modelo de serviço de nuvem implementado pelo órgão XPTO é o:
+
+[ALTERNATIVAS]
+(A) infrastructure as a service;
+(B) on-demand self-service;
+(C) software as a service;
+(D) platform as a service;
+(E) measured service.
+
+[GABARITO]
+A

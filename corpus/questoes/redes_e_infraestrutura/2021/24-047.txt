@@ -1,0 +1,18 @@
+ID: 24-047
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um consultor de infraestrutura foi contratado para melhorar a transmissão de dados em uma rede local. Por questões de otimização, ele deverá atuar na camada 2 da pilha TCP (Transmission Control Protocol) / IP (Internet Protocol). A rede local está usando um padrão 802.11. Dentre os serviços prestados à camada de rede pela camada de enlace, o que melhor se enquadra para a resolução do problema é o serviço:
+
+[ALTERNATIVAS]
+(A) não orientado à conexão com confirmação;
+(B) não orientado à conexão sem confirmação;
+(C) orientado à conexão com confirmação;
+(D) orientado à conexão sem confirmação;
+(E) sem conexão.
+
+[GABARITO]
+A

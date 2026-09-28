@@ -1,0 +1,18 @@
+ID: 71-078
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com relação ao protocolo OAuth e segurança de código, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) A parte de “auth” da “OAuth” se refere a autorização, não a autenticação. ( ) Dentre as práticas recomendadas para criar um aplicativo OAuth, podem ser citadas: usar escopos mínimos, criptografar os tokens de acesso do usuário e proteger as credenciais do aplicativo. ( ) Dentre os riscos de segurança mais comuns associados às Application Programming Interfaces (APIs, ou Interfaces de Programação de Aplicação) listados no API Security Top 10 da Open Worldwide Application Security Project (OWASP) consta como vulnerabilidade a implementação incorreta de mecanismos de autenticação, que é responsável pela exposição do fluxo de negócios por comprometer o sistema de identificar dos equipamentos de origem do incidente de segurança.
+
+[ALTERNATIVAS]
+(A) F – V – F.
+(B) F – V – V.
+(C) V – F – F.
+(D) F – F – V.
+(E) V – V – F.
+
+[GABARITO]
+E

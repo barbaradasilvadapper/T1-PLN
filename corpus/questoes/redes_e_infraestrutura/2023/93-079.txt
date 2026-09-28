@@ -1,0 +1,18 @@
+ID: 93-079
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação ao gerenciamento de sistemas Linux/posix, avalie os itens a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) O comando grep procura padrões em um arquivo, realizando a leitura das linhas do arquivo de entrada padrão e a gravação de todas as linhas que contenham a ocorrência no arquivo de saída padrão. ( ) A inclusão do símbolo & no início da linha de comando que chama o processo a ser iniciado resulta em execução em segundo plano. ( ) O uso de pipeline é frequente em sistemas Linux/posix e serve para direcionar os dados processados por dois ou mais programas em sucessão.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) F – V – F.
+(C) V – V – V.
+(D) F – V – V.
+(E) V – V – F.
+
+[GABARITO]
+A

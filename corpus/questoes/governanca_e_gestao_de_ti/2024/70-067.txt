@@ -1,0 +1,18 @@
+ID: 70-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O COBIT 2019 introduziu uma série de mudanças estruturais, como o conceito de Áreas de Foco (Focus Areas) e Fatores de Desenho (Design Factors). Nesse contexto, analise as afirmativas a seguir. I. O COBIT 2019 elimina a necessidade de conformidade regulatória e legal dentro das Áreas de Foco, concentrando-se apenas na otimização de processos e inovação tecnológica. II. Entre os Fatores de Desenho do COBIT 2019, encontram-se o perfil de risco, metas corporativas e requisitos de conformidade. III. As Áreas de Foco no COBIT 2019 são temas específicos, identificados para ajudar as organizações a abordar aspectos particulares de governança e gestão de TI que são críticos para o sucesso empresarial.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

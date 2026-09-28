@@ -1,0 +1,18 @@
+ID: 52-051
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Em relação ao Planejamento Estratégico de Tecnologia da Informação (PETI) e ao Plano Diretor de Tecnologia da Informação (PDTI), analise as afirmativas a seguir: I. O PETI tem foco tático-operacional e busca detalhar as ações necessárias para o atendimento das necessidades de tecnologia no curto prazo. II. O PDTI é responsável por definir o alinhamento da TI com os objetivos estratégicos da organização no longo prazo. III. A elaboração do PDTI normalmente envolve o diagnóstico da situação atual da TI, levantamento de necessidades e definição de planos de ação. IV. O PETI estabelece as diretrizes estratégicas de TI, enquanto o PDTI detalha como essas diretrizes serão implementadas. É correto o que se afirma em:
+
+[ALTERNATIVAS]
+(A) I, II e IV, apenas.
+(B) III e IV, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III, apenas.
+
+[GABARITO]
+B

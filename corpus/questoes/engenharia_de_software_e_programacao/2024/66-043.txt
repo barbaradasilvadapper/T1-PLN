@@ -1,0 +1,18 @@
+ID: 66-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A prefeitura de uma cidade deseja criar um portal de serviços públicos online para integrar diversos sistemas (como IPTU, iluminação pública etc.) e ser acessível. A esse respeito, analise as afirmativas a seguir e assinale (F) para os requisitos funcionais e (N) para os não-funcionais. ( ) Deve permitir o cadastro de usuários, utilizando documentos pessoais e um método de verificação, além de suportar a autenticação segura para acesso aos serviços personalizados. ( ) O portal deve apresentar tempos de carregamento rápidos e ser capaz de lidar com um grande número de usuários simultâneos sem degradação ( ) O sistema deve permitir o uso por pessoas com diferentes tipos de deficiência, incluindo leitores de tela e navegação por teclado. As afirmativas são, segundo a ordem apresentada, corretamente classificadas como
+
+[ALTERNATIVAS]
+(A) F – N – N.
+(B) F – F – N.
+(C) F – N – F.
+(D) N – F – N.
+(E) N – N – N.
+
+[GABARITO]
+A

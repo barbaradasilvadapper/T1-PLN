@@ -1,0 +1,18 @@
+ID: 04-035
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista de sistemas Pedro desenvolveu o webservice RService aplicando o estilo de arquitetura REST (Representational State Transfer). As aplicações clientes que utilizam o RService são desenvolvidas de forma desacoplada e dissociada de RService e manipulam os recursos de RService através de representações transferidas em mensagens autodescritivas. Para habilitar a independência no desenvolvimento de aplicações clientes com o uso de representações em mensagens autodescritivas, Pedro aplicou em RService o princípio REST:
+
+[ALTERNATIVAS]
+(A) arquitetura cliente-servidor;
+(B) código sob demanda;
+(C) interface uniforme;
+(D) sistema em camadas;
+(E) capacidade de cache. – Página 9 Tipo
+
+[GABARITO]
+C

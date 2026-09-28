@@ -1,0 +1,18 @@
+ID: 93-074
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Com relação ao primer princípio do COBIT 5 de “atender às necessidades das partes interessadas”, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) A TI deve ser direcionada para cumprir os objetivos das partes interessadas. ( ) As necessidades das partes interessadas devem ser identificadas e gerenciadas de acordo com suas expectativas. ( ) O desempenho de TI deve ser monitorado e relatado para a gerência de TI.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) F – V – V.
+(C) V – V – F.
+(D) F – V – F.
+(E) V – F – F.
+
+[GABARITO]
+D

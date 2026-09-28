@@ -1,0 +1,18 @@
+ID: 42-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Não faz parte das responsabilidades do Product Owner
+
+[ALTERNATIVAS]
+(A) definir e priorizar os itens do Product Backlog de acordo com o que os clientes e stakeholders precisam.
+(B) garantir que todos os itens do Product Backlog estejam detalhados ao máximo antes do início de cada Sprint.
+(C) tornar o Product Backlog acessível e claro para todos os envolvidos no projeto.
+(D) participar das reuniões de planejamento do Sprint, explicando o que precisa ser feito e os objetivos do backlog para o time.
+(E) colaborar com o Scrum Team para maximizar o valor que será entregue ao cliente.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 32-077
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Ao configurar uma rede wireless corporativa, é importante implementar controles contra acessos não autorizados. Uma dessas tecnologias é a autenticação baseada em servidor. Para fornecer autenticação de usuários por meio de um servidor de autenticação centralizado é comumente utilizado em redes corporativas o protocolo
+
+[ALTERNATIVAS]
+(A) WEP.
+(B) AES.
+(C) RADIUS.
+(D) TKIP.
+(E) WPS.
+
+[GABARITO]
+C

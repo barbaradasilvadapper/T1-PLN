@@ -1,0 +1,18 @@
+ID: 72-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe de Tecnologia da Informação (TI) do órgão XYZ está desenvolvendo um projeto cujo registro de propriedade intelectual ainda não foi realizado. Para proteger o conteúdo desenvolvido, a equipe de TI utilizou a técnica Least Significant Bits (LSB) de estenografia nas imagens utilizadas no projeto, usando os bits menos significativos para guardar os dados que se deseja esconder para evitar cópias do projeto desenvolvido. Para inserir ou esconder informações na imagem, o LSB baseia-se no critério de:
+
+[ALTERNATIVAS]
+(A) ruído;
+(B) espalhamento da informação;
+(C) ordenação;
+(D) divisão da informação;
+(E) criptografia.
+
+[GABARITO]
+A

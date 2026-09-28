@@ -1,0 +1,18 @@
+ID: 58-036
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto dos métodos e técnicas de aprendizado de máquina, assinale a afirmativa incorreta.
+
+[ALTERNATIVAS]
+(A) O algoritmo K-Means é uma técnica de aprendizado não supervisionado usada para clustering.
+(B) A Análise de Componentes Principais (PCA) é um método de redução de dimensionalidade.
+(C) SVM (Support Vector Machine) é um algoritmo de aprendizado de máquina usado para classificação e regressão.
+(D) Random Forest é um algoritmo de aprendizado profundo, amplamente utilizado em reconhecimento de fala.
+(E) A Regressão Logística é comumente usada para problemas de classificação binária.
+
+[GABARITO]
+D

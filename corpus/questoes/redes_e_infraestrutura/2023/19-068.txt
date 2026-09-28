@@ -1,0 +1,18 @@
+ID: 19-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em virtude de muitas interrupções de acesso ao seu banco de dados, o Tribunal de Justiça de Sergipe (TJSE) contratou a empresa X para instalar e configurar um ambiente de alta disponibilidade para substituir o atual, para que não haja mais nenhum problema de acesso ao banco de dados 24 x 7. O novo ambiente será um cluster computacional e usará as máquinas sobressalentes no Tribunal para essa tarefa. Para essa implementação, a empresa X deverá garantir que:
+
+[ALTERNATIVAS]
+(A) os usuários possam escolher qual dos nós do cluster computacional eles irão acessar;
+(B) as conexões entre os nós do cluster sejam em fibra em virtude da impossibilidade de conectar via ethernet;
+(C) suas funcionalidades e alta tolerância a falhas de hardware, software e energia sejam redundantes no sistema;
+(D) sejam utilizadas peças de hardware que iniciam seu funcionamento automaticamente ao detectar uma falha. Essa operação é chamada switchover;
+(E) após uma manutenção ou outra providência executada no sistema, seja efetuada a operação de failover, que retorna o serviço à máquina de origem.
+
+[GABARITO]
+C

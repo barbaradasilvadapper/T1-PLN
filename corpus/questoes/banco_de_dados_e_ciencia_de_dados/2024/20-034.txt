@@ -1,0 +1,18 @@
+ID: 20-034
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João está encarregado de projetar um banco de dados PostgreSQL para gerenciar informações sobre casos jurídicos e advogados, considerando as seguintes especificações: • a tabela "Caso" armazena informações sobre os casos, incluindo um identificador único “IDCaso” como chave primária; • a tabela "Advogado" armazena informações sobre os advogados, incluindo um identificador único “IDAdvogado” como chave primária; • cada caso pode ter vários advogados envolvidos; • um advogado pode estar envolvido em vários casos. Nesse contexto, João precisa modelar um relacionamento “muitos-para-muitos” entre "Caso" e "Advogado". Para isso, ele deverá criar uma tabela de associação, denominada "Participacao", utilizando o script SQL:
+
+[ALTERNATIVAS]
+(A) CREATE TABLE Participacao ( IDParticipacao INT PRIMARY KEY, (IDAdvogado));
+(B) CREATE TABLE Participacao ( IDParticipacao INT PRIMARY KEY, IDCaso INT, IDAdvogado INT, (IDAdvogado));
+(C) CREATE TABLE Participacao ( IDCaso INT, IDAdvogado INT, PRIMARY KEY (IDCaso) REFERENCES Caso (IDCaso), PRIMARY KEY (IDAdvogado) REFERENCES Advogado (IDAdvogado), FOREIGN KEY (IDCaso, IDAdvogado));
+(D) CREATE TABLE Participacao ( IDParticipacao INT PRIMARY KEY, (IDAdvogado), UNIQUE (IDCaso, IDAdvogado));
+(E) CREATE TABLE Participacao ( IDCaso INT PRIMARY KEY, IDAdvogado INT PRIMARY KEY, (IDAdvogado));
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 50-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Considere as práticas de atribuição de funções de TI na gestão de responsabilidades sob as perspectivas do COBIT, ITIL e PMBOK. Na aplicação dessas práticas é correto que se deve
+
+[ALTERNATIVAS]
+(A) integrar os papéis de desenvolvimento e a operação de sistemas para um funcionário garantindo eficiência e rapidez na resolução de problemas.
+(B) designar diferentes equipes para gerenciamento de incidentes e gerenciamento de problemas para, respectivamente, a análise e a correção de falhas.
+(C) concentrar as responsabilidades de gestão de mudanças e liberação de software em um único papel, dado que integram as mesmas funções.
+(D) permitir que o desenvolvedor de software faça uma prévia da auditoria de código de forma a acelerar o processo e economizar recursos.
+(E) delegar a um gestor a responsabilidade de aprovação de projetos de TI logo após o controle de custos facilitando a tomada de decisão.
+
+[GABARITO]
+B

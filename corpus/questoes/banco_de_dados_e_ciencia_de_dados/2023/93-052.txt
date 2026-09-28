@@ -1,0 +1,18 @@
+ID: 93-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Assinale a opção que apresenta o conjunto de dimensões aos quais os modelos arquiteturais dos SGBD distribuídos são classificados.
+
+[ALTERNATIVAS]
+(A) horizontal, vertical e mista.
+(B) fragmentação, transação e segurança.
+(C) ponto-a-ponto, cliente-servidor e nuvem.
+(D) autonomia, distribuição e heterogeneidade.
+(E) controle de concorrência, replicação e integração de dados.
+
+[GABARITO]
+D

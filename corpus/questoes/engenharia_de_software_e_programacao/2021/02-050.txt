@@ -1,0 +1,18 @@
+ID: 02-050
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A especificação de software é o processo de compreensão e definição dos serviços requisitados pelos usuários e stakeholders que o sistema deverá atender. Além disso, a especificação engloba quatro atividades básicas: estudo de viabilidade, elicitação, especificação e validação de requisitos. Durante a elicitação de requisitos, a analista de sistemas Ana fez a imersão no ambiente de trabalho em que o sistema será utilizado e ficou observando o dia a dia para compreender os processos operacionais e extrair os requisitos de apoio e implícitos. Nesse caso, Ana utilizou a técnica de:
+
+[ALTERNATIVAS]
+(A) prototipação;
+(B) etnografia;
+(C) entrevistas;
+(D) cenários;
+(E) casos de uso.
+
+[GABARITO]
+B

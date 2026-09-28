@@ -1,0 +1,18 @@
+ID: 57-008
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os gerentes dos departamentos de um órgão público receberam um e-mail com informações específicas sobre suas carreiras, informando-os de que haviam sido selecionados para um evento de mentoria com um especialista em design thinking, que seria totalmente custeado pelo órgão, e que deveriam fazer suas inscrições. No e-mail constava o link para a inscrição, no qual seria necessário se autenticar com as credenciais do sistema de Single Sign-On do órgão. A ETIR (Equipe de Tratamento de Incidentes em Redes) do órgão identificou que os gerentes sofreram um ataque do tipo:
+
+[ALTERNATIVAS]
+(A) e-mail spoofing;
+(B) ransomware;
+(C) phishing;
+(D) pharming;
+(E) spear phishing.
+
+[GABARITO]
+E

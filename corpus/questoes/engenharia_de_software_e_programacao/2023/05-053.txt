@@ -1,0 +1,18 @@
+ID: 05-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise a descrição básica de uma tag utilizada no HTML. “É um container inline que é usado para aplicar marcações de estilo a de um texto ou documento, e pode facilmente ser manipulado por código JavaScript.” De acordo com essas características, é muito provável que o texto refira-se à tag:
+
+[ALTERNATIVAS]
+(A) <details>
+(B) <div>
+(C) <p>
+(D) <space>
+(E) <span>
+
+[GABARITO]
+E

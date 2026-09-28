@@ -1,0 +1,18 @@
+ID: 13-044
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A álgebra relacional é uma linguagem de consulta formal, composta por diversas operações sobre conjuntos de dados, que fornece uma base teórica sólida para a otimização de consultas SQL em bancos de dados relacionais. A operação “seleção” da álgebra relacional é realizada pela cláusula SQL:
+
+[ALTERNATIVAS]
+(A) WHERE
+(B) SELECT
+(C) EXISTS
+(D) LIMIT
+(E) HAVING
+
+[GABARITO]
+A

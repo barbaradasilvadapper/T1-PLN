@@ -1,0 +1,18 @@
+ID: 75-030
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Para navegar na Internet normalmente fornecemos ao programa navegador (browser) um URL contendo o nome do servidor onde se encontra o recurso desejado. Para converter o nome do servidor no seu endereço IP e propiciar a conexão é necessário usar os serviços de um servidor
+
+[ALTERNATIVAS]
+(A) DHCP.
+(B) DNS.
+(C) BOOTP.
+(D) NNTP.
+(E) NTP.
+
+[GABARITO]
+B

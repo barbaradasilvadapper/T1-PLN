@@ -1,0 +1,18 @@
+ID: 36-059
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Departamento de Infraestrutura do Ministério Público da União (MPU) tem recebido muitos chamados com problemas em sua rede e no tráfego de informações. Alguns usuários mais experientes informaram que o problema estava na camada de sessão do modelo OSI implementado. O Departamento de Infraestrutura confirmou que a falha estava na camada de sessão do modelo de referência OSI, pois havia problema(s) no(a):
+
+[ALTERNATIVAS]
+(A) conversão do formato do dado recebido em um formato comum a ser usado na transmissão desse dado;
+(B) segmentação da informação entre a camada superior e inferior do modelo, além da falta de controle de fluxo da informação;
+(C) detecção de erros que estavam acontecendo em virtude de um possível rompimento de cabo;
+(D) coordenação do fluxo de dados entre os nós comunicantes, no gerenciamento de sessões e na criptografia implementada;
+(E) roteamento de funções, e também na realização da fragmentação e remontagem dos dados.
+
+[GABARITO]
+D

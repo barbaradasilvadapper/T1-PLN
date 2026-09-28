@@ -1,0 +1,18 @@
+ID: 55-036
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No universo Java, as interfaces Map e Set são essenciais para organizar e manipular dados de forma eficiente, permitindo armazenar elementos e associações chave-valor com rapidez e clareza no código. Nesse contexto, avalie as sentenças a seguir. I. Set é uma interface que estende Collection e possui elementos únicos. II. Uma diferença entre Map e Set é que Maps contêm chaves e valores, enquanto Sets contêm somente valores. III. Em um Map, as chaves devem ser únicas, mas essa regra não se aplica aos valores associados.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

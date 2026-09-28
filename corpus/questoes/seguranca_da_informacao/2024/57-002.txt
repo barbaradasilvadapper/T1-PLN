@@ -1,0 +1,18 @@
+ID: 57-002
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A norma ISO/IEC 27001 é um padrão internacional que define requisitos a que um Sistema de Gestão de Segurança da Informação (SGSI) deve atender. Ela se divide em duas partes: o texto da norma em si, que descreve os requisitos de forma abrangente, e o Anexo A, mais detalhado e objetivo, que tem por função:
+
+[ALTERNATIVAS]
+(A) estabelecer a política de certificação digital;
+(B) especificar os papéis e responsabilidades da alta administração;
+(C) delinear o processo de avaliação de riscos;
+(D) fornecer orientação sobre a implementação de controles de segurança da informação;
+(E) definir o escopo do Sistema de Gestão de Segurança da Informação.
+
+[GABARITO]
+D

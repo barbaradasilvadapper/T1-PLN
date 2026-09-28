@@ -1,0 +1,18 @@
+ID: 58-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em relação às Redes Definidas por Software (SDN – Software Defined Networking), assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A SDN separa o plano de controle do plano de dados, permitindo que o roteamento e a comutação sejam gerenciados de forma centralizada.
+(B) Em uma arquitetura SDN, os dispositivos de rede, como switches e roteadores, são responsáveis por tomar decisões de encaminhamento com base em políticas e regras locais.
+(C) Em uma arquitetura SDN, o plano de controle e o plano de dados são fortemente acoplados, operando sempre no mesmo dispositivo de rede, como switches e roteadores.
+(D) O OpenFlow é um protocolo amplamente utilizado para comunicação entre os planos de controle e de dados em uma arquitetura SDN, mas não permite a programação de dispositivos de rede.
+(E) Em uma arquitetura SDN, o plano de dados é responsável pela tomada de decisões relacionadas ao roteamento e encaminhamento de pacotes, enquanto o plano de controle desempenha um papel passivo.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 76-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe do projeto de modernização do workflow legislativo adotou o Extreme Programming (XP). Uma das práticas centrais do XP é o Desenvolvimento Orientado a Testes (TDD), que exige que os testes unitários sejam escritos antes do código de produção. A prática essencial do XP que está diretamente ligada e potencializada pela adoção contínua do TDD, visando manter a qualidade e a simplicidade da base de código ao longo das iterações é o
+
+[ALTERNATIVAS]
+(A) On-Site Customer.
+(B) Sustainable Pace.
+(C) Pair Programming.
+(D) Refactoring.
+(E) Metaphor.
+
+[GABARITO]
+D

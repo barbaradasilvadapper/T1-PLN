@@ -1,0 +1,18 @@
+ID: 75-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação ao ETL, ELT e suas tecnologias, avalie as afirmativas a seguir e assinale V para a verdadeira e F para a falsa. ( ) ELT utiliza fluxos de trabalho de análise de dados e de aprendizado de máquina. O ELT é frequentemente usado por uma organização para: Extrair dados de sistemas legados, limpar os dados para melhorar sua qualidade e carregar dados em um banco de dados de destino. O ELT transforma dados no trânsito. ( ) ETL copia ou exporta os dados dos locais de origem, mas, em vez de carregá-los em uma área de preparação para transformação, ele carrega os dados em estado brutos diretamente no armazenamento de dados no destino para serem transformados conforme necessário. O ETL não transforma nenhum dado no trânsito. ( ) A ordem das etapas não é a única diferença entre ETL e ELT. No ELT, o armazenamento de dados de destino pode ser um armazém de dados, mas, mais frequentemente, é um data lake, que é um armazenamento central grande projetado para manter tanto dados estruturados quanto não estruturados em grande escala.
+
+[ALTERNATIVAS]
+(A) F – V – F.
+(B) F – F – V.
+(C) F – V – V.
+(D) V – F – V.
+(E) V – V – F.
+
+[GABARITO]
+B

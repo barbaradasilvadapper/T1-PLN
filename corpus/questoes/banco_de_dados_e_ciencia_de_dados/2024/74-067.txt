@@ -1,0 +1,18 @@
+ID: 74-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Das técnicas apresentadas a seguir, a mais adequada para identificar agrupamentos (clusters) em um conjunto de dados não rotulado em um problema de aprendizado de máquina não supervisionado é
+
+[ALTERNATIVAS]
+(A) Regressão Linear.
+(B) K-means.
+(C) Regressão Logística.
+(D) Análise de Componentes Principais (PCA).
+(E) Máquinas de Vetores de Suporte (SVM) para classificação.
+
+[GABARITO]
+B

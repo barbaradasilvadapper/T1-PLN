@@ -1,0 +1,18 @@
+ID: 54-054
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Apache Web Server (versão 2.4) oferece importantes recursos de autenticação de usuários que tentam acessar uma aplicação Web e autorização para que o usuário tenha permissão de realização a ação desejada. Ele oferece aos administradores três grupos de controles para operacionalizar os processos de autenticação e autorização e cada grupo possui diversos módulos. Os módulos do grupo authentication type são
+
+[ALTERNATIVAS]
+(A) mod_auth_dbm e mod_auth_file.
+(B) mod_auth_basic e mod_auth_digest.
+(C) mod_authn_anon e mod_authn_dbd.
+(D) mod_authn_groupfile e mod_authn_host.
+(E) mod_authnz_ldap e mod_authn_socache.
+
+[GABARITO]
+B

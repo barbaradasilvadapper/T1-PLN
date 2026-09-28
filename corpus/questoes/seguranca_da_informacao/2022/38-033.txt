@@ -1,0 +1,18 @@
+ID: 38-033
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Após ser aceita em uma licitação do Tribunal de Justiça, a empresa Seg X foi contratada para implementar a segurança na rede sem fio existente. A empresa identificou que a rede sem fio utilizava o padrão 802.11 com o protocolo WPA2 (wi-fi Protected Access 2) e forneceu, como solução, a utilização do protocolo de segurança CCMP (Counter Mode with Cipher Block Chaining Message Authentication Code Protocol). A partir do uso do protocolo CCMP, a rede do Tribunal de Justiça obterá:
+
+[ALTERNATIVAS]
+(A) criptografia com AES com bloco e chave de 128 bits e garantia de integridade com o modo de encadeamento de blocos de cifras;
+(B) codificação de dados por confidencialidade, realizando um XOR com a saída de um fluxo de cifras;
+(C) verificação de integridade das mensagens baseada em um CRC de 32 bits;
+(D) criptografia com 3DES com chave de 128 bits e autenticação a partir do código de autenticação de mensagens;
+(E) criptografia com o DES com chave de 56 bits no modo de operação ECB (Eletronic Code Book).
+
+[GABARITO]
+A

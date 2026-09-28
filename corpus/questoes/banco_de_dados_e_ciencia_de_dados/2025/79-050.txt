@@ -1,0 +1,18 @@
+ID: 79-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe a consulta SQL a seguir. ALTER TABLE Processos ADD data_criacao DATETIME; A consulta apresentada que corresponde à consulta MongoDB:
+
+[ALTERNATIVAS]
+(A) db.Processos.updateMany({ },
+(B) db.Processos.add({all()},
+(C) db.Processos.insertOne({find()},
+(D) db.Processos.createField({ },
+(E) db.Processos.addField({find()}, {$unset:{data_criacao:new Date()}})
+
+[GABARITO]
+A

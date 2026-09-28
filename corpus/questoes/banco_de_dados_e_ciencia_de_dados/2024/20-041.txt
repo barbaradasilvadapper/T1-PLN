@@ -1,0 +1,18 @@
+ID: 20-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João está escrevendo uma consulta que envolve várias tabelas e precisa garantir que todas as suas linhas sejam incluídas no resultado, mesmo que não haja correspondências entre elas. Para tanto, João deverá utilizar o seguinte operador de junção:
+
+[ALTERNATIVAS]
+(A) LEFT JOIN;
+(B) INNER JOIN;
+(C) RIGHT JOIN;
+(D) CROSS JOIN;
+(E) FULL OUTER JOIN.
+
+[GABARITO]
+E

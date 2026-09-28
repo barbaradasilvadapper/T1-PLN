@@ -1,0 +1,18 @@
+ID: 59-073
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa de pequeno porte deseja realizar a troca da central telefônica atual por uma central telefônica IP. A central telefônica atual atende a 6 ramais analógicos e possui 2 troncos analógicos com a operadora local. A central telefônica IP deverá ter conectividade com todos os ramais e troncos analógicos existentes, bem como deverá se conectar a um roteador da rede local. Os números mínimos de interfaces FXO (Foreign Exchange Office), FXS (Foreign Exchange Subscriber) e portas Ethernet da central telefônica IP são, respectivamente:
+
+[ALTERNATIVAS]
+(A) 1, 2 e 6;
+(B) 2, 1 e 6;
+(C) 2, 6 e 1;
+(D) 6, 1 e 2;
+(E) 6, 2 e 1.
+
+[GABARITO]
+C

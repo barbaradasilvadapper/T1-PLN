@@ -1,0 +1,18 @@
+ID: 19-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Analise o comando a seguir quando aplicado à tabela T1, anteriormente descrita. delete from T1 where A >= (select min(A) from T1) and A <= (select max(A) from T1) O efeito desse comando sobre a tabela T1 é:
+
+[ALTERNATIVAS]
+(A) nulo, pois nenhuma linha é removida;
+(B) a remoção da primeira e da segunda linhas, somente;
+(C) a remoção da primeira e da terceira linhas, somente;
+(D) a remoção da segunda e da terceira linhas, somente;
+(E) a remoção de todas as linhas.
+
+[GABARITO]
+E

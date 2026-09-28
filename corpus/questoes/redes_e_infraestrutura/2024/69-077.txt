@@ -1,0 +1,18 @@
+ID: 69-077
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação aos sistemas de arquivos, analise os itens a seguir I. O ext4 (fourth extended filesystem) é a quarta geração da família do sistema de arquivo para Linux e suporta tanto a ampliação quanto a redução do tamanho de um sistema de arquivo. II. O XFS é o sistema de arquivo primário para versões recentes do Windows e do Windows Server, altamente escalável, de alto desempenho, robusto e maduro, que suporta arquivos muito grandes e sistemas de arquivo em um único host. III. O ReFS (Resilient File System) é o mais novo sistema de arquivos do Linux, desenvolvido para maximizar a disponibilidade de dados, dimensionar de modo eficiente conjuntos de dados muito grandes em diversas cargas de trabalho e fornecer integridade dos dados com resiliência a danos.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+A

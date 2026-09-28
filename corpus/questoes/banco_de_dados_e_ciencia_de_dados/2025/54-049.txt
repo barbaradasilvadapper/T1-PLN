@@ -1,0 +1,18 @@
+ID: 54-049
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Data Warehouses (DW) e Mineração de Dados (MD) são muito difundidos em diversos tipos de organizações. Eles possuem usos consagrados nas áreas de arquiteturas de sistemas de informação e Big Data. Com relação ao DW e MD, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) O objetivo do DW é dar suporte ao processo de tomada de decisão com dados por intermédio de diversos tipos de algoritmos tais como regras de associação, árvores de classificação. A MD pode ser usado juntamente com o DW para com certos tipos de tomada de decisão em cenários de aplicações de Big Data. ( ) Para tornar o DM mais eficiente o DW dever ter uma coleção de dados agregada e resumida. A MD ajuda na extração de novos padrões que não podem ser encontrados apenas ao consultar e processar dados e metadados do DW. ( ) As aplicações de MD devem ser projetadas para facilitar seu uso juntamente com o DW. Para bancos de dados muito grandes (da ordem de grandeza de terabytes até petabytes de dados), o uso bem-sucedido das aplicações de MD dependerá, em primeiro lugar da construção de um DW. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+(E) F – F – V.
+
+[GABARITO]
+B

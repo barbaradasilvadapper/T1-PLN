@@ -1,0 +1,18 @@
+ID: 12-099
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto de DevOps e CD/CI (Continuous Delivery/ Continuous Integration), avalie as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) O processo de testes automatizados engloba os testes unitários e os testes de integração, mas não incluem os testes de sistema ou de funcionalidade. ( ) A automação é um dos principais princípios do DevOps, permitindo executar tarefas mais rapidamente, diminuindo a possibilidade de erros humanos e tornando os processos mais confiáveis e auditáveis. ( ) Uma de suas vantagens de implementação é a realização de deploy de incrementos ou melhorias de software sob supervisão de especialistas. ( ) Essa abordagem busca aumentar o fluxo de trabalho completado, proporcionando uma maior frequência de deploys, enquanto aumenta a estabilidade e robustez do ambiente de produção. As afirmativas são, respetivamente,
+
+[ALTERNATIVAS]
+(A) F – F – F – V.
+(B) F – V – F – V.
+(C) V – V – V – V.
+(D) V – V – F – F.
+(E) F – F – V – F.
+
+[GABARITO]
+B

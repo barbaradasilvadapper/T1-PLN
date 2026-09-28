@@ -1,0 +1,18 @@
+ID: 34-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No SQL, o conceito que agrupa um conjunto de operações de banco de dados como uma unidade lógica de trabalho, permitindo confirmação (COMMIT) ou reversão (ROLLBACK) completa, é denominado
+
+[ALTERNATIVAS]
+(A) View.
+(B) Stored Procedure.
+(C) Transação.
+(D) Trigger.
+(E) Cursor.
+
+[GABARITO]
+C

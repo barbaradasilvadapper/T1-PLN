@@ -1,0 +1,18 @@
+ID: 21-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A respeito dos conceitos de DevOps, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Uma das práticas da Integração Contínua é estimular que a equipe de desenvolvimento agregue código em um repositório compartilhado várias vezes ao dia. ( ) Executar casos de teste automatizados e compilar o códigofonte são tarefas de ferramentas de automação de build, como Cucumber, Travis CI e Zabbix. ( ) Configuration Management é eficiente quando nem todas as instalações e modificações são aplicadas novamente aos servidores, atualizando apenas o comportamento alterado. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – F – V.
+(C) F – V – V.
+(D) V – F – F.
+(E) F – F – V.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 13-053
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O diretor operacional João, do setor de digitalização de processos, escala diariamente vários funcionários de diversos setores para compor a força-tarefa da transformação digital do MPU. Para dar visibilidade ao andamento do trabalho, João solicitou ao analista de BI Nilo a elaboração de um Dashboard para responder a seguinte pergunta analítica: • Qual é a quantidade de pessoal alocado por dia em um determinado período por setor? Para isso, Nilo deve modelar um fato:
+
+[ALTERNATIVAS]
+(A) aditivo;
+(B) derivado;
+(C) ausente;
+(D) semiaditivo;
+(E) conformado (conformed).
+
+[GABARITO]
+A

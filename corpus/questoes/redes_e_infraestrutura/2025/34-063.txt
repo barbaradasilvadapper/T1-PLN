@@ -1,0 +1,18 @@
+ID: 34-063
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo RADIUS é amplamente utilizado para autenticação em redes corporativas com IEEE 802.1x. O RADIUS opera utilizando qual combinação de protocolo de transporte e portas padrão
+
+[ALTERNATIVAS]
+(A) TCP, portas 1812 e 1813.
+(B) UDP, portas 49 e 1812
+(C) TCP, portas 1645 e 1646.
+(D) UDP, portas 1812 e 1813.
+(E) TCP, porta 1814.
+
+[GABARITO]
+D

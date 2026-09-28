@@ -1,0 +1,18 @@
+ID: 50-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Assinale a opção que descreve corretamente um ponto principal característico de COBIT 2019, ITIL v4 e PMBOK.
+
+[ALTERNATIVAS]
+(A) COBIT 2019 é centrado na governança de TI, ITIL v4 foca na gestão de serviços de TI e PMBOK orienta sobre a gestão de projetos tradicionais.
+(B) COBIT 2019 é um guia para auditoria de TI, ITIL v4 é um framework para desenvolvimento de software, e PMBOK é uma metodologia ágil.
+(C) COBIT 2019, ITIL v4 e PMBOK são frameworks que priorizam a implementação de práticas ágeis e DevOps em suas abordagens.
+(D) COBIT 2019, ITIL v4 e PMBOK são estruturas voltadas exclusivamente para o controle financeiro de projetos de TI.
+(E) COBIT 2019 define princípios de governança corporativa, ITIL v4 prioriza a gestão de serviços de TI focada no cliente, e PMBOK foca na entrega de valor através da gestão de projetos.
+
+[GABARITO]
+A

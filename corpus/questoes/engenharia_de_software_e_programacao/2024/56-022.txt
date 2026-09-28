@@ -1,0 +1,18 @@
+ID: 56-022
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os padrões de projeto são extremamente úteis para organizar a arquitetura do sistema e o modelo de programação. Eles são projetados em diagramas da UML, como no modelo a seguir. O diagrama expressa o padrão de projeto:
+
+[ALTERNATIVAS]
+(A) Observer;
+(B) Singleton;
+(C) Data Access Object;
+(D) Intercept Filter;
+(E) Template Method.
+
+[GABARITO]
+E

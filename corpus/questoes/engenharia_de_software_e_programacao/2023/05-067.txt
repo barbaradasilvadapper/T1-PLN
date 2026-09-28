@@ -1,0 +1,18 @@
+ID: 05-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+PL/SQL é uma linguagem estruturada em blocos, elemento fundamental para se escrever um código. Em PL/SQL, um bloco é delimitado pelas palavras reservadas:
+
+[ALTERNATIVAS]
+(A) BEGIN END;
+(B) START STOP;
+(C) OPEN CLOSE;
+(D) LOOP END LOOP;
+(E) DECLARE EXCEPTION.
+
+[GABARITO]
+A

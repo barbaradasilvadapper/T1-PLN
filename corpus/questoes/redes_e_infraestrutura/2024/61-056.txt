@@ -1,0 +1,18 @@
+ID: 61-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em uma empresa de TI, instalou-se o VMware Cloud Director voltado para suporte a um tipo de rede dessa arquitetura denominada Rede Externa. O suporte para esse tipo de rede oferece como característica
+
+[ALTERNATIVAS]
+(A) conectar vários tipos de centro de dados com um ambiente NSX.
+(B) gerenciar um conjunto de máquinas virtuais da empresa, de modo que elas possam verificar o estado uma da outra e permitir troca de mensagens.
+(C) gerenciar uma rede lógica com base em um grupo de portas do vSphere, sendo que somente administradores do sistema podem criar esse tipo de rede.
+(D) permitir que todas as máquinas virtuais da empresa possam se conectar a um centro de dados único, verificando cada usuário conectado.
+(E) permitir acesso a vários tipos de aplicações virtuais, desde que seja possível estabelecer comunicação via IPv6 entre eles e que essa rede virtual não possa ser acessada por usuários não autorizados pela empresa.
+
+[GABARITO]
+C

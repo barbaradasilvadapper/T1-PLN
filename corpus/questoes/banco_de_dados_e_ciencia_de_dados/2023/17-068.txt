@@ -1,0 +1,18 @@
+ID: 17-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere a execução dos seguintes comandos em SQL: CREATE TABLE vendas ( id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY, dat_venda DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP, vendedor VARCHAR(15) NOT NULL, cliente VARCHAR(15) NOT NULL, uf CHAR(2) NOT NULL DEFAULT 'RJ', produto VARCHAR(15) NOT NULL DEFAULT 'PROD1', qtde INT NOT NULL, valor_unitario FLOAT DEFAULT NULL); valor_unitario) VALUES ('2023-01-01', 'VEND001', 'CLI001', 'SP', 'PROD3', 2, 20); valor_unitario) VALUES ('2023-01-02', 'VEND001', 'CLI001', 'SP', 'PROD3', 3, 20); valor_unitario) VALUES ('2023-01-01', 'VEND002', 'CLI002', 'RJ', 'PROD1', 20, 5); valor_unitario) VALUES ('2023-01-05', 'VEND001', 'CLI001', 'SC', 'PROD3', 2, 20); valor_unitario) VALUES ('2023-01-06', 'VEND002', 'CLI002', 'MG', 'PROD2', 5, 10); valor_unitario) VALUES ('2023-01-05', 'VEND003', 'CLI004', 'RJ', 'PROD3', 2, 20); valor_unitario) VALUES ('2023-01-04', 'VEND003', 'CLI003', 'SC', 'PROD4', 10, 3); SELECT V1.vendedor, V1.uf, COUNT(*) AS qtde_vendas, SUM(V1.qtde*V1.valor_unitario) AS total_venda, V2.media_venda FROM vendas V1 INNER JOIN (SELECT vendedor, AVG(qtde* valor_unitario) AS media_venda FROM vendas GROUP BY vendedor ) V2 ON V2.vendedor = V1.vendedor WHERE V1.dat_venda BETWEEN '2023-01-01' AND '2023-01-04' GROUP BY V1.vendedor, V1.uf HAVING SUM(V1.qtde*V1.valor_unitario) > V2.media_venda ORDER BY V1.vendedor; Após a execução dos comandos apresentados, a quantidade de linhas que a consulta irá retornar é:
+
+[ALTERNATIVAS]
+(A) 2;
+(B) 3;
+(C) 4;
+(D) 6;
+(E) 7.
+
+[GABARITO]
+A

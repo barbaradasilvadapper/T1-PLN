@@ -1,0 +1,18 @@
+ID: 56-028
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O cálculo da complexidade computacional é essencial para verificar a viabilidade do algoritmo. Observe o código a seguir, em Python, para o problema da torre de Hanoi. def hanoi(n, o, d, a): if n==1: print("D1 de "+o+" p/ "+d) else: hanoi(n-1, o, a, d) print("D"+str(n)+" de "+o+" p/ "+d) hanoi(n-1, a, d, o) A complexidade desse algoritmo no pior caso é:
+
+[ALTERNATIVAS]
+(A) O(2 n );
+(B) O(n);
+(C) O(n log n);
+(D) O(n 2 );
+(E) O(log n).
+
+[GABARITO]
+A

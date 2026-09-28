@@ -1,0 +1,18 @@
+ID: 75-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O PostgreSQL, versão 15, suporta 4 níveis de isolamento de transações. Com relação níveis de isolamento e aos fenômenos que eles isolam. Em relação ao tema, assinale V para a afirmativa verdadeira e F para a falsa. ( ) O nível de isolamento leitura sem compromisso permite a ocorrência de leitura fantasma. ( ) O nível de isolamento leitura confirmada não admite leitura fantasma e anomalia de serialização. ( ) O nível de isolamento mais rigoroso é o serializável, ele não permite a ocorrência de leitura suja, leitura não repetitível, leitura fantasma e anomalia de serialização.
+
+[ALTERNATIVAS]
+(A) F – V – F.
+(B) F – F – V.
+(C) V – V – F.
+(D) V – F – V.
+(E) F – V – V.
+
+[GABARITO]
+D

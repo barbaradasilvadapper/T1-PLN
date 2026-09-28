@@ -1,0 +1,18 @@
+ID: 54-045
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A elicitação de requisitos é um processo de aquisição de conhecimento no qual se busca compreender melhor o negócio, identificar as partes interessadas e os requisitos. As quatro atividades fundamentais da técnica de elicitação de requisitos são
+
+[ALTERNATIVAS]
+(A) exame, refinamento, documentação e aprovação.
+(B) preparação, execução, documentação e confirmação.
+(C) levantamento, refinamento, codificação e refatoração.
+(D) análise, descrição de casos de uso, refatoração e gerência.
+(E) planejamento, entrevistas, descrição de restrições e aceitação.
+
+[GABARITO]
+B

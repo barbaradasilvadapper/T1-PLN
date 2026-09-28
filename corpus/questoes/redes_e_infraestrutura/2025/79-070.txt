@@ -1,0 +1,18 @@
+ID: 79-070
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+De acordo com a RFC 3227, que define diretrizes para coleta e arquivamento de evidências, a ordem de volatilidade das evidências deve ser considerada em uma coleta, iniciando-se pela mais volátil e seguindo até a menos volátil. Segundo essa RFC, a ordem deve ser:
+
+[ALTERNATIVAS]
+(A) Tabela de roteamento, cache ARP, tabela de processo, estatísticas do kernel, memória - Registros, cache - Sistemas de arquivos temporários - Disco - Registro remoto e dados de monitoramento relevantes - Configuração física, topologia de rede - Mídias externas;
+(B) Registros, cache - Tabela de roteamento, cache ARP, tabela de processo, estatísticas do kernel, memória - Sistemas de arquivos temporários - Disco - Registro remoto e dados de monitoramento relevantes - Mídias externas - Configuração física, topologia de rede;
+(C) Configuração física, topologia de rede - Registros, cache - Tabela de roteamento, cache ARP, tabela de processo, estatísticas do kernel, memória - Sistemas de arquivos temporários - Disco - Registro remoto e dados de monitoramento relevantes - Mídias externas;
+(D) Registro remoto e dados de monitoramento relevantes - Registros, cache - Tabela de roteamento, cache ARP, tabela de processo, estatísticas do kernel, memória - Sistemas de arquivos temporários - Disco - Configuração física, topologia de rede - Mídias externas;
+(E) Registros, cache - Tabela de roteamento, cache ARP, tabela de processo, estatísticas do kernel, memória - Sistemas de arquivos temporários - Disco - Registro remoto e dados de monitoramento relevantes - Configuração física, topologia de rede - Mídias externas.
+
+[GABARITO]
+E

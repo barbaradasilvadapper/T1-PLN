@@ -1,0 +1,18 @@
+ID: 84-054
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de análise de dados e cubos OLAP, assinale os quatro tipos de análises que são comuns nesse ambiente.
+
+[ALTERNATIVAS]
+(A) Drill-down / ETL / Pivot / Roll up.
+(B) Drill-down / ETL / Pivot / Slice.
+(C) Drill-down / ETL / Roll up / Slice.
+(D) Drill-down / Pivot / Roll up / Slice.
+(E) ETL / Pivot / Roll up / Slice.
+
+[GABARITO]
+D

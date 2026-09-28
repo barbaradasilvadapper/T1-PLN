@@ -1,0 +1,18 @@
+ID: 55-063
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considerando o modelo de referência OSI para redes de computadores, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O TCP (Transmission Control Protocol) é um protocolo da camada de controle responsável pela transmissão confiável.
+(B) O protocolo IP (Internet Protocol) é o único protocolo responsável por endereçamento em redes de computadores.
+(C) A camada física é responsável por garantir que os dados sejam transmitidos corretamente.
+(D) O roteamento de pacotes é uma das funções da camada de aplicação, em especial para navegação web.
+(E) O controle de fluxo é uma das funções da camada de enlace de dados.
+
+[GABARITO]
+E

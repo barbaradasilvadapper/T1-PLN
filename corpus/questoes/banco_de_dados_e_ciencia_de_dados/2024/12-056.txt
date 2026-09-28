@@ -1,0 +1,18 @@
+ID: 12-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+SGBD é a sigla para Sistema de Gerenciamento de Banco de Dados. Trata-se de um software que permite a criação, manipulação e administração de bancos de dados. Como um ecossistema completo para gerenciamento dos dados, muitos recursos são implementados nos SGBDs, sendo um dos mais importantes os chamados índices. Em um Sistema de Gerenciamento de Banco de Dados (SGBD), os índices são utilizados para
+
+[ALTERNATIVAS]
+(A) armazenar dados sensíveis de forma criptografada.
+(B) melhorar o desempenho das consultas ao permitir acesso rápido aos registros.
+(C) controlar as permissões de acesso aos dados por meio de políticas de segurança.
+(D) efetuar cópias de segurança (backups) automáticos dos dados do banco.
+(E) executar operações de migração de esquema entre diferentes versões do SGBD.
+
+[GABARITO]
+B

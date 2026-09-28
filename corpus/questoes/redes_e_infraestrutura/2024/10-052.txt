@@ -1,0 +1,18 @@
+ID: 10-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) visa a integrar todos os tribunais brasileiros, de acordo com a política pública para a governança e gestão de processo judicial eletrônico, instituída pela Resolução CNJ nº 335/2020. Um dos objetivos da PDPJ-Br é:
+
+[ALTERNATIVAS]
+(A) instituir plataforma única para publicação e disponibilização de aplicações, microsserviços e modelos de inteligência artificial (I.A.), por meio de computação em nuvem;
+(B) integrar e consolidar os principais sistemas eletrônicos do Judiciário brasileiro em um ambiente padronizado e distribuído entre os tribunais para assegurar a alta disponibilidade dos sistemas;
+(C) funcionar como modelo de convergência para o provimento de um repositório de soluções que estará disponível para uso por todos os sistemas de processo judicial eletrônico do Poder Judiciário brasileiro;
+(D) padronizar a contratação de qualquer novo sistema, módulo ou funcionalidade privados que cause dependência tecnológica do respectivo fornecedor, permitindo o compartilhamento da solução na PDPJ-Br;
+(E) reduzir a taxa de congestionamento dos processos e significativa melhora na qualidade dos serviços prestados.
+
+[GABARITO]
+A

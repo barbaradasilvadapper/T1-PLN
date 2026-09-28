@@ -1,0 +1,18 @@
+ID: 29-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Na computação em nuvem, o modelo de serviço no qual o cliente se utiliza de aplicações, como browser, para acessar os servidores, e todo o controle e gerenciamento do armazenamento é realizado pelo provedor de serviço, é:
+
+[ALTERNATIVAS]
+(A) Infraestrutura como Serviço (IaaS);
+(B) Rede como Serviço (NaaS);
+(C) Software como Serviço (SaaS);
+(D) Plataforma como Serviço (PaaS);
+(E) Comunicação como Serviço (CaaS).
+
+[GABARITO]
+C

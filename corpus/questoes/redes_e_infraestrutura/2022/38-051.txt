@@ -1,0 +1,18 @@
+ID: 38-051
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em relação às ações de hardening de ambiente Linux, analise as afirmativas a seguir. I. AppArmor é um conjunto de patches no kernel do Linux para aprimorar a sua segurança, e não faz uso do framework Linux Security Module (LSM). II. O uso de SELinux aumenta consideravelmente a segurança de um ambiente Linux, mas o ambiente final continua sendo baseado em um sistema de controle discricionário. III. A habilitação do Kernel Page-Table Isolation (KPTI) para hardening do Linux permite a mitigação da exploração das vulnerabilidades conhecidas como Meltdown e Spectre. Está correto somente o que se afirma em:
+
+[ALTERNATIVAS]
+(A) I;
+(B) II;
+(C) III;
+(D) I e II;
+(E) I e III.
+
+[GABARITO]
+C

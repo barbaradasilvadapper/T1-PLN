@@ -1,0 +1,18 @@
+ID: 56-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em um projeto de desenvolvimento de um sistema operacional voltado para aplicações críticas de tempo real, o analista Jony está avaliando diferentes métodos de Comunicação entre Processos (IPC) para garantir a máxima eficiência, confiabilidade e atendimento aos requisitos de tempo real. Considerando os desafios associados a esses sistemas, o método de IPC para sistemas de tempo real escolhido por Jony é:
+
+[ALTERNATIVAS]
+(A) pipes anônimos;
+(B) semáforos;
+(C) filas de mensagens prioritárias;
+(D) memória compartilhada;
+(E) sockets de rede.
+
+[GABARITO]
+C

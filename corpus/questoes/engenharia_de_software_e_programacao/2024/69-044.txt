@@ -1,0 +1,18 @@
+ID: 69-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação ao Kanban, avalie se as afirmativas a seguir são ( ) Kanban é um método para definir, gerenciar e melhorar serviços que entregam trabalhos de conhecimento, tais como serviços profissionais, atividades criativas e design de softwares. ( ) O sistema Kanban utiliza um sistema de fluxo de entregas que limita a quantidade de trabalho em progresso (WiP) usando sinais visuais. ( ) Os quatro planos de uma agenda Kanban são: sustentabilidade, orientação ao serviço, colaboração e sobrevivência.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) F – V – V.
+(C) V – F – F.
+(D) F – F – V.
+(E) V – V – F.
+
+[GABARITO]
+E

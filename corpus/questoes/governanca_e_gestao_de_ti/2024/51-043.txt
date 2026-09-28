@@ -1,0 +1,18 @@
+ID: 51-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A norma ISO/IEC 38500 fornece diretrizes para a governança corporativa de TI, ajudando as organizações a usarem a tecnologia de forma responsável e alinhada aos seus objetivos estratégicos. O princípio que faz parte da norma ISO/IEC 38500 e visa assegurar que a TI atenda às necessidades dos stakeholders, considerando o equilíbrio entre riscos e benefícios é o
+
+[ALTERNATIVAS]
+(A) da responsabilidade.
+(B) da transparência.
+(C) do gerenciamento de mudanças.
+(D) da sustentabilidade.
+(E) da inovação.
+
+[GABARITO]
+A

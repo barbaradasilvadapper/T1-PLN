@@ -1,0 +1,18 @@
+ID: 20-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O acesso ao sistema de Intranet da empresa de tecnologia ADVAND segue rígido processo de controle de acesso lógico. Para isso, os direitos de acesso podem ser determinados sob dois aspectos: cada usuário ou recurso recebe uma permissão (ou capacidade) que, por sua vez, define todos os seus direitos e acesso a outros recursos, e usam-se listas de controle de acesso (ACL-Access Control Lists) para cada recurso, definindo-se, assim, os direitos de acesso de outros recursos ou usuários sobre o recurso associado a essas listas. A função diretamente relacionada a esse controle de acesso lógico é:
+
+[ALTERNATIVAS]
+(A) identificação;
+(B) autenticação;
+(C) monitoramento;
+(D) atribuição;
+(E) gerência.
+
+[GABARITO]
+D

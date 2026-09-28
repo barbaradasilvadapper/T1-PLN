@@ -1,0 +1,18 @@
+ID: 55-066
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Sobre o processo de virtualização de computadores, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) para realizar a virtualização, utiliza-se um software chamado hypervisor, responsável por gerenciar máquinas virtuais e abstrair os recursos de hardware para os sistemas operacionais convidados.
+(B) o processo de virtualização traz benefícios no tempo de processamento, pois a latência de resposta dos processos virtualizados é menor do que nos sistemas não virtualizados.
+(C) a virtualização traz ganhos econômicos, pois é possível virtualizar diversas cópias de sistemas proprietários, como o Windows ou iOS em máquinas Linux com apenas acesso a uma licença.
+(D) um dos benefícios da virtualização é a escalabilidade, pois ela permite que processadores de diversos servidores distintos sejam usados em um único sistema virtual.
+(E) os containers são sistemas operacionais generalistas virtualizados, que permitem flexibilidade na utilização dos recursos de hardware e facilitam o deployment de soluções.
+
+[GABARITO]
+A

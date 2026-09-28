@@ -1,0 +1,18 @@
+ID: 56-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto de um sistema operacional que suporta execução paralela, o analista Léo é encarregado de otimizar um aplicativo que faz uso intensivo de threads. O aplicativo em questão tem experimentado tempos de resposta inconsistentes, suspeitandose de uma ineficiência na forma como as threads são gerenciadas e escalonadas. Considerando um ambiente com múltiplos núcleos de CPU, para melhorar o desempenho do aplicativo, o analista Léo deve:
+
+[ALTERNATIVAS]
+(A) incrementar o número de threads para igualar o número de núcleos de CPU disponíveis, partindo do princípio de que mais threads resultarão em melhor paralelismo e desempenho;
+(B) implementar um algoritmo de escalonamento de threads baseado em prioridades, onde threads que realizam operações críticas para o desempenho recebem maior prioridade;
+(C) forçar todas as threads a executarem em um único núcleo para evitar a sobrecarga associada à troca de contexto entre diferentes núcleos;
+(D) utilizar um modelo de programação baseado em eventos em vez de threads, eliminando a necessidade de gerenciamento de threads;
+(E) reduzir a prioridade do processo do aplicativo no gerenciador de tarefas do sistema operacional para que outros processos possam ser executados com maior eficiência, partindo do princípio de que isso indiretamente melhorará o desempenho do aplicativo multithreaded ao otimizar o uso geral de recursos do sistema.
+
+[GABARITO]
+B

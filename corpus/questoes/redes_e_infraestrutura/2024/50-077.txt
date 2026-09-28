@@ -1,0 +1,18 @@
+ID: 50-077
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No gerenciamento de redes, a função do protocolo MIB é criar um conjunto de objetos com nomes, tipos e relações entre si para uma entidade a ser gerenciada. Desses objetos, aquele que tem a função de definir as informações sobre a tabela ARP é o
+
+[ALTERNATIVAS]
+(A) sys.
+(B) if.
+(C) at.
+(D) Ip.
+(E) Icmp.
+
+[GABARITO]
+C

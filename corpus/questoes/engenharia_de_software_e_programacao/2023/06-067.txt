@@ -1,0 +1,18 @@
+ID: 06-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Cláudia precisa estimar o custo do novo software para o setor de logística, e utilizou a metodologia de pontos de função para o cálculo dos recursos financeiros necessários. No entanto, ela observou que muitos custos não eram expressos apenas com a análise das funcionalidades do sistema. Para lidar com esses custos ocultos, Cláudia precisará fazer uma análise adicional, com base na metodologia:
+
+[ALTERNATIVAS]
+(A) SNAP;
+(B) WSDL;
+(C) UDDI;
+(D) REST;
+(E) CI/CD.
+
+[GABARITO]
+A

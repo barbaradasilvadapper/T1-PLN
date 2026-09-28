@@ -1,0 +1,18 @@
+ID: 63-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A arquitetura MVC (Model-View-Controller) sugere a divisão de aplicações em três principais grupos de componentes: Models, Views e Controllers, o que ajuda a atingir a separação de interesses. Em relação aos Controllers, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Atua como ponto de entrada inicial, sendo responsável por escolher os Models que serão empregados na execução bem como qual View será renderizada. ( ) Caso a lógica do Controller esteja muito complexa, é recomendável mover lógica de negócios para fora do mesmo, insira-a no modelo de domínio, por exemplo. ( ) Caso um Controller execute com frequência os mesmos tipos de ações, é uma boa prática mover essas ações comuns para filtros.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) V – V – F.
+(C) F – V – F.
+(D) F – F – V.
+(E) V – V – V.
+
+[GABARITO]
+E

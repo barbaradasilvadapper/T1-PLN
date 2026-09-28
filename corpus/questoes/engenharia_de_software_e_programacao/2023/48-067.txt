@@ -1,0 +1,18 @@
+ID: 48-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Lúcia projetou a aplicação TCEPaulista utilizando a abordagem Domain-Driven Design (DDD). Foi definido que cada bounded context de TCEPaulista fosse implementado por uma equipe distinta. Lúcia constatou que o bounded context Patrimonial dependia do bounded context Financeiro e viceversa. A dependência mútua exigiu que as equipes dos contexts Patrimonial e Financeiro interagissem entre si, a fim de alinhar as necessidades de um context em relação ao outro. De acordo com o DDD, o relacionamento entre os bounded contexts Patrimonial e Financeiro é do tipo:
+
+[ALTERNATIVAS]
+(A) conformist;
+(B) partnership;
+(C) shared kernel;
+(D) anti-corruption layer;
+(E) customer and supplier.
+
+[GABARITO]
+B

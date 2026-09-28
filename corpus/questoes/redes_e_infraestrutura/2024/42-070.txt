@@ -1,0 +1,18 @@
+ID: 42-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma equipe de implantação de serviços em nuvem está utilizando o Microsoft Azure para implantar serviços de nuvem para uma empresa pública. No momento, eles estão organizando o que se chama no Azure de Grupo de Recursos, que é um
+
+[ALTERNATIVAS]
+(A) banco de dados que funciona como um repositório distribuído dos serviços configurados pelo Azure.
+(B) um contêiner lógico que associa vários recursos para que possam ser gerenciados como uma única entidade, com base no ciclo de vida e na segurança.
+(C) conjunto de aplicações que automatizam a tomada de decisões dentro dos serviços distribuídos pela plataforma.
+(D) elemento associado aos mecanismos de governança dos dados controlados pela plataforma Azure.
+(E) conjunto de máquinas físicas vistas como uma entidade virtual no sistema do Azure.
+
+[GABARITO]
+B

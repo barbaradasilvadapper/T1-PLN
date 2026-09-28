@@ -1,0 +1,18 @@
+ID: 21-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Na Ciência de Dados é muito comum a utilização da linguagem Python e do R para visualização de dados. Sobre as diferenças entre essas duas ferramentas, analise as afirmativas a seguir. I. Python possui um padrão mais bem definido, permitindo que diferentes tipos de funcionalidades sejam escritos da mesma forma, enquanto no R, a mesma funcionalidade pode ser escrita de diversas formas diferentes. II. Python é principalmente usada quando a análise de dados precisa ser integrada com aplicativos web ou se o código estatístico precisa ser integrado em um servidor em ambiente de produção, que vai servir muitos usuários, enquanto o R é principalmente usado quando as atividades de análise de dados requerem computação standalone (em um único computador) ou análise em servidores individuais. III. Tanto o Python quanto o R foram criados inicialmente para análise de dados.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

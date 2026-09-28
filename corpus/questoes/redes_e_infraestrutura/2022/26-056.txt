@@ -1,0 +1,18 @@
+ID: 26-056
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de suporte de sistemas senado federal
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O serviço de QoS (Quality of Service) utiliza métricas como latência, largura de banda e jitter para avaliar a performance da rede. Sobre elas, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) largura de banda é a única métrica relevante quando desejamos avaliar a qualidade de um serviço de VoIP.
+(B) jitter é uma métrica que mede o percentual de utilização do circuito em relação a largura de banda.
+(C) a latência avalia quanto tempo serviço ficou inacessível.
+(D) enquanto latência avalia o tempo que um determinado pacote leva para ser transmitido, jitter avalia a variação da latência.
+(E) o jitter pode ser calculado como latência dividido pela largura de banda.
+
+[GABARITO]
+D

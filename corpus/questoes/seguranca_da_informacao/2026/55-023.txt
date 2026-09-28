@@ -1,0 +1,18 @@
+ID: 55-023
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No que diz respeito às políticas institucionais de privacidade e ao tratamento de dados pessoais no âmbito do Poder Judiciário, analise as afirmativas a seguir. I. O tratamento de dados pessoais realizado para fins de atividades jurisdicionais é isento de medidas de segurança e conformidade, as quais devem ser aplicadas exclusivamente às atividades administrativas dos tribunais. II. Os tribunais devem designar um Encarregado pelo Tratamento de Dados Pessoais (DPO) para atuar como canal de comunicação entre o órgão, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD). III. No Poder Judiciário, a responsabilidade pela segurança da informação e pela preservação da confidencialidade dos dados é atribuída exclusivamente aos servidores das unidades de Tecnologia da Informação (TI). Está correto o que se afirma, apenas, em
+
+[ALTERNATIVAS]
+(A) I.
+(B) II.
+(C) III.
+(D) I e II.
+(E) II e III.
+
+[GABARITO]
+B

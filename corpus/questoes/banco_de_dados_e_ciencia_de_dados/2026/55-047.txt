@@ -1,0 +1,18 @@
+ID: 55-047
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em um sistema corporativo desenvolvido em Java, a equipe precisa persistir entidades de domínio em um banco de dados relacional, utilizar uma implementação concreta para o Mapeamento Objeto-Relacional, manter histórico das alterações realizadas em determinadas entidades e controlar a evolução do esquema do banco de dados entre os ambientes de desenvolvimento, homologação e produção. Com base nesse cenário, analise as seguintes afirmativas: I. A Java Persistent API (JPA) define uma especificação para persistência objeto-relacional em aplicações Java, permitindo o mapeamento de classes e relacionamentos para estruturas de bancos relacionais. II. O Hibernate pode atuar como implementação da JPA, fornecendo mecanismos concretos de ORM para persistência, consultas e sincronização entre objetos Java e tabelas relacionais. III. O Hibernate Envers é utilizado para controlar migrações versionadas do esquema do banco de dados, enquanto o Flyway registra o histórico das alterações realizadas nas entidades persistentes.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

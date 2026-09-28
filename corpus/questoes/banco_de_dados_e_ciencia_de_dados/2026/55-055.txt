@@ -1,0 +1,18 @@
+ID: 55-055
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Jonas é administrador de banco de dados do Tribunal de Justiça de Santa Catarina. Em sua rotina, realiza criação, manipulação e definição de dados por meio de linguagem SQL, atendendo às demandas da equipe de desenvolvimento de sistemas. Em determinada tarefa, verificou que havia criado uma tabela de forma equivocada e que ela não seria mais necessária, inclusive em sua estrutura. Diante disso, para eliminar definitivamente essa tabela, ele deve utilizar o comando
+
+[ALTERNATIVAS]
+(A) TRUNCATE table.
+(B) DELETE table.
+(C) UPDATE table.
+(D) GRANT table.
+(E) DROP table.
+
+[GABARITO]
+E

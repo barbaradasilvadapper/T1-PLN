@@ -1,0 +1,18 @@
+ID: 83-052
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação a Pytorch, assinale V para a afirmativa verdadeira e F para a falsa. I. Trata-se de uma biblioteca de tensores que pode ser utilizada em problemas de aprendizado profundo, podendo utilizar tanto GPU quanto CPU. II. O pacote torch.parallel.gpu é capaz de suportar o processamento paralelo de tensores do tipo multidimensionais dimensionais e CUDA em processadores GPU. III. O pacote torch.distributed.elasticstack é capaz distribuir um script tornando-o elástico e tolerante a falhas em diversos tipos de ambientes distribuídos.
+
+[ALTERNATIVAS]
+(A) F, V e V.
+(B) F, F e V.
+(C) F, V e F.
+(D) V, V e F.
+(E) V, F e F.
+
+[GABARITO]
+E

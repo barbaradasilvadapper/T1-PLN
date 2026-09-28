@@ -1,0 +1,18 @@
+ID: 80-024
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A Gestão por Projetos organiza esforços temporários para atingir objetivos definidos, com uso de metodologias e ferramentas que garantem planejamento, execução, controle e encerramento alinhados às metas organizacionais. Assinale a opção que apresenta, corretamente, o documento que sintetiza as condições e os parâmetros-chave para o projeto e estabelece a estrutura para o desenvolvimento de um plano-base para a sua realização.
+
+[ALTERNATIVAS]
+(A) Síntese de plano-base.
+(B) Pedido de proposta de cliente.
+(C) Termo de abertura.
+(D) Escopo do projeto.
+(E) Termo de encerramento.
+
+[GABARITO]
+C

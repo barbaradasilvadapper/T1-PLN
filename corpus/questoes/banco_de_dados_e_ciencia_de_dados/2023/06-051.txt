@@ -1,0 +1,18 @@
+ID: 06-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere uma tabela relacional criada a partir do script SQL a seguir. create table xpto ( a int primary key, b int not null, c int not null, d int not null) De acordo com as formas normais das tabelas relacionais, o conjunto de dependências funcionais que deve necessariamente ser verificado é:
+
+[ALTERNATIVAS]
+(A) a -> b, a -> c, a -> d;
+(B) a -> b, b -> c, c -> d;
+(C) a -> b, c, d;
+(D) b -> a, c -> a, d -> a;
+(E) b, c, d -> a.
+
+[GABARITO]
+A

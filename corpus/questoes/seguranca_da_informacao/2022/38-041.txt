@@ -1,0 +1,18 @@
+ID: 38-041
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Ameaças persistentes avançadas (APT) utilizam múltiplos vetores de ataque em explorações personalizadas e complexas. A principal característica desse tipo de ameaça é a persistência de forma oculta por um longo período de tempo, com o objetivo de exfiltrar dados ou conduzir interrupção sustentada das operações de negócios de um alvo. Pode ser considerada uma técnica de persistência:
+
+[ALTERNATIVAS]
+(A) Criar uma conta;
+(B) Alternate Data Streams (ADS);
+(C) Exploit;
+(D) Program packing;
+(E) Codificação de dados.
+
+[GABARITO]
+A

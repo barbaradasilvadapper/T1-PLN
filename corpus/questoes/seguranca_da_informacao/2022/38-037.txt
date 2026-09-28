@@ -1,0 +1,18 @@
+ID: 38-037
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Carlos recebeu um e-mail que parecia pertencer ao seu banco e, sem perceber, baixou e instalou um software malicioso no seu computador. A partir desse software, um criminoso cibernético passou a ter o controle do computador de Carlos. O software malicioso instalado no computador de Carlos é:
+
+[ALTERNATIVAS]
+(A) phishing;
+(B) DoS;
+(C) ransomware;
+(D) rootkit;
+(E) sandbox.
+
+[GABARITO]
+D

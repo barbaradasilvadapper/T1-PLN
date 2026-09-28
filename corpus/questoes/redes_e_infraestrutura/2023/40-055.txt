@@ -1,0 +1,18 @@
+ID: 40-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A internet só é possível porque todos os seus participantes concordam em seguir um conjunto comum de padrões tecnológicos. É importante lembrar que a internet é construída sobre a infraestrutura de telecomunicações tradicional, a mesma infraestrutura que é usada para telefonia, rádio e TV. Nesse contexto, a respeito do IPv6, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) possui 4.294.967.296 endereços;
+(B) a Network Address Translation (NAT) foi criada para resolver o esgotamento dos seus endereços;
+(C) realiza a fragmentação e remontagem dos pacotes apenas na origem e no destino;
+(D) é compatível com o IPv4 e eles podem interoperar diretamente;
+(E) possui 132 bits para endereçamento.
+
+[GABARITO]
+C

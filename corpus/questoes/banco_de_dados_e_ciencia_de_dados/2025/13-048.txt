@@ -1,0 +1,18 @@
+ID: 13-048
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe o resultado da execução dos seguintes comandos do MongoDB Shell. > use MPU2025 > switched to db MPU2025 > db.getCollectionNames(); < [ 'Processos' ] > db["Processos"].find(); <{ _id: '676850ada9ec96543d3001c2', processo_numero: '0001', situacao: 'Ativo', partes: { autor: ['Maria'], reu: [ 'Pedro', 'Ivo"' ] }, } { _id: '67685117a9ec96543d3001c5', processo_numero: '0002', partes: { autor: ['Maria'], reu: ['Joana'] }, } Para listar apenas os processos que possuem dois réus, deve-se executar o comando:
+
+[ALTERNATIVAS]
+(A) 'Processos'.filter(toArray({reu=2}));
+(B) db.collection.count({"partes.reu",2});
+(C) MPU2025.Processos.dataSize("partes.reu"$2);
+(D) db["Processos"].find({"partes.reu":{$size:2}});
+(E) db.Processos.countDocuments({"partes.reu":"2"});
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 04-028
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe as classes programação Java. abaixo descritas na linguagem de public class DocumentoProcesso extends Object { private String docNumero; private int classificacao; public DocumentoProcesso (String docNumero, int classificacao){ if (classificacao < 1) throw new IllegalArgumentException ( "A classificação do documento deve ser no mínimo 1."); this.docNumero = docNumero; this.classificacao = classificacao; } public String getDocNumero() { return docNumero; } public int getClassificacao() { return classificacao; } public void setDocNumero(String docNumero) { this.docNumero = docNumero; } public void setClassificacao(int classificacao) { this.classificacao = classificacao; } public int promove() { return classificacao + 1; } } public class Oficio extends DocumentoProcesso { private int precedencia; public Oficio (String docNumero, int classificacao, int precedencia) { super(docNumero,classificacao); this.precedencia = precedencia; } public int getPrecedencia() { return precedencia; } public void setPrecedencia(int precedencia) { this.precedencia = precedencia; } @Override public int promove() { return precedencia + 1; } } Com base nos conceitos de orientação a objetos, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) os atributos private de DocumentoProcesso são acessíveis por Oficio ;
+(B) a anotação @Override indica que o método promove() é abstrato e polimórfico;
+(C) a classe Oficio representa uma herança múltipla das classes DocumentoProcesso e Object ;
+(D) a classe Oficio é composta pela classe DocumentoProcesso , permitindo que uma instância da classe Oficio faça referências a instâncias da classe DocumentoProcesso ;
+(E) os métodos getDocNumero() e setDocNumero() da classe DocumentoProcesso encapsulam o atributo docNumero e asseguram que os objetos da classe mantenham estados consistentes. – Página 8 Tipo
+
+[GABARITO]
+E

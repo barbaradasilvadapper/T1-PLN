@@ -1,0 +1,18 @@
+ID: 69-076
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Para interagir com o sistema operacional, por linha de comandos, podem ser utilizados os comandos do MS-DOS. Relacione os comandos com seus respectivos empregos: 1. Chkdsk 2. Fdisk 3. Scandisk 4. Format ( ) Usado para iniciar o programa de reparo de disco. ( ) Usado para formatar uma unidade no sistema de arquivos especificado. ( ) Utilizado para identificar e corrigir certos erros do disco rígido. ( ) Usado para criar, gerenciar e excluir partições de disco rígido. apresentada.
+
+[ALTERNATIVAS]
+(A) 3 – 2 – 1 – 4.
+(B) 1 – 4 – 3 – 2.
+(C) 2 – 1 – 4 – 3.
+(D) 3 – 4 – 1 – 2.
+(E) 4 – 3 – 2 – 1.
+
+[GABARITO]
+D

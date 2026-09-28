@@ -1,0 +1,18 @@
+ID: 57-030
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O analista André foi contratado para aprimorar os protocolos de segurança de uma organização. Ele está ciente de que a eficácia do sistema de segurança depende crucialmente da correta implementação e compreensão dos mecanismos de autenticação e autorização. Nesse contexto, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) a importância da autenticação reside em assegurar que os usuários acessem exclusivamente os recursos que lhes são explicitamente permitidos;
+(B) a autorização é caracterizada por elementos que apenas os usuários possuem e conhecem, podendo ser implementada através de diversas metodologias;
+(C) a expressão "algo que você tem" é aplicável a elementos como senhas, PINs e respostas para perguntas de segurança;
+(D) o foco da autenticação está em confirmar a identidade alegada pelo usuário, assegurando que ele é, de fato, quem diz ser;
+(E) o objetivo da autenticação é definir as permissões e atividades acessíveis ao usuário após sua identidade ser confirmada.
+
+[GABARITO]
+D

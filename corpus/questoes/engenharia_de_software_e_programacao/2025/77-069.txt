@@ -1,0 +1,18 @@
+ID: 77-069
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Ao realizar uma revisão de código no sistema de protocolo, o Analista de Programação identificou vários trechos de código que repetem a lógica de validação de CPF/CNPJ em diferentes classes. Ele sugere a refatoração para colocar essa lógica em uma classe utilitária única. Assinale qual princípio de desenvolvimento e reuso que a refatoração proposta visa satisfazer.
+
+[ALTERNATIVAS]
+(A) KISS.
+(B) DRY.
+(C) YAGNI.
+(D) OCP.
+(E) DIP.
+
+[GABARITO]
+B

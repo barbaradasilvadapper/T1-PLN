@@ -1,0 +1,18 @@
+ID: 88-036
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Na arquitetura TCP/IP, o mecanismo de mapeamento dinâmico do endereço IP em endereço físico é desempenhado pelo protocolo
+
+[ALTERNATIVAS]
+(A) ARP.
+(B) ICMP.
+(C) IMAP.
+(D) MAC.
+(E) RIP.
+
+[GABARITO]
+A

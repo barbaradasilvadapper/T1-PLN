@@ -1,0 +1,18 @@
+ID: 60-030
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um novo datacenter está sendo construído para hospedar os sistemas de um órgão, cujos requisitos de operação se baseiam na classificação Tier do Uptime Institute. O novo datacenter contará com redundâncias de refrigeração, UPS, gerador, tanque de reabastecimento dos geradores, equipamentos de conectividade, entrada de energia elétrica e servidores com fontes redundantes, para assegurar uma manutenção simultânea e sem risco de parada. As redundâncias não serão suficientes para tornar o datacenter tolerante a falhas. A classificação Tier estabelecida para o novo datacenter é:
+
+[ALTERNATIVAS]
+(A) I;
+(B) II;
+(C) III;
+(D) IV;
+(E) V.
+
+[GABARITO]
+C

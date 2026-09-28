@@ -1,0 +1,18 @@
+ID: 11-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando a aplicação de metodologias ágeis a projetos de desenvolvimento de software, analise as afirmativas a seguir. I. Documentação abrangente mais que software em funcionamento é um dos valores propostos pelo manifesto ágil. II. A limitação do número de tarefas em execução, conhecida como WIP (Work In Progress), favorece um ritmo sustentável para a equipe de desenvolvimento sem impedir o fluxo de trabalho. III. O tempo transcorrido desde o momento em que uma tarefa entra em um quadro Kanban até ser finalizada é conhecido como lead time.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+E

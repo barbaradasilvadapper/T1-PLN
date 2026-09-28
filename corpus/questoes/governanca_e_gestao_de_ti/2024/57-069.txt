@@ -1,0 +1,18 @@
+ID: 57-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Amanda é funcionária da Comissão de Valores Mobiliários (CVM) e está criando um novo produto por ordem da chefia. A CVM preconiza a utilização do ITIL V4 em seus projetos. Amanda notou que, dentro da prática de gerenciamento de serviços, precisava efetuar o gerenciamento do catálogo de serviços. Dentre as atividades das práticas existentes, Amanda deverá:
+
+[ALTERNATIVAS]
+(A) garantir que informações precisas e confiáveis sobre a configuração de serviços estejam disponíveis quando e onde forem necessárias;
+(B) assegurar que a disponibilidade e o desempenho de um serviço sejam mantidos em níveis suficientes no caso de um desastre;
+(C) definir metas claras de negócios para níveis de serviço e garantir que a entrega de serviços seja avaliada, monitorada e gerenciada adequadamente em relação a essas metas;
+(D) oferecer suporte à qualidade acordada de um serviço, manipulando todas as requisições de serviço predefinidas e iniciadas pelo usuário de maneira eficaz e amigável;
+(E) fornecer uma única fonte de informações consistentes sobre todos os serviços e ofertas de serviços e garantir que eles estejam disponíveis para o público relevante.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 28-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Eduardo recebeu um documento assinado digitalmente por seu chefe, Fábio, e, ao abri-lo, notou que Fábio havia assinado uma versão anterior do documento. Ao devolver o documento a Fábio, este alegou não ter enviado a versão errada do documento. Contudo, o fato de haver nele a assinatura digital de Fábio permite que Eduardo tenha certeza de que foi o chefe que o enviou, assegurando o princípio da:
+
+[ALTERNATIVAS]
+(A) confidencialidade;
+(B) disponibilidade;
+(C) integridade;
+(D) irretratabilidade;
+(E) responsabilidade.
+
+[GABARITO]
+D

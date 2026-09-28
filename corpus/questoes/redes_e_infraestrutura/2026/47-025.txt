@@ -1,0 +1,18 @@
+ID: 47-025
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação aos conceitos de topologias de redes de computadores e seus equipamentos, analise os itens a seguir. I. O switch é o elemento responsável pela escolha de caminhos do tráfego de dados em redes WAN. II. Em redes LAN, o switch encaminha dados com base em endereços IP. III. O roteador é um dispositivo que interconecta LAN e WAN. Analise as afirmativas a seguir.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+C

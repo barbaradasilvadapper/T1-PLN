@@ -1,0 +1,18 @@
+ID: 42-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma empresa, ao aplicar o modelo STRIDE para identificar os pontos cegos de ameaça e segurança da sua rede, verificou que precisava tratar de arquivos de log para auxiliar no reconhecimento de alterações não autorizadas em dados importantes. Nesse caso, essa aplicação do modelo STRIDE auxiliou na área do modelo identificada como
+
+[ALTERNATIVAS]
+(A) adulteração.
+(B) repudio.
+(C) divulgação de informação.
+(D) elevação de privilégio.
+(E) negação de serviço.
+
+[GABARITO]
+A

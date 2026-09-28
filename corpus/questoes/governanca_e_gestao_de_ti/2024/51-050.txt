@@ -1,0 +1,18 @@
+ID: 51-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A ITIL (Information Technology Infrastructure Library) define um conjunto de práticas para o gerenciamento de serviços de TI, orientando organizações na entrega de valor aos clientes. O propósito da prática de “Gerenciamento de Incidentes” na versão mais recente do ITIL é
+
+[ALTERNATIVAS]
+(A) proteger a organização contra ameaças de segurança, garantindo a integridade e confidencialidade dos dados.
+(B) identificar e corrigir falhas na infraestrutura de TI antes que afetem os usuários finais.
+(C) analisar causas de problemas recorrentes para reduzir a frequência de incidentes e melhorar a experiência do usuário.
+(D) minimizar o impacto negativo de interrupções, restaurando a operação normal de serviço o mais rápido possível.
+(E) planejar e implementar mudanças nos serviços de TI de forma estruturada e com o mínimo de interrupções.
+
+[GABARITO]
+D

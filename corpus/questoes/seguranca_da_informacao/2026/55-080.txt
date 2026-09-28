@@ -1,0 +1,18 @@
+ID: 55-080
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considerando os atos normativos do Conselho Nacional de Justiça (CNJ) relacionados à governança, à segurança cibernética e à transformação digital do Poder Judiciário, assinale a opção correta.
+
+[ALTERNATIVAS]
+(A) A Resolução nº 335/2020 do CNJ institui a Estratégia Nacional de Segurança Cibernética do Poder Judiciário.
+(B) A Resolução nº 396/2021 do CNJ estabelece uma política pública para a governança e a gestão de processo judicial eletrônico.
+(C) A Portaria 252/2020 dispõe sobre o Modelo de Governança e Gestão da Plataforma Digital do Poder Judiciário (PDPJ-Br).
+(D) A Portaria nº 257/2022, em seu inciso II do Art. 1º, define a linguagem de programação Python para a arquitetura de desenvolvimento da Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br).
+(E) A Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) restringe sua atuação ao desenvolvimento de soluções internas dos tribunais, sem contemplar requisitos relacionados à computação em nuvem, interoperabilidade e autenticação uniformizada.
+
+[GABARITO]
+C

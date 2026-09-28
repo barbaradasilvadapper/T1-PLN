@@ -1,0 +1,18 @@
+ID: 75-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Contas de redes sociais são valiosas para atacantes, que tentam invadi-las e usá-las para espalhar malware e aplicar golpes na rede de contatos. Uma estratégia que vem sendo aplicada por grandes corporações é a verificação em duas etapas. São exemplos de softwares e dispositivos para autenticação com segundo fator: Authy, Google Authenticator e Yubikey. Com relação à demanda de cuidados no uso da tecnologia de verificação em duas etapas, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Os dados usados na verificação da identidade devem ser atualizados frequentemente, em especial o número principal do telefone celular para recebimento de códigos de verificação e os cadastros alternativos, como e-mails e números de telefone adicionais. ( ) Em caso de extravio de dispositivo cadastrado como confiável é contraindicada a imediata exclusão do equipamento nos serviços em que estiver configurado, devendo ser reportado a perda dos mecanismos de autenticação ao portal administrador do sistema, aguardando a apuração para efetivar a exclusão do equipamento nos serviços. ( ) Em caso de perda da chave de segurança física ela deve ser revogada e o serviço onde ela é usada deve ser notificado imediatamente, e em caso de perda ou desconfiança de acesso não autorizado, devem ser gerados novamente os códigos de backup.
+
+[ALTERNATIVAS]
+(A) F – F – V.
+(B) V – F – F.
+(C) V – F – V.
+(D) F – V – V.
+(E) V – V – V.
+
+[GABARITO]
+C

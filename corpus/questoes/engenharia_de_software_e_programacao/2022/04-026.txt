@@ -1,0 +1,18 @@
+ID: 04-026
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Júlio está desenvolvendo uma aplicação e precisa implementar um mecanismo de desfazer/refazer de um editor de texto utilizando o algoritmo LIFO (Last In, First Out). Para implementar o algoritmo LIFO, Júlio deve usar a estrutura de dados:
+
+[ALTERNATIVAS]
+(A) fila;
+(B) pilha;
+(C) árvore;
+(D) nó folha;
+(E) tabela hash.
+
+[GABARITO]
+B

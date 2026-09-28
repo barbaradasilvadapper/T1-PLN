@@ -1,0 +1,18 @@
+ID: 35-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Existem várias formas de configurar e otimizar as estruturas de bancos de dados no MySQL 9.0. O limite rígido, número máximo, de colunas por tabela suportado é igual a
+
+[ALTERNATIVAS]
+(A) 256.
+(B) 512.
+(C) 1.024.
+(D) 4.096.
+(E) 8.192.
+
+[GABARITO]
+D

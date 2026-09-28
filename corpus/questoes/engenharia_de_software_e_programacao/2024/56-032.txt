@@ -1,0 +1,18 @@
+ID: 56-032
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O formato JSON é utilizado, por padrão, para a transmissão de dados nos Web Services REST. Nesse sentido ele é diferente do SOAP, que utiliza o formato XML. Observe o trecho XML a seguir. <usuario> <codigo>101</codigo> <nome>Ana Maria</nome> <setores> <setor>Financeiro</setor> <setor>Comercial</setor> </setores> </usuario> A representação da mesma entidade no formato JSON seria:
+
+[ALTERNATIVAS]
+(A) {"usuario": 101, "Ana Maria"; "setores": "Financeiro", "Comercial"}
+(B) ["codigo": 101,"nome": "Ana Maria", "setor": "Financeiro", "setor": "Comercial"]
+(C) {"codigo": 101,"nome": "Ana Maria", "setores": ["Financeiro", "Comercial"]}
+(D) [{"codigo": "101","nome": "Ana Maria"}, {"setores": ["Financeiro", "Comercial"]}]
+(E) {"codigo": "101","nome": "Ana Maria", "setores": {"Financeiro", "Comercial"}}
+
+[GABARITO]
+C

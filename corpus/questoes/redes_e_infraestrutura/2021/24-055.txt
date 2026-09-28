@@ -1,0 +1,18 @@
+ID: 24-055
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O sistema de arquivos primário para versões recentes do Windows Server e Windows 10 é conhecido pela sigla:
+
+[ALTERNATIVAS]
+(A) FAT64;
+(B) HPFS;
+(C) NT;
+(D) NTFS;
+(E) POSIX.
+
+[GABARITO]
+D

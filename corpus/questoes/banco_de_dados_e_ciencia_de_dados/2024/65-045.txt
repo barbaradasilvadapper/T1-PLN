@@ -1,0 +1,18 @@
+ID: 65-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A Prefeitura de Nova Esperança planeja criar um sistema de gestão para aumentar a eficiência dos serviços e a interação cidadã. Ele precisa se aproveitar de um sistema de bancos de dados legado. E as regras fiscais serão projetadas futuramente pelos especialistas e legisladores. Sobre a hipótese apresentada, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Uma arquitetura de três camadas, permitindo integração imediata com o banco de dados e suportar adição futura das regras dos legisladores.
+(B) Uma arquitetura de três camadas em que a camada central irá interagir com o sistema de banco de dados legado e a primeira camada irá incorporar as regras fiscais.
+(C) Uma arquitetura de duas camadas, sendo a primeira para a nova interface com o usuário e a segunda para interagir com o banco de dados legado.
+(D) Uma arquitetura monolítica de microsserviços para compensar a perda de performance para acesso aos bancos de dados legados.
+(E) Uma arquitetura Web distribuída de 3 camadas em que a última camada irá disponibilizar a interface com o usuário, a segunda constará as regras de negócio e a primeira camada, a de apresentação, irá interagir com os bancos de dados legados.
+
+[GABARITO]
+A

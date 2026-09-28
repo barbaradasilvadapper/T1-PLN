@@ -1,0 +1,18 @@
+ID: 58-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto de padrões e normativas para sistemas de cabeamento estruturado e infraestrutura de redes, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O padrão TIA/EIA-568-A é exclusivamente empregado na confecção de cabos crossover, ao passo que o padrão TIA/EIA-568-B é restrito à criação de cabos diretos.
+(B) A adoção de padrões distintos em cada extremidade do cabo resulta na formação de um cabo direto.
+(C) Cabos criados com o padrão TIA/EIA 568A em uma extremidade e, TIA/EIA 568B, na outra, são conhecidos como cabos crossover.
+(D) As duas normas são totalmente incompatíveis entre si, e a utilização de uma em uma extremidade do cabo e a outra na extremidade oposta resultará em falha de comunicação em todos os casos.
+(E) A norma TIA/EIA-568-A é exclusivamente adotada na Europa, enquanto a norma TIA/EIA-568-B é licenciada para uso no território brasileiro.
+
+[GABARITO]
+C

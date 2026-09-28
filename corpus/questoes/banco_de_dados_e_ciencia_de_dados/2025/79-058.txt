@@ -1,0 +1,18 @@
+ID: 79-058
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista Pedro foi incumbido de aumentar a capacidade de processamento para o treinamento de redes neurais profundas (RNP) no MPU. Ele concluiu serem necessárias mais unidades de processamento (UP) com pleno suporte a números de ponto flutuante de 64 bits, após verificar que os modelos de RNP usados pelo MPU apresentam respostas melhores se treinados com esse nível de precisão numérica. O analista também foi avisado de que deve adquirir dois tipos diferentes de UP, a fim de aumentar a heterogeneidade do parque de máquinas. Assim, Pedro deve adquirir para o MPU mais:
+
+[ALTERNATIVAS]
+(A) tensor processing units e neural processing units;
+(B) central processing units e neural processing units;
+(C) tensor processing units e graphics processing units;
+(D) graphics processing units e neural processing units;
+(E) central processing units e graphics processing units.
+
+[GABARITO]
+E

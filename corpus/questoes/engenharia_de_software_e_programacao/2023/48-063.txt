@@ -1,0 +1,18 @@
+ID: 48-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Jéssica administra o Gitlab do TCE SP. Jéssica atribuiu ao projeto TCEMóvel a estratégia de merge na qual, após feito o merge, o hash do último commit do branch de destino torna-se idêntico ao hash do último commit do branch de origem. A estratégia escolhida por Jéssica visa preservar a quantidade e a linearidade do histórico de commits, exigindo, porém, que o branch de origem esteja atualizado em relação ao destino para a efetuação do merge. Jéssica atribuiu para o TCEMóvel a estratégia de merge:
+
+[ALTERNATIVAS]
+(A) merge commit;
+(B) three-way merge;
+(C) squash and merge;
+(D) fast-forward merge;
+(E) semi-linear merge commit.
+
+[GABARITO]
+D

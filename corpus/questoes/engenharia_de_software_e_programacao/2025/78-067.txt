@@ -1,0 +1,18 @@
+ID: 78-067
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Na programação orientada a objetos, princípios fundamentais desempenham um papel específico na construção de software modular, reutilizável e de fácil manutenção. Com base no exposto, o princípio que permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma interface comum é
+
+[ALTERNATIVAS]
+(A) encapsulamento.
+(B) polimorfismo.
+(C) composição.
+(D) abstração.
+(E) herança.
+
+[GABARITO]
+B

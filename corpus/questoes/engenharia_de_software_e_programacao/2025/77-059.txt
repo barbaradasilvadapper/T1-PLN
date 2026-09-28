@@ -1,0 +1,18 @@
+ID: 77-059
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Sistemas precisa projetar um módulo de cálculo de impostos para a Receita Federal onde o algoritmo de cálculo ICMS, ISS e IPI muda frequentemente, dependendo do estado ou do tipo de produto. O código deve ser flexível para aceitar novos algoritmos de cálculo sem modificar a classe principal de checkout. Assinale o Padrão de Projeto Comportamental que deve ser utilizado para definir uma família de algoritmos, encapsular cada um e torná-los intercambiáveis, permitindo que o cliente use o algoritmo de forma transparente.
+
+[ALTERNATIVAS]
+(A) Factory Method.
+(B) Singleton.
+(C) Observer.
+(D) Adapter.
+(E) Strategy.
+
+[GABARITO]
+E

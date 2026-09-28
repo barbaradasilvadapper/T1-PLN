@@ -1,0 +1,18 @@
+ID: 77-076
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Programação está realizando a Validação de Requisitos para o sistema de e-Protocolo. Ele decide utilizar a técnica que envolve a leitura do documento de requisitos, linha por linha, por um grupo de stakeholders e especialistas, para encontrar ambigüidades, omissões ou erros. Esta técnica de Validação de Requisitos é conhecida como:
+
+[ALTERNATIVAS]
+(A) Teste de Usabilidade (User Testing).
+(B) Prototipagem Evolutiva.
+(C) Geração de Testes de Aceitação.
+(D) Revisão Formal ou Inspeção (Walkthrough).
+(E) Análise de Risco.
+
+[GABARITO]
+D

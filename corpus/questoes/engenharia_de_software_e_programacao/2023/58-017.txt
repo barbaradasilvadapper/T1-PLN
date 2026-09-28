@@ -1,0 +1,18 @@
+ID: 58-017
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Padrões GRASP comunicam princípios fundamentais de atribuição de responsabilidades em um projeto orientado a objetos e oferecem soluções idiomáticas que guiam os projetistas na criação de software. De acordo com esses padrões, um princípio fundamental, segundo o qual as responsabilidades são atribuídas em projetos orientado a objetos, é
+
+[ALTERNATIVAS]
+(A) atribuir responsabilidade de maneira que o acoplamento entre classes permaneça forte.
+(B) atribuir responsabilidade à classe que tem a informação necessária para satisfazer a responsabilidade.
+(C) atribuir responsabilidades de forma que a coesão das classes permanece baixa.
+(D) atribuir a responsabilidade do tratamento dos eventos de sistema de um mesmo caso de uso a múltiplas classes.
+(E) atribuir um conjunto de responsabilidades sem coesão a uma classe artificial para permitir a reutilização.
+
+[GABARITO]
+B

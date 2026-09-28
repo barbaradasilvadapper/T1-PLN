@@ -1,0 +1,18 @@
+ID: 02-060
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+SAML (Security Assertion Markup Language) e OAuth 2 são frameworks utilizados para controlar o acesso a aplicações Web. Para controlar o acesso às aplicações:
+
+[ALTERNATIVAS]
+(A) SAML utiliza tokens JWT (JSON Web Token) para autenticação e autorização do acesso;
+(B) OAuth 2 possibilita o uso de refresh tokens para obtenção de novos access tokens;
+(C) SAML e OAuth 2 requerem o uso do certificado digital do servidor de autorização para gerar tokens;
+(D) SAML e OAuth 2 utilizam provedores de identificação e autorização que geram tokens do tipo JWT (JSON Web Token) Assertion;
+(E) SAML e OAuth 2 requerem o uso do Single Sign-On (SSO) no servidor de autorização.
+
+[GABARITO]
+B

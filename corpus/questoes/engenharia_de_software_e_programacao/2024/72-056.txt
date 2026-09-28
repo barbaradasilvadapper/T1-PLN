@@ -1,0 +1,18 @@
+ID: 72-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Eric foi designado para compatibilizar um antigo projeto de software Java com o recente Spring Boot 3. A versão atual do projeto utiliza Spring Boot 2.1 com Java 8, além de algumas Application Programming Interfaces (APIs) do Java Enterprise Edition (JEE). A fim de atualizar o projeto para o Spring Boot 3 observando estritamente o mínimo necessário, Eric deve atualizar o Java para a versão:
+
+[ALTERNATIVAS]
+(A) 11, mantendo o uso das APIs do Java EE;
+(B) 17, mantendo o uso das APIs do Java EE;
+(C) 21, mantendo o uso das APIs do Java EE;
+(D) 17, migrando o uso das APIs do Java EE para o Jakarta EE;
+(E) 21, migrando o uso das APIs do Java EE para o Jakarta EE.
+
+[GABARITO]
+D

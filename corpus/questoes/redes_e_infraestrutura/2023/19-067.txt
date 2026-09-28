@@ -1,0 +1,18 @@
+ID: 19-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+As propriedades de cada sistema operacional determinam quais são os principais aspectos para a implementação de uma política de escalonamento adequada. A política de escalonamento classificada como preemptiva tem a seguinte característica:
+
+[ALTERNATIVAS]
+(A) sistemas operacionais que implementam escalonamento com preempção são mais simples, contudo, possibilitam políticas de escalonamento menos flexíveis;
+(B) foi a primeira política de escalonamento implementada nos sistemas monoprogramáveis, onde predominava tipicamente o processamento batch;
+(C) quando um processo está em execução, nenhum evento externo pode ocasionar a perda do uso do processador;
+(D) o processo sai do estado de execução caso termine seu processamento ou execute instruções do próprio código que ocasionem uma mudança para o estado de espera;
+(E) o sistema operacional pode interromper um processo em execução e passá-lo para o estado de pronto, com o objetivo de alocar outro processo na UCP.
+
+[GABARITO]
+E

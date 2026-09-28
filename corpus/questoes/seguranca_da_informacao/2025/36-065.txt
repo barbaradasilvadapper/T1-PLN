@@ -1,0 +1,18 @@
+ID: 36-065
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Departamento de Segurança da Informação implementou um sistema de segurança no Ministério Público da União (MPU) para detectar intrusão e vírus em sua rede local. Eles efetuaram o cálculo da função de hash dos arquivos existentes e guardaram-no de forma segura. Caso houvesse dúvida quanto a algum arquivo malicioso, seu hash seria calculado e comparado com o hash arquivado anteriormente. A garantia da integridade dos dados para a aplicação de detecção de intrusão e vírus deverá ser conseguida, no mínimo, pela propriedade de resistência:
+
+[ALTERNATIVAS]
+(A) à segunda pré-imagem somente;
+(B) à primeira pré-imagem somente;
+(C) a nenhuma pré-imagem nem colisões;
+(D) às primeira e segunda pré-imagens além de colisões;
+(E) a colisões somente.
+
+[GABARITO]
+A

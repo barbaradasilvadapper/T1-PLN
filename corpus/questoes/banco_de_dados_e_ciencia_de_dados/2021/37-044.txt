@@ -1,0 +1,18 @@
+ID: 37-044
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Num ambiente Oracle, considere o acionamento de um utilitário por meio do prompt de comando, como exibido a seguir. % rman RMAN> CONNECT TARGET SYS@prod É correto afirmar que o comando disparado refere-se ao(s):
+
+[ALTERNATIVAS]
+(A) acesso aos manuais de utilização do Oracle;
+(B) monitoramento da performance em tempo real;
+(C) critérios para criação de índices para bancos de dados;
+(D) mecanismos para criação de backups e recuperação de bancos de dados;
+(E) procedimentos e facilidades para uso/acesso remoto.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 58-029
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte código em Kotlin: fun main() { val list = listOf(1, 2, 3, 5, 8) val result = list.map { it * 2 }.filter { it > 4 } println(result) } Assinale a opção que indica a saída do terminal após a execução do código acima.
+
+[ALTERNATIVAS]
+(A) [1, 2, 3]
+(B) [5, 8]
+(C) [4, 6, 10]
+(D) [6, 10, 16]
+(E) [8, 12, 20]
+
+[GABARITO]
+D

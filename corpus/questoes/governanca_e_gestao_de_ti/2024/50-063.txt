@@ -1,0 +1,18 @@
+ID: 50-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Quando uma organização busca implementar um Planejamento Estratégico de Tecnologia da Informação (PETI), é essencial considerar o alinhamento estratégico entre a área de TI e os negócios. Marque a ação que garante esse alinhamento e apoia a governança de TI.
+
+[ALTERNATIVAS]
+(A) Implementação de práticas ITIL em comunicação com as equipes de operações de infraestrutura.
+(B) Desenvolvimento de políticas e procedimentos de TI que reflitam as estratégias definidas pelo framework ITIL
+(C) Centralização das decisões de TI usando o framework COBIT combinado com ITIL para as áreas de gestão.
+(D) Reestruturação da equipe de TI em alinhamento com operações e desenvolvimento.
+(E) Integração dos frameworks COBIT e ITIL para estabelecer processos que suportem os objetivos estratégicos de negócios e TI.
+
+[GABARITO]
+E

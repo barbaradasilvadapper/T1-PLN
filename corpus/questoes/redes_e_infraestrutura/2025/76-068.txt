@@ -1,0 +1,18 @@
+ID: 76-068
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Analista de Sistemas da Assembleia deve projetar a infraestrutura de um novo sistema de votação eletrônica, que exige alta escalabilidade, isolamento de ambientes e portabilidade entre o ambiente de desenvolvimento local e a nuvem de produção. Nesse contexto, assinale a afirmativa correto em relação ao papel principal do Kubernetes em relação ao Docker, em uma arquitetura de microsserviços
+
+[ALTERNATIVAS]
+(A) O Kubernetes é uma ferramenta de virtualização que substitui as máquinas virtuais, enquanto o Docker é usado apenas para gestão de storage.
+(B) O Kubernetes é o orquestrador que automatiza a implantação, o escalonamento, o gerenciamento e o balanceamento de carga dos containers Docker em um cluster.
+(C) O Kubernetes é o motor de runtime para execução de containers, sendo um concorrente direto do Docker.
+(D) O Kubernetes é uma ferramenta de Continuous Integration/Continuous Delivery (CI/CD) para automatizar a criação de imagens Docker.
+(E) O Kubernetes é o único responsável pelo isolamento de recursos do sistema operacional, função que o Docker não executa.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 07-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A MEGK é uma indústria farmacêutica com sede na Alemanha e possui uma fábrica no Brasil. A unidade brasileira da MEGK tem estimulado que profissionais de saúde que atuam no território nacional coletem dados pessoais de saúde de pacientes em tratamento com fármacos produzidos na fábrica do Brasil, de modo a apoiar seu centro de pesquisas. Considerando a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), a coleta de dados pessoais de saúde:
+
+[ALTERNATIVAS]
+(A) está sujeita à aplicabilidade da LGPD somente para pacientes brasileiros;
+(B) não é aderente à LGPD pois a indústria farmacêutica tem sede na Alemanha;
+(C) é objeto de aplicação da LGPD visto que a ação de coleta é executada em território nacional;
+(D) está alinhada ao conceito de tutela de saúde, possibilitando seu compartilhamento com outros prestadores de serviços de saúde sem exigir consentimento do paciente;
+(E) não está sujeita à aplicabilidade da LGPD por tratar-se de pesquisa para tratamento de doenças, cujo benefício é maior que a proteção de dados.
+
+[GABARITO]
+C

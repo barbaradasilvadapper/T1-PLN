@@ -1,0 +1,18 @@
+ID: 35-062
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Interfaces físicas são os pontos de conexão em dispositivos de rede utilizados para permitir a comunicação. Estas interfaces estão na camada mais baixa tanto no modelo TCP/IP (Transmission Control Protocol/Internet Protocol) quanto no modelo OSI (Open Systems Interconnection). Com relação às Interfaces físicas, analise os itens a seguir. I. No modelo TCP/IP, a Camada de Acesso à Rede (também conhecida como Camada de Interface de Rede) é equivalente à camada de rede do modelo OSI. II. No modelo OSI, a Camada Física (Camada 1) é responsável pela transmissão de bits através de um meio físico. III. Alguns exemplos de interfaces físicas responsáveis pela transmissão de dados nos meios físicos, podem ser guiados ou não.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+E

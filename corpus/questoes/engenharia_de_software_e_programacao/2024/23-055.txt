@@ -1,0 +1,17 @@
+ID: 23-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A excelência no desenvolvimento de software começa com testes meticulosos, assim como a precisão é crucial em uma obra de arte. Diversas técnicas de teste de software existem, cada uma com propósito e abordagem específicos. Assinale a opção que indica o tipo de teste que assegura que as funcionalidades previamente implementadas não serão afetadas pelas alterações feitas no código.
+
+[ALTERNATIVAS]
+(A) Teste Unitário.
+(B) Teste de Integração.
+(C) Teste de Usabilidade.
+(D) Teste de Regressão.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 22-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Seja o conjunto de dados X apresentado a seguir, em que os atributos “P” e “Q” são preditores, e o atributo “Classe” é o atributo-alvo: Queremos classificar uma nova amostra x=(5.0, 5.0) utilizando o algoritmo clássico dos k vizinhos mais próximos (k-NN), utilizando a distância euclidiana para a determinação de vizinhanças. Com base nesse algoritmo, e considerando os valores aproximados de √2 ≈ 1,414 e √3 ≈ 2,236, o k-NN retorna como categoria de x
+
+[ALTERNATIVAS]
+(A) a classe A para k=2, pois, como houve empate, a escolha aleatória tende para o início de X.
+(B) a classe B para k=1, pois a distância para o ponto (4.0, 5.0) é a menor de todas.
+(C) a classe C para k=1, já que a distância para o ponto (1.0, 1.0) foi eleita por votação.
+(D) a classe D para k=3, pela aplicação do critério da distância ponderada nas três classes empatada.
+(E) a nenhuma classe, já que o algoritmo k-NN não opera em conjuntos com dados categóricos.
+
+[GABARITO]
+B

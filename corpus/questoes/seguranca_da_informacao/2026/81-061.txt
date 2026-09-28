@@ -1,0 +1,18 @@
+ID: 81-061
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Criptografia de chave simétrica (ou, criptografia de chave privada, ou criptografia de chave secreta ou Symmetric Key Encryption ou Symmetric-key cryptography) usa apenas uma chave no processo de criptografia e descriptografia. Existem dois tipos de algoritmos de chave simétrica: Cifra de bloco e Cifra de fluxo. Exemplos de criptografia simétrica correspondem aos algoritmos
+
+[ALTERNATIVAS]
+(A) Advanced Encryption Standard, RSA e Triplo DES.
+(B) RSA, Triplo DES e Blowfish.
+(C) Triplo DES, Data Encryption Standard e ECC.
+(D) Advanced Encryption Standard, RSA e Blowfish.
+(E) Data Encryption Standard, Triplo DES e Blowfish.
+
+[GABARITO]
+E

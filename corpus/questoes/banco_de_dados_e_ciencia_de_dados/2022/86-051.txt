@@ -1,0 +1,18 @@
+ID: 86-051
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com referência à otimização de consultas SQL para bancos de dados relacionais, assinale a opção que apresenta a cláusula que potencialmente pode causar maiores problemas de desempenho, por si só, quando são manipuladas tabelas com grande número de registros.
+
+[ALTERNATIVAS]
+(A) DISTINCT
+(B) EXISTS
+(C) LIKE
+(D) NOT EXISTS
+(E) ORDER BY FGV
+
+[GABARITO]
+C

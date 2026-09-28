@@ -1,0 +1,18 @@
+ID: 93-085
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Relacione os termos da área de segurança para internet às respectivas definições. 1. MALWARE 2. RANSOMWARE 3. SCREENLOGGER 4. STALKERWARE ( ) Código que observa os cliques do mouse e registra a posição do cursor e a tela apresentada no monitor, ou a região que circunda determinada posição. ( ) Código para tornar inacessíveis os dados armazenados no equipamento, geralmente empregando criptografia, e que exige valor de resgate para não divulgar os dados e devolver acesso ao usuário. ( ) Código que realiza a espionagem do dono do equipamento, sendo executado de forma furtiva, não autorizada e sem a ciência da vítima. ( ) Código usado como intermediário para envio de spam, realização de ataques e prática de golpes. Assinale a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 2 – 1 – 4 – 3.
+(B) 3 – 2 – 4 – 1.
+(C) 2 – 3 – 1 – 4.
+(D) 1 – 4 – 2 – 3.
+(E) 4 – 2 – 1 – 3.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 24-051
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um novo sistema de software será desenvolvido na empresa e a especificação desse sistema indica que será utilizada uma arquitetura de microsserviços. Sobre microsserviço, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) equivale a um sistema monolítico modular com um banco de dados decomposto;
+(B) é um serviço dependente de tecnologia;
+(C) expõe as funcionalidades de negócio que encapsula por meio de um ou mais endpoints de rede;
+(D) a troca de dados entre microsserviços é proibida;
+(E) deve ser implantado conjuntamente com os demais microsserviços que compõem o sistema.
+
+[GABARITO]
+C

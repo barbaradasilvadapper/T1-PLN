@@ -1,0 +1,18 @@
+ID: 21-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com o objetivo de atender às necessidades específicas de processamento, acesso e análise de informações, diferentes tecnologias podem ser empregadas para o armazenamento de dados. Nesse contexto, é correto afirmar que Data Warehouses
+
+[ALTERNATIVAS]
+(A) são ideais para armazenar grandes volumes de dados estruturados e não estruturados.
+(B) separam os dados em zonas, de acordo com o nível de processamento, do mais bruto ao mais refinado.
+(C) empregam o método ELT (Extract, Load, Transform) no processo ingestão de dados.
+(D) são ineficazes para a realização de consultas complexas em grandes volumes de dados estruturados.
+(E) são otimizados para a geração de relatórios de dados estruturados, provenientes de diversas fontes.
+
+[GABARITO]
+E

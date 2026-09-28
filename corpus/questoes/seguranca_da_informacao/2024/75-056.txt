@@ -1,0 +1,18 @@
+ID: 75-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O API Security Top 10 da Open Worldwide Application Security Project (OWASP) foi projetado para ajudar os desenvolvedores a entender e lidar com os riscos de segurança mais comuns associados às APIs. Relacione os vetores de ataque da OWASP com a explicação do cenário de ameaças de API relacionado a vulnerabilidade menciona na lista de 2023: 1. Broken Authentication 2. Broken Function Level Authorization 3. Improper Inventory Management 4. Server Side Request Forgery ( ) Invasores podem obter acesso aos recursos e/ou funções administrativas de outros usuários ao explorarem políticas complexas de controle de acesso com diferentes hierarquias, grupos e papéis, bem como sistemas com pouco clara separação entre funções administrativas e regulares. ( ) Falha explorada quando uma API está buscando um recurso remoto sem validar o URI fornecido pelo usuário, resultando em uma falsificação de solicitação permitindo que um invasor force a aplicação a enviar uma solicitação criada para um destino inesperado, mesmo quando protegido por um firewall ou VPN. ( ) Implementações incorretas podem comprometem a capacidade de um sistema de identificar o cliente/usuário, permitindo que os invasores comprometam os tokens de autenticação ou explorem falhas de implementação para assumir as identidades de outros usuários temporária ou permanentemente. ( ) Acessos não autorizados podem ser prevenidos ao focar a segurança na importância de rastrear e gerenciar as superfícies de ataque da organização, em especial realizando o manejo adequado de hosts e manutenção do versionamento atualizado de API implantadas. Assinale a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 3 – 4 – 2 – 1.
+(B) 4 – 2 – 3 – 1.
+(C) 2 – 4 – 1 – 3.
+(D) 1 – 3 – 4 – 2.
+(E) 3 – 1 – 2 – 4.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 34-068
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Na autenticação 802.1x implementada em switches gerenciáveis corporativos, os três componentes principais da arquitetura são
+
+[ALTERNATIVAS]
+(A) Cliente, Servidor DHCP e Gateway.
+(B) Suplicante, Autenticador e Servidor de Autenticação.
+(C) Host, Switch e Roteador.
+(D) Access Point, Controlador e Firewall.
+(E) Endpoint, Proxy e DNS.
+
+[GABARITO]
+B

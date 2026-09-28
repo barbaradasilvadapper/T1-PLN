@@ -1,0 +1,18 @@
+ID: 59-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O modelo OSI (Open Systems Interconnection) estabelece 7 camadas de funções que servem como referência para o desenvolvimento de protocolos para redes de computadores. A camada de enlace, localizada entre a camada física e a camada de rede, tem como atribuição:
+
+[ALTERNATIVAS]
+(A) conhecer a topologia da rede de dados;
+(B) garantir a entrega de pacotes entre a origem e o destino;
+(C) controlar o fluxo de dados e corrigir erros de transmissão;
+(D) realizar a segmentação dos dados a serem transmitidos em pacotes;
+(E) estabelecer e encerrar conexões físicas entre dois pontos da rede de dados.
+
+[GABARITO]
+C

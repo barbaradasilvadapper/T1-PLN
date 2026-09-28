@@ -1,0 +1,18 @@
+ID: 81-064
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considerando os três tipos de assinatura eletrônica (Simples, Avançada e Qualificada), conforme a Lei nº 14.063/2020, identifique adequadamente o tipo de assinatura digital com sua característica:
+
+[ALTERNATIVAS]
+(A) Na assinatura eletrônica simples os dados do usuário podem ser obtidos a partir do preenchimento de um formulário eletrônico, sendo que para que seja válida ela precisa ter sido feita usando um certificado digital emitido por uma autoridade certificadora credenciada pelo Instituto Nacional de Tecnologia da Informação - ITI.
+(B) A assinatura eletrônica avançada confirma a identidade do usuário utilizando algum meio mais seguro, como dados biométricos ou um PIN (Personal Identification Number), sendo que para que seja válida a assinatura eletrônica, onde o documento seja admitido pelas partes como válido ou aceito pela pessoa a quem for oposto o documento, como estando relacionada aos dados a ela associados de tal modo que qualquer modificação posterior seja indetectável.
+(C) A Assinatura eletrônica qualificada comprova a identidade do usuário e a integridade do documento assinado por meio de tecnologia que utiliza chaves criptográficas praticamente invioláveis, sendo que para que seja válida apenas o sistema eletrônico onde ela será usada precisa confirmar a identidade do usuário e demonstrar claramente que ele queria fazer a transação em questão.
+(D) Na assinatura eletrônica qualificada equivale à assinatura feita de próprio punho com reconhecimento de firma em cartório, sendo que para que seja válida, ela precisa ter sido feita usando um certificado digital emitido por uma autoridade certificadora credenciada pelo Instituto Nacional de Tecnologia da Informação - ITI.
+(E) Na assinatura eletrônica simples os dados do usuário podem ser obtidos a partir do preenchimento de um formulário eletrônico e ter também as informações associadas ao IP do dispositivo ou da rede usada para acessar a internet para fazer o cadastro e à localização geográfica do usuário no momento, sendo que para que seja válida ela também precisa ter mecanismo que possibilite detectar se o documento foi alterado depois de ser assinado.
+
+[GABARITO]
+D

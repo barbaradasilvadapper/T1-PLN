@@ -1,0 +1,18 @@
+ID: 79-068
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A utilização de funções de resumo (hash) consiste na aplicação de algoritmos matemáticos que, dada uma entrada de dados de qualquer tamanho, produzem um único valor de tamanho fixo correspondente, com diversos empregos na computação. Em relação ao uso de funções de hash em evidências digitais, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o cálculo de hashes de evidências digitais é fundamental para a preservação da cadeia de custódia, pois permite a verificação de integridade dos dados e a exatidão das cópias;
+(B) o uso de hashes é extremamente útil em procedimentos forenses, pois permite a recuperação dos dados em casos de erros de gravação;
+(C) deve-se priorizar o emprego dos hashes MD5 ou SHA1, pois são seguros e de cálculo mais rápido;
+(D) o uso de hashes permite a busca e identificação de arquivos suspeitos dispensando a necessidade de verificação visual, mesmo no caso de imagens e vídeos;
+(E) no caso de cópias integrais de conteúdos de dispositivos de armazenamento, um único valor de hash total é suficiente, visto que os dispositivos modernos raramente apresentam erros de acesso.
+
+[GABARITO]
+A

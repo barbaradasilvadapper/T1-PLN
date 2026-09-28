@@ -1,0 +1,18 @@
+ID: 83-063
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com relação ao padrão criptográfico AES, assinale V para afirmativa verdadeira e F para a falsa. I. É uma cifra de bloco cujo objetivo é substituir o DES em aplicações comerciais. Usa um tamanho de bloco de 128 bits e um tamanho de chave de 128, 192 ou 256 bits. II. Usa uma estrutura de Feistel a cada rodada completa que consiste em quatro funções distintas: substituição de bytes, permutação, operações aritméticas sobre um corpo finito e operação XOR com uma chave. III. Comparada a cifras de chave pública, como o RSA, a estrutura do AES, e da maioria das cifras simétricas, é muito complexa e não pode ser explicada tão facilmente quanto o RSA e os algoritmos semelhantes.
+
+[ALTERNATIVAS]
+(A) V, V e V.
+(B) V, F e V.
+(C) V, V e F.
+(D) F, F e V.
+(E) F, V e V.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 21-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Leia o fragmento a seguir. Estas propriedades são fundamentais para a estruturação e a modelagem de dados em bancos de dados, permitindo modelar interações significativas entre diferentes entidades. Esse conceito refere-se a
+
+[ALTERNATIVAS]
+(A) atributo.
+(B) chave.
+(C) relacionamento.
+(D) entidade fraca.
+(E) polimorfismo.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 82-048
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O JSON (JavaScript Object Notation) é um formato leve de intercâmbio de dados, baseado em um subconjunto da sintaxe do JavaScript. Sua estrutura simples, composta por pares chave-valor e coleções ordenadas, aliada à independência de linguagem de programação, tornou-o o formato padrão para comunicação entre sistemas em APIs REST, arquivos de configuração e armazenamento de dados semiestruturados. Considere os seguintes trechos no formato JSON: Trecho I: { "nome": "Maria Silva", "idade": 34, "ativo": true, "telefones": [ {"tipo": "celular", "numero": "11999998888"}, {"tipo": "comercial", "numero": "1133334444"} ], "conjuge": null } Trecho II: { nome: "João Santos", "idade": 28, "ativo": true } Considerando a especificação oficial do formato JSON (RFC 8259) e os trechos apresentados, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Ambos os trechos representam documentos JSON válidos, pois a especificação permite que as chaves dos objetos sejam declaradas tanto com aspas duplas quanto sem aspas, desde que não contenham espaços.
+(B) O Trecho I é um documento JSON válido, enquanto o Trecho II é inválido, pois a especificação exige que todas as chaves de objetos sejam obrigatoriamente strings delimitadas por aspas duplas.
+(C) O valor null atribuído à chave "conjuge" no Trecho I torna o documento inválido, pois a especificação JSON não reconhece null como um tipo de dado permitido.
+(D) O array "telefones" no Trecho I é inválido, pois a especificação JSON não permite que arrays contenham objetos como elementos — apenas valores primitivos como strings, números e booleanos são aceitos em arrays.
+(E) O valor true atribuído à chave "ativo" em ambos os trechos é interpretado pelo JSON como a string "true", pois a especificação não possui um tipo de dado booleano nativo, representando valores lógicos exclusivamente como texto.
+
+[GABARITO]
+B

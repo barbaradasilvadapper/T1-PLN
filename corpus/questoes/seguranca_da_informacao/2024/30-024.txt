@@ -1,0 +1,18 @@
+ID: 30-024
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O administrador da rede do TJMS pretende ocultar a seção “Firewall & proteção de rede” de forma que ela não seja exibida na página inicial da “Segurança do Windows” dos computadores com Windows 11. Para isso, o administrador deve alterar a configuração no:
+
+[ALTERNATIVAS]
+(A) Defender Firewall;
+(B) GPMC;
+(C) MSConfig;
+(D) Prompt;
+(E) RegEdit.
+
+[GABARITO]
+B

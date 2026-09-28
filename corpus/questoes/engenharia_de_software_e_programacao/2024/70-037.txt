@@ -1,0 +1,18 @@
+ID: 70-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto de estrutura de dados, um grafo que consiste em um conjunto de vértices e um conjunto de arestas relacionadas entre esses vértices, onde não há nenhum ciclo direcionado, é um
+
+[ALTERNATIVAS]
+(A) grafo acíclico direcionado.
+(B) grafo simples.
+(C) grafo ponderado.
+(D) grafo desconexo.
+(E) grafo cíclico.
+
+[GABARITO]
+A

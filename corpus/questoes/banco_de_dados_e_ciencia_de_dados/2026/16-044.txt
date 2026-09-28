@@ -1,0 +1,18 @@
+ID: 16-044
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em uma repartição há 150 funcionários lotados em 12 departamentos. Cada departamento possui diferentes estruturas funcionais, de modo que os salários dos funcionários oscilam conforme a função exercida. Uma consulta solicitada por meio da Lei de Acesso à Informação (LAI) pede para listar todos os departamentos que possuem uma média salarial superior a R$ 5.000,00 (cinco mil reais). A cláusula SQL que deve ser utilizada para filtrar esse resultado após o agrupamento dos dados é a
+
+[ALTERNATIVAS]
+(A) WHERE
+(B) HAVING
+(C) GROUP BY
+(D) ORDER BY
+(E) GROUP FILTER
+
+[GABARITO]
+B

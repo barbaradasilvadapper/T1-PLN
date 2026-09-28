@@ -1,0 +1,18 @@
+ID: 14-068
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+PWA são aplicativos que usam tecnologias web e que podem ser instalados e executados em todos os dispositivos. Com relação aos principais benefícios do PWA, analise os itens a seguir. I. Têm um custo de desenvolvimento multiplataforma menor do que os aplicativos compilados que exigem uma base de código específica e separada para cada plataforma, como por exemplo Android, iOS e cada sistema operacional de desktop. II. São criados usando código HTML, CSS e JavaScript hospedados em servidores da Web e executados em mecanismos de navegador da Web. Podem ser usados diretamente em um navegador, como um site, ou instalados em um dispositivo de uma loja de aplicativos ou usando o recurso de instalação de aplicativo de um navegador compatível. III. PWA também têm acesso a capacidades avançadas. Por exemplo, eles podem continuar funcionando quando o dispositivo estiver offline. Oferecem suporte a notificações push; podem executar atualizações periódicas mesmo quando o aplicativo não está em execução e podem acessar recursos de hardware. Está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

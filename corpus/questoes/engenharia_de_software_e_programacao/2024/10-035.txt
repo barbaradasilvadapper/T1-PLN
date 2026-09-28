@@ -1,0 +1,18 @@
+ID: 10-035
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No framework Spring MVC, o tipo de bean especial no WebApplicationContext que tem o objetivo de auxiliar o DispatcherServlet a invocar um manipulador mapeado para uma solicitação é o:
+
+[ALTERNATIVAS]
+(A) FlashMapManager;
+(B) HandlerAdapter;
+(C) HandlerMapping;
+(D) LocaleResolver;
+(E) MultipartResolver.
+
+[GABARITO]
+B

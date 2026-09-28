@@ -1,0 +1,18 @@
+ID: 58-057
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Kibana Query Language (KQL) é uma linguagem de consulta simples baseada em texto para filtrar dados. De acordo com essa linguagem, para encontrar os documentos que possuem um campo http.request.method com valor diferente de GET, deve ser utilizada a seguinte sintaxe:
+
+[ALTERNATIVAS]
+(A) NOT http.request.method: GET
+(B) http.request.method <> 'GET'
+(C) http.request.method != GET
+(D) ! http.request.method: GET
+(E) http.request.method NOT “GET”
+
+[GABARITO]
+A

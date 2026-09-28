@@ -1,0 +1,18 @@
+ID: 11-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Modelo de Requisitos para Sistemas Informatizados de Gestão de Processos e Documentos do Poder Judiciário (MoReq-Jus), em sua 2ª edição, foi elaborado com o objetivo de especificar requisitos funcionais e não funcionais aos quais devem aderir os sistemas informatizados de gestão de processos e documentos utilizados em atividades judiciais e administrativas dos órgãos integrantes do Poder Judiciário. Selecione a opção que contém um exemplo de requisito não funcional especificado pelo MoReq-Jus.
+
+[ALTERNATIVAS]
+(A) Classificar todos os documentos de acordo com o Plano de Classificação.
+(B) Interoperar com outros sistemas, permitindo a importação e exportação de documentos.
+(C) Permitir avaliação periódica dos direitos de acesso dos usuários do sistema.
+(D) Registrar a tramitação de todos os documentos no processo.
+(E) Impedir a eliminação de documentos definidos como de guarda permanente pela política de gestão documental.
+
+[GABARITO]
+B

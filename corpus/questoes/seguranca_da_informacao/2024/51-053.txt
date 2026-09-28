@@ -1,0 +1,18 @@
+ID: 51-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A ISO/IEC 27001 é uma norma internacional que estabelece diretrizes para um Sistema de Gestão da Segurança da Informação (SGSI). O principal objetivo da implementação de um SGSI, segundo a ISO/IEC 27001, é
+
+[ALTERNATIVAS]
+(A) gerenciar exclusivamente os riscos financeiros da empresa.
+(B) garantir que os dados estejam sempre disponíveis para todos os colaboradores.
+(C) certificar que todos os processos da empresa sejam automatizados.
+(D) proteger a confidencialidade, integridade e disponibilidade das informações.
+(E) assegurar que apenas softwares certificados sejam utilizados na empresa.
+
+[GABARITO]
+D

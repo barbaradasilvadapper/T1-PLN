@@ -1,0 +1,18 @@
+ID: 03-041
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Ao longo de uma das reuniões para definição do Escritório de Projetos (PMO), foi solicitado aos seus responsáveis que explicassem, ao Conselho Administrativo, como os projetos podem dar um retorno tangível aos negócios da Brasil Eventos segundo o Guia PMBOK®. Com base nisso, analise os exemplos de elementos de valor de negócio a seguir. I. Criação e registro de marcas das produções realizadas pela Brasil Eventos. II. Construção de um espaço físico para divulgação de produções artísticas da Brasil Eventos. III. Aumento na participação de mercado da Brasil Eventos. Sobre elementos tangíveis, está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I e III, apenas.
+(C) I, II e III.
+(D) II e III, apenas.
+(E) II, apenas.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 31-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação aos protocolos de redes de computadores, analise as afirmativas a seguir. I. O DHCP (Dynamic Host Configuration Protocol) é um protocolo cliente-servidor que permite que um host obtenha um endereço IP (Internet Protocol) automaticamente. II. Ao contrário do TCP (Transmission Control Protocol), o UDP (User Datagram Protocol) não é orientado a conexões. III. O SMTP (Simple Mail Transfer Protocol) permite que um servidor de correio eletrônico atue ora como cliente ora como servidor.
+
+[ALTERNATIVAS]
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

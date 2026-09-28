@@ -1,0 +1,18 @@
+ID: 22-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Support Vector Machines (SVMs) é um método de aprendizado de máquina que pode ser aplicado em áreas como reconhecimento de padrões, bioinformática e detecção de fraudes, devido à sua capacidade de lidar com dados complexos. Nesse contexto, identificamos que o método SVM
+
+[ALTERNATIVAS]
+(A) adequa-se a problemas de agrupamento de dados multidimensionais.
+(B) apoia-se no princípio do “kernel trick”, que mapeia explicitamente dados não lineares em outros dados lineares.
+(C) define margem como sendo a maior saturação de erro (bias) suportada pelo algoritmo na geração de hiperplanos concorrentes.
+(D) inviabiliza o uso de abordagens para SVMs lineares com margens rígida e suave para utilização em SVMs não lineares em dados linearmente inseparáveis.
+(E) usa um mapeamento não linear para transformar os dados de treino originais em um espaço de dimensão superior.
+
+[GABARITO]
+E

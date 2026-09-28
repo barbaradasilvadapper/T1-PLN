@@ -1,0 +1,18 @@
+ID: 93-083
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A tecnologia RAID (do inglês, Redundant Array of Independent Disks — array redundante de discos independentes) permite o uso de arrays de discos para alcançar maior desempenho. Considerando a família de sistemas conhecida como RAID, assinale a afirmação correta.
+
+[ALTERNATIVAS]
+(A) O sistema operacional trata o equipamento RAID como um único disco físico fazendo in memory a alocação individualizada das partições lógicas de cada unidade independente.
+(B) Os equipamentos RAID 0 e RAID 1 possibilitam armazenar informações de paridade garantindo a rápida recuperação dos dados no caso de uma falha de disco.
+(C) O sistema operacional processa o RAID como um único drive lógico a partir de conjunto de drives de discos físicos
+(D) Em caso de falha de algum dos discos do conjunto de drives de discos físicos em qualquer configuração de RAID é possível a recuperação da informação pela sua capacidade de armazenamento redundante efetuada em duplas de discos assimétricos.
+(E) A distribuição de dados nos discos físicos de um array se estabelece pelos esquemas conhecidos como parity block e espelhamento.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 93-088
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Sobre criptografia, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Os algoritmos que usam uma só chave secreta para criptografar e descriptografar dados empregam a criptografia de chave secreta, sendo exemplos as técnicas de codificação de matrizes: DES (Data Encryption Standard), AES (Advanced Encryption Standard) e TripleAES. ( ) Algoritmos assimétricos possuem duas chaves, que necessariamente devem ter tamanhos diferentes, sendo uma chave pública e uma chave privada, onde a chave pública pode ser distribuída abertamente enquanto a chave privada é mantida em segredo. ( ) Os algoritmos assimétricos são capazes de operar assinaturas digitais para estabelecer uma relação única, exclusiva e intransferível entre um elemento criptográfico e uma pessoa física ou jurídica, onde os dados criptografados com a chave pública só podem ser descriptografados com a chave privada, e os dados assinados com a chave privada só podem ser verificados com a chave pública.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) F – F – V.
+(C) V – F – V.
+(D) F – V – F.
+(E) V – V – V.
+
+[GABARITO]
+B

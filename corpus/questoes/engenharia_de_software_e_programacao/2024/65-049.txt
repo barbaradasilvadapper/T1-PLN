@@ -1,0 +1,18 @@
+ID: 65-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Relacione as metodologias listadas a seguir às suas características específicas. 1. Scrum 2. Programação Extrema (XP) 3. Modelo V 4. Lean Software Development 5. Feature-Driven Development (FDD) ( ) Enfatiza a redução de desperdícios no processo de desenvolvimento de software. ( ) Caracteriza-se por sua abordagem iterativa e incremental focada no desenvolvimento de características específicas do software. ( ) Diferencia-se por sua estrutura em que o teste é planejado e executado de forma a refletir inversamente as etapas de desenvolvimento ( ) Implementa práticas como programação em pares, desenvolvimento orientado a testes e integração contínua. ( ) Emprega sprints como unidades de tempo fixas para o desenvolvimento de incrementos do produto Assinale a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 4 – 5 – 3 – 2 – 1.
+(B) 5 – 3 – 4 – 1 – 2.
+(C) 2 – 1 – 5 – 3 – 4.
+(D) 3 – 2 – 1 – 4 – 5.
+(E) 1 – 4 – 2 – 5 – 3.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 04-031
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Mateus configurou um pipeline CI/CD para o projeto TJApp no GitLab. O repositório de TJApp denomina-se TJAppRepo. Mateus precisou controlar o comportamento do pipeline de TJApp condicionando o início de sua execução aos eventos de push de tags para o TJAppRepo. Para aplicar essa condição ao pipeline de TJApp, Mateus precisou modificar o arquivo .gitlab-ci.yml na raiz de TJAppRepo, adicionando uma regra na seção:
+
+[ALTERNATIVAS]
+(A) default;
+(B) include;
+(C) stages;
+(D) variables;
+(E) workflow.
+
+[GABARITO]
+E

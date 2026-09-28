@@ -1,0 +1,18 @@
+ID: 56-031
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Maria está desenvolvendo um aplicativo desktop, com base em um ambiente de janelas, e precisa que alguns processos sejam disponibilizados de forma global no aplicativo, sem a necessidade de instanciar um objeto específico, e de forma que qualquer entidade possa acessar. Por estar trabalhando dentro da metodologia orientada a objetos, Maria precisará adicionar aos métodos globais os modificadores:
+
+[ALTERNATIVAS]
+(A) privado e abstrato;
+(B) protegido e sobrecarregado;
+(C) público e abstrato;
+(D) protegido e sobrescrito;
+(E) público e estático.
+
+[GABARITO]
+E

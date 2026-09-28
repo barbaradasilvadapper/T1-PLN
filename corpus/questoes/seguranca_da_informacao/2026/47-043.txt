@@ -1,0 +1,18 @@
+ID: 47-043
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com relação à Gestão de Continuidade de Negócios (GCN), assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O Disaster Recovery Plan (DRP) define o RTO (tempo de parada) e o RPO (perda de dados) para cada serviço.
+(B) A Business Impact Analysis (BIA) é voltada à recuperação de sistemas e infraestrutura de TI, sendo parte integrante da estratégia de continuidade do negócio.
+(C) O Plano de Continuidade de Negócio (BCP) abrange exclusivamente os sistemas de TI, sendo responsável pela restauração técnica dos serviços após incidentes.
+(D) A Business Impact Analysis (BIA) tem como finalidade identificar processos críticos e avaliar os impactos decorrentes de sua interrupção, subsidiando a definição de prioridades de recuperação.
+(E) O Business Continuity Plan (BCP) e o Disaster Recovery Plan (DRP) não possuem relação de dependência, sendo o DRP focado em processos manuais de negócio e o BCP focado na restauração de servidores.
+
+[GABARITO]
+D

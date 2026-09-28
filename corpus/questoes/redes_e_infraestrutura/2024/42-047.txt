@@ -1,0 +1,18 @@
+ID: 42-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em uma rede de computadores de uma empresa estatal, um hacker conseguiu acesso ao servidor de dados da empresa, fazendo com que todos os arquivos do sistema operacional e outros arquivos individuais fossem criptografados. O hacker exigiu um pagamento monetário para liberar esses arquivos. Uma proteção preventiva contra esse tipo de ataque seria
+
+[ALTERNATIVAS]
+(A) evitar uso de armazenamento em nuvem.
+(B) evitar segmentar a rede.
+(C) tratar dados internos como inseguros.
+(D) usar diversas fontes para baixar arquivos.
+(E) utilizar VPNs através de redes WiFi públicas.
+
+[GABARITO]
+E

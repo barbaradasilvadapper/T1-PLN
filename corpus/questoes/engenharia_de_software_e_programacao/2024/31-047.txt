@@ -1,0 +1,18 @@
+ID: 31-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Árvores são um importante tipo de estrutura de dados. Sobre as árvores, no contexto de estrutura de dados, analise as afirmativas a seguir. I. Árvores são estruturas de dados lineares. II. Em uma árvore cada nó pode ter no máximo dois filhos. III. Nós que não possuem filhos são chamados de Folhas.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

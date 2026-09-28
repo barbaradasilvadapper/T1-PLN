@@ -1,0 +1,18 @@
+ID: 44-077
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de seguranca tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considere o cenário onde uma organização deseja implementar uma solução robusta para garantir que apenas e-mails legítimos, enviados de servidores autorizados, sejam entregues aos destinatários. Esta solução também deve permitir a detecção e prevenção de e-mails falsificados, além de fornecer relatórios detalhados sobre as tentativas de envio de e-mails fraudulentos. Assinale a opção que melhor descreve o método de autenticação de e-mails que cumpre todas essas exigências ao integrar SPF e DKIM, fornecendo políticas de autenticação e relatórios.
+
+[ALTERNATIVAS]
+(A) SSL.
+(B) DKIM.
+(C) TLS.
+(D) DMARC.
+(E) VCM.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 36-055
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Departamento de Segurança do Ministério Público da União (MPU) precisa cifrar um documento para outro departamento de forma a reduzir a necessidade de processamento. Resolveu fazer uso de uma cifra de transposição com a técnica cerca de trilho, pois esse tipo de cifra é um componente das cifras simétricas. A intenção é escrever a mensagem linha a linha e ler por coluna. A ordem de leitura das colunas determina a chave do algoritmo. O texto cifrado é: MINISTERIOPUBLICODAUNIAO. Após a execução da cifra, o Departamento de Segurança terá como saída, sendo a chave 4132:
+
+[ALTERNATIVAS]
+(A) MSIBONITOLDINEPIAAIRUCUO;
+(B) IRUCUONEPIAAITOLDIMSIBON;
+(C) ITOLDIIRUCUONEPIAAMSIBON;
+(D) NEPIAAMSIBONITOLDIIRUCUO;
+(E) ITOLDIMSIBONIRUCUONEPIAA.
+
+[GABARITO]
+C

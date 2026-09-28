@@ -1,0 +1,18 @@
+ID: 88-033
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A virtualização de servidores é uma técnica que tem sido adotada por organizações para aumentar a densidade de utilização dos recursos computacionais. Sobre as tecnologias de virtualização, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) Hyper-V provê suporte somente para máquinas virtuais nas quais se executam sistema operacional Windows.
+(B) ESXi é uma plataforma de virtualização bare-metal, isto é, baseada em hipervisor nativo.
+(C) Xen é um software proprietário de virtualização integrado ao kernel da arquitetura PowerPC.
+(D) VirtualBox é uma tecnologia de virtualização que impossibilita o uso da webcam do sistema hospedeiro.
+(E) KVM é um módulo nativo do kernel do Windows que converte o sistema operacional em um hipervisor hosted.
+
+[GABARITO]
+B

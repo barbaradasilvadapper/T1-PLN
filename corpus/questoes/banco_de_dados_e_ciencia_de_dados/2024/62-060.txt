@@ -1,0 +1,18 @@
+ID: 62-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Diversos processos são usados para manter a sincronização entre um armazém de dados e outras fontes de dados, como bancos de dados OLTP, por exemplo. Eles, normalmente, envolvem a cópia total de um banco de dados, a transformação dos dados e a carga em um armazém de dados. Esses processos são classificados como processos em lote
+
+[ALTERNATIVAS]
+(A) ELT.
+(B) ETL reverso.
+(C) OLAP.
+(D) ETL.
+(E) Big Data.
+
+[GABARITO]
+D

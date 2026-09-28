@@ -1,0 +1,18 @@
+ID: 92-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Modelo TCP/IP é um conjunto de protocolos de comunicação usado para interconectar dispositivos em redes de computadores amplamente utilizado. Em comparação com o modelo de referência OSI, o modelo TCP/IP possui apenas 4 camadas. A camada do modelo TCP/IP que engloba as camadas de sessão, apresentação e aplicação do modelo OSI é a camada
+
+[ALTERNATIVAS]
+(A) enlace.
+(B) transporte.
+(C) rede.
+(D) aplicação.
+(E) internet.
+
+[GABARITO]
+D

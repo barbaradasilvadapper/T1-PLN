@@ -1,0 +1,18 @@
+ID: 75-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A Visão Computacional (CV) é um subdomínio da inteligência artificial (IA) que treina o sistema para identificar e interpretar o mundo visual. CV envolve várias tarefas importantes, como modelagem de cena tridimensional, geometria de câmera multimodelo, correspondência estéreo baseada em movimento, processamento de nuvem de pontos, estimativa de movimento e muito mais. Avalie se as três etapas básicas envolvidas nesse processo são as seguintes: I. Aquisição da imagem. II. Processamento da imagem. III. Segmentação da imagem. Está correto o que se apresenta em
+
+[ALTERNATIVAS]
+(A) I e III, apenas.
+(B) II e III, apenas.
+(C) I e II, apenas.
+(D) I, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

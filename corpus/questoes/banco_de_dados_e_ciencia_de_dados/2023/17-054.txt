@@ -1,0 +1,18 @@
+ID: 17-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Sobre o uso do tipo de dados varchar(MAX) na criação de uma tabela relacional, analise as afirmativas a seguir. I. Define colunas de caracteres com tamanho fixo, de acordo com o parâmetro MAX estabelecido por ocasião da instalação do SQL Server. II. Colunas assim definidas podem ser usadas na chave primária, mas não podem ser especificadas numa chave estrangeira. III. Colunas assim definidas são armazenadas juntamente com as demais colunas da tabela. Sobre essas afirmativas, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) nenhuma é verdadeira;
+(B) somente I é verdadeira;
+(C) somente II é verdadeira;
+(D) somente III é verdadeira;
+(E) todas são verdadeiras.
+
+[GABARITO]
+A

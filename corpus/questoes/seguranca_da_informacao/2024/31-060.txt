@@ -1,0 +1,18 @@
+ID: 31-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com base nas normas ABNT referentes à segurança da informação, avalie as afirmativas a seguir. I. A Norma ABNT NBR ISO/IEC 27001:2022 estabelece requisitos genéricos e aplicáveis a todas as instituições, de qualquer tipo, tamanho ou natureza. II. A Norma ABNT NBR ISO/IEC 27002:2022 fornece orientações para ajudar as organizações a cumprirem os requisitos da ABNT NBR ISO/IEC 27005 em relação às ações para abordar riscos de segurança da informação. III. A Norma ABNT NBR ISO/IEC 27005:2022 determina os requisitos para estabelecer, implementar, manter e melhorar continuamente um sistema de gestão da segurança da informação dentro do contexto da organização.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+A

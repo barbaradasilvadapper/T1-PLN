@@ -1,0 +1,18 @@
+ID: 47-042
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A criptografia é pilar fundamental da segurança da informação. A sua utilização correta permite que diversas aplicações sejam feitas de forma segura e mantenha os dados seguros e longe do acesso por partes indevidas. Quanto ao uso de criptografia, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A Quântica (por exemplo, BB84) utiliza os fenômenos quânticos no processo de troca de chaves, o que permite a detecção da interceptação da chave trocada com alta probabilidade.
+(B) A Assimétrica (por exemplo, RSA) é usada para garantir o sigilo nas comunicações do TLS (Transport Layer Security) por ser bastante eficiente.
+(C) A Simétrica (por exemplo, AES) é usada quando se quer garantir o sigilo e a autenticidade nas comunicações.
+(D) A de Curvas Elípticas (por exemplo, ECC) ainda encontra resistência no seu uso, pois gera chaves maiores, entretanto é eficiente.
+(E) A pós-Quântica (por exemplo, Kyber) utiliza algoritmos simétricos mais eficientes e rápidos no contexto emergente da computação quântica.
+
+[GABARITO]
+A

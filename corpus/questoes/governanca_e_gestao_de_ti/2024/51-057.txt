@@ -1,0 +1,18 @@
+ID: 51-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Na versão mais recente do COBIT, os processos são organizados em domínios que ajudam a estruturar as atividades de governança e gestão de TI. O seguinte processo pertence ao domínio “Alinhar, Planejar e Organizar” e é essencial para assegurar que os projetos e investimentos em TI estejam alinhados aos objetivos estratégicos da organização ao
+
+[ALTERNATIVAS]
+(A) gerenciar o portfólio de TI, assegurando que os investimentos e projetos estejam alinhados com as metas estratégicas e que contribuam para a geração de valor.
+(B) avaliar o desempenho dos fornecedores de TI para garantir que os serviços prestados estejam de acordo com as expectativas organizacionais.
+(C) desenvolver e implementar novas soluções tecnológicas que suportem os processos de negócio da organização.
+(D) fornecer suporte e resolver incidentes técnicos de forma a minimizar o impacto nas operações diárias.
+(E) avaliar continuamente o desempenho das soluções de TI e garantir a conformidade com padrões de qualidade internos.
+
+[GABARITO]
+A

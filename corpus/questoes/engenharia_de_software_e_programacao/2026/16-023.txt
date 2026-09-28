@@ -1,0 +1,18 @@
+ID: 16-023
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Spring é um dos frameworks mais consolidados no ecossistema Java para o desenvolvimento de aplicações corporativas. Por meio de conceitos como Inversão de Controle (IoC) e Injeção de Dependências (DI), o Spring promove o baixo acoplamento entre componentes, enquanto o Spring Boot simplifica a configuração e a inicialização de projetos por meio de convenções e autoconfiguração. Considere o seguinte trecho de código utilizando Spring Boot: @RestController @RequestMapping("/produtos") public class ProdutoController { @Autowired private ProdutoService produtoService; @GetMapping("/{id}") public ResponseEntity<Produto> buscarPorId(@PathVariable Long id) { Produto produto = produtoService.buscarPorId(id); return ResponseEntity.ok(produto); } @PostMapping public ResponseEntity<Produto> salvar(@RequestBody Produto produto) { Produto salvo = produtoService.salvar(produto); return ResponseEntity.status(HttpStatus.CREATED).body(salvo); } } Sobre o código apresentado, considerando os conceitos do Spring Framework e o comportamento padrão do Spring Boot, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A anotação @PathVariable no método buscarPorId captura parâmetros enviados no corpo da requisição HTTP, funcionando de forma idêntica à anotação @RequestBody.
+(B) A anotação @PostMapping configura o método salvar para responder a requisições do tipo HTTP GET, sendo apenas um alias sintático para @GetMapping com semântica de criação.
+(C) A anotação @Autowired realiza a instanciação manual do objeto ProdutoService, exigindo que o desenvolvedor implemente explicitamente o padrão de projeto Factory para que a injeção funcione.
+(D) A anotação @RestController é equivalente à combinação das anotações @Controller e @ResponseBody, fazendo com que os métodos da classe retornem os dados diretamente no corpo da resposta HTTP, por padrão em formato JSON.
+(E) A anotação @RequestMapping("/produtos") aplicada à classe exige que cada método declare novamente o caminho completo / produtos em suas respectivas anotações de mapeamento, caso contrário os endpoints não serão registrados.
+
+[GABARITO]
+D

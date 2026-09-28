@@ -1,0 +1,18 @@
+ID: 37-052
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Para acessar a intranet corporativa, um colaborador informa seu CPF, senha pessoal e um código enviado para o seu celular cadastrado. O mecanismo de reforço implementado nessa intranet para confirmar a identidade do usuário contra acessos indevidos é a autenticação:
+
+[ALTERNATIVAS]
+(A) biométrica;
+(B) Kerberos;
+(C) Oauth2;
+(D) 2FA;
+(E) Openid.
+
+[GABARITO]
+D

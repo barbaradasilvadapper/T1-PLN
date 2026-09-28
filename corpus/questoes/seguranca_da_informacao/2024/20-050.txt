@@ -1,0 +1,18 @@
+ID: 20-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O TJMS está implementando um sistema de gestão de segurança da informação aderente aos requisitos da ABNT NBR ISO/IEC 27001:2013, por meio do qual aplica um processo de tratamento dos riscos de segurança da informação para:
+
+[ALTERNATIVAS]
+(A) assegurar que as contínuas avaliações de risco de segurança da informação produzam resultados compatíveis, válidos e consistentes;
+(B) determinar todos os controles que são necessários para implementar as opções escolhidas do tratamento do risco da segurança da informação;
+(C) obter a aprovação da alta direção em relação aos riscos do plano de tratamento dos riscos de segurança da informação e a aceitação dos riscos residuais de segurança da informação;
+(D) selecionar, de forma apropriada, as opções de tratamento de riscos de segurança da informação, levando em consideração os resultados do sistema de gestão de segurança da informação;
+(E) avaliar as consequências potenciais que podem resultar se os riscos identificados forem materializados.
+
+[GABARITO]
+B

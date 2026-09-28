@@ -1,0 +1,18 @@
+ID: 72-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A plataforma Node.js trouxe uma grande revolução em termos da aplicabilidade do Java Script, que agora é utilizado também na implementação de aplicativos servidores. Ele traz uma série de características robustas, como o Event Loop, para gerenciar eventos e operações de entrada e saída na forma assíncrona, e cuja implementação é baseada:
+
+[ALTERNATIVAS]
+(A) no interpretador Chrome V8;
+(B) na biblioteca Libuv;
+(C) no gerenciador NPM;
+(D) na Core API do Java Script;
+(E) no gerenciador YARN.
+
+[GABARITO]
+B

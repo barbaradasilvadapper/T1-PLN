@@ -1,0 +1,18 @@
+ID: 42-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma equipe de infraestrutura de nuvem está trabalhando em uma concepção de serviço em nuvem, na qual as informações de configuração da infraestrutura são armazenadas em arquivos padronizados, que podem ser lidos por softwares que mantêm o estado da infraestrutura. Esse mecanismo é o de
+
+[ALTERNATIVAS]
+(A) distribuição de carga.
+(B) escalonamento de serviço.
+(C) infraestrutura como código.
+(D) software como serviço.
+(E) virtualização de software básico.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 86-057
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um invasor detecta e explora uma vulnerabilidade em um campo de formulário em uma página de uma aplicação Web e, consegue injetar um script malicioso dentro de uma postagem em uma rede social. Isso possibilita que qualquer usuário dessa rede social, ao visualizar tal postagem contaminada, tenha a sua máquina infectada pelo script malicioso, que é executado localmente. A este ataque é dado o nome de
+
+[ALTERNATIVAS]
+(A) Database Injection.
+(B) XSRF.
+(C) XSS em DOM.
+(D) XSS armazenado.
+(E) XSS refletido.
+
+[GABARITO]
+D

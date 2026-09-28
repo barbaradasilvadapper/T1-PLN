@@ -1,0 +1,18 @@
+ID: 69-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Segundo o guia Scrum, uma unidade fundamental é uma equipe de pessoas denominada Time Scrum, responsável por criar incrementos úteis e valiosos a cada Sprint. Um Time Scrum é composto por
+
+[ALTERNATIVAS]
+(A) alguns Product Owner apenas.
+(B) um Product Owner e alguns usuários finais.
+(C) um Scrum Master e alguns desenvolvedores.
+(D) um Scrum Master, um Product Owner e alguns desenvolvedores.
+(E) um Scrum Master, alguns Product Owner, alguns desenvolvedores e muitos usuários finais.
+
+[GABARITO]
+D

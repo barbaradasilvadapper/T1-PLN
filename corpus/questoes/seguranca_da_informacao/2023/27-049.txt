@@ -1,0 +1,18 @@
+ID: 27-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Alexandre chegou ao trabalho e foi impedido de acessar sua estação de trabalho pela equipe de crise. Conversando com os membros da equipe, foi informado de que os arquivos foram criptografados, e que o sequestrador exigiu um pagamento em bitcoins para que ocorresse a decriptografia. Nesse contexto, Alexandre logo percebeu que foi um ataque por meio de:
+
+[ALTERNATIVAS]
+(A) Backdoor;
+(B) Negação de serviço;
+(C) Keylogger;
+(D) Ransomware;
+(E) Injeção de código.
+
+[GABARITO]
+D

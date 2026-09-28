@@ -1,0 +1,18 @@
+ID: 12-083
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analisadores estáticos são particularmente importantes para determinadas linguagens de programação. A análise estática pode descobrir um grande número de erros potenciais e reduzir bastante os custos de teste. Assinale a opção que contém a relação correta entre possíveis problemas encontrados pela análise estática de código e sua respectiva classe de defeitos.
+
+[ALTERNATIVAS]
+(A) Variáveis não declaradas são da classe defeitos de controle.
+(B) Funções e procedimentos não chamados são da classe defeitos de dados.
+(C) Ponteiros não atribuídos são da classe de defeitos de gerenciamento de armazenamento.
+(D) Código inacessível é da classe de defeitos de interface.
+(E) Possíveis violações de limites de vetor são da classe de defeitos de entrada/saída.
+
+[GABARITO]
+C

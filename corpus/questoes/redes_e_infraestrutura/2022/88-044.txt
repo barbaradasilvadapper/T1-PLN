@@ -1,0 +1,18 @@
+ID: 88-044
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+João está investigando uma possível violação de segurança e precisa saber quais usuários fizeram login no sistema recentemente. O utilitário de linha de comando do sistema operacional Linux que mostra essas informações é
+
+[ALTERNATIVAS]
+(A) alias
+(B) last
+(C) nice
+(D) tty
+(E) wc FGV
+
+[GABARITO]
+B

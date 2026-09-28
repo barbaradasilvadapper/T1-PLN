@@ -1,0 +1,18 @@
+ID: 26-057
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de suporte de sistemas senado federal
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O padrão 802.11ax, também conhecido como Wifi 6, possui diversas melhorias com relação aos padrões anteriores. Sobre ele, é incorreto afirmar que
+
+[ALTERNATIVAS]
+(A) foi o primeiro a implementar tecnologia MU-MIMO.
+(B) utiliza a tecnologia OFDMA para reduzir a sobrecarga e a latência.
+(C) é compatível com padrões antigos do 802.11.
+(D) implementa a tecnologia Target Wake Time ou TWT, que permite a economia de energia de dispositivos.
+(E) implementa a tecnologia BSS color visando a reduzir a interferência de outros dispositivos no sinal.
+
+[GABARITO]
+A

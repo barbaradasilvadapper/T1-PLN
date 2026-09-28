@@ -1,0 +1,18 @@
+ID: 71-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) é uma cadeia hierárquica de confiança composta por diversos entes que viabilizam a emissão de certificados digitais para identificação virtual do cidadão. O ente responsável pela interface entre o usuário e a Autoridade Certificadora (AC) que tem por objetivo o recebimento, a validação, o encaminhamento de solicitações de emissão ou revogação de certificados digitais e identificação, de forma presencial, de seus solicitantes é
+
+[ALTERNATIVAS]
+(A) AR.
+(B) PS.
+(C) ACT.
+(D) PSBio.
+(E) AC – Raiz.
+
+[GABARITO]
+A

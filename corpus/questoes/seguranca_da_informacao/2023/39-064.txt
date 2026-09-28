@@ -1,0 +1,18 @@
+ID: 39-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+João recebeu a tarefa de adequar a gestão de riscos de segurança da informação da DPE/RS à norma ABNT NBR ISO/IEC 27005:2019. Para isso, ele deve:
+
+[ALTERNATIVAS]
+(A) remover ou substituir os controles considerados insuficientes;
+(B) determinar o valor dos ativos de informação durante a definição do contexto;
+(C) assegurar que os riscos residuais sejam aceitos pelos gestores;
+(D) determinar os riscos residuais antes de definir o plano de tratamento do risco;
+(E) iniciar o processo de gestão de riscos com a identificação dos riscos.
+
+[GABARITO]
+C

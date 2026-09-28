@@ -1,0 +1,18 @@
+ID: 60-029
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um órgão contratou um serviço de nuvem pública para divulgar videoaulas para seus colaboradores. As aulas podem ser assistidas em horários diversos, de acordo com a necessidade do colaborador. A nuvem será usada também para realização de cursos para turmas fechadas do órgão, momento em que serão contratados mais recursos temporariamente. De acordo com o NIST SP 800-145, o modelo de serviço de nuvem contratado pelo órgão é:
+
+[ALTERNATIVAS]
+(A) on-demand self-service;
+(B) software as a service;
+(C) rapid elasticity;
+(D) platform as a service;
+(E) resource pooling.
+
+[GABARITO]
+B

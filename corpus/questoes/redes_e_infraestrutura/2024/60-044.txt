@@ -1,0 +1,18 @@
+ID: 60-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Lara está migrando os servidores físicos do centro de dados onde trabalha para um projeto de hiperconvergência onde vários servidores são instalados em cluster e são fornecidas máquinas virtuais aos clientes. A solução vem com o software de virtualização VMware. Lara precisa se conectar a um componente do vSphere que possa executar as máquinas virtuais, instalar sistemas operacionais, executar aplicativos e configurar as máquinas virtuais. Conclui-se assim que Lara deverá se conectar ao:
+
+[ALTERNATIVAS]
+(A) vCenter Server;
+(B) serviço de diretório;
+(C) vCenter Lookup Service;
+(D) ESXi;
+(E) servidor de administração.
+
+[GABARITO]
+D

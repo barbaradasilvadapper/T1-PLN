@@ -1,0 +1,18 @@
+ID: 93-084
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Programa MANRS (Mutually Agreed Norms for Routing Security), apoiado pela Internet Society, preconiza a Segurança e Estabilidade na Internet. Com relação às ações técnicas e colaborativas que devem ser implementadas por todos os operadores da Internet, avalie se os itens a seguir são falsas (F) ou verdadeiras (V). ( ) Impedir a propagação de informações de roteamento incorretas por meio de filtragem de tráfego. ( ) Implementar antispoofing para minimizar o tráfego com endereços IP de origem falsificados. ( ) Facilitar a coordenação entre os operadores de rede e a comunicação operacional regional. Os itens são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) V – V – F.
+(C) F – F – V.
+(D) F – F – F.
+(E) F – V – V.
+
+[GABARITO]
+D

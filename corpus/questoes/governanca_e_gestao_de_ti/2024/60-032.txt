@@ -1,0 +1,18 @@
+ID: 60-032
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Em um período de 24 horas, um servidor de um sistema com Acordo de Nível de Serviço (Service Level Agreement – SLA) diário de 96% sofreu 3 paradas, sinalizando necessidade de manutenção preventiva. As paradas tiveram as seguintes durações: 1ª parada: 45min; 2ª parada: 1 hora e 15 minutos; e 3ª parada: 15 minutos. O MTBF (Tempo Médio entre Falhas) desse servidor é de:
+
+[ALTERNATIVAS]
+(A) 6,45 horas;
+(B) 7,25 horas;
+(C) 5,75 horas;
+(D) 8,15 horas;
+(E) 9 horas.
+
+[GABARITO]
+B

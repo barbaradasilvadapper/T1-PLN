@@ -1,0 +1,18 @@
+ID: 10-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Ao prover um serviço público por meio eletrônico, deve-se considerar que o público-alvo são cidadãos com diferentes vivências. Nesse sentido, a Cartilha de Usabilidade dos Padrões Web em Governo Eletrônico propõe uma série de diretrizes de usabilidade. Uma recomendação a ser seguida para atender à diretriz "contexto e navegação" está relacionada à:
+
+[ALTERNATIVAS]
+(A) apresentação de uma ferramenta de busca na página principal do site;
+(B) indicação de páginas “em construção” como forma de informação para futuros serviços aos cidadãos;
+(C) abertura de nova janela a partir de links que levem a formulários para entrada de dados;
+(D) apresentação com destaque de números de protocolos para serviços solicitados de modo que o cidadão faça sua própria cópia para futuras interações de acompanhamento;
+(E) apresentação dos resultados de buscas para que eles considerem as palavras-chave mais frequentes colocadas pelos cidadãos, mesmo que essas palavras não pertençam à terminologia oficial da instituição.
+
+[GABARITO]
+E

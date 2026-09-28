@@ -1,0 +1,18 @@
+ID: 57-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Gomes foi contratado pela Comissão de Valores Mobiliários (CVM) para fazer uma alteração nas diretivas do servidor Apache da CVM. Ele solicitou uma modificação na pasta raiz indicando a partir de qual pasta do servidor os arquivos e pastas contidos na URL solicitada serão pesquisados. Desse modo, assumindo o caminho como /opt/www, se a URL solicitada for http://www.cvm.com/9.10/index.html, o arquivo index.html será procurado na pasta /opt/www/9.10. Gomes deverá alterar a configuração na diretiva:
+
+[ALTERNATIVAS]
+(A) DocumentRoot;
+(B) DirectoryIndex;
+(C) ServerRoot /etc/apache2;
+(D) MaxSpareServers;
+(E) UserDir public_html.
+
+[GABARITO]
+A

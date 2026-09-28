@@ -1,0 +1,18 @@
+ID: 61-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O padrão IEEE 802.11a é utilizado em ambientes que demandam redes sem fio de alto desempenho, como empresas e indústrias. Ele é útil em locais onde há muitos dispositivos conectados ao mesmo tempo, garantindo uma conexão estável e rápida. Sobre o padrão IEEE 802.11a, observa-se como uma de suas características
+
+[ALTERNATIVAS]
+(A) apresentar um alcance maior que o método IEEE 802.11b.
+(B) experimentar mais interferência na banda de 5 GHz.
+(C) montar um quadro que dispensa bits de sincronização.
+(D) operar em taxas mais lentas que o método IEEE 802.11b.
+(E) utilizar multiplexação que resiste a degradações do sinal sem fio.
+
+[GABARITO]
+E

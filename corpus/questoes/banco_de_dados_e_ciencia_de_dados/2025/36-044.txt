@@ -1,0 +1,18 @@
+ID: 36-044
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista de suporte Theo está projetando e otimizando a infraestrutura de desenvolvimento de soluções de inteligência artificial do MPU. Theo observou que a maior demanda de recurso computacional ocorre na fase de treinamento de redes neurais, quando a demanda é diretamente proporcional à quantidade de iterações do modelo sobre o conjunto de dados de treinamento. Considerando o observado, Theo deve analisar a quantidade de vezes que o modelo percorre todo o conjunto de dados de treinamento. Essa quantidade é representada por uma:
+
+[ALTERNATIVAS]
+(A) TPU;
+(B) NPU;
+(C) época;
+(D) feature;
+(E) camada.
+
+[GABARITO]
+C

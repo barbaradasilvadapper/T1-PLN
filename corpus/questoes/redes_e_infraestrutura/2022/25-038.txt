@@ -1,0 +1,18 @@
+ID: 25-038
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de redes de um órgão público precisa segmentar sua rede local para hospedar seus ambientes produtivos e não produtivos, de forma que o tráfego de uma rede não impacte o outro, devido aos seus distintos comportamentos. Para assegurar a comunicação segura e estável entre ambos os ambientes, a equipe decidiu segmentar a rede por meio de VLANs. A implementação das VLANs assegura:
+
+[ALTERNATIVAS]
+(A) o roteamento entre diferentes comutadores;
+(B) que os hosts estejam fisicamente separados;
+(C) a segmentação de redes com, no mínimo, dois comutadores;
+(D) a restrição do tráfego do segmento a um único comutador;
+(E) que hosts conectados em portas com VID diferentes em um comutador estejam em domínios de broadcast diferentes.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 47-051
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No que diz respeito à gestão de riscos fundamentada na norma ISO 31000 e sua integração com as políticas de segurança da informação, analise as afirmativas a seguir. I. A melhoria contínua e a criação e proteção de valor são princípios da ISO 31000. II. A ISO 31000 orienta a identificação, a análise e o tratamento de riscos, servindo como base para a definição de políticas de segurança alinhadas aos riscos organizacionais. III. A ISO 31000 é uma norma certificável internacional que funciona como um guia de boas práticas.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

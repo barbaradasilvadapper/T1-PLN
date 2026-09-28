@@ -1,0 +1,18 @@
+ID: 79-072
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+João, agente público federal competente, compareceu ao local de determinado crime de grande repercussão nacional, ocasião em que, iniciados os trabalhos periciais, distinguiu um elemento como de potencial interesse para a produção da prova pericial. Processo Penal, a atuação de João caracteriza a seguinte etapa na cadeia de custódia:
+
+[ALTERNATIVAS]
+(A) reconhecimento;
+(B) processamento;
+(C) recebimento;
+(D) isolamento;
+(E) fixação.
+
+[GABARITO]
+A

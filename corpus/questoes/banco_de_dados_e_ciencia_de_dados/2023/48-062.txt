@@ -1,0 +1,18 @@
+ID: 48-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe a seguinte consulta SQL, feita no SQLite: SELECT imagem, avg(imagem) OVER (PARTITION BY grau) AS media_grau FROM historico_bijecao; O SQLite dispõe de vários tipos de função. Na consulta acima, a função avg foi usada como uma função do tipo:
+
+[ALTERNATIVAS]
+(A) core;
+(B) math;
+(C) window;
+(D) ordinary scalar;
+(E) ordinary aggregate.
+
+[GABARITO]
+C

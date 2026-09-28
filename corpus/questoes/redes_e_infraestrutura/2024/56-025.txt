@@ -1,0 +1,18 @@
+ID: 56-025
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A plataforma Docker disponibiliza um ambiente muito propício para a implementação de microsserviços. A equipe de Gabriel trabalha com os contêineres da Docker para disponibilização de seus serviços. Recentemente ocorreu um problema com o contêiner para o serviço de envio de e-mails, mas as falhas não impactaram os demais serviços, já que o projeto foi pensado desde o início com foco em independência. Isso permitiu que Gabriel se concentrasse na correção do contêiner, enquanto o restante da equipe continuou a trabalhar normalmente. Entre os benefícios dos microsserviços, esse é um exemplo de:
+
+[ALTERNATIVAS]
+(A) heterogeneidade de ambiente;
+(B) resiliência;
+(C) escalabilidade;
+(D) portabilidade simplificada;
+(E) agilidade na entrega.
+
+[GABARITO]
+B

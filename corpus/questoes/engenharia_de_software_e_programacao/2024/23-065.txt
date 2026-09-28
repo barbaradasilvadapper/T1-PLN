@@ -1,0 +1,17 @@
+ID: 23-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A engenharia de software tem empregado prototipação para gerar modelos representativos simulados para validação dos requisitos dos usuários. Com relação à prototipação, analise os itens a seguir. I. É o processo de criação de um protótipo, que dependendo das necessidades do projeto, podem empregar, entre outros: protótipos de papel, wireframes, mockups ou protótipos interativos. II. No processo de engenharia de requisitos, as fases de elicitação e validação dos requisitos do sistema podem ser auxiliadas por um protótipo. III. Um protótipo desenvolvido no processo de projeto do sistema pode auxiliar na exploração de soluções de software e no desenvolvimento de uma interface com o usuário para o sistema.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+
+[GABARITO]
+A

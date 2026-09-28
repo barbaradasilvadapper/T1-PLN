@@ -1,0 +1,18 @@
+ID: 42-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os endereços IPv6 representam a evolução do sistema de endereçamento IP, projetado para substituir o IPv4 devido à crescente demanda por mais endereços na internet. O IPv6 introduz melhorias em termos de segurança, eficiência no roteamento e suporte a novos dispositivos conectados. Assinale a opção que indica uma das características do endereçamento IPv6.
+
+[ALTERNATIVAS]
+(A) Utiliza endereços de 64 bits, possibilitando 2 64 endereços.
+(B) Demanda a configuração inicial dos endereços do roteador manualmente.
+(C) Destina um mesmo pacote por anycast para servidores com endereços IP diferentes.
+(D) Oferece a possibilidade de endereçamento broadcast.
+(E) Transmite um pacote por um número máximo de roteadores.
+
+[GABARITO]
+E

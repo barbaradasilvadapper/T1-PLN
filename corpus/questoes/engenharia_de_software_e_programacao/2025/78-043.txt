@@ -1,0 +1,18 @@
+ID: 78-043
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Scrum é um método ágil, iterativo e incremental para gerenciamento de projetos que foi proposto por Sutherland e Schwaber. A definição do Scrum inclui um conjunto bem definido de papéis, artefatos e eventos. São eventos Scrum:
+
+[ALTERNATIVAS]
+(A) desenvolvimento de produto e lançamento do produto, apenas.
+(B) planejamento dos sprints, sprints, reuniões diárias, revisões dos sprints e retrospectivas, apenas.
+(C) validação dos sprints, manutenção dos backlogs dos sprints e atualização dos gráficos de burndown, apenas.
+(D) manutenção do backlog do produto, dos backlogs dos sprints e dos quadros scrum e lançamento do produto, apenas.
+(E) desenvolvimento do produto, execução dos sprints, manutenção dos backlogs, reuniões de pé, atualização dos gráficos de burndown e lançamento do produto, apenas.
+
+[GABARITO]
+B

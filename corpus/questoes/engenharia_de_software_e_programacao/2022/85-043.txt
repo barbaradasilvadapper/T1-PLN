@@ -1,0 +1,18 @@
+ID: 85-043
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto de HTML e JavaScript, na construção function myFunction() { document.getElementById("xxxx").submit(); } o elemento xxxx deve identificar:
+
+[ALTERNATIVAS]
+(A) o path completo de um arquivo;
+(B) um elemento da classe EntryData;
+(C) um Form object;
+(D) um link externo;
+(E) uma página Web.
+
+[GABARITO]
+C

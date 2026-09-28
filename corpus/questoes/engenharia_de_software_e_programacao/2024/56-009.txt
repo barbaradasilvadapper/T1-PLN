@@ -1,0 +1,18 @@
+ID: 56-009
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Raquel foi designada para refatorar o código de um sistema à luz da Arquitetura Limpa. Raquel iniciou a tarefa assimilando os princípios de design utilizados pela arquitetura. A analista seguiu determinando a camada apropriada da Arquitetura Limpa para cada módulo do sistema. Logo após, Raquel revisou a implementação dos módulos A e B, que encapsulam regras de negócio específicas à aplicação. A analista removeu as referências diretas aos módulos A e B no código da camada interior adjacente, aplicando o princípio de design que garante a não violação da Regra da Dependência ao longo das camadas, durante o fluxo de controle. Raquel removeu as referências diretas aos módulos A e B da camada de:
+
+[ALTERNATIVAS]
+(A) entidades, aplicando a segregação de interface;
+(B) entidades, aplicando a inversão de dependência;
+(C) casos de uso, aplicando a segregação de interface;
+(D) adaptadores, aplicando a segregação de interface;
+(E) adaptadores, aplicando a inversão de dependência.
+
+[GABARITO]
+B

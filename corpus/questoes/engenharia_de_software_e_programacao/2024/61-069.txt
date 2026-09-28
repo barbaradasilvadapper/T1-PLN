@@ -1,0 +1,18 @@
+ID: 61-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte trecho de código: Esse código tem por objetivo remover as posições pares de uma lista "números". Assinale a opção que identifica os problemas com esse código.
+
+[ALTERNATIVAS]
+(A) A remoção de elementos dentro de um laço for deve ser feita usando os métodos next() e remove() do iterador.
+(B) O laço for está mal posicionado, e deveria ser usado antes do laço while para iterar corretamente.
+(C) O método remove nunca pode ser chamado durante a iteração com um iterador, pois isso sempre resulta em uma exceção.
+(D) A variável i utilizada no laço for está causando um erro de indexação ao tentar acessar elementos que já foram removidos.
+(E) O laço while deve ser substituído por um laço for para evitar conflitos com o iterador.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 16-026
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A plataforma .NET oferece diferentes modelos de programação para construção de aplicações, incluindo abordagens orientadas a serviços, padrões arquiteturais tradicionais e modelos baseados em páginas. Entre essas abordagens, algumas priorizam a separação estrita de responsabilidades, enquanto outras favorecem maior coesão entre interface e lógica. Nesse contexto, assinale a opção que apresenta uma das principais características do modelo Razor Pages no ecossistema .NET.
+
+[ALTERNATIVAS]
+(A) Segue rigidamente a separação em camadas proposta pelo padrão MVC, exigindo a definição explícita de controllers para cada requisição.
+(B) Baseia-se em consultas declarativas com LINQ como mecanismo central de organização da lógica de aplicação e navegação entre páginas.
+(C) Implementa, de forma obrigatória, o padrão de APIs RESTful, sendo utilizado exclusivamente para exposição de serviços e manipulação de dados via HTTP.
+(D) Restringe a interação com outras camadas da aplicação, limitando seu uso à renderização estática de conteúdo sem acesso a serviços ou dados dinâmicos.
+(E) Adota uma abordagem orientada a páginas, na qual cada unidade de interface encapsula sua lógica associada, reduzindo a necessidade de separação explícita em controllers.
+
+[GABARITO]
+E

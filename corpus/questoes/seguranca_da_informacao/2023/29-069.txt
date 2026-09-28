@@ -1,0 +1,18 @@
+ID: 29-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A empresa Vendas SA coleta dados cadastrais e de consumo de seus clientes utilizando uma ferramenta Web desenvolvida pela empresa WebTI. A Vendas SA informou quais dados quer coletar, por quanto tempo e qual tipo de análises quer fazer com esses dados. A WebTI é a responsável pelos protocolos de acesso, armazenagem, backup e proteção contra invasões, tudo de acordo com as especificações de segurança da Vendas SA. De acordo com a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), o papel desempenhado pela empresa WebTI é de:
+
+[ALTERNATIVAS]
+(A) titular;
+(B) operador;
+(C) encarregado;
+(D) controlador;
+(E) responsável legal.
+
+[GABARITO]
+B

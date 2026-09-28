@@ -1,0 +1,18 @@
+ID: 88-034
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+As LANs de difusão admitem diversas topologias. Em relação à topologia Barramento, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) o mecanismo de arbitragem para resolver conflitos pode ser centralizado ou distribuído.
+(B) cada nó da rede pode ouvir apenas os dados destinados a ele.
+(C) todos os nós são conectados a um dispositivo central por meios físicos distintos.
+(D) a rede continua funcionando mesmo se for danificado o cabo principal ao qual se ligam os computadores.
+(E) essa topologia requer cabeamento por par trançado para cancelar as interferências eletromagnéticas.
+
+[GABARITO]
+A

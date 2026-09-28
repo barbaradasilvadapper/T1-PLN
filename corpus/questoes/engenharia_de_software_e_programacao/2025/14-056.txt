@@ -1,0 +1,18 @@
+ID: 14-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A codificação de software é o processo de escrever código fonte para criar programas de computador. Relacione os elementos de codificação de software com suas respectivas definições. 1. Codificação de software transacional 2. Codificação de software analítico 3. Codificação de software mobile 4. Codificação de API (Application Programming Interfaces) ( ) Envolve a criação de sistemas que garantem a integridade e a consistência dos dados durante operações que podem envolver múltiplas etapas ou interações com diferentes componentes, tendo como exemplos de ferramentas e tecnologias aplicadas: JDBC, SQLAlchemy e Spring Transaction Management. ( ) Envolve o uso de linguagens de programação e ferramentas específicas para cada plataforma, tendo como exemplos de ferramentas de teste: Appium, Firebase Test Lab e XCTest ( ) Envolve a criação de interfaces que permitem que diferentes sistemas de software se comuniquem entre si, tendo como Ferramentas e Tecnologias: Postman, Swagger/OpenAPI, Jest e PyTest. ( ) Envolve a criação de sistemas que processam e analisam grandes volumes de dados para extrair informações úteis e apoiar a tomada de decisões, tendo como principais conceitos: Data Warehousing, ETL (Extract, Transform, Load), Data Mining e OLAP (Online Analytical Processing). Assinale a opção que indica a relação correta na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 2 – 3 – 4.
+(B) 4 – 3 – 2 – 1.
+(C) 3 – 1 – 4 – 2.
+(D) 1 – 3 – 4 – 2.
+(E) 2 – 4 – 1 – 3.
+
+[GABARITO]
+D

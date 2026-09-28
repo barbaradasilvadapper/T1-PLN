@@ -1,0 +1,18 @@
+ID: 05-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o script abaixo. <!DOCTYPE html> <html> <head> <style> div { max-width: 200px; border: 10px solid black; padding: 30px; margin: 12px; background-color: lightgray; } .div { background-color: lightgreen; border: 6px solid red; } </style> </head> <body> <div> Essa é uma questão sobre CSS. <div class="div">Essa é uma questão sobre CSS.</div> </div> </body> </html> Sobre a página apresentada, analise as afirmativas a seguir. I. O texto “Essa é uma questão sobre CSS.” é exibido apenas uma vez. II. São exibidas duas caixas, ambas com margens pretas. III. Somente uma caixa é exibida, com margem vermelha. Sobre essas afirmativas, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) nenhuma está correta;
+(B) somente I está correta;
+(C) somente II está correta;
+(D) somente III está correta;
+(E) todas estão corretas.
+
+[GABARITO]
+A

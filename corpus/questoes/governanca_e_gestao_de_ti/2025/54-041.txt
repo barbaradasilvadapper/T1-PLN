@@ -1,0 +1,18 @@
+ID: 54-041
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+De acordo com a 7ª edição do PMBOK, o tipo e o número de fases de um projeto podem ser baseados em um ciclo de vida que depende de muitas variáveis, principalmente da cadência de entrega e da abordagem de desenvolvimento. As fases de um projeto com ciclo de vida do tipo preditivo são
+
+[ALTERNATIVAS]
+(A) conceito, plano, design e construção.
+(B) conceito, planejamento, design, construção e finalização.
+(C) viabilidade, design, construção, testes, implantação e encerramento.
+(D) viabilidade, análise, codificação, validação, implantação e encerramento.
+(E) definição de visão do projeto e produtos, n etapas de interação envolvendo feedback, backlog, priorização e finalização.
+
+[GABARITO]
+C

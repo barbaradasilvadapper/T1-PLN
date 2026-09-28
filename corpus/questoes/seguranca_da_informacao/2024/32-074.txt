@@ -1,0 +1,18 @@
+ID: 32-074
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Relacione as ameaças cibernéticas a seguir com as suas características: 1. worm 2. cavalo de Tróia 3. spyware 4. ransomware ( ) Tipo de malware que busca obter informações da máquina alvo sem levantar suspeitas. ( ) Tipo de malware que infecta máquinas alvo através da rede sem interação dos usuários. ( ) Tipo de malware que criptografa os dados da máquina alvo. ( ) Tipo de malware que se passa por um programa legítimo para que o usuário o execute. Assinale a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 2 – 3 – 4.
+(B) 2 – 1 – 4 – 3.
+(C) 3 – 2 – 1 – 4.
+(D) 3 – 1 – 4 – 2.
+(E) 1 – 4 – 3 – 2.
+
+[GABARITO]
+D

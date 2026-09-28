@@ -1,0 +1,18 @@
+ID: 16-048
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Deseja-se controlar o comportamento dinâmico entre os elementos gráficos de uma mesma página de um relatório desenvolvido no Power BI Desktop. Para isso, é utilizado o recurso de edição de interações entre visuais. Com base nas funcionalidades desse recurso e nas boas práticas de visualização de dados, analise as afirmativas a seguir. I. A seleção de um ponto de dado em um visual de origem pode ser configurada para filtrar ou destacar (realçar) os dados exibidos nos demais visuais da página. II. O desenvolvedor pode modificar as interações padrão, ativando, desativando ou alterando o comportamento de cada visual de destino de forma independente. III. A gestão criteriosa das interações entre visuais contribui para reduzir a carga cognitiva do usuário, evitando interpretações equivocadas e favorecendo a clareza da análise.
+
+[ALTERNATIVAS]
+(A) III, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

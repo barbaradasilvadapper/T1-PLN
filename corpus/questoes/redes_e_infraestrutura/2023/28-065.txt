@@ -1,0 +1,18 @@
+ID: 28-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em um sistema postal, o gerenciamento de nomes é feito por meio do uso de letras que especificam (implícita ou explicitamente) o país, o estado ou a província, a cidade e a rua do destinatário. Graças ao uso desse tipo de endereçamento hierárquico, não há confusão entre o João da Silva que mora na rua Barata Ribeiro, em São Paulo, e o João da Silva que mora na rua Barata Ribeiro, no Rio de Janeiro. Sobre os tipos de registros de DNS (Domain Name System), é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) TXT significa texto e o valor é o nome de domínio;
+(B) SRV significa serviço e o valor é o texto ASCII descritivo;
+(C) SOA significa o início de autoridade e o valor é o texto ASCII descritivo;
+(D) AAAA significa o endereço IPv4 de um host e o valor é um inteiro de 32 bits;
+(E) MX significa troca de mensagens de correio e o valor é o domínio disposto a aceitar correio.
+
+[GABARITO]
+E

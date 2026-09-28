@@ -1,0 +1,18 @@
+ID: 80-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O banco de dados H2 é uma ferramenta muito útil para desenvolvedores Java. Ele foi projetado para ser leve e pode ser incorporado diretamente em aplicativos Java. Com relação aos modos de conexão do H2, analise as afirmativas a seguir. I. No modo incorporado (embedded), um aplicativo abre um banco de dados dentro da mesma máquina virtual Java (JVM) usando JDBC. Este é o modo de conexão mais rápido e fácil. A desvantagem é que um banco de dados só pode ser aberto em uma máquina virtual por vez. Não há limite para o número de bancos de dados abertos simultaneamente ou para o número de conexões abertas. II. O modo misto (mixed) é uma combinação dos modos incorporado e servidor. O primeiro aplicativo que se conecta ao banco usando o modo incorporado, mas também inicia um servidor para que outros aplicativos (executados em diferentes processos ou JVM) possam acessar simultaneamente os mesmos dados. As conexões locais são tão rápidas quanto se o banco fosse usado apenas no modo incorporado, mas as conexões remotas são um pouco mais lentas. III. O modo em memória (in memory) é uma especialização do modo incorporado exclusivo para aplicações que usam o H2 em exclusivamente em memória. Todos os clientes que desejam se conectar (não importa se é uma conexão local ou remota) utilizam a mesmo URL do banco de dados. Além do desempenho a vantagem é o mecanismo de persistência de dados baseada em logs de transações.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas
+(C) II e III, apenas
+(D) I e III, apenas
+(E) I, II e III.
+
+[GABARITO]
+B

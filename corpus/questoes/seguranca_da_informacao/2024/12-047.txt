@@ -1,0 +1,18 @@
+ID: 12-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O TCE-PA está implementando medidas de segurança para proteger suas comunicações e dados sensíveis. Para assegurar a proteção das comunicações do tribunal por meio da internet, a organização deve utilizar o protocolo
+
+[ALTERNATIVAS]
+(A) AES
+(B) RSA
+(C) SSL/TLS
+(D) DES
+(E) SSH
+
+[GABARITO]
+C

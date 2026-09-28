@@ -1,0 +1,18 @@
+ID: 57-023
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Gabriel está avaliando a implementação de uma arquitetura serverless para um projeto estratégico na empresa de tecnologia onde atua. Ele sabe que essa arquitetura oferece diversas vantagens, especialmente no que diz respeito à gestão de infraestrutura. No entanto, ele também está ciente dos desafios e limitações. No que se refere à arquitetura serverless, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) ela exige que a equipe de TI gerencie ativamente servidores, sistemas operacionais e redes para assegurar a escalabilidade e a disponibilidade do aplicativo;
+(B) em um modelo serverless, o provedor de serviços em nuvem gerencia a alocação e a escala da infraestrutura de backend automaticamente, embora isso possa resultar em custos significativamente mais elevados do que os modelos de computação tradicionais, independentemente do volume de uso;
+(C) ela permite que os desenvolvedores se concentrem exclusivamente no desenvolvimento do código e na lógica do aplicativo, sem preocupações com a infraestrutura subjacente, que é totalmente gerenciada pelo provedor de serviços em nuvem;
+(D) ela não é adequada para aplicações que exigem processamento em tempo real devido à latência introduzida pelo tempo de inicialização do ambiente de execução;
+(E) ela tem como desvantagem a impossibilidade de rodar aplicações em ambientes offline, já que depende estritamente da conexão com o provedor de serviços em nuvem para executar qualquer funcionalidade.
+
+[GABARITO]
+C

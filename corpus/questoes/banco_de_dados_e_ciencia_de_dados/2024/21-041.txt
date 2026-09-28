@@ -1,0 +1,18 @@
+ID: 21-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere a relação a seguir. PRODUCAO (Cod_país, Fonte_energética, Ano, Capacidade_instalada, Fator_eficiência, Produção_anual) Essa relação apresenta a capacidade instalada, o fator de eficiência e a produção anual de uma determinada fonte energética por um determinado país (Cod_país) em um determinado ano. A capacidade instalada, o fator de eficiência e a produção anual dependem do país, da fonte energética e do ano considerado. Considere ainda que {Cod_país, Fonte_energética, Ano} é a chave primária, e que a relação apresenta ainda a dependência funcional Capacidade_instalada, Fator_eficiência -> Produção_anual. Sobre o processo de normalização e as formas normais, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A relação está na 2FN.
+(B) Há dependências parciais na relação apresentada.
+(C) A relação está na 3FN.
+(D) Não há dependência transitiva na relação apresentada.
+(E) A relação está na 4FN.
+
+[GABARITO]
+A

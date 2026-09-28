@@ -1,0 +1,18 @@
+ID: 55-064
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O modelo OSI para redes de computadores é uma abstração para organizar as responsabilidades em camadas que encapsulam a informação a ser transmitida, da camada mais superior (aplicação) até a mais inferior (física). No contexto do modelo OSI, analise as afirmativas a seguir. I. A camada de rede é a responsável por determinar, passo a passo, qual será o próximo nó da rede a que será enviado o datagrama, em um processo chamado de roteamento. II. A camada de enlace é a responsável pelo encaminhamento de um frame ponto a ponto, utilizando o endereçamento IP para garantir que está sendo enviado o frame para o próximo destino correto. III. A camada de transporte pode implementar o protocolo TCP, que garante a entrega fim a fim dos pacotes entre origem e destino. Nesse protocolo, estabelece-se uma conexão, e eventuais perdas de pacotes são tratadas por meio de retransmissões na própria camada de transporte.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

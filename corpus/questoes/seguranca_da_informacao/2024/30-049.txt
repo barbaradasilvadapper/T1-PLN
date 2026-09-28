@@ -1,0 +1,18 @@
+ID: 30-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Algumas das razões que justificam que uma organização autorize o desenvolvimento e implantação de políticas e normas de segurança da informação são:
+
+[ALTERNATIVAS]
+(A) avanço tecnológico, explicitação das regras e legislação;
+(B) patrocínio, avanço tecnológico e treinamento das pessoas;
+(C) adequação às melhores práticas, legislação e explicitação das regras;
+(D) exigência do mercado, necessidade do negócio e patrocínio;
+(E) exigência do cliente, adequação às melhores práticas e necessidade do negócio.
+
+[GABARITO]
+E

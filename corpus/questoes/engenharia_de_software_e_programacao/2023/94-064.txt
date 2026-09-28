@@ -1,0 +1,18 @@
+ID: 94-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o trecho do seguinte código escrito na linguagem GraphQL que utiliza um tipo de operação para inserir dados. <tipo de operação> { insert_tarefa(objects: [{ titulo: "Aprender GraphQL" }]) { returning { id criado_em } } } Em GraphQL, o tipo de operação utilizada para inserir, atualizar ou apagar dados é o:
+
+[ALTERNATIVAS]
+(A) query;
+(B) directive;
+(C) mutations;
+(D) introspection;
+(E) subscriptions.
+
+[GABARITO]
+C

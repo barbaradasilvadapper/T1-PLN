@@ -1,0 +1,18 @@
+ID: 42-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os protocolos TCP e UDP são importantes para a comunicação na camada de transporte, oferecendo suporte a diversos protocolos da camada de aplicação. Dos protocolos da camada de aplicação do modelo OSI a seguir apresentados, o que não utiliza o protocolo TCP como transporte é o
+
+[ALTERNATIVAS]
+(A) DHCP.
+(B) IMAP.
+(C) POP3.
+(D) SMTP.
+(E) SSH.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 74-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Clean Code (Código Limpo) é um conceito promovido por Robert C. Martin (também conhecido como Uncle Bob) em seu livro "Clean Code: A Handbook of Agile Software Craftsmanship". O termo refere-se a um conjunto de práticas e princípios para escrever código que seja legível, compreensível e fácil de manter. Dos princípios elencados a seguir, assinale o que é fundamental para garantir que o código escrito esteja alinhado com os conceitos de código limpo, conforme descrito por Uncle Bob.
+
+[ALTERNATIVAS]
+(A) Duplicar o código quando necessário para evitar complexidade adicional em uma única função.
+(B) Manter todas as funções e métodos em um único arquivo para facilitar a navegação.
+(C) Usar abreviações e siglas em nomes de variáveis para economizar espaço e tempo.
+(D) Escrever funções e métodos pequenos e focados, cada um com uma única responsabilidade clara.
+(E) Permitir que uma função ou método realize múltiplas tarefas para otimizar a performance.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 58-037
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Joselito é um desenvolvedor especializado em inteligência artificial e trabalha para uma renomada indústria. Recentemente, ele finalizou o treinamento de um modelo de visão computacional, cujo objetivo é identificar se os colaboradores estão utilizando capacetes enquanto circulam pelo chão de fábrica, visando a assegurar o cumprimento das normas de segurança. Durante a apresentação do projeto para a equipe de liderança, o modelo demonstrou alta acurácia na maioria das situações. Entretanto, houve um padrão atípico de erro: o chefe de Joselito, que é calvo, foi consistentemente identificado pelo modelo como estando de capacete, ainda que estivesse sem capacete. Com base nessas informações, assinale a opção que indica a causa mais provável do comportamento anômalo observado no modelo de Joselito.
+
+[ALTERNATIVAS]
+(A) O modelo foi treinado com um conjunto de dados desbalanceado tendo muito mais exemplos de pessoas usando capacetes do que sem.
+(B) O chefe de Joselito tem características faciais únicas que o modelo não conseguiu aprender corretamente durante o treinamento.
+(C) O modelo está superajustado (overfitting), capturando detalhes muito específicos do conjunto de treinamento que não generalizam bem para dados não vistos.
+(D) O conjunto de dados de treinamento não tinha uma quantidade balanceada de pessoas calvas sem utilizar o capacete, fazendo o modelo associar erroneamente a calvície com o uso de capacete.
+(E) A resolução da câmera utilizada durante a demonstração era significativamente inferior à usada para coletar imagens do conjunto de dados de treinamento, levando o modelo a interpretar incorretamente características faciais.
+
+[GABARITO]
+D

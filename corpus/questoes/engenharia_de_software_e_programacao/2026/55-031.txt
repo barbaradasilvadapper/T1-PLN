@@ -1,0 +1,18 @@
+ID: 55-031
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Tribunal de Justiça iniciou o desenvolvimento de um sistema corporativo cujos requisitos são apenas parcialmente conhecidos, havendo elevado grau de incerteza quanto à integração com bases de dados e serviços de outros órgãos, ao desempenho sob carga e aos mecanismos de segurança. Em razão dessas características, a equipe optou por um processo de desenvolvimento no qual, a cada ciclo, são definidos objetivos, identificados e analisados riscos, desenvolvidas soluções parciais e planejada a etapa subsequente, permitindo que decisões arquiteturais sejam tomadas progressivamente com base no conhecimento adquirido ao longo do projeto. Nessa situação, o processo de desenvolvimento mais aderente é o
+
+[ALTERNATIVAS]
+(A) modelo em cascata.
+(B) modelo espiral.
+(C) modelo V.
+(D) Scrum.
+(E) modelo de prototipação descartável.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 88-039
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um cibercriminoso tentou obstruir o acesso ao portal institucional de uma empresa sobrecarregando os servidores web com muitas requisições HTTP simultâneas, de forma a deixar os servidores e site lento e indisponível para acesso. Esse tipo de ataque cibernético que inunda servidores da Web com solicitações que impedem a conexão de seus usuários regulares é denominado
+
+[ALTERNATIVAS]
+(A) Decoy.
+(B) DMA.
+(C) DoS.
+(D) Trojan.
+(E) Ransomware.
+
+[GABARITO]
+C

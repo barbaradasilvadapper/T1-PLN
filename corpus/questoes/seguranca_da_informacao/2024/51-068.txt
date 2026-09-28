@@ -1,0 +1,18 @@
+ID: 51-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Lei Geral de Proteção de Dados Pessoais (LGPD) estabelece uma série de regras para o tratamento de dados pessoais no Brasil. Assinale a afirmativa correta acerca das bases legais para o tratamento de dados pessoais previstas pela LGPD.
+
+[ALTERNATIVAS]
+(A) A empresa pode tratar os dados pessoais de um cliente sem a necessidade de qualquer justificativa legal, desde que o cliente tenha fornecido o consentimento.
+(B) O tratamento de dados pessoais pode ser realizado exclusivamente quando houver um contrato de trabalho formal entre o controlador e o titular dos dados.
+(C) O tratamento de dados pessoais pode ser realizado com base em legítimo interesse do controlador, desde que não sobreponha os direitos e liberdades fundamentais do titular.
+(D) O tratamento de dados pessoais é proibido, exceto quando a autoridade nacional autorizar explicitamente sua coleta e uso.
+(E) Dados sensíveis podem ser coletados e utilizados sem a necessidade de qualquer base legal, desde que o titular forneça o consentimento explícito.
+
+[GABARITO]
+C

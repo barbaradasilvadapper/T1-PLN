@@ -1,0 +1,18 @@
+ID: 52-017
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em um estudo técnico baseado em um grande conjunto de dados, foram empregadas técnicas de aprendizado de máquina e análise estatística para identificar padrões e outras informações. Entretanto, os resultados foram questionados, pois, embora tenha sido demonstrada existência de correlação, não foi estabelecida relação de causalidade. Considerando as melhores práticas e os desafios da mineração de dados, analise as afirmativas a seguir. I. Foram gerados insights a partir de dados válidos e confiáveis. II. A equipe executora contava com especialistas com experiência em programação Python, R e SQL. III. A metodologia empregada atendeu a literatura e outros estudos técnicos semelhantes, descrevendo que foi selecionada apenas uma base de informações de dados não estruturados atualizada para realizar o processamento, em virtude de limitações de capacidade computacional, dos custos envolvidos e dos testes que demonstraram a introdução de incerteza ao se realizar uma coleta ampla e profunda de conjuntos de dados.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

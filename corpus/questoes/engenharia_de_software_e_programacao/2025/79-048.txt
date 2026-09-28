@@ -1,0 +1,18 @@
+ID: 79-048
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o seguinte código Java reutilizado em todos os Sistemas de Informação do MPU. public class Main { String orgao = "MPU"; public static void main(String[] args) { Main myObj = new Main(); myObj.orgao = "MMPPUU"; System.out.println(myObj.orgao); } } No Java, para garantir que nenhum comando altere o valor do atributo orgao da classe Main durante a execução do programa, deve-se declarar o atributo orgao como:
+
+[ALTERNATIVAS]
+(A) final
+(B) static
+(C) private
+(D) abstract
+(E) protected
+
+[GABARITO]
+A

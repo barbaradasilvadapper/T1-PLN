@@ -1,0 +1,18 @@
+ID: 91-042
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+As estruturas organizacionais assumem muitas formas ou tipos. De acordo com o PMBOK 6ª edição, o tipo de estrutura organizacional na qual o gerente de projeto divide as responsabilidades com os gerentes funcionais para atribuição de prioridades e orientação do trabalho das pessoas alocadas no projeto é a
+
+[ALTERNATIVAS]
+(A) funcional.
+(B) matricial.
+(C) orgânica.
+(D) projetizada.
+(E) virtual.
+
+[GABARITO]
+B

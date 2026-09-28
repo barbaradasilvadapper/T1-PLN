@@ -1,0 +1,18 @@
+ID: 89-046
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista da tecnologia da informacao funsaude ce
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+De acordo com a norma ABNT NBR 27005, sobre Tecnologia da informação — Técnicas de segurança — Gestão de riscos de segurança da informação, o Processo de Avaliação de Riscos inclui as seguintes etapas:
+
+[ALTERNATIVAS]
+(A) análise de riscos, avaliação de riscos e tratamento dos riscos.
+(B) análise de riscos, tratamento dos riscos e avaliação de riscos residuais.
+(C) avaliação de riscos residuais, análise de riscos e avaliação de riscos.
+(D) identificação de riscos, análise de riscos e avaliação de riscos.
+(E) identificação de riscos, análise de riscos e tratamento de riscos.
+
+[GABARITO]
+D

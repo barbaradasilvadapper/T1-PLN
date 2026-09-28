@@ -1,0 +1,18 @@
+ID: 35-060
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+As configurações de redes de acesso (Camada 2) empregam diferentes tecnologias (equipamentos, protocolos e padrões). Dentre estas tecnologias, o STP (Spanning Tree Protocol)
+
+[ALTERNATIVAS]
+(A) possui operação transparente para as estações finais, que detectam se estão conectadas a um único segmento de LAN ou a uma LAN de vários segmentos.
+(B) é um protocolo de rede que se fundamenta nas especificações IEEE 802.1d, 802.1q e 802.1s, e que cria uma topologia de árvore, desativando portas redundantes para garantir que não haja loops,
+(C) define uma árvore com um dispositivo raiz e um caminho sem loop da raiz somente para os dispositivos routers na rede de Camada 2.
+(D) troca mensagens BPDU (Bridge Protocol Data Units) com outros switches para detectar loops e, em seguida, adiciona o loop ao alterar o status de interfaces de ponte selecionadas.
+(E) garante em seu algoritmo que haja múltiplos caminhos ativos entre dois dispositivos de rede.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 29-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Mário é CEO (Chief Executive Officer) da empresa Z e pertence à organização da ICP-Brasil. A empresa Z desempenha atividades descritas nas Políticas de Certificado (PC) e na Declaração de Práticas de Certificação (DPC) da Autoridade Certificadora a que estiver vinculada. Com base nas informações, a empresa de Mário é um ente da ICP-Brasil chamado:
+
+[ALTERNATIVAS]
+(A) AC – Raiz – Autoridade Certificadora Raiz;
+(B) PSBio - Prestador de Serviços Biométricos;
+(C) ACT - Autoridade Certificadora do Tempo;
+(D) AR - Autoridade de Registro;
+(E) PSS - Prestador de Serviços de Suporte.
+
+[GABARITO]
+E

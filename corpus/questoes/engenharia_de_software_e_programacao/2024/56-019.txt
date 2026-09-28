@@ -1,0 +1,18 @@
+ID: 56-019
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+As metodologias ágeis surgiram com o intuito de oferecer com maior rapidez produtos consistentes e que agregam valor, por meio de entregas parciais em períodos curtos. Em termos de Scrum e XP, existem diversas regras e eventos que objetivam essa otimização de entregas, como:
+
+[ALTERNATIVAS]
+(A) as reuniões diárias do Scrum, com duração média de uma hora, onde é analisado o avanço das tarefas na Sprint;
+(B) o uso de programação em pares no XP, aliado ao rodízio de colaboradores durante o desenvolvimento;
+(C) as reuniões de planejamento da Sprint, com duração máxima de quinze minutos, para definir as funcionalidades que serão desenvolvidas pela equipe na Sprint;
+(D) a definição de um prazo médio de dois meses para completar cada Sprint e entregar as funcionalidades previstas;
+(E) a priorização do desenvolvimento frente aos testes no XP, de forma a entregar mais rapidamente os produtos.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 55-052
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto da modelagem de dados relacional, analise as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) As tabelas são representações das relações, sendo que as linhas (ou tuplas) correspondem aos registros, enquanto as colunas correspondem aos atributos. ( ) Quando se fixa que certo campo só pode aceitar valores numéricos, trata-se de uma restrição de entidade. ( ) A forma normal que elimina a dependência transitiva é a terceira forma normal. ( ) Uma entidade é considerada forte quando utiliza uma chave primária composta formada pela chave primária de outra entidade e um atributo discriminador (chave parcial).
+
+[ALTERNATIVAS]
+(A) V – F – V – F.
+(B) F – V – V – F.
+(C) V – V – F – V.
+(D) F – F – V – V.
+(E) V – F – F – F.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 75-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O ransomware é um malware (programa malicioso) de extorsão – do estilo cavalo de troia – capaz de bloquear seu computador/banco de dados e, depois, exigir resgate para desbloqueá-lo. Este tipo de ataque foi o ataque que mais cresceu nos últimos anos. Alguns dos mais utilizados são: Crypto ransomware, Locker ransomware, Bad Rabbit, B0r0nt0k, CryptoWall, Doxware e Medusa. Entre as estratégias de gestão de segurança da informação, após identificação de artefatos maliciosos hospedados em endereços de redes no Brasil, deve ser encaminhada notificação com o seguinte regramento:
+
+[ALTERNATIVAS]
+(A) mensagem para ‘SEC.MIL.BR’, devendo ser realizado descritivo da ação do artefato malicioso para o qual se pede a remoção, com os registros de log anexos
+(B) mensagem para ‘CERT.BR’, devendo ser realizado relato descritivo do artefato malicioso para o qual se pede a remoção, esclarecendo como foi detectado, e devem ser encaminhadas as entradas de log anexas.
+(C) mensagem para ‘secu-CERT’, devendo somente ser realizado o pedido de remoção, informando como foi detectado o agente.
+(D) mensagem para ‘S-CERT’, devendo ser realizado o descritivo do artefato malicioso para o qual se pede a remoção, e de como foi detectado, a fim de permitir o entendimento do problema e das entradas de log anexas.
+(E) mensagem para ‘CERT RS’ , devendo ser realizado o descritivo do sistema local e o invasor, com envio das entradas de log anexas.
+
+[GABARITO]
+B

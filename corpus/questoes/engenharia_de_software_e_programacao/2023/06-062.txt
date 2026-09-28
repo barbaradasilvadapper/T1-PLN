@@ -1,0 +1,18 @@
+ID: 06-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe as árvores (I) e (II) representadas abaixo. Considerando que o conjunto de elementos de ambas as árvores é finito e que cada elemento pode ter no máximo duas subárvores, as árvores são:
+
+[ALTERNATIVAS]
+(A) disjuntas e a varredura de ambas as árvores equivale à de Árvores B;
+(B) equivalentes e a operação de varredura da árvore (I) em pósordem resulta na mesma ordenação da varredura da árvore (II) em in-ordem;
+(C) distintas e a operação de varredura da árvore (I) em in-ordem equivale à varredura da árvore (II) em pré-ordem;
+(D) desordenadas e a operação de varredura da árvore (II) em pré-ordem gera um conjunto em notação pós-fixa de (II) invertido;
+(E) ordenadas e a operação de varredura da árvore (I) em in-ordem resulta em uma ordenação por seleção direta.
+
+[GABARITO]
+C

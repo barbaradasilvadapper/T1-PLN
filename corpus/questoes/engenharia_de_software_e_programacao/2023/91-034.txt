@@ -1,0 +1,18 @@
+ID: 91-034
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um padrão de projeto é uma solução geral para um problema que ocorre com frequência dentro de um determinado contexto no projeto de software. O padrão de projeto de software denominado Bridge é um padrão
+
+[ALTERNATIVAS]
+(A) estrutural que desacopla uma abstração de sua implementação para que os dois possam variar independentemente.
+(B) comportamental destinado a armazenar o estado interno de um objeto em um dado momento para que seja possível retorná-lo a este estado.
+(C) de controle de objetos utilizado para garantir que determinada classe só tenha uma única instância e prover um ponto de acesso global a ela.
+(D) de criação para instanciar famílias de objetos relacionados por meio de uma única interface e sem que a classe concreta seja especificada.
+(E) de interação para prover uma maneira de acessar os elementos de um objeto agregado sequencialmente sem expor sua representação interna.
+
+[GABARITO]
+A

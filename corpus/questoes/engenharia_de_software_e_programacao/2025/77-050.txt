@@ -1,0 +1,18 @@
+ID: 77-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No método de Análise de Ponto de Função (APF) simplificado, o Analista calcula a Contagem de Pontos de Função Não Ajustada (UFC). Antes de chegar à Contagem Final de Pontos de Função (FPC), é necessário aplicar o Fator de Ajuste de Valor (VAF). O principal objetivo da aplicação do Fator de Ajuste de Valor (VAF) na Metodologia APF é
+
+[ALTERNATIVAS]
+(A) adaptar a contagem de pontos ao framework de desenvolvimento (backend ou frontend).
+(B) ajustar a complexidade da contagem funcional com base nas 14 características de processamento da aplicação.
+(C) transformar a métrica de Pontos de Função em Story Points para uso em metodologias ágeis.
+(D) converter a estimativa de tamanho funcional em esforço (horas/pessoa).
+(E) ponderar a experiência da equipe de desenvolvimento na contagem final.
+
+[GABARITO]
+B

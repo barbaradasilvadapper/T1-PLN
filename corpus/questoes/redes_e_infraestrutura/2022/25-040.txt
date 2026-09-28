@@ -1,0 +1,18 @@
+ID: 25-040
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de Tecnologia da Informação pretende implementar uma rede sem fio para cobrir as áreas de visitantes em um edifício comercial. De acordo com a norma ABNT NBR 14565, o cabeamento horizontal usado para atender às áreas de cobertura sem fio deve ser configurado em uma topologia:
+
+[ALTERNATIVAS]
+(A) estrela;
+(B) anel;
+(C) de árvore;
+(D) de barramento;
+(E) ponto a ponto.
+
+[GABARITO]
+A

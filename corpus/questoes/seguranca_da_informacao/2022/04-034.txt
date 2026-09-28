@@ -1,0 +1,18 @@
+ID: 04-034
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O analista de sistemas Bravo desenvolveu o webservice TJService para o TJDFT sem mecanismos de controle de segurança. A comunicação de TJService ocorre conforme especificações do protocolo SOAP (Simple Object Access Protocol). A fim de proteger a troca de mensagens de TJService, Bravo foi orientado pelo TJDFT a implementar o suporte à autenticação baseada em token. Os mecanismos de proteção de mensagens SOAP baseados em token que Bravo deve implementar são definidos na especificação Web Services:
+
+[ALTERNATIVAS]
+(A) Dynamic Discovery;
+(B) Addressing;
+(C) Reliable Messaging;
+(D) Security;
+(E) Make Connection.
+
+[GABARITO]
+D

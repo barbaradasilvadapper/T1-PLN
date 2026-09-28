@@ -1,0 +1,18 @@
+ID: 77-080
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Ambas as metodologias, Kanban e Scrum, são ágeis e visam a entrega de valor. No entanto, elas utilizam mecanismos diferentes para gerenciar a cadência de trabalho. A principal diferença no mecanismo de controle de fluxo entre o Scrum e o Kanban é que o Scrum
+
+[ALTERNATIVAS]
+(A) é push-based por eventos, enquanto o Kanban é pull-based por limites.
+(B) usa Story Points para estimativa, e o Kanban usa apenas T-shirt Sizes.
+(C) foca na eliminação de desperdício, e o Kanban foca no timeboxing.
+(D) é baseado em time-boxed Sprints, e o Kanban é baseado em fluxo contínuo e limites de WIP.
+(E) não permite mudanças de escopo durante a iteração, enquanto o Kanban exige mudanças diárias.
+
+[GABARITO]
+D

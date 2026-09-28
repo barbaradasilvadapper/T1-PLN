@@ -1,0 +1,18 @@
+ID: 72-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Assessoria de Tecnologia da Informação de uma organização está usando Kubernetes como plataforma de orquestração de containers. O Kubernetes foi configurado para escalar automaticamente workloads no modo HorizontalPodAutoscaler (HPA). Sendo assim, o Kubernetes irá:
+
+[ALTERNATIVAS]
+(A) ajustar periodicamente o número de réplicas em um workload para corresponder a determinada utilização de recursos;
+(B) dimensionar workloads com base no número de eventos a serem processados, como a quantidade de mensagens em uma fila;
+(C) escalar workloads no horário especificado pelo usuário, viabilizando a redução do consumo de recursos fora dos horários de pico;
+(D) observar as configurações personalizadas para os workloads que definem como e quando dimensionar os recursos das réplicas gerenciadas;
+(E) observar as solicitações de recursos na criação e atualização dos pods, descartando-os quando os recursos solicitados forem diferentes da configuração ajustada.
+
+[GABARITO]
+A

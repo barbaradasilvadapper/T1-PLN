@@ -1,0 +1,18 @@
+ID: 42-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um administrador de uma rede cabeada providenciou uma instalação de um sistema de prevenção de intrusos (IPS), no qual ele é instalado apenas em pontos estratégicos da rede para monitorar todo o tráfego dessa rede e verificar de forma proativa se há ameaças ou ataques. Esse tipo de IPS é identificado como
+
+[ALTERNATIVAS]
+(A) NBA.
+(B) AIPS.
+(C) HIPS.
+(D) NIPS.
+(E) WIPS.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 56-023
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Natália está desenvolvendo um sistema financeiro, no qual os documentos podem receber diferentes tipos de tratamento, e pretende tirar proveito dos padrões de desenvolvimento. Para tratar os documentos, ela criou diversos processos, que serão colocados em uma fila. Assim, o documento passa por um dado processo da fila, é tratado e enviado para o processo seguinte. Adotando essa estratégia, Natália usou o padrão de desenvolvimento denominado:
+
+[ALTERNATIVAS]
+(A) Chain of Responsibility;
+(B) Prototype;
+(C) Decorator;
+(D) Abstract Factory;
+(E) Factory Method.
+
+[GABARITO]
+A

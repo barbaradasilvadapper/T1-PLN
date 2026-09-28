@@ -1,0 +1,18 @@
+ID: 12-090
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em uma aplicação web que exibe dados dinâmicos provenientes de usuários, o método mais eficaz para prevenir ataques de Cross-Site Scripting (XSS), entre as opções abaixo, é
+
+[ALTERNATIVAS]
+(A) utilizar HTTPS para todas as comunicações entre cliente e servidor.
+(B) implementar cabeçalhos de segurança HTTP como Content Security Policy (CSP).
+(C) validar os dados do usuário apenas no lado do cliente utilizando JavaScript.
+(D) utilizar tokens de sessão com tempo de expiração curto.
+(E) fazer backup regular dos dados do usuário.
+
+[GABARITO]
+B

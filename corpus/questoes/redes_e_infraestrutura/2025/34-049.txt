@@ -1,0 +1,18 @@
+ID: 34-049
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O padrão IEEE 802.11 que opera simultaneamente nas faixas de 2,4 GHz e 5 GHz, introduz tecnologias como MIMO e channel bonding, suportando taxas teóricas de até 600 Mbps, é o
+
+[ALTERNATIVAS]
+(A) IEEE 802.11a.
+(B) IEEE 802.11g.
+(C) IEEE 802.11ac.
+(D) IEEE 802.11n.
+(E) IEEE 802.11ax.
+
+[GABARITO]
+D

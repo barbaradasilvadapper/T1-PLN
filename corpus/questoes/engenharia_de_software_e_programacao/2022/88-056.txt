@@ -1,0 +1,18 @@
+ID: 88-056
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Assinale a estrutura correta de acordo com a sintaxe do C#.
+
+[ALTERNATIVAS]
+(A) using System; namespace HelloWorld; class Program { static void Main(string[] args) { } }
+(B) using System; namespace HelloWorld; class Program { static void Main(parameters) { } }
+(C) using System; namespace HelloWorld { class Program { proc Main(string[] args) { } } }
+(D) using System; namespace HelloWorld { class Program { static void Main(string[] args) { } } }
+(E) using System; namespace HelloWorld { class static Main(string[] args) { } } } FGV
+
+[GABARITO]
+D

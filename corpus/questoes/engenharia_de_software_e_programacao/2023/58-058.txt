@@ -1,0 +1,18 @@
+ID: 58-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Associe as ferramentas listadas a seguir aos seus principais usos ou características. ( ) Ferramenta de automação que permite a integração contínua e a entrega contínua de projetos, ajudando as equipes de desenvolvimento a automatizar partes do processo de desenvolvimento de software. ( ) Ferramenta que utiliza um modelo declarativo para ajudar na automação de configurações de infraestrutura, garantindo que os sistemas estejam no estado desejado. 1. Puppet 2. Jenkins 3. Ansible ( ) Ferramenta de gerenciamento de configuração e automação de TI que utiliza YAML para definir as configurações e procedimentos, não necessitando de um agente instalado nas máquinas-alvo. Assinale a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 3 – 2.
+(B) 1 – 2 – 3.
+(C) 2 – 3 – 1.
+(D) 2 – 1 – 3.
+(E) 3 – 2 – 1.
+
+[GABARITO]
+D

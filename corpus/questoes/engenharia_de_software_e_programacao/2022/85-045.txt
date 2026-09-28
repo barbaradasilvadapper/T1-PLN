@@ -1,0 +1,18 @@
+ID: 85-045
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código jQuery a seguir. <script> $(document).ready(function(){ $("p").click(function(){ $(this).hide(); }); }); </script> É correto concluir que o termo this refere-se:
+
+[ALTERNATIVAS]
+(A) a um elemento HTML cujo id é “p”, que tenha sido clicado;
+(B) ao documento HTML recém-carregado;
+(C) ao método ready;
+(D) a um elemento HTML cuja tag é “p”, que tenha sido clicado;
+(E) a um elemento HTML cuja classe é “p”, que tenha sido clicado.
+
+[GABARITO]
+D

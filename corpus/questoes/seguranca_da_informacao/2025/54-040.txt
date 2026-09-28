@@ -1,0 +1,18 @@
+ID: 54-040
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No exercício de suas atribuições públicas, Amélia foi instada a se manifestar acerca da delimitação e do tratamento dos dados pessoais sensíveis dispostos na Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais). Nesse cenário, com base no mencionado Diploma Legal, assinale a opção que apresenta uma informação correta a ser prestada por Amélia.
+
+[ALTERNATIVAS]
+(A) Dados pessoais de saúde são considerados sensíveis, mas o respectivo tratamento pode ser realizado sem consentimento, quando for indispensável para a tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária.
+(B) O endereço, o telefone e a data de nascimento são dados pessoais sensíveis, de modo que o respectivo tratamento exige consentimento do titular, que não precisa, contudo, ser de forma específica e destacada.
+(C) Opiniões políticas ou dados sobre convicção religiosa não são considerados dados pessoais sensíveis, de modo que a eles não deve ser conferido o respectivo tratamento especial, submetendo-se, por conseguinte, aquele referente ao tratamento de dados em geral.
+(D) Dados genéticos e biométricos da pessoa natural não se enquadram como dados pessoais sensíveis, sendo certo, no entanto, que o seu tratamento apenas pode ser realizado mediante consentimento do titular, de forma específica e destacada, não sendo cabível a dispensa do consentimento ainda que indispensável para a realização de estudos por órgão de pesquisa e garantia à anonimização.
+(E) Filiação a sindicato ou a organização filosófica ou política são informações que não estão abarcadas pelo conceito de dados pessoais sensíveis, de modo que, em regra, podem ser tratados sem o consentimento do titular.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 80-051
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A RFC 6749 define a estrutura do protocolo OAuth 2.0. Os dois tipos de clientes desse protocolo são conhecidos como clientes
+
+[ALTERNATIVAS]
+(A) agent-based e tokenless.
+(B) aberto e criptografado.
+(C) confidencial e público.
+(D) fechado e seguro.
+(E) tsl e ssl.
+
+[GABARITO]
+C

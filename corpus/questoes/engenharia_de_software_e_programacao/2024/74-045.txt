@@ -1,0 +1,18 @@
+ID: 74-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Test-Driven Development (TDD) é uma abordagem de desenvolvimento de software onde os testes são escritos antes do código que implementa a funcionalidade. No contexto da prática de Test-Driven Development (TDD), assinale a opção que descreve corretamente a sequência de etapas que um desenvolvedor deve seguir.
+
+[ALTERNATIVAS]
+(A) Escrever o código de produção, criar os testes automatizados e depois refatorar o código.
+(B) Criar os testes automatizados, escrever o código de produção para passar nos testes e depois refatorar o código.
+(C) Refatorar o código existente, escrever novos testes automatizados e depois implementar novas funcionalidades.
+(D) Escrever os casos de teste, refatorar o código existente e depois implementar o código de produção.
+(E) Implementar o código de produção, refatorar o código, e por último, criar os testes automatizados.
+
+[GABARITO]
+B

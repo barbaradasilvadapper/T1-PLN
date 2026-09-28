@@ -1,0 +1,18 @@
+ID: 17-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em banco de dados, uma transação é uma unidade lógica de trabalho. Observe o seguinte script de uma transação implementada no MYSQL: CREATE TABLE cliente (id INT, nome CHAR INDEX (id)); START TRANSACTION; INSERT INTO cliente VALUES (1, 'LUCAS'); COMMIT; SET autocommit = 0; INSERT INTO cliente VALUES (2, 'MARCOS'); INSERT INTO cliente VALUES (3, 'PAULO'); UPDATE cliente SET nome='TIAGO' WHERE id=3; DELETE FROM cliente WHERE nome='LUCAS'; ROLLBACK; SELECT * FROM cliente; (50), Após a execução do script apresentado, a consulta retornará as colunas id e nome com os valores:
+
+[ALTERNATIVAS]
+(A) 1 LUCAS
+(B) 1 LUCAS 2 MARCOS 3 PAULO
+(C) 1 LUCAS 2 MARCOS 3 TIAGO
+(D) 2 MARCOS 3 TIAGO
+(E) null null
+
+[GABARITO]
+A

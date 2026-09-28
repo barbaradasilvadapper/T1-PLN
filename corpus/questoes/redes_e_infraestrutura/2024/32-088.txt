@@ -1,0 +1,18 @@
+ID: 32-088
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa possui uma aplicação corporativa em software, onde seus funcionários executam projetos e trocam informações. A equipe de Tecnologia da Informação (TI) desta empresa contratou um serviço de computação em nuvem, e migrou esta aplicação de seu datacenter corporativo para aquele ambiente disponível na internet. Depois disso, a equipe de TI deixou de se preocupar com os ativos e serviços de infraestrutura necessários à operação daquele software, como servidores, switches, roteadores, energia elétrica, refrigeração, conexão com internet etc. Entretanto, manteve a necessidade da instalação de máquinas virtuais, sistemas operacionais, customização do software, gerenciamento de permissões de usuários etc. para operação da aplicação corporativa no novo ambiente. Assinale a opção que apresenta o tipo de computação em nuvem contratado pela empresa para o novo modelo de operação do software em questão.
+
+[ALTERNATIVAS]
+(A) IaaS (Infrastructure as a Service).
+(B) DaaS (Datacenter as a Service).
+(C) PaaS (Platform as a Service).
+(D) CaaS (Computer as a Service).
+(E) SaaS (Software as a Service).
+
+[GABARITO]
+A

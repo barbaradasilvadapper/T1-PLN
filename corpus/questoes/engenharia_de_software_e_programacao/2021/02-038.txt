@@ -1,0 +1,18 @@
+ID: 02-038
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere a função xpto em código JavaScript. function xpto (s) { let text = "" for (const x of s) { text = x + text; } return text; } A expressão xpto("banana" + "laranja") retorna:
+
+[ALTERNATIVAS]
+(A) lbaarnaannjaa
+(B) banalaranja
+(C) laranjabanana
+(D) ajnaralananab
+(E) ananabajnaral
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 37-049
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma técnica de criptografia largamente empregada para garantir segurança em transações digitais, que utiliza uma chave pública para ciframento de dados e uma outra chave privada para deciframento desses dados previamente cifrados, é:
+
+[ALTERNATIVAS]
+(A) DES;
+(B) AES;
+(C) RSA;
+(D) SHA;
+(E) MD5.
+
+[GABARITO]
+C

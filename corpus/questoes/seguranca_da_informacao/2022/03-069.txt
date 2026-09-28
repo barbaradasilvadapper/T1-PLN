@@ -1,0 +1,18 @@
+ID: 03-069
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A respeito do chamado direito ao esquecimento, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) consiste no poder de obstar, em razão da passagem do tempo, a divulgação de fatos ou dados verídicos e licitamente obtidos e publicados em meios de comunicação social, tanto analógicos como digitais.
+(B) corresponde à quebra da vinculação eternizada pelos sites de busca, a fim de desassociar os dados pessoais do resultado cuja relevância se encontra superada pelo decurso do tempo.
+(C) revela-se como garantia constitucional implícita, sendo decorrência direta da cláusula geral de tutela da dignidade da pessoa humana, que consiste em um dos fundamentos da República.
+(D) é incompatível com a Constituição por violar a liberdade de expressão, sendo assegurada a prevalência desta última sobre a proteção da honra, da imagem, da privacidade e da personalidade em geral.
+(E) é assegurado unicamente nos termos da legislação penal e eleitoral, obstando a divulgação de fatos referentes a crimes cuja punibilidade já foi extinta pelo cumprimento de pena.
+
+[GABARITO]
+A

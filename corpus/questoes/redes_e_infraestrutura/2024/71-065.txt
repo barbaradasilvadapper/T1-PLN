@@ -1,0 +1,18 @@
+ID: 71-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação ao proxy reverso, avalie se as afirmativas a seguir são ( ) No proxy reverso, o cliente não tem conhecimento de que a solicitação enviada não vai diretamente para o servidor web, mas sim para o servidor proxy. ( ) O invasor não consegue ver a localização real do servidor web porque ele está topologicamente fechado pelo proxy reverso. ( ) O Web Application Firewall (WAF) não pode ser implementado em aplicações web em dispositivos que possuem proxy reverso configurado.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) F – V – V.
+(C) F – V – F.
+(D) V – F – F.
+(E) V – V – F.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 42-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma agência governamental, que gerencia dados pessoais, precisa se adequar à lei n o 13.709/2018, no que tange ao tratamento de dados pessoais sensíveis sem fornecimento de consentimento do titular. Nesse caso, um sistema dessa agência, para tratar desse tipo de dados, deve estar de acordo com uma das hipóteses indispensáveis observadas nessa lei, para o qual utiliza-se tais dados para
+
+[ALTERNATIVAS]
+(A) o acesso aos dados pessoais sensíveis que servem para divulgação de resultados de quaisquer estudos ou pesquisas de saúde pública.
+(B) o acesso como dados pessoais para àqueles dados utilizados para definição comportamental de determinada pessoa natural identificada.
+(C) a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais sensíveis.
+(D) a realização de filtros para separar dados pessoais sensíveis dos dados pessoais comuns, de modo que a proteção aos dados seja equânime.
+(E) a utilização de dados anonimizados, considerados como dados pessoais irreversíveis para fins de propaganda e marketing protegidos.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 52-072
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Uma instituição financeira deseja implementar um sistema de detecção automática de fraudes em transações bancárias, com base em registros históricos rotulados como fraude e transação legítima. O objetivo é classificar novas transações em tempo real. A técnica de aprendizado de máquina supervisionado mais indicada para esse cenário é:
+
+[ALTERNATIVAS]
+(A) Árvore de Decisão.
+(B) Regressão Linear.
+(C) K-means.
+(D) PCA (Principal Component Analysis).
+(E) DBSCAN (Density-Based Spatial Clustering of Applications with Noise).
+
+[GABARITO]
+A

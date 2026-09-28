@@ -1,0 +1,18 @@
+ID: 70-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o trecho de código em JavaScript a seguir: function testeComplexidade(n) { let soma = 0; for (let i = 0; i < n; i++) { for (let j = 0; j < n; j++) { soma += i + j; } } return soma; } Com base no código, a complexidade de tempo do algoritmo em notação O-Grande (Big-O) é:
+
+[ALTERNATIVAS]
+(A) O(1)
+(B) O(n)
+(C) O(n log (n))
+(D) O(n²)
+(E) O(n!)
+
+[GABARITO]
+D

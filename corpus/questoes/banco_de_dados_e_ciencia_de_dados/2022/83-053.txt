@@ -1,0 +1,18 @@
+ID: 83-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O sckit-learn suporta o processamento de algoritmos de aprendizado de máquina do tipo supervisionado como, por exemplo,
+
+[ALTERNATIVAS]
+(A) o SVM e a clusterização.
+(B) o BIRCH e o vizinho mais próximo.
+(C) o PCA e os gaussian mixture models.
+(D) o naive bayes e as árvores de decisão.
+(E) o modelo cúbico e a densidade estimada.
+
+[GABARITO]
+D

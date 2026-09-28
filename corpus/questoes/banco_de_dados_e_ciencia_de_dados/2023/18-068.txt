@@ -1,0 +1,18 @@
+ID: 18-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe a estrutura da tabela “Cliente” abaixo: CREATE TABLE cliente ( cliente_ID NUMBER(12) PRIMARY KEY, cidade VARCHAR2(50) NOT NULL, limite_credito NUMBER(13,2) DEFAULT 0 ); Com o objetivo de gerar um relatório que mostre o limite de crédito médio para clientes em “Sao Paulo” e “Belo Horizonte”, a consulta a ser executada é:
+
+[ALTERNATIVAS]
+(A) SELECT cidade, AVG(NVL(limite_credito,0)) FROM cliente WHERE cidade IN ('SAO PAULO','BELO HORIZONTE');
+(B) SELECT cidade, AVG(limite_credito) FROM cliente GROUP BY cidade;
+(C) SELECT cidade, AVG(limite_credito) FROM cliente GROUP BY cliente_ID;
+(D) SELECT cidade, AVG(limite_credito) FROM cliente GROUP BY cidade, limite_credito;
+(E) SELECT cidade, AVG(limite_credito) FROM cliente GROUP BY limite_credito, cidade;
+
+[GABARITO]
+B

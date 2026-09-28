@@ -1,0 +1,18 @@
+ID: 34-044
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em sistemas de telefonia VoIP, o codec de áudio G.711 utiliza modulação PCM sem compressão, operando a uma taxa de
+
+[ALTERNATIVAS]
+(A) 8 kbps.
+(B) 16 kbps.
+(C) 32 kbps.
+(D) 64 kbps.
+(E) 128 kbps.
+
+[GABARITO]
+D

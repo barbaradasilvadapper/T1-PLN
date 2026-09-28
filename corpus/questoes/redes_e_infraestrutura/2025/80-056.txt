@@ -1,0 +1,18 @@
+ID: 80-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A quantidade de octetos presentes nos endereços IP dos protocolos IPv4 e IPv6 é de, respectivamente,
+
+[ALTERNATIVAS]
+(A) 24 e 72.
+(B) 16 e 64.
+(C) 8 e 32.
+(D) 4 e 16.
+(E) 2 e 8.
+
+[GABARITO]
+D

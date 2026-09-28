@@ -1,0 +1,18 @@
+ID: 41-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Tribunal de Justiça de Sergipe (TJSE) recebeu uma demanda do Superior Tribunal de Justiça (STJ) para criptografar os documentos internos que tramitam por ele. Foi informado ao TJSE que deveria ser criado um novo algoritmo criptográfico com as mesmas características do AES (adVanCed enCrYptIon Standard). Portanto, o algoritmo a ser criado pelo Tribunal de Justiça de Sergipe deverá ter como premissas:
+
+[ALTERNATIVAS]
+(A) tamanho de chave de rodada de 128 bits, 12 rodadas de criptografia e tamanho de chave expandida de 208 bytes;
+(B) tamanho de bloco de texto em claro de 128 bits, 16 rodadas de criptografia e tamanho de chave de 256 bits;
+(C) tamanho de chave expandida de 208 bytes, 10 rodadas de criptografia e chave de 128 bits;
+(D) tamanho de chave de 32 bytes, 14 rodadas de criptografia e tamanho de chave expandida de 208 bytes;
+(E) tamanho de chave expandida de 176 bytes, 12 rodadas de criptografia e tamanho de bloco de texto em claro de 128 bits.
+
+[GABARITO]
+A

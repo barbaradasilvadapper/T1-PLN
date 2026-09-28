@@ -1,0 +1,18 @@
+ID: 13-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A analista de Business Intelligence Maria implementou um Dashboard sobre os processos judiciais do MPU por Estado no PowerBI. O usuário João solicitou a Maria que, ao clicar na entidade “Estado”, fosse aberta uma nova página com gráficos exibindo informações com detalhes sobre o “Estado” selecionado. Com a nova página contendo informações apenas do Estado selecionado, João poderia avançar em seu trabalho. No PowerBI, para implementar a solicitação de João, Maria deve:
+
+[ALTERNATIVAS]
+(A) utilizar um slicer hierárquico para filtrar o relatório por “Estado” abrindo uma nova página;
+(B) criar grupos de visuais no relatório que podem ser exibidos ou ocultados de acordo com a seleção da entidade “Estado”;
+(C) criar um relatório paginado com parâmetros que filtrem pela entidade “Estado” em uma nova página;
+(D) implementar um visual, como o TreeMap, que permite a realização da operação drilldown sobre a entidade “Estado”;
+(E) criar uma página destino com visuais sobre o “Estado” selecionado, configurando a operação drillthrough no relatório de origem.
+
+[GABARITO]
+E

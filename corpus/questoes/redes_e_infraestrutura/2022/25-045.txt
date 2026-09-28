@@ -1,0 +1,18 @@
+ID: 25-045
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+As interfaces dos equipamentos de uma rede local podem atuar com diferentes velocidades de transmissão. Contudo, se o emissor transmitir em velocidade muito superior à do receptor poderá sobrecarregar o buffer do receptor. Para controle de fluxo, no padrão Ethernet é implementado o mecanismo de quadros:
+
+[ALTERNATIVAS]
+(A) STOP;
+(B) REDUCING;
+(C) PAUSE;
+(D) JUMBO;
+(E) RUNT.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 85-057
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A arquitetura TCP/IP é composta por diversas camadas que permitem a comunicação entre computadores em uma rede. Na camada de aplicação são implementados diversos protocolos, como o login remoto seguro. Na camada de aplicação, o protocolo de rede que usa criptografia para proteger a conexão entre um cliente e um servidor, permitindo uma administração de rede segura por sobre uma rede insegura, é o:
+
+[ALTERNATIVAS]
+(A) FTP;
+(B) DNS;
+(C) SSH;
+(D) HTTP;
+(E) SMTP.
+
+[GABARITO]
+C

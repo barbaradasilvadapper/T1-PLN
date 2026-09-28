@@ -1,0 +1,18 @@
+ID: 88-045
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+No COBIT 2019 os objetivos de governança e gestão estão agrupados em domínios. De acordo com este framework, é correto afirmar que o domínio BAI (Buid, Acquire, and Implement) fornece orientação sobre como
+
+[ALTERNATIVAS]
+(A) adquirir e implementar soluções de TI e integrá-las nos processos de negócio.
+(B) gerenciar os incidentes de serviços e implementar os controles de segurança.
+(C) monitorar o atingimento das metas de desempenho de TI e de conformidade de organização.
+(D) planejar os investimentos, gerenciar os riscos e medir a qualidade de execução dos processos de TI.
+(E) gerenciar a estratégia e administrar os investimentos de negócio habilitados por TI.
+
+[GABARITO]
+A

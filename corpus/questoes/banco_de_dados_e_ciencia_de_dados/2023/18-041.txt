@@ -1,0 +1,18 @@
+ID: 18-041
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+anteriormente, analise o comando SQL a seguir. select * from competidor c, disputa d where (c.nome = d.azul and c.nome = d.verde) or (c.nome = d.verde and c.nome = d.azul) O número de linhas produzidas pela execução desse comando, sem contar a linha de títulos, é:
+
+[ALTERNATIVAS]
+(A) 0;
+(B) 1;
+(C) 6;
+(D) 18;
+(E) 36.
+
+[GABARITO]
+A

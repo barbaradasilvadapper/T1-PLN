@@ -1,0 +1,18 @@
+ID: 57-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Na empresa T, Davi está implementando o gerenciamento de serviços com base no ITIL versão 4. O Sistema de Valor de Serviços (SVS) representa o modo como os vários componentes e atividades da organização trabalham juntos para facilitar a criação de valor através dos serviços de TI implementados. Davi está executando práticas gerais de gestão adotadas e adaptadas para atendimento à gestão de domínios gerais. Ele busca garantir que a organização tenha a combinação certa de programas, projetos, produtos e serviços para executar a estratégia da organização dentro de suas restrições de recursos. Davi está implementando a prática de gerenciamento de:
+
+[ALTERNATIVAS]
+(A) portfólio;
+(B) projeto;
+(C) relacionamento;
+(D) risco;
+(E) estratégia.
+
+[GABARITO]
+A

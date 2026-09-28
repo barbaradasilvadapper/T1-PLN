@@ -1,0 +1,18 @@
+ID: 78-068
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A partir do lançamento do PHP 7 e do ECMAScript 2021 foram introduzidos novos recursos que impactaram a forma como os desenvolvedores escrevem e mantêm código. Com relação ao lançamento destas novas versões, analise os itens a seguir: I. ECMAScript 2021 introduziu o operador de encadeamento opcional, representado pelo codificador “ ?. “. II. ECMAScript 2021 removeu o suporte para funções assíncronas. III. PHP 7 introduziu o operador de coalescência nula, representado pelo codificador “ ?? “.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

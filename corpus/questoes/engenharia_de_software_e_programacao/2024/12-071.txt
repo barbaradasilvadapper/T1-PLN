@@ -1,0 +1,18 @@
+ID: 12-071
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação aos tipos estruturados da linguagem de programação Python 3, avalie as afirmativas a seguir: I. A tentativa de utilizar conjunto (set) como chave de um dicionário (dict) retorna erro. II. O conjunto (set) não permite elementos repetidos. III. O construtor do tipo list retorna erro ao receber uma string como argumento (entrada).
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 85-051
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Equipe de Desenvolvimento de Soluções (EDS) recebeu a solicitação de que um dos campos utilizados para entrada de dados da aplicação Web em construção apresente sugestões de palavras dinamicamente, conforme o usuário for digitando novos caracteres. A EDS recebeu a solicitação de um requisito de:
+
+[ALTERNATIVAS]
+(A) confiança;
+(B) eficiência;
+(C) desempenho;
+(D) usabilidade;
+(E) desenvolvimento.
+
+[GABARITO]
+D

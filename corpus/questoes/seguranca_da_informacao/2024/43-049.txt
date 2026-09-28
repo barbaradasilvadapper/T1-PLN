@@ -1,0 +1,18 @@
+ID: 43-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Durante uma varredura na rede interna, a equipe de segurança do Tribunal de Justiça de Mato Grosso do Sul detectou a ocorrência de alguns incidentes de segurança. Como forma de mitigar a ocorrência de incidentes, um membro da equipe foi orientado, pelo Chefe de Departamento de Segurança, a fazer uma notificação dos incidentes ocorridos ao CERT.BR (Centros de estudos, resposta e tratamento de incidentes de segurança no Brasil). Porém, em virtude da falta de respostas às notificações anteriores, a equipe de desenvolvimento utilizou como método(s) alternativo(s):
+
+[ALTERNATIVAS]
+(A) o email;
+(B) o formulário web;
+(C) o telefone;
+(D) o VoIP INOC-DBA;
+(E) o chat e redes sociais.
+
+[GABARITO]
+E

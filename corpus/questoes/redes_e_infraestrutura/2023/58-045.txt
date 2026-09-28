@@ -1,0 +1,18 @@
+ID: 58-045
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto de script Bash, considere os comandos a seguir num ambiente Linux like operando com as configurações usuais. 1. echo "Texto de exemplo 1." > saida1.txt 2. echo "Texto de exemplo 2." >> saida2.txt Sobre esses comandos, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) o primeiro falha quando o arquivo saida1.txt já existe.
+(B) o segundo falha quando o arquivo saida2.txt já existe.
+(C) o segundo falha quando o arquivo saida2.txt não existe.
+(D) os dois são funcionalmente equivalentes em qualquer circunstância.
+(E) os dois são funcionalmente equivalentes quando o arquivo saida2.txt não existe.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 91-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No sistema operacional GNU/Linux, a ferramenta de linha de comando que exibe os processos em execução e o uso de recursos do sistema é denominada
+
+[ALTERNATIVAS]
+(A) cal.
+(B) cat.
+(C) df.
+(D) job.
+(E) top.
+
+[GABARITO]
+E

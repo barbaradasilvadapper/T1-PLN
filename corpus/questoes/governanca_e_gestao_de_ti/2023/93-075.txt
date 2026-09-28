@@ -1,0 +1,18 @@
+ID: 93-075
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Com relação aos modelos de maturidade do COBIT 5, analise os itens a seguir. I. O modelo de maturidade de processo fornece uma maneira de avaliar a maturidade do processo de TI de uma organização. II. O modelo de maturidade de capacidade permite uma avaliação mais abrangente da capacidade de processos de TI que suportam as metas de negócios de uma organização. III. O modelo de maturidade de capacidade permite seis níveis de capacidade, de acordo com o seu estágio de implementação, variando da denominação de “Inexistente” até o nível “Otimizado”.
+
+[ALTERNATIVAS]
+(A) III, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

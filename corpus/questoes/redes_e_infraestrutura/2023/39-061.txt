@@ -1,0 +1,18 @@
+ID: 39-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A empresa na qual Letícia trabalha migrou recentemente todas as máquinas para o sistema operacional Ubuntu. Numa instalação padrão, para editar o arquivo de configuração global do sistema, Letícia deve acessar a pasta:
+
+[ALTERNATIVAS]
+(A) /bin
+(B) /dev
+(C) /etc
+(D) /home
+(E) /sys
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 79-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe a inserção dos registros pelo seguinte script SQL. INSERT INTO Parte (ParteID, idade) VALUES (1 ,17); INSERT INTO Parte (ParteID, idade) VALUES (2 ,16); INSERT INTO Processo (processoID, data_audiencia, valor_causa) VALUES (1 ,'2025-02-05',1000); INSERT INTO Processo (processoID, data_audiencia, valor_causa) VALUES (2 ,'2025-10-05',2000); INSERT INTO ProcessoParte (processoID, parteid) VALUES (1 ,1); INSERT INTO ProcessoParte (processoID, parteid) VALUES (2 ,2); No PostgreSQL, para consultar os Processos ( Processos ) que envolvem partes menores que 18 anos, por ordem de maior Valor de Causa ( valor_causa ), cuja Audiência ( data_audiencia ) está agendada para os próximos 30 dias, deve-se executar o comando SQL:
+
+[ALTERNATIVAS]
+(A) SELECT p.processoid, p.valor_causa, p.data_audiencia FROM Parte pt, ProcessoParte pp , Processo p WHERE pp.parteid = pt.parteid and pp.processoid = p.processoid AND pt.idade < 18 AND p.data_audiencia BETWEEN NOW()::DATE AND NOW()::DATE + INTERVAL '30 days' ORDER BY p.valor_causa DESC
+(B) SELECT p.processoid as numero, SUM(p.valor_causa) as ValorCausa, p.data_audiencia FROM processo p INNER JOIN parte pt ON pt.idade < 18 INNER JOIN ProcessoParte pp ON pp.parteid = pt.parteid WHERE p.data_audiencia BETWEEN NOW() AND NOW() + INTERVAL '30 days' GROUP BY p.processoid, p.data_audiencia ORDER BY ValorCausa DESC
+(C) SELECT p.processoid as numero, SUM(p.valor_causa) as ValorCausa, p.data_audiencia as DataAudiencia FROM Processo p INNER JOIN ProcessoParte pp ON p.ProcessoID = pp.ProcessoID INNER JOIN Parte pt ON pp.ParteID = pt.ParteID WHERE pt.idade < 18 AND p.data_audiencia > NOW() + INTERVAL '30 days' GROUP BY p.processoid, p.data_audiencia ORDER BY ValorCausa ASC
+(D) SELECT p.processoid as numero, p.valor_causa, p.data_audiencia FROM Parte pt INNER JOIN Processo p ON pt.idade < 18 AND p.data_audiencia BETWEEN NOW() AND CURRENT_DATE + DATE_PART('DAY', 30)
+(E) SELECT p.processoid, p.valor_causa, p.data_audiencia FROM processo p INNER JOIN parte pt ON pt.idade < 18 WHERE p.data_audiencia BETWEEN NOW() AND NOW() + 30
+
+[GABARITO]
+A

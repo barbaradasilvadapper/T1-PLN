@@ -1,0 +1,18 @@
+ID: 51-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No método Kanban, uma das práticas centrais ajuda a identificar gargalos e promover a eficiência ao limitar a quantidade de trabalho em progresso. O texto acima se refere à seguinte prática do Kanban:
+
+[ALTERNATIVAS]
+(A) dividir o trabalho em iterações fixas.
+(B) estabelecer metas rígidas de entrega.
+(C) realizar reuniões diárias de acompanhamento.
+(D) aumentar o número de colunas no quadro Kanban.
+(E) limitar o WIP (Work in Progress).
+
+[GABARITO]
+E

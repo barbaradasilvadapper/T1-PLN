@@ -1,0 +1,18 @@
+ID: 63-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Nas aplicações baseadas na nuvem, os componentes do sistema geralmente necessitam fornecer informações a outros entes, conforme a ocorrência de eventos. Nessa conjuntura, assinale a opção que apresenta a arquitetura de software que permite a um aplicativo anunciar eventos para vários consumidores de seu interesse, de forma assíncrona, e sem acoplamento entre remetentes e destinatários.
+
+[ALTERNATIVAS]
+(A) Injeção de Dependência.
+(B) Publisher-Subscriber.
+(C) Valet Key.
+(D) Abstract Factory.
+(E) Back-end for front-end.
+
+[GABARITO]
+B

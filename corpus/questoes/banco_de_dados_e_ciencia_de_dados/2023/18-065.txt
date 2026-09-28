@@ -1,0 +1,18 @@
+ID: 18-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João, administrador de banco de dados, deverá configurar a inicialização de uma instância do Banco de Dados Oracle. Para isso, deverá considerar que somente poderá executar o “shutdown” da instância após o “rollback” das transações não submetidas a “commit”. Para tanto, como João não precisa aguardar a conclusão de todas as transações, ele deverá executar o modo de “shutdown”:
+
+[ALTERNATIVAS]
+(A) abort;
+(B) mount;
+(C) nomount;
+(D) immediate;
+(E) transactional.
+
+[GABARITO]
+D

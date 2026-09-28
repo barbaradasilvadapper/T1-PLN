@@ -1,0 +1,18 @@
+ID: 87-049
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o conteúdo de uma página web simplificada, exibido a seguir. <!DOCTYPE html> <html> <head> <XXXXXXX rel="stylesheet" href="mystyle.css"> </head> <body> <h1>This is a heading</h1> </body> </html> O elemento que deve substituir a string XXXXXXX, na quarta linha, para especificar corretamente a referência a uma folha de estilos externa (external style sheet) é:
+
+[ALTERNATIVAS]
+(A) import
+(B) include
+(C) link
+(D) ref
+(E) url
+
+[GABARITO]
+C

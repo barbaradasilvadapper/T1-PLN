@@ -1,0 +1,18 @@
+ID: 74-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Metodologia Ágil é uma abordagem utilizadas para gerenciar e executar projetos de desenvolvimento de software, com foco na flexibilidade, colaboração e entrega contínua de valor. No contexto da Metodologia Ágil Scrum, a seguinte atividade é realizada durante a cerimônia de "Sprint Retrospective":
+
+[ALTERNATIVAS]
+(A) os membros da equipe revisam e priorizam o backlog do produto para a próxima sprint.
+(B) a equipe avalia o trabalho concluído na sprint e demonstra as funcionalidades desenvolvidas aos stakeholders.
+(C) a equipe discute o que funcionou bem, o que não funcionou e como melhorar os processos na próxima sprint.
+(D) o Scrum Master atribui tarefas específicas aos membros da equipe para a próxima sprint.
+(E) o Product Owner aprova ou rejeita as funcionalidades desenvolvidas durante a sprint.
+
+[GABARITO]
+C

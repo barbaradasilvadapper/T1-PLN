@@ -1,0 +1,18 @@
+ID: 61-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um sistema de gerenciamento de pagamentos, existem as classes Pagamento (classe base), PagamentoCartao e PagamentoBoleto (ambas herdam de Pagamento). A classe Pagamento define o método realizarPagamento(), que é sobrescrito tanto por PagamentoCartao quanto por PagamentoBoleto para implementar comportamentos específicos de cada tipo de pagamento. Considere o seguinte código: Assinale a opção que indica o conceito de orientação a objetos que está sendo aplicado quando o método realizarPagamento() é chamado em um objeto do tipo Pagamento, mas o comportamento específico é definido pelas subclasses (PagamentoCartao ou PagamentoBoleto).
+
+[ALTERNATIVAS]
+(A) Encapsulamento, pois o método realizarPagamento() está escondido da implementação interna.
+(B) Polimorfismo, pois o método é definido na classe base, mas o comportamento é determinado pelas subclasses.
+(C) Herança, pois as classes filhas estão herdando o método realizarPagamento() da classe Pagamento.
+(D) Sobrecarga de métodos, pois o método realizarPagamento() está definido com diferentes assinaturas.
+(E) Abstração, pois o método realizarPagamento() oculta a complexidade da lógica interna de pagamento.
+
+[GABARITO]
+B

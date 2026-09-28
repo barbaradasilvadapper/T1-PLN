@@ -1,0 +1,18 @@
+ID: 36-049
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O diretor de TIC Bruno está implementando o Framework de Privacidade e Segurança da Informação no MPU de acordo com o Guia da Secretaria de Governo Digital. A metodologia para implementação desse framework é composta pela atuação de um Sistema de Controle Interno (SCI) que é dividido em linhas de defesa. A primeira linha de defesa é responsável por identificar, avaliar, controlar e mitigar os riscos, guiando o desenvolvimento e a implementação de políticas e procedimentos internos destinados a garantir que as atividades sejam realizadas de acordo com as metas e objetivos da organização. Para atuar na primeira linha de defesa do SCI, Bruno deve coordenar ações para a definição:
+
+[ALTERNATIVAS]
+(A) dos proprietários de ativos;
+(B) da Auditoria Interna (Audin);
+(C) da Secretaria de Controle Interno (Ciset);
+(D) da Autoridade Corporativa de Proteção de Dados;
+(E) da Equipe de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos (ETIR).
+
+[GABARITO]
+A

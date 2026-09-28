@@ -1,0 +1,18 @@
+ID: 84-050
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação às tabelas X e Y definidas anteriormente, assinale o comando SQL que, sempre que executado, retornaria um resultado vazio.
+
+[ALTERNATIVAS]
+(A) select * FROM X WHERE not exists (select * FROM Y where X.A=Y.A)
+(B) select * FROM X WHERE not exists (select * FROM Y where X.A<>Y.A)
+(C) select * FROM X WHERE X.B IS NULL
+(D) select * FROM Y WHERE not exists (select * FROM X where X.A=Y.A)
+(E) select * FROM Y WHERE not exists (select * FROM X where X.A<>Y.A) FGV
+
+[GABARITO]
+D

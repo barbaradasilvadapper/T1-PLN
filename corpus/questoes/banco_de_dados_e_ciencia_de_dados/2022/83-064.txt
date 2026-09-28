@@ -1,0 +1,18 @@
+ID: 83-064
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto da codificação de um trigger de banco de dados Oracle, assinale as variáveis que permitem acesso aos valores dos campos que estão sendo processados.
+
+[ALTERNATIVAS]
+(A) after, before.
+(B) inserted, deleted, updated.
+(C) new, old.
+(D) pre, post.
+(E) row, column.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 57-029
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Para implementar uma solução eficaz na empresa onde trabalha, o analista Ted precisa escolher a melhor definição para serviços de e-mail na nuvem. Um serviço de e-mail na nuvem pode ser corretamente descrito como:
+
+[ALTERNATIVAS]
+(A) uma plataforma que oferece singularmente armazenamento de e-mails em servidores remotos, acessíveis apenas pela equipe de TI da empresa;
+(B) um serviço que permite o envio e recebimento de e-mails usando servidores locais, garantindo maior segurança e controle sobre os dados;
+(C) uma solução baseada na Internet que proporciona a empresas e indivíduos a capacidade de enviar, receber, armazenar e gerenciar e-mails, sem a necessidade de manter a infraestrutura de servidores de e-mail internamente;
+(D) um tipo de serviço de e-mail que criptografa automaticamente todas as mensagens enviadas e recebidas, tornando-o exclusivo para comunicações governamentais;
+(E) uma ferramenta que converte e-mails recebidos em mensagens de texto SMS, facilitando o acesso rápido à comunicação sem a necessidade de Internet.
+
+[GABARITO]
+C

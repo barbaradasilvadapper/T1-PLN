@@ -1,0 +1,18 @@
+ID: 35-063
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Roteamento de rede é o processo de seleção do melhor caminho para que os pacotes de dados viajem de sua origem até seu destino em uma rede. Dentre os diversos protocolos de Roteamento, destacam-se o protocolo de informações de roteamento (ou RIP, Routing Information Protocol) e o Protocolo de Gateway da Borda (ou BGP, Border Gateway Protocol). Com relação aos protocolos de roteamento RIP e o BGP, analise os itens a seguir. I. O RIP é um protocolo de estado de enlace destinado a redes pequenas e relativamente homogêneas, que não escala bem para uma implementação de rede maior II. O BGP é utilizado para roteamento entre sistemas autônomos (ou AS, Autonomous systems) na internet, sendo o único protocolo de gateway externo. III. RIP usa os temporizadores de atualização, tempo limite e lixo para regular seu desempenho, enquanto o BGP realiza o envio de informações de acessibilidade negativas ou positivas e a verificação de que os pares e a conexão de rede entre eles estão funcionando corretamente.
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) II e III, apenas.
+(C) I e III, apenas.
+(D) III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

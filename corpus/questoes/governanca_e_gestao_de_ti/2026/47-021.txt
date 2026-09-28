@@ -1,0 +1,18 @@
+ID: 47-021
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Uma empresa de Tecnologia da Informação decidiu implementar um Sistema de Gestão da Qualidade baseado na ISO 9001 para melhorar a confiabilidade de seus serviços e a satisfação dos clientes. Com base nos requisitos e boas práticas de gestão de serviços de TI, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O registro estruturado de chamados e a análise de causa raiz de incidentes contribuem para a melhoria contínua dos processos e para a tomada de decisão baseada em evidências. ( ) Na gestão de infraestrutura de TI, processos como controle de mudanças e gestão de configuração contribuem para a estabilidade operacional e para a rastreabilidade das alterações no ambiente tecnológico. ( ) O controle de versões no desenvolvimento de software constitui uma ferramenta operacional de apoio aos desenvolvedores, não sendo relevante para os requisitos de controle de informação documentada previstos na ISO 9001.
+
+[ALTERNATIVAS]
+(A) F – V – F.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+(E) F – F – V.
+
+[GABARITO]
+D

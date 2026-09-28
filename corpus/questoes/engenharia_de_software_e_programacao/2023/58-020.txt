@@ -1,0 +1,18 @@
+ID: 58-020
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+GraphQL (Graph Query Language) é uma linguagem muito útil para busca de dados. Sobre a sintaxe da linguagem GraphQL, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Ela possui um esquema de tipos escalares e enumerações, sem suporte a tipos abstratos.
+(B) A indentação por meio de espaços em branco é a maneira de agrupar os campos dos objetos definidos para consulta.
+(C) Ela define um conjunto de operações para consultar dados, mas não oferece meios para modificá-los no lado do servidor.
+(D) As consultas são estruturadas hierarquicamente e têm o mesmo formato dos dados que elas retornam.
+(E) O formato XML deve ser usado para serialização das consultas e respostas.
+
+[GABARITO]
+D

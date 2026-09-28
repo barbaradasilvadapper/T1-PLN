@@ -1,0 +1,18 @@
+ID: 62-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Empresa de Pesquisa Energética (EPE) está fortalecendo suas políticas de segurança da informação para proteger dados sensíveis e garantir a integridade e a disponibilidade dos sistemas. Considerando a importância da segurança da informação, a EPE irá revisar e reforçar suas políticas de segurança. Assim, a EPE, para garantir a proteção abrangente das informações, deve garantir
+
+[ALTERNATIVAS]
+(A) confidencialidade, que assegura que informações estejam acessíveis a qualquer pessoa interessada.
+(B) integridade, que garante que informações possam ser modificadas por qualquer usuário.
+(C) disponibilidade, que assegura que as informações estejam acessíveis apenas em horários específicos.
+(D) a tríade CID, que inclui confidencialidade, integridade e disponibilidade.
+(E) a implementação de senhas fracas para facilitar o acesso dos usuários.
+
+[GABARITO]
+D

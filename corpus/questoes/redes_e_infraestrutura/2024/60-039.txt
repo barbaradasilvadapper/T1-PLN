@@ -1,0 +1,18 @@
+ID: 60-039
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Gilberto está trocando os cabos de rede da empresa em que trabalha. Seu objetivo é substituir os cabos coaxiais por cabos com melhores taxas de transmissão. Inicialmente, Gilberto ficou na dúvida entre cabos ethernet e fibra óptica. Como a empresa relatou que não teria problemas quanto a custos, Gilberto optou pela fibra óptica, em virtude de ela:
+
+[ALTERNATIVAS]
+(A) requerer repetidores à distância de 5 km para que consiga propagar o sinal;
+(B) possuir um excelente valor de revenda nas refinarias especializadas;
+(C) t er um peso maior, apesar de ser mais fina, sendo necessários sistemas mecânicos para transporte;
+(D) possuir comunicação unidirecional, caso seja utilizada a mesma banda de frequência;
+(E) ter uma capacidade maior de resistir a quebras em curvaturas com ângulos menores.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 62-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um administrador de rede instalou um Storage, do tipo NAS (Network-Attached Storage), para armazenar os dados críticos de sua empresa. Esse Storage suporta até 10 (dez) unidades Solid State Disk (SSD) para armazenamento de dados. O administrador instalou 10 (dez) SSD, com capacidade de armazenamento de 1TB cada, sob a configuração RAID 1 (Redundant Array of Inexpensive Disks 1) nesse Storage. Assinale a opção que apresenta a capacidade total de armazenamento desse Storage na configuração realizada pelo administrador de rede dessa empresa.
+
+[ALTERNATIVAS]
+(A) 1TB
+(B) 2TB
+(C) 5TB
+(D) 8TB
+(E) 10TB
+
+[GABARITO]
+C

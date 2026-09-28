@@ -1,0 +1,18 @@
+ID: 75-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Independente do modelo utilizado, um sistema de software passa por cinco fases, que constituem o ciclo de vida de desenvolvimento de software. As opções a seguir se referem corretamente acerca dessas fases, à exceção de uma. Assinale-a.
+
+[ALTERNATIVAS]
+(A) Investigação e análise: requerimentos iniciais do sistema; especificação dos requerimentos necessários.
+(B) Projeto: especificação do modelo.
+(C) Desenvolvimento: sistema de software real; documentação do produto.
+(D) Implementação: sistema de software validado; documentação convalidada.
+(E) Gerenciamento: sistema de software aprimorado; documentação revisada.
+
+[GABARITO]
+D

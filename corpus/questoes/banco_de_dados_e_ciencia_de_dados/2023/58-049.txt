@@ -1,0 +1,18 @@
+ID: 58-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Uma das características da utilização de bancos de dados NoSQL é a escalabilidade horizontal, oferecida por meio da fragmentação entre servidores (nós). Nesse cenário de distribuição, contudo, é importante analisar os modelos de coerência (consistency) oferecidos em cada implementação. Assinale a premissa fundamental do nível de coerência forte em um cenário de particionamento de dados em um network.
+
+[ALTERNATIVAS]
+(A) Toda operação de read recebe o valor mais recentemente gravado no network, ou um erro.
+(B) Toda operação de read recebe o valor mais recentemente gravado no nó de origem da requisição.
+(C) Toda operação de read recebe o valor mais recentemente gravado no nó central do network.
+(D) Toda operação de write é disseminada para todos os nós do network.
+(E) Toda operação de write é replicada no nó central do network.
+
+[GABARITO]
+A

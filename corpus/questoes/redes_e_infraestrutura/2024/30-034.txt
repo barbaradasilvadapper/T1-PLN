@@ -1,0 +1,18 @@
+ID: 30-034
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considere o padrão IEEE 802.11, que define especificações para redes locais sem fio (WLAN). O método de acesso ao meio empregado nesse padrão é o:
+
+[ALTERNATIVAS]
+(A) CSMA/CD;
+(B) FDMA;
+(C) TDMA;
+(D) CSMA/CA;
+(E) CDMA.
+
+[GABARITO]
+D

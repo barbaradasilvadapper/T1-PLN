@@ -1,0 +1,18 @@
+ID: 36-058
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Ministério Público da União (MPU) contratou a empresa J para modernizar as conexões de redes existentes entre seu centro de dados (CD) e sua contingência. O objetivo é melhorar a qualidade e a velocidade de transmissão de informações entre esses CD's implementando um sistema Ethernet de 10 Gigabits. Serão substituídos todos os cabos categoria 5e existentes por fibras óticas exigidas para a comunicação em 10 Gbps. Sabendo-se que a distância dos segmentos entre esses CD's é maior que 15 km, as fibras utilizadas a serem licitadas nesse processo devem ser especificadas como:
+
+[ALTERNATIVAS]
+(A) 10GBase - SR;
+(B) 10GBase - LR;
+(C) 10GBase - ER;
+(D) 10GBase - CX4;
+(E) 10GBase - T.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 52-018
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os grandes modelos de linguagem, também conhecidos como LLMs (Large Language Model),
+
+[ALTERNATIVAS]
+(A) empregam uma tabela numérica para representar cada palavra, o que possibilita reconhecer relações entre palavras, como vocábulos com significados semelhantes.
+(B) correspondem a um conjunto de redes neurais em que cada uma consiste em um codificador e um decodificador com recursos de recorrência e convoluções.
+(C) processam entradas sequencialmente, o que potencializa a realização dos cálculos mais complexos.
+(D) utilizam vetores multidimensionais, conhecidos como incorporações de palavras, para representá-las de modo que aquelas com significados contextuais semelhantes ou com outras relações fiquem próximas entre si no espaço vetorial.
+(E) processam sequências inteiras em paralelo, empregando recursos de recorrência e convoluções, o que possibilita o uso extensivo de GPUs (Graphics Processing Units) para treinar LLMs.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 83-062
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O software malicioso que toma como refém informações pessoais ou corporativas e que depende do pagamento de uma quantia em dinheiro ou bitcoins para a liberação desses se denomina
+
+[ALTERNATIVAS]
+(A) swindling.
+(B) rootkit.
+(C) adware.
+(D) ransomware.
+(E) scareware.
+
+[GABARITO]
+D

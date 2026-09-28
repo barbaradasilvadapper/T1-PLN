@@ -1,0 +1,18 @@
+ID: 76-062
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Para garantir que o novo portal de informações legislativas da Assembleia Legislativa seja responsivo, exibindo-se corretamente em smartphones e desktops, o Analista de Sistemas deve configurar a viewport no cabeçalho HTML. O elemento <meta> que deve ser adicionado ao cabeçalho da página HTML para instruir o navegador a renderizar a largura da página na largura do dispositivo e definir o zoom inicial, permitindo que o CSS Responsivo funcione corretamente é
+
+[ALTERNATIVAS]
+(A) <meta name="scale" content="width=device-width, initialscale=1.0">
+(B) <meta name="rendering" content="responsive">
+(C) <meta name="viewport" content="device-width, initialscale=1.0">
+(D) <meta name="display" content="mobile-first">
+(E) <meta name="responsive" content="true">
+
+[GABARITO]
+C

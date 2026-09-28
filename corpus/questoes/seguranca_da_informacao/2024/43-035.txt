@@ -1,0 +1,18 @@
+ID: 43-035
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A implementação de um sistema de gestão de continuidade de negócios (SGCN) visa a proteger a organização, reduzindo a probabilidade de ocorrências de disrupções e definido formas para responder e se recuperar de interrupções no negócio. A definição de um escopo para o SGCN é importante para limitar e definir sua aplicabilidade. Na definição do escopo, a organização deve:
+
+[ALTERNATIVAS]
+(A) determinar as partes interessadas que sejam pertinentes para o SGCN;
+(B) identificar os produtos e serviços que devem ser incluídos no SGCN;
+(C) ignorar as justificativas das exclusões do SGCN;
+(D) assegurar a integração dos requisitos do SGCN nos processos da organização;
+(E) considerar as mudanças e suas potenciais consequências.
+
+[GABARITO]
+B

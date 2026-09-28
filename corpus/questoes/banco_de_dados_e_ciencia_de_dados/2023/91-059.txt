@@ -1,0 +1,18 @@
+ID: 91-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os data warehouses e data marts possuem características técnicas próprias. Em relação ao tema, analise as afirmativas a seguir: I. Data warehouse de nível empresarial: oferecem múltiplas visões sobre bancos operacionais, as visões são materializadas para obter acessos mais seguros aos dados. II. Data mart: possuem um foco mais específico, são direcionados para um subconjunto de setores de uma organização, por exemplo, um departamento. III. Data mart virtuais: são imensos projetos complexos que demandam investimentos expressivos de tempo e de recursos computacionais e humanos. Está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I apenas.
+(B) II apenas.
+(C) III apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+B

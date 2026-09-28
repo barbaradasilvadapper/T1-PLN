@@ -1,0 +1,18 @@
+ID: 07-045
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Guile é um analista sênior e, juntamente com sua equipe, identificou um problema com os relatórios das operações aritméticas computacionais no principal sistema de sua empresa. Nesse contexto, a fim de garantir o adequado processamento automático de informações do sistema e promover as correções no ambiente operacional da empresa, Guile, após receber a solução de sua equipe, validou como correto o seguinte resultado da operação aritmética em hexadecimal:
+
+[ALTERNATIVAS]
+(A) 32B - 1BD = 15E;
+(B) 7B12 - AC1 = 8051;
+(C) 37DEAD + FACA = 38DEAD;
+(D) CAEDA + 3A2BCD = 46DAA7;
+(E) CA3DA + 2B3ACC = 37DEAD.
+
+[GABARITO]
+D

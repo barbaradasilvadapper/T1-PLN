@@ -1,0 +1,18 @@
+ID: 14-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Diversas técnicas e métricas foram desenvolvidas para estimar o tamanho de um projeto de software. Com relação à metodologia de Ponto de Função e Story Points, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Pontos de Função devem necessariamente ser utilizados para medir a qualidade e a produtividade de um projeto, permitindo comparar diferentes projetos e equipes de desenvolvimento ( ) Story Points representa uma métrica mais formal, utilizada principalmente em métodos ágeis de desenvolvimento de software, como Scrum e XP. ( ) Os Pontos de Função são mais adequados para projetos ágeis e adaptativos, enquanto os Story Points são mais indicados para projetos que exigem estimativas detalhadas e padronizadas.
+
+[ALTERNATIVAS]
+(A) F – F – V.
+(B) F – F – F.
+(C) F – V – V.
+(D) V – V – F.
+(E) V – F – V.
+
+[GABARITO]
+B

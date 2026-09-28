@@ -1,0 +1,18 @@
+ID: 57-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Ao assumir seu cargo na CVM, a analista Maria ficou responsável por fiscalizar o contrato do Projeto ABC, de responsabilidade da empresa Y. Esse contrato possui baixo valor, se comparado aos demais projetos da CVM. Na primeira reunião, a empresa Y apresentou os principais pontos do projeto, mas não apresentou o documento gerencial que define a Estrutura Analítica do Projeto (EAP). Maria solicitou, então, que a empresa confeccionasse a EAP, mas esta argumentou que o projeto era “pequeno” e, portanto, a EAP não era necessária. Ainda, a empresa afirmou que a confecção da EAP acarretaria perda de tempo e alegou que essa tarefa não era de sua responsabilidade, dado que não estava prevista em contrato. Quanto ao cenário descrito, no que se refere à EAP e à responsabilidade por sua confecção, é correto afirmar que a EAP:
+
+[ALTERNATIVAS]
+(A) é uma decomposição hierárquica do escopo total do trabalho a ser realizado pela equipe do projeto para cumprir seus objetivos e criar as entregas necessárias, assim sendo de responsabilidade da empresa a sua confecção;
+(B) não é necessária em projetos de pequeno porte, dada a necessidade de otimizar o tempo e recursos alocados, sendo de responsabilidade do fiscal, caso deseje, a sua confecção;
+(C) tem a finalidade de consolidar o projeto em um organograma, facilitando a sua apresentação para as partes envolvidas, não sendo de importância gerencial, e não tendo, portanto, responsável pela sua confecção;
+(D) é a ferramenta que mostra as interdependências entre os pacotes de trabalho do projeto, assim sendo de responsabilidade da empresa a sua confecção;
+(E) é ferramenta essencial para a realização do projeto e não pode ser substituída por outro instrumento gerencial, de modo que o projeto deve ser parado até a sua confecção.
+
+[GABARITO]
+A

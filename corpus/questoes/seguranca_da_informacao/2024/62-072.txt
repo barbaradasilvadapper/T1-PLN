@@ -1,0 +1,18 @@
+ID: 62-072
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com relação aos códigos maliciosos e malwares, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Um vírus de macro é um tipo de vírus escrito em linguagem de script, como JavaScript. ( ) Worm é um tipo de malware que replica a si mesmo de forma automática, sendo capaz de se propagar por uma rede. Geralmente, eles consomem muitos recursos, afetando o desempenho da rede e dos computadores infectados. ( ) Um keylogger é um tipo de spyware voltado para teclados virtuais que armazena a posição do cursor e a tela quando o mouse é clicado. Dessa forma, ele pode capturar teclas selecionadas em teclados virtuais. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – F – F.
+(C) F – V – V.
+(D) F – V – F.
+(E) V – F – V.
+
+[GABARITO]
+D

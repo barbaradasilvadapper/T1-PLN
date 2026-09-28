@@ -1,0 +1,18 @@
+ID: 63-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código a seguir, escrito na linguagem de programação Python (versão 3.11.3). <1> x = {i: i ** 2 for i in range(10,0,-1)} <2> y = sorted(x) <3> z = (x[1], y[0], y[1]) Assinale a opção que indica o valor que z recebe na linha <3>.
+
+[ALTERNATIVAS]
+(A) (0, 0, 1)
+(B) (0, 1, 2)
+(C) (1, 0, 1)
+(D) (1, 0, 2)
+(E) (1, 1, 2)
+
+[GABARITO]
+E

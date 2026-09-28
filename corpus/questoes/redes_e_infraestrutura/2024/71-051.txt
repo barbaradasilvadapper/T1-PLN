@@ -1,0 +1,18 @@
+ID: 71-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considere a classe A de endereços IP v4 e sua máscara de sub-rede padrão para endereços dessa classe. O número máximo de hosts endereçáveis é
+
+[ALTERNATIVAS]
+(A) 2 32 – 2.
+(B) 2 24 – 2.
+(C) 2 21 – 2.
+(D) 2 16 – 2.
+(E) 2 8 – 2.
+
+[GABARITO]
+B

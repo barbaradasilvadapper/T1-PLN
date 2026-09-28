@@ -1,0 +1,18 @@
+ID: 01-056
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o fragmento de código jQuery a seguir. $("#x1").click(function(){ $("#x2").html("<b>Hello world!</b>"); }); Numa página web, esse trecho faz com que um clique:
+
+[ALTERNATIVAS]
+(A) em qualquer elemento cuja tag é x1, cause uma alteração no conteúdo de todos os elementos com a tag x2;
+(B) em qualquer elemento da classe x1, cause uma alteração no conteúdo do elemento cujo id é x2;
+(C) no elemento cujo atributo id é x1, cause uma alteração no conteúdo de todos os elementos da classe x2;
+(D) no elemento cujo atributo id é x1, cause uma alteração no conteúdo do elemento cujo id é x2;
+(E) no elemento cujo atributo id é x1, cause uma alteração no conteúdo de todos os elementos com a tag x2.
+
+[GABARITO]
+D

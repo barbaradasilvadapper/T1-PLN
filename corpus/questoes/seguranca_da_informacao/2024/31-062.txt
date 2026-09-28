@@ -1,0 +1,18 @@
+ID: 31-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+De acordo com a norma ISO/IEC 27001, a organização precisa definir a aplicabilidade e os limites do sistema de gestão da segurança da informação para estabelecer o seu escopo. Nesse contexto, no que se refere ao que a organização deve considerar para a determinação do escopo descrito acima avalie as afirmativas a seguir e marque (V) para a verdadeira e (F) para a falsa. ( ) Questões internas e externas importantes para o seu propósito e que afetam sua capacidade para atingir os resultados desejados do seu sistema de gestão da segurança da informação. ( ) Requisitos das partes interessadas relevantes para a segurança da informação, os quais podem incluir requisitos legais e regulamentares, bem como obrigações contratuais. ( ) Interfaces e dependências entre as atividades desempenhadas pela organização e aquelas que são executadas por outras instituições. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) F – F – V.
+(C) V – V – V.
+(D) F – V – V.
+(E) V – F – F.
+
+[GABARITO]
+C

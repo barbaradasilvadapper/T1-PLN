@@ -1,0 +1,18 @@
+ID: 35-066
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+As redes IPv4 são classificadas em 5 classes, cada uma com uma faixa específica de endereços IP e uma máscara de sub-rede padrão. A máscara padrão de uma sub-rede classe C é
+
+[ALTERNATIVAS]
+(A) 255.0.0.0.
+(B) 255.255.0.0.
+(C) 255.255.255.0.
+(D) 255.255.0.255.
+(E) 255.0.255.255.
+
+[GABARITO]
+C

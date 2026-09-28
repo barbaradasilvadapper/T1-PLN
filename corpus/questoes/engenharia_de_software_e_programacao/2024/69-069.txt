@@ -1,0 +1,18 @@
+ID: 69-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O desenvolvimento de páginas web tem sido aperfeiçoado com a aplicação de Responsive web design (RWD, ou Design Responsivo). Com relação às tecnologias envolvidas no desenvolvimento de software responsivo, avalie se as afirmativas a seguir são ( ) A base do design responsivo é a combinação de Hyper Text Markup Languague (HTML), que controla principalmente a estrutura, os elementos e o conteúdo de uma página web, e Cascading Style Sheets (CSS), que é usado para editar o design e o layout dos elementos que são incluídos em uma página com HTML ( ) O design responsivo é uma tecnologia que fornece várias versões completamente diferentes de uma mesma página, onde o HTML e CSS controlam o conteúdo e o layout de uma página em qualquer navegador da web. ( ) O design responsivo é um termo usado para descrever uma abordagem ao web design, ou um conjunto de melhores práticas, usado para criar um layout que adapta a renderização de uma única versão de página e que inclui a Media queries (ou consulta de mídia) como uma parte fundamental do CSS3.
+
+[ALTERNATIVAS]
+(A) F – F – F.
+(B) F – V – F.
+(C) V – F – F.
+(D) V – F – V.
+(E) V – V – V.
+
+[GABARITO]
+D

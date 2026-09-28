@@ -1,0 +1,18 @@
+ID: 21-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um analista da área de ciência de dados construiu um histograma levando em consideração uma determinada base de dados. Para incluir uma curva nesse histograma foi utilizado a função as.timeSeries. Essa função pertence à biblioteca
+
+[ALTERNATIVAS]
+(A) Graphics.
+(B) grDevices.
+(C) fBasics.
+(D) ggplot2.
+(E) Base.
+
+[GABARITO]
+C

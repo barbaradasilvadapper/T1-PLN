@@ -1,0 +1,18 @@
+ID: 60-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A empresa multinacional J está mudando sua sede nacional do campus X para o campus Y na mesma cidade. Para isso, será necessário reconfigurar todas as redes existentes e novas no novo local. Inicialmente serão configuradas as seguintes redes: PAN, LAN, VLAN e MAN. A empresa J precisará configurar cada uma dessas redes, respectivamente, para:
+
+[ALTERNATIVAS]
+(A) a impressora reservada para o chefe de departamento; as máquinas locais de um departamento; a subdivisão da rede física em redes lógicas por departamento; e a conexão da nova sede com a matriz em outro país;
+(B) mouse e teclado sem fio dos colaboradores; uma impressora disponível a todos de um departamento; a segmentação da rede física em redes lógicas para departamentos diferentes; e a conexão da sede nova com a sede antiga;
+(C) as máquinas locais de um departamento; a conexão da sede nova com a antiga; uma impressora sem fio de uso exclusivo; e uma impressora disponível a todos de um departamento;
+(D) uma impressora disponível a todos de um departamento; as máquinas locais de um departamento; a conexão da sede nova com a antiga; e a conexão da nova sede com a matriz em outro país;
+(E) uma impressora sem fio de uso exclusivo; a subdivisão da rede física em redes lógicas por departamento; as máquinas locais de um departamento; a impressora reservada para o chefe de departamento.
+
+[GABARITO]
+B

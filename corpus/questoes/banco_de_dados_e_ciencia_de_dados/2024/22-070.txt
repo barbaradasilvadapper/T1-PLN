@@ -1,0 +1,18 @@
+ID: 22-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em um sistema de banco de dados relacional, o script de comandos SQL a seguir especificado foi submetido à execução: A análise do script permite-nos afirmar que a sua execução produzirá um resultado. Assinale a opção que indica esse resultado.
+
+[ALTERNATIVAS]
+(A) A criação de uma nova coluna “atr4” ao final da execução do script, com as duas tuplas do estado da tabela contendo o valor zero como conteúdo desse novo atributo criado.
+(B) A criação de uma nova restrição de integridade “atr4” ao final da execução do script, que demanda que valores não nulos sejam inicialmente preenchidos com o valor zero.
+(C) O comando ALTER TABLE apresentará erro, pois a especificação da linguagem SQL não permite um novo atributo em uma tabela com especificação de não nulo.
+(D) O comando INSERT não será executado, já que a segunda tupla especificada contém valor nulo no atributo atr3, que necessita ser maior que zero.
+(E) Um erro sintático de construção do comando ALTER TABLE, pela ausência da especificação da palavra reservada COLUMN após a palavra reservada ADD.
+
+[GABARITO]
+A

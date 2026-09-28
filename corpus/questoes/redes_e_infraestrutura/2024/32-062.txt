@@ -1,0 +1,18 @@
+ID: 32-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Três estações A, B e C estão conectadas em uma rede local sem fio padrão IEEE 802.11. Suponha que a estação A esteja transmitindo para a estação B. Suponha também que a estação C esteja transmitindo para a estação B. Neste contexto podem ocorrer dois problemas: problema do terminal oculto e problema desvanecimento do sinal. Com relação aos problemas citados, avalie as afirmativas a seguir. I. Quando ocorrem obstruções físicas no ambiente da rede (por exemplo, um edifício ocultando a estação A, pode impedir que A e C escutem as transmissões de um e de outro, mesmo que as transmissões de A e C estejam interferindo no destino, B. Isto é chamado de problema do terminal oculto. II. O problema do desvanecimento do sinal pode ocorrer em que a localização de A e C é tal que as potências de seus sinais não são suficientes para que eles detectem as transmissões um do outro, mas mesmo assim, são suficientes fortes para interferir uma com a outra na estação B. III. A solução para o problema da estação oculta é o emprego de quadros chamados de Request to Send (RTS) e Clear to Send (CTS). Considere que B e C estão ocultas uma em relação à outra no que diz respeito a A. Vamos supor que um quadro RTS proveniente de A chega em B, mas não em C. Entretanto, como A e C estão dentro do alcance de B, um quadro CTS, que contenha a duração da transmissão de dados de B para A, atinge C. A estação C sabe que alguma estação oculta está usando o canal e para de transmitir.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

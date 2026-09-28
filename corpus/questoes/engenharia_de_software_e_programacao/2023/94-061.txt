@@ -1,0 +1,18 @@
+ID: 94-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o método liga() do seguinte trecho de código escrito na linguagem Java. class Aparelho { public void liga() { }} class Geladeira extends Aparelho { public void liga() { System.out.println("tomada"); }} class TV extends Aparelho { public void liga() { System.out.println("controle remoto"); }} class Main { public static void main(String[] args) { Aparelho geladeira = new Geladeira(); Aparelho tv = new TV(); geladeira.liga(); tv.liga(); }} Em orientação a objeto, o uso de um método com comportamento diferente, como liga(), é realizado por meio do emprego de:
+
+[ALTERNATIVAS]
+(A) Lean;
+(B) Eventos;
+(C) Recursão;
+(D) Polimorfismo;
+(E) Encapsulamento.
+
+[GABARITO]
+D

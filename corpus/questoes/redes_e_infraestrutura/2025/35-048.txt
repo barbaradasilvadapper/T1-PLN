@@ -1,0 +1,18 @@
+ID: 35-048
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considere os protocolos da camada de transporte do modelo de referência TCP/IP. O protocolo que oferece um meio para as aplicações enviarem datagramas IP encapsulados sem que seja necessário estabelecer uma conexão é conhecido por
+
+[ALTERNATIVAS]
+(A) HTTP.
+(B) RTP.
+(C) UDP.
+(D) TCP.
+(E) IP.
+
+[GABARITO]
+C

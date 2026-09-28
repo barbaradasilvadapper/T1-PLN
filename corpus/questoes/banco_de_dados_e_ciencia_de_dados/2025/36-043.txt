@@ -1,0 +1,18 @@
+ID: 36-043
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista Pablo está implementando várias rotinas de carga de dados no Data Warehouse do MPU. Pablo observou que os dados origem, que alimentam as principais dimensões, possuem sua própria chave de identificação. Para não comprometer o uso dessas chaves com a sobreposição de chaves oriundas de outras fontes, Pablo deve implementar uma chave artificial por meio de um(a):
+
+[ALTERNATIVAS]
+(A) controle de versões;
+(B) barramento de dados;
+(C) slowly changing dimension;
+(D) gerenciador de hierarquias;
+(E) rotina de geração de chaves surrogadas.
+
+[GABARITO]
+E

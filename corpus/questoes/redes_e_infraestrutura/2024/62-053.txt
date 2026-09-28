@@ -1,0 +1,18 @@
+ID: 62-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um internauta tinha problemas para acessar uma página HTTP (Hypertext Transfer Protocol) disponível na internet. Para descobrir a causa do problema, ele usou uma ferramenta de análise de protocolos de rede para capturar os pacotes trocados entre sua máquina e o servidor daquela página. Feito isso, verificou que a resposta para a sua solicitação de conexão HTTP apresentava código de estado (status) 401. Assinale a opção que apresenta o provável motivo do recebimento do código de estado(status) 401 nessa tentativa de conexão.
+
+[ALTERNATIVAS]
+(A) A solicitação foi recebida, compreendida e será processada com sucesso pelo servidor.
+(B) A página foi redirecionada.
+(C) A página não pode ser encontrada ou não existe.
+(D) A autenticação é necessária e falhou.
+(E) O servidor não reconhece o método da solicitação ou não possui a capacidade para completá-la.
+
+[GABARITO]
+D

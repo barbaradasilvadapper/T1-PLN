@@ -1,0 +1,18 @@
+ID: 69-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação aos tipos de merge disponíveis no GIT, analise as afirmativas a seguir. I. O merge do tipo simplex é o mais simples de todos, ocorre quando não existem outros branches prévios no servidor GIT; no merge simplex, o git cria um contador de branches no destino. II. O merge do tipo fast-forward ocorre quando os históricos de desenvolvimento dos branches envolvidos no merge não divergiram; durante um merge fast-forward, o GIT move o ponteiro do branch de destino para o commit do branch de origem. III. Os merges full-duplex são um tipo de merge mais complexo em que o usuário pode encontrar conflitos de merge; esses conflitos surgem quando se mesclam dois branches nos quais foram feitas alterações diferentes nas mesmas partes do(s) mesmo(s) arquivo(s), ou se em um branch de um arquivo foi excluído e editado no outro branch.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+B

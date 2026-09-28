@@ -1,0 +1,18 @@
+ID: 19-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O administrador de banco de dados do TJSE deverá criar um script em MySQL para realizar a carga de dados da TABELA A para a TABELA B, considerando que: • a TABELA A foi criada pelo script: CREATE TABLE a ( id INT AUTO_INCREMENT PRIMARY KEY, descricao VARCHAR(255) NOT NULL, custo DECIMAL(10, 2), tipo CHAR(1), CHECK (tipo IN ('A', 'B', 'C')) ); • a TABELA B foi criada pelo script: CREATE TABLE b ( id INT AUTO_INCREMENT PRIMARY KEY, descricao VARCHAR(255) NOT NULL, custo DECIMAL(10, 2) NOT NULL, tipo TINYINT, CHECK (tipo IN (1,2,3)) ); • A TABELA A foi carregada e a coluna CUSTO possui valores NULOS. O script para carregar os dados da TABELA A para a TABELA B é:
+
+[ALTERNATIVAS]
+(A) INSERT INTO b SELECT * FROM a; COMMIT;
+(B) INSERT INTO b (id, descricao, custo, tipo) SELECT id, descricao, custo, tipo FROM a WHERE custo is NOT NULL; COMMIT;
+(C) INSERT INTO b (id, descricao, custo, tipo) SELECT id, descricao, custo, tipo FROM a WHERE custo is NOT NULL AND tipo IN (1, 2, 3); COMMIT;
+(D) INSERT INTO b (id, descricao, custo, tipo) SELECT id, descricao, COALESCE(custo, 0) custo, CASE tipo WHEN 'A' THEN 1 WHEN 'B' THEN 2 WHEN 'C' THEN 3 END AS tipo FROM a; COMMIT;
+(E) INSERT INTO b (id, descricao, custo, tipo) SELECT id, descricao, COALESCE(custo, 0) custo, CASE tipo WHEN 1 THEN 'A' WHEN 2 THEN 'B' WHEN 3 THEN 'C' END AS tipo FROM a; COMMIT; as as
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 27-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Paula está desenvolvendo um sistema de chat que garante a veracidade do conteúdo enviado com a utilização de um hash criptográfico para cada mensagem. A certificação digital não será utilizada, sendo adotada uma chave estática para gerar os blocos de hash. Para implementar a funcionalidade, ela deverá usar o algoritmo:
+
+[ALTERNATIVAS]
+(A) DES;
+(B) 3DES;
+(C) SHA-256;
+(D) AES;
+(E) Base64.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 41-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma plataforma de comércio eletrônico está ampliando a segurança e, dentre algumas ações, está a utilização do SSL. É correto afirmar que o SSL:
+
+[ALTERNATIVAS]
+(A) é projetado para ser um protocolo único, seguro e confiável;
+(B) é projetado para prover um protocolo fim a fim seguro e confiável;
+(C) é projetado para fazer uso do UDP de modo a prover um serviço fim a fim;
+(D) tem como parte o Protocolo de Mudança de Especificação de Cifra e o Protocolo de Alerta;
+(E) pode ser fornecido como parte do conjunto de protocolos subjacentes, mas não pode ser embutido em pacotes específicos.
+
+[GABARITO]
+D

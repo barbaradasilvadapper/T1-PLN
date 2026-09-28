@@ -1,0 +1,18 @@
+ID: 76-043
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Após a análise do Modelo AS-IS e a identificação de gargalos no processo de aquisição de licenças de software (AS-IS), a equipe de Analista de Sistemas está focada em desenhar o Modelo TO-BE. O principal objetivo da criação do Modelo TO-BE em um projeto de melhoria de processos é
+
+[ALTERNATIVAS]
+(A) documentar o processo exatamente como ele ocorre no momento.
+(B) validar a notação gráfica utilizada (ex: BPMN).
+(C) representar o processo redesenhado e otimizado, incorporando as melhorias propostas.
+(D) coletar dados para a simulação do processo atual, apenas.
+(E) servir como o primeiro passo para o mapeamento, antes mesmo do Modelo AS-IS.
+
+[GABARITO]
+C

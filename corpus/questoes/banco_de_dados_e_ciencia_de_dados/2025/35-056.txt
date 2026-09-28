@@ -1,0 +1,18 @@
+ID: 35-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O MS SQL Server 2022 admite o uso de diversos procedimentos armazenados. Com relação aos tipos de procedimentos armazenados e os benefícios da sua utilização, analise os itens a seguir. I. Os comandos de um procedimento armazenado são executados como um único bloco de código, reduzindo significativamente o tráfego de dados da rede entre a máquina cliente e o servidor pois ocorre uma única chamada para executar o procedimento sem esse encapsulamento de código, cada linha individual de código teria de trafegar a rede. II. Quando um aplicativo chama um procedimento armazenado através da rede, a chamada e outras informações para executar o procedimento ficarão visíveis na rede. Portanto, usuários mal-intencionados podem consultar nomes de tabelas e objetos de banco de dados, inserir instruções Transact-SQL próprias e pesquisar para obter dados críticos. III. Por padrão, um procedimento armazenado será compilado todas as vezes que for executado, mas criam-se planos de execução que podem ser reutilizados em execuções subsequentes. Como o processador de consulta não precisa criar um plano a cada execução, o tempo de processar um procedimento é reduzido. Se houver alterações significantes nas tabelas ou dados referenciados pelo procedimento armazenado, o plano de execução poderá fazer com que o procedimento execute mais lentamente. Neste caso, recompilará o procedimento e forçará um novo plano de execução para melhorar o desempenho. IV. Os tipos de procedimentos armazenados suportados pelo SGBD são: os definidos pelo usuário, os procedimentos de sistema, os temporários e as extensões definidas pelo usuário. Esse último tipo permite criar rotinas externas em uma linguagem de programação. Além disso, eles são DLLs que uma instância do MS SQL Server pode carregar e executar dinamicamente. Está correto, o que se afirma em:
+
+[ALTERNATIVAS]
+(A) II e IV, apenas.
+(B) II e III, apenas.
+(C) I e IV, apenas.
+(D) I e III, apenas.
+(E) III e IV, apenas.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 65-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Para integrar um departamento de desenvolvimento de software e um de operações de TI, assinale a ação correta.
+
+[ALTERNATIVAS]
+(A) Implementação da metodologia Agile, concentrando-se na melhoria contínua e colaboração entre as equipes de desenvolvimento de software e operações de TI.
+(B) Utilização da técnica de Benchmarking, comparando os processos internos com os de organizações líderes do setor para identificar melhores práticas.
+(C) Adoção do modelo ITIL para a gestão de serviços de TI, focando na padronização dos processos de entrega e suporte de serviços de TI.
+(D) Aplicação do framework DevOps, integrando os departamentos de desenvolvimento de software e o de operações de TI para agilizar a entrega de projetos e melhorar a comunicação e a colaboração.
+(E) Introdução da técnica Six Sigma, com o objetivo de reduzir a variabilidade nos processos de desenvolvimento de software e operações de TI, aumentando a qualidade das entregas.
+
+[GABARITO]
+D

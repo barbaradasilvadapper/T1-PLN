@@ -1,0 +1,18 @@
+ID: 57-006
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A implementação de um sistema de gestão de segurança da informação (SGSI) baseado na ISO/IEC 27001 envolve diversos processos. Durante o processo de avaliação de riscos da segurança, deve-se:
+
+[ALTERNATIVAS]
+(A) priorizar os riscos analisados para o seu tratamento;
+(B) determinar os controles para implementar as ações para o tratamento dos riscos;
+(C) obter a aprovação dos proprietários dos riscos para definir a aceitação dos riscos residuais;
+(D) considerar as interfaces e dependências entre as atividades do órgão;
+(E) selecionar as opções de tratamento dos riscos.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 38-045
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de Tecnologia da Informação (TI) de um órgão público recebeu uma solicitação para implementar um backup de uma máquina virtual hospedada em seu cluster de virtualização. O cliente solicitou que fossem realizadas cópias diárias dos dados alterados em relação ao último backup completo da pasta /importante . O tipo de backup a ser implementado pela equipe de TI para atender a solicitação do cliente é:
+
+[ALTERNATIVAS]
+(A) imagem da máquina virtual;
+(B) diferencial;
+(C) completo;
+(D) incremental;
+(E) offline. Branca – Página 10 Tipo 1
+
+[GABARITO]
+B

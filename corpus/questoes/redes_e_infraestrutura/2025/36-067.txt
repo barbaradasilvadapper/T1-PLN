@@ -1,0 +1,18 @@
+ID: 36-067
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Ministério Público da União (MPU) está substituindo o sistema operacional Ubuntu de suas estações de trabalho pelo Windows. Para manter as estações de trabalho atualizadas, em conjunto, está sendo implementado um servidor WSUS para gerenciar e distribuir as atualizações. O Departamento de Suporte está na segunda etapa, chamada de configuração do WSUS, e está trabalhando na atividade de:
+
+[ALTERNATIVAS]
+(A) instalação da função de servidor do WSUS;
+(B) escolha de uma abordagem para atribuir computadores clientes a grupos de computadores;
+(C) decisão do cenário de implantação do WSUS;
+(D) configuração do WSUS para aprovar automaticamente a instalação de atualizações para grupos selecionados;
+(E) definição das configurações da política de grupo para atualizações automáticas.
+
+[GABARITO]
+B

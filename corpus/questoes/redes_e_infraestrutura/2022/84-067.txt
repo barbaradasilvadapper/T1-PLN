@@ -1,0 +1,18 @@
+ID: 84-067
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O RAID é um subsistema de armazenamento de dados composto por várias unidades de discos individuais de baixo custo. Com relação ao RAID 6, analise os itens a seguir. I. Provê elevada tolerância a falhas e pode sustentar várias falhas simultâneas em suas unidades, efetua dois cálculos independentes de paridades que são armazenados em duas unidades distintas. II. Como desvantagem requer controladoras de disco mais complexas, que em geral, possuem alta sobrecarga para computar os endereçamentos das paridades. III. Essa configuração é recomendada para aplicações de missão crítica pois os dados dos usuários são espelhados unidades de disco pareadas.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

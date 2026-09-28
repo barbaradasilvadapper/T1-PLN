@@ -1,0 +1,18 @@
+ID: 93-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação a projetos orientados a objetos com UML, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Sistemas orientados a objetos são compostos de objetos interativos que mantêm seu próprio estado local e oferecem operações nesse estado. ( ) Processos de projeto orientado a objetos envolvem projetar as classes de objetos e os relacionamentos entre essas classes. Essas classes definem os objetos no sistema e suas interações. ( ) Sistemas orientados a objetos são mais difíceis de mudar do que os sistemas desenvolvidos com abordagens funcionais.
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) V – V – F.
+(C) F – V – F.
+(D) F – V – V.
+(E) V – F – V.
+
+[GABARITO]
+B

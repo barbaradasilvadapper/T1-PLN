@@ -1,0 +1,18 @@
+ID: 52-054
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O certificado digital é um componente fundamental da Infraestrutura de Chave Pública (PKI) e desempenha papel fundamental na segurança digital. Assinale a afirmativa que descreve corretamente a principal função de um certificado digital.
+
+[ALTERNATIVAS]
+(A) Armazenar senhas de usuários de forma criptografada para acesso a sistemas.
+(B) Gerar chaves de criptografia simétricas e assimétricas para comunicação ponto a ponto em tempo real.
+(C) Associar uma chave pública à identidade de uma pessoa, servidor ou dispositivo, validada por uma Autoridade Certificadora.
+(D) Garantir a integridade de dados transmitidos por meio de assinatura digital com chave privada.
+(E) Criptografar, por meio da função hash, o tráfego de internet de um usuário para garantir seu anonimato.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 40-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A equipe de Segurança da Informação (SI) de um órgão público realizou varreduras de vulnerabilidades em seus ativos a fim de reduzir a exposição dos sistemas aos riscos. Durante a varredura, a equipe de SI identificou que um dos sistemas tinha uma vulnerabilidade que permitia a inserção de scripts maliciosos na aplicação, alterando o conteúdo dinâmico que o usuário recebia em seu navegador, redirecionando-o para um site falso. A vulnerabilidade identificada permitia um ataque de:
+
+[ALTERNATIVAS]
+(A) backdoor;
+(B) rootkit;
+(C) session hijacking;
+(D) cross-site scripting;
+(E) SQL injection.
+
+[GABARITO]
+D

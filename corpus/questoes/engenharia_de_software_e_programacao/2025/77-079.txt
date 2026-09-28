@@ -1,0 +1,18 @@
+ID: 77-079
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe de suporte e manutenção da Assembleia adota o Kanban. O quadro possui o limite de WIP de 2 na coluna Desenvolvimento e 1 na coluna Testes. Se a coluna Testes atingir o limite de 1 tarefa e uma nova tarefa de Desenvolvimento for concluída, assinale a ação que o sistema Kanban impõe à equipe para manter o fluxo contínuo
+
+[ALTERNATIVAS]
+(A) O desenvolvedor deve iniciar uma nova tarefa, ignorando o limite da coluna Testes.
+(B) O Product Owner deve aumentar o limite de WIP na coluna Testes para 2.
+(C) O desenvolvedor deve ajudar o profissional responsável pela coluna Testes a finalizar o item atual para liberar capacidade.
+(D) O item concluído em Desenvolvimento deve ser movido para a coluna Concluído diretamente.
+(E) A equipe deve realizar uma reunião de Daily Scrum de 15 minutos para redefinir as prioridades do projeto.
+
+[GABARITO]
+C

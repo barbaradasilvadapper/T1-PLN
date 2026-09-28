@@ -1,0 +1,18 @@
+ID: 87-078
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O analista em TI Tomé implantou a aplicação MPWebApp no servidor web HServer. Para controlar o acesso à MPWebApp, Tomé habilitou em HServer um esquema de autenticação do HTTP (Hypertext Transfer Protocol). O esquema habilitado por Tomé exige que o cliente envie o usuário e a senha de acesso codificados em Base64 diretamente no cabeçalho Authorization da mensagem de requisição. Logo, Tomé habilitou em HServer o esquema de autenticação HTTP:
+
+[ALTERNATIVAS]
+(A) Digest;
+(B) Bearer Token;
+(C) Hawk;
+(D) OAuth 1.0;
+(E) Basic.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 40-043
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma propriedade interessante dos endereços MAC (Media Access Control — controle de acesso ao meio) é que não existem dois adaptadores de rede com o mesmo endereço. O endereço MAC, utilizado para designar unicamente o endereço de um dispositivo de rede, é composto de bits e pertence a uma camada específica do modelo de referência OSI (Open Systems Interconnection). Nesse contexto, a quantidade de bits de que o MAC é composto e a camada do modelo OSI a que ele pertence são, respectivamente:
+
+[ALTERNATIVAS]
+(A) 32 e rede;
+(B) 64 e física;
+(C) 48 e física;
+(D) 32 e aplicação;
+(E) 48 e enlace de dados.
+
+[GABARITO]
+E

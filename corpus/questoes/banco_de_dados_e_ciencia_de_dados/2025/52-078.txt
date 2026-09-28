@@ -1,0 +1,18 @@
+ID: 52-078
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os principais modelos de bancos de dados NoSQL - chave-valor, documento, colunar e grafo - são indicados para diferentes tipos de dados e necessidades de aplicação. Nesse contexto, a equipe de TI do TCE-PE está avaliando qual desses modelos é mais adequado para dois sistemas distintos que estão em fase de planejamento. Sistema 1: uma base de dados para armazenar perfis de servidores públicos e suas informações funcionais (dados estruturados e semiestruturados, com variações entre os cargos e históricos de alterações). Sistema 2: uma aplicação para análise de relacionamentos entre empresas e servidores, com foco em investigações de conflito de interesse, utilizando conexões como vínculos societários, contratos, nomeações e relações familiares. Nesse contexto, a combinação de modelos NoSQL mais apropriada para atender eficientemente as necessidades dos sistemas 1 e 2 é, respectivamente,
+
+[ALTERNATIVAS]
+(A) Colunar e Documento.
+(B) Grafo e Colunar.
+(C) Chave-valor e Documento.
+(D) Colunar e Chave-valor.
+(E) Documento e Grafo.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 55-067
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Relacione os conceitos de Segurança da Informação às respectivas definições, quando houver. ( ) Propriedade de proteger a exatidão da informação. ( ) Processo de concessão de permissões. ( ) Propriedade em que a informação não é disponibilizada ou divulgada para pessoas, entidades ou processos não autorizados. ( ) Propriedade de ser acessível e utilizável sob demanda por uma entidade autorizada. 1. 2. 3. 4. 5. Confidencialidade Integridade Disponibilidade Autenticação Autorização apresentada
+
+[ALTERNATIVAS]
+(A) 1 – 4 – 5 – 2.
+(B) 2 – 4 – 1 – 3.
+(C) 4 – 5 – 3 – 1.
+(D) 2 – 5 – 1 – 3.
+(E) 4 – 2 – 3 – 1.
+
+[GABARITO]
+D

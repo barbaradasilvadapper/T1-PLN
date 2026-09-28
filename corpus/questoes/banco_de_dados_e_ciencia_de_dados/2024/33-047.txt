@@ -1,0 +1,18 @@
+ID: 33-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os sistemas de informação que automatizam os processos de negócio de uma organização requerem bancos de dados transacionais para realizar uma operação. Com o crescimento das fontes de dados, os bancos de dados evoluíram para permitir a ingestão de grandes volumes de dados gerados a cada instante. Com isso, uma das propriedades de transações que precisa estar presente em bancos de dados NoSQL é:
+
+[ALTERNATIVAS]
+(A) durabilidade;
+(B) atomicidade;
+(C) estado inflexível;
+(D) isolamento seletivo;
+(E) eventualmente consistente.
+
+[GABARITO]
+E

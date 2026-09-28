@@ -1,0 +1,18 @@
+ID: 37-050
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+SQL Injection é uma técnica de ataque na qual o invasor se aproveita de falhas em aplicativos web que interagem com bases de dados para inserir uma instrução SQL personalizada e indevida. Para evitar essa ameaça de segurança, é necessário:
+
+[ALTERNATIVAS]
+(A) utilizar expressões regulares para cifrar as variáveis enviadas para o sistema;
+(B) concatenar diretamente o input do usuário com a consulta SQL;
+(C) encapsular as entradas de dados dentro de aspas simples ao montar dinamicamente consultas SQL;
+(D) retornar no corpo das respostas HTTP as mensagens de erro em bancos de dados;
+(E) validar todas as entradas de dados, como formulários ou URL da aplicação.
+
+[GABARITO]
+E

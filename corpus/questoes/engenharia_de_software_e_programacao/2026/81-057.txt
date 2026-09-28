@@ -1,0 +1,18 @@
+ID: 81-057
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação às metodologias e práticas ágeis, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Enquanto Scrum usa sprints de duração fixa e papéis definidos, o Kanban foca em fluxo contínuo e limites de progresso (workin-progress, WIP). ( ) A utilização de versões virtuais de cartões kanban (ou Kanban cards) propicia acompanhando do progresso através das etapas do fluxo de trabalho e oferece personalização, notificações e integração com ferramentas de análise. ( ) O acompanhamento e a revisão regular de métricas do Scrum (como, velocidade, burndown e finalização de metas de sprint) otimiza a eficácia da equipe e os resultados de entrega.
+
+[ALTERNATIVAS]
+(A) V – V – V.
+(B) F – V – F.
+(C) F – F – V.
+(D) V – F – V.
+(E) F – F – F.
+
+[GABARITO]
+A

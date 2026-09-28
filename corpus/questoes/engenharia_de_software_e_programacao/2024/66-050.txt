@@ -1,0 +1,18 @@
+ID: 66-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No desenvolvimento web, é comum a utilização de frameworks e bibliotecas JavaScript para facilitar a criação de aplicações ricas e interativas. Considerando vários frameworks e bibliotecas, tais como Vue, jQuery, React, Webpack, Bootstrap, NPM, entre outros, assinale a opção que indica os comandos ou trechos de código utilizados em todos esses frameworks para iniciar um novo projeto ou adicionar dependências.
+
+[ALTERNATIVAS]
+(A) document.getElementById('app')
+(B) <script src="framework.js"></script>
+(C) @Component
+(D) npm install nome-do-pacote
+(E) import { componente } from 'biblioteca'
+
+[GABARITO]
+D

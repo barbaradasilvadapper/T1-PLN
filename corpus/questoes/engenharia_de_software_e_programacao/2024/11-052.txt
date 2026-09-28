@@ -1,0 +1,18 @@
+ID: 11-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A abordagem BPM (Business Process Management) busca melhorar e otimizar processos de negócios, aumentando eficiência e desempenho organizacional. Nesse contexto, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) a análise AS IS tem como função avaliar o estado atual do negócio, sendo parte da fase de modelagem, enquanto a análise TO BE, sendo aplicada ao futuro, é executada na fase de monitoramento.
+(B) o Diagrama de Casos de Uso se concentra em representar a interação entre atores e casos de uso, organizando as responsabilidades em raias.
+(C) KPI's (Key Performance Indicators) são utilizados para medir diversos aspectos de desempenho de maneira estritamente quantitativa.
+(D) BPMS buscam integrar completamente o ambiente operacional de uma organização, abrangendo seus processos, pessoas e informações de forma coesa.
+(E) A taxonomia em portais corporativos é responsável pela criação automática de workflows, classificando tarefas hierarquicamente com base na estrutura organizacional.
+
+[GABARITO]
+D

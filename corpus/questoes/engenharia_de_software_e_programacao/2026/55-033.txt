@@ -1,0 +1,18 @@
+ID: 55-033
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Guia Geral MPS de Software:2024 apresenta o modelo MPS.BR, uma iniciativa brasileira coordenada pela SOFTEX com o objetivo de promover a melhoria dos processos de software e aumentar a competitividade das organizações. O documento detalha o Modelo de Referência para Software (MR-MPS-SW), estruturado em sete níveis de maturidade, que variam do G (Parcialmente Gerenciado) ao A (em Otimização). Considerando as características dos níveis de maturidade do MR- MPS-SW, assinale a afirmativa que descreve corretamente o nível D.
+
+[ALTERNATIVAS]
+(A) Caracteriza-se pela gestão mais rigorosa da execução dos processos e dos respectivos produtos de trabalho.
+(B) Caracteriza-se pela consolidação da definição dos processos, com avanços em processos organizacionais e de projeto.
+(C) Caracteriza-se pela completa definição e integração dos processos em toda a unidade organizacional.
+(D) Caracteriza-se pela adoção de um processo padrão organizacional que pode ser adaptado às necessidades de projetos específicos.
+(E) Caracteriza-se pelo controle do desempenho dos processos por meio de técnicas estatísticas e quantitativas, visando à previsibilidade dos resultados.
+
+[GABARITO]
+B

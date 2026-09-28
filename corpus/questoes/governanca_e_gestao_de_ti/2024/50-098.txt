@@ -1,0 +1,18 @@
+ID: 50-098
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Durante a execução de um contrato de prestação de serviços de TI, celebrado por uma autarquia federal, observou-se que o fornecedor não está cumprindo com os níveis estabelecidos nas Cláusulas de Nível de Serviço (SLA). Para resolver o problema, a administração deve
+
+[ALTERNATIVAS]
+(A) emitir notificação formal ao fornecedor para que seja realizada uma auditoria técnica imediata e ajustes necessários.
+(B) cancelar imediatamente o contrato, sem aviso formal, com aplicação de penalidades, visto que o serviço não atende às expectativas.
+(C) cancelar o contrato com o fornecedor para evitar mais consequências, uma vez que as métricas de SLA são apenas diretrizes, não obrigatórias.
+(D) reportar e aguardar que as falhas, para maior eficácia e esperar que sejam ajustadas no próximo ciclo de renovação contratual automática.
+(E) reduzir o pagamento proporcionalmente ao período não conforme, independente do contrato, com comunicação formal ao fornecedor.
+
+[GABARITO]
+A

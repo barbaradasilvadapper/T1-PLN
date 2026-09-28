@@ -1,0 +1,18 @@
+ID: 42-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em uma empresa, foi resolvido, para aumentar o grau de segurança da rede, instalar uma solução de segurança baseada no método Breach and Attack Simulation (BAS). Para que essa solução seja bem-sucedida, é necessário que seja conduzido o ciclo de vida dessa solução na ordem correta e de forma plena. Sendo assim, esse ciclo de vida de testes BAS precisa ser constituído das seguintes etapas:
+
+[ALTERNATIVAS]
+(A) configurar defesas contra ameaças e ataques; simular e comparar resultados desses ataques; identificar ataques e informar relatórios diários de ataques.
+(B) configurar defesas contra ameaças e ataques; visualizar relatório com os resultados; realizar simulações de ataques e corrigir e mitigar as vulnerabilidades encontradas.
+(C) inserir dados novos de segurança; testar ameaças e ataques comuns; alterar os relatórios de resultados e simular outras vulnerabilidades sobre demanda.
+(D) simular as ameaças possíveis; alterar dados de segurança conforme as vulnerabilidades; classificar e priorizar as vulnerabilidades e informar relatórios diários de ataques.
+(E) simular ameaças e ataques; visualizar relatórios com os resultados; classificar e priorizar as vulnerabilidades e corrigir e mitigar as vulnerabilidades encontradas.
+
+[GABARITO]
+E

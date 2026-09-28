@@ -1,0 +1,18 @@
+ID: 21-073
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+As métricas de distância em aprendizado de máquina estão relacionadas às normas de vetores que costumam representar instâncias de dados. Duas normas comuns em ciência de dados são as normas L1 e L2. 3 4 Sejam a matriz 𝐴 = [ ] e um vetor 𝑣, bidimensional, cujos 4 3 elementos são os autovalores de A. As normas L1 e L2 de 𝑣 são, respectivamente, dadas por
+
+[ALTERNATIVAS]
+(A) 7 e 8.
+(B) 7 e 25.
+(C) 7 e 50.
+(D) 8 e 5√2.
+(E) 8 e 50.
+
+[GABARITO]
+D

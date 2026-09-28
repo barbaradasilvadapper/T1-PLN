@@ -1,0 +1,18 @@
+ID: 18-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Transação é uma unidade lógica de trabalho e é fundamental para garantir a integridade e a consistência dos dados. Observe o seguinte script de uma transação implementada no MySQL: CREATE TABLE candidato (id INT, nome CHAR (50), INDEX (id)); START TRANSACTION; INSERT INTO candidato VALUES (1, 'JULIA'); INSERT INTO candidato VALUES (2, 'MARIA'); COMMIT; SET autocommit = 0; INSERT INTO candidato VALUES (3, 'SOFIA'); UPDATE candidato SET nome='ANA' WHERE id=3; DELETE FROM candidato WHERE nome='JULIA'; ROLLBACK; SELECT * FROM candidato; Após a execução do script apresentado, a consulta retornará as colunas id e nome com os valores:
+
+[ALTERNATIVAS]
+(A) 2,MARIA
+(B) 1,JULIA 2,MARIA
+(C) 1,JULIA 2,MARIA 3,SOFIA
+(D) 1,JULIA 2,MARIA 3,ANA
+(E) 2,MARIA 3,ANA
+
+[GABARITO]
+B

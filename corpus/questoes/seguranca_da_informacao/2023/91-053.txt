@@ -1,0 +1,18 @@
+ID: 91-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A norma NBR ISO/IEC 27005:2019 fornece diretrizes para a gestão de riscos de segurança da informação em uma organização. De acordo com esta norma, é conveniente que
+
+[ALTERNATIVAS]
+(A) o nível de risco seja determinado para todos os cenários de incidentes relevantes.
+(B) seja dada atenção unicamente a incidentes que causem consequências de natureza permanente.
+(C) o valor do impacto ao negócio seja sempre expresso de forma quantitativa.
+(D) controles para modificar, reter ou compartilhar os riscos sejam prontamente evitados.
+(E) sejam identificados somente os riscos cujas fontes estejam sob controle da organização.
+
+[GABARITO]
+A

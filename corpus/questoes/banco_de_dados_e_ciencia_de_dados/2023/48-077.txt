@@ -1,0 +1,18 @@
+ID: 48-077
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João está trabalhando em um projeto de reconhecimento de animais por imagens, em que o conjunto de dados possui um atributo como rótulo, o qual indica o nome do animal retratado, como "cachorro", "gato", "pássaro" e "peixe". Para treinar o modelo de reconhecimento de imagens de animais, a tarefa de aprendizado supervisionado que João deverá utilizar é:
+
+[ALTERNATIVAS]
+(A) regressão;
+(B) associação;
+(C) classificação;
+(D) agrupamento;
+(E) redução de dimensionalidade.
+
+[GABARITO]
+C

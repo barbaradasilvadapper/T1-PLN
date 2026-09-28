@@ -1,0 +1,18 @@
+ID: 84-060
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A ferramenta de desenvolvimento e depuração, utilizada no Kibana 7.0, que permite que um analista faça parser de dados não estruturados presentes em diferentes tipos de arquivos de logs de servidores web ou de banco de dados se denomina
+
+[ALTERNATIVAS]
+(A) logprofiler.
+(B) logstach.
+(C) timelion.
+(D) beats.
+(E) grok.
+
+[GABARITO]
+E

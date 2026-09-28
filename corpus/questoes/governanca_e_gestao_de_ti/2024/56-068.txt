@@ -1,0 +1,18 @@
+ID: 56-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O analista Juca quer implementar o Sistema de Valor de Serviço (SVS) da ITIL 4. Para tanto, ele deve observar o componente que representa as recomendações que guiam as organizações em todas as circunstâncias, independente de mudanças em suas metas, estratégias, tipo de trabalho ou estrutura gerencial. Portanto, Juca deve observar o seguinte componente:
+
+[ALTERNATIVAS]
+(A) governança;
+(B) cadeia de valor de serviço;
+(C) práticas;
+(D) princípios orientadores;
+(E) fluxos de valor.
+
+[GABARITO]
+D

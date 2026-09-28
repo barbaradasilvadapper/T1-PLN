@@ -1,0 +1,18 @@
+ID: 21-074
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A decomposição em valores singulares (Singular Value Decomposition - SVD) de uma matriz é uma fatoração importante por ser aplicável em diversos algoritmos de inteligência artificial. Considere o trecho de código em linguagem R a seguir. 1. 2. 3. 4. 5. A <- matrix(c(1,2,1,2), ncol=2, nrow=2) svd_result <- svd(A) V <-svd_result$v M <- V %*% t(V) cat(M[1,1], "--", M[2,2]) Assinale a opção que indica a saída esperada para a execução do trecho de código.
+
+[ALTERNATIVAS]
+(A) 10 -- 2.4652e-32
+(B) 0.7071068 -- 0.7071068
+(C) -0.4472136 -- 0.4472136
+(D) 3.162278e+00 -- 1.570092e-16
+(E) 1 -- 1
+
+[GABARITO]
+E

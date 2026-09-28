@@ -1,0 +1,18 @@
+ID: 58-023
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O OAuth2 é um protocolo de autorização amplamente utilizado em seviços da web. Neste protocolo, a autorização é expressa na forma de uma concessão de autorização (authorization grant), que a aplicação cliente utiliza para solicitar o token de acesso. São tipos de concessão de autorização definidos no OAuth2:
+
+[ALTERNATIVAS]
+(A) application grant e authorization code grant.
+(B) application grant e resource owner grant.
+(C) authorization code grant e user system grant.
+(D) client credentials grant e implicit grant.
+(E) user credentials grant e system resource grant.
+
+[GABARITO]
+D

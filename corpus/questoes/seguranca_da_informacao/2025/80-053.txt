@@ -1,0 +1,18 @@
+ID: 80-053
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O padrão de verificação de segurança de aplicativos OWASP (versão 4.0.3) indica diversos tipos de verificações que devem ser consideradas no desenvolvimento e manutenção de aplicações seguras. Com relação à verificação 7 que diz respeito ao tratamento e registro de erros em logs, analise as afirmativas a seguir. I. Deve-se proteger logs de alta qualidade, seguindo as leis ou diretrizes locais de privacidade de dados, pois, geralmente, eles contêm dados sensíveis. II. Não se deve coletar ou registrar informações confidenciais nos logs, a menos que seja especificamente necessário. III. Deve-se garantir que todas as informações registradas nos logs sejam tratadas com segurança e protegidas de acordo com a LGPD. IV. Deve-se garantir que os logs não sejam armazenados para sempre, mas tenham uma vida útil o mais longa possível.
+
+[ALTERNATIVAS]
+(A) III e IV, apenas.
+(B) II e IV, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I e II, apenas.
+
+[GABARITO]
+E

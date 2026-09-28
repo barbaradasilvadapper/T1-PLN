@@ -1,0 +1,18 @@
+ID: 39-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A DPE/RS utiliza diversos sistemas de informação disponibilizados em sua rede interna. Para aumentar a produtividade da Defensoria, o chefe de TI Pedro contratou uma consultoria que sugeriu a adoção do single sign-on. Ao adotar o single sign-on, Pedro:
+
+[ALTERNATIVAS]
+(A) aumenta o problema de “fadiga de senha” dos seus usuários;
+(B) reduz as restrições da política de segurança para as senhas;
+(C) utiliza um duplo fator de autenticação;
+(D) reduz os riscos de acesso indevido a partir de um computador compartilhado;
+(E) pode gerenciar de forma centralizada as permissões de acesso de cada usuário.
+
+[GABARITO]
+E

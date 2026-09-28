@@ -1,0 +1,18 @@
+ID: 76-041
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Em um projeto de melhoria de processos na área de TI da Assembleia, o Analista de Sistemas precisa iniciar o trabalho com uma compreensão clara e detalhada da forma como o processo de Atendimento de Chamados de Suporte é executado atualmente. Essa é uma etapa importante para identificar ineficiências, gargalos e desvios da norma. Qual técnica de mapeamento de processos é a mais adequada para descrever o processo exatamente como ele se encontra no momento atual da organização?
+
+[ALTERNATIVAS]
+(A) Modelo TO-BE (To Be).
+(B) Modelo BPMN (Business Process Model and Notation).
+(C) Modelo Futuro.
+(D) Modelo AS-IS (As Is).
+(E) Simulação de Processos.
+
+[GABARITO]
+D

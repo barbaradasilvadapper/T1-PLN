@@ -1,0 +1,18 @@
+ID: 34-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo de transporte UDP (User Datagram Protocol) é amplamente utilizado em aplicações de tempo real. A principal característica que diferencia o UDP do TCP é
+
+[ALTERNATIVAS]
+(A) orientação a conexão com three-way handshake.
+(B) incompatibilidade com streaming de vídeo.
+(C) maior lentidão devido aos mecanismos de confiabilidade.
+(D) ausência de orientação a conexão e de garantia de entrega.
+(E) uso de janelas deslizantes para controle de fluxo.
+
+[GABARITO]
+D

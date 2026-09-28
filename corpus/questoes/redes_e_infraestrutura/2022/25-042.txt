@@ -1,0 +1,18 @@
+ID: 25-042
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Andréa administra o DNS (Domain Name System) do órgão onde trabalha e precisa gerenciar vários registros de domínio para um endereço único de domínio. De forma a permitir esse tipo de apontamento, Andréa configurou um registro CNAME, apontando-o para o:
+
+[ALTERNATIVAS]
+(A) nome real do hospedeiro;
+(B) endereço IP do hospedeiro;
+(C) endereço IP do servidor DNS autoritativo daquele registro;
+(D) nome do cliente DNS utilizado na consulta;
+(E) nome do servidor DNS autoritativo daquele registro.
+
+[GABARITO]
+A

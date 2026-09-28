@@ -1,0 +1,18 @@
+ID: 65-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em relação ao Modelo de Maturidade de Capacidade Integrado (CMMI), versão 2.0, sobre as características e partes estruturais do modelo analise as afirmativas a seguir. I. O CMMI é uma abordagem de melhoria de processo que fornece organizações com os elementos essenciais para um processo eficaz. Ele pode ser usado para guiar a melhoria de processo em um projeto, uma divisão ou uma organização inteira. II. Existem cinco níveis de maturidade no CMMI, do nível 1, caracterizado por processos imprevisíveis e pouco controlados, até o nível 5, onde os processos são otimizados continuamente. III. Um exemplo de problema em grandes empresas, que pode ser mitigado com a aplicação do CMMI, é o atraso significativo no lançamento de um software devido à falta de processos padronizados e à má gestão de riscos.
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I, II e III.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) III, apenas.
+
+[GABARITO]
+B

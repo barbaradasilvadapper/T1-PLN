@@ -1,0 +1,17 @@
+ID: 23-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Dada a importância crucial dos planos de contingência para sustentar a resiliência operacional de uma organização, torna-se imperativo uma análise detalhada desse assunto. Nesse sentido, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O plano de contingência e/ou continuidade dispensa passar por revisões e testes regulares para garantir sua eficácia em situações de necessidade.
+(B) O desenvolvimento do plano de contingência requer a participação efetiva e única da alta gestão da empresa para validar as diretrizes de continuidade. É essencial deixar todo o processo claro para evitar falhas futuras.
+(C) O Plano de Contingência deve ser totalmente eficaz na restauração total ou parcial das informações em situações de ataques ou desastres.
+(D) Na gestão de continuidade de negócios, é opcional o estabelecimento de um processo dinâmico para a manutenção de todos os documentos.
+
+[GABARITO]
+C

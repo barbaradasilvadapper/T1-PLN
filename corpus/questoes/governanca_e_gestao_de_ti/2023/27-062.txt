@@ -1,0 +1,18 @@
+ID: 27-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Mauro Jorge é um servidor público e está efetuando um processo licitatório para a compra de itens de Tecnologia da Informação e Comunicação (TIC). Ele deverá seguir a Instrução Normativa (IN) SGD/ME nº 1, de 4 de abril de 2019. Após a fase inicial, Mauro Jorge ficou com dúvidas quanto a como efetuar a seleção dos fornecedores. Um dos tópicos que devem ser observados por Mauro Jorge na condução do processo de seleção de fornecedores é que:
+
+[ALTERNATIVAS]
+(A) caberá à Área de Tecnologia da Informação e Comunicação (TIC) conduzir as etapas da fase de Seleção do Fornecedor;
+(B) a fase de Seleção do Fornecedor inicia-se com o encaminhamento do Documento Oficial de Demanda (DOD) à Área de Licitações;
+(C) caberá à equipe de planejamento da contratação, na fase de seleção, apoiar tecnicamente o pregoeiro nas respostas aos questionamentos;
+(D) caberá à equipe de planejamento da contratação, durante a fase de Seleção do Fornecedor, analisar as sugestões feitas pelas Áreas de TIC;
+(E) é obrigatório o uso da modalidade tomada de preço para as contratações de que trata esta IN sempre que a solução de TIC for enquadrada como bem ou serviço comum.
+
+[GABARITO]
+C

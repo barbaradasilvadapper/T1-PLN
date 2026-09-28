@@ -1,0 +1,18 @@
+ID: 61-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O projeto de redes locais virtuais (VLANs – Virtual LANs) envolve um conjunto de questões de projeto, tendo em vista a sua definição e operação. Nesse contexto, uma possível solução para uma questão arquitetural é conhecida como “trucking”, que trata
+
+[ALTERNATIVAS]
+(A) da alocação de canal dinâmico.
+(B) do aprendizado reverso.
+(C) da interconexão de VLANs.
+(D) da ocorrência de loops.
+(E) do salto de frequência.
+
+[GABARITO]
+C

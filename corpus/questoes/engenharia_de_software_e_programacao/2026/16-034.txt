@@ -1,0 +1,18 @@
+ID: 16-034
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um Analista de Testes precisa validar diversas funcionalidades de um sistema de forma isolada. A quantidade de cenários e combinações de entrada faz com que o número de testes seja muito alto. Para conduzir esta tarefa, ele poderá fazer uso de ferramentas de automação de testes, porém é muito importante que ele saiba diferenciar quais as características de cada uma para utilizá-las do modo correto. Relacione as ferramentas de teste listadas a seguir às respectivas características. 1. Selenium 2. Cypress ( ) É mais flexível e multiplataforma. ( ) Não utiliza Webdriver. ( ) É executado fora do browser. ( ) É mais utilizado para testes de front-end. Assinale a opção que indica a relação correta, segundo a ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 2, 2, 2 e 1.
+(B) 1, 1, 2 e 1.
+(C) 1, 2, 1 e 1.
+(D) 1, 2, 1 e 2.
+(E) 2, 1, 1 e 2.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 32-082
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O padrão de utilização de cifra assimétrica por muitos anos foi a cifra RSA. Atualmente está em curso a seleção de um novo padrão de criptografia assimétrica pelo órgão de padronização norte-americano NIST. A motivação principal para esta mudança que visa substituir o RSA é a evolução
+
+[ALTERNATIVAS]
+(A) das LLM e o surgimento de IA generativa.
+(B) das telecomunicações e a tecnologia 5G.
+(C) dos computadores quânticos e o algoritmo de Shor.
+(D) dos criptoativos e a tecnologia Blockchain.
+(E) das GPU e os algoritmo de Grover.
+
+[GABARITO]
+C

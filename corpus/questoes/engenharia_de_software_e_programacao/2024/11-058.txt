@@ -1,0 +1,18 @@
+ID: 11-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) foi criada com o intuito de integrar todos os tribunais brasileiros no que tange à gestão de processo judicial eletrônico. Entre as diretrizes relacionadas ao processo de desenvolvimento de módulos e serviços na PDPJ-Br, cabe salientar o emprego preferencial da linguagem de programação
+
+[ALTERNATIVAS]
+(A) Java.
+(B) Julia.
+(C) PHP.
+(D) Python.
+(E) Ruby.
+
+[GABARITO]
+A

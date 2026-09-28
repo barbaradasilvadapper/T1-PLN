@@ -1,0 +1,18 @@
+ID: 40-072
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um órgão público, vinculado à União, contratou a solução de inteligência artificial da empresa SmartDecisionIA com a finalidade específica de realizar o tratamento automatizado de decisões com base em um banco de dados gerido pelo órgão. Seguindo as instruções fornecidas pelo gestor público responsável e estabelecidas em contrato, a SmartDecisionIA realiza as operações necessárias para viabilizar o tratamento dos dados em questão. Nesse cenário, o papel da empresa SmartDecisionIA é:
+
+[ALTERNATIVAS]
+(A) operadora;
+(B) controladora;
+(C) órgão de pesquisa;
+(D) encarregada;
+(E) data protection officer.
+
+[GABARITO]
+A

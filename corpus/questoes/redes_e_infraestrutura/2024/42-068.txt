@@ -1,0 +1,18 @@
+ID: 42-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um grupo de desenvolvedores de sistemas de nuvem deseja utilizar um framework de desenvolvimento de software do AWS (Amazon Web Services) para definir a infraestrutura na nuvem em código e provisioná-la por meio do AWS CloudFormation. Esse framework AWS possui a sigla
+
+[ALTERNATIVAS]
+(A) APINF
+(B) APPR
+(C) CDK
+(D) SCS
+(E) WARC
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 14-063
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Python a seguir. inc = 0 while(inc < 10): junk = 2 while(junk <= (inc/junk)): if not(inc%junk): break junk = junk + 1 if (junk > inc/junk) : print (inc) inc = inc + 1 Ao executar o código, a quantidade de vezes que a função print(inc) é acionada é igual a
+
+[ALTERNATIVAS]
+(A) 10.
+(B) 7.
+(C) 6.
+(D) 5.
+(E) 0.
+
+[GABARITO]
+C

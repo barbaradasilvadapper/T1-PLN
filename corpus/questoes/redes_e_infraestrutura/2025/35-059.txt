@@ -1,0 +1,18 @@
+ID: 35-059
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os protocolos são essenciais para a comunicação eficiente em redes locais, garantindo que os dispositivos possam se comunicar corretamente. As mensagens ARP (Address Resolution Protocol) e RARP (Reverse Address Resolution Protocol) são utilizadas para mapear endereços IP (Internet Protocol) para endereços físicos (MAC, Media Access Control)) e vice-versa. Com relação aos protocolos ARP e RARP, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Os pacotes ARP possuem cabeçalhos de formato fixo e o protocolo ARP é usado para associar um endereço IP (Internet Protocol) a um endereço físico (MAC). ( ) O RARP associa um endereço MAC a um endereço IP, ou seja, converte endereços de hardware exclusivos em endereços da Internet no adaptador de rede local (LAN) ( ) No protocolo RARP o protocolo Ethernet padrão é suportado, entretanto, apresenta dentre as restrições que o servidor usa apenas entradas permanentes da tabela ARP e o servidor não responde automaticamente por si mesmo.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) F – V – F.
+(C) V – F – F.
+(D) F – V – V.
+(E) F – F – F.
+
+[GABARITO]
+D

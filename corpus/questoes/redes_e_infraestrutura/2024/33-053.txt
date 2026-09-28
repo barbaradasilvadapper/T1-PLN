@@ -1,0 +1,18 @@
+ID: 33-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao implementar uma política de backup de sua empresa, João está definindo com a chefia a configuração de horários nos quais os backups rodarão. Em virtude de o ambiente computacional da empresa não ter muitas modificações, foi solicitado a João que agendasse o crontab para rodar o script todos os dias do mês às 19h10. Considerando que o script está no caminho /var/log/script.txt, a crontab configurada corretamente por João é:
+
+[ALTERNATIVAS]
+(A) 10 19 * * * /var/log/script.txt;
+(B) 10 19 * * 2 * /var/log/script.txt;
+(C) * * * 1,9,10 * /var/log/script.txt;
+(D) 0 * 19 10 * /var/log/script.txt;
+(E) 0 10,19 * * * /var/log/script.txt.
+
+[GABARITO]
+A

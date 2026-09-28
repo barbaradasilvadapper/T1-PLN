@@ -1,0 +1,18 @@
+ID: 31-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os modelos de Controle de Acesso Obrigatório (Mandatory Access Control - MAC) e Controle de Acesso Discricionário (Discretionary Access Control - DAC) são amplamente utilizados em sistemas de segurança da informação para gerenciar o acesso a dados e recursos. Cada um tem suas características próprias, que os tornam mais adequados para diferentes tipos de ambientes e níveis de segurança. No entanto, a escolha entre MAC e DAC depende das necessidades específicas de controle e gerenciamento de permissões em um determinado contexto. Diante do exposto, assinale a opção que diferencia corretamente os modelos MAC e DAC.
+
+[ALTERNATIVAS]
+(A) O MAC permite que os administradores do sistema definam permissões detalhadas para cada usuário, enquanto no DAC as permissões são automaticamente atribuídas com base nas regras do sistema.
+(B) No modelo MAC, o controle de permissões é centralizado e determinado por políticas de segurança rígidas, enquanto no modelo DAC as permissões são definidas pelo proprietário do recurso, permitindo uma maior flexibilidade.
+(C) O modelo DAC impõe regras de segurança mais restritivas e inalteráveis que o MAC, sendo geralmente aplicado em ambientes de alta segurança com dados sensíveis.
+(D) O MAC utiliza permissões dinâmicas baseadas nas necessidades de cada usuário, enquanto o DAC segue um conjunto fixo de políticas definidas no momento da criação dos recursos.
+(E) Tanto o MAC quanto o DAC compartilham o mesmo princípio de que as permissões são gerenciadas pelos próprios usuários, mas o MAC se concentra em ambientes corporativos, enquanto o DAC é usado em sistemas pessoais.
+
+[GABARITO]
+B

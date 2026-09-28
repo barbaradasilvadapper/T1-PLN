@@ -1,0 +1,18 @@
+ID: 32-078
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Para aumentar a segurança em uma rede wireless, é essencial implementar medidas eficazes contra ataques de falsificação de pontos de acesso (Evil Twin Attacks). Uma das técnicas desse tipo de ataque consiste em criar um ponto de acesso falso com o mesmo SSID (ou similar) de um ponto de acesso legítimo, com o objetivo de interceptar e manipular o tráfego de dados dos usuários que se conectam a ele. Uma prática que pode ajudar a identificar e mitigar os riscos associados a esse tipo de ataques é
+
+[ALTERNATIVAS]
+(A) desativar o broadcast do SSID.
+(B) usar um protocolo de criptografia forte como AES.
+(C) implementar autenticação WPA2-PSK.
+(D) configurar um sistema de detecção de intrusos (IDS).
+(E) ativar o modo de economia de energia nos dispositivos wireless.
+
+[GABARITO]
+D

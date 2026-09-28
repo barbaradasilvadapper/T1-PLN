@@ -1,0 +1,18 @@
+ID: 28-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Elaine tenta acessar no browser do seu computador o sítio www.google.com. Seu computador envia uma requisição ao servidor-resolvedor de DNS do seu provedor, que não tem o endereço do sítio em cache e, portanto, envia uma requisição a outro servidor. Esse outro servidor e a resposta que ele fornece são, respectivamente, um:
+
+[ALTERNATIVAS]
+(A) nameserver raiz e o endereço IP do sítio desejado;
+(B) nameserver raiz e o endereço de um servidor DNS TLD;
+(C) servidor DNS TLD e o endereço IP do sítio desejado;
+(D) servidor DNS TLD e o endereço de um servidor-raiz;
+(E) servidor DNS TLD e o endereço de um servidor de subdomínio.
+
+[GABARITO]
+B

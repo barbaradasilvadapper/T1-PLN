@@ -1,0 +1,18 @@
+ID: 09-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um projeto de alta complexidade, sujeito a mudanças frequentes nos requisitos e com a necessidade de entregas rápidas em ciclos incrementais, a metodologia ágil mais adequada para priorizar o valor ao cliente por meio de feedback contínuo e promover a colaboração da equipe é a
+
+[ALTERNATIVAS]
+(A) Scrum, por organizar o trabalho em sprints fixas, com foco em entregas incrementais de software e adaptações baseadas em revisões periódicas.
+(B) Kanban, por utilizar um fluxo contínuo de trabalho, permitindo a entrega de funcionalidades conforme são concluídas, sem ciclos fechados de tempo.
+(C) XP (Extreme Programming), por enfatizar práticas como programação em par, testes automatizados e integração contínua, visando adaptação rápida a mudanças.
+(D) Waterfall (Cascata), por ser uma metodologia linear e estruturada, permitindo controle e planejamento durante as fases do projeto.
+(E) Lean, por eliminar desperdícios e otimizar o uso de recursos em projetos complexos, buscando entregas mais eficientes.
+
+[GABARITO]
+A

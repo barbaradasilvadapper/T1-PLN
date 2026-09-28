@@ -1,0 +1,18 @@
+ID: 02-031
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Kotlin exibido a seguir. fun main() { val classe = ? val resposta = when (classe) { 1 -> "Premium" 2 -> "Superior" 3 -> "Econômica" 4, 5 -> when (classe % 2 == 0) {true -> "Gold" false -> "Iron"} else -> "Dado inválido." } println(resposta) } O par que indica corretamente o valor a ser atribuído à variável classe, na segunda linha, e o valor computado e exibido pelo comando println é:
+
+[ALTERNATIVAS]
+(A) 3 / Iron
+(B) 4 / Iron
+(C) 5 / Iron
+(D) 5 / Gold
+(E) 9 / Gold
+
+[GABARITO]
+C

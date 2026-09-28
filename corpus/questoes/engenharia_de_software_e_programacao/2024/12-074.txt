@@ -1,0 +1,18 @@
+ID: 12-074
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em relação à ferramenta Azure Devops, avalie as afirmativas a seguir. I. A funcionalidade Boards permite gerenciar a lista de pendências de produtos. II. A funcionalidade Pipelines permite o gerenciamento de requisitos, incluindo bugs e tarefas. III. A funcionalidade Repos permite revisar, baixar e editar arquivos e revisar o histórico de alterações de um arquivo.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III apenas.
+
+[GABARITO]
+C

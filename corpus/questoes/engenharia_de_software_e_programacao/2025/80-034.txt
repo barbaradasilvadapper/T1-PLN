@@ -1,0 +1,18 @@
+ID: 80-034
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Swagger Editor é um editor de código aberto usado para projetar, definir e documentar APIs HTTP segundo a especificação OpenAPI. A respeito dos pré-requisitos necessários para o editor ser executado localmente, avalie os itens a seguir. I. Git em qualquer versão. II. Node.js em versão 20.3.0. ou superior. III. Npm em versão 9.6.7 ou superior. IV. OAuth em versão 2.0 ou superior. São pré-requisitos necessários para que o Swagger Editor seja executado localmente os indicados em
+
+[ALTERNATIVAS]
+(A) I e III, apenas.
+(B) II e IV, apenas.
+(C) I, II e III, apenas.
+(D) I, II e IV, apenas.
+(E) II, III e IV, apenas.
+
+[GABARITO]
+C

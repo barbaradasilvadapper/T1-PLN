@@ -1,0 +1,18 @@
+ID: 85-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+As credenciais de acesso dos usuários de um aplicativo são armazenadas em um banco de dados e são utilizadas unicamente para acesso às funcionalidades do aplicativo. A equipe de desenvolvimento definiu como requisito não funcional que o sistema deve evitar que as senhas sejam obtidas por um invasor mesmo que o aplicativo ou banco de dados esteja comprometido. Para implementar o requisito não funcional, um modo de proteger as senhas dos usuários é:
+
+[ALTERNATIVAS]
+(A) ocultar o algoritmo utilizado para proteção das senhas;
+(B) armazenar as senhas cifradas por meio de um algoritmo de chaves assimétricas;
+(C) utilizar um algoritmo hash com salt antes de persistir as senhas no banco de dados;
+(D) codificar um algoritmo próprio para cifrar as senhas com base em uma chave randômica segura;
+(E) usar uma chave randômica gerada pelo aplicativo para cifrar as senhas por meio de um algoritmo de chave simétrica.
+
+[GABARITO]
+C

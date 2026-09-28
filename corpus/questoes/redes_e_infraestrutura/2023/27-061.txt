@@ -1,0 +1,18 @@
+ID: 27-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Walace está analisando um novo protocolo para uso na rede de sua empresa para o tráfego da Internet. Esse protocolo deixou o roteamento mais flexível. Além de bem rápido, também acrescenta rótulos na frente de cada pacote e efetua seu encaminhamento pelo protocolo. Outra característica importante evidenciada por Walace foi que o protocolo trabalha entre a camada de rede IP e o protocolo da camada de enlace. O protocolo identificado por Walace é o(a):
+
+[ALTERNATIVAS]
+(A) MPLS;
+(B) TCP;
+(C) HTTPS;
+(D) Ethernet;
+(E) PPP.
+
+[GABARITO]
+A

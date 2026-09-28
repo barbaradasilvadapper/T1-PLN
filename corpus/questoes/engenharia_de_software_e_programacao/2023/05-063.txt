@@ -1,0 +1,18 @@
+ID: 05-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O uso de Portlets simplifica a construção de portais com base na tecnologia Java Web, tratando as divisões do portal como aplicativos independentes e interoperáveis, que podem ser organizados hierarquicamente. A versão 3 da API permite a utilização de anotações, sendo correto afirmar que:
+
+[ALTERNATIVAS]
+(A) eventos são definidos pela anotação EventDefinition, no parâmetro events de PortletConfiguration;
+(B) o conteúdo do Portlet é fornecido por um método anotado com HeaderMethod;
+(C) o atributo portletName é de preenchimento obrigatório para a anotação PortletApplication;
+(D) um título para o Portlet seria definido no atributo title da anotação PortletApplication;
+(E) o processamento de um evento é implementado em um método anotado com EventMethod, sendo obrigatório fornecer os atributos portletName e processingEvents.
+
+[GABARITO]
+E

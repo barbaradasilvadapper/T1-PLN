@@ -1,0 +1,18 @@
+ID: 11-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Analise as seguintes afirmações sobre conteinerização e orquestração de contêineres: I. Em sistemas conteinerizados, é recomendado que todos os contêineres compartilhem o mesmo sistema de arquivos e ambiente de rede para garantir consistência entre os serviços. II. Em ferramentas de orquestração como Kubernetes, a comunicação entre contêineres pode ser gerenciada por uma rede de sobreposição, que permite a comunicação direta entre contêineres em diferentes nós, sem expor seus endereços IP ao ambiente externo. III. A principal vantagem da conteinerização em relação à virtualização tradicional é a capacidade de compartilhar o kernel do sistema operacional host, o que garante isolamento total entre contêineres, como em máquinas virtuais.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

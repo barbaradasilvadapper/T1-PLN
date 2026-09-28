@@ -1,0 +1,18 @@
+ID: 68-034
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o script Java a seguir. Ao executar o script acima, a saída no console será
+
+[ALTERNATIVAS]
+(A) JEE v8 & JDK 17: 5.
+(B) JEE v8 & JDK 17: 3.
+(C) JEE v8 & JDK 17: 8.
+(D) JEE v8 & JDK 17.
+(E) Erro de compilação.
+
+[GABARITO]
+C

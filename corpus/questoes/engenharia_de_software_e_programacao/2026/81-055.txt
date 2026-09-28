@@ -1,0 +1,18 @@
+ID: 81-055
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O programa de Melhoria de Processo do Software Brasileiro (MPS.BR) é um programa da Associação para Promoção da Excelência do Software Brasileiro (Softex), apoiado pelo governo federal. Com relação ao MPS.BR (modelo MPS-SW), analise os itens a seguir: I. Esta compatível com o Capability Maturity Model Integration (CMMI V 3.0), da visão do domínio de desenvolvimento, conforme o SWEBOK v.4. II. A base técnica para a definição do modelo MPS para Software, se alicerça nos padrões: ISO/IEC/IEEE 12207:2017; ISO/IEC FAMÍLIA 330XX; e, CMMI V 3.0. III. A capacidade do processo NÍVEL B (CP-B) requer que as melhorias de processo e de tecnologias devem ser identificadas de tal forma que, quando implementadas, removam causas comuns de variação de processo.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+B

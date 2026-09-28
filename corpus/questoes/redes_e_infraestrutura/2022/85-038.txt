@@ -1,0 +1,18 @@
+ID: 85-038
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto do Linux, observe os quatro comandos a seguir. mv xpto xxxx.a mv abc abcd mv intro livro/capítulos mv manual/* . Sobre esses comandos, está correto concluir que são válidos:
+
+[ALTERNATIVAS]
+(A) todos, exceto o primeiro;
+(B) todos, exceto o segundo;
+(C) todos, exceto o terceiro;
+(D) todos, exceto o quarto;
+(E) todos.
+
+[GABARITO]
+E

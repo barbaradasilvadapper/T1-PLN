@@ -1,0 +1,18 @@
+ID: 85-046
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere um banco relacional com duas tabelas declaradas como abaixo. CREATE TABLE T1(A1 int not null UNIQUE, B1 int not null) CREATE TABLE T2(A2 int not null UNIQUE, B2 int, FOREIGN KEY (B2) references T1(A1)) Para n >= 1, está correto concluir que:
+
+[ALTERNATIVAS]
+(A) cada linha de T1 está relacionada a exatamente 1 linha de T2;
+(B) cada linha de T1 está relacionada a 0 ou 1 linha de T2;
+(C) cada linha de T2 está relacionada a exatamente 1 linha de T1;
+(D) cada linha de T2 está relacionada a 0 ou 1 linha de T1;
+(E) cada linha de T2 está relacionada a n linhas de T1.
+
+[GABARITO]
+D

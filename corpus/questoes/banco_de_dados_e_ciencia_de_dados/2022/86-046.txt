@@ -1,0 +1,18 @@
+ID: 86-046
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A respeito dos mecanismos de triggers do Oracle, analise as afirmativas a seguir. I. A cláusula “OF nome_da_coluna” é usada para disparar o trigger somente quando a coluna específica tiver seu conteúdo alterado (updated). II. A cláusula “WHEN” pode ser aplicada somente para trigger no nível de linha (row level). III. A cláusula “REFERENCING OLD AS …” é aplicada somente para operações de inserção na tabela associada ao trigger.
+
+[ALTERNATIVAS]
+(A) I, somente.
+(B) I e II, somente.
+(C) I e III, somente.
+(D) II e III, somente.
+(E) I, II e III.
+
+[GABARITO]
+B

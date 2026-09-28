@@ -1,0 +1,18 @@
+ID: 05-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o algoritmo a seguir, expresso numa pseudolinguagem. function xpto(u, v) begin if v = 0 then return u else return xpto(v, u mod v); end; Dado que, numa expressão do tipo x mod y, o operador mod retorna o resto de divisão inteira de x por y, é correto afirmar que a expressão xpto(342, 162) retorna:
+
+[ALTERNATIVAS]
+(A) 0;
+(B) 1;
+(C) 9;
+(D) 18;
+(E) 80.
+
+[GABARITO]
+D

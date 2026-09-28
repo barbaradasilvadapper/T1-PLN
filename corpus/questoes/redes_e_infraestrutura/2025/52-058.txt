@@ -1,0 +1,18 @@
+ID: 52-058
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O TCE-PE busca soluções que otimizem o desenvolvimento de sistemas próprios voltados ao controle externo da administração pública. Nesse contexto, imagine que a equipe técnica do Tribunal precise criar uma nova aplicação institucional com funcionalidades específicas de auditoria e análise de dados. O desenvolvimento será realizado internamente, com integração via APIs, implantação ágil de novas versões e escalabilidade automatizada conforme o uso. Além disso, a equipe deseja focar apenas na lógica da aplicação, sem gerenciar diretamente servidores, sistemas operacionais, redes ou demais aspectos da infraestrutura. Considerando essas necessidades, o modelo de serviço em nuvem mais adequado para os objetivos descritos é:
+
+[ALTERNATIVAS]
+(A) Platform as a Service (PaaS), pois disponibiliza um ambiente integrado de desenvolvimento, testes e implantação, abstraindo o gerenciamento da infraestrutura subjacente, enquanto oferece suporte à escalabilidade e à integração com APIs externas.
+(B) Software as a Service (SaaS), pois permite que a organização utilize soluções prontas com alto grau de personalização e flexibilidade de desenvolvimento, adequadas para criar aplicações institucionais sob demanda, com controle sobre funcionalidades, código e integração com APIs.
+(C) Infrastructure as a Service (IaaS), porque fornece recursos computacionais sob demanda, permitindo controle sobre servidores e sistemas operacionais, além de suportar integrações com APIs e escalabilidade configurável.
+(D) Platform as a Service (PaaS), já que oferece total autonomia sobre a infraestrutura virtual, permitindo que o desenvolvedor gerencie redes, sistemas operacionais e servidores conforme as necessidades da aplicação desenvolvida.
+(E) Infrastructure as a Service (IaaS), visto que a flexibilidade total sobre o ambiente virtualizado permite que o tribunal se concentre apenas na lógica de negócio, sem necessidade de se preocupar com aspectos operacionais da infraestrutura.
+
+[GABARITO]
+A

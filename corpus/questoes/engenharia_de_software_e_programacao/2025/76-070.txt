@@ -1,0 +1,18 @@
+ID: 76-070
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Sistemas está aplicando a Arquitetura Hexagonal (Ports and Adapters) no novo sistema de gestão de Atos Normativos para garantir que a lógica de domínio não seja poluída por detalhes técnicos externos. Nesse contexto, a principal vantagem que o uso de Portas e Adaptadores oferece à Lógica de Domínio da aplicação é
+
+[ALTERNATIVAS]
+(A) isolar completamente a Lógica de Domínio dos detalhes de implementação de infraestrutura e agentes externos.
+(B) garantir a comunicação direta e otimizada entre o domínio e o banco de dados.
+(C) permitir que o domínio seja desenvolvido em uma linguagem de programação diferente da usada nos adaptadores.
+(D) simplificar o deploy da aplicação, eliminando a necessidade de containers.
+(E) impor o uso de Padrões de Projeto Estruturais como Adapter e Facade, em todo o sistema.
+
+[GABARITO]
+A

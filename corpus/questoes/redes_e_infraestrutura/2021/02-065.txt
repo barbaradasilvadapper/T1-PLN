@@ -1,0 +1,18 @@
+ID: 02-065
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Caio, administrador de redes, está enfrentando um problema de congestionamento da rede local. Após algumas verificações, Caio percebeu que, conforme os programas internos são executados e se comunicam em rede, há uma grande quantidade de pacotes de dados trafegando pela rede, e constatou a necessidade de um acompanhamento melhor dessas atividades por meio de um sistema de monitoramento, sem adição de mais pacotes à rede. A metodologia que Caio pode implementar de forma a atender às necessidades de monitoramento, sem aumento de tráfego, é um monitoramento:
+
+[ALTERNATIVAS]
+(A) híbrido de rede com aplicações baseadas em protocolo de mensagens de controle da Internet (ICMP) que medem o tempo de resposta da rede ou descobrem informações sobre a topologia existente e outras que acompanham o tráfego de pacotes;
+(B) diligente de rede com a ferramenta dummynet que intercepta a comunicação entre o protocolo a ser testado e a aplicação do usuário, com o intuito de monitorar o comportamento da aplicação;
+(C) ativo chamado trem de pacotes que envia uma série de pacotes com um atraso pequeno e fixo entre eles, enquanto um receptor registra o momento em que cada pacote chega e usa a sequência de tempos para calcular as diferenças de atraso entre eles;
+(D) ativo baseado no tracert que permite que se determine o caminho que um pacote percorre para chegar a um destino a partir de uma origem, retornando a sequência de saltos que o pacote atravessou;
+(E) passivo baseado na instalação de um roteador que implemente o NetFlow que exibe estatisticamente pacotes de acordo com parâmetros estabelecidos pelo administrador de rede.
+
+[GABARITO]
+E

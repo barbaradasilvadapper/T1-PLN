@@ -1,0 +1,18 @@
+ID: 12-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O departamento de TI do TCE-PA está implementando medidas para proteger seus sistemas contra diferentes tipos de malware. Os programas maliciosos que se disfarçam como softwares legítimos são denominados
+
+[ALTERNATIVAS]
+(A) virus.
+(B) worms.
+(C) ransomwares.
+(D) adwares.
+(E) trojans.
+
+[GABARITO]
+E

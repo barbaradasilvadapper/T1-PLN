@@ -1,0 +1,18 @@
+ID: 76-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe de desenvolvimento do sistema de gestão de documentos adotou o Kanban para gerenciar seu fluxo de trabalho. Em seu quadro visual, a coluna Em Desenvolvimento possui um limite de WIP (Work in Progress) de 3 tarefas. O objetivo dessa limitação é aumentar a taxa de entrega e reduzir o tempo de ciclo. O principal efeito direto da limitação de WIP, como 3 tarefas em desenvolvimento, no fluxo de trabalho de uma equipe Kanban será
+
+[ALTERNATIVAS]
+(A) diminuir a necessidade de reuniões diárias (Daily Scrum), aumentando o tempo de programação.
+(B) aumentar o número total de tarefas iniciadas simultaneamente, promovendo a produtividade individual.
+(C) forçar a equipe a concentrar-se na finalização do trabalho, expondo gargalos e reduzindo o Context Switching.
+(D) aumentar o inventário de trabalho em cada etapa, garantindo que os desenvolvedores nunca fiquem ociosos.
+(E) tornar o Product Owner responsável por gerenciar a fila de itens prontos para serem puxados.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 93-071
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação às vantagens da programação orientada a objetos, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Organizar o código do programa em objetos que contêm dados e funções relacionadas é uma forma de permitir que os desenvolvedores melhorem a organização do código. ( ) Reutilizar código e diminuir a duplicação é possível por meio da criação de classes genéricas que podem ser utilizadas em diferentes projetos ou classes. ( ) Uma abordagem popular e amplamente utilizada para tornar o código mais fácil de manter e atualizar é por meio da disponibilidade de muitos recursos e bibliotecas.
+
+[ALTERNATIVAS]
+(A) V – V – V.
+(B) V – V – F.
+(C) V – F – V.
+(D) F – V – V.
+(E) V – F – F
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 38-057
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+De acordo com o Art. 37 da LGPD (Lei Geral de Proteção de Dados Pessoais), as operações de tratamento realizadas nos dados pessoais devem ser registradas. Para isso, o controlador e o operador devem manter registro das operações de tratamento de dados pessoais que realizarem. O registro das operações é realizado por meio do:
+
+[ALTERNATIVAS]
+(A) inventário de dados pessoais;
+(B) catálogo de base de dados;
+(C) relatório de impacto à proteção de dados pessoais;
+(D) serviços notariais e de registro;
+(E) termo de consentimento. Branca – Página 12 Tipo 1
+
+[GABARITO]
+A

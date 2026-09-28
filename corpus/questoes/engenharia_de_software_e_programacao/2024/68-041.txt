@@ -1,0 +1,18 @@
+ID: 68-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Pensando em uma implementação comum da API REST, assinale a opção que indica o principal princípio associado ao seu estilo arquitetural.
+
+[ALTERNATIVAS]
+(A) Comunicação bidirecional entre clientes e servidores.
+(B) Transferência de representações de recursos por meio de operações padrão (como GET, POST, PUT e DELETE).
+(C) Transferência direta somente de objetos Javascript entre clientes e servidores.
+(D) Utilização de mensagens SOAP para comunicação entre sistemas.
+(E) Utilização de um modelo de solicitação com estado.
+
+[GABARITO]
+B

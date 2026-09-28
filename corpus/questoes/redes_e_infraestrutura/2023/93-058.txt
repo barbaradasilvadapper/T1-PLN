@@ -1,0 +1,18 @@
+ID: 93-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Árvores B se tornaram um método padrão de organização de índices para bancos de dados, comumente usadas em sistemas de arquivos do sistema operacional, incluindo aqueles suportados pelo Mac OS X, Windows e vários sistemas de arquivos Linux. Avalie se uma árvore B é caracterizada por seu grau mínimo d se satisfaz as seguintes propriedades: I. Todo nó possui no máximo d - 1 chaves e 2d filhos ou, equivalentemente, 2d ponteiros. II. Todo nó, exceto a raiz, possui pelo menos 2d - 1 chaves e d ponteiros. Como resultado, cada nó interno, exceto a raiz, está pelo menos meio cheio e tem pelo menos d filhos. III. A raiz possui pelo menos 1 chave e 2 filhos e um nó não-folha com k ponteiros contém k - 1 chaves.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

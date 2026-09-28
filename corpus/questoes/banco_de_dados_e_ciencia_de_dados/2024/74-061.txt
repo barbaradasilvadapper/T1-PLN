@@ -1,0 +1,18 @@
+ID: 74-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Data Warehouse (Armazém de Dados) é uma solução de armazenamento de dados projetada para consolidar e gerenciar grandes volumes de dados provenientes de diversas fontes de forma eficiente e estruturada. É uma ferramenta crucial para análise de dados, relatórios e tomada de decisões empresariais. No contexto de um Data Warehouse, uma característica essencial para garantir a consistência dos dados ao longo do tempo, permitindo a realização de análises históricas, é
+
+[ALTERNATIVAS]
+(A) a normalização excessiva das tabelas de dados.
+(B) o armazenamento em um formato relacional tradicional.
+(C) a utilização de ETL (Extract, Transform, Load) para ingestão de dados.
+(D) a estruturação dos dados em um esquema de estrela ou floco de neve.
+(E) a implementação de versionamento e controle de alterações de dados (historical versioning).
+
+[GABARITO]
+E

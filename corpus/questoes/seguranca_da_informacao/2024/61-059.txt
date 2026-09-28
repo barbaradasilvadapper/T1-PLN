@@ -1,0 +1,18 @@
+ID: 61-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A criptografia simétrica, ou criptografia convencional, apresenta elementos fundamentais em seu modelo. Nesse contexto, um esquema de criptografia simétrica apresenta como componente, exceto
+
+[ALTERNATIVAS]
+(A) algoritmo de criptografia.
+(B) chave secreta.
+(C) criptoanálise.
+(D) texto cifrado.
+(E) texto claro.
+
+[GABARITO]
+C

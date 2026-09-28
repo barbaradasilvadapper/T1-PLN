@@ -1,0 +1,18 @@
+ID: 39-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Plano de Continuidade de Negócios (PCN) de uma empresa deve:
+
+[ALTERNATIVAS]
+(A) desconsiderar alguns setores da empresa;
+(B) substituir o plano de contingência;
+(C) retardar a interrupção da atividade da empresa;
+(D) ser testado por pessoal externo à empresa;
+(E) contemplar possíveis desastres naturais.
+
+[GABARITO]
+E

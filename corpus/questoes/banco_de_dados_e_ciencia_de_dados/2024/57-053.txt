@@ -1,0 +1,18 @@
+ID: 57-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Karen está atuando junto à Comissão de Valores Mobiliários (CVM) para a melhoria da performance das consultas aos bancos de dados. Após algumas verificações, ela chegou à conclusão de que o banco deveria executar sua indexação das linhas de uma tabela com base no resultado da chamada de alguma função especificada sobre os valores das linhas, em vez de indexar com base nos valores em si. Isso significa que os índices criados por Karen deverão ser índices:
+
+[ALTERNATIVAS]
+(A) multitabelas;
+(B) bitmap;
+(C) funcionais;
+(D) multiníveis dinâmicos;
+(E) em árvore B.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 72-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Ana é a responsável pelo Departamento de Desenvolvimento de Sistemas (DDS) de uma organização. O DDS passará por uma avaliação MPS.BR. Ana definiu processos de software e incluiu atividades para que todos os produtos de software fossem validados e verificados. Definiu, ainda, que as atividades devem ser registradas formalmente para compor a documentação dos projetos. Considerando o modelo MPS.BR (Melhoria de Processo do Software Brasileiro), as atividades de validação e verificação dos produtos de software devem ser:
+
+[ALTERNATIVAS]
+(A) realizadas por meio de testes automatizados e estão aderentes a capacidades do nível B;
+(B) precedidas de programação em pares e estão aderentes a capacidades do nível C;
+(C) conduzidas por meio de testes e revisão por pares e estão aderentes a capacidades do nível D;
+(D) garantidas em ambiente de homologação pelo representante do usuário e estão aderentes a capacidades do nível E;
+(E) baseadas em métodos, procedimentos e critérios, ter ambientes definidos e estar aderentes a capacidades do nível F.
+
+[GABARITO]
+C

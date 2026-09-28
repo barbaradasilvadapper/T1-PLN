@@ -1,0 +1,18 @@
+ID: 24-046
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Amanda foi contratada para melhorar a segurança da rede corporativa em que trabalha. A rede vem sofrendo ataques do tipo spam e vírus rotineiramente, pois o antimalware utilizado possui baixa capacidade de diferenciar o que são e-mails e arquivos legítimos do que são ameaças. A baixa acurácia do antimalware causa problemas de lentidão na rede. Para melhorar a taxa de acerto na identificação das ameaças, Amanda deve:
+
+[ALTERNATIVAS]
+(A) aumentar o falso positivo e aumentar o verdadeiro positivo;
+(B) reduzir o verdadeiro negativo e aumentar o falso negativo;
+(C) reduzir o falso negativo e reduzir o verdadeiro negativo;
+(D) aumentar o verdadeiro positivo e reduzir o falso negativo;
+(E) reduzir o verdadeiro positivo e aumentar o verdadeiro negativo.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 39-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A analista Lara foi incumbida de revisar a segurança de determinado aplicativo, devendo considerar as descrições e recomendações do ranking de falhas de software Open Worldwide Application Security Project (OWASP) Top 10 2021. Lara concentrou a revisão na busca por violações ao princípio da negação por padrão, conforme descrição da primeira categoria do ranking. Sendo assim, Lara concentrou a revisão de segurança nas falhas relacionadas à categoria do OWASP Top 10 2021:
+
+[ALTERNATIVAS]
+(A) Injeção;
+(B) Falhas Criptográficas;
+(C) Quebra de Controle de Acesso;
+(D) Configuração Incorreta de Segurança;
+(E) Falhas de Identificação e Autenticação.
+
+[GABARITO]
+C

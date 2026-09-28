@@ -1,0 +1,18 @@
+ID: 57-007
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Regularmente, a equipe de gestão de vulnerabilidades realiza auditorias internas nos sistemas operacionais dos ativos escolhidos para verificar a conformidade dos requisitos de segurança estabelecidos para cada ativo. Conforme a ISO/IEC 27002, convém que a equipe observe a seguinte diretriz para a realização das auditorias internas:
+
+[ALTERNATIVAS]
+(A) os requisitos de auditoria para acesso aos sistemas devem ser definidos pelo proprietário do risco do ativo;
+(B) os testes de auditoria devem possuir acessos de leitura e escrita para validar as ações realizadas nos softwares e nos dados no ambiente de produção;
+(C) os testes de auditoria devem ser realizados durante o horário de expediente para refletir o comportamento real do sistema;
+(D) os acessos devem ser monitorados e registrados para produzir uma trilha de referência;
+(E) um prazo deve ser definido para a reação a notificações de potenciais vulnerabilidades técnicas relevantes.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 56-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em um cenário em que o analista Ken enfrenta o desafio de implementar protocolos de segurança para a transmissão de dados confidenciais em uma organização internacional, ele precisa escolher a opção que descreve a função e aplicação do protocolo SSL (Secure Sockets Layer) no contexto de HTTPS, FTPS e SFTP. Considerando as características e funcionalidades desses protocolos, Ken deve optar por:
+
+[ALTERNATIVAS]
+(A) SSL, um protocolo de camada de aplicação que facilita a criptografia de páginas da web estáticas, tornando o HTTPS ineficaz para conteúdo dinâmico;
+(B) FTPS, que utiliza SSL para criptografar apenas os comandos de login, deixando a transferência de arquivos em si desprotegida;
+(C) SFTP, uma extensão do protocolo Secure Shell (SSH) que não utiliza SSL ou TLS para a criptografia de dados, dependendo exclusivamente de algoritmos de compressão para segurança;
+(D) HTTPS, uma combinação de HTTP e SSL/TLS que assegura a criptografia de dados entre o navegador do usuário e o servidor web, sendo adequado tanto para conteúdo estático quanto dinâmico;
+(E) SSL, que foi projetado exclusivamente para o envio seguro de e-mails, tornando-se incompatível com protocolos como HTTPS, FTPS e SFTP.
+
+[GABARITO]
+D

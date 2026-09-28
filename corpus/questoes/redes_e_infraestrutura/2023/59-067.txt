@@ -1,0 +1,18 @@
+ID: 59-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma solicitação de conexão HTTP (Hypertext Transfer Protocol) foi enviada para um servidor de páginas desse tipo na internet. A resposta a essa solicitação possui código de estado (status) 403. O provável motivo do recebimento do código de estado (status) 403 nessa tentativa de conexão é:
+
+[ALTERNATIVAS]
+(A) a solicitação foi recebida, compreendida e será processada com sucesso pelo servidor;
+(B) houve um redirecionamento de página;
+(C) a página não pode ser encontrada ou não existe;
+(D) a solicitação não foi autorizada pelo servidor;
+(E) o servidor web não conseguiu processar a solicitação.
+
+[GABARITO]
+D

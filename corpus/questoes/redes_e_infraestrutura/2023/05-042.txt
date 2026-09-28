@@ -1,0 +1,18 @@
+ID: 05-042
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+João trabalha em uma fabricante de notebooks e está executando um projeto de hierarquização de memória para melhoria de performance e usabilidade dos computadores. As boas práticas destacam que só deve usar memória cara quando necessário e fornecer o máximo possível de memória barata e não volátil. Em seu projeto, João identificou que deverá acrescentar a maior quantidade de memória volátil com o menor custo. Logo, em seu projeto, João deverá acrescentar ao notebook mais:
+
+[ALTERNATIVAS]
+(A) registradores;
+(B) cache;
+(C) cache L2;
+(D) memória principal;
+(E) memória secundária.
+
+[GABARITO]
+D

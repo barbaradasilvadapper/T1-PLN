@@ -1,0 +1,18 @@
+ID: 64-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A sigla RAID significa Redundant Array of Independent Disks, ou Conjunto Redundante de Discos Independentes. Sobre o RAID 5, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) São usados a partir de 3 discos. Independentemente da quantidade de discos usados, sempre temos sacrificado o espaço equivalente a um deles. Usa um sistema de paridade para manter a integridade dos dados.
+(B) São usados dois discos (ou qualquer outro número par). O primeiro disco armazena dados e o segundo armazena uma cópia exata do primeiro, atualizada em tempo real. Metade do espaço de armazenamento é sacrificado.
+(C) São usados a partir de 4 discos. Metade dos discos são usados em modo de distribuição dos dados, enquanto a outra metade armazena uma cópia dos dados dos primeiros, oferecendo redundância.
+(D) São usados a partir de 4 discos. Utiliza um sistema de paridade dupla. A porcentagem de espaço sacrificado decai conforme são acrescentando mais discos.
+(E) Todos os discos passam a ser acessados como se fossem um único disco. Melhora a taxa de leitura e de gravação e utiliza 100% do espaço disponível nos discos. Não existe redundância.
+
+[GABARITO]
+A

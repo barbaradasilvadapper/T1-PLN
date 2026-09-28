@@ -1,0 +1,18 @@
+ID: 19-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Analise o script de uma stored procedure no âmbito do SQL Server. CREATE PROCEDURE TESTE @CPF varchar(11), @Produdo varchar(12) AS SELECT count(*) Contagem FROM VENDA WHERE CPF = @CPF AND CodProdudo = @Produdo; Nesse contexto, considere as três hipóteses de comandos que invocam o procedimento armazenado TESTE. I. EXECUTE TESTE '99999999900', '1000999'; II. EXEC TESTE @CPF = '99999999900', @Produdo = '1000999'; III. EXECUTE TESTE @CPF = '99999999900' and @Produdo = '1000999'; Está correto o que se apresenta em:
+
+[ALTERNATIVAS]
+(A) somente I;
+(B) somente I e II;
+(C) somente I e III;
+(D) somente II e III;
+(E) I, II e III.
+
+[GABARITO]
+B

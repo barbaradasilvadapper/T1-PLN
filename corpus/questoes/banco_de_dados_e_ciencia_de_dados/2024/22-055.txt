@@ -1,0 +1,18 @@
+ID: 22-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O algoritmo de redução de dimensionalidade conhecido como Análise de Componentes Principais (PCA – Principal Component Analysis) possui características importantes. Dada a escolha de um número k de componentes principais e um conjunto de dados X com cinco variáveis A, B, C, D e E, o PCA
+
+[ALTERNATIVAS]
+(A) adiciona a média de cada observação para cada dimensão de X, normalizando-a depois pelo desvio-padrão.
+(B) constrói a matriz de confusão a partir de X, multiplicando-a pelos autovalores de seus vetores originais.
+(C) escolhe k autovetores aleatórios do conjunto original de dados.
+(D) preserva as distâncias geodésicas entre os pontos do espaço original dos dados por redução não linear.
+(E) retorna k combinações lineares dos atributos do conjunto {A,B,C,D,E}.
+
+[GABARITO]
+E

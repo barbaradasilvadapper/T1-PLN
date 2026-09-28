@@ -1,0 +1,18 @@
+ID: 48-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A Assessoria de Tecnologia da Informação (ATI) de um tribunal está utilizando a notação Business Process Modelling Notation (BPMN 2.0) para mapear os processos de negócio relacionados aos pedidos de serviços à Assessoria Financeira, com o intuito de compreender o negócio e desenvolver uma nova solução de software. Na construção do modelo de processos atual, os seguintes elementos do tipo evento foram utilizados, conforme apresentado abaixo. Figura 1. Condicional Figura 2. Mensagem Figura 3. Ligação Figura 4. Sinal Figura 5. Tempo O elemento do tipo evento da notação BPMN 2.0, apresentado acima, que foi utilizado para representar o fim do fluxo do processo por meio do(a):
+
+[ALTERNATIVAS]
+(A) condição lógica atemporal foi o elemento representado na figura 1;
+(B) recebimento de uma mensagem de outro processo foi o elemento representado na figura 2;
+(C) conexão do fim de um processo ao fim de outro processo foi o elemento representado na figura 3;
+(D) envio de um sinal (broadcast) para outro(s) processo(s) foi o elemento representado na figura 4;
+(E) ocorrência de uma condição para atingir uma data relativa ou período foi o elemento representado na figura 5.
+
+[GABARITO]
+D

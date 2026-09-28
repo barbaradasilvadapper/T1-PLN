@@ -1,0 +1,18 @@
+ID: 13-058
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe o modelo de dados, que utiliza a Notação Crow's Foot (Pé de Galinha), onde PK representa a Chave Primária: Após a normalização, no PostgreSQL, para implementar o modelo de dados físico com as integridades referenciais, deve-se executar o seguinte script SQL:
+
+[ALTERNATIVAS]
+(A) CREATE TABLE Processo ( ProcessoID SERIAL PRIMARY KEY, CREATE TABLE Parte ( ParteID SERIAL PRIMARY KEY, NomeParte VARCHAR(100)); CREATE TABLE ProcessoParte ( ProcessoID INTEGER REFERENCES Processo(ProcessoID), ParteID INTEGER REFERENCES Parte(ParteID), PRIMARY KEY (ProcessoID, ParteID));
+(B) CREATE TABLE Processo ( ProcessoID SERIAL UNIQUE, CREATE TABLE Parte ( ParteID SERIAL UNIQUE, NomeParte VARCHAR(100)); CREATE TABLE ProcessoParte ( ProcessoID SERIAL UNIQUE, ParteID SERIAL UNIQUE );
+(C) CREATE TABLE Processo ( ProcessoID SERIAL NOT NULL, CREATE TABLE Parte ( ParteID SERIAL NOT NULL, NomeParte VARCHAR(100)); CREATE TABLE ProcessoParte ( UNIQUE (ProcessoID, ParteID));
+(D) CREATE TABLE ProcessoParte ( ProcessoID FOREIGN KEY, ParteID FOREIGN KEY, NomeParte VARCHAR(100),
+(E) CREATE TABLE ProcessoParte ( FOREIGN KEY(ProcessoID NOT NULL,ParteID NOT NULL), NomeParte VARCHAR(100),
+
+[GABARITO]
+A

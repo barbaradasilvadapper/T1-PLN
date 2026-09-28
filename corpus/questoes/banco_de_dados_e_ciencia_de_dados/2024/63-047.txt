@@ -1,0 +1,18 @@
+ID: 63-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de banco de dados, há um conjunto de propriedades fundamentais para a integridade e a confiabilidade das transações em um banco de dados representadas pelo acrônimo ACID. Cada uma delas desempenha um papel crucial na manutenção da integridade dos dados e na garantia de que as transações sejam realizadas de forma correta e segura. Com isto em mente, associe as propriedades listadas a seguir, aos responsáveis, dentro ou fora do SGBD, por garanti-las. 1. Programadores ou módulo do SGBD que impõe restrições de integridade. 2. Subsistema de recuperação. 3. Subsistema de controle de concorrência. ( ) Atomicidade. ( ) Consistência. ( ) Isolamento. ( ) Durabilidade. Assinale a opção que apresenta a associação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 2 – 1 – 3 – 3.
+(B) 1 – 3 – 2 – 2.
+(C) 2 – 2 – 1 – 3.
+(D) 2 – 1 – 3 – 2.
+(E) 3 – 2 – 1 – 1.
+
+[GABARITO]
+D

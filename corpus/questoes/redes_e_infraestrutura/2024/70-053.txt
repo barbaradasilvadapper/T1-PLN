@@ -1,0 +1,18 @@
+ID: 70-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto da segmentação e endereçamento IPv4, uma rede classe C cuja máscara é 255.255.255.128 possui a seguinte quantidade de hosts utilizáveis:
+
+[ALTERNATIVAS]
+(A) 254.
+(B) 126.
+(C) 62.
+(D) 30.
+(E) 14.
+
+[GABARITO]
+B

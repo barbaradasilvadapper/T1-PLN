@@ -1,0 +1,18 @@
+ID: 83-036
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma aplicação mobile enviou a um gateway de APIs REST várias solicitações idênticas em sequência utilizando o método HTTP PUT. Essas solicitações idênticas resultaram em nenhuma alteração de estado do sistema de backend, a exceção da primeira solicitação que atualizou um registro no banco de dados. Nesse contexto, é correto afirmar que essa solicitação HTTP é
+
+[ALTERNATIVAS]
+(A) acoplada.
+(B) balanceada.
+(C) full-duplex.
+(D) idempotente.
+(E) segura.
+
+[GABARITO]
+D

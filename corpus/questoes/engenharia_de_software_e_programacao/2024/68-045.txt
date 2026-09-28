@@ -1,0 +1,18 @@
+ID: 68-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma das ferramentas mais importantes no processo de desenvolvimento de software é o repositório de gestão de configuração de software utilizado. Ele oferece um conjunto de estruturas e mecanismos que auxiliam a equipe de desenvolvimento a gerenciar as modificações experimentadas por um software. Em termos de características, em um repositório de gestão de configuração é fundamental
+
+[ALTERNATIVAS]
+(A) acompanhar e manter as dependências entre os elementos de dados sob sua guarda.
+(B) compatibilizar as estruturas de padrões de projetos GoF e GRASP ao longo do desenvolvimento do software.
+(C) demandar um sistema de banco de dados externo para salvar documentos relacionados ao software.
+(D) implantar métodos ágeis de levantamento de requisitos, como o QFD (Quality Function Deployement).
+(E) reprogramar o software baseado no histórico de mudanças a partir da última versão salva.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 07-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Marcos está desenvolvendo o aplicativo Android TribunalMovel, por meio do Android Studio. Marcos criou em TribunalMovel o componente FluxoDois, que exibe uma tela única, com interface gráfica. O FluxoDois constitui, no aplicativo, um novo ponto de entrada para a interação com o usuário. A fim de informar ao Android a presença do novo componente, Marcos precisa declarar o FluxoDois no arquivo de manifesto AndroidManifest.xml. Para realizar a declaração do FluxoDois, Marcos deve adicionar ao AndroidManifest.xml um novo elemento do tipo:
+
+[ALTERNATIVAS]
+(A) action;
+(B) service;
+(C) activity;
+(D) receiver;
+(E) provider.
+
+[GABARITO]
+C

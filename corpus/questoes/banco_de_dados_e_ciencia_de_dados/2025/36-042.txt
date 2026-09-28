@@ -1,0 +1,18 @@
+ID: 36-042
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista de suporte José precisa otimizar o banco de dados DMJus do ambiente de Data Warehouse do MPU. O DMJus implementa modelos de dados multidimensionais cujas dimensões possuem muitos atributos de baixa cardinalidade, ou seja, apresentam um número baixo de valores distintos – por exemplo, Unidades da Federação (UF). Para otimizar o DMJus, melhorando seu desempenho, José deve criar um índice do tipo:
+
+[ALTERNATIVAS]
+(A) hash;
+(B) bitmap;
+(C) caching;
+(D) clustered;
+(E) non-clustered.
+
+[GABARITO]
+B

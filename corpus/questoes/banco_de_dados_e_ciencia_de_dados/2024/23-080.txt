@@ -1,0 +1,17 @@
+ID: 23-080
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os servidores MYSQL versão 8.3 possuem diversos tipos de arquivos de log. Os arquivos de log usados nos serviços de replicação de dados são
+
+[ALTERNATIVAS]
+(A) binary e relay logs.
+(B) error e general logs
+(C) replication e DDL logs.
+(D) slow query e DML logs.
+
+[GABARITO]
+A

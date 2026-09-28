@@ -1,0 +1,18 @@
+ID: 92-034
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em um ambiente computacional com o sistema operacional Linux em funcionamento, a opção que caracteriza corretamente a função do comando sudo é
+
+[ALTERNATIVAS]
+(A) realizar o gerenciamento de permissões de contas de usuário.
+(B) efetuar elevação de privilégios para execução de comandos como super usuário, ou outro usuário.
+(C) remover arquivos de softwares após sua instalação.
+(D) configurar idiomas do teclado após a instalação do sistema operacional.
+(E) buscar atualizações do sistema operacional no repositório de softwares.
+
+[GABARITO]
+B

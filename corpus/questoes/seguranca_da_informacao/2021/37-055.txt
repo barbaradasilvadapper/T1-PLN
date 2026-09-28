@@ -1,0 +1,18 @@
+ID: 37-055
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O conceito de hardening caracteriza-se principalmente por medidas e ações que visam:
+
+[ALTERNATIVAS]
+(A) permitir a recuperação de sistemas computacionais na sequência de um desastre natural;
+(B) criar ambientes similares ao de servidores físicos, de modo que sistemas computacionais operem independentes do hardware;
+(C) mapear ameaças, mitigar riscos e tornar sistemas computacionais preparados para enfrentar tentativas de ataque;
+(D) distribuir a carga de trabalho uniformemente entre dois ou mais computadores para aumentar a confiabilidade através da redundância;
+(E) construir sistemas computacionais sem preocupação com a infraestrutura em que esses sistemas estão rodando.
+
+[GABARITO]
+C

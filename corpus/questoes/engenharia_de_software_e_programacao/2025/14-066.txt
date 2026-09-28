@@ -1,0 +1,18 @@
+ID: 14-066
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A propriedade border-style do CSS possui diversos estilos de bordas, sendo que cada um deles permite que o desenvolvedor desenvolva uma página site que especifique o tipo de borda a ser utilizada no elemento HTML. O valor de border-style que define uma borda ranhurada 3D é
+
+[ALTERNATIVAS]
+(A) dotted.
+(B) 3dsolid.
+(C) groove.
+(D) 3doutset.
+(E) 3dinset.
+
+[GABARITO]
+C

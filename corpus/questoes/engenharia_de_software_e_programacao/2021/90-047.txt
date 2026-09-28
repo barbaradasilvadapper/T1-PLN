@@ -1,0 +1,18 @@
+ID: 90-047
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação aos operadores bitwise do Java, considere os valores binários a = 00111100 b = 00001101 Os valores resultantes das operações a&b respectivamente,
+
+[ALTERNATIVAS]
+(A) 00011100 e 11111101
+(B) 00001100 e 00111101
+(C) 00001111 e 00111111
+(D) 11001110 e 00001100
+(E) 01101100 e 00100101 a|b são, e
+
+[GABARITO]
+B

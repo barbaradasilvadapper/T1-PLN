@@ -1,0 +1,18 @@
+ID: 11-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O H2 Database é um sistema de gerenciamento de banco de dados relacional open source desenvolvido em Java. A respeito de características do H2 Database, avalie as afirmativas a seguir. I. O modo incorporado é mais lento que o modo servidor. II. No modo servidor, uma aplicação abre um banco de dados remotamente por meio da API JDBC ou ODBC. III. Não é possível combinar conexões locais e remotas ao mesmo tempo.
+
+[ALTERNATIVAS]
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) III, apenas.
+
+[GABARITO]
+A

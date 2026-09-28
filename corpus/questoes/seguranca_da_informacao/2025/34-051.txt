@@ -1,0 +1,18 @@
+ID: 34-051
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os sistemas de detecção e prevenção de intrusão desempenham papéis diferentes na segurança de redes. A principal diferença entre IDS e IPS é que o IPS
+
+[ALTERNATIVAS]
+(A) monitora apenas tráfego de entrada.
+(B) funciona somente em modo promíscuo.
+(C) gera alertas sem capacidade de intervenção.
+(D) opera inline e pode bloquear tráfego malicioso automaticamente.
+(E) analisa apenas logs de eventos.
+
+[GABARITO]
+D

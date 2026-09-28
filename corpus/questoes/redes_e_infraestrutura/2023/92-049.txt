@@ -1,0 +1,18 @@
+ID: 92-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+De acordo com a norma NBR 14.565, o comprimento máximo admitido para o cabeamento metálico é de
+
+[ALTERNATIVAS]
+(A) 100m.
+(B) 200m.
+(C) 400m.
+(D) 90m.
+(E) 2000m.
+
+[GABARITO]
+A

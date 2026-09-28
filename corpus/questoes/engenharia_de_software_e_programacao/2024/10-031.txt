@@ -1,0 +1,18 @@
+ID: 10-031
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Murilo, analista de sistemas, escreveu um código em PHP, que incluía o trecho a seguir: Linha 1: $x = -1; Linha 2: function funcao($y, $z) { Linha 3: Linha 4: $retorno = $x*$y + 3*$z; Linha 5: Linha 6: return $retorno; Linha 7: } Linha 8: Linha 9: echo funcao(3,5); Ele pretendia que, ao executá-lo, fosse exibido o valor 12. Para isso, Murilo alterou uma linha do código. A linha alterada ficou da seguinte maneira:
+
+[ALTERNATIVAS]
+(A) Linha 3: var $x;
+(B) Linha 3: global $x;
+(C) Linha 1: var $x = -1;
+(D) Linha 1: global $x = -1;
+(E) Linha 3: global $x = -1.
+
+[GABARITO]
+B

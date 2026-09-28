@@ -1,0 +1,18 @@
+ID: 77-065
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em equipes que praticam metodologias ágeis (Scrum/XP), a abordagem de testes é integrada e contínua. Em contraste com os modelos tradicionais, onde os testes eram uma fase separada no final do ciclo, a cultura ágil exige que o teste seja
+
+[ALTERNATIVAS]
+(A) exclusivamente automatizado e sem envolvimento do usuário final.
+(B) realizado apenas pelo Time de QA, que atua como gatekeeper de qualidade.
+(C) uma atividade contínua e colaborativa, responsabilidade de toda a equipe.
+(D) focado primariamente em Testes de Performance em detrimento de Testes Funcionais.
+(E) totalmente documentado em um Plano de Teste formal antes da codificação.
+
+[GABARITO]
+C

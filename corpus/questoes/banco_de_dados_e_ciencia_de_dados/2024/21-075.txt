@@ -1,0 +1,18 @@
+ID: 21-075
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação aos conceitos básicos de análise exploratória de dados, analise as afirmativas a seguir. I. O coeficiente de curtose é uma medida adimensional que depende da diferença entre os percentis de ordem 90 e 10. II. Quando o coeficiente de correlação entre duas variáveis aleatórias é nulo, isso implica que as mesmas são independentes. III. Um conjunto de dados cujo desvio padrão é maior do que o de outro conjunto possui maior dispersão.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+A

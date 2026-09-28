@@ -1,0 +1,18 @@
+ID: 22-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O Apache Spark é uma ferramenta amplamente utilizada para processamento de grandes volumes de dados. Assinale a opção que o descreve corretamente, assim como suas capacidades e suas funcionalidades.
+
+[ALTERNATIVAS]
+(A) O Apache Spark é um sistema de armazenamento distribuído de arquivos que gerencia grandes volumes de dados por meio de replicação e fragmentação, com foco na segurança e no versionamento dos arquivos.
+(B) O Apache Spark é um framework de computação distribuída que permite o processamento rápido de grandes volumes de dados, suportando operações em tempo real e por lote, além de fornecer bibliotecas para machine learning e gráficos.
+(C) O Apache Spark é uma plataforma de análise de dados especializada em bancos de dados relacionais, permitindo consultas SQL em tempo real e fornecendo ferramentas de visualização integradas.
+(D) O Apache Spark é um sistema de gerenciamento de filas que prioriza a execução de tarefas paralelas em ambientes distribuídos, garantindo que as tarefas sejam executadas de acordo com a capacidade da infraestrutura.
+(E) O Apache Spark é um sistema de controle de versões distribuído que facilita o gerenciamento colaborativo de projetos de dados e código, permitindo a reversão de alterações e o controle detalhado de permissões.
+
+[GABARITO]
+B

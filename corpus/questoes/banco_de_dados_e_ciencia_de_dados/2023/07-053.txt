@@ -1,0 +1,18 @@
+ID: 07-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Numa instalação Oracle PL/SQL, um cursor tem quatro atributos que podem ser referenciados pela sintaxe a seguir. cursor_name%attribute Esses atributos são:
+
+[ALTERNATIVAS]
+(A) %ERROR, %FOUND, %NOTFOUND, %OPEN;
+(B) %ERROR, %FOUND, %NOTFOUND, %ROWCOUNT;
+(C) %ERROR, %FOUND, %OPEN, %ROWCOUNT;
+(D) %ERROR, %NOTFOUND, %OPEN, %ROWCOUNT;
+(E) %FOUND, %NOTFOUND, %OPEN, %ROWCOUNT.
+
+[GABARITO]
+E

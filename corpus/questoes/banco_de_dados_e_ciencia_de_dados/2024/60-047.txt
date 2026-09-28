@@ -1,0 +1,18 @@
+ID: 60-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Marisa, chefe do centro de dados (CD) da empresa X, recebeu uma ligação na madrugada informando que tinha havido queda de luz e que nenhum dos geradores disponíveis assumira a geração de energia. Ela então foi ao CD e, após o restabelecimento da luz, solicitou aos presentes que verificassem seus sistemas. Contudo, foram identificadas falhas de discos e, com isso, não haveria acessos aos arquivos de log. Marisa chamou seus funcionários e orientou, corretamente, que eles recuperassem os bancos de dados a partir do(a):
+
+[ALTERNATIVAS]
+(A) backup do banco de dados em fita;
+(B) algoritmo de recuperação de áries;
+(C) sistema de paginação sombra;
+(D) técnica de atualização imediata;
+(E) técnica de atualização adiada.
+
+[GABARITO]
+A

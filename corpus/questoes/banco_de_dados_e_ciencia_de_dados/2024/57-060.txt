@@ -1,0 +1,18 @@
+ID: 57-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+BDFree é um banco de dados distribuído que utiliza uma estrutura de armazenamento NoSQL. No BDFree quaisquer solicitações retornam respostas válidas em um intervalo de tempo razoável, independentemente da aplicação que o utiliza, devido ao cumprimento da propriedade que:
+
+[ALTERNATIVAS]
+(A) viabiliza que cada cliente tenha a mesma visão dos dados;
+(B) mantém cópias de itens de dados visíveis para várias transações;
+(C) assegura que cada requisição receba a informação mais recente ou um erro;
+(D) garante que partes da estrutura do banco de dados que estejam desativadas sejam ignoradas;
+(E) replica dados entre as estruturas do banco de dados antes que a gravação seja considerada bem-sucedida.
+
+[GABARITO]
+D

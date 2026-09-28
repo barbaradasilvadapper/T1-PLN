@@ -1,0 +1,18 @@
+ID: 70-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No contexto da criptografia, analise as afirmativas a seguir. I. A criptografia homomórfica permite realizar cálculos em dados cifrados sem a necessidade de descriptografá-los primeiro. II. O protocolo SSL/TLS é frequentemente usado para garantir a segurança nas comunicações via internet, incluindo o tráfego de dados entre navegadores da web e servidores. III. A criptografia de chave simétrica utiliza um par de chaves para cifrar e decifrar dados.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 40-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em um Sistema de Continuidade de Negócios (SCN), a organização deve considerar vários aspectos internos e externos ao órgão para determinar as consequências das paralisações das suas atividades, definindo planos de recuperação em caso de incidentes, permitindo a sua operação durante o momento de crise e no retorno à normalidade. O SCN envolve vários processos e planos formalmente estabelecidos. O estabelecimento dos prazos priorizados dentro do período máximo tolerável de interrupção para a retomada das atividades suspensas a uma capacidade mínima aceitável é definido no(a):
+
+[ALTERNATIVAS]
+(A) procedimento de continuidade de negócios;
+(B) processo de análise de impacto nos negócios;
+(C) plano de continuidade de negócios;
+(D) processo de avaliação de riscos;
+(E) seleção de estratégias e soluções.
+
+[GABARITO]
+B

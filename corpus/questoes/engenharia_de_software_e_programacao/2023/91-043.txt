@@ -1,0 +1,18 @@
+ID: 91-043
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A XML (Extensible Markup Language) é um tipo de linguagem de marcação que representa informações no formato texto. Sua gramática permite que comentários sejam adicionados para ajudar na compreensão dos documentos XML. O fragmento que representa um comentário permitido pela gramática XML é
+
+[ALTERNATIVAS]
+(A) /* comentário */
+(B) // comentário
+(C) ''' comentário '''
+(D) (* comentário *)
+(E) <!-- comentário -->
+
+[GABARITO]
+E

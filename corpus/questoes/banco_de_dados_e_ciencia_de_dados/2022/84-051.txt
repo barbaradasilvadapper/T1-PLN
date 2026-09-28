@@ -1,0 +1,18 @@
+ID: 84-051
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Analise os três seguintes scripts de comandos SQL no contexto das tabelas X e Y definidas anteriormente. I. delete from X where A = 20; delete from Y where A = 20; delete from X where A = 20; II. delete from X where A = 20; delete from Y where A = 20; III. Assinale o(s) script(s) que removeria(m), sem erros, as linhas de ambas as tabelas que contêm o valor 20 na coluna A.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) Somente I.
+(C) Somente II.
+(D) Somente III.
+(E) Somente I e III.
+
+[GABARITO]
+A

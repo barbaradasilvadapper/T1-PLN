@@ -1,0 +1,18 @@
+ID: 86-054
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Sobre criptografia, analise as afirmativas a seguir. I. O algoritmo AES é um exemplo de algoritmo criptográfico que utiliza cifra de bloco simétrico e chave de criptografia com 128, 192 ou 256 bits. II. A cifra de Vigenère é um exemplo de cifra de transposição polialfabética. III. As cifras de substituição rearranjam os caracteres de uma mensagem segundo um algoritmo especifico, de forma a embaralhar os caracteres do texto.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) I e III, apenas.
+
+[GABARITO]
+A

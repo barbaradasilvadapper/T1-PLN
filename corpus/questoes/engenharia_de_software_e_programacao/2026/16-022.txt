@@ -1,0 +1,18 @@
+ID: 16-022
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Bootstrap é um dos frameworks front-end mais utilizados no desenvolvimento web. Ele oferece um sistema de grid responsivo baseado em 12 colunas, componentes pré-estilizados e classes utilitárias que agilizam a construção de interfaces adaptáveis a diferentes tamanhos de tela, seguindo a abordagem mobile-first. Considere o seguinte trecho de código utilizando o framework Bootstrap 5: <div class="container"> <div class="row"> <div class="col-12 col-md-6 col-lg-4">Bloco 1</div> <div class="col-12 col-md-6 col-lg-4">Bloco 2</div> <div class="col-12 col-md-6 col-lg-4">Bloco 3</div> </div> </div> Sobre o código apresentado, considerando o comportamento padrão do sistema de grid do Bootstrap 5 e sua abordagem mobilefirst, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Em telas grandes (a partir do breakpoint lg), cada bloco ocupará 4 colunas do grid de 12, resultando em três blocos dispostos lado a lado em uma única linha.
+(B) Em dispositivos móveis (abaixo do breakpoint md), cada bloco ocupará 6 colunas do grid, fazendo com que dois blocos apareçam por linha.
+(C) A classe col-md-6 será aplicada exclusivamente em telas que correspondam ao breakpoint md, sendo ignorada nos breakpoints superiores como lg e xl.
+(D) O Bootstrap 5 utiliza a abordagem desktop-first, de modo que a classe col-12 só será aplicada caso nenhuma media query de resolução superior seja ativada pelo navegador.
+(E) A classe container faz com que o conteúdo ocupe 100% da largura da tela em todos os breakpoints, sem margens laterais, comportando-se de forma idêntica à classe container-fluid.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 11-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Poder Judiciário adotou o modelo centralizado de governança na segurança cibernética, de acordo com a Resolução nº 396 de 07/06/2021, que instituiu a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ). Nesse modelo, o órgão central que coordena as ações para viabilizar a governança na segurança cibernética é
+
+[ALTERNATIVAS]
+(A) o Conselho Nacional de Justiça (CNJ).
+(B) o Comitê Gestor de Segurança da Informação do Poder Judiciário (CGSI-PJ).
+(C) o Centro de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos do Poder Judiciário (CPTRIC-PJ).
+(D) a Equipe de Tratamento e Resposta a Incidentes de Segurança Cibernética (ETIR).
+(E) o Sistema de Gestão de Segurança da Informação do Poder Judiciário (SGSI-PJ).
+
+[GABARITO]
+A

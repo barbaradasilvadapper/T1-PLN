@@ -1,0 +1,18 @@
+ID: 58-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Injeção de SQL, ou SQL Injection, está entre as vulnerabilidades mais críticas em aplicações Web. De acordo com a OWASP, a melhor maneira de prevenir essa vulnerabilidade é
+
+[ALTERNATIVAS]
+(A) utilizar uma política de senha forte.
+(B) desativar mensagens de erro detalhadas.
+(C) usar um firewall de aplicativo web (WAF).
+(D) usar consultas parametrizadas ou Prepared Statements.
+(E) restringir o acesso à base de dados apenas ao IP do servidor.
+
+[GABARITO]
+D

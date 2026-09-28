@@ -1,0 +1,18 @@
+ID: 88-042
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Aline deseja enviar uma mensagem cifrada para Marcos usando um esquema de cifra de chave simétrica. Portanto, para encriptar sua mensagem Aline deve usar o algoritmo
+
+[ALTERNATIVAS]
+(A) AES.
+(B) Diffie-Helman.
+(C) MD5.
+(D) RSA.
+(E) SHA-1.
+
+[GABARITO]
+A

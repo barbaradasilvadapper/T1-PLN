@@ -1,0 +1,18 @@
+ID: 65-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A análise de tarefas é um método eficaz para avaliar a usabilidade na qualidade de software. Assinale a opção que descreve um problema comum dessa abordagem.
+
+[ALTERNATIVAS]
+(A) Sobreposição excessiva de funcionalidades, o que pode confundir o usuário.
+(B) Aumento da carga de trabalho para a equipe de desenvolvimento devido à necessidade de manter duas versões do software.
+(C) Obtenção de dados quantitativos insuficientes para uma análise estatística rigorosa.
+(D) Efeito do observador, em que a presença do analista pode alterar o comportamento do usuário.
+(E) Ambiguidade das perguntas, o que pode levar a respostas não confiáveis.
+
+[GABARITO]
+D

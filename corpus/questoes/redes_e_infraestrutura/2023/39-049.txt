@@ -1,0 +1,18 @@
+ID: 39-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A DPE/RS está aprimorando sua infraestrutura de rede com soluções de virtualização, visando a melhoria da gestão e da disponibilidade de recursos computacionais. No departamento Sete foi adotada a solução de virtualização de aplicações VSoft, que executa as aplicações virtualizadas inteiramente no servidor. Com o VSoft, os usuários interagem apenas com determinada aplicação, sem instalar qualquer componente, acessando a interface gráfica da aplicação diretamente do navegador web local. Logo, o VSoft é uma solução de virtualização do tipo:
+
+[ALTERNATIVAS]
+(A) transmissão de aplicação;
+(B) virtualização de desktop local;
+(C) virtualização de aplicação local;
+(D) infraestrutura de desktop virtual;
+(E) virtualização de aplicação baseada em servidor.
+
+[GABARITO]
+E

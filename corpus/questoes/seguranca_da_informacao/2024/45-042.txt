@@ -1,0 +1,18 @@
+ID: 45-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Walace está fazendo uma verificação de segurança da empresa X, onde trabalha na busca de alguma falha no controle de acesso das aplicações. Ele está seguindo o modelo OWASP, que indica algumas ferramentas que auxiliam nessa tarefa. Walace identificou adulteração do JSON Web Token (JWT) de controle de acesso para elevação de privilégios na aplicação. Com isso, Walace teve a necessidade de implementar rapidamente a ação de prevenção:
+
+[ALTERNATIVAS]
+(A) invalidar JSON Web Tokens (JWT) após o logout;
+(B) corrigir ou atualizar todos os processadores e bibliotecas de XML usados pela aplicação;
+(C) garantir que todos os dados em repouso sejam encriptados;
+(D) desativar a cache para respostas que contenham dados sensíveis;
+(E) restringir e monitorizar o tráfego de entrada e saída dos contêineres e servidores que realizam desserialização.
+
+[GABARITO]
+A

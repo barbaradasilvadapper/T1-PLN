@@ -1,0 +1,18 @@
+ID: 91-045
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O SNMP (Simple Network Management Protocol) oferece um padrão de arquitetura para monitoramento de ativos de rede. De acordo com este modelo de gerenciamento, o agente SNMP é o componente arquitetural que
+
+[ALTERNATIVAS]
+(A) especifica as estruturas comuns e esquemas de identificação dos elementos de rede.
+(B) representa a base de dados de objetos que residem no dispositivo de rede.
+(C) define o caminho que os pacotes de dados devem percorrer a partir do elemento de rede até as estações de gerência.
+(D) atua como interface para o gerente humano num sistema de gerenciamento de rede.
+(E) recebe mensagens para recuperar ou modificar variáveis no elemento de rede monitorado.
+
+[GABARITO]
+E

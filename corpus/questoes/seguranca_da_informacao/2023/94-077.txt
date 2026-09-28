@@ -1,0 +1,18 @@
+ID: 94-077
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Diante do cenário de insegurança digital, a PGM de Niterói contratou a empresa Tec_segura para melhorar a confidencialidade das informações trafegadas na sua rede interna. Logo, foi decidido pela utilização da técnica cerca de trilho com um nível maior de complexidade. Dessa forma, as mensagens são escritas em um retângulo, linha por linha, e a leitura é em coluna por coluna, mas a ordem da leitura é permutada. A ordem das colunas, então, torna-se a chave para o algoritmo. Considerando a chave como: 4 3 1 2 5, caso a mensagem trafegada na rede seja: NITEROISEMPREAFRENTE A cifra na qual a técnica foi aplicada corretamente é:
+
+[ALTERNATIVAS]
+(A) NOPRIIRETSENEEATRMFE;
+(B) TSENEEATIIRENOPRRMFE;
+(C) RENTEPREAFOISEMNITER;
+(D) MESIOETNERPREAFRETIN;
+(E) EFMRTAEENESTERIIRPON.
+
+[GABARITO]
+B

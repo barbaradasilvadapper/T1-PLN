@@ -1,0 +1,18 @@
+ID: 45-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A equipe de desenvolvimento de um aplicativo para comunicação interna de uma organização utilizou um algoritmo de criptografia simétrica que utiliza chave de 256 bits. O algoritmo de criptografia utilizado é o:
+
+[ALTERNATIVAS]
+(A) AES;
+(B) RSA;
+(C) DES;
+(D) DiffieHellman;
+(E) 3DES.
+
+[GABARITO]
+A

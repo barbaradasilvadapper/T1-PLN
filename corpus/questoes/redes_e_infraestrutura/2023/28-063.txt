@@ -1,0 +1,18 @@
+ID: 28-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Maiara, analista judiciária, ao analisar o funcionamento da rede do TJSE, informou ao seu encarregado que uma característica do OSPF é que:
+
+[ALTERNATIVAS]
+(A) fora de uma área, seus destinos são visíveis, mas não sua topologia;
+(B) para uma origem e um destino na mesma área, a melhor rota interárea é escolhida;
+(C) roteadores que se encontram totalmente dentro de uma área são chamados roteadores de backbone;
+(D) cada AS tem uma área de backbone, chamada área 1; os roteadores nessa área são chamados roteadores de backbone;
+(E) quando um roteador é iniciado, ele envia mensagens ACK em todas as conexões ponto a ponto e as transmite por multicast nas LANs para o grupo.
+
+[GABARITO]
+A

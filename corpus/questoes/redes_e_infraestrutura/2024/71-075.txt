@@ -1,0 +1,18 @@
+ID: 71-075
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Entre os serviços de rede Microsoft Windows Server listados a seguir, assinale aquele que representa um servidor autônomo, que pode fornecer gerenciamento centralizado de endereços IP e outras definições de configuração de TCP/IP para os computadores cliente em uma rede.
+
+[ALTERNATIVAS]
+(A) DNS
+(B) DHCP
+(C) AD
+(D) WSUS
+(E) OWASP
+
+[GABARITO]
+B

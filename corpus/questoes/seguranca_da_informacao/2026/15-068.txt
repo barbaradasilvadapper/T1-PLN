@@ -1,0 +1,18 @@
+ID: 15-068
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um Departamento de Tecnologia da Informação da Assembleia Legislativa do Estado de Goiás (ALEGO) está revisando sua arquitetura de segurança para garantir comunicações seguras entre os sistemas institucionais e as plataformas digitais utilizadas no âmbito do Poder Legislativo. Nesse processo, a equipe de TI avalia como o SSL/TLS realiza a geração e a troca de material de chave durante o handshake, visando assegurar confidencialidade, integridade e conformidade com padrões de segurança. Assinale qual das afirmativas abaixo sobre o processo de geração de material de chave no protocolo SSL/TLS é verdadeira.
+
+[ALTERNATIVAS]
+(A) O processo de geração de material de chave é realizado exclusivamente pelo cliente, e o servidor apenas aceita o resultado.
+(B) O Material de chave gerado no SSL é utilizado apenas uma vez e não é mais necessário em futuras comunicações entre o mesmo cliente e servidor.
+(C) O processo de geração de material de chave envolve o uso de uma Função Pseudorrandom (PRF), que combina várias entradas para produzir a chave.
+(D) O material de chave gerado no SSL não pode ser usado no handshake, pois é gerado após a troca inicial de chaves.
+(E) O SSL/TLS utiliza apenas algoritmos simétricos na geração de material de chave, excluindo qualquer método assimétrico.
+
+[GABARITO]
+C

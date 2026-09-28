@@ -1,0 +1,18 @@
+ID: 16-030
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma equipe mantém uma API REST documentada por meio de uma especificação OpenAPI 3.x, exibida no Swagger UI. Parte dos endpoints exige autenticação por token do tipo bearer no formato JWT, enviado no cabeçalho Authorization. Contudo, na interface gerada, essas operações não exibem o botão Authorize nem ficam corretamente marcadas como protegidas. Sem alterar a implementação da API e atuando apenas na especificação OpenAPI, a equipe precisa configurar a documentação para que o Swagger UI reconheça formalmente esse mecanismo de segurança e permita seu uso nas operações protegidas. Nesse contexto, assinale a opção que apresenta a medida tecnicamente mais adequada.
+
+[ALTERNATIVAS]
+(A) Definir, em components/securitySchemes, um esquema de segurança do tipo http com scheme: bearer, podendo indicar bearerFormat: JWT, e aplicá-lo por meio de security no nível global ou apenas nas operações protegidas.
+(B) Declarar, em components/schemas, um objeto chamado Authorization, com um campo obrigatório token, e referenciálo nas operações que exigem autenticação.
+(C) Adicionar, em cada operação protegida, um parâmetro em header com o nome Authorization, sem definir esquema de segurança específico na especificação.
+(D) Definir, em components/securitySchemes, um esquema do tipo apiToken, com in: header e name: Authorization, e associá-lo às operações protegidas por meio de security.
+(E) Definir, em components/securitySchemes, um esquema do tipo http com scheme: basic e associá-lo às operações protegidas, informando que o token JWT será enviado no cabeçalho Authorization.
+
+[GABARITO]
+A

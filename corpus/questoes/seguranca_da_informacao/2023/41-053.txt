@@ -1,0 +1,18 @@
+ID: 41-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um analista de TI identificou um tipo de malware e está analisando seus componentes. A condição que determina quando a carga útil de um malware é ativada ou entregue denomina-se:
+
+[ALTERNATIVAS]
+(A) função lógica;
+(B) bomba lógica;
+(C) vetor de infecção;
+(D) fase de propagação;
+(E) mecanismo de infecção.
+
+[GABARITO]
+B

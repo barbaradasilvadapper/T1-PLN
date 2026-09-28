@@ -1,0 +1,18 @@
+ID: 68-032
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma empresa deseja lançar uma primeira versão de um aplicativo de vendas de produtos não muito comuns e, portanto, precisa saber qual será a melhor forma de aceitação dos usuários. Neste cenário, assinale a opção que indica o padrão arquitetural e metodologias corretas a serem aplicadas no desenvolvimento deste sistema.
+
+[ALTERNATIVAS]
+(A) A arquitetura baseada em Peer-to-Peer, pois facilita o gerenciamento de mudanças e torna o controle de versão mais intuitivo, reduzindo a necessidade de ferramentas especializadas.
+(B) Uma arquitetura de 3 camadas com padrão arquitetural Modelo-Visão-Controlador (MVC), facilitando o gerenciamento de mudanças e dependências. Contudo, não impactando diretamente o controle de versão, nem a integração contínua.
+(C) O padrão MVC não pode ser aplicado nesse caso, ao invés disso, usar a arquitetura de camadas irá facilitar o controle de versão.
+(D) Optar pela arquitetura baseada em componentes com padrão MVC, já que simplifica o gerenciamento de mudanças e torna o controle de versão desnecessário, devido à independência dos componentes.
+(E) A adoção do padrão de arquitetura Monolítica utilizando padrões Factory, já que concentra todos os componentes em um único módulo, simplificando o gerenciamento de mudanças.
+
+[GABARITO]
+B

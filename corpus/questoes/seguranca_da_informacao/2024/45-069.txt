@@ -1,0 +1,18 @@
+ID: 45-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um órgão contratou um profissional especialista em ethical hacking para identificar os riscos de ataques aos quais está sujeito. O profissional coletou inúmeras informações sobre os sistemas e ativos, utilizando ferramentas e engenharia social, para realizar testes de segurança e identificar as vulnerabilidades existentes. Esse procedimento de coleta de informação é conhecido como:
+
+[ALTERNATIVAS]
+(A) footprinting;
+(B) pen test;
+(C) scanning;
+(D) exploitation;
+(E) forense digital.
+
+[GABARITO]
+A

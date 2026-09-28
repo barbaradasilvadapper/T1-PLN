@@ -1,0 +1,18 @@
+ID: 38-026
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Tribunal de Justiça contratou a empresa Rede X para efetuar a troca dos cabos coaxiais antigos usados no tráfego de rede. A Rede X informou que conseguiria entregar a velocidade de 1 Gigabit por segundo (Gbps) com menor custo utilizando cabos que transmitem a partir da diferença de potencial elétrico e possuem boa imunidade a ruído com um bom desempenho. Para entregar o serviço, a empresa fará uso de cabo:
+
+[ALTERNATIVAS]
+(A) de condução pela rede elétrica;
+(B) de fibra óptica monomodo;
+(C) de fibra óptica multimodo;
+(D) coaxial categoria 3;
+(E) par trançado categoria 5.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 76-069
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em uma aplicação web para o backoffice da Casa, o modelo MVC (Model-View-Controller) é adotado para separar as preocupações do código, promovendo a manutenibilidade e a testabilidade. A principal responsabilidade do Model em uma aplicação MVC clássica, no contexto de uma requisição web é
+
+[ALTERNATIVAS]
+(A) gerenciar a interação do usuário e receber as entradas para decidir qual ação será executada.
+(B) determinar o formato de apresentação dos dados e exibi-los ao usuário.
+(C) tratar exclusivamente a lógica de segurança e criptografia da sessão do usuário.
+(D) representar a lógica de negócio, persistência de dados e as regras de domínio, sendo totalmente independente da View e do Controller.
+(E) atuar como um gateway de API, roteando as requisições HTTP para os serviços de backend.
+
+[GABARITO]
+D

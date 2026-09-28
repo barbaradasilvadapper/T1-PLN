@@ -1,0 +1,18 @@
+ID: 60-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Tribunal de Justiça do Mato Grosso do Sul (TJMS) decidiu por adquirir servidores com maior capacidade, de forma que pudessem ser virtualizados para um melhor gerenciamento. A implementação de máquinas virtuais envolve vários componentes. Um desses componentes, o gerenciador de máquinas virtuais (VMM), conhecido também como hipervisor, cria e executa máquinas virtuais fornecendo uma interface que é idêntica ao hospedeiro. A gerência optou por usar o hipervisor tipo 2, pois trata-se de:
+
+[ALTERNATIVAS]
+(A) soluções baseadas em hardware que fornecem suporte à criação e ao gerenciamento de máquinas virtuais via firmware;
+(B) softwares semelhantes a sistemas operacionais construídos para fornecer virtualização, incluindo o VMware ESX;
+(C) aplicações que são executadas sobre sistemas operacionais padrão, mas fornecem recursos de VMM a sistemas operacionais convidados;
+(D) sistemas operacionais de uso geral que fornecem funções padrão, assim como funções de VMM;
+(E) um hipervisor que permite que aplicações escritas para um ambiente de hardware sejam executadas em um ambiente de hardware diferente.
+
+[GABARITO]
+C

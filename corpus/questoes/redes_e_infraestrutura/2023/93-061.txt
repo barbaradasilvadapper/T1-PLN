@@ -1,0 +1,18 @@
+ID: 93-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação aos meios físicos de transmissão, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). I. Os meios físicos de transmissão de dados podem assumir muitas formas e não precisam ser do mesmo tipo para cada par transmissor-receptor ao longo do caminho. Exemplos de meios físicos guiados incluem fio de cobre de par trançado, cabo coaxial cabo, cabo de fibra óptica multimodo e espectro de rádio terrestre. II. O par trançado não blindado (UTP) é comumente utilizado para redes de computadores dentro de um edifício, ou seja, para LANs. Taxas de dados para LANs que usam par trançado variam de 10 Mbps a 10 Gbps. As taxas de dados que pode ser alcançado depende da espessura do fio e da distância entre transmissor e receptor. III. Uma única fibra óptica pode suportar elevadas taxas de transferência de bits, variando de dezenas ou mesmo centenas de gigabits por segundo. Eles não são imunes a interferência do eletromagnetismo, mas têm atenuação de sinal muito baixa até 100 quilômetros. Estas características tornaram a fibra óptica a opção preferida para transporte guiado de longa distância. meios de transmissão, especialmente para links internacionais.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – F – V.
+(C) V – F – F.
+(D) F – V – V.
+(E) F – V – F.
+
+[GABARITO]
+E

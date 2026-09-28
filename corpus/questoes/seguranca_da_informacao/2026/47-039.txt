@@ -1,0 +1,18 @@
+ID: 47-039
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em relação à utilização dos Métodos de Autenticação Multifatorial (MFA) em ambientes corporativos e às boas práticas de segurança da informação, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O uso de chaves físicas baseadas no padrão FIDO2 apresenta nível de segurança intermediário, sendo recomendado apenas para ambientes de baixo risco.
+(B) A implementação de MFA em todos os sistemas corporativos dispensa a necessidade de auditoria de acessos e monitoramento de eventos de autenticação.
+(C) A autenticação multifatorial exige a combinação de fatores pertencentes a categorias distintas, como “algo que o usuário sabe”, “algo que ele possui” ou “algo que ele é”.
+(D) O uso de mecanismos biométricos garante proteção absoluta contra falsificação de identidade, uma vez que se baseia em fatores de inerência exclusivos de cada indivíduo.
+(E) O envio de códigos de autenticação por SMS é considerado um método altamente seguro de MFA, por ser imune a ataques de interceptação de rede e engenharia social.
+
+[GABARITO]
+C

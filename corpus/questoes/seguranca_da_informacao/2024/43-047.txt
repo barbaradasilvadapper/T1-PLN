@@ -1,0 +1,18 @@
+ID: 43-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O administrador de segurança do Tribunal de Justiça do Mato Grosso do Sul está implementando algumas regras no sistema de prevenção de intrusão (IPS) da rede local. Ele definiu um controle de acesso que determina quais usuários e dispositivos podem acessar um determinado host. Assim, se um usuário não autorizado tentar se conectar ao host, o IPS irá interrompê-lo. O administrador de segurança está configurando um IPS baseado em:
+
+[ALTERNATIVAS]
+(A) assinatura;
+(B) anomalias;
+(C) políticas;
+(D) reputação;
+(E) análise de protocolo estável.
+
+[GABARITO]
+C

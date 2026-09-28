@@ -1,0 +1,18 @@
+ID: 45-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um técnico está configurando uma rede Wi-Fi em um tribunal e precisa garantir que a autenticação WEP esteja funcionando corretamente entre os dispositivos cliente e o ponto de acesso. A sequência que descreve o processo de autenticação WEP é:
+
+[ALTERNATIVAS]
+(A) desafio, resposta, requisição e sucesso;
+(B) requisição, desafio, sucesso e resposta;
+(C) requisição, sucesso, desafio e resposta;
+(D) requisição, desafio, resposta e sucesso;
+(E) desafio, sucesso, resposta e requisição.
+
+[GABARITO]
+D

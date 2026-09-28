@@ -1,0 +1,18 @@
+ID: 04-045
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código PHP exibido a seguir. <?php declare(strict_types=1); function fun(int $a, int $b) : int { if ($b == 0) {return $a;} else {return fun($b, $a % $b);} } ----------; ?> Nesse contexto, considere o quadro a seguir, que mostra os possíveis efeitos na execução do código acima quando o trecho pontilhado é substituído por cada um dos trechos substitutos. Caso Trecho substituto Efeito echo fun(20,690) I O valor 10 é exibido. echo fun(13,17) II O valor 1 é exibido. echo fun(20.5,40) III O valor 20 é exibido. Os efeitos estão corretamente descritos nos casos:
+
+[ALTERNATIVAS]
+(A) somente I;
+(B) somente I e II;
+(C) somente I e III;
+(D) somente II e III;
+(E) I, II e III.
+
+[GABARITO]
+B

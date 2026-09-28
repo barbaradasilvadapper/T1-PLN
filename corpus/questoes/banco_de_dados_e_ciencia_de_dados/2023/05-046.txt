@@ -1,0 +1,18 @@
+ID: 05-046
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Lara trabalha como administradora de banco de dados na empresa X. Ao efetuar um atendimento ao cliente in loco, identificou que, após a atualização de uma tabela, os dados estavam incorretos. Após a depuração do problema, viu que havia 3 processos em seção crítica. Lara verificou que a solução para o problema de seção crítica consiste em atender aos requisitos:
+
+[ALTERNATIVAS]
+(A) progresso, locking e throughput;
+(B) limitação de buffer, espera limitada e preempção;
+(C) throughput, limitação de buffer e espera circular;
+(D) exclusão mútua, progresso e espera limitada;
+(E) exclusão mútua, espera circular e preempção.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 86-035
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O COBIT®2019 descreve um modelo corporativo para a governança e gestão de TI. Segundo este modelo de referência, os objetivos de governança estão agrupados no domínio
+
+[ALTERNATIVAS]
+(A) avaliar, dirigir e monitorar.
+(B) alinhar, planejar e organizar.
+(C) construir, adquirir e implementar.
+(D) entregar, serviços e suporte.
+(E) implementar, testar e corrigir.
+
+[GABARITO]
+A

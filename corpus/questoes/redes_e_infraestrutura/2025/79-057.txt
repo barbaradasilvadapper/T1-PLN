@@ -1,0 +1,18 @@
+ID: 79-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Maria está avaliando a compra do computador VN para o MPU. O hardware do VN implementa a arquitetura de Von Neumann, trazendo preocupação quanto ao impacto do gargalo de Von Neumann no desempenho do computador. Porém, Maria se tranquilizou após lembrar que esse gargalo tem sido mitigado pela indústria, de forma direta, por meio do(a):
+
+[ALTERNATIVAS]
+(A) implementação de memória cache;
+(B) implementação de coprocessadores;
+(C) aumento da velocidade do processador;
+(D) redução do barramento entre o processador e a memória principal;
+(E) aumento da capacidade de armazenamento da memória principal.
+
+[GABARITO]
+A

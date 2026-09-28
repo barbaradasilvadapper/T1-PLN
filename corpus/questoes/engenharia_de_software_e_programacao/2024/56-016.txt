@@ -1,0 +1,18 @@
+ID: 56-016
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista José precisa escolher entre dois algoritmos, Abusca e Cbusca. José sabe que, sendo N o tamanho da entrada do algoritmo, Abusca requer 2 N + log 2 (N) operações para ser executado. Já o Cbusca requer N 4 + N operações para ser executado. José determinou, na notação O-grande, a complexidade de tempo no pior caso para cada algoritmo e, por fim, deve escolher o algoritmo que apresenta a menor ordem de complexidade no pior caso. José deve escolher o algoritmo:
+
+[ALTERNATIVAS]
+(A) Cbusca, que possui complexidade O(N);
+(B) Abusca, que possui complexidade O(2 N );
+(C) Cbusca, que possui complexidade O(N 4 );
+(D) Cbusca, que possui complexidade O(3N);
+(E) Abusca, que possui complexidade O(log(N)).
+
+[GABARITO]
+C

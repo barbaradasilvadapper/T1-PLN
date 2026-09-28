@@ -1,0 +1,18 @@
+ID: 31-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A criptografia é o estudo e a prática de técnicas que envolvem a criação de algoritmos matemáticos para transformar dados em formatos indecifráveis para pessoas não autorizadas e, assim, proteger informações sensíveis durante sua transmissão ou armazenamento. Nesse contexto, a prevenção contra a modificação ou destruição imprópria de informação de forma não autorizada está relacionada ao contexto de
+
+[ALTERNATIVAS]
+(A) autenticidade.
+(B) responsabilização.
+(C) confidencialidade.
+(D) disponibilidade.
+(E) integridade.
+
+[GABARITO]
+E

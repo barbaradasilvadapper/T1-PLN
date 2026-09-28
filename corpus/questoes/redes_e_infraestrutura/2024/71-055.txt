@@ -1,0 +1,18 @@
+ID: 71-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A especificação IEEE 802.11 é usualmente utilizada em redes sem fio e seu quadro é composto por diversos campos. O tamanho em bits do campo de verificação de redundância cíclica é
+
+[ALTERNATIVAS]
+(A) 8.
+(B) 16.
+(C) 32.
+(D) 64.
+(E) 128.
+
+[GABARITO]
+C

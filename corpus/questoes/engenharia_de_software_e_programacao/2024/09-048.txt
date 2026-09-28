@@ -1,0 +1,18 @@
+ID: 09-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No desenvolvimento de aplicativos móveis para Android e iOS, uma das abordagens mais comuns é o uso de frameworks que permitem o desenvolvimento multiplataforma, reduzindo o esforço de criação de código para cada sistema operacional. O framework popular para o desenvolvimento multiplataforma e que utiliza a linguagem Dart é chamado de
+
+[ALTERNATIVAS]
+(A) Xamarin.
+(B) Flutter.
+(C) React Native.
+(D) Ionic.
+(E) SwiftUI.
+
+[GABARITO]
+B

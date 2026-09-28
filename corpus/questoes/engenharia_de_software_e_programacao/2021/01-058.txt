@@ -1,0 +1,18 @@
+ID: 01-058
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os clientes do banco EraDigital podem atualizar seus endereços eletrônicos (e-mail) por meio do aplicativo para dispositivos móveis EraDigApp. No EraDigApp, o cliente se autentica e preenche o campo "Novo e-mail" destinado ao cadastro de um novo endereço eletrônico que permite a entrada de quaisquer caracteres alfanuméricos e em qualquer ordem, ou seja, sem seguir uma regra de formação. No contexto de engenharia de requisitos, a falta de controle do EraDigApp em relação à entrada de endereços eletrônicos caracteriza falhas na especificação de requisitos de:
+
+[ALTERNATIVAS]
+(A) manutenibilidade;
+(B) reparabilidade;
+(C) usabilidade;
+(D) confiabilidade;
+(E) vulnerabilidade.
+
+[GABARITO]
+C

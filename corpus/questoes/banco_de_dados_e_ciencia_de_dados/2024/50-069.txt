@@ -1,0 +1,18 @@
+ID: 50-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O comando EXPLAIN no sistema PostgreSQL, versão 16, desempenha um papel crucial na análise e otimização do desempenho das consultas SQL. Compreender o funcionamento e a saída desse comando é essencial para otimizar o desempenho do sistema. Neste contexto, o comando EXPLAIN
+
+[ALTERNATIVAS]
+(A) exibe informações sobre o histórico de execução de consultas no banco de dados, incluindo detalhes sobre transações anteriores.
+(B) indica ao planejador que escolha como custo estimado de execução de consultas que utilizam a cláusula EXISTS o menor custo inicial em vez do menor custo total.
+(C) modifica, em conjunto com a cláusula ANALYZE e WAL, a estrutura física dos arquivos de dados no disco para otimizar o desempenho das consultas.
+(D) monitora o espaço em disco utilizado por tabelas e índices no banco de dados, permitindo a otimização do armazenamento e reconstrução de índices CLUSTERED.
+(E) oferece uma interface gráfica para criar e modificar tabelas no banco de dados PostgreSQL escritas utilizando a sublinguagem DDL.
+
+[GABARITO]
+B

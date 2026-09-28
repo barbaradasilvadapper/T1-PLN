@@ -1,0 +1,18 @@
+ID: 36-053
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O Ministério Público da União (MPU) está criando um departamento de governança de dados, que terá, como uma de suas atividades, controlar a performance de seus servidores federais. O objetivo é alocar o número certo de pessoas em cada departamento de forma a equalizar o trabalho entre todos. Contudo, esse novo departamento deverá trabalhar com dados estatísticos somente, sem acesso a dados de um indivíduo específico. Como forma de evitar problemas de segurança com relação aos dados armazenados, o Departamento de Segurança do MPU, junto com os DBAs, precisarão:
+
+[ALTERNATIVAS]
+(A) usar variáveis de ligação (BIND), além de remover caracteres de escape das cadeias de caracteres de entrada das consultas das aplicações;
+(B) restringir o acesso de funções de banco de dados padronizadas ou personalizáveis, além de funções de agregação como COUNT, SUM, MIN, MAX, AVERAGE, dentre outras;
+(C) restringir o acesso aos dados individualizados com a criptografia de dados críticos, além de proibir sequência de consultas à mesma população de tuplas;
+(D) introduzir pequenas imprecisões ou ruídos nos resultados das consultas, além de efetuar o particionamento do banco de dados;
+(E) atribuir uma classe de segurança para cada programa em execução, além de permitir a leitura para determinados segmentos de memória.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 26-066
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de suporte de sistemas senado federal
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O sistema de gerenciamento de banco de dados oferece ao administrador diferentes indicadores para obter informações sobre o ambiente. No caso do SGBD SQL Server, quando se trata de analisar a performance de consultas, um dos indicadores observados é o chamado tipo de espera (Wait Type). Considere que o sistema de controle de pagamentos da metalúrgica Ferro Forte está no SGBD SQL Server, e vem apresentando perda de performance no processo de fechamento da folha de pagamento. O analista de banco de dados constata que o tipo de espera mais comum se refere ao paralelismo do plano de execução ( CXPACKECT ). Visando a otimizar a performance da consulta em relação aos recursos de CPU e de memória do servidor, assinale a opção que lista os parâmetros que devem ser ajustados para melhorar o paralelismo.
+
+[ALTERNATIVAS]
+(A) Parâmetro da Instância Maximum worker threads.
+(B) Parâmetro do banco de dados Query Optimizer Fixes.
+(C) Parâmetro da Instância Maximun number of concurrent connections.
+(D) Parâmetro do banco de dados Cost Threshold for Parallelism e MaxDOP.
+(E) Parâmetro da Instância Cost Threshold for Parallelism e MaxDOP , e o parâmetro no banco de dados MaxDOP.
+
+[GABARITO]
+E

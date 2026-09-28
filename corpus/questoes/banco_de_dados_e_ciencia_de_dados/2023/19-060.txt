@@ -1,0 +1,18 @@
+ID: 19-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe o profile das seguintes fontes de dados do Data Warehouse JusDW. FONTE DE DADOS 1: Tabela TB_PROC Atributo: ID_P Descrição: Identificador único da tabela TB_PROC Quantidade de Registros: 3. 250 Valor Inicial: 1 Valor Final: 3. 250 Valores Nulos: 0 FONTE DE DADOS 2: Tabela TAB_P Atributo: ID_PROC Descrição: Identificador único da tabela TAB_P Quantidade de Registros: 250 Valor Inicial: 1 Valor Final: 250 Valores Nulos: 0 Para integrar e armazenar os 3.500 registros das Fontes de Dados 1 e 2 na Dimensão DIM_PROC do JusDW, identificando unicamente cada novo registro criado da DIM_PROC, é necessário criar uma:
+
+[ALTERNATIVAS]
+(A) Foreign key;
+(B) Natural key;
+(C) Alternate key;
+(D) Surrogate key;
+(E) Candidate key.
+
+[GABARITO]
+D

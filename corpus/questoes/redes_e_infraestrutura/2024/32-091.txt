@@ -1,0 +1,18 @@
+ID: 32-091
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A virtualização é uma tecnologia que permite a execução de múltiplos sistemas operacionais e aplicações em um único servidor físico, otimizando recursos e aumentando a eficiência operacional. Entre as empresas especializadas em virtualização se destaca a VMWare, que suporta diversos serviços e aplicações de abrangência global sobre sua plataforma. Com relação à solução de virtualização da VMWare, avalie as afirmativas a seguir. I. vCenter é um hypervisor da VMware, que é o componente fundamental para criar e gerenciar máquinas virtuais. Ele é instalado diretamente no hardware e permite que várias máquinas virtuais operem em um único servidor físico. II. ESXi (Elastic Sky X Integrated) é uma plataforma de gerenciamento centralizada da VMware, que permite administrar múltiplos vCenter e VMs a partir de uma única interface. III. vSphere é o conjunto completo de produtos e tecnologias de virtualização da VMware, que inclui ESXi, vCenter e outros componentes de infraestrutura de virtualização VMWare.
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I e III, apenas.
+(C) II e III, apenas.
+(D) I, II e III, apenas.
+(E) III, apenas.
+
+[GABARITO]
+E

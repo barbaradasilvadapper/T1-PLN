@@ -1,0 +1,18 @@
+ID: 83-043
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), o controlador é a pessoa natural ou jurídica, de direito público ou privado
+
+[ALTERNATIVAS]
+(A) que realiza o tratamento de dados pessoais em nome dos órgãos setoriais do Poder Público.
+(B) responsável por zelar, implementar e fiscalizar o cumprimento desta Lei em todo o território nacional.
+(C) a quem competem as decisões referentes ao tratamento de dados pessoais.
+(D) responsável por realizar pesquisa aplicada de caráter estatístico para validar a segurança da informação.
+(E) a quem se referem os dados pessoais que são objeto de tratamento.
+
+[GABARITO]
+C

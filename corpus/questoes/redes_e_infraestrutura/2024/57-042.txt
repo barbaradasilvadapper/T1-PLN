@@ -1,0 +1,18 @@
+ID: 57-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Analisando um roteador e a política de roteamento, João, analista do CVM, identificou que: I. o equipamento recebeu duas rotas distintas para o mesmo prefixo e aceitou; II. a preferência local da rota foi estabelecida por esse roteador ou foi descoberta por outro roteador no mesmo AS; III. a decisão do item II é política e fica a cargo do administrador de rede do AS. Para definir a rota escolhida, João identificou que:
+
+[ALTERNATIVAS]
+(A) apesar de as rotas terem o mesmo valor de preferência local, a rota selecionada tem o comprimento AS-PATH mais longo;
+(B) apesar de as rotas terem o mesmo comprimento de AS-PATH, a rota selecionada tem o valor de preferência local mais baixo;
+(C) apesar de as rotas terem o mesmo comprimento de AS-PATH, e o mesmo valor de preferência local, a rota selecionada é baseada nos identificadores BGP;
+(D) apesar de as rotas terem o mesmo comprimento de AS-PATH e o mesmo valor de preferência local, a rota selecionada será a que tem o roteador next-hop com menor custo;
+(E) apesar de as rotas terem o mesmo comprimento de AS-PATH, o mesmo valor de preferência local e o mesmo custo de caminho do roteador next-hop, a rota selecionada será aleatória.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 05-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um Modelo Entidade-Relacionamento (MER) é composto basicamente por entidades e seus relacionamentos, assim como por atributos que descrevem suas propriedades. Considere Pessoa como uma entidade que possui diversos dependentes, como: filhos, pai, mãe, enteado etc. Para modelar “Dependentes” como uma propriedade da entidade “Pessoa”, deve-se usar o atributo do tipo:
+
+[ALTERNATIVAS]
+(A) chave;
+(B) composto;
+(C) derivado;
+(D) multivalorado;
+(E) monovalorado.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 72-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Equipe de Gestão de Inovações (EGI) de uma organização vem estudando conceitos de estratégias para desenvolvimento de front-end de aplicações. Assim, decidiu desenvolver algumas pequenas soluções de software, na qualidade de testes dos conceitos, pautadas em Single-Page Application (SPA), e outras pautadas em Progressive Web App (PWA). Em seu estudo, a EGI deve considerar que:
+
+[ALTERNATIVAS]
+(A) SPA recarrega uma página atualizada em resposta a cada ação do usuário;
+(B) SPA possui suporte para envio de alertas automáticos via notificações push;
+(C) motores de busca possuem suporte para indexar conteúdo desenvolvido em PWA;
+(D) SPA e PWA utilizam threads próprias e viabilizam o carregamento rápido de conteúdos independentemente da rede;
+(E) os critérios de instalação de PWA no manifesto de aplicativo da Web devem ser genéricos o suficiente para atender aos diferentes browsers.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 13-068
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um órgão público está desenvolvendo um sistema Web para apoiar a prestação de serviços aos cidadãos. Objetivando tornar o sistema mais acessível para pessoas com deficiência, a equipe técnica está seguindo as Diretrizes de Acessibilidade para Conteúdo Web (WCAG - Web Content Accessibility Guidelines). Um dos cuidados da equipe técnica está relacionado à diretriz que trata da ação de facilitar a operação das funcionalidades pelos usuários, por meio de várias entradas além do teclado. Considerando o WCAG, a equipe técnica deve:
+
+[ALTERNATIVAS]
+(A) viabilizar a submissão de formulários automaticamente quando o componente que faz a submissão ganhar o foco;
+(B) dar fluidez ao preenchimento de dados em formulários, submetendo automaticamente dados selecionados em uma lista;
+(C) substituir componentes do tipo botão por links de dados para submissão de formulários, facilitando o uso por leitores de tela;
+(D) definir uma correspondência entre os nomes dos componentes da interface do usuário e seus rótulos (labels), possivelmente colocando o texto do rótulo no início do nome;
+(E) evitar o uso de ícones próximos aos rótulos (labels) e campos de entrada de dados, já que a iconografia carrega conceitos culturais que diferem em cada região.
+
+[GABARITO]
+D

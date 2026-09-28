@@ -1,0 +1,18 @@
+ID: 72-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os analistas do Time de Desenvolvimento de Software (TDS) estão utilizando User Story (História de Usuário) do Extreme Programming (XP) para todos os novos projetos, em substituição aos Casos de Uso em UML. Na escrita das User Stories, os analistas devem:
+
+[ALTERNATIVAS]
+(A) considerar que histórias podem ser construídas em mais de uma iteração;
+(B) ordenar a escrita das histórias, visto que há uma dependência entre elas;
+(C) detalhar os critérios de testes a serem executados com base na história;
+(D) considerar que uma história pode ser um ou mais cenários em um caso de uso;
+(E) focar nos objetivos do usuário e em como a interação com o sistema satisfaz esses objetivos.
+
+[GABARITO]
+D

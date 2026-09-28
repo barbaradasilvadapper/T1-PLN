@@ -1,0 +1,18 @@
+ID: 12-082
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O ASP.NET Core é uma tecnologia da Microsoft de código aberto, multiplataforma e alto desempenho para a criação de aplicativos conectados à Internet e aptos para a nuvem. Sobre o ASP.NET Core, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) não oferece suporte para hospedagem de serviços RPC.
+(B) Razor é um framework front-end baseado em componentes que suporta renderização do lado do servidor e interatividade do cliente em um único modelo de programação.
+(C) o ASP.NET 4.x possui desempenho superior ao ASP.NET Core.
+(D) a classe HttpRequest encapsula informações sobre a solicitação HTTP de entrada e permite somente leitura.
+(E) é possível implementar Injeção de dependência no ASP.NET Core registrando a dependência em um contêiner de serviço interno, o IServiceProvider.
+
+[GABARITO]
+E

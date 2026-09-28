@@ -1,0 +1,18 @@
+ID: 13-078
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Flávia implementou, ao longo do último ano, o aplicativo móvel MPUPlay, tanto para Android quanto para iOS, utilizando, em cada plataforma, a linguagem de programação oficialmente recomendada, à época, pelo fabricante, para o desenvolvimento de aplicações móveis nativas. Considerando as fabricantes do Android e do iOS como o Google e a Apple, respectivamente, Flávia implementou o MPUPlay por meio das linguagens:
+
+[ALTERNATIVAS]
+(A) Java e Swift;
+(B) Java e Kotlin;
+(C) Kotlin e Swift;
+(D) Java e Objective-C;
+(E) Kotlin e Objective-C.
+
+[GABARITO]
+C

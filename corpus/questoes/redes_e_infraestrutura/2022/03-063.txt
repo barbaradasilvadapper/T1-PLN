@@ -1,0 +1,18 @@
+ID: 03-063
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma instituição acadêmica está desenvolvendo um ambiente de laboratório virtual em kubernetes, com alta disponibilidade. O sistema provisiona automaticamente um novo pod quando um aluno se autentica. Um dos pré-requisitos do projeto é isolar os pods dos alunos em um pool de nodes exclusivo em alta disponibilidade. Assinale a opção que indica a funcionalidade do kubernetes adequada a esse pré-requisito.
+
+[ALTERNATIVAS]
+(A) Ingress.
+(B) Node affinity.
+(C) Limit Ranges.
+(D) Pod Overhead.
+(E) Node-pressure Eviction.
+
+[GABARITO]
+B

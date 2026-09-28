@@ -1,0 +1,18 @@
+ID: 48-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Lúcia administra o AKluster, o cluster do Apache Kafka no TCE SP. Lúcia constatou que o espaço disponível no AKluster para o armazenamento de streams de eventos está acabando. Para expandir a camada de persistência do AKluster, aumentando ainda a escalabilidade, Lúcia deve prover mais espaço de armazenamento ao Apache Kafka mediante novos:
+
+[ALTERNATIVAS]
+(A) topics;
+(B) brokers;
+(C) partitions;
+(D) producers;
+(E) replications.
+
+[GABARITO]
+B

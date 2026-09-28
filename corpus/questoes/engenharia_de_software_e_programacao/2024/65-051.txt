@@ -1,0 +1,18 @@
+ID: 65-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando as características e as práticas comuns às metodologias ágeis, analise as afirmativas a seguir. I. O manifesto ágil enfatiza a importância da colaboração com o cliente mais do que a negociação de contratos. II. O desenvolvimento iterativo e incremental é um princípio chave, permitindo entregas frequentes de partes funcionais do software. III. A rigidez nos processos de desenvolvimento é essencial para garantir a qualidade e a previsibilidade do produto final.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

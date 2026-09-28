@@ -1,0 +1,18 @@
+ID: 44-081
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de seguranca tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um analista de segurança foi nomeado para realizar a perícia forense em um dispositivo de armazenamento de dados do tipo HardDisk (HD). Para trabalhar nessa perícia ele realizou a duplicação forense dos dados existentes nesse HD. A duplicação forense de mídias computacionais é realizada na seguinte fase do exame pericial
+
+[ALTERNATIVAS]
+(A) Identificação.
+(B) Preservação.
+(C) Extração de dados.
+(D) Análise.
+(E) Apresentação.
+
+[GABARITO]
+B

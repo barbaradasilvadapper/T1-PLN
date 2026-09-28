@@ -1,0 +1,18 @@
+ID: 76-054
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um sistema legado da Assembleia Legislativa utiliza um módulo de criptografia CriptoLegado com uma interface específica criptografar(dados, chave). O Analista de Sistemas precisa integrar esse módulo a um novo framework que espera que todos os serviços de segurança implementem a interface IServicoSeguranca, que define o método protegerInformacao(dados,tipoAlgoritmo). O Padrão de Projeto Estrutural que deve ser empregado para que o módulo legado possa ser utilizado pelo novo framework sem que seja necessário modificar o código do módulo legado ou a interface do novo framework é o
+
+[ALTERNATIVAS]
+(A) Decorator.
+(B) Bridge.
+(C) Facade.
+(D) Proxy.
+(E) Adapter.
+
+[GABARITO]
+E

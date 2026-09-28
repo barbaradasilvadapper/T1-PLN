@@ -1,0 +1,18 @@
+ID: 86-045
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto do Oracle, assinale a opção que apresenta a ferramenta mais indicada para ações de backup e de recuperação de bancos de dados.
+
+[ALTERNATIVAS]
+(A) BPC.
+(B) Data Pump.
+(C) Export.
+(D) RMAN.
+(E) SQL*Loader.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 57-035
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Camila trabalha na empresa Z, que presta serviços para a Comissão de Valores Mobiliários (CVM). Na busca por uma solução que faça a orquestração de contêineres para automatizar a implantação, dimensionamento e gerenciamento de aplicativos, a CVM escolheu o Kubernetes. De forma a implantar um cluster kubernetes completo e funcional, alguns componentes precisam ser implementados. Trabalhando na camada de gerenciamento e observando os Pods recém-criados e que ainda não foram atribuídos a um nó, Camila seleciona um nó para executá-los. Camila está trabalhando no componente:
+
+[ALTERNATIVAS]
+(A) kube-controller-manager;
+(B) kube-apiserver;
+(C) etcd;
+(D) kube-scheduler;
+(E) cloud-controller-manager.
+
+[GABARITO]
+D

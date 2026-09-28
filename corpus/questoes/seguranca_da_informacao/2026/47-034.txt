@@ -1,0 +1,18 @@
+ID: 47-034
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considerando a classificação de riscos e o tratamento dos riscos, analise o cenário a seguir. Uma sociedade empresária de Segurança da Informação identificou um risco relacionado aos Testes de Software, classificado com probabilidade 5 (muito alto) e Impacto 4 (alto) em sua matriz de riscos. Sobre o nível de risco e a estratégia mais adequada para tratá-lo, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Trata-se de um risco alto, não sendo necessária a elaboração de Plano de contingência e estratégia de tratamento.
+(B) Trata-se de um risco médio, sendo adequada uma estratégia de mitigação, com ações para reduzir a probabilidade ou o impacto do risco.
+(C) Trata-se de um risco médio, que deve ser transferido para um fornecedor externo especializado, apesar do custo / benefício adequado.
+(D) Trata-se de um risco extremo, exigindo a estratégia de evitação, com paralisação imediata das atividades de teste até que o risco seja completamente eliminado.
+(E) Trata-se de um risco extremo, sendo adequada uma estratégia de mitigação, com ações para reduzir a probabilidade de ocorrência ou minimizar o impacto, em razão do custo / benefício adequado.
+
+[GABARITO]
+E

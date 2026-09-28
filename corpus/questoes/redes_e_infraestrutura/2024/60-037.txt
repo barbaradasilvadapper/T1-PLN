@@ -1,0 +1,18 @@
+ID: 60-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Pedrão está conduzindo uma revisão meticulosa das configurações de replicação do Active Directory (AD) no TJMS, com o objetivo primordial de assegurar a máxima eficiência da rede. Em seu foco, está a seleção de uma estratégia que refine a replicação entre diferentes locais, dando especial atenção àqueles com limitações significativas de largura de banda. A abordagem recomendada para Pedrão implementar, visando à otimização da replicação entre sites no Active Directory, é:
+
+[ALTERNATIVAS]
+(A) impor a replicação de dados em tempo real em todos os controladores de domínio, desconsiderando as restrições de largura de banda existentes;
+(B) recorrer ao serviço de topologia de replicação de diretório (KCC), que é capaz de criar, de maneira autônoma, uma topologia de replicação eficiente e bem ajustada;
+(C) suspender completamente a replicação entre diferentes sites, limitando toda a replicação de dados ao âmbito de um único site;
+(D) estabelecer manualmente uma rota exclusiva de replicação, conectando diretamente os controladores de domínio mais próximos uns dos outros, sem levar em consideração a estrutura dos sites;
+(E) elevar a prioridade de replicação para todos os objetos, com o intuito de promover uma replicação imediata e assim maximizar o uso da largura de banda disponível.
+
+[GABARITO]
+B

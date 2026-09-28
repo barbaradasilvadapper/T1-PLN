@@ -1,0 +1,18 @@
+ID: 76-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Em um ciclo típico de Gestão de Processos de Negócio (BPM), as atividades de mapeamento, análise e melhoria de processos seguem uma sequência lógica. A sequência lógica mais comum para o ciclo de redesenho e melhoria de um processo é
+
+[ALTERNATIVAS]
+(A) Simulação do TO-BE -> Análise do AS-IS -> Implementação do AS-IS -> Mapeamento do TO-BE.
+(B) Definição de Indicadores -> Mapeamento do TO-BE -> Mapeamento do AS-IS -> Implementação.
+(C) Mapeamento do AS-IS -> Análise do AS-IS -> Desenho do TO- BE -> Simulação/Validação do TO-BE.
+(D) Desenho do TO-BE -> Mapeamento do AS-IS -> Análise do AS- IS -> Monitoramento.
+(E) Implementação -> Mapeamento do TO-BE -> Análise do TO-BE -> Mapeamento do AS-IS.
+
+[GABARITO]
+C

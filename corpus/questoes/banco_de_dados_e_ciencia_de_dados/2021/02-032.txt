@@ -1,0 +1,18 @@
+ID: 02-032
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto do ambiente Android, considere as seguintes afirmativas a respeito do SQLite. I. Deve ser utilizado com o apoio de um servidor de bancos de dados separado. II. Suporta transações (ACID). III. Sua instalação requer cuidados, haja vista o número de arquivos que devem ser preparados. Está correto o que se afirma em:
+
+[ALTERNATIVAS]
+(A) somente I;
+(B) somente II;
+(C) somente III;
+(D) somente I e III;
+(E) I, II e III.
+
+[GABARITO]
+B

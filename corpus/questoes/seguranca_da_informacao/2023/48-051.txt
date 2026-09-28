@@ -1,0 +1,18 @@
+ID: 48-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O sistema SisBRAVO foi desenvolvido aderente ao preconizado na Lei nº 13.709/2018 – Lei Geral de Proteção de Dados (LGPD). O SisBRAVO solicita autorização para coleta de dados pessoais inseridos pelos usuários. Sendo assim, o SisBRAVO atende requisitos tipificados como:
+
+[ALTERNATIVAS]
+(A) externos;
+(B) organizacionais;
+(C) de confiança;
+(D) de confidencialidade;
+(E) de adequação funcional.
+
+[GABARITO]
+A

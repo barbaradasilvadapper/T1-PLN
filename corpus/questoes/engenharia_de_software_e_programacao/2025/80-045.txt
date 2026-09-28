@@ -1,0 +1,18 @@
+ID: 80-045
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A biblioteca Python de código aberto que utiliza tensores de forma otimizada para aplicações de aprendizado profundo usando GPUs ou CPUs se chama
+
+[ALTERNATIVAS]
+(A) pytensorflow.
+(B) pymatrix.
+(C) pytorch.
+(D) pynum.
+(E) pyxpu.
+
+[GABARITO]
+C

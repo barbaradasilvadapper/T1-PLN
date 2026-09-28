@@ -1,0 +1,18 @@
+ID: 34-067
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No SQL Server, para resolver problemas de concorrência em ambiente de alta carga transacional, um DBA precisa escolher o nível de isolamento adequado. O nível que permite leitura de dados não confirmados de outras transações, potencialmente causando dirty reads, é:
+
+[ALTERNATIVAS]
+(A) READ UNCOMMITTED.
+(B) READ COMMITTED.
+(C) REPEATABLE READ.
+(D) SERIALIZABLE.
+(E) SNAPSHOT.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 91-046
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+As VPNs permitem que empresas utilizem redes de comunicação públicas e não confiáveis para trafegar informações de forma segura. A suíte de protocolos utilizada para configurar conexões VPN e que opera na camada de rede do modelo OSI e provê autenticação em nível da rede, verificação da integridade de dados e transmissão com criptografia é
+
+[ALTERNATIVAS]
+(A) atm.
+(B) ppp.
+(C) netbios.
+(D) ipsec.
+(E) tls.
+
+[GABARITO]
+D

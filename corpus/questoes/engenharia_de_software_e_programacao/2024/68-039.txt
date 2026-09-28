@@ -1,0 +1,18 @@
+ID: 68-039
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Javascript a seguir. <!DOCTYPE html> <html> <body> <p id="demo"></p> <script> let text = '{"Funcionarios":[' + '{"Nome":"J.","Sobrenome":"Junior" },' + '{"Nome":"A.","Sobrenome":"Filho" },' + '{"Nome":"P.","Sobrenome":"Neto" },'+ '{"Nome":"L.","Sobrenome":"Bisneto" },'+ '{"Nome":"P.","Sobrenome":"Filha" }]}'; const obj = JSON.parse(text); document.getElementById("demo").innerHTML = obj.Funcionarios[2].Nome+" "+obj.Funcionarios[2].Sobrenome; </script> </body> </html> O resultado exibido ao rodar esse código será
+
+[ALTERNATIVAS]
+(A) A. Filho
+(B) P. Filha
+(C) L. Bisneto
+(D) P. Neto
+(E) J. Junior
+
+[GABARITO]
+D

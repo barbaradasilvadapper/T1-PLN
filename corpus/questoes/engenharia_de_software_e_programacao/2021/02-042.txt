@@ -1,0 +1,18 @@
+ID: 02-042
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do HTML, a sintaxe correta para um comentário, delimitando um trecho que NÃO deve ser exibido pelo browser, é:
+
+[ALTERNATIVAS]
+(A) <-- Texto do comentário -->
+(B) !--Texto do comentário >
+(C) <-Texto do comentário ->
+(D) <!--Texto do comentário -->
+(E) <--Texto do comentário --/>
+
+[GABARITO]
+D

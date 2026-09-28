@@ -1,0 +1,18 @@
+ID: 77-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe de desenvolvimento ágil está utilizando Story Points para estimar o esforço relativo das funcionalidades do sistema. Em uma sessão de Planning Poker, uma User Story Gerar Relatório de Presença recebe 8 Story Points, enquanto a Story de Atualizar Telefone do Parlamentar recebe 3 Story Points. Os valores de 8 Story Points e 3 Story Points representam
+
+[ALTERNATIVAS]
+(A) o tempo exato, em horas, que o item levará para ser concluído.
+(B) o valor de negócio monetário do item para o Product Owner.
+(C) a prioridade absoluta do item na Sprint do projeto.
+(D) o esforço relativo, complexidade e risco percebidos da funcionalidade.
+(E) o número de telas necessárias para implementar a funcionalidade.
+
+[GABARITO]
+D

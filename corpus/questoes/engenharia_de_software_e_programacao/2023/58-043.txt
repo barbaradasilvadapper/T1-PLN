@@ -1,0 +1,18 @@
+ID: 58-043
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Semáforos são variáveis protegidas, comumente utilizadas em programação multithread para controlar o acesso a recursos compartilhados. Analise o código a seguir em linguagem de programação Java. Ao executar esse programa em um terminal, em condições normais e sem a ocorrência de exceções, será escrito na saída padrão:
+
+[ALTERNATIVAS]
+(A) 11221100
+(B) 11102122
+(C) 22112211
+(D) 21100112
+(E) 10112221 Arquitetura de Infraestrutura de Tecnologia da Informação e Comunicação
+
+[GABARITO]
+B

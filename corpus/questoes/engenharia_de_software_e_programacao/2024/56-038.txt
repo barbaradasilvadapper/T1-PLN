@@ -1,0 +1,18 @@
+ID: 56-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A consultora Fernanda encontrou o método Java a seguir em um código de terceiros. //hx é do tipo HashMap<Float,List<Float>> float w = hx.entrySet().stream().map( x-> x.getValue().stream().map( y -> y * x.getKey())) .map(x->x.reduce(0f, (a,b)->a+b)) .reduce(0f,(a,b)->a+b) / hx.entrySet().stream().map( x->x.getKey()*x.getValue().size()) .reduce(0f,(a,b)->a+b); Como Fernanda conhece muito bem as operações de map e reduce do Java, ela logo descobriu que w representa:
+
+[ALTERNATIVAS]
+(A) o desvio padrão do conjunto de valores do HashMap;
+(B) a média ponderada dos valores do HashMap, considerando as chaves como peso;
+(C) o produtório do conjunto de valores do HashMap;
+(D) a obtenção da chave relacionada à lista de maior valor médio;
+(E) o somatório dos produtos entre as chaves do HashMap e as listas de valores relacionadas.
+
+[GABARITO]
+B

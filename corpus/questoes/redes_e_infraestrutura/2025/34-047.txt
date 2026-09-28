@@ -1,0 +1,18 @@
+ID: 34-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em arquiteturas de alta disponibilidade com balanceamento de carga, um endereço IP compartilhado entre múltiplos servidores, não vinculado a uma interface física específica e utilizado para failover automático, é conhecido como
+
+[ALTERNATIVAS]
+(A) IP Anycast.
+(B) IP Multicast.
+(C) Virtual IP (VIP).
+(D) Loopback Address.
+(E) Link-local Address.
+
+[GABARITO]
+C

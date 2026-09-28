@@ -1,0 +1,18 @@
+ID: 86-068
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Acerca de modelagens de processos, analise as afirmativas a seguir. I. A modelagem AS-IS é desenvolvida contemplando as melhorias que devem ser incluídas no processo. II. A modelagem TO-BE é desenvolvida na fase inicial da modelagem, identificando o processo no seu estado atual. III. A modelagem AS-IS, cronologicamente, é anterior à modelagem TO-BE.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+C

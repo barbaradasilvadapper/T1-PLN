@@ -1,0 +1,18 @@
+ID: 03-060
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O gitflow é recomendado para projetos que utilizam versionamento semântico. Assim sendo, ele propõe o uso dos branches master e develop para linha contínua de projeto, além de branches de suporte, que são do tipo
+
+[ALTERNATIVAS]
+(A) feature, hotfix ou release.
+(B) feature, test ou release.
+(C) implement, fix ou release.
+(D) hotfix, fix ou release.
+(E) release, package ou test.
+
+[GABARITO]
+A

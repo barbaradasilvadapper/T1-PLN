@@ -1,0 +1,18 @@
+ID: 48-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Amanda trabalha como webdesigner e dá suporte para aplicações WEB em várias empresas. A empresa Y entrou em contato com Amanda informando que está sofrendo muitos ataques de injeção de SQL e quebra de autenticação. Amanda informou à empresa Y que deveria ser instalado um firewall de aplicação web (WAF) com a intenção de identificar e bloquear tais ataques. Amanda implementou um modelo normalmente baseado em hardware e instalado localmente para que seja mais rápido, em contrapartida a um custo maior na sua implementação. Amanda está implementando um WAF do tipo:
+
+[ALTERNATIVAS]
+(A) de rede;
+(B) de host;
+(C) on-premise;
+(D) cloud;
+(E) híbrido.
+
+[GABARITO]
+A

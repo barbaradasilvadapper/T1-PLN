@@ -1,0 +1,18 @@
+ID: 65-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando os conceitos fundamentais da Engenharia de Software, o Ciclo de Vida do Desenvolvimento de Software (CVDS) e os critérios de Qualidade de Software, sobre a implementação de práticas de qualidade ao longo do CVDS, analise as afirmativas a seguir. I. A análise de requisitos, uma fase inicial do CVDS possui menor impacto na qualidade do software final que os testes finais do software. II. Testes de software, realizados apenas na fase final do desenvolvimento, são suficientes para garantir a qualidade do software. III. A revisão de código e a refatoração são práticas que podem ser aplicadas em várias fases do CVDS para melhorar a manutenibilidade e a qualidade do software, mas são mais eficazes na fase de elaboração e construção.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) III, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+B

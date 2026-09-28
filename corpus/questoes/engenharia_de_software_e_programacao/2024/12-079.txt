@@ -1,0 +1,18 @@
+ID: 12-079
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto da Análise de Pontos de Função, relacione os tipos de funções de dados ou de transação com suas respectivas definições. 1. Arquivo Lógico Interno (ALI) 2. Arquivo de Interface Externa (AIE) 3. Entrada Externa (EE) 4. Consulta Externa (CE) ( ) Tem como função primária armazenar dados mantidos através de um ou mais processos elementares do sistema que está sendo contado. ( ) Conjunto de dados relacionados ou informação de controle, referenciado pelo software sendo medido, mas que é mantido dentro da fronteira de outra aplicação. ( ) Processo elementar que envia dados ou informações de controle para fora da fronteira do sistema. ( ) Processa dados ou informações de controle oriundos de fora do software. Pode alterar o comportamento da aplicação. A relação correta, na ordem apresentada, é:
+
+[ALTERNATIVAS]
+(A) 4 – 1 – 2 – 3.
+(B) 3 – 2 – 4 – 1.
+(C) 2 – 1 – 3 – 4.
+(D) 1 – 2 – 4 – 3.
+(E) 1 – 4 – 3 – 2.
+
+[GABARITO]
+D

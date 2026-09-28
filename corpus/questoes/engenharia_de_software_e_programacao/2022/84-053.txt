@@ -1,0 +1,18 @@
+ID: 84-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do PostgreSQL, analise o comando a seguir. CREATE TABLE TESTE ( C0 SERIAL PRIMARY KEY, C1 TEXT NOT NULL, C2 CHAR(50), C3 REAL ); Assinale a forma de preenchimento automático da coluna C0.
+
+[ALTERNATIVAS]
+(A) Código hash do conteúdo corrente de cada linha da tabela.
+(B) Código randômico de 64 bytes.
+(C) Número inteiro autoincrementado.
+(D) Registro de tempo (timestamp) da inserção do registro.
+(E) Registro de tempo (timestamp) da última atualização do registro.
+
+[GABARITO]
+C

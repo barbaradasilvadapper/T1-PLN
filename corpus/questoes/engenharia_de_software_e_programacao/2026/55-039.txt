@@ -1,0 +1,18 @@
+ID: 55-039
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um analista de testes precisa conduzir uma bateria de testes em um novo sistema do Tribunal de Justiça de Santa Catarina. Para isso, ele deve conhecer os diferentes níveis de testes, seus objetivos e os profissionais normalmente envolvidos em cada nível de sua execução. Associe os níveis de teste às respectivas características. ( ) O ideal é que seja conduzido pelos próprios desenvolvedores, para prevenir o aparecimento de falhas logo no início. ( ) Avalia o comportamento do software como um todo, agindo sobre todas as camadas de forma unificada. ( ) Foca nas interfaces de comunicação e na troca de informações entre as partes internas ou com APIs externas. ( ) Recomenda-se que seja executado por uma equipe de testes independente, e não pelos desenvolvedores, para evitar testes "viciados" que mascarem falhas. 1. Teste de integração. 2. Teste unitário. 3. Teste de sistema. apresentada.
+
+[ALTERNATIVAS]
+(A) 2 – 1 – 1 – 3.
+(B) 1 – 3 – 2 – 2.
+(C) 2 – 3 – 1 – 3.
+(D) 3 – 2 – 3 – 1.
+(E) 3 – 2 – 1 – 1.
+
+[GABARITO]
+C

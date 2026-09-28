@@ -1,0 +1,18 @@
+ID: 69-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A linguagem de modelagem unificada (UML), cujo padrão atual é o 2.5, é amplamente utilizada para visualizar, especificar, construir e documentar os artefatos de um sistema de software intensivo. Relacione os tipos de diagramas UML a seguir a suas respectivas características. 1. Diagrama de caso de uso. 2. Diagrama de implantação. 3. Diagrama de classes. 4. Diagrama de comunicação. ( ) Focaliza a estrutura do sistema de software e são úteis para mostrar a distribuição física de um sistema de software entre plataformas de hardware e ambientes de execução. ( ) Usado para modelar classes, incluindo seus atributos, operações e relações e associações com outras classes, a UML adota o diagrama de classe, ele fornece uma visão estática ou estrutural do sistema. ( ) Ajuda a determinar a funcionalidade e as características do software sob o ponto de vista do usuário. ( ) Também é conhecido como “diagrama de colaboração” na UML 1.X. Os objetos que interagem são representados por retângulos. As associações entre objetos são representadas por linhas ligando os retângulos. Normalmente, há uma seta apontando para um objeto no diagrama, que inicia a sequência de passagem de mensagens. apresentada.
+
+[ALTERNATIVAS]
+(A) 4 – 2 – 1 – 3.
+(B) 3 – 2 – 1 – 4.
+(C) 2 – 3 – 1 – 4.
+(D) 1 – 4 – 2 – 3.
+(E) 1 – 3 – 4 – 2.
+
+[GABARITO]
+C

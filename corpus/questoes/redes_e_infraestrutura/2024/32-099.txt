@@ -1,0 +1,18 @@
+ID: 32-099
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de TI de uma empresa hipotética está estudando o tipo de Data Center que será implantado. Após a análise das alternativas, optou-se por contratar o Data Center em uma empresa especializada em Data Centers. O Data Center funcionará fora das instalações da empresa e a fornecedora do serviço contratado será responsável por toda a infraestrutura, a saber: construção, sistema de refrigeração, sistemas de segurança e velocidade de conexão. Diante do exposto, a solução adotada pela equipe de TI deve ser um Data Center do tipo
+
+[ALTERNATIVAS]
+(A) compartilhado.
+(B) corporativo.
+(C) na nuvem.
+(D) de serviços gerenciados.
+(E) doméstico.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 84-046
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código Java a seguir. public class Main { public static void main(String[] args) { int k = 0; while (k < 9) { k++; if (k == 4) { break; } else if (k % 2 == 0) { continue; } System.out.println(k); } } } Assinale a lista de números exibidos na execução desse código.
+
+[ALTERNATIVAS]
+(A) 1 3
+(B) 1 2 3
+(C) 1 2 3 4
+(D) 1 3 5 7
+(E) 1 3 5 7 9
+
+[GABARITO]
+A

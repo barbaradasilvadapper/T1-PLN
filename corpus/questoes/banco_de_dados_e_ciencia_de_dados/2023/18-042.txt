@@ -1,0 +1,18 @@
+ID: 18-042
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+anteriormente, analise os três comandos SQL a seguir. I . select C.nome where exists (select * from Disputa D where D.azul = C.nome) and exists (select * from Disputa D where D.verde = C.nome) II . select C.nome where exists (select * from Disputa D where D.azul = C.nome or D.verde = C.nome) III . select C.nome where (select count(*) from Disputa D where D.azul = C.nome) + (select count(*) from Disputa D where D.verde = C.nome) > 1 O resultado Nome A B é obtido somente no(s) comando(s):
+
+[ALTERNATIVAS]
+(A) I;
+(B) II;
+(C) III;
+(D) I e II;
+(E) II e III.
+
+[GABARITO]
+A

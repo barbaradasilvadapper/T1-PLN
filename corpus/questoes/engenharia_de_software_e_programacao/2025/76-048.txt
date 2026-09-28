@@ -1,0 +1,18 @@
+ID: 76-048
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um sistema de folha de pagamento da Assembleia, o Analista de Sistemas está modelando a hierarquia de funcionários. A classe base Pessoa contém atributos comuns como nome e cpf. A classe Funcionario herda de Pessoa e possui o método calcularRemuneracaoMensal(). No entanto, a forma de cálculo varia radicalmente entre subtipos como Efetivo e Comissionado, e a classe Funcionario por si só nunca deve ser instanciada, servindo apenas como um contrato para as classes filhas. O conceito de Orientação a Objetos aplicado à classe Funcionario para impedir sua instanciação direta, ao mesmo tempo em que impõe a obrigatoriedade de implementação do método calcularRemuneracaoMensal() nas suas subclasses é o(a)
+
+[ALTERNATIVAS]
+(A) Encapsulamento, por meio de um construtor privado.
+(B) Polimorfismo, por meio de sobrecarga do método.
+(C) Herança Múltipla, por meio de interfaces.
+(D) Abstração, por meio da definição como Classe Abstrata e método Abstrato.
+(E) Coesão, garantindo a especialização dos métodos.
+
+[GABARITO]
+D

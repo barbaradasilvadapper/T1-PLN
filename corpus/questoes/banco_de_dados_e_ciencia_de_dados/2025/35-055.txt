@@ -1,0 +1,18 @@
+ID: 35-055
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Nos SGBDs, o isolamento das transações garante que as alterações de uma transação T1 não afetem outras transações Tn até que a T1 seja concluída. Considerando que o PostgreSQL 17 define quatro níveis distintos de isolamento de transações e que cada nível possui um grau de rigor próprio. O nível de isolamento mais rigoroso é o
+
+[ALTERNATIVAS]
+(A) write uncommitted.
+(B) write committed.
+(C) read committed.
+(D) repeatable read.
+(E) serializable.
+
+[GABARITO]
+E

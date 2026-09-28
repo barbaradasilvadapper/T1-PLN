@@ -1,0 +1,18 @@
+ID: 45-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Durante sua análise da estrutura do segmento TCP, Luiza, analista do TRF, identificou que o destinatário deve passar os dados para a camada superior imediatamente. Diante disso, conclui-se que o bit marcado é o:
+
+[ALTERNATIVAS]
+(A) PSH;
+(B) SYN;
+(C) RST;
+(D) FIN;
+(E) URG.
+
+[GABARITO]
+A

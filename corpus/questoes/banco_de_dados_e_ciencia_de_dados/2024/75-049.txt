@@ -1,0 +1,18 @@
+ID: 75-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação aos sistemas de bancos de dados NoSQL, avalie as afirmativas a seguir. I. Estão sujeitos a uma arquitetura de armazenamento de dados massivamente distribuída. Os dados são armazenados em estruturas tabulares diferenciadas, dependendo do tipo de banco de dados. II. Os sistemas podem ser do tipo chave-valor, orientados a documentos, relacionais ou baseados em grafos e para garantir alta disponibilidade e protegerem- contra falhas os bancos de dados NoSQL adotam diferentes conceitos de replicação de dados. III. Nas redes de computadores massivamente distribuídas, conceitos de consistência diferenciados também são suportados pelos sistemas de bancos de dados NoSQL. Por exemplo, consistência forte significa que o sistema garante consistência de dados em todos os momentos. Consistência fraca significa que mudanças ocorridas em nós replicados são toleradas com atraso e podem levar a inconsistências de curto prazo. Está correto apenas o que se afirma em
+
+[ALTERNATIVAS]
+(A) I e II.
+(B) I e III.
+(C) II e III.
+(D) III.
+(E) II.
+
+[GABARITO]
+D

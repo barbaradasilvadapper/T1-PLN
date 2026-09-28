@@ -1,0 +1,18 @@
+ID: 79-061
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Pedro foi incumbido de analisar o mau funcionamento do compilador de software CMP+, utilizado no MPU. O CMP+ está apresentando erros na fase da compilação na qual é gerada a árvore de derivação, que guarda uma representação hierárquica do código-fonte. Sabendo disso, Pedro deve concentrar sua análise do CMP+ na fase de:
+
+[ALTERNATIVAS]
+(A) análise léxica;
+(B) análise sintática;
+(C) análise semântica;
+(D) geração de código objeto;
+(E) geração de código de máquina.
+
+[GABARITO]
+B

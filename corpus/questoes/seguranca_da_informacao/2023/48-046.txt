@@ -1,0 +1,18 @@
+ID: 48-046
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Lara trabalha no Departamento de Segurança da Informação do Tribunal de Contas do Estado de São Paulo (TCE SP). Durante sua verificação de rotina, identificou que os pacotes que trafegavam pela rede tinham problemas quanto a sua integridade. A integridade é a certeza de que os dados recebidos estão exatamente conforme enviados por uma entidade autorizada. Lara especializou sua busca e identificou que não havia integridade de campos selecionados dentro de um único bloco de dados sem conexão. Lara repassou ao seu chefe que a transmissão estava com problemas de integridade:
+
+[ALTERNATIVAS]
+(A) da conexão com recuperação;
+(B) da conexão sem recuperação;
+(C) da conexão com campo seletivo;
+(D) sem conexão com campo seletivo;
+(E) sem conexão.
+
+[GABARITO]
+D

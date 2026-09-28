@@ -1,0 +1,18 @@
+ID: 32-073
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Segundo a NBR ISO 27003, da ABNT, e considerando a implantação de um Sistema de Gestão de Segurança da Informação (SGSI), a documentação a ser gerada durante a fase de condução de análise dos requisitos de segurança da informação é
+
+[ALTERNATIVAS]
+(A) a aprovação da direção para iniciar o SGSI.
+(B) a política de segurança da informação.
+(C) o plano final de ação para a implantação do SGSI.
+(D) a identificação dos ativos.
+(E) o plano de tratamento de risco.
+
+[GABARITO]
+D

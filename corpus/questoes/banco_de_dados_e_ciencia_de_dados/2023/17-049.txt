@@ -1,0 +1,18 @@
+ID: 17-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A primeira forma normal, utilizada no processo de normalização de um banco de dados relacional, estabelece que:
+
+[ALTERNATIVAS]
+(A) não haja linhas duplicadas numa tabela;
+(B) não haja colunas idênticas numa tabela;
+(C) em nenhuma das linhas de uma tabela haja valores múltiplos armazenados na mesma coluna;
+(D) em qualquer tabela deve haver uma coluna que possa ser declarada como chave primária;
+(E) não haja transitividade de dependências funcionais entre as colunas.
+
+[GABARITO]
+C

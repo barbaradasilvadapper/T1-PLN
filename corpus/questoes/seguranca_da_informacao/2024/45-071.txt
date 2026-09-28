@@ -1,0 +1,18 @@
+ID: 45-071
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Conselho Nacional de Justiça (CNJ) instituiu a política pública para a governança e gestão de processo judicial eletrônico, integrando todos os tribunais do país com a criação da plataforma digital do Poder Judiciário brasileiro (PDPJ-Br). Caso uma solução tecnológica integrada à PDPJ-Br adote decisão automatizada, o titular do dado pessoal terá direito a:
+
+[ALTERNATIVAS]
+(A) requerer a anonimização de seus dados tratados por decisões automatizadas;
+(B) revogar seu consentimento e requerer a eliminação de seus dados pessoais;
+(C) requerer a portabilidade de seus dados para outra solução que não adote decisões automatizadas;
+(D) requerer informações claras e adequadas a respeito dos critérios e dos procedimentos utilizados para a decisão automatizada;
+(E) peticionar em relação a seus dados pessoais tratados de forma automatizada junto ao encarregado pelo tratamento de dados pessoais visando a bloquear a operação de tratamento.
+
+[GABARITO]
+D

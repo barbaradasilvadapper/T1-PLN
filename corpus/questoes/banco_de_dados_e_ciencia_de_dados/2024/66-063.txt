@@ -1,0 +1,18 @@
+ID: 66-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A implementação de sistemas OLAP (On Line Analytical Processing) pode utilizar alguma opção tecnológica tal como ROLAP, MOLAP, entre outras. Assinale a opção que descreve corretamente uma característica do ROLAP (Relational OLAP).
+
+[ALTERNATIVAS]
+(A) armazena os dados em arquivos de texto simples, com manipulação ágil e eficiente dos dados.
+(B) armazena os dados em cubos multidimensionais précalculados para consultas rápidas.
+(C) armazena os dados em um banco de dados relacional, aproveitando o poder das consultas SQL para análises.
+(D) otimiza consultas em tempo real, armazenando os dados em cubos multidimensionais pré-calculados.
+(E) requer a criação de uma estrutura de dados hierárquica multinível para armazenar os dados.
+
+[GABARITO]
+C

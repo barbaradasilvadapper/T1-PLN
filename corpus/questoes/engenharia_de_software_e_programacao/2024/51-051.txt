@@ -1,0 +1,18 @@
+ID: 51-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A linguagem de programação Python é uma linguagem de alto nível, de tipagem dinâmica e interpretada, conhecida pela sua simplicidade, legibilidade e versatilidade. Criada por Guido van Rossum e lançada pela primeira vez em 1991, Python tem se tornado uma das linguagens mais populares do mundo, devido à sua capacidade de ser usada em diversos tipos de projetos, como desenvolvimento web, automação, análise de dados, inteligência artificial, aprendizado de máquina, automação de tarefas, entre outros. Em Python, o operador //
+
+[ALTERNATIVAS]
+(A) realiza a divisão entre dois números e retorna o resultado com a maior precisão possível.
+(B) realiza a divisão entre dois números e sempre retorna um número com ponto decimal, mesmo que o resultado seja inteiro.
+(C) eleva o primeiro número ao segundo número, funcionando como um operador de potência.
+(D) realiza a divisão inteira entre dois números, retornando apenas a parte inteira do resultado e descartando o resto.
+(E) realiza a divisão entre dois números e retorna o resto da divisão, semelhante ao operador %.
+
+[GABARITO]
+D

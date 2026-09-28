@@ -1,0 +1,18 @@
+ID: 73-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Márcia recebeu a demanda de desenvolver um projeto de rede sem fio para um ambiente interno com uma área de 20 metros quadrados. Considerando as características dos padrões IEEE 802.11, é correto afirmar que Márcia projetou a rede utilizando o padrão:
+
+[ALTERNATIVAS]
+(A) 802.11b alcançando 200Mbits/s;
+(B) 802.11g alcançando 108Mbits/s;
+(C) 802.11n alcançando 200Mbits/s;
+(D) 802.11b alcançando 54Mbits/s;
+(E) 802.11g alcançando 108Mbits/s.
+
+[GABARITO]
+C

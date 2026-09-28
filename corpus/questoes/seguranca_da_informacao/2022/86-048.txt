@@ -1,0 +1,18 @@
+ID: 86-048
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A administração de dados deve observar princípios básicos que são largamente adotados pela comunidade segurança da informação. Além da Confidencialidade, Integridade, Disponibilidade e Autenticidade, o princípio da Irretratabilidade completa a lista. Assinale o significado do princípio da Irretratabilidade.
+
+[ALTERNATIVAS]
+(A) Garantia de que os usuários que originam as informações são conhecidos e autorizados, de modo que não possam se passar por terceiros.
+(B) Impossibilidade de negação de que uma pessoa tenha sido autora de uma determinada informação.
+(C) Obrigatoriedade dos agentes pelo zelo com todas as informações coletadas.
+(D) Preservação fidedigna das informações.
+(E) Restrição de acesso às informações apenas aos autorizados.
+
+[GABARITO]
+B

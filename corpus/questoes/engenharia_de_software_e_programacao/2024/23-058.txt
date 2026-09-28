@@ -1,0 +1,17 @@
+ID: 23-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Representational State Transfer, mais conhecido como REST, é um estilo de arquitetura de software baseado em comunicação via rede. Ele foi apresentado pela primeira vez por Roy Fielding em sua tese de doutorado em 2000 e é amplamente utilizado na construção de APIs web. Sobre esse estilo de arquitetura, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) É uma linguagem de marcação que define regras para codificar documentos de forma legível tanto para humanos quanto para máquinas.
+(B) Utiliza os métodos HTTP (GET, POST, PUT, DELETE) para acessar e manipular recursos identificados por URLs.
+(C) Fornece um registro central onde empresas podem listar informações sobre seus serviços web, como descrições, localização e métodos de acesso.
+(D) É usado para estruturar, armazenar e transportar informações de forma independente de plataformas.
+
+[GABARITO]
+B

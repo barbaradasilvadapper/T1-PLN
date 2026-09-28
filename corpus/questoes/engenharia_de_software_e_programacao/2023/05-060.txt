@@ -1,0 +1,18 @@
+ID: 05-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+André está desenvolvendo um sistema com uso de EJBs, os objetos distribuídos da plataforma Java, e resolveu estudar a arquitetura adotada na plataforma JEE. Sua análise levou à conclusão de que a implementação do pool de Session Beans segue o padrão:
+
+[ALTERNATIVAS]
+(A) Proxy;
+(B) Adapter;
+(C) Flyweight;
+(D) Abstract Factory;
+(E) Chain of Responsibility.
+
+[GABARITO]
+C

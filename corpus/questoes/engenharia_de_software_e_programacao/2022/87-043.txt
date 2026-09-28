@@ -1,0 +1,18 @@
+ID: 87-043
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No âmbito da linguagem C#, analise o trecho de código a seguir. class Pessoa { private string nome; public string Nome { get { return nome; } set { nome = value; } } } A sintaxe C# permite que a sexta e a sétima linhas sejam resumidas pelo trecho:
+
+[ALTERNATIVAS]
+(A) { get; set; }
+(B) { get(); set(value); }
+(C) { get <- nome; set -> nome; }
+(D) get { -> nome } set { nome <= args[] }
+(E) get { return this.nome; } set { let this.nome = args[]; }
+
+[GABARITO]
+A

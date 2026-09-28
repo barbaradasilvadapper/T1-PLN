@@ -1,0 +1,18 @@
+ID: 85-069
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O analista Cléber instalou a rede sem fio MinhaWifi no prédio do TCE/TO. A MinhaWifi é uma rede aberta que não possui senha e aceita conexões de qualquer host. Cléber utilizou a MinhaWifi por alguns dias para navegar na Internet. Porém, nesse mesmo período, um atacante ingressou na MinhaWifi e passou a monitorar os dados de Cléber trafegados em claro, roubando informações confidenciais. Portanto, Cléber foi vítima de um ataque passivo do tipo:
+
+[ALTERNATIVAS]
+(A) SYN flood;
+(B) ping flood;
+(C) spoofing;
+(D) phishing;
+(E) eavesdropping.
+
+[GABARITO]
+E

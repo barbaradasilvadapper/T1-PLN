@@ -1,0 +1,18 @@
+ID: 22-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os modelos de dados desempenham um papel fundamental no processo de ETL (Extração, Transformação e Carga), pois são responsáveis por estruturar e organizar as informações de maneira eficiente e consistente. Eles garantem que os dados extraídos de diferentes fontes sejam integrados corretamente, facilitando a transformação e preparação para a análise posterior. No contexto de modelos de dados em ETL, existe o conceito de tabela de fatos sem fato (factless fact), que se caracteriza por
+
+[ALTERNATIVAS]
+(A) anotar falhas em transações intermediárias.
+(B) apresentar ausência de medidas.
+(C) registrar somente medidas que anulam os registros originais de dados.
+(D) representar um intervalo de tempo regularmente repetido.
+(E) revelar medições instantâneas em um ponto específico no tempo e espaço.
+
+[GABARITO]
+B

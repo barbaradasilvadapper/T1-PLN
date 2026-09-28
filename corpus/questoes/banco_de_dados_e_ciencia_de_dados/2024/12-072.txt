@@ -1,0 +1,18 @@
+ID: 12-072
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Para auditores de controle externo na especialidade de analista de sistemas, o conhecimento de Business Intelligence e Data Warehouses é essencial. Essas tecnologias suportam várias funcionalidades, desde a análise de dados até a segurança da informação, incluindo o planejamento, orientação, supervisão e desenvolvimento de sistemas de computação aplicáveis às atividades do Tribunal. Nesse contexto, analise as seguintes afirmações sobre o emprego da Engenharia de Dados no contexto de Business Intelligence e Data Warehouses. I. O uso de Business Intelligence permite a coleta e análise de grandes volumes de dados de diversas fontes, sendo essencial para auditores identificarem tendências, padrões e anomalias que possam indicar fraudes ou ineficiências. II. As atividades dos sistemas de computação aplicados aos tribunais podem se beneficiar do uso de Data Warehouses. Além de realizar operações de consulta e exclusão, essas tecnologias permitem a modificação de dados, possibilitando a correção de possíveis inconsistências em informações previamente inseridas no sistema. III. Em relação à orientação e coordenação das atividades, as ferramentas de Business Intelligence permitem a criação de dashboards e relatórios que facilitam a comunicação de resultados e insights, enquanto os Data Warehouses centralizam os dados, garantindo que todos os membros da equipe tenham acesso às mesmas informações atualizadas.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

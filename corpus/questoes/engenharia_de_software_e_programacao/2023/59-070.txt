@@ -1,0 +1,18 @@
+ID: 59-070
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação ao sistema de telefonia fixa comutada (STFC) no Brasil, analise as afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s). ( ) O Brasil possui nove regiões numéricas que são identificadas pelo primeiro algarismo do código de área ou DDD. ( ) O numeral associado a cada assinante do STFC possui 8 algarismos que podem assumir algarismos de 0 a 9. ( ) A sinalização Dual-Tone Multi-Frequency (DTMF) pode ser utilizada pelo assinante do STFC para o estabelecimento de uma chamada.
+
+[ALTERNATIVAS]
+(A) F, F e F;
+(B) F, V e V;
+(C) V, V e F;
+(D) V, F e V;
+(E) V, V e V.
+
+[GABARITO]
+D

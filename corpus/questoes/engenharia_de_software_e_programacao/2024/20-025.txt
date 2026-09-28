@@ -1,0 +1,18 @@
+ID: 20-025
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o seguinte trecho de um código Python: a = (1, 2, 3, 4, 5) print(type(a)) O resultado da execução do código apresentado é:
+
+[ALTERNATIVAS]
+(A) <class 'numpy.ndarray'>
+(B) <class 'tuple'>
+(C) <class 'list'>
+(D) <class 'set'>
+(E) <class 'range'>
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 30-033
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Suponha que o Tribunal de Justiça esteja analisando implementar o protocolo de roteamento OSPF (Open Shortest Path First) em sua rede corporativa. Sobre o OSPF, é correto afirmar que se trata de um protocolo de roteamento:
+
+[ALTERNATIVAS]
+(A) de vetor de distância que utiliza o algoritmo Dijkstra para calcular as rotas mais curtas em uma rede;
+(B) que não pode ser implementado em uma rede corporativa, sendo incapaz de lidar com ambientes complexos de rede;
+(C) que utiliza o algoritmo Bellman-Ford para determinar as rotas mais curtas e troca informações de roteamento de forma dinâmica e frequente;
+(D) que calcula rotas com base na contagem de saltos e atualizações periódicas;
+(E) baseado em estado de enlace que utiliza informações detalhadas sobre a topologia da rede para calcular rotas.
+
+[GABARITO]
+E

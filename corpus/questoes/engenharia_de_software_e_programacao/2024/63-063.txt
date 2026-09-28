@@ -1,0 +1,18 @@
+ID: 63-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No desenvolvimento centrado no usuário, tanto o conceito de MVP (Minimum Viable Product) quanto o de protótipo são essenciais. Acerca desse assunto, analise as afirmativas a seguir. I. O protótipo permite testar ideias de produto no mercado real, reduzindo riscos financeiros ao evitar investimentos pesados antes de comprovar o interesse dos usuários. II. O MVP deve apresentar o maior número possível de funcionalidades, de modo a avaliar corretamente o seu valor para o usuário. III. Na engenharia de requisitos, os protótipos são empregados nas etapas de especificação, enquanto o MVP é empregado na validação.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+C

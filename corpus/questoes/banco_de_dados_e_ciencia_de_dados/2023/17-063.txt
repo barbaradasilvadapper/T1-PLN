@@ -1,0 +1,18 @@
+ID: 17-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe a seguinte arquitetura básica de uma solução de Business Intelligence implementada na empresa CleverBI. Stage Area Análises Multidimensionais Busca de Padrões Banco de Dados Multidimensionais Fontes de Dados ETL O elemento arquitetural da solução de BI da CleverBI implementado por meio de operações OLAP, como slice, rotate, drill-down e drill-up, é o:
+
+[ALTERNATIVAS]
+(A) ETL;
+(B) Stage Area;
+(C) Banco de Dados Multidimensionais;
+(D) Análises Multidimensionais;
+(E) Busca de Padrões.
+
+[GABARITO]
+D

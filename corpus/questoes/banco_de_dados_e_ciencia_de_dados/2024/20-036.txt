@@ -1,0 +1,18 @@
+ID: 20-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe o script de criação e concessão de privilégios em Oracle: ----conexão no banco de dados xpto CONNECT adm@xpto ----criação de usuário no banco de dados xpto CREATE USER user1 IDENTIFIED BY senha1 DEFAULT TABLESPACE "usr_dados" TEMPORARY TABLESPACE "temp" ACCOUNT UNLOCK; GRANT CONNECT TO user1; GRANT SELECT ANY TABLE TO user1; GRANT DELETE, UPDATE, INSERT ON apl.tab1 TO user1; GRANT DELETE, UPDATE, INSERT ON apl.tab2 TO user1; REVOKE SELECT ON apl.tab2 FROM user1; Após a execução do script apresentado, é correto afirmar que "user1" tem permissão de executar qualquer Data Manipulation Language (DML):
+
+[ALTERNATIVAS]
+(A) na tabela "temp";
+(B) na tabela "apl.tab1";
+(C) na tabela "apl.tab2";
+(D) na tabela "usr_dados";
+(E) em todas as tabelas de "xpto".
+
+[GABARITO]
+B

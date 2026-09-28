@@ -1,0 +1,18 @@
+ID: 52-068
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma empresa pretende desenvolver uma aplicação de comércio eletrônico com uma interface web amigável utilizando JavaScript (frontend) e um backend desenvolvido em Java (backend). Na fase de especificação, foram definidos requisitos funcionais e não funcionais para assegurar que o sistema seja confiável e de fácil utilização entre os usuários. Entre eles: I. Permitir que o cliente se cadastre e faça o login no sistema por meio do navegador web. II. Garantir que a interface web responda a qualquer interação do usuário em, no máximo, 2 segundos. III. Assegurar que a aplicação suporte pelo menos 500 usuários simultâneos sem degradação de desempenho. É (São) requisitos funcionais:
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

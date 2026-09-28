@@ -1,0 +1,18 @@
+ID: 30-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Tribunal de Justiça do Mato Grosso do Sul (TJMS) está trabalhando para obter um novo certificado digital emitido pela ICP-Brasil, em virtude da expiração do certificado antigo. Por essa razão, entrou em contato com a autoridade de registro para encaminhar os documentos necessários. O Tribunal foi informado, no entanto, de que havia problema em alguma funcionalidade da Autoridade Certificadora (AC), pois:
+
+[ALTERNATIVAS]
+(A) durante a verificação da chave privada do titular do certificado, identificou-se que ela não correspondia à chave pública que fazia parte do certificado;
+(B) houve um problema na validação e no encaminhamento da solicitação para a emissão de certificados digitais;
+(C) havia atividades discrepantes nas políticas do certificado da Autoridade Certificadora vinculada;
+(D) houve um problema com relação ao fornecimento do carimbo de tempo do Certificado Digital;
+(E) ainda não havia sido publicada a lista de certificados revogados corretamente, não estando em conformidade com as normas técnicas do Comitê Gestor da ICP-Brasil.
+
+[GABARITO]
+A

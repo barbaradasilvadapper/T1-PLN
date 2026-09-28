@@ -1,0 +1,18 @@
+ID: 09-039
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+As sanções administrativas estão positivadas na Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), em capítulo intitulado de fiscalização. Com relação ao quadro legal sancionatório mencionado, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) é possível a aplicação de sanções sem a formalização de processo administrativo correspondente, em caso no qual se constate que o agente de tratamento de dados é violador contumaz da citada lei.
+(B) a lei contempla expressamente diversos parâmetros e critérios a serem considerados na aplicação da sanção, como, por exemplo, a gravidade da infração, a boa fé e o fato de o infrator ter nacionalidade estrangeira.
+(C) eventual aplicação da sanção de multa simples a órgão público deverá considerar a arrecadação tributária do ente federativo a que pertença e o orçamento afetado para o desenvolvimento de suas atividades.
+(D) o produto da arrecadação das multas aplicadas pela Autoridade Nacional de Proteção de Dados, inscritas ou não em dívida ativa, será destinado diretamente às pessoas naturais cujo direito à proteção de dados foi violado.
+(E) em caso de vazamento individual, a lei contempla a possibilidade de conciliação direta entre controlador e titular, estando aquele, na hipótese de inexistência de acordo, sujeito à aplicação das penalidades previstas no capítulo mencionado.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 81-047
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação às tecnologias Rational Unified Process (RUP) e Unified Modeling Language (UML 2.5), assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) RUP é um framework de engenharia de software (metodologia) e a UML é uma linguagem expressa como notação gráfica padronizada para modelagem. ( ) RUP busca assegurar a produção de software com qualidade mínima pactuada, satisfazendo as necessidades de seus usuários finais dentro do prazo e orçamento previsíveis; enquanto UML exige a realização de pelo menos um produto formal de trabalho. ( ) Um dos diagramas UML padrão mais úteis se refere ao diagrama de atividade, que representa modelagens ou mapeamentos do processo de negócio que buscam exibir o fluxo de uma atividade para outro sistema.
+
+[ALTERNATIVAS]
+(A) F – F – V.
+(B) V – F – V.
+(C) F – V – V.
+(D) V – V – F.
+(E) V – V – V.
+
+[GABARITO]
+B

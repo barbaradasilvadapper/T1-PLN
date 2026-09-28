@@ -1,0 +1,18 @@
+ID: 74-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Power BI é uma ferramenta de análise de dados e visualização desenvolvida pela Microsoft. Ela permite que empresas e usuários individuais criem relatórios interativos e dashboards dinâmicos para análise e visualização de dados. No Power BI, a opção mais adequada para criar uma medida que calcula a soma de vendas acumulada ao longo do tempo, respeitando o contexto de filtro aplicado na visualização é
+
+[ALTERNATIVAS]
+(A) usar a função SUM( )
+(B) criar uma coluna calculada com CALCULATE( )
+(C) aplicar a função SUMX( ) em uma tabela filtrada.
+(D) utilizar a função TOTALYTD( )
+(E) criar um gráfico de barras e somar manualmente os valores de cada barra.
+
+[GABARITO]
+D

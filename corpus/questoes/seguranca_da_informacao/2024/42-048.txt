@@ -1,0 +1,18 @@
+ID: 42-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um administrador de rede está configurando um dos protocolos de segurança da família IPSec, sendo que este é o que realiza a troca e gerenciamento de chaves entre remetente e destinatário, auxiliando também na troca de mensagens dos outros algoritmos e protocolos. Esse protocolo do IPSec é o
+
+[ALTERNATIVAS]
+(A) ESP.
+(B) IKE.
+(C) NAT.
+(D) SPD.
+(E) SPI.
+
+[GABARITO]
+B

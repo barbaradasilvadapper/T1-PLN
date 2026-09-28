@@ -1,0 +1,18 @@
+ID: 94-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O valor binário 0010111011000101 expresso na notação hexadecimal é:
+
+[ALTERNATIVAS]
+(A) 0EC7
+(B) 1DB3
+(C) 1EC5
+(D) 2EB5
+(E) 2EC5
+
+[GABARITO]
+E

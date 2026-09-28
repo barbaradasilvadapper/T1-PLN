@@ -1,0 +1,18 @@
+ID: 37-054
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A implementação correta de redes VPN pode permitir a comunicação segura através de redes públicas inseguras. Sobre redes VPN, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) quando usadas por meio de dispositivo móvel, impedem que a operadora de telefonia determine a sua localização;
+(B) protegem as informações em trânsito pela internet e em repouso armazenadas no computador do usuário que a utiliza;
+(C) uma VPN pode ser usada para interconectar duas redes IPv6 a uma rede IPv4;
+(D) VPNs site-to-site são conexões diretas estabelecidas por redes físicas próprias por meio de cabos de fibra ótica;
+(E) são similares a antivírus, pois examinam, detectam e protegem computadores contra softwares maliciosos.
+
+[GABARITO]
+C

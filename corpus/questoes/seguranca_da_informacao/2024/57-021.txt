@@ -1,0 +1,18 @@
+ID: 57-021
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em uma organização, para garantir a autenticidade do emissor e a integridade do e-mail enviado, foi implementado o processo de autenticação DKIM. Sobre o DKIM é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) utiliza criptografia simétrica;
+(B) a chave pública para validação da assinatura fica disponível no servidor de DNS;
+(C) a chave privada para assinatura do e-mail fica disponível no servidor de e-mail;
+(D) seu uso não altera o cabeçalho da mensagem;
+(E) criptografa o e-mail inteiro.
+
+[GABARITO]
+B

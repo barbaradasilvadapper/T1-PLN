@@ -1,0 +1,18 @@
+ID: 12-073
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando o uso de metodologias ágeis para gerenciar projetos de desenvolvimento de software de forma iterativa e incremental, avalie as afirmativas a seguir. I. Em reuniões diárias e de curta duração (Daily Scrums), os membros do time Scrum são incentivados a expor o que fizeram desde a última reunião, o que planejam fazer até a reunião seguinte e a reportar algum impedimento que esteja atrapalhando o desenvolvimento de suas atividades. II. O uso do Scrum junto ao método Kanban é uma prática muito comum nas organizações. De forma sucinta, cria-se um sistema em que as histórias de usuário são puxadas sob demanda, de acordo com a capacidade do sistema, como um todo, em identificar, desenvolver e entregar os itens de maior valor. III. A necessidade de agregar maior valor aos processos de desenvolvimento de software propiciou o surgimento de metodologias ágeis tais como o Extreme Programming (XP), com foco em feedback constante e entregas incrementais. Uma prática fundamental do XP é o desenvolvimento orientado a testes (Test Driven Development – TDD). Com testes automatizados aplicados somente ao final do processo de desenvolvimento, o TDD possibilita maior alinhamento aos requisitos e menor risco de falhas.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

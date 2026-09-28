@@ -1,0 +1,18 @@
+ID: 33-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O uso de criptografia na armazenagem ou tráfego de dados visa a garantir os pilares da segurança da informação. As ações a seguir podem ser garantidas com o uso da criptografia: I. proteção das informações armazenadas ou transmitidas; II. comprovação da ocorrência ou não ocorrência de um evento ou ação; III. verificação da correção da informação; IV. validação de usuários nos sistemas. Assinale a alternativa que identifica, respectivamente, os pilares da segurança da informação associados a cada uma das ações acima:
+
+[ALTERNATIVAS]
+(A) confidencialidade, não repúdio, integridade e autenticação;
+(B) não repúdio, confidencialidade, autenticidade e integridade;
+(C) integridade, autenticidade, autenticação e disponibilidade;
+(D) autenticidade, integridade, disponibilidade e não repúdio;
+(E) disponibilidade, integridade, autenticidade e confidencialidade.
+
+[GABARITO]
+A

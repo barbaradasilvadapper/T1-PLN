@@ -1,0 +1,18 @@
+ID: 87-065
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Analise os comandos SQL abaixo, supondo que T é uma tabela que contém as colunas A, B e C. I. select A, B from T order by C II. select A, B, C from T order by 2 III. select A, B from T order by max(C) IV. select A, B, C from T order by B+C São aceitos no SQL Server, no MySQL e no Oracle somente os comandos:
+
+[ALTERNATIVAS]
+(A) I e II;
+(B) I, II e III;
+(C) I, II e IV;
+(D) I, III, IV;
+(E) II, III e IV.
+
+[GABARITO]
+C

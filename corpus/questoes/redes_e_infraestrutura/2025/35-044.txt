@@ -1,0 +1,18 @@
+ID: 35-044
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os endereços IPv4 e o IPv6 não são diretamente compatíveis. Com relação as técnicas de transição de endereçamento utilizadas pelos protocolos que usam tais endereços, analise os itens a seguir I. A técnica da pilha dupla consiste na convivência do IPv4 e do IPv6 de forma nativa e simultânea nos mesmos equipamentos. Essa técnica é a padrão escolhida para a transição para IPv6 na Internet e deve ser usada sempre que possível. II. A técnica de tunelamento permite que diferentes redes IPv4 comuniquem-se através de uma rede IPv6, ou vice-versa. III. A técnica da tradução permite que equipamentos usando IPv6 comuniquem-se com outros que usam IPv4, por meio da conversão dos pacotes. IV. A técnica da substituição permite que equipamentos antigos usando IPv4 comuniquem-se com outros que usam IPv6, por meio da adição de novas interfaces de rede.
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) II e III, apenas.
+(C) III e IV, apenas.
+(D) I, II e III, apenas.
+(E) I, II e IV, apenas.
+
+[GABARITO]
+D

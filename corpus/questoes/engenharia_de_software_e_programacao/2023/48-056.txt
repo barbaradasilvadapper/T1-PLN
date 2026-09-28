@@ -1,0 +1,18 @@
+ID: 48-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O gerenciamento de configurações de um produto de software lida com um grande volume de informações e inclui atividades de:
+
+[ALTERNATIVAS]
+(A) versionamento de baselines para controle de Branching e Merging;
+(B) gerenciamento de versões das áreas de trabalho privadas de cada desenvolvedor;
+(C) controle de releases para gestão dos itens de configuração agrupados em uma Branching;
+(D) gerenciamento de mudanças para manter o acompanhamento das solicitações dos clientes e desenvolvedores por mudanças no software, definir custos e impactos de tais mudanças;
+(E) registro de Tags para manter o acompanhamento do sistema e assegurar que as mudanças nos componentes, realizadas por diferentes desenvolvedores, não interfiram umas nas outras.
+
+[GABARITO]
+D

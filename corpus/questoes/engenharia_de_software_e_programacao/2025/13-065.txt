@@ -1,0 +1,18 @@
+ID: 13-065
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Ministerio_WEB é uma aplicação Web desenvolvida em multicamadas que utiliza o padrão arquitetural REST, cujo backend tem por base uma Application Programming Interface (API) e cujo frontend foi desenvolvido em React.JS. Foi padronizado que todas as funcionalidades para pesquisa de dados devem entregar os resultados aos usuários por meio de componente estruturado em tabela. É relevante para os usuários que cada apresentação de tabela respeite o limite de 15 registros por tela. O backend, por sua vez, fornece serviços de entrega de conjuntos de dados que resultam de pesquisas com a opção de parametrização da quantidade de registros a serem disponibilizados ao utilizador do endpoint. Considerando que Ministerio_WEB precisa ser medido funcional e não funcionalmente, optou-se pelo uso do SNAP (Software Non-Functional Assessment Process) para dimensionamento não funcional. Pela perspectiva da medição não funcional utilizando o SNAP, as funcionalidades para pesquisa de dados utilizadas no Ministerio_WEB estão aderentes, respectivamente, à categoria:
+
+[ALTERNATIVAS]
+(A) Projeto de Interface, subcategoria Múltiplos Métodos de Saída;
+(B) Operações Lógicas e Matemáticas, subcategoria Formatação de Dados;
+(C) Operações de Dados, subcategoria Movimentações de Dados Internos;
+(D) Ambiente Técnico, subcategoria Software Baseado em Componentes;
+(E) Tecnologia de Banco de Dados, subcategoria Entregar Valor Agregado aos Usuários por Configuração de Dados.
+
+[GABARITO]
+C

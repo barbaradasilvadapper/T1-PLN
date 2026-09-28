@@ -1,0 +1,18 @@
+ID: 78-065
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O design responsivo é uma abordagem essencial no desenvolvimento web moderno, garantindo que páginas sejam exibidas de forma adequada em dispositivos com diferentes tamanhos de tela, desde smartphones até desktops. Qual a técnica central utilizada para garantir que uma página web seja exibida adequadamente em dispositivos de diferentes tamanhos de tela?
+
+[ALTERNATIVAS]
+(A) Definição de tamanhos fixos para elementos.
+(B) Implementação de scripts server-side.
+(C) Uso de tabelas para layout.
+(D) Aplicação de CSS responsivo.
+(E) Utilização de imagens fixas.
+
+[GABARITO]
+D

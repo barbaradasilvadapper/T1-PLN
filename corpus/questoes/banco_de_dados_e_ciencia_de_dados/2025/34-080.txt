@@ -1,0 +1,18 @@
+ID: 34-080
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um ambiente MySQL tem replicação master-multi-slave com 6 réplicas. O slave de relatórios apresenta lag de 5 horas durante processamento batch. Para resolver lag de replicação sustentavelmente, a abordagem mais eficaz é
+
+[ALTERNATIVAS]
+(A) desabilitar binary logging no master para reduzir overhead.
+(B) implementar parallel replication ajustando slave_parallel_workers, otimizar queries pesadas no slave e considerar semi-sync para escritas críticas.
+(C) remover todos os índices das tabelas replicadas.
+(D) configurar replicação apenas para tabelas pequenas.
+(E) aumentar apenas innodb_buffer_pool_size.
+
+[GABARITO]
+B

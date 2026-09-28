@@ -1,0 +1,18 @@
+ID: 78-051
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Segundo a OWASP, os três elementos-chave para uma robusta proteção de dados em aplicações Web são
+
+[ALTERNATIVAS]
+(A) acessibilidade, consistência e durabilidade.
+(B) confidencialidade, integridade e disponibilidade.
+(C) autenticação dupla, integridade e segurança lógica.
+(D) consistência forte, integralidade e segurança virtual.
+(E) criptografia, validação em vários fatores e auditabilidade.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 39-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Débora é responsável por administrar os servidores web da DPE/RS. Débora atualizou a configuração dos servidores a fim de garantir que a comunicação por Hypertext Transfer Protocol Secure (HTTPS) utilize apenas a versão 1.3 do Transport Layer Security (TLS), desativando o suporte a versões anteriores. A atualização feita por Débora visa garantir uma segurança ainda maior nas comunicações por HTTPS, pois Débora sabe que o TLS 1.3 já opera no modo criptografado logo após a mensagem do handshake que determina os parâmetros criptográficos que serão usados na conexão. Sendo assim, a atualização garante que a comunicação por HTTPS entrará no modo criptografado logo após a mensagem do TLS 1.3:
+
+[ALTERNATIVAS]
+(A) ClientHello;
+(B) ServerHello;
+(C) CertificateVerify;
+(D) CertificateRequest;
+(E) EncryptedExtensions.
+
+[GABARITO]
+B

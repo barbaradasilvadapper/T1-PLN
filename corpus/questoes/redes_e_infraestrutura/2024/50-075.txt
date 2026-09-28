@@ -1,0 +1,18 @@
+ID: 50-075
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Normalmente as LANs não operam de forma isolada. Elas são conectadas entre si ou à Internet. Para interligar LANs, ou segmentos de LANs, usamos dispositivos de conexão, que podem operar em diferentes camadas da arquitetura TCP/IP. Relacione o dispositivo de conexão à respectiva camada na qual ele opera. ( ) Hub ( ) Roteador ( ) Switch ( ) Ponte 1. Física 2. Enlace 3. Rede Assinale a opção que indica a relação correta na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 3 – 2 – 2
+(B) 1 – 2 – 2 – 3
+(C) 2 – 3 – 2 – 1
+(D) 2 – 2 – 3 – 1
+(E) 2 – 3 – 2 – 3
+
+[GABARITO]
+A

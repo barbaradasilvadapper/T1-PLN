@@ -1,0 +1,18 @@
+ID: 50-087
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O algoritmo Naive Bayes é amplamente utilizado em problemas de classificação, especialmente em aplicações de processamento de linguagem natural e análise de texto. O princípio fundamental do algoritmo Naive Bayes
+
+[ALTERNATIVAS]
+(A) baseia-se na técnica de clustering para agrupar instâncias semelhantes.
+(B) calcula a média ponderada dos atributos para determinar a classe de um exemplo.
+(C) considera a independência condicional entre os atributos dos dados.
+(D) utiliza redes neurais profundas para modelar relações complexas entre os atributos.
+(E) utiliza uma abordagem de força bruta para encontrar a solução ótima de classificação.
+
+[GABARITO]
+C

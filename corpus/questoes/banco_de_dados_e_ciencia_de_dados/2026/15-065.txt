@@ -1,0 +1,18 @@
+ID: 15-065
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto corporativo, o aprendizado de máquina, como subcampo da inteligência artificial, tem sido amplamente adotado para apoiar a análise de grandes volumes de dados, automatizar processos e aprimorar a tomada de decisão estratégica. Considerando sua aplicação em áreas como previsão de demanda, detecção de padrões, personalização de serviços e otimização operacional. Considerando o processo de treinamento de um modelo de aprendizado de máquina, pode-se afirmar que
+
+[ALTERNATIVAS]
+(A) o treinamento de um modelo pode ser realizado de maneira eficaz utilizando exclusivamente dados de teste, pois esses dados já refletem a performance esperada do modelo em situações reais.
+(B) o uso de um conjunto de validação durante o treinamento é irrelevante, já que a divisão entre dados de treinamento e teste é suficiente para avaliar a performance do modelo.
+(C) a normalização dos dados não é necessária antes do treinamento, pois a maioria dos algoritmos de aprendizado de máquina é robusta a diferenças de escala entre as variáveis.
+(D) uma vez que o modelo é treinado, ele não precisa ser reavaliado ou ajustado, pois a performance inicial será sempre mantida em qualquer conjunto de dados futuro.
+(E) o processo de treinamento envolve ajustar os parâmetros do modelo para minimizar a função de perda, utilizando um conjunto de dados rotulado, onde a relação entre as características e os rótulos é conhecida.
+
+[GABARITO]
+E

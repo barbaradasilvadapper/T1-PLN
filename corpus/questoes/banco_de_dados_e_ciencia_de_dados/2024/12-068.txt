@@ -1,0 +1,18 @@
+ID: 12-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O campo da inteligência artificial generativa é dedicado ao desenvolvimento de algoritmos capazes de gerar novas instâncias de dados. Suas aplicações incluem, por exemplo, a criação de textos, imagens, áudio e vídeo. As redes generativas adversárias (Generative Adversarial Networks – GANs) são um exemplo de IA generativa que possuem arquitetura baseada em duas redes, chamadas geradora e discriminadora, que competem entre si. Um dos principais problemas das GANs ocorre quando a rede geradora produz apenas uma quantidade limitada de tipos de dados, mesmo que seus dados de treinamento sejam mais ricos e diversificados. Isso ocorre porque a rede geradora consegue “enganar” a rede discriminadora mais facilmente quando dados daqueles tipos específicos são produzidos. A esse fenômeno dá-se o nome de
+
+[ALTERNATIVAS]
+(A) Falha de Convergência (Convergence Failure).
+(B) Sobreajuste (Overfitting).
+(C) Colapso de Modo (Mode Collapse).
+(D) Filtragem Estocástica (Stochastic Filtering).
+(E) Crescimento de Padrões Frequentes (Frequent Pattern Growth).
+
+[GABARITO]
+C

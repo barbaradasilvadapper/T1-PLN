@@ -1,0 +1,18 @@
+ID: 33-072
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A estratégia nacional de tecnologia da informação e comunicação do Poder Judiciário (ENTIC-JUD) é o principal instrumento de promoção da governança ágil e da transformação digital do Poder Judiciário. De acordo com a ENTIC-JUD, cada órgão do Poder Judiciário deverá:
+
+[ALTERNATIVAS]
+(A) classificar seus sistemas de informação, identificando quais são operacionais;
+(B) elaborar e aplicar práticas de segurança da informação e proteção de dados a serem informadas para todos os órgãos do Poder Judiciário;
+(C) executar ou contatar serviços de desenvolvimento e de sustentação de sistemas de informação obedecendo aos requisitos estabelecidos na ENTIC-JUD;
+(D) elaborar o plano de gestão de continuidade de negócios e serviços, objetivando mitigar as ameaças mapeadas para atuar de forma preditiva e preventiva em relação às possíveis incertezas;
+(E) elaborar o plano de gestão de riscos de tecnologia da informação e comunicação, no qual estejam estabelecidas as estratégias e os planos de ação que garantam o funcionamento dos serviços essenciais quando da ocorrência de falhas.
+
+[GABARITO]
+C

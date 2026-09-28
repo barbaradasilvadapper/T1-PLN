@@ -1,0 +1,18 @@
+ID: 78-045
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A linguagem Python oferece como recurso a função lambda, ele é uma ferramenta poderosa que permite que os programadores criem funções anônimas, ou seja, sem necessidade de nomeá-las. Analise o código Python abaixo Ao executar o código, os valores impressos são:
+
+[ALTERNATIVAS]
+(A) A= 22.0 e B= -36.0.
+(B) A= -24.0 e B= 39.5.
+(C) A= -60.5 e B= 48.0.
+(D) A= 288.0 e B= -507.5.
+(E) A= 1728.0 e B= -2197.0.
+
+[GABARITO]
+C

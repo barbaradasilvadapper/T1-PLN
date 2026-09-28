@@ -1,0 +1,18 @@
+ID: 61-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um empreendimento de TI vai disponibilizar serviços de Nuvem do tipo IaaS. Para o empreendimento disponibilizar esse tipo de serviço em ambiente de nuvem vai ser necessário um conjunto de recursos, entre os quais destacam-se
+
+[ALTERNATIVAS]
+(A) Data centers globais físicos e Contêineres.
+(B) Dispositivos móveis configuráveis e Aplicativos de escritório.
+(C) Servidor de E-mail e Aplicativo de Calendário.
+(D) Software aplicativo geral de código aberto e Compilador.
+(E) Navegador Web e Servidor de Banco de Dados.
+
+[GABARITO]
+A

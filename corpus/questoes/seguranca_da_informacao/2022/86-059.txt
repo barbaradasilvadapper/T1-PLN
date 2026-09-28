@@ -1,0 +1,18 @@
+ID: 86-059
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um atacante utilizou um motor de buscas para detectar um website com componentes vulneráveis. Ele verificou que a aplicação dinamicamente incluía scripts externos, e assim conseguiu fazer o upload de um script malicioso hospedado em um site controlado pelo atacante. Esse comprometimento permitiu a alteração e remoção de páginas, bem como o sequestro do servidor para ser utilizado como um bot de DDoS. Por fim, dados foram afetados, com roubo de senhas e informações. A primeira vulnerabilidade explorada, que permitiu todos esses ataques, foi
+
+[ALTERNATIVAS]
+(A) xss.
+(B) remote file inclusion.
+(C) defacement.
+(D) ransomware.
+(E) xsrf.
+
+[GABARITO]
+B

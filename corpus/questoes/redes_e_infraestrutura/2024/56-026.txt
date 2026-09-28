@@ -1,0 +1,18 @@
+ID: 56-026
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Sônia precisa desenvolver um aplicativo para rastreamento de ambulâncias, em uma rede particular de saúde, tendo como base a arquitetura REST. Sabendo que o GPS de cada veículo cadastrado irá fornecer o posicionamento a cada 5 segundos, com armazenamento no servidor junto à data e hora, e que a consulta irá alimentar um mapa do Google, os métodos HTTP utilizados por Sônia para a inclusão de coordenadas e para a consulta à base serão, respectivamente:
+
+[ALTERNATIVAS]
+(A) DELETE e GET;
+(B) POST e PUT;
+(C) POST e GET;
+(D) GET e DELETE;
+(E) GET e PUT.
+
+[GABARITO]
+C

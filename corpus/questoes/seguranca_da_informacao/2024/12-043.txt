@@ -1,0 +1,18 @@
+ID: 12-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considere o cenário em que uma empresa está revisando suas políticas de segurança da informação para garantir a proteção abrangente de seus dados. A empresa deseja assegurar que suas práticas estejam alinhadas com os melhores padrões de segurança. Em relação ao tema, analise as afirmativas a seguir. I. A classificação de informações ajuda a determinar o nível de proteção necessário para diferentes tipos de dados. II. A implementação de controles de acesso e autenticação garante que apenas pessoas autorizadas possam acessar informações sensíveis. III. A segurança física é irrelevante para a proteção dos dados digitais, pois a segurança lógica é suficiente para impedir acessos não autorizados.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

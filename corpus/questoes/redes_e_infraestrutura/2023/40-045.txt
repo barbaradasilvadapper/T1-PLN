@@ -1,0 +1,18 @@
+ID: 40-045
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A comunicação óptica comumente utiliza três bandas de comprimentos de onda. Elas são centralizadas em 0,85; 1,30 e 1,55 mícron, respectivamente. As três bandas têm entre 25.000 e 30.000 GHz de largura. A banda de 0,85 mícron foi pioneira e o primeiro padrão de redes Ethernet usando fibras ópticas com taxa de transferência máxima de 10 Mbps foi o:
+
+[ALTERNATIVAS]
+(A) 10Base-FL
+(B) 100Base-FX
+(C) 10GBase-ER
+(D) 10GBase-LR
+(E) 10GBase-LX4
+
+[GABARITO]
+A

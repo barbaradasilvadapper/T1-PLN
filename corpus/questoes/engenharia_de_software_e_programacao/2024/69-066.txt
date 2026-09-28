@@ -1,0 +1,18 @@
+ID: 69-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Clean Architecture (ou arquitetura limpa), criada por Robert C. Martin, considera como objetivo
+
+[ALTERNATIVAS]
+(A) na arquitetura de software, padronizar e organizar o código desenvolvido, favorecer a sua reusabilidade, assim como a dependência de tecnologia.
+(B) fornecer aos desenvolvedores uma maneira de organizar o código de forma que generalize a lógica de negócios, mantendo-o separado do mecanismo de entrega e dependente do agente externo.
+(C) proporcionar independência de interface do usuário e independência de qualquer agente externo, com exceçãoo da dependência de banco de dados específico.
+(D) na arquitetura de software, minimizar os recursos humanos necessários para construir e manter o sistema necessário.
+(E) configurar as dependências de cada camada sempre em direção a periferia, tendo o core totalmente protegido de qualquer interferência externa ou interna.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 41-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O Ciclo da Governança de Tecnologia da Informação (TI) é composto por quatro grandes etapas. A primeira etapa de Alinhamento Estratégico e Compliance refere-se:
+
+[ALTERNATIVAS]
+(A) às responsabilidades pelas decisões relativas à TI em termos de arquitetura de TI, serviços de infraestrutura, investimentos, necessidades de aplicações etc.;
+(B) à estrutura organizacional e funcional de TI, aos processos de gestão e operação dos produtos e serviços de TI, alinhados com as necessidades estratégicas e operacionais da empresa;
+(C) à determinação, coleta e geração de indicadores de resultados dos processos, produtos e serviços de TI;
+(D) ao planejamento estratégico da tecnologia da informação, que leva em consideração as estratégias da empresa para seus vários produtos e segmentos de atuação;
+(E) a entender as estratégias do negócio e traduzi-las em planos para sistemas, aplicações, soluções, estrutura organizacional, processos e infraestrutura etc.
+
+[GABARITO]
+D

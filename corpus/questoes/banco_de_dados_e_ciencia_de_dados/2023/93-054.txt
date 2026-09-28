@@ -1,0 +1,18 @@
+ID: 93-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os tipos de collection disponibilizadas na linguagem PL/SQL são:
+
+[ALTERNATIVAS]
+(A) varchar2 e records.
+(B) procedures e functions.
+(C) cursor, packages e object types.
+(D) index-by tables, nested tables e varrays.
+(E) transactions, subprograms, nested controls, bulks.
+
+[GABARITO]
+D

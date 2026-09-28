@@ -1,0 +1,18 @@
+ID: 50-089
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A integração de dados desempenha um papel crucial na gestão da informação em organizações. No contexto dos processos de ETL (Extract, Transform, Load), cada etapa desempenha funções específicas. Assinale a opção que descreve corretamente o processo de Transformação (T) no ETL.
+
+[ALTERNATIVAS]
+(A) Etapa em que os dados são carregados em um data warehouse para armazenamento.
+(B) Fase em que os dados são extraídos de diferentes fontes de dados.
+(C) Momento em que os dados são preparados para serem apresentados aos usuários finais.
+(D) Parte do processo em que os dados são indexados espacialmente para otimizar consultas futuras.
+(E) Passo no qual os dados são limpos, filtrados, agregados ou modificados de acordo com os requisitos de negócios.
+
+[GABARITO]
+E

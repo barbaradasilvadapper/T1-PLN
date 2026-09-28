@@ -1,0 +1,18 @@
+ID: 92-046
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O modelo OSI (Open System Interconnection) é um modelo de referência que descreve como os sistemas de rede devem se comunicar entre si. Ele define sete camadas que organizam as diferentes funções de comunicação em uma rede. Sua importância reside em fornecer uma estrutura padronizada que permite a interoperabilidade entre diferentes dispositivos e protocolos, facilitando o desenvolvimento, implementação e solução de problemas em redes de computadores. Nesse contexto, roteadores, hubs e switches são equipamentos que pertencem, respectivamente, às seguintes camadas do modelo OSI:
+
+[ALTERNATIVAS]
+(A) Camada 2, Camada 1, Camada 3.
+(B) Camada 1, Camada 2, Camada 3.
+(C) Camada 2, Camada 3, Camada 1.
+(D) Camada 3, Camada 2, Camada 1.
+(E) Camada 3, Camada 1, Camada 2.
+
+[GABARITO]
+E

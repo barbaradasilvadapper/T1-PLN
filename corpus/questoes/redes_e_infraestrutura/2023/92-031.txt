@@ -1,0 +1,18 @@
+ID: 92-031
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Assinale a opção que corresponde ao valor binário resultante da conversão do endereço IP 192.168.10.50:
+
+[ALTERNATIVAS]
+(A) 11000010.10101000.00001010.00110010
+(B) 11000010.10101010.00001010.00110010
+(C) 11000000.10101000.00001010.00110011
+(D) 11000000.10101000.00001010.00110010
+(E) 11000000.10101010.00001010.00110011
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 51-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um dos estilos de arquitetura de software mais usados nos últimos anos, dadas as suas vantagens em relação aos demais existentes, é a arquitetura orientada a serviços (Service-Oriented Architecture - SOA). A arquitetura orientada a serviços (SOA)
+
+[ALTERNATIVAS]
+(A) organiza a estrutura de um sistema como um conjunto de serviços independentes que se comunicam por meio de protocolos padrão, como HTTP e SOAP.
+(B) utiliza uma abordagem na qual os serviços são acoplados de forma estreita para garantir maior controle e interdependência entre as partes do sistema.
+(C) é uma arquitetura em que todos os serviços são integrados em um sistema monolítico, garantindo alta coesão entre os módulos.
+(D) exige que todos os serviços sejam implementados na mesma linguagem de programação para garantir consistência no sistema.
+(E) utiliza a comunicação síncrona entre serviços para manter a consistência e a segurança dos dados transmitidos no sistema.
+
+[GABARITO]
+A

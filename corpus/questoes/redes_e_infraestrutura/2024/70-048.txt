@@ -1,0 +1,18 @@
+ID: 70-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em relação aos sistemas operacionais em tempo real (RTOS), analise as afirmativas a seguir. I. O isolamento e proteção de tarefas em um RTOS é realizado exclusivamente por meio do uso de containers e máquinas virtuais, garantindo a segurança e a estabilidade do sistema. II. São sistemas operacionais que garantem a execução de tarefas dentro de limites de tempo estritamente definidos, adequando-se a aplicações onde o tempo de resposta é crítico. III. A latência de interrupção em um RTOS refere-se apenas ao tempo necessário para o sistema operacional começar a tratar uma interrupção, sem considerar o tempo de execução do manipulador de interrupção.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

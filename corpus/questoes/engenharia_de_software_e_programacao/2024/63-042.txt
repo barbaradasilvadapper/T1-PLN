@@ -1,0 +1,18 @@
+ID: 63-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A metodologia de desenvolvimento ágil eXtreme Programming (XP) visa à qualidade do software e à capacidade de resposta às mudanças de requisitos do cliente. Assinale a opção que apresenta práticas típicas da metodologia XP.
+
+[ALTERNATIVAS]
+(A) Pair programming, sprint planning e continuous integration.
+(B) refactoring, continuous integration e pair programming.
+(C) user stories, burndown charts e test-driven development.
+(D) test-driven development, retrospectives e daily stand-ups.
+(E) planning poker, refactoring e backlog grooming.
+
+[GABARITO]
+B

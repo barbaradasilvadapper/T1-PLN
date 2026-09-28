@@ -1,0 +1,18 @@
+ID: 70-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+À luz do modelo de referência CMMI, uma empresa que tem seus processos caracterizados por projeto e ações frequentemente reativas encontra-se no nível de maturidade
+
+[ALTERNATIVAS]
+(A) em otimização.
+(B) quantitativamente gerenciado.
+(C) definido.
+(D) gerenciado.
+(E) inicial.
+
+[GABARITO]
+D

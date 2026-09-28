@@ -1,0 +1,18 @@
+ID: 69-071
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Expressões regulares são strings de texto especialmente codificadas, utilizadas como padrões para corresponder a conjuntos de strings. Considere as duas expressões regulares a seguir. A primeira expressão se refere a um número de telefone (padrão norte-americano, ex: 713-803-4094). A segunda expressão apresenta uma simplificação e generalização da codificação anterior, apresentando uma formulação mais concisa. Na expressão regular do CÓDIGO-02, a função do (+) “sinal de mais” representa
+
+[ALTERNATIVAS]
+(A) um shorthand de caractere e indica que aquilo que precede o sinal de (+) pode ocorrer nenhuma ou mais vezes, opcionalmente.
+(B) um lookahead positivo e indica que aquilo que precede o sinal de (+) pode ocorrer uma ou mais vezes.
+(C) um quantificador e indica que aquilo que precede o sinal de (+) pode ocorrer uma ou mais vezes.
+(D) um quantificador e indica que aquilo que precede o sinal de (+) pode ocorrer nenhuma ou mais vezes.
+(E) um quantificador e indica que o que precede o sinal de (+) pode ocorrer nenhuma ou mais vezes, opcionalmente.
+
+[GABARITO]
+C

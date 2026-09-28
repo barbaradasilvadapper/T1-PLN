@@ -1,0 +1,18 @@
+ID: 09-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe de marketing resolveu mudar as coisas nessa eleição e escolheu usar o SCRUM. Na reunião de planejamento do Sprint, o coordenador de campanha (Product Owner) apresentou uma lista de tarefas essenciais: criar conteúdo para as redes sociais, produzir vídeos e organizar eventos locais. Um dos membros da equipe sugeriu que todas as tarefas fossem incluídas no Sprint, mas, dada a complexidade, não devem caber dentro do Sprint. Assinale a opção que indica como a equipe de marketing deveria lidar com a seleção das tarefas para o Sprint.
+
+[ALTERNATIVAS]
+(A) O membro da equipe está certo em querer incluir todas as tarefas, já que campanhas eleitorais são imprevisíveis e mudanças de última hora podem acontecer.
+(B) A equipe deve priorizar as tarefas que podem ser concluídas dentro do Sprint, levando em conta a capacidade de trabalho e o tempo disponível, para garantir que os objetivos mais importantes da campanha sejam alcançados.
+(C) O coordenador de campanha (Product Owner) deve decidir sozinho quais tarefas serão incluídas no Sprint, sem consultar o restante da equipe.
+(D) A equipe deve colocar o máximo de tarefas possível no Sprint para cobrir todas as frentes da campanha, mesmo que algumas não sejam finalizadas.
+(E) O Scrum Master deve adicionar mais tarefas ao Sprint durante o processo, se perceber que a equipe está avançando rápido demais.
+
+[GABARITO]
+B

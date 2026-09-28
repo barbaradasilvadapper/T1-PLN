@@ -1,0 +1,18 @@
+ID: 90-044
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código JavaScript exibido a seguir. function xpto (n) { var text = ""; var i = 1; while (i <= n) { text += i + ';'; i++; } return text; } Num comando JS, a expressão xpto(5) retorna
+
+[ALTERNATIVAS]
+(A) 54321
+(B) 12345
+(C) 1;2;3;4;5;
+(D) 5;4;3;2;1;
+(E) 1;2;3;4;5;4;3;2;1;
+
+[GABARITO]
+C

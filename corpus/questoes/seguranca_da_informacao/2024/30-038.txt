@@ -1,0 +1,18 @@
+ID: 30-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Ana foi contratada pela empresa K para identificar pontos de vulnerabilidades na rede local. Ela identificou uma brecha de segurança que visava a comprometer os dados transmitidos a um dispositivo conectado a um switch de rede com o objetivo de estourar a tabela de endereços MAC para os dispositivos e seus segmentos de rede correspondentes. O possível ataque que usaria a brecha de segurança identificada por Ana é o:
+
+[ALTERNATIVAS]
+(A) phishing;
+(B) spoofing;
+(C) DoS;
+(D) DDoS;
+(E) flood.
+
+[GABARITO]
+E

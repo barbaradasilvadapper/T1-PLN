@@ -1,0 +1,18 @@
+ID: 78-042
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+XP é um método leve, recomendado para desenvolver software com requisitos vagos ou sujeitos a mudanças, sendo definido por meio de um conjunto de valores, princípios e práticas de desenvolvimento. Os três principais valores do XP são
+
+[ALTERNATIVAS]
+(A) comunicação, simplicidade e feedback.
+(B) humanidade, economicidade e benefícios mútuos.
+(C) criatividade, responsabilidade e qualidade de vida.
+(D) melhorias contínuas, falhas acontecem e baby steps.
+(E) design incremental, programação pareada e build automatizado.
+
+[GABARITO]
+A

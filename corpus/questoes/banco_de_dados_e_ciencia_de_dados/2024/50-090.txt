@@ -1,0 +1,18 @@
+ID: 50-090
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os modelos de aprendizado de máquina desempenham um papel fundamental na análise e interpretação de dados em uma variedade de domínios. Uma característica dos modelos de aprendizado de máquina supervisionados e não supervisionados é que modelos supervisionados
+
+[ALTERNATIVAS]
+(A) exploram a detecção de outliers, enquanto modelos não supervisionados usam dados representados em formatos como XML ou JSON para treinamento..
+(B) geralmente têm menos tendência ao overfitting do que modelos não supervisionados.
+(C) requerem dados rotulados para treinamento, enquanto modelos não supervisionados podem funcionar com dados não rotulados.
+(D) são mais adequados para tarefas de análise exploratória de dados, enquanto modelos não supervisionados são mais adequados para previsão de séries temporais.
+(E) são usados apenas para classificação, enquanto modelos não supervisionados são usados apenas para agrupamento.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 22-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No âmbito de normalização de bancos de dados relacionais, há o conceito de dependência com a seguinte especificação: “para o esquema de uma relação R, uma restrição que demanda que cada estado r de R apresente uma decomposição de junção não aditiva e não trivial para cada decomposição R i de R, em que o valor de i varie entre 1 e n, sendo n o número de decomposições de R”. Esse conceito de dependência, considerando um valor de n maior que dois (n>2), integra a definição da
+
+[ALTERNATIVAS]
+(A) 2ª forma normal (2FN).
+(B) 3ª forma normal (3FN).
+(C) 4ª forma normal (4FN).
+(D) 5ª forma normal (5FN).
+(E) forma normal Boyce-Codd (FNBC).
+
+[GABARITO]
+D

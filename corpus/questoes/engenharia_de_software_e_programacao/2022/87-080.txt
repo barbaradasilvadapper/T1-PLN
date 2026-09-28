@@ -1,0 +1,18 @@
+ID: 87-080
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista em TI Isabel está implementando o web service DocService para o MPSC. A comunicação do DocService deve se basear em especificações derivadas do protocolo SOAP (Simple Object Access Protocol) e do framework WS-Security (Web Services Security). Para que DocService possa utilizar contextos de segurança baseados em token entre múltiplas mensagens SOAP, Isabel deve observar diretamente a especificação WS (Web Services):
+
+[ALTERNATIVAS]
+(A) BrokeredNotification;
+(B) MakeConnection;
+(C) SecureConversation;
+(D) BaseNotification;
+(E) MetadataExchange.
+
+[GABARITO]
+C

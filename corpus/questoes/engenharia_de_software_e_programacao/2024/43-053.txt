@@ -1,0 +1,18 @@
+ID: 43-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Maria é gerente do projeto XYZ, que possui grande complexidade e não possui similaridades com outros projetos já executados em seu órgão. Durante o processo de determinar o orçamento do projeto , ela utilizou a técnica de estimativa bottom-up, estimando os valores de cada pacote de trabalho. Diante desse cenário, para produzir a linha de base dos custos e o orçamento do projeto, Maria deve:
+
+[ALTERNATIVAS]
+(A) somar todos os valores de cada pacote de trabalho, pois o resultado encontrado representará a linha de base dos custos e o orçamento do projeto, que são sinônimos;
+(B) estimar a reserva de contingência das atividades e somar com os valores de cada pacote de trabalho, pois o resultado encontrado representará a linha de base dos custos e o orçamento do projeto, que são sinônimos;
+(C) somar todos os valores de cada pacote de trabalho, para determinar a linha de base dos custos, e estimar a reserva de contingência das atividades, que, adicionada à linha de base dos custos, determina o orçamento do projeto;
+(D) estimar a reserva de contingência das atividades e somar com os valores de cada pacote de trabalho, pois o resultado encontrado representará a linha de base dos custos, e estimar a reserva de contingência, que, adicionada à linha de base dos custos, determina o orçamento do projeto;
+(E) estimar as reservas de contingência das atividades e de contingência e somar com os valores de cada pacote de trabalho, pois o resultado encontrado representará a linha de base dos custos, e estimar a reserva gerencial, que, adicionada à linha de base, determina o orçamento do projeto.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 39-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A DPE/RS pretende implementar um sistema interno e, para o armazenamento dos dados, tomou-se a decisão de utilizar a tecnologia RAID. Para determinar o tipo de RAID a ser utilizado, foi solicitado um parecer ao analista de tecnologia da informação Cláudio, e foi informado que na fase de testes do sistema serão utilizados dois discos rígidos de 200 GB. Considerando as vantagens e as desvantagens do uso do RAID 0 ou RAID 1, Cláudio apresentou o seguinte parecer:
+
+[ALTERNATIVAS]
+(A) RAID 0 tem como vantagem a prevenção de falhas devido à utilização de dados de paridade para checar a integridade dos dados;
+(B) RAID 0 tem como desvantagem um pior desempenho de leitura/escrita quando comparado com a utilização de apenas um disco rígido;
+(C) RAID 1 tem como vantagem o aproveitamento de todo o disco rígido, possibilitando armazenar 400 GB de dados;
+(D) RAID 1 tem como vantagem a prevenção de falhas devido à redundância das informações presentes nos discos rígidos;
+(E) RAID 1 tem como desvantagem a necessidade de a leitura ser feita nos dois discos rígidos, duplicando o tempo para aquisição dos dados.
+
+[GABARITO]
+D

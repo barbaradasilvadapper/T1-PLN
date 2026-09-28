@@ -1,0 +1,18 @@
+ID: 70-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em um cenário de segurança da informação, uma determinada vulnerabilidade permite que um atacante force um usuário final a executar ações indesejadas em uma aplicação web na qual ele está autenticado. Isso é feito por meio de solicitações HTTP forjadas vindas de um site controlado pelo atacante. Esta técnica explora a confiança que uma aplicação web tem no usuário, permitindo o ataque sem que o usuário esteja ciente de sua ação. Esta vulnerabilidade pode ser explorada em diversos contextos, incluindo hardware, software, sistemas operacionais, aplicações, bancos de dados, redes, pessoas e ambientes físicos, uma vez que depende da interação do usuário com uma aplicação web através de um navegador. Nesse contexto, a vulnerabilidade de segurança descrita é chamada
+
+[ALTERNATIVAS]
+(A) SQL Injection.
+(B) Cross-Site Scripting (XSS).
+(C) Cross-Site Request Forgery (CSRF).
+(D) Man-in-the-Middle (MitM).
+(E) Spoofing.
+
+[GABARITO]
+C

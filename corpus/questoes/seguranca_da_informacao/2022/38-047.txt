@@ -1,0 +1,18 @@
+ID: 38-047
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um órgão público que possui instalações em vários estados do Brasil instituiu a sua Equipe de Tratamento e Resposta a Incidentes (ETIR), de acordo com Norma Complementar nº 05/IN01/DSIC/GSIPR, para gerenciar e tratar seus incidentes de segurança da informação. O órgão implementou a sua estrutura da seguinte forma: estabeleceu uma ETIR central que funciona na sede do órgão em Brasília e várias ETIRs secundárias distribuídas nas outras instalações dos órgãos nos outros estados. A ETIR principal define as estratégias, gerencia os serviços ofertados, centraliza os incidentes ocorridos e é responsável pela comunicação com o CTIR Gov, enquanto as secundárias implementam as estratégias e atuam dentro do escopo de seus estados, notificando seus incidentes sempre à ETIR principal. O modelo de ETIR implementado pelo órgão é:
+
+[ALTERNATIVAS]
+(A) 1 – utilizando a equipe de tecnologia da informação;
+(B) 2 – centralizado;
+(C) 3 – descentralizado;
+(D) 4 – combinado ou misto;
+(E) 5 – distribuído.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 12-089
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte trecho de código Python que faz uma chamada a um serviço web e processa a resposta XML. import requests import xml.etree.ElementTree as ET def get_student_name(): url = "http://example.com/studentService" headers = {'Accept': 'application/xml'} response = requests.get(url, headers=headers) if response.status_code != 200: raise Exception("Failed : HTTP error code : " + str(response.status_code)) root = ET.fromstring(response.content) names = root.findall('.//nomeAluno') name = names[1].text namesResp = root.findall('.//nomeResp') nameResp = namesResp[1].text if name == "Fulano de Tal": print("Nome: " + nameResp) elif name == "Beltrano da Silva": print("Nome: " + name) else: print("Aluno não reconhecido") try: get_student_name() except Exception as e: print(e) Suponha que a resposta XML do serviço web seja a seguinte: <alunos> <aluno> <matricula>12345</matricula> <nomeAluno>Fulano de Tal</nomeAluno> <emailAluno>fulano.tal@example.com</emailAluno> <nomeResp>Ciclano de Tal</nomeResp> </aluno> <aluno> <matricula>12346</matricula> <nomeAluno>Beltrano da Silva</nomeAluno> <emailAluno>beltrano.silva@example.com</emailAluno> <nomeResp>Antonio da Silva</nomeResp> </aluno> </alunos> O valor impresso pelo programa será:
+
+[ALTERNATIVAS]
+(A) Nome: Ciclano de Tal
+(B) Nome: Fulano de Tal
+(C) Nome: Beltrano da Silva
+(D) Nome: Antonio da Silva
+(E) Aluno não reconhecido
+
+[GABARITO]
+C

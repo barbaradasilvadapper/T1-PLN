@@ -1,0 +1,18 @@
+ID: 92-040
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O RAID (Redundant Array of Independent Disks) é uma tecnologia utilizada para melhorar o desempenho, confiabilidade e capacidade de armazenamento de sistemas de armazenamento de dados. Assinale a opção que contém o número mínimo de discos necessários para implementar um arranjo RAID 5.
+
+[ALTERNATIVAS]
+(A) 1 disco
+(B) 2 discos
+(C) 3 discos
+(D) 4 discos
+(E) 5 discos
+
+[GABARITO]
+C

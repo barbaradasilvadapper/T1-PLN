@@ -1,0 +1,18 @@
+ID: 66-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere que você esteja trabalhando com bancos de dados que contêm informações sobre livros e autores utilizando o SGBD SQLServer. Analise o script a seguir. CREATE TABLE #Livros ( LivroID INT, Titulo VARCHAR(100) ); CREATE TABLE #Autores ( Nome VARCHAR(100), LivroID INT ); Avalie se os itens a seguir apresentam a escrita correta em uma consulta SQL nesse banco, que faça um JOIN entre as tabelas de livros e autores, em que cada livro é listado junto com uma lista de todos os seus autores (nomes de autores agregados em uma única String). I. SELECT L.Titulo, STRING_AGG(A.Nome, ', ') AS Autores FROM #Livros L INNER JOIN #Autores A ON L.LivroID = A.LivroID GROUP BY L.Titulo; II. SELECT L.Titulo, GROUP_CONTACT(A.Nome, ', ') AS Autores FROM Livros L JOIN Autores A ON L.LivroID = A.LivroID GROUP BY L.AutorID; III. SELECT L.Titulo, STRING_AGG(A.Nome) AS Autores FROM Livros L JOIN Autores A ON L.LivroID = A.LivroID GROUP BY L.Titulo IV. SELECT L.Titulo, STRING_AGG(A.Nome) AS Autores FROM #Livros L LEFT JOIN #Autores A ON L.LivroID = A.LivroID GROUP BY L.Titulo, A.Nome; A escrita dessa consulta SQL está correta em
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) IV, apenas.
+(C) I e III, apenas.
+(D) I e IV, apenas.
+(E) I, III e IV.
+
+[GABARITO]
+A

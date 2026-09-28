@@ -1,0 +1,18 @@
+ID: 71-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os modelos dos algoritmos de roteamento adotados pelos protocolos OSPF v2 e BGP-4 são, respectivamente,
+
+[ALTERNATIVAS]
+(A) número de hops e tamanho da rede.
+(B) caminho simples e bordas múltiplas.
+(C) estático e hierárquico.
+(D) menor distância e custo mínimo.
+(E) estado do link e vetor de distância.
+
+[GABARITO]
+E

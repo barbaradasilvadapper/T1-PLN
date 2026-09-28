@@ -1,0 +1,18 @@
+ID: 32-090
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+SSL (Secure Sockets Layer) e TLS (Transport Layer Security) são protocolos criptográficos fundamentais para a segurança na internet. A confidencialidade, a integridade e a autenticidade são base da segurança da informação. Neste sentido, correlacione os princípios da confidencialidade, da integridade e da autenticidade com os respectivos protocolos apresentados. 1. Confidencialidade 2. Integridade 3. Autenticidade ( ) SHA (Secure Hash Algorithm) ( ) PSK (Pre-Shared Key) ( ) AES (Advanced Encryption Standard) ( ) RSA (Rivest-Shamir-Adleman) A relação correta, na ordem apresentada, é
+
+[ALTERNATIVAS]
+(A) 1 – 2 – 3 – 1.
+(B) 2 – 1 – 2 – 3.
+(C) 3 – 1 – 2 – 1.
+(D) 1 – 2 – 3 – 2.
+(E) 2 – 3 – 1 – 3.
+
+[GABARITO]
+E

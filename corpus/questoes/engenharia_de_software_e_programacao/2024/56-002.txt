@@ -1,0 +1,18 @@
+ID: 56-002
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A aplicação iAPLICA contém uma função de login para validar nome e senha de usuários. O usuário digita um nome de usuário e uma senha, e então clica no botão “login”. O iAPLICA valida os dados digitados junto à base de dados e permite ao usuário acessar a aplicação ou fornece uma mensagem informando que os dados digitados estão incorretos. Há um requisito adicional de que, como parte do login, o usuário receba acesso apropriado às funcionalidades do iAPLICA com base na função que lhe foi atribuída. A função do usuário é verificada na base de dados. Considerando a Análise de Pontos de Função (APF), a função de login do iAPLICA é composta por:
+
+[ALTERNATIVAS]
+(A) uma Saída Externa;
+(B) uma Consulta Externa;
+(C) duas Consultas Externas;
+(D) uma Saída Externa e uma Entrada Externa;
+(E) uma Consulta Externa e uma Saída Externa.
+
+[GABARITO]
+A

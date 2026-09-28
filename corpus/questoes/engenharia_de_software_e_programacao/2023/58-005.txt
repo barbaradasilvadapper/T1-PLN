@@ -1,0 +1,18 @@
+ID: 58-005
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o script JavaScript a seguir. function f(f) { return (f*f); } let value1 = f; alert(value1); let value2 = f(100); alert(value2); let value3 = f; alert(value3(100)); Assinale os valores exibidos na execução do script acima, na ordem.
+
+[ALTERNATIVAS]
+(A) function f(f) { return (f*f); } 10000 10000
+(B) function f(f) { return (f*f); } 10000 undefined
+(C) undefined 10000 undefined
+(D) 10000
+(E) undefined undefined undefined
+
+[GABARITO]
+A

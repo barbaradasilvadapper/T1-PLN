@@ -1,0 +1,18 @@
+ID: 40-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A equipe de resposta e tratamento de incidentes (ETIR) de um órgão público detectou, por meio de suas ferramentas de monitoramento da rede, um aumento no número de acessos a um determinado domínio de internet. Como resultado do processo de investigação de um possível incidente de segurança, a ETIR identificou que os usuários que acessaram o determinado domínio haviam recebido e-mails com orientação para trocarem suas senhas no sistema de Single Sign-On (SSO) do órgão. O domínio acessado continha uma página de internet, com características similares à página do SSO do órgão, porém, com domínio diferente, cujo objetivo era capturar as credenciais de acesso dos usuários. A ETIR identificou que o órgão sofreu um ataque do tipo:
+
+[ALTERNATIVAS]
+(A) advanced fee fraud;
+(B) phishing;
+(C) email spoofing;
+(D) scanning;
+(E) snifing.
+
+[GABARITO]
+B

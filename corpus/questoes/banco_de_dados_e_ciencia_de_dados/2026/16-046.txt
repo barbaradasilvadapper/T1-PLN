@@ -1,0 +1,18 @@
+ID: 16-046
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A criação de visões em bancos de dados permite apresentar um extrato personalizado sobre os registros reais, simplificando consultas complexas e protegendo informações sensíveis. Assinale a opção que indica a sintaxe correta, em SQL, para criar uma visão chamada 'v_vendas' que mostre todos os registros de uma tabela denominada 'pedidos'.
+
+[ALTERNATIVAS]
+(A) WITH VIEW v_vendas AS (SELECT * FROM pedidos)
+(B) CREATE VIEW v_vendas AS SELECT * FROM pedidos
+(C) INSERT VIEW v_vendas VALUES (SELECT ALL FROM pedidos)
+(D) NEW VIEW v_vendas FROM (SELECT * FROM pedidos)
+(E) ALTER TABLE pedidos ADD VIEW v_vendas AS SELECT * FROM pedidos
+
+[GABARITO]
+B

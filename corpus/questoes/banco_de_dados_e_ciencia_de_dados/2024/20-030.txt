@@ -1,0 +1,18 @@
+ID: 20-030
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Na linguagem SQL, as constraints são usadas para especificar regras para os dados armazenados em uma tabela. A constraint que garante que a coluna não contenha valores nulos, que todos os valores da coluna sejam únicos e que a coluna identifique unicamente cada registro da tabela é o:
+
+[ALTERNATIVAS]
+(A) CHECK
+(B) UNIQUE
+(C) NOT NULL
+(D) FOREIGN KEY
+(E) PRIMARY KEY
+
+[GABARITO]
+E

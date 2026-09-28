@@ -1,0 +1,18 @@
+ID: 69-072
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O MVC (Model-View-Controller) é um padrão de arquitetura de software. Com relação ao Padrão MVC, analise os itens a seguir. I. No MVC, estão presentes três componentes: Model, que representam o negócio; View, que responde pela interface que será apresentada; e, Controller, que integra os componentes model e view, fazendo com que os models possam ser repassados para as views e vice-versa. II. A semântica do MVC envolve um model, vários componentes Controller e apenas uma única View. III. O Model encapsula o estado do aplicativo e a funcionalidade principal do negócio.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III apenas.
+
+[GABARITO]
+C

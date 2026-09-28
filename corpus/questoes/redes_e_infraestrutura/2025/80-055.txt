@@ -1,0 +1,18 @@
+ID: 80-055
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo Open Shortest Path First (OSPF), definido no RFC 2328, é um protocolo de roteamento amplamente utilizado dentro de sistemas autônomos. OSPF é um protocolo do tipo
+
+[ALTERNATIVAS]
+(A) desempenho do link.
+(B) vetor de distância.
+(C) vetor de caminho.
+(D) estado de link.
+(E) custo do link.
+
+[GABARITO]
+D

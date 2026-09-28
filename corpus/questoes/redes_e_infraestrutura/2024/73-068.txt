@@ -1,0 +1,18 @@
+ID: 73-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Dalva administra o cluster de Kubernetes do TRF1. Dalva precisa adicionar ao Kubernetes novas condições de prontidão customizadas para o Pod A. As novas condições devem ser atendidas para o Kubernetes elevar a condição do Pod A ao status Ready. Dalva deve adicionar as novas condições de prontidão ao manifesto do Pod A, especificamente no elemento:
+
+[ALTERNATIVAS]
+(A) lifecycleConfig;
+(B) readinessGates;
+(C) containerStatuses;
+(D) lifecycleConditions;
+(E) readinessConditions.
+
+[GABARITO]
+B

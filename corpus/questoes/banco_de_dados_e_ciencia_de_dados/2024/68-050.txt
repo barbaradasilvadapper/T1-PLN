@@ -1,0 +1,18 @@
+ID: 68-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de processamento de transações em sistemas de bancos de dados relacionais, definimos uma escala (ou schedule) concorrente a uma execução intercalada das operações (ou instruções) das transações envolvidas na escala. Da mesma maneira, uma execução serial é aquela na qual todas as operações de uma transação são realizadas, sem alternância com operações de outras transações. O processo se repete até que todas as transações da escala tenham sido completadas. Ainda, uma escala é dita serializável se o resultado de sua execução produz o mesmo resultado de alguma execução serial (execução na qual todas as operações de uma transação são realizadas) das transações envolvidas. Dados os conceitos anteriormente apresentados, e considerandose as propriedades ACID de transações, assinale a opção indica a propriedade ACID que guarda relação direta com o conceito de escalas concorrentes serializáveis.
+
+[ALTERNATIVAS]
+(A) Atomicidade.
+(B) Consistência.
+(C) Corretude.
+(D) Durabilidade.
+(E) Isolamento.
+
+[GABARITO]
+E

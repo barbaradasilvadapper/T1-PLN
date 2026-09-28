@@ -1,0 +1,18 @@
+ID: 41-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O software malicioso pode ser dividido em duas categorias: aqueles que precisam de um programa hospedeiro e aqueles que são independentes. Além disso, também podem diferenciar-se entre aquelas ameaças de softwares que não se replicam e aquelas que se replicam. Dentre algumas das principais categorias de softwares maliciosos, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) os rootkits são programas que instalam outros itens em uma máquina sob ataque. São códigos específicos para uma única vulnerabilidade ou conjuntos de vulnerabilidades;
+(B) os autorooters são ferramentas maliciosas de hacker usadas para invasão de novas máquinas remotamente;
+(C) um kit (gerador de vírus) é usado para atacar sistemas de computador em rede com um grande volume de tráfego para executar um ataque de negação de serviço (DoS);
+(D) os vírus são programas que propagam cópias de si mesmos a outros computadores;
+(E) os vermes são programas que contêm funcionalidades adicionais inesperadas.
+
+[GABARITO]
+B

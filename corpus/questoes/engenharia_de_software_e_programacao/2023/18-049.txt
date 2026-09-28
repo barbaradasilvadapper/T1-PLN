@@ -1,0 +1,18 @@
+ID: 18-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Java a seguir. public class Main { public static void main(String[] args) { System.out.println(x); int x = 100; } } Quando esse código é executado:
+
+[ALTERNATIVAS]
+(A) “null” é exibido;
+(B) “undefined” é exibido;
+(C) o valor 100 é exibido;
+(D) ocorre um erro de símbolo não encontrado;
+(E) ocorre um erro de variável não inicializada.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 15-044
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Assembleia Legislativa do Estado Goiás está revisando sua arquitetura de comunicação e precisa avaliar as diferenças entre internet, intranet, extranet e o portal institucional, considerando finalidades, características físicas e lógicas, além dos serviços e aplicações mais adequados para cada ambiente, a fim de orientar decisões de infraestrutura e governança digital. Assim, pode-se afirmar que
+
+[ALTERNATIVAS]
+(A) a Extranet é uma rede global que conecta computadores e dispositivos, permitindo a troca de informações e comunicação em larga escala.
+(B) a Internet é uma extensão da Extranet que permite o acesso a partes específicas dos dados para usuários externos, geralmente parceiros de negócios ou fornecedores.
+(C) a Internet é uma rede que fornece acesso a informações corporativas, ferramentas e serviços, sem acesso ao público externo.
+(D) portal: Interface que fornece acesso a informações e recursos de uma ou mais fontes, servindo como um ponto de entrada para aplicação e serviços.
+(E) a Internet é uma vasta rede de servidores e dispositivos conectados em toda a corporação, permitindo a troca de dados através de cabos, satélites e conexões sem fio.
+
+[GABARITO]
+D

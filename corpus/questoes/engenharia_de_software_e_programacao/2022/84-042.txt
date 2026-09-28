@@ -1,0 +1,18 @@
+ID: 84-042
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o trecho abaixo. <h1 id="teste"></h1> <script> ----const x = JSON.parse(xpto); document.getElementById("teste").innerHTML = x.alunos[1].nome + " " + x.alunos[1].sobreNome; </script> Para que o nome Maria Bueno seja exibido no elemento da primeira linha (tag h1), o trecho tracejado deve ser substituído por:
+
+[ALTERNATIVAS]
+(A) let '{"alunos":[' + '{"nome":"Maria","sobreNome":"Bueno" },' + '{"nome":"Edson","sobreNome":"Arantes" }]}';
+(B) let '{"xpto":[' + '{"nome":"Edson","sobreNome":"Arantes" },' + '{"nome":"Maria","sobreNome":"Bueno" }]}';
+(C) let alunos = '{"xpto":[' + '{"nome":"Edson","sobreNome":"Arantes" },' + '{"nome":"Maria","sobreNome":"Bueno" }]}';
+(D) let xpto = '{"alunos":[' + '{"nome":"Edson","sobreNome":"Arantes" },' + '{"nome":"Maria","sobreNome":"Bueno" }]}';
+(E) let xpto = alunos '{[' + '{nome:"Edson",sobreNome:"Arantes" },' + '{nome:"Maria",sobreNome:"Bueno" }]}';
+
+[GABARITO]
+D

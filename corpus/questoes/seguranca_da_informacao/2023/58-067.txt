@@ -1,0 +1,18 @@
+ID: 58-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No contexto da gestão de riscos em segurança da informação e avaliação de segurança de produtos de TI, a ISO/IEC 27005 e a ISO/IEC 15408 são normas internacionalmente reconhecidas. Em relação ao tema, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A ISO/IEC 27005 é uma norma que fornece diretrizes para o processo de gestão de riscos em segurança da informação, incluindo a identificação, análise e tratamento de riscos. ( ) A ISO/IEC 15408, também conhecida como Critérios Comuns (Common Criteria), é uma norma que estabelece um framework para a avaliação da segurança de produtos de software, mas não inclui hardware em seu escopo. ( ) Ambas as normas, ISO/IEC 27005 e ISO/IEC 15408, fornecem critérios específicos para a certificação de produtos e serviços em segurança da informação. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) V – V – F.
+(C) F – V – F.
+(D) F – V – V.
+(E) F – F – V.
+
+[GABARITO]
+A

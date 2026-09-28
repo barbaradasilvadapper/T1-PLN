@@ -1,0 +1,18 @@
+ID: 85-055
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Na metodologia ágil SCRUM há diversos eventos formais que são realizados para inspecionar e adaptar artefatos. O evento SCRUM que tem como propósito planejar maneiras de aumentar a qualidade e a eficácia de diversos elementos, avaliando o que deu certo durante a Sprint, quais problemas foram encontrados e como esses problemas foram (ou não) resolvidos, é o:
+
+[ALTERNATIVAS]
+(A) Daily Scrum;
+(B) Sprint Review;
+(C) Sprint Planning;
+(D) Product Backlog;
+(E) Sprint Retrospective.
+
+[GABARITO]
+E

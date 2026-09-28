@@ -1,0 +1,18 @@
+ID: 56-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em um ambiente de alta disponibilidade e escalabilidade, o analista Joabe precisa escolher o sistema de armazenamento para uma aplicação que demanda acesso rápido aos dados, tolerância a falhas e capacidade de escalar horizontalmente. Nesse contexto, Joabe deve optar pelo(a):
+
+[ALTERNATIVAS]
+(A) utilização exclusiva de discos rígidos externos USB conectados em série para garantir a escalabilidade;
+(B) implementação de fitas magnéticas como solução principal de armazenamento, devido à sua durabilidade e baixo custo;
+(C) adoção de um sistema RAID 0 com dois discos para maximizar a tolerância a falhas;
+(D) emprego de armazenamento em nuvem com serviços que ofereçam elasticidade, durabilidade e disponibilidade de dados;
+(E) configuração de um array de disquetes em paralelo, visando a aumentar a velocidade de acesso e a capacidade de armazenamento.
+
+[GABARITO]
+D

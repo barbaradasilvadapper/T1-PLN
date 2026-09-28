@@ -1,0 +1,18 @@
+ID: 70-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Após a inauguração do novo website da empresa Banana Inc. usuários relatam que a tentativa de acesso ao endereço https://www.bananainc.com.br/bananaphone tem resulta em um erro 404. A nova localização da página do produto é https://www.bananainc.com.br/produtos/bananaphone Considerando que o site está hospedado em um servidor Apache versão 2.4, assinale a alternativa que representa a solução adequada para redirecionar os acessos de forma correta, diretamente no servidor, sem que haja a necessidade de alterações ou adições ao conteúdo do website:
+
+[ALTERNATIVAS]
+(A) Utilizar o módulo mod_rewrite para redirecionar permanentemente os acessos
+(B) Atualizar o DNS para apontar o subdomínio bananaphone.bananainc.com.br para a página atualizada
+(C) Atualizar o servidor Apache para uma nova versão
+(D) Criar uma página personalizada de erro 404 que inclua um redirecionamento para a nova localização do produto.
+(E) Criar um VirtualHost específico para o subdiretório /bananaphone e configurar um redirecionamento.
+
+[GABARITO]
+A

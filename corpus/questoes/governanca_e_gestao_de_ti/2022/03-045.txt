@@ -1,0 +1,18 @@
+ID: 03-045
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Segundo o livro Operações de Serviço da ITIL®, o Gerenciamento de Problemas é o processo responsável por gerenciar o ciclo de vida de todos os problemas, sendo problema a causa de um ou mais incidentes. Considere que você é o gerente de problemas da Brasil Eventos e precisa justificar a adoção deste processo para seus superiores apresentando a eles os objetivos do processo de Gerenciamento de Problemas. Selecione a opção que apresenta apenas exemplos de objetivos deste processo.
+
+[ALTERNATIVAS]
+(A) Eliminar incidentes recorrentes; minimizar o impacto de incidentes que eventualmente não possam ser prevenidos.
+(B) Eliminar incidentes recorrentes; aumentar a visibilidade e comunicação dos incidentes para a equipe de suporte de TI e para o negócio.
+(C) Manter o alinhamento e prioridade dos incidentes com as prioridades do negócio; minimizar o impacto de incidentes que não possam ser prevenidos.
+(D) Aumentar a visibilidade e comunicação dos incidentes para a equipe de suporte de TI e para o negócio; minimizar o impacto de incidentes que não possam ser prevenidos.
+(E) Eliminar incidentes recorrentes; manter o alinhamento e prioridade dos incidentes com as prioridades do negócio.
+
+[GABARITO]
+A

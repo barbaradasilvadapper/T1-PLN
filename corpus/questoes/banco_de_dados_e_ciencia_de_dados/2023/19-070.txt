@@ -1,0 +1,18 @@
+ID: 19-070
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João trabalha em uma empresa de consultoria de banco de dados para SGBD SQL Server e foi contratado para orientar o Tribunal de Justiça de Sergipe (TJSE) quanto a monitoramento e ajustes de desempenho do banco de dados do Tribunal. João informou que existem várias ferramentas de monitoramento e ajustes, as quais dependem do tipo de monitoramento ou de ajuste a ser feito. O TJSE informou que precisa avaliar uma versão de destino do mecanismo de banco de dados para uma determinada carga de trabalho. A partir dessa análise, João deverá orientar o Tribunal a usar a ferramenta de:
+
+[ALTERNATIVAS]
+(A) assistente para experimentos de banco de dados;
+(B) orientador de otimização do mecanismo de banco de dados;
+(C) database console command (DCC);
+(D) assistente de ajuste de consulta;
+(E) SQL server profiler. Tipo 1 ̶ Branca Tipo 1 ̶ Branca Tipo 1 ̶ Branca
+
+[GABARITO]
+A

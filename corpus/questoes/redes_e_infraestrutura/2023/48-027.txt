@@ -1,0 +1,18 @@
+ID: 48-027
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Durante uma verificação de rotina, a Divisão de Segurança da Informação do Tribunal de Contas do Estado de São Paulo (TCE SP) identificou um ataque por vírus e que este estava ocorrendo e efetuando o apagamento de arquivos no servidor. Em virtude da forma de backup utilizada, notou-se também que os mesmos arquivos também eram apagados no backup. Logo, o TCE SP decidiu trocar o tipo de backup usado pelo backup em nuvem. O tipo de backup executado pelo TCE SP, antes da implementação do backup em nuvem, é o backup:
+
+[ALTERNATIVAS]
+(A) completo;
+(B) incremental;
+(C) diferencial;
+(D) espelhado;
+(E) local.
+
+[GABARITO]
+D

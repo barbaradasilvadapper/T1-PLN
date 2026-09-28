@@ -1,0 +1,18 @@
+ID: 29-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Luís, analista judiciário, com o objetivo de utilizar o NFS, apresentou algumas características para o gerente de TI decidir sobre a utilização desse sistema de arquivos. Está correto o que Luís afirma em:
+
+[ALTERNATIVAS]
+(A) NFS considera um conjunto de estações de trabalho separadas como um conjunto de máquinas independentes com sistemas de arquivos interdependentes;
+(B) um dos objetivos de projeto do NFS é operar em um ambiente heterogêneo com diferentes computadores, sistemas operacionais e arquiteturas de rede. A especificação do NFS é independente dessas mídias;
+(C) a independência de mídias é obtida através do uso de primitivos RPC construídos no topo de um protocolo de representação externa de dados (XDR), usado entre duas interfaces dependentes de implementação;
+(D) a especificação do NFS não faz distinção entre os serviços fornecidos por um mecanismo de montagem e os serviços reais de acesso a arquivos remotos. Ou seja, dois protocolos separados são especificados para esses serviços;
+(E) o objetivo do NFS é permitir algum grau de compartilhamento entre esses sistemas de arquivos (por solicitação implícita) de maneira clara. Um computador que é cliente não pode ser servidor.
+
+[GABARITO]
+B

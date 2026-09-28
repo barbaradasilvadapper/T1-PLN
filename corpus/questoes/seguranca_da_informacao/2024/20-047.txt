@@ -1,0 +1,18 @@
+ID: 20-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A organização UMTINO, de recursos humanos, teve um prejuízo de mais da metade de seu faturamento, porque suas regras para a mudança do estado do seu principal software (desenvolvimento para produção) não haviam sido definidas e documentadas com níveis de separação para prevenir problemas operacionais. No tocante aos procedimentos e responsabilidades operacionais que a UMTINO deveria implementar, considera(m)-se prática(s) essencial(is):
+
+[ALTERNATIVAS]
+(A) segregar responsabilidades, com o objetivo de evitar risco de má utilização de sistemas, razão pela qual é importante separar o gerenciamento de certas responsabilidades ou áreas de responsabilidade, de forma que as possibilidades de modificações não autorizadas sejam reduzidas;
+(B) controlar mudanças operacionais, definindo responsabilidades gerenciais e, sempre que praticável, integrar os procedimentos de controle de mudanças de aplicações e sistemas operacionais;
+(C) separar facilidades de desenvolvimento, testes e operações, indicando um nível de separação necessário para prevenir problemas operacionais, principalmente em termo de acesso ou modificações não autorizadas;
+(D) estabelecer procedimentos para o gerenciamento de incidentes, como ação para assegurar uma resposta rápida, efetiva e ordenada aos incidentes de segurança;
+(E) documentar procedimentos operacionais de modo formal e flexível (no sentido de permitir modificações, quando necessárias e autorizadas), englobando o tratamento de operações de manutenção, manipulação de erros e demais correções adversas, contratos de suporte, procedimentos de recuperação.
+
+[GABARITO]
+C

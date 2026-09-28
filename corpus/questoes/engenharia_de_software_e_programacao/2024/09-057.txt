@@ -1,0 +1,18 @@
+ID: 09-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em relação às arquiteturas hexagonal e de microsserviços, considere as seguintes afirmações: I. A arquitetura hexagonal, também chamada de Arquitetura de Portas e Adaptadores, visa separar a lógica de negócios das interfaces externas, permitindo uma fácil troca de implementações. II. Microsserviços são pequenos serviços que compartilham o mesmo banco de dados, promovendo maior acoplamento entre os módulos da aplicação para garantir a consistência dos dados. III. A arquitetura monolítica pode ser distribuída, mas requer que todos os módulos sejam implantados como um conjunto, ao contrário dos microsserviços, que permitem a implantação independente de cada módulo.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) I e III, apenas.
+
+[GABARITO]
+E

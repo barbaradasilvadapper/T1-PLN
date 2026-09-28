@@ -1,0 +1,18 @@
+ID: 15-042
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe de desenvolvimento da ALEGO está trabalhando em um sistema de gerenciamento de projetos. O gerente de projetos solicitou a implementação de uma funcionalidade que permita revisar a lista de tarefas atribuídas a cada membro da equipe e gerar um relatório com base em certas condições, como a prioridade das tarefas e o status de cada uma. Durante a implementação desta funcionalidade, a equipe deve utilizar estruturas de desvio e repetição corretamente. Em relação ao uso dessas estruturas em Java, qual delas é correta:
+
+[ALTERNATIVAS]
+(A) O comando if pode ser utilizado para verificar se uma tarefa está marcada como "concluída" e, caso não esteja, o programa deve continuar a verificar as demais tarefas.
+(B) O loop for deve ser usado para executar um código que não depende da quantidade de tarefas da lista, apenas para inicializar variáveis de contagem.
+(C) É possível usar um switch para comparar a prioridade de uma tarefa, mas só se o valor a ser comparado for do tipo String.
+(D) Aninhando um loop while dentro de um loop for, o programa irá executar o código do loop while várias vezes até que a condição do for seja falsa, independente do estado da condição do while.
+(E) Um loop infinito deve ser utilizado em situações onde as condições de parada não são necessárias ou não são claras no início do desenvolvimento.
+
+[GABARITO]
+A

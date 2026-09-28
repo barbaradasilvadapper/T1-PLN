@@ -1,0 +1,18 @@
+ID: 07-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere uma tabela relacional TAB, com colunas A e B. A coluna A constitui a chave primária de TAB. A instância de TAB contém 100 linhas, e em todas as linhas o valor da coluna B é 10. Nesse contexto, analise o comando SQL a seguir. select * from TAB t where not exists (select * from TAB tt where t.B = tt.B and t.A > tt.A) Além da linha de títulos, o número de linhas produzidas pelo comando acima é:
+
+[ALTERNATIVAS]
+(A) 0;
+(B) 1;
+(C) 98;
+(D) 99;
+(E) 100.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 55-035
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A respeito de padrões de projeto utilizados em Engenharia de Software, analise os itens a seguir. I. O padrão estrutural descreve a forma pela qual classes e objetos são combinados para compor estruturas mais complexas. II. O padrão criacional (ou de criação) abstrai o processo de instanciação de classes e objetos. III. O padrão de projeto comportamental foi criado pela linguagem UML versão 2.1, e é representado por meio de diagramas de classes e de relacionamentos.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

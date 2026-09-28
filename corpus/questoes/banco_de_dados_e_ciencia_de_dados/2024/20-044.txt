@@ -1,0 +1,18 @@
+ID: 20-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João, administrador de Banco de Dados experiente, percebeu que muitas consultas geradas por relatórios precisam fazer filtros pelo campo "LAST_NAME". No entanto, notou um desempenho insatisfatório devido à ausência de índices nesse campo, resultando em operações de FULL TABLE SCAN e impactando negativamente o tempo de resposta das consultas. Para resolver esse problema, ele decide identificar todas as tabelas com ausências de índices na coluna "LAST_NAME" do banco de dados, independentemente do proprietário. Para isso, João deverá executar o script:
+
+[ALTERNATIVAS]
+(A) SELECT * FROM DBA_IND_COLUMNS WHERE COLUMN_NAME = 'LAST_NAME';
+(B) SELECT C.OWNER, C.TABLE_NAME FROM DBA_TAB_COLUMNS C LEFT JOIN DBA_IND_COLUMNS I ON I.TABLE_OWNER = C.OWNER AND I.TABLE_NAME = C.TABLE_NAME AND I.COLUMN_NAME = C.COLUMN_NAME I.INDEX_NAME IS NULL;
+(C) SELECT C.TABLE_NAME FROM USER_TAB_COLUMNS C LEFT JOIN USER_IND_COLUMNS I ON I.TABLE_NAME = C.TABLE_NAME AND I.COLUMN_NAME = C.COLUMN_NAME I.INDEX_NAME IS NULL;
+(D) SELECT C.OWNER, C.TABLE_NAME FROM ORA_COLUMNS C LEFT JOIN ORA_IND_COLUMNS I ON I.TABLE_OWNER = C.OWNER AND I.TABLE_NAME = C.TABLE_NAME AND I.COLUMN_NAME = C.COLUMN_NAME I.INDEX_NAME IS NULL;
+(E) SELECT C.OWNER, C.TABLE_NAME FROM DBA_TAB_COLUMNS C LEFT JOIN DBA_IND_COLUMNS I ON I.TABLE_OWNER = C.OWNER AND I.TABLE_NAME = C.TABLE_NAME AND I.COLUMN_NAME = C.COLUMN_NAME I.INDEX_NAME IS NOT NULL;
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 48-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista André é o arquiteto da aplicação web TCEDash. O componente Board, da TCEDash, apresenta ao usuário indicadores visuais e manipuláveis, baseados em informações contidas no banco de dados da aplicação. O Board instancia um novo objeto para cada indicador apresentado ao usuário. Sabendo que determinado subconjunto de informações se repete em todos os indicadores, André aplicou no componente Board o padrão de projeto estrutural do Gang Of Four (GoF), que otimiza a alocação de objetos na memória RAM, mediante o compartilhamento de atributos comuns entre os objetos. André aplicou no componente Board o padrão do GoF:
+
+[ALTERNATIVAS]
+(A) proxy;
+(B) bridge;
+(C) facade;
+(D) flyweight;
+(E) composite.
+
+[GABARITO]
+D

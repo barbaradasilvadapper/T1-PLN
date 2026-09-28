@@ -1,0 +1,17 @@
+ID: 23-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A técnica de Análise de Pontos de Função (Function Point Analysis, FPA), da International Function Point Users Group (IFPUG), é um método tradicional empregado para medir sistemas pela quantificação da funcionalidade solicitada e fornecida. Considerando a técnica FPA, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A técnica FPA busca medir como o software foi construído.
+(B) A unidade “ponto de função” serve para medição das funcionalidades de um software (o que o software faz) sob o ponto de vista do usuário.
+(C) A técnica é baseada na avaliação de implementações de código do ponto de vista da gestão.
+(D) Abrange exclusivamente a funcionalidade genérica requerida pelo usuário.
+
+[GABARITO]
+B

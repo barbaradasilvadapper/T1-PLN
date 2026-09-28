@@ -1,0 +1,18 @@
+ID: 64-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma das maneiras de se evitar o acesso não autorizado à informação é o uso de algoritmos de criptografia, cuja função é disfarçar a informação por meio de regras matemáticas. A respeito desses algoritmos, analise os itens a seguir. I. O algoritmo DES utiliza exponenciação, um processo que consome muito tempo. Já o algoritmo RSA não, por isso ele é, no mínimo, cem vezes mais veloz em software e entre mil e dez mil vezes mais veloz em hardware. II. O DES é um algoritmo de criptografia de chave pública, cuja principal característica é a utilização de um par de chaves, uma para criptografar a informação e outra para descriptografar. III. O RC4 é um algoritmo de criptografia de chave simétrica, cuja principal característica é utilizar a mesma chave para criptografar e descriptografar a informação.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) II e III, apenas.
+(C) I e III, apenas.
+(D) I e II, apenas.
+(E) III, apenas.
+
+[GABARITO]
+E

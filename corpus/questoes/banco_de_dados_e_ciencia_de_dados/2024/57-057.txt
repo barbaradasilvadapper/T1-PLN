@@ -1,0 +1,18 @@
+ID: 57-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Gabriela é a administradora dos bancos de dados gerenciados pelo PostgreSQL de uma instituição. Ela está monitorando o espaço em disco utilizado por algumas tabelas dos bancos de dados por meio da inspeção do catálogo do sistema, que foi recentemente atualizado por outra operação. Gabriela está usando o seguinte comando SQL:
+
+[ALTERNATIVAS]
+(A) SELECT relpages FROM pg_class WHERE relname = 'mytable';
+(B) SELECT relsize FROM pg_database WHERE relname = 'mytable';
+(C) SELECT tabsize FROM pg_relations WHERE tabname = 'mytable';
+(D) SELECT * FROM pg_table_size WHERE tabname = 'mytable';
+(E) SELECT relation FROM pg_data WHERE relname = 'mytable'.
+
+[GABARITO]
+A

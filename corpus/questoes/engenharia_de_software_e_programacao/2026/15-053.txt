@@ -1,0 +1,18 @@
+ID: 15-053
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A ALEGO está passando por um processo de padronização na troca de informações entre seus diversos sistemas internos e aplicações de parceiros externos. Para garantir interoperabilidade, estruturação consistente dos dados e integração com soluções legadas, a equipe de TI precisa definir um formato de representação de dados. Nesse cenário, surge a necessidade de avaliar o uso de XML (Extensible Markup Language). Assinale a alternativa relativa a este formato de representação de dados.
+
+[ALTERNATIVAS]
+(A) É um padrão que fornece um diretório para serviços web, permitindo que empresas publiquem e descubram serviços online. Facilita a integração entre diferentes sistemas.
+(B) É um estilo arquitetônico para o desenvolvimento de serviços web que utiliza princípios do protocolo HTTP. É amplamente utilizado para construir APIs pela sua simplicidade e eficiência.
+(C) Formato leve de troca de dados utilizado para armazenamento e intercâmbio de informações, que é de fácil compreensão e pode ser manipulado com a sintaxe do JavaScript.
+(D) Linguagem de marcação projetada para descrever o conteúdo das páginas da web de forma estruturada, permitindo o armazenamento e a transmissão de dados.
+(E) Uma linguagem de transformação que permite converter documentos de um determinado tipo em outros formatos, como HTML ou texto plano. É útil para modificar a apresentação de dados.
+
+[GABARITO]
+D

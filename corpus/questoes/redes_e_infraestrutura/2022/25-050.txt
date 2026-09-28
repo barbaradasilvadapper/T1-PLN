@@ -1,0 +1,18 @@
+ID: 25-050
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de banco de dados (BD) necessita implementar em sua infraestrutura própria um cluster de BD com 3 nós (3 servidores físicos), os quais irão compartilhar os mesmos discos, que deverão ser apresentados para os 3 nós como raw devices para criação da base de dados. O protocolo utilizado deverá ser o Fibre Channel (FC) e será utilizado um switch com suporte ao FC para permitir que os nós acessem os discos a eles apresentados. A arquitetura de armazenamento que deve ser utilizada para atender os requisitos de armazenamento para o cluster de BD é o:
+
+[ALTERNATIVAS]
+(A) RAID 1;
+(B) DAS;
+(C) NAS;
+(D) RAID 6;
+(E) SAN.
+
+[GABARITO]
+E

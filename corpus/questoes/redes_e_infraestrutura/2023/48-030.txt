@@ -1,0 +1,18 @@
+ID: 48-030
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Ataque “Ping da morte" é um ataque de negação de serviço (DoS) em que o invasor visa interromper uma máquina alvo enviando um pacote maior que o tamanho máximo permitido, fazendo com que a máquina visada trave ou falhe. De forma a evitar esse ataque, o Departamento de Segurança do Tribunal de Contas do Estado de São Paulo (TCE SP) resolveu bloquear as requisições de PING, impedindo que outro computador utilize esse comando para obter informações sobre o servidor. Para isso, efetuará o bloqueio com o Iptables. Sabendo-se que a interface do servidor é eth0, o comando de aplicação da regra de bloqueio no IPTABLES é:
+
+[ALTERNATIVAS]
+(A) $ iptables -A INPUT -p icmp -i eth0 -j DROP;
+(B) $ iptables -A OUTPUT -p snmp -i eth0 -j DROP;
+(C) # iptables -A INPUT -p icmp -i eth0 -j DROP;
+(D) # iptables -A OUTPUT -p icmp -i eth0 -j DROP;
+(E) # iptables -A INPUT -p snmp -i eth0 -j DROP.
+
+[GABARITO]
+C

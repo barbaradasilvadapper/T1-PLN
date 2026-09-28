@@ -1,0 +1,18 @@
+ID: 24-054
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo HTTP define um conjunto de métodos de requisição responsáveis por indicar a ação a ser executada para um dado recurso. Um método HTTP é denominado idempotente se:
+
+[ALTERNATIVAS]
+(A) as requisições em algum momento causam danos ou efeitos colaterais irreversíveis no servidor;
+(B) as requisições com cabeçalhos e parâmetros diferentes causam uma mesma mudança no estado do recurso;
+(C) toda requisição estabelecer um túnel para o servidor identificado pelo recurso de destino;
+(D) o código de status for o mesmo entre requisições que aplicam modificações parciais em um recurso;
+(E) uma requisição idêntica puder ser feita uma ou mais vezes em sequência com o mesmo efeito enquanto deixa o servidor no mesmo estado.
+
+[GABARITO]
+E

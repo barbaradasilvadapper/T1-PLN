@@ -1,0 +1,18 @@
+ID: 07-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista José está implementando a interface gráfica da aplicação web JusticaSE, utilizando a biblioteca JavaScript React. A JusticaSE possui uma tela de dashboard, implementada pelo componente TelaD, que demanda alto custo computacional para ser renderizada. A fim de reduzir o custo de renderização da tela de dashboard, José encapsulou determinadas functions de TelaD em um Hook nativo da biblioteca React. O Hook utilizado por José memoriza a definição de uma function ao longo de várias renderizações de um componente. José utilizou o React Hook:
+
+[ALTERNATIVAS]
+(A) useState;
+(B) useEffect;
+(C) useMemo;
+(D) useCalback;
+(E) useContext.
+
+[GABARITO]
+D

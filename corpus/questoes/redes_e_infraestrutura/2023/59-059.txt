@@ -1,0 +1,18 @@
+ID: 59-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A transmissão em tempo real de áudio e vídeo utilizada na Internet está condicionada à variação do tempo de chegada dos pacotes. O protocolo RTP, muito utilizado em aplicações dessa natureza, implementa a funcionalidade de registrar o tempo de reprodução de um pacote, com relação ao pacote anterior. Essa funcionalidade é conhecida como:
+
+[ALTERNATIVAS]
+(A) jitter;
+(B) tradução;
+(C) timestamp;
+(D) multicasting;
+(E) buffer de reprodução.
+
+[GABARITO]
+C

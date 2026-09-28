@@ -1,0 +1,18 @@
+ID: 11-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A função CreateThread do Windows inicia um thread paralelo em relação a um thread em execução. Um programa principal roda: O thread rotB roda: O número total de threads descendentes do programa principal (incluindo ele) é igual a
+
+[ALTERNATIVAS]
+(A) 5.
+(B) 10.
+(C) 8.
+(D) 4.
+(E) 7.
+
+[GABARITO]
+B

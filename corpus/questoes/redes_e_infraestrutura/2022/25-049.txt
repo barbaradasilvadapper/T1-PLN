@@ -1,0 +1,18 @@
+ID: 25-049
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de virtualização de um órgão público administra um cluster VMware composto por 6 hosts esx. Nesse cluster há um sistema de missão crítica que requer alto índice de disponibilidade. Para assegurar a disponibilidade desse sistema, a equipe de virtualização criou 2 máquinas virtuais idênticas e configurou-as para estarem sempre hospedadas em hosts esx diferentes. O recurso que assegura a configuração aplicada nas máquinas virtuais é o:
+
+[ALTERNATIVAS]
+(A) vCenter high availability;
+(B) fault tolerance;
+(C) cluster DRS;
+(D) distributed power management;
+(E) vMotion.
+
+[GABARITO]
+B

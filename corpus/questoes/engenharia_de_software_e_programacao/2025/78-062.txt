@@ -1,0 +1,18 @@
+ID: 78-062
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Testes unitários (ou, testes de unidades) são scripts que verificam o funcionamento de unidades individuais de código. Os testes unitários representam
+
+[ALTERNATIVAS]
+(A) scripts manuais que testam unidades individuais de código fonte, como funções ou métodos, de forma integrada com o restante do sistema.
+(B) uma forma de se testar a combinação das unidades em conjunto.
+(C) uma dificuldade adicional para encontrar problemas o quanto antes, atrasando a mudança da unidade introduzem complexidade na integração e para documentação.
+(D) testes de software que procuram aferir a corretude do código, em sua menor fração.
+(E) um processo de execução automatizado, porém, lentificado
+
+[GABARITO]
+D

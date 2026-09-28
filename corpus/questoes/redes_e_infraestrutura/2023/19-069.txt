@@ -1,0 +1,18 @@
+ID: 19-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Luana trabalha em um Datacenter que presta serviço de nuvem pública. Ela identificou que existe uma máquina de banco de dados mysql que não possui replicação de dados e fechou um contrato com a empresa responsável pela máquina para a execução da tarefa de implementação da replicação de dados. Esta permite redundância, tolerância a falhas e balanceamento de carga. Para uma correta implementação, Luana deverá observar como característica do ambiente a:
+
+[ALTERNATIVAS]
+(A) replicação, conhecida como Master-Slave, de forma que as gravações sejam efetuadas diretamente em um log binário de ambos;
+(B) largura de banda muito intensiva entre o master e o slave, logo a distância entre eles ser fator primordial para o desempenho;
+(C) máquina slave ser considerada como um backup, ou até mesmo um substituto para seus backups;
+(D) compatibilidade de versões mais antigas dos servidores serem, frequentemente, capazes de servir como slaves de versões mais novas;
+(E) compatibilidade com o servidor anterior, isto é, um servidor mais novo poder normalmente ser um escravo de um servidor mais velho sem nenhum problema.
+
+[GABARITO]
+E

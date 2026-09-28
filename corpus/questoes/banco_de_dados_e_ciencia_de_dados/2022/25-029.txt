@@ -1,0 +1,18 @@
+ID: 25-029
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No processamento de transações distribuídas em gerenciadores de bancos de dados, o algoritmo frequentemente empregado para garantir que todos os participantes de uma transação distribuída tenham conhecimento do seu desfecho é conhecido como:
+
+[ALTERNATIVAS]
+(A) D-commit;
+(B) Dynamic Data Exchange;
+(C) Liveness;
+(D) Multi-commit;
+(E) Two-phase commit.
+
+[GABARITO]
+E

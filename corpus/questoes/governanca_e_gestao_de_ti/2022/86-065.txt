@@ -1,0 +1,18 @@
+ID: 86-065
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A respeito do Business Process Modeling Notation (BPMN), analise as afirmativas a seguir. I. Tem objetivo de prover recursos e elementos para modelar os processos de negócio. II. Deve ser compreendido por analistas de negócio, técnicos, usuários e todos os envolvidos com o processo. III. Permite expressar os processos de negócio desde que utilizados vários diagramas de processo.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

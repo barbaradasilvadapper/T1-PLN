@@ -1,0 +1,18 @@
+ID: 62-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+No contexto das práticas de gerenciamento de serviços, assinale a opção que apresenta a prática que tem como propósito principal reduzir a probabilidade e o impacto de incidentes, identificando as causas reais e potenciais dos incidentes, e gerenciando soluções de contorno e erros conhecidos.
+
+[ALTERNATIVAS]
+(A) Gerenciamento de incidentes.
+(B) Controle de mudanças.
+(C) Gerenciamento de problemas.
+(D) Monitoramento e gerenciamento de eventos.
+(E) Gerenciamento de lançamentos.
+
+[GABARITO]
+C

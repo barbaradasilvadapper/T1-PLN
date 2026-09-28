@@ -1,0 +1,18 @@
+ID: 40-071
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considere as seguintes competências da Autoridade Nacional de Proteção de Dados (ANPD): • monitorar e realizar análise do mercado e do desenvolvimento de novas tecnologias que possam gerar impactos na proteção de dados e privacidade; • editar e publicar estudos e notas técnicas informativas realizadas pela Autoridade; • conscientizar e orientar sobre desenvolvimento de tecnologias relevantes para a proteção de dados, privacidade e segurança da informação; e • acompanhar e participar das discussões técnicas em fóruns internacionais de matérias relacionadas a tecnologias utilizadas na proteção e no tratamento de dados pessoais e privacidade. O elemento da estrutura organizacional da ANPD que possui as competências apresentadas é:
+
+[ALTERNATIVAS]
+(A) Coordenação-geral de administração;
+(B) Coordenação-geral de normatização;
+(C) Coordenação-geral de tecnologia e pesquisa;
+(D) Conselho nacional de proteção de dados pessoais e da privacidade;
+(E) Coordenação-geral de relações institucionais e internacionais.
+
+[GABARITO]
+C

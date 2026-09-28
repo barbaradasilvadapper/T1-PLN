@@ -1,0 +1,18 @@
+ID: 84-065
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O tamanho em bits dos campos de endereços de origem ou de destino de um frame ethernet é
+
+[ALTERNATIVAS]
+(A) 32.
+(B) 48.
+(C) 64.
+(D) 128.
+(E) 1500.
+
+[GABARITO]
+B

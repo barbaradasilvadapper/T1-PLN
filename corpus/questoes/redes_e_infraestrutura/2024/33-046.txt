@@ -1,0 +1,18 @@
+ID: 33-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um estagiário recebeu a tarefa de documentar a topologia de uma rede atualmente em operação. Durante essa análise, identificou-se a presença de um único dispositivo de firewall localizado entre um roteador interno e um roteador externo. Esse firewall tem a capacidade de implementar filtros com estado e/ou proxies de aplicação. A configuração descrita é chamada de bastião:
+
+[ALTERNATIVAS]
+(A) em sdrop;
+(B) duplo em T;
+(C) único em T;
+(D) duplo em linha;
+(E) único em linha.
+
+[GABARITO]
+E

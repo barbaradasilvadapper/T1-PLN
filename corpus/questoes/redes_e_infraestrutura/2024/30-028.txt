@@ -1,0 +1,18 @@
+ID: 30-028
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Sistema de Nomes de Domínio (DNS) desempenha um papel fundamental na infraestrutura da Internet, funcionando como um diretório distribuído que traduz nomes de domínio legíveis por humanos em endereços IP numéricos utilizados pelas máquinas para se comunicarem entre si. Sobre esse sistema, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) pode ser usado para realizar distribuição de carga entre servidores, tais como os servidores Web replicados;
+(B) não trabalha com registros em cache por uma questão de segurança;
+(C) é descentralizado e não distribuído;
+(D) é usado exclusivamente em redes públicas;
+(E) atua principalmente na camada de transporte.
+
+[GABARITO]
+A

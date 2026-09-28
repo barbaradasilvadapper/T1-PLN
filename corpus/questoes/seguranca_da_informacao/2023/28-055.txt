@@ -1,0 +1,18 @@
+ID: 28-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Antônio, professor de computação da empresa X, recebe documentos cifrados de seus alunos com as pesquisas que eles estão realizando. Para a criptografia adotada por Antônio ser segura, ele teve que escolher uma chave de pelo menos 1. 024 bits que é disponibilizada em seu sítio. Para a descriptografia, ele utiliza uma chave conhecida apenas por ele. Os documentos são criptografados usando o algoritmo:
+
+[ALTERNATIVAS]
+(A) AES;
+(B) DES;
+(C) ECC;
+(D) IDEA;
+(E) RSA.
+
+[GABARITO]
+E

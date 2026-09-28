@@ -1,0 +1,18 @@
+ID: 70-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No contexto da gerência de riscos, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) Vulnerabilidade refere-se a qualquer fraqueza em um sistema que possa ser explorada por uma ameaça para causar dano ou acesso não autorizado, independentemente da intenção da fonte de ameaça. ( ) Uma ameaça precisa ser ativa e intencional para que um risco seja considerado válido; fenômenos naturais ou falhas sistêmicas não são categorizados como ameaças na gerência de riscos. ( ) O risco é considerado irrelevante se a organização possuir um plano de resposta a incidentes, pois a existência do plano elimina a necessidade de avaliação ou mitigação de riscos futuros. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) V – V – F.
+(C) F – V – V.
+(D) F – F – V.
+(E) V – V – V.
+
+[GABARITO]
+A

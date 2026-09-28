@@ -1,0 +1,18 @@
+ID: 35-068
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+SIP é um protocolo cuja especificação formal está disponível na RFC 6261. É um protocolo de controle para criação, modificando e encerrando sessões com um ou mais participantes. As sessões incluem chamadas telefónicas pela Internet, multimédia distribuição e conferências multimídia. Considerando o modelo de referência TCP/IP, é correto afirmar que SIP é um protocolo de camada de
+
+[ALTERNATIVAS]
+(A) IP.
+(B) rede.
+(C) sessão.
+(D) aplicação.
+(E) transporte.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 57-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Existem diferentes tipos de privilégios aplicáveis aos objetos de um banco de dados. O comando SQL abaixo será executado em uma instância de banco de dados mantida pelo PostgreSQL: GRANT USASE ON SCHEMA objeto1 TO objeto2; O resultado da execução do comando acima resultará na concessão de privilégios para que a role:
+
+[ALTERNATIVAS]
+(A) procure e acesse objetos contidos no esquema;
+(B) utilize as funções dos esquemas currval e nextval;
+(C) crie funções em esquemas de uma determinada linguagem;
+(D) defina tipos e domínios na criação de esquemas de tabelas;
+(E) leia os nomes dos objetos do esquema no catálogo do sistema.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 73-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Jonas precisa efetuar algumas pesquisas nas entradas de um servidor OpenLDAP utilizado na rede de sua empresa. Algumas das entradas presentes no servidor são replicadas a seguir: cn=Jose, ou=Finanças, o=Matriz, c=BR cn=Luiz, ou=Marketing, o=Matriz, c=BR cn=Maria, ou=Marketing, o=Matriz, c=BR cn=Carlos, ou=Finanças, o=Filial RJ, c=BR cn=Adriana, ou=Marketing, o=Filial RJ, c=BR cn=Vanessa, ou=Marketing, o=Filial MG, c=BR Para encontrar todas as pessoas que trabalham na Matriz, ele utilizou o comando:
+
+[ALTERNATIVAS]
+(A) ldapsearch -x -H "ldap://localhost:1389" -b "o=Matriz" "(objectclass=person)" dn
+(B) ldapsearch -x -H "ldap://localhost:1389" -b "o=Matriz,c=BR" -s one "(|(ou=Marketing)(ou=Finanças))" dn
+(C) ldapsearch -x -H "ldap://localhost:1389" -b "o=Matriz,c=BR" -s base "(objectclass=person)" dn
+(D) ldapsearch -x -H "ldap://localhost:1389" -b "c=BR" -s sub "(|(ou=Marketing)(ou=Finanças))" dn
+(E) ldapsearch -x -H "ldap://localhost:1389" -b "o=Matriz,c=BR" -s children "(objectclass=person)" dn
+
+[GABARITO]
+E

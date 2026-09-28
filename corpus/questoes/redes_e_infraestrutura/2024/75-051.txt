@@ -1,0 +1,18 @@
+ID: 75-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A combinação de CPU (Central Processing Unit) e GPU (Graphics Processing Unit), em conjunto com RAM suficiente, oferece um excelente ambiente de testes para aprendizagem profunda e IA. Neste contexto de computação de alto desempenho (HPC, Highperformance computing), desponta a programação paralela empregando uma ampla classe de poderosos sistemas de computação que variam de simples (por ex., 1 CPU + 8 GPUs) até supercomputadores com multicores, multi GPU e multi Nós. Considerando as diferenças básicas entre as arquiteturas de CPU e GPU, analise os itens a seguir. I. As arquiteturas a GPU e a CPU diferem de modo significativo pois foram desenvolvidas e otimizadas para dois tipos significativamente diferentes de aplicações, tendo baixa similaridade na quantidade relativa de área da pastilha (número de transistores) dedicada à cache, à lógica de controle e à lógica de processamento. II. As GPUs podem esconder a latência da memória ao administrar a execução de mais threads do que os cores processadores disponíveis, além de simplesmente serem capazes de executar os mesmos threads de código em grandes quantidades de dados. III. O conhecimento das nuances de várias memórias de uma GPU são importantes no desenvolvimento da programação paralela, em especial quanto aos tempos de acesso relativos, as limitações de acessibilidade e a quantidade de MMU (Memory Management Unit).
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I e III, apenas.
+
+[GABARITO]
+C

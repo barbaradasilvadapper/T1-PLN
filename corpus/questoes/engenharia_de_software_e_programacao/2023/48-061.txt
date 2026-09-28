@@ -1,0 +1,18 @@
+ID: 48-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Pedro está desenvolvendo o aplicativo TCEMóvel em React Native. Para implementar a interação do TCEMóvel com o web service WSTest, Pedro utilizou uma Application Programming Interface (API) embutida no React Native, especializada na transferência de recursos mediante Promises. Para implementar a interação com o web service WSTest, Pedro utilizou a API:
+
+[ALTERNATIVAS]
+(A) axios;
+(B) fetch;
+(C) frisbee;
+(D) WebSocket;
+(E) XMLHttpRequest.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 65-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em relação às funções de dados e às funções de transação na análise por pontos de função, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) As funções de dados são as únicas consideradas na análise por pontos de função, pois representam o único aspecto relevante do tamanho do software.
+(B) As funções de transação são menos importantes que as funções de dados, pois apenas manipulam os dados sem contribuir para o tamanho funcional do software.
+(C) Tanto as funções de dados quanto as funções de transação são essenciais e complementares na análise por pontos de função, contribuindo juntas para uma estimativa precisa do esforço de desenvolvimento.
+(D) A análise por pontos de função desconsidera as funções de transação, focando exclusivamente na complexidade dos algoritmos internos do software.
+(E) As funções de transação substituem a necessidade de análise das funções de dados, pois oferecem uma visão mais integrada do funcionamento do software.
+
+[GABARITO]
+C

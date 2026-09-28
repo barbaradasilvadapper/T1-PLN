@@ -1,0 +1,18 @@
+ID: 94-074
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A ABNT ISSO/IEC 27001 define controles para implementação do tratamento de riscos da Segurança da Informação em um sistema de gestão de segurança da informação (SGSI). Uma determinada organização estabeleceu que a equipe de TI responsável pela execução das rotinas de backup deve usar criptografia para proteger os dados/informações sensíveis nas mídias de armazenamento removíveis. O controle de segurança da informação implementado pela organização é o controle:
+
+[ALTERNATIVAS]
+(A) físico;
+(B) de pessoas;
+(C) organizacional;
+(D) tecnológico;
+(E) de processos.
+
+[GABARITO]
+A

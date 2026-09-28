@@ -1,0 +1,18 @@
+ID: 75-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Avalie o fragmento de texto a seguir e, em seguida, assinale com (V) para a técnica verdadeira e (F) para a falsa. O Web Design Responsivo é uma técnica de web design que permite que um site se adapte e seja exibido adequadamente em diferentes dispositivos, como smartphones, tablets e desktops. A criação de um layout que possa ajustar e otimizar sua apresentação em uma variedade de telas envolve o uso de técnicas como ( ) layout de grade rígido; Imagens e mídias flexíveis; Consultas a bancos de dados. ( ) layout de grade flexível; Imagens e mídias flexíveis; Consultas midiáticas. ( ) layout de grade rígido; Imagens e mídias rígidas; Consultas midiáticas. As técnicas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) F – V – F.
+(C) V – F – F.
+(D) F – F – V.
+(E) V – F – V.
+
+[GABARITO]
+B

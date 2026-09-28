@@ -1,0 +1,18 @@
+ID: 54-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A forma normal Boyce-Codd (FNBC) foi inicialmente proposta como um tipo de simplificação de uma determina forma normal (FN). No entanto, descobriu-se que ela era mais rigorosa. A FN que a FNBC visava simplificar é a
+
+[ALTERNATIVAS]
+(A) 1FN.
+(B) 2FN.
+(C) 3FN.
+(D) 4FN.
+(E) 5FN.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 78-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O tipo de falha de segurança mais comum nos aplicativos web são as falhas de validação na entrada de dados. Essa vulnerabilidade abre a possibilidade de ocorrem diversos tipos de ataques. Com relação aos requisitos de segurança que um aplicativo web devem adotar, analise os itens a seguir. I. A validação dos dados de entrada e codificação dos dados de saída nas aplicações web deve ser bem definida para evitar ataques do tipo injeção. II. Os dados de entrada devem ser fortemente tipados e validados, devem ter intervalo e comprimento verificados e, na pior das hipóteses devem ser higienizados ou filtrados. III. Os dados de saída dever ser criptografados em infraestruturas de PKI e armazenados em bancos de dados seguros, tornandose pouco disponíveis para maus usos.
+
+[ALTERNATIVAS]
+(A) II e III, apenas.
+(B) I e III, apenas.
+(C) I e II, apenas.
+(D) III, apenas.
+(E) II, apenas.
+
+[GABARITO]
+C

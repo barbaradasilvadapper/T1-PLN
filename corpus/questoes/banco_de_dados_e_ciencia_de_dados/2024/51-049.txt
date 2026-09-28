@@ -1,0 +1,18 @@
+ID: 51-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Uma arquitetura de Big Data refere-se ao design e à estrutura dos sistemas e tecnologias usadas para coletar, armazenar, processar, analisar e visualizar grandes volumes de dados, frequentemente com grande velocidade e variedade. As arquiteturas de Big Data podem ser projetadas de maneiras diferentes, dependendo das necessidades específicas de processamento e análise. Em uma arquitetura de Big Data, a camada de processamento
+
+[ALTERNATIVAS]
+(A) armazena grandes volumes de dados brutos de diversas fontes, aguardando análise futura.
+(B) é responsável pela captura e ingestão dos dados em tempo real ou em lotes, organizando-os antes do armazenamento.
+(C) transforma e analisa dados, aplicando algoritmos para extrair insights e gerar resultados para outras camadas.
+(D) gerencia a segurança e o acesso aos dados, garantindo que apenas usuários autorizados possam manipulá-los.
+(E) fornece a interface de visualização de dados, permitindo que os usuários finais interpretem os resultados das análises.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 60-024
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Sistemas de apoio à decisão coletam dados de diversas fontes e precisam realizar diversas operações de limpeza, transformação e integração para carregá-los em um banco de dados analítico pronto para consultas. Para realizar as transformações necessárias nos dados oriundos de diversas fontes, os dados devem ser armazenados temporariamente em um(a):
+
+[ALTERNATIVAS]
+(A) dashboard;
+(B) cubo de dados;
+(C) staging area;
+(D) barramento;
+(E) repositório de metadados.
+
+[GABARITO]
+C

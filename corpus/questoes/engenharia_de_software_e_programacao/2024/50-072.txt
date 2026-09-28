@@ -1,0 +1,18 @@
+ID: 50-072
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Avalie as seguintes afirmativas no contexto de práticas e metodologias de deploy em desenvolvimento mobile: I. A aplicação de Continuous Integration (CI) em aplicativos mobile responsivos é uma prática que visa a fusão e teste do código apenas ao final de cada sprint; II. Continuous Delivery (CD) é parte da filosofia "Mobile First" e permite que toda mudança de código seja automaticamente disponibilizada para os usuários finais, sem a necessidade de aprovação das equipes de operações; III. DevSecOps é a integração da segurança no processo de desenvolvimento de software desde o início sem comprometer a velocidade de entrega.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II e III, apenas.
+(C) III, apenas.
+(D) I, II e III.
+(E) I e II, apenas.
+
+[GABARITO]
+C

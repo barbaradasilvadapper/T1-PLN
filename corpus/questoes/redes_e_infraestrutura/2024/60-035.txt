@@ -1,0 +1,18 @@
+ID: 60-035
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+João, analista de suporte de TI, está trabalhando em um ambiente Linux (Ubuntu) e precisa instalar, configurar e manipular recursos de um novo software. Ele decide usar o terminal para executar a instalação. O comando que João deve usar para instalar o software com sucesso, utilizando o gerenciador de pacotes padrão, é o:
+
+[ALTERNATIVAS]
+(A) chmod +x software_installer.sh e depois ./software_installer.sh
+(B) sudo apt-get install software_name
+(C) mkfs -t ext4 /dev/sdb1
+(D) sudo rm -rf /
+(E) cp/source/software_installer.sh /destination
+
+[GABARITO]
+B

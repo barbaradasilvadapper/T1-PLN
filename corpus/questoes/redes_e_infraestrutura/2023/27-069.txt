@@ -1,0 +1,18 @@
+ID: 27-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A empresa X está aumentando sua rede de clientes e pretende aumentar a capacidade de sua infraestrutura. Ela busca implementar uma rede privativa de armazenamento voltada para conectar e manter disponíveis servidores e storages via LAN ou WAN dentro de um ambiente seguro, preferencialmente redundante e de alta performance. Essa rede privativa deve fazer uso do protocolo Fibre channel ou iSCSI apenas, e armazenar dados em nível de bloco, mesmo que haja um nível maior de complexidade. A rede implementada pela Cloud_tec é uma:
+
+[ALTERNATIVAS]
+(A) SDS;
+(B) NAS;
+(C) SAN;
+(D) DAS;
+(E) LAN.
+
+[GABARITO]
+C

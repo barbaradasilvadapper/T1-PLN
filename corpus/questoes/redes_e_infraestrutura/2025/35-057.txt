@@ -1,0 +1,18 @@
+ID: 35-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Protocolos de rede são conjuntos de regras e padrões que permitem a comunicação entre dispositivos em uma rede. Relacione os protocolos de rede com suas respectivas características. 1. FTP (File Transfer Protocol) 2. SSH (Secure Shell) 3. DNS (Domain Name System) 4. HTTPS (Hypertext Transfer Protocol Secure) ( ) Utilizado para a download e upload de arquivos entre sistemas, empregando as portas padrão números 20 (dados) e 21 (controle). ( ) Responsável por traduzir nomes de domínio em endereços IP, empregando a porta padrão número 53 ( ) Protocolo para acesso remoto seguro a sistemas, que emprega a porta padrão número 22 ( ) Utilizado para a comunicação entre navegadores web e servidores empregando criptografia para proteger os dados transmitidos, pela porta padrão número 443. Assinale a opção que indica a relação correta na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 3 – 2 – 4.
+(B) 1 – 2 – 3 – 4.
+(C) 4 – 1 – 3 – 2.
+(D) 3 – 2 – 1 – 4.
+(E) 1 – 2 – 4 – 3.
+
+[GABARITO]
+A

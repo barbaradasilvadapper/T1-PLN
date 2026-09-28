@@ -1,0 +1,18 @@
+ID: 09-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma equipe de desenvolvimento está trabalhando em um projeto importante usando Scrum. Durante o Daily Scrum, um dos desenvolvedores comenta que está com dificuldades para concluir uma tarefa e provavelmente não conseguirá terminá-la até o fim do Sprint. Diante disso, o Scrum Master sugere que a equipe pense em como reorganizar as tarefas para garantir que o objetivo do Sprint ainda seja alcançado. Para ajudar a equipe a continuar no caminho certo, o Scrum Master deve
+
+[ALTERNATIVAS]
+(A) redistribuir as tarefas por conta própria, sem envolver a equipe, para garantir que tudo seja concluído a tempo.
+(B) incentivar a equipe a discutir o problema e encontrar uma solução colaborativa, removendo qualquer obstáculo, mas sem interferir demais.
+(C) assumir a tarefa do desenvolvedor, garantindo que o prazo seja cumprido.
+(D) escalar o problema ao Product Owner, deixando que ele reorganize as prioridades e tarefas.
+(E) encerrar o Sprint mais cedo, já que a tarefa não será concluída.
+
+[GABARITO]
+B

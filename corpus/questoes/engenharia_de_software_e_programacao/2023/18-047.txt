@@ -1,0 +1,18 @@
+ID: 18-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do JSON, dados (data) usam a notação nome/valor (name/value). O tipo de valor que NÃO é aceito na respectiva sintaxe é:
+
+[ALTERNATIVAS]
+(A) strings com as aspas simples (');
+(B) strings com aspas duplas (");
+(C) um valor booleano;
+(D) um objeto;
+(E) uma função.
+
+[GABARITO]
+E

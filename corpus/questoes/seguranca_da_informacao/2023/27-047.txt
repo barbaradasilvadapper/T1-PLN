@@ -1,0 +1,18 @@
+ID: 27-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em termos de segurança da informação, ao assinar um pacote de dados com a chave privada do certificado digital e permitir que o conteúdo seja verificado no receptor através da chave pública, de acordo com o algoritmo RSA, é possível garantir a:
+
+[ALTERNATIVAS]
+(A) confidencialidade;
+(B) integridade;
+(C) disponibilidade;
+(D) durabilidade;
+(E) acessibilidade.
+
+[GABARITO]
+B

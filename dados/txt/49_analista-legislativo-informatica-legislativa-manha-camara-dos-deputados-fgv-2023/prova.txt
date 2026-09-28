@@ -1,0 +1,1488 @@
+C ÂMARA DOS D EPUTADOS
+C ONCURSO P ÚBLICO – E DITAL 1
+SUA PROVA
+
+Além deste caderno contendo 60 (sessenta)
+questões objetivas e 1 (uma) questão discursiva,
+você receberá do fiscal de prova o cartão de
+respostas e a folha de textos definitivos.
+
+TEMPO
+
+Você dispõe de 4 (quatro) horas para a
+realização da prova, já incluído o tempo para a
+marcação do cartão de respostas e preenchimento
+da folha de textos definitivos.
+
+2 (duas) horas após o início da prova é possível
+retirar-se da sala, sem levar o caderno de prova.
+ A partir dos 30 minutos anteriores ao término da
+prova é possível retirar-se da sala levando o
+caderno de questões.
+NÃO SERÁ PERMITIDO
+
+Qualquer tipo de comunicação entre
+candidatos durante a aplicação da prova.
+os
+
+Anotar informações relativas às respostas em
+qualquer outro meio que não seja o caderno de
+questões.
+
+Levantar da cadeira sem autorização do fiscal de
+sala.
+
+Usar o sanitário ao término da prova, após deixar
+a sala.
+M ANHÃ
+A NALISTA L EGISLATIVO
+T IPO 1 – C INZA
+INFORMAÇÕES GERAIS
+
+Verifique se seu caderno de questões está completo,
+sem repetição de questões ou falhas. Caso contrário,
+notifique imediatamente o fiscal da sala, para que
+sejam tomadas as devidas providências.
+
+Confira seus dados pessoais, especialmente nome,
+número de inscrição e documento de identidade, e
+leia atentamente as instruções para preencher o
+cartão de respostas e a folha de textos definitivos.
+
+Use somente caneta esferográfica, fabricada em
+material transparente, com tinta preta ou azul.
+
+Assine
+seu
+reservado(s).
+nome
+apenas
+no(s)
+espaço(s)
+
+Confira seu cargo, cor e tipo do caderno de questões.
+Caso tenha recebido caderno de cargo, cor ou tipo
+diferente do impresso em seu cartão de respostas ou
+folha de textos definitivos, o fiscal deve ser
+obrigatoriamente informado para o devido registro
+na ata da sala.
+
+Reserve tempo suficiente para o preenchimento do
+seu cartão de respostas e da sua folha de textos
+definitivos.
+O
+preenchimento
+é
+de
+sua
+responsabilidade e não será permitida troca do cartão
+de resposta ou da folha de textos definitivos em caso
+de erro do candidato.
+
+Para fins de avaliação, serão levadas em consideração
+apenas as marcações realizadas no cartão de
+respostas e na folha de textos definitivos.
+
+A FGV coletará as impressões digitais dos candidatos
+na lista de presença.
+
+Os candidatos serão submetidos ao sistema de
+detecção de metais quando do ingresso e da saída de
+sanitários durante a realização das provas.
+Boa sorte!
+I NFORMÁTICA L EGISLATIVA
+
+
+
+Câmara dos Deputados – Concurso Público 2023
+C ONHECIMENTOS G ERAIS
+Língua Portuguesa
+1
+Leia o fragmento a seguir.
+Zélia e Sandra
+Bom dia!
+Logo que, ao meio-dia, encontrei a carta de vocês na caixa de
+correio, tive vontade de responder imediatamente, mas tive que
+esperar esta tarde, o momento em que as outras estavam no
+salão, em torno da tevê, para estar finalmente sozinha na
+cozinha. Brasília, 20 de março
+Em relação à estrutura e aos componentes desse fragmento,
+assinale a afirmativa correta.
+(A) Trata-se de um texto descritivo de fatos, descrição, descrição
+essa que faz parte de uma carta.
+(B) O cumprimento inicial da carta – “Bom dia!” – indica a
+formulação da resposta no dia seguinte ao recebimento da
+carta das amigas.
+(C) O indicador temporal dado pela data é repetido por outro
+marcador temporal no texto da carta.
+(D) O texto mostra um enunciado ancorado na situação de
+enunciação, ou seja, o enunciador se refere ao momento em
+que escreve o texto.
+(E) Os marcadores temporais “ao meio-dia”, “imediatamente”,
+“esta tarde” mostram momentos específicos de tempo.
+2
+Leia o texto de um jornal a seguir.
+Ontem pela manhã, a metade dos funcionários dos correios
+encarregados da distribuição da correspondência interrompeu
+seu trabalho a pedido da CGT. Os funcionários exigiam a
+suspensão de sanções a cinco carteiros e a abertura de
+negociações para uma discussão sobre horário de trabalho.
+A negociação fez com que se suspendessem as sanções,
+levando ao fim da greve. Depois de uma interrupção de trabalho
+por quatro horas, os correios afirmaram que as medidas punitivas
+foram suspensas e que os funcionários aceitaram o novo horário
+de trabalho.
+O trabalho foi retomado normalmente por volta das onze e
+meia da manhã e a correspondência foi inteiramente entregue,
+mesmo que com ligeiro atraso.
+Sobre a estrutura e os componentes desse texto jornalístico,
+assinale a afirmativa correta.
+(A) A expressão “Ontem pela manhã” permite que o leitor situe
+os fatos no calendário.
+(B) A forma do adjetivo “encarregados” está gramaticalmente
+incorreta, devendo ser substituída por “encarregada”.
+(C) O parágrafo 2 informa que o tempo levado nas negociações
+provocou o fim das sanções previstas.
+(D) As expressões “Ontem pela manhã” e “onze e meia da
+manhã” se referem à manhã de dois dias em sequência.
+(E) No segundo parágrafo, a expressão temporal “Depois de uma
+interrupção de trabalho de quatro horas” indica a razão da
+ação seguinte.
+Analista Legislativo (Informática Legislativa)
+3
+Leia o texto a seguir.
+No amanhecer do dia 2 de maio – um dia que se anunciava
+sereno, ensolarado, em suma, um dia como os outros -, uma
+multidão numerosa afluía em direção ao palácio, de todos os
+quarteirões da cidade, e se aglomerava nas grades. Marcelo
+estava aí misturado. Ele havia sabido na véspera, como todo
+mundo, que o Infante Francisco de Paula e sua irmã a princesa
+deviam partir para a França e encontrar o resto da família real.
+Ainda de manhã, Marcelo viu chegar duas vans, que os
+criados encheram de bagagens. Em seguida, depois de alguma
+espera, ele viu sair do palácio uma elegante mulher jovem que
+levava uma criança nos braços.
+Acerca dos indicadores de tempo no texto acima, é correto
+afirmar que
+(A) “No amanhecer do dia 2 de maio” é um indicador temporal
+relativo, pois situa um fato em relação a outros, do mesmo
+texto.
+(B) o segmento “Em seguida, depois de alguma espera” indica
+um momento temporal imediatamente posterior.
+(C) no segmento “Ele havia sabido”, a forma verbal pode ser
+substituída adequadamente por “tinha sabido” ou “soubera”.
+(D) no primeiro período do último parágrafo, as formas verbais
+“viu chegar” e “encheram” indicam ações simultâneas.
+(E) o narrador do texto participa dos fatos narrados, interferindo
+diretamente no enredo.
+4
+A correção gramatical é indispensável a uma boa escrita.
+Assinale a frase que mostra a forma verbal correta.
+(A) A dona de casa já proviu a despensa de todo o necessário.
+(B) Todos os dias nós vimos aqui.
+(C) Elas se maqueiam antes de sair.
+(D) Eles sempre ópitam pelos produtos mais baratos.
+(E) Ela mobília a casa pouco a pouco.
+5
+Assinale a frase em que o sujeito e o agente coincidem.
+(A) O mendigo foi atropelado por um carro em alta velocidade.
+(B) As ondas viraram o barco dos turistas.
+(C) A covid-19 matou muitas pessoas.
+(D) O trabalho é mantido por doações anônimas.
+(E) Os exercícios, todos os alunos os fizeram.
+
+Tipo Cinza – Página 3
+
+Câmara dos Deputados – Concurso Público 2023
+6
+Leia o texto a seguir.
+A união dos confeiteiros do Rio de Janeiro confeccionou, por
+ocasião do quarto centenário da cidade, a praia de Copacabana
+em massa e pasta de amêndoas, num bolo de 400 quilos. O bolo
+representa a praia, os pequenos montes ao redor e inúmeros
+outros detalhes. Os realizadores deste doce monumental esperam
+angariar uma grande soma de dinheiro já que será dividido em
+1000 pedaços, que serão vendidos a R$20 cada um. Os trinta
+confeiteiros que o fabricaram utilizaram 2000 ovos, 150kg de
+farinha e 50 litros de leite, além de xaropes variados.
+Assinale a opção que indica corretamente o paciente da forma
+verbal destacada e a sua função sintática.
+(A) confeccionou: a praia de Copacabana em massa e pasta de
+amêndoas / objeto direto.
+(B) representa: a praia / objeto direto.
+(C) esperam angariar: uma grande soma de dinheiro / adjunto
+adverbial.
+(D) será vendido: pedaços / sujeito.
+(E) utilizaram: os trinta confeiteiros / sujeito.
+7
+Leia o texto a seguir.
+Leve e equilibrada. A água mineral de Caxambu retira
+lentamente sua pureza do coração das montanhas de Minas.
+Pouco mineralizada, essa água mineral pode ser bebida por
+todos, em todos os momentos do dia.
+Sobre a estrutura e os componentes desse pequeno texto,
+assinale a afirmativa correta.
+(A) O autor do texto tem por finalidade mostrar a pureza da água
+mineral, apresentando-a como produto valorizador do estado
+de Minas Gerais e de consumo amplo e medicamentoso.
+(B) Sendo um texto de fundo argumentativo, a tese está
+localizada no primeiro período do texto.
+(C) Trata-se de um texto informativo que elogia as qualidades de
+um produto destacado e dirige-se ao potencial consumidor
+de água mineral.
+(D) Os adjetivos inicialmente destacados funcionam como uma
+estratégia de suspense já que indicam qualidades sem a
+identificação do que é por eles qualificado.
+(E) A forma verbal “retira” está empregada no sentido figurado
+com o valor de ação praticada involuntariamente.
+8
+Observe as duas frases a seguir.
+1. Ele quis entrar, mas a porta estava fechada.
+2. A porta estava fechada pelo porteiro.
+Sobre a estruturação e o significado dessas frases, assinale a
+afirmativa correta.
+(A) As duas frases mostram ações atribuídas a um agente
+identificável.
+(B) A primeira frase focaliza o resultado de uma ação e não a
+ação propriamente dita.
+(C) As duas frases centralizam seus interesses em ações e não em
+fatos.
+(D) As duas frases mostram construções de voz passiva.
+(E) Os textos explicativos procuram omitir algumas informações,
+como na primeira frase, a fim de atrair a atenção do leitor.
+Analista Legislativo (Informática Legislativa)
+9
+Houve um requerimento, esta semana, da Associação de Policiais,
+para que fossem aumentados seus salários, argumentando, entre
+outros pontos, que isso ajudaria a combater a corrupção entre
+eles.
+Nesse requerimento, o argumento apresentado mostra o
+seguinte problema:
+(A) A fundamentação da argumentação na autoridade da própria
+polícia.
+(B) Uma analogia mal estabelecida entre a atividade policial e
+outras atividades menos honestas.
+(C) A falta de credibilidade da polícia, cujo pensamento se volta
+unicamente para o benefício próprio.
+(D) A ilogicidade argumentativa, pois isso equivaleria a dizer que
+só os mais pobres se corrompem.
+(E) Uma generalização excessiva, já que nem todos os policiais
+são corruptos.
+10
+Assinale a frase em que o vocábulo “mais” tem valor de
+intensidade e não de quantidade.
+(A) As coisas de mais beleza são as que a loucura inspira.
+(B) Não desejes e serás o homem mais rico do mundo.
+(C) Tento manter o mesmo penteado por mais tempo.
+(D) Os homens têm mais desejos ocultos que as mulheres.
+(E) Eu não podia acreditar que havia mais múmias no Egito.
+11
+A preposição “a” indica valores semânticos variados.
+Assinale a frase que possui valor semântico, não sendo
+gramaticalmente exigida por nenhum termo anterior.
+(A) É preferível guerrear contra homens a lutar contra uma
+mulher.
+(B) Eu não gostaria de pertencer a nenhuma mulher que me
+aceitasse como marido.
+(C) Não conheço o seu ex-marido, mas começo a me solidarizar
+com ele.
+(D) A mulher jamais se esquece do seu sexo. Prefere falar com
+um homem a falar com um anjo.
+(E) Um casamento bem-sucedido é um edifício que deve ser
+reconstruído a cada dia.
+12
+Assinale a frase em que há erro de concordância nominal.
+(A) Os escoteiros partiram meio desanimados.
+(B) A escola estava toda pintada de verde e amarelo.
+(C) Vai anexo a documentação pedida.
+(D) Os quadros eram o mais belos possível.
+(E) Elas mesmas são as autoras do delito.
+
+Tipo Cinza – Página 4
+
+Câmara dos Deputados – Concurso Público 2023
+Língua Inglesa
+Read Text I and answer the three questions that follow it.
+Text I
+Generative Art – What’s real?
+There is nothing new about the concept and creation of
+‘artificial intelligence art’ or ‘generative art’. However, discussion
+of its legal and ethical or societal implications (both intended and
+unintended) hit the headlines last week.
+Boris Eldagsen refused his Sony World Photography Award
+2023 prize in the creative open category on the basis that his
+entry was the product of artificial intelligence. Mr Eldagsen
+himself has sparked the latest debate by claiming that “AI is not
+photography” and that the rationale for entering the Awards with
+the work in question was “…to find out if the competitions are
+prepared for AI images to enter. They are not”.
+The reaction of the World Photography Organisation (running
+the Sony Awards) has been to acknowledge the need for an
+element of human involvement, which is the crux of the debate:
+“While elements of AI practices are relevant in artistic contexts of
+image-making, the Awards always have been and will continue to
+be a platform for championing the excellence and skill of
+photographers and artists working in this medium”.
+[…]
+The conventional (and long assumed) approach has been to
+recognise the importance of the human hand to an artwork. The
+question then is: to what extent is the human creator or inputter
+the ‘artist’ as opposed to the generative system or is the system
+merely representing the human creator or inputter’s artistic
+idea? Flowing from that question is what that might then mean in
+terms of the ownership and value of such works. The debate
+looks set to continue in this particular context of imagery creation
+and reproduction coinciding with the increasing availability and
+use of consumer-grade AI image generation programmes, and
+the natural inclination of artists to continue to create.
+Adapted from https://www.rosenblatt-law.co.uk/insight/generative-art-whats-real/
+13
+Based on Text I, mark the statements below as true (T) or
+false (F).
+( ) The dawning of generative art has given rise to a quandary.
+( ) The winner mentioned was thrilled with the prize he was
+awarded.
+( ) The organization responsible for the award stood by their
+earlier statement that AI yields finer art than that of humans.
+The statements are, respectively,
+(A) F – T – T.
+(B) F – T – F.
+(C) T – F – F.
+(D) F – F – T.
+(E) T – T – F.
+Analista Legislativo (Informática Legislativa)
+14
+In the first paragraph, the relation between the two sentences is
+one of
+(A) contrast.
+(B) condition.
+(C) correlation.
+(D) consequence.
+(E) concomitance.
+15
+The phrase “The crux of the debate” (3 rd paragraph) is the same
+as the
+(A) flaw of the contest.
+(B) heart of the matter.
+(C) growth of the argument.
+(D) outcome of the problem.
+(E) windup of the discussion.
+Read Text II and answer the seven questions that follow it
+Text II
+Boy cries Wolf
+After astonishing breakthroughs in artificial intelligence,
+many people worry that they will end up on the economic
+scrapheap. Global Google searches for “is my job safe?” have
+doubled in recent months, as people fear that they will be
+replaced with large language models (LLMS). Some evidence
+suggests that widespread disruption is coming. In a recent paper
+Tyna Eloundou of OpenAI and colleagues say that “around 80% of
+the US workforce could have at least 10% of their work tasks
+affected by the introduction of LLMS”. Another paper suggests
+that legal services, accountancy and travel agencies will face
+unprecedented upheaval.
+Economists, however, tend to enjoy making predictions about
+automation more than they enjoy testing them. In the early
+2010s many of them loudly predicted that robots would kill jobs
+by the millions, only to fall silent when employment rates across
+the rich world rose to all-time highs. Few of the doom-mongers
+have a good explanation for why countries with the highest rates
+of tech usage around the globe, such as Japan, Singapore and
+South Korea, consistently have among the lowest rates of
+unemployment.
+Here we introduce our first attempt at tracking AI’s impact on
+jobs. Using American data on employment by occupation, we
+single out white-collar workers. These include people working in
+everything from back-office support and financial operations to
+copy-writers. White-collar roles are thought to be especially
+vulnerable to generative AI, which is becoming ever better at
+logical reasoning and creativity.
+However, there is as yet little evidence of an AI hit to
+employment. In the spring of 2020 white-collar jobs rose as a
+share of the total, as many people in service occupations lost
+their job at the start of the covid-19 pandemic. The white-collar
+share is lower today, as leisure and hospitality have recovered.
+Yet in the past year the share of employment in professions
+supposedly at risk from generative AI has risen by half a
+percentage point.
+
+Tipo Cinza – Página 5
+
+Câmara dos Deputados – Concurso Público 2023
+It is, of course, early days. Few firms yet use generative-AI
+tools at scale, so the impact on jobs could merely be delayed.
+Another possibility, however, is that these new technologies will
+end up destroying only a small number of roles. While AI may be
+efficient at some tasks, it may be less good at others, such as
+management and working out what others need.
+AI could even have a positive effect on jobs. If workers using
+it become more efficient, profits at their company could rise
+which would then allow bosses to ramp up hiring. A recent survey
+by Experis, an IT-recruitment firm, points to this possibility. More
+than half of Britain’s employers expect AI technologies to have a
+positive impact on their headcount over the next two years, it
+finds.
+To see how it all shakes out, we will publish updates to this
+analysis every few months. But for now, a jobs apocalypse seems
+a way off.
+From The Economist June 17 th 2023, p. 71
+16
+Based on Text II, mark the statements below as TRUE (T) or FALSE
+(F).
+( ) Many believe AI will eventually make jobs redundant.
+( ) The conclusion of the text is that the current outlook
+regarding employment is rather bleak.
+( ) The authors prefer to probe forthcoming evidence before
+issuing unequivocal accounts.
+The statements are, respectively,
+(A) F – T – T.
+(B) F – T – F.
+(C) T – T – F.
+(D) F – F – T.
+(E) T – F – T.
+17
+The title of the article means to
+(A) issue a false alarm.
+(B) keep one’s eye open.
+(C) be hot and bothered.
+(D) beware of wild animals.
+(E) bear in mind the environment.
+18
+The adjective in “astonishing breakthroughs” (1 st paragraph) is
+similar in meaning to
+(A) struggling.
+(B) straining.
+(C) strutting.
+(D) striking.
+(E) striving.
+19
+If someone ends up “on the economic scrapheap” (1 st paragraph),
+this person will feel
+(A) light-minded.
+(B) downcast.
+(C) laid-back.
+(D) shrewd.
+(E) coaxed.
+Analista Legislativo (Informática Legislativa)
+20
+By calling some economists “doom-mongers” in “Few of the
+doom-mongers have a good explanation” (2 nd paragraph), the
+authors
+(A) preserve their aloofness.
+(B) advance their support.
+(C) pour out their praise.
+(D) express their dissent.
+(E) expose their glee.
+21
+In the last sentence of the first paragraph, when the paper
+mentions an “upheaval”, it refers to the possibility of a future
+(A) dispassion.
+(B) contempt.
+(C) stillness.
+(D) derision.
+(E) turmoil.
+22
+“as yet” in “there is as yet little evidence” (4th paragraph) can be
+replaced without significant change of meaning by
+(A) even though.
+(B) pretty near.
+(C) thus far.
+(D) at least.
+(E) after all.
+Direito Constitucional e Regimento
+Interno da Câmara dos Deputados
+23
+Ingo, de nacionalidade alemã, era casado com Brigitte, de
+nacionalidade austríaca. Dessa união, nasceu Júlia, que se
+naturalizou mexicana. Ingo tinha um apartamento no Brasil, onde
+a família passava férias regularmente e que passou a ser a
+residência de Júlia nos três últimos anos, considerando a sua
+afinidade com a cultura brasileira.
+Com o falecimento de Ingo, Júlia consultou um advogado a
+respeito da aplicação, ou não, da lei brasileira, na disciplina da
+sucessão do referido apartamento.
+À luz da Constituição da República de 1988, o advogado
+respondeu corretamente que a sucessão do referido
+apartamento
+(A) a exemplo do que se verifica com qualquer bem situado no
+Brasil, sempre será regida pela lei brasileira.
+(B) será regida pela lei brasileira caso não seja mais favorável a
+Brigitte e a Júlia a lei pessoal do de cujus.
+(C) será regida, ou não, pela lei brasileira, conforme a opção de
+Brigitte e de Júlia;
+(D) em razão das circunstâncias do caso concreto, será regida
+pela lei brasileira.
+(E) sempre será regida pela lei do país do último domicílio do de
+cujus.
+
+Tipo Cinza – Página 6
+
+Câmara dos Deputados – Concurso Público 2023
+24
+Pedro, Deputado Federal, recebeu, na última semana, diversos
+representantes do funcionalismo público nos segmentos
+estadual, distrital e municipal, ocasião em que solicitaram a
+apresentação de projeto de lei ordinária dispondo sobre a
+disciplina a ser observada pelos entes federativos que
+desejassem instituir regimes próprios de previdência social.
+Após ouvir todos os segmentos interessados, Pedro concluiu
+corretamente, à luz da sistemática constitucional, que a
+proposição
+(A) seria inconstitucional, pois a instituição dos regimes
+alvitrados é vedada.
+(B) deve ter a forma de lei complementar, por veicular normas
+nacionais a respeito da referida temática.
+(C) é de iniciativa privativa do Presidente da República, por dizer
+respeito aos servidores públicos de outras unidades
+federativas.
+(D) seria inconstitucional, pois a instituição dos regimes próprios
+deve ser realizada por cada ente federativo, em razão de sua
+autonomia política.
+(E) pode ser de iniciativa parlamentar, considerando que o
+regime previdenciário não apresenta correlação necessária
+com o regime jurídico dos servidores públicos.
+25
+Maria, servidora pública federal ocupante de cargo de
+provimento efetivo, após cumprir os requisitos para a
+aposentadoria voluntária, teve sua aposentadoria deferida pela
+autoridade federal competente.
+Essa autoridade, seguindo orientação de um assessor,
+encaminhou ao Tribunal de Contas da União (TCU), dias depois, o
+processo administrativo que resultou no ato de aposentação.
+O Tribunal, ao apreciar o caso no ano seguinte, identificou o não
+preenchimento do requisito do tempo de contribuição mínimo e
+se negou a realizar o registro do ato, sem ter ouvido previamente
+Maria.
+Considerando os termos dessa narrativa, à luz dos balizamentos
+estabelecidos pela Constituição da República de 1988, é correto
+afirmar que
+(A) a negativa de registro foi irregular, considerando a não
+observância da garantia do contraditório.
+(B) o ato de aposentação de Maria somente produziria efeitos
+financeiros após o seu registro no TCU, o que não ocorreu.
+(C) por não ter identificado os requisitos exigidos para o ato de
+aposentação, o TCU agiu corretamente ao negar o registro.
+(D) o TCU só deveria apreciar a juridicidade do ato de
+aposentação se tivesse sido impugnado, o que não ocorreu.
+(E) o processo administrativo não deveria ter sido encaminhado
+ao TCU, considerando que Maria ocupava cargo em comissão.
+Analista Legislativo (Informática Legislativa)
+26
+Maria e Helena, estudiosas do direito constitucional, travaram
+intenso debate a respeito da possibilidade, ou não, de o não
+pagamento da dívida pública ensejar a decretação de intervenção
+federal, pelo Presidente da República, em algum Estado da
+Federação.
+Maria defendia que a suspensão do pagamento da dívida pública,
+desde que flutuante, poderia ensejar essa medida, que se daria
+na modalidade de intervenção espontânea. Helena, por sua vez,
+apregoava que a suspensão do pagamento da dívida pública,
+desde que consolidada, permitiria a adoção dessa medida, que
+observaria a modalidade de intervenção provocada.
+Inês, ao analisar o posicionamento de Maria e Helena, concluiu
+corretamente, à luz da sistemática constitucional, considerando,
+de um lado, o fato deflagrador da intervenção, e, do outro, de
+modo autônomo, a respectiva modalidade de intervenção, na
+perspectiva da suspensão do pagamento da dívida pública, que
+(A) ambas estavam totalmente certas.
+(B) ambas estavam totalmente erradas.
+(C) Maria e Helena estavam parcialmente certas.
+(D) Helena estava completamente certa e Maria, parcialmente
+certa.
+(E) Maria estava completamente certa e Helena, parcialmente
+certa.
+27
+No início de determinada legislatura, houve grande
+movimentação no âmbito da Câmara dos Deputados para a
+escolha dos denominados Líderes.
+João, servidor do Partido Político Alfa, ao se inteirar sobre as
+regras a serem observadas nesse processo de escolha, concluiu
+corretamente, à luz do Regimento Interno da Câmara dos
+Deputados, que a referida escolha
+(A) somente está ao alcance dos partidos políticos.
+(B) uma vez realizada, os respectivos agentes não poderão
+integrar a Mesa.
+(C) deve recair sobre Deputados Federais que ocupem o primeiro
+quinto da lista de mais votados de cada partido político.
+(D) uma vez realizada, os líderes permanecerão no exercício de
+suas funções até o fim de cada sessão legislativa ordinária.
+(E) pode ser realizada pelos partidos políticos e pelos blocos
+parlamentares, sendo admitidos dois vice-líderes para cada.
+
+Tipo Cinza – Página 7
+
+Câmara dos Deputados – Concurso Público 2023
+28
+Joana, servidora pública do Estado Alfa, foi eleita Deputada
+Federal, mas iniciara o gozo de licença maternidade dias antes da
+primeira sessão preparatória para a instalação da primeira sessão
+legislativa da legislatura.
+Observados os termos da narrativa, é correto afirmar que a posse
+de Joana, nos termos do Regimento Interno da Câmara dos
+Deputados
+(A) é necessariamente realizada de modo virtual, a exemplo do
+que se verifica com a generalidade dos parlamentares que
+não tomem posse presencial no prazo de 30 (trinta) dias,
+contado da referida sessão preparatória.
+(B) somente pode ocorrer após o término da licença gestante,
+salvo requerimento de antecipação subscrito pelo líder do
+partido político ao qual Joana está filiada.
+(C) só pode ocorrer de modo presencial, iniciando-se o limite
+temporal para a sua realização após o término da licença
+gestante.
+(D) deve ser necessariamente realizada no prazo de 30 (trinta)
+dias, prorrogável por igual período, contado da referida
+sessão preparatória.
+(E) pode ocorrer de modo virtual, a requerimento de Joana,
+devidamente acompanhado da declaração de parto em
+período inferior a 120 (cento e vinte) dias.
+Direito Administrativo
+29
+As autoridades competentes no âmbito da Câmara dos
+Deputados almejam realizar um procedimento de manifestação
+de interesse, com vistas a viabilizar que a iniciativa privada
+contribua com soluções tecnológicas inovadoras, que possam
+causar impacto de relevância pública na otimização de suas
+atividades, sendo certo que pretende restringir a participação em
+tal procedimento às chamadas startups.
+Diante da mencionada situação hipotética, à luz do disposto na
+Lei nº 14.133/2021, é correto afirmar que
+(A) a realização do procedimento em apreço importará, por si só,
+direito a ressarcimento de valores envolvidos na elaboração
+de estudos e projetos que venham a ser apresentados.
+(B) se a solução tecnológica apresentada vier a dar ensejo à
+contratação, a remuneração será realizada somente pelo
+licitante vencedor, vedada, em qualquer hipótese, a cobrança
+de valores do Poder Público.
+(C) a realização de tal procedimento, atribuirá àquele que
+apresentou a solução tecnológica que venha a ser
+selecionada o direito de preferência no processo licitatório a
+ser realizado para a respectiva contratação.
+(D) não há possibilidade de restringir a participação no
+procedimento em questão às startups, por ausência de
+autorização legislativa para tanto e sob pena de violar o
+princípio da isonomia.
+(E) caso venha a ocorrer a aceitação de uma solução apresentada
+nos parâmetros indicados no mencionado procedimento, nos
+termos da lei, a Administração será obrigada a realizar
+procedimento licitatório para promover a sua contratação.
+Analista Legislativo (Informática Legislativa)
+30
+Jaqueline e Isabel são amigas muito próximas que tiveram que
+realizar o tratamento de dados pessoais no exercício de suas
+atividades profissionais, sendo certo que Jaqueline o fez para fim
+exclusivamente jornalístico e Isabel, para fim exclusivamente
+acadêmico.
+Elas estão debatendo a aplicabilidade da Lei nº 13.709/2018 em
+cada um dos casos especificados, de modo que concluíram
+corretamente que tal norma
+(A) deve ser aplicada em ambas as situações, na medida em que
+as pessoas naturais em tais circunstâncias são consideradas
+controladoras dos dados.
+(B) deve ser aplicada no tratamento de dados realizado por
+Jaqueline, em decorrência da correlação com a atividade
+jornalística.
+(C) não dever ser aplicada em nenhuma das situações descritas,
+pelo simples fato de o tratamento ter sido realizado por
+pessoas naturais, independente da finalidade.
+(D) não deve ser aplicada na situação de Isabel, que deve
+respeitar as hipóteses em que é possível o tratamento de
+dados pessoais e dos dados sensíveis previstos na norma.
+(E) deve ser aplicada em ambas as hipóteses, salvo se Isabel e
+Jaqueline demonstrarem que realizaram o tratamento para
+fins pessoais e não econômicos.
+31
+Felício é servidor público federal estável, ocupante do cargo de
+analista legislativo da Câmara dos Deputados. Ele almeja pleitear
+a reconsideração de uma decisão administrativa que indeferiu
+pedido de licença para tratamento de assuntos pessoais por ele
+formulada, por acreditar que tem direito ao benefício pleiteado
+em razão de argumentos que não foram considerados pela
+autoridade que proferiu a primeira decisão.
+Acerca dessa situação hipotética, à luz do direito de petição
+consagrado na Lei nº 8.112/1990, é correto afirmar que
+(A) em caso de provimento do pedido de reconsideração, os
+efeitos da decisão retroagirão à data do ato impugnado.
+(B) o pedido de reconsideração deverá ser recebido com efeito
+suspensivo, independentemente de juízo da autoridade
+competente.
+(C) o pedido de reconsideração deve ser direcionado para a
+autoridade que proferiu tal primeira decisão e poderá ser
+renovado, caso não seja acolhido.
+(D) não é cabível apresentar pedido de reconsideração, pois a
+mencionada norma prevê apenas o recurso hierárquico para
+tal finalidade.
+(E) o pedido de reconsideração deve ser apresentado no prazo
+de dez dias, a contar da publicação ou ciência da decisão
+recorrida.
+
+Tipo Cinza – Página 8
+
+Câmara dos Deputados – Concurso Público 2023
+32
+Ao realizar um levantamento acerca das alegações de defesa da
+União nas ações indenizatórias em decorrência da
+responsabilidade civil do Estado ajuizadas em face do
+mencionado ente federativo, Kelvin verificou que: em algumas
+situações, foi alegada a culpa concorrente da vítima para o
+evento danoso; em outras, foi sustentada a existência de fato
+exclusivo de terceiro; além daquelas em que foi argumentado
+que os danos decorreram de caso fortuito ou força maior.
+Diante de tais circunstâncias, Kelvin concluiu que causas
+excludentes da responsabilidade civil do Estado
+(A) estão realmente caracterizadas em todas as hipóteses
+analisadas.
+(B) não estão caracterizadas em nenhuma das hipóteses
+analisadas.
+(C) estão realmente caracterizadas apenas nas alegações de caso
+fortuito e força maior.
+(D) estão realmente caracterizadas nas alegações de culpa
+concorrente da vítima e de fato exclusivo de terceiro.
+(E) estão realmente caracterizadas nas alegações de fato
+exclusivo de terceiro, além daquelas de caso fortuito e força
+maior.
+33
+Maristela pleiteou determinado ato vinculado junto à
+Administração Pública, mediante a apresentação de
+documentação que comprova o preenchimento de todos os
+requisitos previstos em lei.
+Ocorre que o ato em questão foi negado pela autoridade
+competente, exclusivamente, sob a seguinte fundamentação
+genérica: “Indeferido, pois não atende ao interesse público”.
+Diante dessa situação hipotética, considerando as normas
+acerca da motivação dos atos administrativos constantes da
+Lei nº 9.784/1999, é correto afirmar que
+(A) é adequada a conduta da Administração Pública porque a
+motivação apresentada se revela suficiente para o
+indeferimento do ato vinculado em questão, ao invocar o
+interesse público.
+(B) é inadequada a conduta da Administração Pública porque
+ainda que o indeferimento seja de ato vinculado, a motivação
+é necessária e deve ser clara, explícita e congruente.
+(C) é adequada a conduta da Administração Pública em razão de
+o indeferimento da licença ser ato vinculado, que sequer
+precisa de motivação.
+(D) é adequada a conduta da Administração Pública pois, apesar
+de o ato ser vinculado, sempre há margem de escolha para o
+Poder Público indeferir os pedidos efetuados com
+fundamento no interesse público.
+(E) é inadequada a conduta da Administração Pública
+considerando que motivação é sinônimo de motivo que deve
+ser considerado elemento ou requisito do ato administrativo,
+a viabilizar a invocação da teoria dos motivos determinantes.
+Analista Legislativo (Informática Legislativa)
+34
+Recentemente, Gerusa estava lendo matéria jornalística que
+mencionava o sucesso de determinado termo de parceria
+formalizado entre a União e determinada organização da
+sociedade civil de interesse público – OSCIP, qualificação que
+teria sido obtida por determinada cooperativa que desenvolve
+atividade de relevante interesse social.
+Ocorre que Gerusa vem estudando para concurso público e
+decidiu aprofundar o seu aprendizado em relação à organização
+administrativa e ao terceiro setor, vindo a concluir, acerca dos
+fatos mencionados na referida notícia, que ela
+(A) está em consonância com o ordenamento jurídico,
+notadamente porque o termo de parceria deve ser
+formalizado com órgãos e entidades administrativas, que é o
+caso da aludida OSCIP.
+(B) está em desconformidade com o ordenamento jurídico, na
+medida em que os instrumentos a serem formalizados com as
+OSCIP são o termo de colaboração e o termo de fomento,
+considerando que tal entidade não integra o conceito de
+Administração Pública.
+(C) não está de acordo com o ordenamento jurídico, pois a
+cooperativa não poderia ter obtido a qualificação como
+OSCIP, apesar de o instrumento formalizado com tais
+entidades do terceiro setor ser o mencionado termo de
+parceria.
+(D) não tem qualquer mácula perante o ordenamento jurídico,
+especialmente porque a OSCIP é uma pessoa jurídica de
+direito privado, sem fins lucrativos, que integra a
+Administração Indireta, com a qual o instrumento adequado
+a ser formalizado é o termo de parceria.
+(E) está em conformidade com a ordenamento jurídico, que
+admite a formalização de diversos instrumentos com a OSCIP,
+dentre os quais o aludido termo de parceria, além do
+contrato de gestão.
+35
+Ao ser aprovado em determinado concurso público, Clóvis
+decidiu rememorar as condutas especificadas na Lei nº 8.429/92,
+com a redação conferida pela Lei nº 14.230/2021, que estão
+entre os atos de improbidade que atentam contra os princípios
+da Administração Pública, concluindo corretamente que entre
+elas se enquadra a de
+(A) liberar verba pública sem a estrita observância das normas
+pertinentes ou influir de qualquer forma para a sua aplicação
+irregular.
+(B) exercer atividade de consultoria ou assessoramento para
+pessoa física ou jurídica que tenha interesse suscetível de ser
+atingido ou amparado por ação ou omissão decorrente de
+suas atribuições.
+(C) revelar ou permitir que chegue ao conhecimento de terceiro,
+antes da respectiva divulgação oficial, teor de medida política
+ou econômica capaz de afetar o preço de mercadoria, bem ou
+serviço.
+(D) perceber vantagem econômica para intermediar a liberação
+ou aplicação de verba pública de qualquer natureza.
+(E) permitir ou facilitar a aquisição, permuta ou locação de bem
+ou serviço por preço superior ao de mercado.
+
+Tipo Cinza – Página 9
+
+Câmara dos Deputados – Concurso Público 2023
+36
+Na hipótese de a União decidir editar uma lei que altere a forma
+de cálculo da remuneração de certa carreira de servidores
+públicos federais que exercem atividade tipicamente
+administrativa, a fim de determinar que ela será realizada por
+meio de subsídio, à luz dos ditames Constitucionais acerca dos
+agentes públicos, é correto afirmar que
+(A) não poderá ser adotado o subsídio para o pagamento dos
+servidores de carreira administrativa, na medida em que é
+espécie remuneratória exclusiva dos membros de Poder.
+(B) não poderá ser adotado o subsídio para os servidores que já
+ocupem os respectivos cargos efetivos, na medida em que há
+direito adquirido a imutabilidade de regime jurídico quanto à
+forma de cálculo da remuneração dos servidores.
+(C) poderá ser adotado o subsídio, mediante a manutenção e
+pagamento simultâneo de outras verbas remuneratórias da
+respectiva carreira, tais como adicionais, gratificações e
+abonos que tenham sido estabelecidos por lei.
+(D) deverá ser adotado o subsídio para fins de adequação da
+remuneração de tais agentes aos ditames constitucionais, na
+medida em que os servidores de carreira administrativa
+devem, necessariamente, receber pela mencionada espécie
+remuneratória.
+(E) poderá ser adotado o subsídio como parcela única, que inclua
+os valores atinentes aos acréscimos pecuniários de natureza
+remuneratória pagos a mencionada carreira, desde que
+preservada a irredutibilidade de vencimentos.
+37
+No regular exercício do poder de polícia, os agentes competentes
+da Administração Pública podem escolher o melhor momento
+para realizar a respectiva fiscalização, bem como devem
+determinar a sanção mais adequada ao caso concreto,
+notadamente nas situações em que duas ou mais penalidades
+sejam previstas para certa infração.
+Tais situações retratam o atributo da
+(A) discricionariedade.
+(B) coercibilidade.
+(C) autoexecutoriedade.
+(D) consensualidade.
+(E) exigibilidade.
+Analista Legislativo (Informática Legislativa)
+38
+Determinada autoridade competente de um órgão de
+investigação em âmbito federal fez editar um Ofício
+determinando que todas as informações e documentos incluídos
+no sistema eletrônico de informações do respectivo órgão são de
+acesso restrito ou sigiloso, vedando, por conseguinte,
+genericamente, o acesso público a qualquer dado daquela
+repartição.
+Considerando as normas constantes do ordenamento pátrio
+sobre o acesso à informação e o entendimento do Supremo
+Tribunal Federal acerca do tema, é correto afirmar que o
+mencionado Ofício
+(A) é válido, na medida em que indica as situações em que a
+imposição de restrição ou sigilo é viável.
+(B) é nulo, porque qualquer ato restritivo da publicidade deve ser
+motivado de forma concreta, objetiva, específica e formal.
+(C) é válido, diante da viabilidade de restrição genérica ao acesso
+de informações, para assegurar a intimidade e a vida privada
+das pessoas a que digam respeito.
+(D) é nulo, pois não é possível a restrição de qualquer
+informação, ainda que relativa à segurança da sociedade e do
+Estado.
+(E) é válido, por se tratar de uma mitigação do princípio da
+publicidade respaldada pela Constituição da República de
+1988.
+39
+Suponha que a União pretenda realizar um contrato que preveja
+a operação continuada de sistemas estruturantes de tecnologia
+da informação.
+Nesse caso, de acordo com o disposto na Lei nº 14.133/2021, é
+correto afirmar que, cumpridas as devidas formalidades legais, a
+duração máxima de tal contrato terá prazo
+(A) de até cinco anos.
+(B) de até vinte anos.
+(C) de até quinze anos.
+(D) de até trinta e cinco anos.
+(E) indeterminado.
+
+Tipo Cinza – Página 10
+
+Câmara dos Deputados – Concurso Público 2023
+40
+Os representantes das sociedades Gama e Beta estão debatendo
+sobre as impugnações que apresentaram perante a
+Administração Pública Federal relacionadas a decisões
+administrativas distintas que surtiram efeitos na esfera jurídica
+de cada uma delas, diante do receio de terem as respectivas
+situações agravadas.
+No caso da sociedade Gama, o processo administrativo está em
+fase de recurso; já no da sociedade Beta, foi apresentado pedido
+de revisão de determinada sanção, seis anos após a penalidade,
+em razão do surgimento de fatos novos que comprovam a
+inadequação da penalidade então aplicada.
+Diante dessa situação hipotética, à luz do disposto na
+Lei nº 9.784/1999, é correto afirmar que
+(A) não há possibilidade de agravamento da situação jurídica de
+nenhuma das referidas sociedades, diante da vedação
+expressa tanto na hipótese de recurso quanto na de revisão.
+(B) operou-se a prescrição do pedido de revisão realizado pela
+sociedade Beta, considerando que o prazo máximo para tanto
+é de cinco anos.
+(C) é possível o agravamento da situação jurídica da sociedade
+Gama, hipótese em ela deverá ser cientificada para que
+formule suas alegações antes da decisão do recurso.
+(D) é viável o agravamento da situação jurídica de ambas as
+sociedades, em decorrência do princípio da autotutela da
+Administração.
+(E) apenas a sociedade Beta deve se preocupar com a
+possibilidade de agravamento da sanção no âmbito do pedido
+revisional, pois tal modificação não é possível em sede de
+recurso.
+41
+As trigêmeas Mariana, Marcela e Miriam foram investidas no
+serviço público mediante aprovação em concursos públicos
+distintos na área da tecnologia da informação: Mariana para
+emprego público em empresa pública federal, Marcela para cargo
+de analista legislativo da Câmara dos Deputados e Miriam para
+certa autarquia federal.
+Considerando as disposições constitucionais acerca dos agentes
+públicos, é correto afirmar que
+(A) Miriam e Mariana devem ser submetidas ao regime jurídico
+trabalhista.
+(B) Mariana poderia ter sido investida no emprego público em
+questão sem a realização de concurso público.
+(C) apenas Marcela terá direito à disponibilidade, caso adquira a
+estabilidade, na hipótese de o cargo que ocupa ser declarado
+extinto ou desnecessário.
+(D) o regime jurídico único dos servidores públicos federais deve
+ser aplicado nas situações de Marcela e Miriam, mas não na
+de Mariana.
+(E) as três irmãs terão direito à estabilidade no serviço público
+após três anos de efetivo exercício, mediante aprovação em
+avaliação especial de desempenho.
+Analista Legislativo (Informática Legislativa)
+42
+Autoridades competentes da União verificaram que determinado
+ato administrativo discricionário foi regularmente deferido com
+base na legislação então vigente, de modo que não possuía
+qualquer vício, mas que a superveniência de lei fez com que ele
+se tornasse incompatível com o ordenamento jurídico.
+Nesse caso, é correto afirmar que tal situação deveria ensejar a
+(A) caducidade do ato administrativo.
+(B) revogação do ato administrativo.
+(C) convalidação do ato administrativo.
+(D) cassação do ato administrativo.
+(E) anulação do ato administrativo.
+43
+Ao definir o objeto da contratação de um determinado serviço na
+área de tecnologia da informação a Administração Pública
+verificou que haverá necessidade promover debates com
+licitantes previamente selecionados mediante critérios objetivos,
+com o intuito de desenvolver uma ou mais alternativas capazes
+de atender às suas necessidades, após o que serão apresentadas
+as respectivas propostas.
+A modalidade de licitação prevista na Lei nº 14.133/2021
+pertinente para a situação descrita é
+(A) o convite.
+(B) o concurso.
+(C) a concorrência.
+(D) o diálogo competitivo.
+(E) o pregão.
+44
+Janderson e Rosângela são amigos de longa data e estavam
+estudando juntos para certo concurso público em âmbito federal,
+quando decidiram se aprofundar na temática atinente ao decreto
+autônomo, concluindo ambos corretamente que se trata da
+edição de ato normativo pelo Presidente da República
+(A) para a fiel execução da lei.
+(B) que não tem qualquer respaldo constitucional.
+(C) que é considerado contrário à lei.
+(D) que não pode impor obrigações nem restringir direitos.
+(E) que inova no ordenamento jurídico e busca o seu
+fundamento de validade diretamente na Constituição.
+
+Tipo Cinza – Página 11
+
+Câmara dos Deputados – Concurso Público 2023
+Raciocínio Lógico-Matemático
+45
+Um campeonato de futebol é disputado por 8 equipes. A equipe
+vencedora de um jogo ganha 3 pontos, a equipe perdedora não
+ganha ponto. Em caso de empate, as duas equipes ganham
+1 ponto. Em cada rodada, são realizados 4 jogos.
+A tabela a seguir mostra a pontuação das equipes ao final do
+primeiro turno, após 7 rodadas.
+Equipe
+Pontos
+A
+14
+B
+12
+C
+12
+D
+11
+E
+7
+F
+7
+G
+5
+H
+4
+O número de empates que houve no primeiro turno é igual a
+(A) 10.
+(B) 11.
+(C) 12.
+(D) 13.
+(E) 14.
+46
+A figura a seguir mostra dois triângulos equiláteros, o maior de
+lado 16 e o menor de lado 4.
+O triângulo menor está situado de modo que a distância de A a D
+seja igual à distância de E a B. Deseja-se preencher a região
+situada entre os dois triângulos com triângulos equiláteros de
+lado 1, sem sobrepô-los.
+O número de triângulos de lado 1 necessários para fazer esse
+preenchimento é igual a
+(A) 240.
+(B) 280.
+(C) 320.
+(D) 360.
+(E) 400.
+Analista Legislativo (Informática Legislativa)
+47
+Uma certa empresa farmacêutica guarda a sete chaves o segredo
+do lançamento de seus próximos produtos. Uma espionagem
+patrocinada por uma empresa concorrente descobriu que três
+novos medicamentos estão sendo produzidos: anti-A (contra
+azia), anti-B (contra bronquite) e anti-C (contra cefaleia), mas não
+soube dizer se eles serão ou não lançados no mercado.
+A espionagem conseguiu ainda recolher as seguintes informações
+adicionais:
+ se o anti-C for lançado, o anti-A também será lançado.
+ se anti-C não for lançado, o anti-A também não será lançado.
+ se o anti-B for lançado, o anti-A também será lançado, mas
+não o anti-C.
+Com essas informações, a empresa concorrente sabe que
+(A) se o anti-B não for lançado, o anti-C não será lançado.
+(B) não haverá lançamentos.
+(C) ou o anti-A não será lançado ou o anti-C não será lançado.
+(D) apenas um medicamento será lançado.
+(E) se o anti-A for lançado, o anti-B não será lançado.
+48
+Um movimento de um pentágono corresponde a um giro em
+torno de seu centro de 72 graus, no sentido horário ou no sentido
+anti-horário, de modo que os vértices mudem de posição, mas a
+região interior do pentágono fique inalterada. Queremos retornar
+os vértices à posição original após 7 movimentos.
+O número de modos distintos com que isso pode ser feito é
+igual a
+(A) 7.
+(B) 10.
+(C) 12.
+(D) 14.
+(E) 18.
+49
+João vai comprar uma moto, cujo preço à vista é de 10 mil reais.
+João dispõe dessa quantia, mas existe a possibilidade de
+pagamento a prazo, com 4 mil reais de entrada e duas prestações
+iguais, a primeira a ser paga após um ano, a segunda a ser paga
+um ano após a primeira. João dispõe de uma aplicação muito
+boa, que lhe rende 50% ao ano.
+Para que a venda à vista ou a prazo sejam equivalentes, o valor
+de cada prestação deve ser igual a
+(A) 5300 reais.
+(B) 5400 reais.
+(C) 5500 reais.
+(D) 5600 reais.
+(E) 5700 reais.
+
+Tipo Cinza – Página 12
+
+Câmara dos Deputados – Concurso Público 2023
+50
+Apresentamos o jogo dos sinais. A regra de operação dos sinais
+(+) e (–) é análoga à da multiplicação:
+(+) com (+) é igual a (+)
+(–) com (–) é igual a (+)
+(+) com (–) é igual a (–).
+Assim, temos que:
+(+) (+) (+) = (–) (+) (–) = (+) e (+) (+) (–) = (–) (–) (–) = (–).
+Permutações da ordem dos sinais não alteram o resultado.
+Na tabela a seguir, devemos completar os quadrados em branco
+de modo que:
+ a operação dos três primeiros sinais da linha i tenha como
+resultado o sinal da última coluna dessa linha, para i = 1, 2, 3.
+ a operação dos três primeiros sinais da coluna j tenha como
+resultado o sinal da última linha dessa coluna, para j = 1, 2, 3.
+Por exemplo, se em uma linha tivermos
+(+)
+(–)
+(+)
+concluímos que o quadrado branco deve ser preenchido com (–)
+porque (+) com (–) com (–) dá (+).
+Considere agora a tabela a seguir:
+(+)
+(–)
+(+)
+(+)
+(+)
+(–)
+(–)
+(–)
+O número de soluções distintas da tabela é igual a
+(A) 1.
+(B) 2.
+(C) 3.
+(D) 4.
+(E) 5.
+51
+Uma urna contém duas bolas brancas. Uma segunda urna contém
+uma bola branca e outra preta. Retira-se uma bola branca,
+desconhecendo-se de qual urna ela saiu. A seguir, as urnas são
+embaralhadas e uma segunda bola é retirada.
+A probabilidade de que a segunda bola seja preta é igual a
+(A) 3/8.
+(B) 2/3.
+(C) 1/6
+(D) 1/3.
+(E) 1/4.
+52
+Duas moscas partem ao mesmo tempo de um ponto do chão de
+uma sala e voam em linha vertical reta em direção ao teto.
+A primeira mosca, que tem o dobro da velocidade da segunda,
+bate no teto e volta pelo mesmo caminho.
+Quando elas se encontram, elas estão
+(A) a igual distância do teto e do chão.
+(B) duas vezes mais perto do teto do que do chão.
+(C) duas vezes mais perto do chão do que do teto.
+(D) três vezes mais perto do teto do que do chão.
+(E) três vezes mais perto do chão do que do teto.
+Analista Legislativo (Informática Legislativa)
+53
+Escritos no sistema binário, a = 11010011 e b = 1010110.
+A representação binária do número a – b é igual a
+(A) 1101101.
+(B) 1011101.
+(C) 1111101.
+(D) 1011001.
+(E) 1101001.
+54
+Uma fazendo produz queijo prato e queijo minas. A produção de
+queijo prato é 20% maior do que a produção de queijo minas, e o
+preço de venda do queijo minas corresponde a 80% do preço de
+venda do queijo prato.
+A contribuição percentual do queijo minas no faturamento de
+venda da fazenda é de
+(A) 54%.
+(B) 56%.
+(C) 58%.
+(D) 60%.
+(E) 62%.
+Administração Financeira e
+Orçamentária
+55
+Os Princípios Orçamentários têm como objetivo estabelecer
+diretrizes fundamentais que buscam conferir racionalidade,
+eficiência e transparência aos procedimentos relacionados à
+criação, implementação e fiscalização do orçamento público.
+Em relação aos Princípios Orçamentários aplicáveis aos Poderes
+Executivo, Legislativo e Judiciário em todas as esferas
+governamentais, assinale a opção correta.
+(A) Não-Vinculação da Receita de Impostos estabelece que a Lei
+Orçamentária Anual não deve incluir dispositivos que não
+estejam relacionados à previsão de receita e à alocação de
+despesas.
+(B) Exclusividade exige que o Poder Público realize ou se
+abstenha de fazer apenas o que for expressamente
+autorizado pela lei.
+(C) Totalidade implica que cada ente federado deve possuir um
+único orçamento a fim de evitar a criação de múltiplos
+orçamentos paralelos dentro da mesma pessoa política.
+(D) Publicidade requer que as receitas e despesas sejam
+registradas na Lei Orçamentária Anual pelo seu valor total e
+sem nenhum tipo de dedução.
+(E) Universalidade implica a necessidade de que cada ente
+federado possua um orçamento único, com o objetivo de
+evitar a existência de múltiplos orçamentos paralelos dentro
+da mesma pessoa política.
+
+Tipo Cinza – Página 13
+
+Câmara dos Deputados – Concurso Público 2023
+56
+Na análise das matérias orçamentárias, os membros das casas
+Legislativas desempenham uma gama de atividades que incluem
+estudos, avaliações, debates e consultas, bem como a busca de
+informações e a participação em audiências públicas com
+autoridades e especialistas.
+A Constituição Federal de 1988 restaurou o poder do legislador
+de emendar o projeto de Lei Orçamentária Anual (LOA),
+especialmente no que se refere ao aumento ou à criação de
+novas despesas.
+As emendas ao projeto de LOA ou aos projetos que o modifiquem
+podem ser aprovadas caso
+(A) indiquem um aumento de despesa global ou de cada órgão,
+fundo, projeto ou programa.
+(B) indiquem os recursos necessários, admitidos apenas os
+provenientes de anulação de despesa, excluídas as que
+incidem sobre dotações para pessoal e seus encargos, serviço
+da dívida e transferências tributárias constitucionais para
+Estados, Municípios e Distrito Federal.
+(C) anulem dotações que envolvam gastos com pessoal e
+encargos, serviço da dívida e transferências tributárias
+intergovernamentais.
+(D) sejam compatíveis com o plano plurianual ou com a lei de
+diretrizes orçamentárias.
+(E) indiquem os recursos necessários, admitidos apenas os
+provenientes de anulação de despesa, incluídas as que
+incidem sobre dotações para pessoal e seus encargos, serviço
+da dívida e transferências tributárias constitucionais para
+Estados, Municípios e Distrito Federal.
+57
+O ciclo orçamentário abrange as seguintes etapas: elaboração da
+proposta, apreciação legislativa, execução, controle e avaliação.
+Refere-se ao intervalo de tempo durante o qual ocorrem as
+atividades características do orçamento público, desde sua
+concepção até a avaliação final.
+Acerca do ciclo orçamentário, avalie as afirmativas a seguir e
+assinale (V) para a verdadeira e (F) para a falsa.
+( ) A elaboração da proposta orçamentária envolve a
+consolidação pelo Poder Legislativo do projeto da lei
+orçamentária anual, abrangendo as propostas orçamentárias
+dos demais Poderes, seguida do envio ao Poder Executivo
+para apreciação.
+( ) A execução orçamentária compreende a utilização dos
+créditos consignados no Orçamento Geral da União, visando à
+realização das ações atribuídas às unidades orçamentárias.
+Envolve os três estágios da receita: empenho, liquidação e
+pagamento.
+( ) A avaliação orçamentária consiste na avaliação do
+cumprimento das metas previstas na LOA e da execução dos
+programas de governo e dos orçamentos da União,
+abrangendo também a avaliação dos resultados, quanto à
+eficácia e eficiência, da gestão orçamentária, financeira e
+patrimonial nos órgãos e entidades da administração federal,
+bem como da aplicação de recursos públicos por entidades
+de direito privado.
+As afirmativas são, respectivamente,
+(A) F – F – F.
+(B) V – V – F.
+(C) V – F – V.
+(D) F – V – V.
+(E) V – V – V.
+Analista Legislativo (Informática Legislativa)
+58
+A receita pública denomina os ingressos de recursos financeiros
+nos cofres do Estado, que se desdobram em receitas
+orçamentárias e extraorçamentárias. Dois são os critérios
+classificatórios na natureza da receita pública: as categorias
+econômicas e as origens da receita.
+Relacione cada item a seguir à respectiva definição.
+1. Natureza de receita.
+2. Receitas correntes.
+3. Origens da receita.
+4. Receitas de capital.
+( ) receitas arrecadadas no exercício financeiro que aumentam
+as disponibilidades financeiras do Estado, em geral com
+efeito positivo sobre o Patrimônio Líquido.
+( ) receitas que aumentam as disponibilidades financeiras do
+Estado e não provocam efeito sobre o Patrimônio Líquido.
+( ) constitui a classificação básica para as análises econômico-
+financeiras sobre o financiamento das ações governamentais.
+( ) estrutura-se em cinco níveis de desdobramento, cujo código
+visa ao conhecimento e à análise da origem dos recursos.
+A relação correta, na ordem apresentada, é:
+(A) 1 – 3 – 2 – 4.
+(B) 1 – 4 – 2 – 3.
+(C) 4 – 2 – 3 – 1.
+(D) 2 – 4 – 3 – 1.
+(E) 4 – 3 – 2 – 1.
+59
+Restos a pagar são despesas empenhadas, mas não pagas até o
+dia 31 de dezembro, distinguindo-se as processadas (despesas
+empenhadas e liquidadas) das não processadas (despesas apenas
+empenhadas e aguardando a liquidação).
+Assinale a opção que indica a diretriz a ser adotada nos Restos a
+pagar.
+(A) A obrigatoriedade de o gestor público, no último ano do seu
+mandato, contrair obrigação de despesa que não possa ser
+cumprida integralmente dentro dele, ou que tenha parcelas a
+serem pagas no exercício seguinte sem que haja suficiente
+disponibilidade de caixa para este efeito.
+(B) A vedação de o gestor público, no último ano do seu
+mandato, contrair obrigação de despesa que não possa ser
+cumprida integralmente dentro dele, ou que tenha parcelas a
+serem pagas no exercício seguinte sem que haja suficiente
+disponibilidade de caixa para este efeito.
+(C) A vedação de o gestor público estabelecer limites para
+inscrição em restos a pagar de despesas não pagas até
+31 de dezembro.
+(D) A obrigatoriedade de o gestor público, nos últimos dois
+quadrimestres do seu mandato, contrair obrigação de
+despesa que não possa ser cumprida integralmente dentro
+dele, ou que tenha parcelas a serem pagas no exercício
+seguinte sem que haja suficiente disponibilidade de caixa
+para este efeito.
+(E) A vedação de o gestor público, nos últimos dois
+quadrimestres do seu mandato, contrair obrigação de
+despesa que não possa ser cumprida integralmente dentro
+dele, ou que tenha parcelas a serem pagas no exercício
+seguinte sem que haja suficiente disponibilidade de caixa
+para este efeito.
+
+Tipo Cinza – Página 14
+
+Câmara dos Deputados – Concurso Público 2023
+60
+O regime de adiantamento (suprimento de fundo) envolve a
+entrega de numerário ao servidor para é um adiantamento
+concedido ao servidor para pagamento de despesas, com prazo
+certo para utilização e comprovação de gastos.
+Em relação ao regime de adiantamento, avalie as afirmativas a
+seguir e assinale (V) para a verdadeira e (F) para a falsa.
+( ) A concessão do benefício ocorre por meio do Cartão de
+Pagamento do Governo Federal.
+( ) O regime de adiantamento aplica-se a despesas recorrentes.
+( ) O Portal da Transparência do Governo Federal apresenta as
+transações de “Saque” e de “Compra” presentes nas faturas.
+As afirmativas são, respectivamente,
+(A) F – V – F.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+(E) V – F – V.
+Analista Legislativo (Informática Legislativa)
+
+Tipo Cinza – Página 15
+
+Câmara dos Deputados – Concurso Público 2023
+Questão Discursiva
+Números
+90, 12
+23, 17
+1024, 2048, 256, 48
+Codificação JavaScript
+function MDCdue(a, b) {
+----------
+return (x);
+}
+Analista Legislativo (Informática Legislativa)
+MDC
+6
+1
+16
+Codificação Java
+static int MDCdue(int a, int b)
+{
+----------
+return (x);
+}
+
+Tipo Cinza – Página 16
+O Máximo Divisor Comum (MDC) de dois ou mais números inteiros, positivos e diferentes de zero é o maior (máximo) número inteiro que
+divide simultaneamente esses dois ou mais números. Os exemplos a seguir ilustram o cálculo do MDC.
+Item 1
+Descreva em português, sucinta e precisamente, o passo a passo de um algoritmo eficiente que calcula o MDC de dois números inteiros,
+positivos e diferentes de zero.
+Observações sobre o texto apresentado:
+a) deve respeitar rigorosamente a especificação;
+b) deve ser claro e organizado;
+c) não deve conter comentários e/ou justificativas;
+d) não deve incluir trechos que estejam fora do escopo da solução.
+Item 2
+Codifique um(a) método/função intitulado(a) MDCmulti que calcule e retorne o MDC de um conjunto de números, ou seja, o maior
+(máximo) número que divide simultaneamente todos os números do conjunto fornecido. A função, ou método, recebe apenas um
+parâmetro, na forma de um array, contendo dois ou mais números inteiros, positivos e diferentes de zero. Esse parâmetro não deve ser
+validado, pois supostamente estará sempre correto. Uma dica útil: MDC(a,b,c) = MDC(MDC(a,b), c).
+O código deve ser integralmente codificado numa única linguagem, que pode ser Java ou JavaScript. Nenhuma outra será aceita.
+ Caso a linguagem escolhida for JavaScript, basta codificar uma função (function); eventuais funções auxiliares devem adotar o mesmo
+padrão;
+ Caso a linguagem escolhida for Java, basta codificar um método (static), não sendo necessário apresentar as demais declarações que
+constituem a classe; eventuais métodos auxiliares devem adotar o mesmo padrão.
+ Para facilitar a codificação, é permitido supor, e utilizar opcionalmente, um(a) método/função preexistente, intitulado(a) MDCdue, que
+retorna o MDC de dois números inteiros, a e b, positivos e diferentes de zero, recebidos como parâmetros de acordo com os modelos a
+seguir. O método/ função MDCdue pode ser invocado(a) no código apresentado sem necessidade de codificar sua implementação, e o
+resultado retornado é suposto correto. Nenhum(a) outro(a) método/função adicional, oriundos de bibliotecas, módulos ou
+frameworks, e afins, pode ser empregado(a) no código apresentado.
+Observações sobre o código apresentado:
+a) deve manter a assinatura especificada e respeitar rigorosamente as especificações;
+b) deve respeitar a sintaxe da linguagem de programação escolhida;
+c) não deve conter comentários ou incluir trechos fora do código requisitado, pois serão considerados erros de sintaxe.
+
+Câmara dos Deputados – Concurso Público 2023
+Analista Legislativo (Informática Legislativa)
+
+Tipo Cinza – Página 17
+1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+17
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+19
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+21
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+22
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+23
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+24
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+25
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+26
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+27
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+29
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+30
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Realização

@@ -1,0 +1,18 @@
+ID: 84-076
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código a seguir, que descreve a entidade Carro: A anotação JPA, versão 2.0, a ser incluída na linha 9 para indicar que as cores da entidade Carro devem ser armazenadas em uma tabela separada da tabela carros, é
+
+[ALTERNATIVAS]
+(A) @CollectionAttribute
+(B) @ElementCollection
+(C) @Embeddable
+(D) @Embedded
+(E) @InnerTable
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 78-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Programação Orientada a Objetos (POO, ou Object-oriented programming, OOP) é um paradigma de programação que usa objetos para organizar e reutilizar código. Com relação a Programação Orientada a Objetos, analise os itens a seguir. I. A abstração define a interface de uma classe e de seus elementos, determinando o processo de identificação de um objeto, e permite concentrar-se no que o objeto é, no que o objeto faz, sem se preocupar em como ele faz. II. O encapsulamento contém a definição de como implementar atributos e métodos de uma classe, que serão instanciados a certo objeto III. O acoplamento estabelece medida para avaliar o quanto duas ou mais classes estão conectadas, possibilitando executarem operações comuns, ou seja, generalização. IV. A coesão se refere a capacidade de medir o quanto uma determinada classe ou método faz sentido. Está correto o que se afirma em:
+
+[ALTERNATIVAS]
+(A) I e III, apenas.
+(B) II e IV, apenas.
+(C) I, II e III, apenas.
+(D) II, III e IV, apenas.
+(E) I, II, III e IV.
+
+[GABARITO]
+E

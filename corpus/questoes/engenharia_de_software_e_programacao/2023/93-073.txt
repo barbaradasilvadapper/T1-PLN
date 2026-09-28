@@ -1,0 +1,18 @@
+ID: 93-073
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação às práticas de integração e entrega continua (CI/CD), analise os itens a seguir. I. A CI é uma prática de desenvolvimento de software onde os desenvolvedores frequentemente integram suas alterações de código ao branch principal de um repositório compartilhado. II. A CD é uma prática de desenvolvimento de software para construir software de forma que um conjunto de alterações de código possa ser entregue ou liberado para produção a qualquer momento. III. A CD é uma prática de desenvolvimento de software em que o foco principal é liberar implantações automatizadas para produção sem a intervenção do usuário.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e III, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) III, apenas.
+
+[GABARITO]
+C

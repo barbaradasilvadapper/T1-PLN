@@ -1,0 +1,18 @@
+ID: 16-036
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Diagramas UML são um valioso recurso para documentar as funcionalidades e a dinâmica das interações em um sistema a ser projetado. Assinale a opção que apresenta o diagrama UML mais indicado para representar as interações externas com o sistema e as funcionalidades percebidas pelos usuários.
+
+[ALTERNATIVAS]
+(A) Diagrama de Estado.
+(B) Diagrama de Classes.
+(C) Diagrama de Sequência.
+(D) Diagrama de Caso de Uso.
+(E) Diagrama de Componentes.
+
+[GABARITO]
+D

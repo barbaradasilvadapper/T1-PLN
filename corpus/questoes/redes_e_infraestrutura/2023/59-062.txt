@@ -1,0 +1,18 @@
+ID: 59-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um diretório ativo hipotético, baseado no LDAP, foi criado para registrar os funcionários dos Tribunais de Justiça dos Estados do Amapá e Amazonas. A lista a seguir apresenta todas as entradas do diretório, em ordem alfabética: cn=Andressa, ou=Departamento de Processo Judicial, o=TJ do Amazonas, c=Brasil cn=Bruno, ou=Departamento de Gestão de TIC, o=TJ do Amapá, c=Brasil cn=Claudio, ou=Departamento de Processo Judicial, o=TJ do Amapá, c=Brasil cn=Debora, ou=Departamento de Processo Judicial, o=TJ do Amapá, c=Brasil cn=Elaine, ou=Departamento de Gestão de TIC, o=TJ do Amapá, c=Brasil cn=Flavio, ou=Departamento de Processo Judicial, o=TJ do Amapá, c=Brasil cn=Gabriel, ou=Departamento de Gestão de TIC, o=TJ do Amazonas, c=Brasil cn=Heitor, ou=Departamento de Processo Judicial, o=TJ do Amapá, c=Brasil Com relação aos dados apresentados, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) Andressa e Flavio trabalham na mesma organização.
+(B) o TJ do Amazonas possui 3 funcionários;
+(C) Bruno e Elaine trabalham no mesmo Departamento;
+(D) o Departamento de Gestão de TIC do TJ do Amazonas possui 2 funcionários;
+(E) o Departamento de Processo Judicial do TJ do Amapá possui 3 funcionários.
+
+[GABARITO]
+C

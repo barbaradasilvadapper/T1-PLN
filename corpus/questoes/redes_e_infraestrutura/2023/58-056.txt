@@ -1,0 +1,18 @@
+ID: 58-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Para configurar o servidor web NGINX para balancear a carga do tráfego HTTP entre um grupo de servidores, é necessário definir este grupo por meio da diretiva
+
+[ALTERNATIVAS]
+(A) alias.
+(B) upstream.
+(C) servers.
+(D) sticky.
+(E) balance.
+
+[GABARITO]
+B

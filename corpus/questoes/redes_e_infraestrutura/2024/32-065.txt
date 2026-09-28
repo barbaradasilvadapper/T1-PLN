@@ -1,0 +1,18 @@
+ID: 32-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Para o encaminhamento de datagramas IPv4 (Internet Protocol versão 4) entre os Sistemas Autônomos na Internet, é empregado o protocolo de roteamento BGP (Border Gateway Protocol). Com relação ao funcionamento do protocolo BGP, as seguintes afirmativas estão corretas, à exceção de uma. Assinale-a.
+
+[ALTERNATIVAS]
+(A) Cria tabelas de roteamento que contém duas informações básicas: a rede destino, e a rota para alcançar o destino. Sendo que a rota composta de sistemas autônomos (cada sistema autônomo é identificado por um número único na Internet).
+(B) Para que os roteadores BGP possam trocar suas tabelas de roteamento entre sistemas autônomos, faz-se necessário a criação de uma sessão entre dois roteadores utilizando o protocolo UDP (User Datagrama Protocol). A sessão é denominada BGP externo.
+(C) O protocolo BGP permite que cada sistema autônomo conheça quais destinos podem ser alcançados via seus sistemas autônomos vizinhos. Os destinos não são hospedeiros (hosts), mas um prefixo, sendo que representa uma sub-rede ou um conjunto de sub-redes.
+(D) Com a finalidade de melhorar o roteamento do protocolo BGP, os sistemas autônomos são divididos em 3 (três) tipos: Stub, Multirresidente (Multihoming) e Trânsito.
+(E) O protocolo BGP permite a implementação de políticas de roteamento. Quando um roteador recebe uma mensagem, ele pode verificar a rota. Se um dos sistemas autônomos listados na rota for contrário à sua política, ele pode ignorar essa rota e esse destino.
+
+[GABARITO]
+B

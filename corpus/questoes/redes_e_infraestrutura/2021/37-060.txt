@@ -1,0 +1,18 @@
+ID: 37-060
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Sobre técnicas de segurança de tráfego na web, analise as afirmativas a seguir. I. IPSec pode ser usado para criptografar dados enviados entre quaisquer sistemas que possam ser identificados por endereços IP. II. TLS opera na camada de rede do modelo OSI oferecendo um serviço seguro e confiável de ponta a ponta. III. O protocolo HTTP pode operar em cima do protocolo SSL/TLS para obter conexão criptografada. Está correto o que se afirma em:
+
+[ALTERNATIVAS]
+(A) somente I;
+(B) somente II;
+(C) somente III;
+(D) somente I e III;
+(E) I, II e III.
+
+[GABARITO]
+D

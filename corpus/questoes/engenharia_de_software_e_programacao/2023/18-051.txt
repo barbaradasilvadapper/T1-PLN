@@ -1,0 +1,18 @@
+ID: 18-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do JavaScript, analise o quadro a seguir sob a ótica das diferenças sintáticas utilizadas nas declarações de variáveis, e as respectivas possibilidades de redeclarar e/ou alterar o valor de uma variável ao longo do código. Tipo de declaração Permite redeclarar Permite alterar valor ? Sim Sim ? Não Sim ? Não Não De cima para baixo, a ordem de preenchimento da primeira coluna, de acordo com as possibilidades de cada tipo de declaração, é:
+
+[ALTERNATIVAS]
+(A) const, let, var;
+(B) let, const, var;
+(C) let, var, const;
+(D) var, const, let;
+(E) var, let, const.
+
+[GABARITO]
+E

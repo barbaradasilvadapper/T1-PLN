@@ -1,0 +1,18 @@
+ID: 14-041
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com o avanço da abordagem DevOps nas organizações e com o aumento da colaboração entre administradores de sistema e desenvolvedores, diversas ferramentas têm evoluído para tentar padronizar o gerenciamento automatizado de infraestrutura e suas configurações. Selecione a alternativa que indica ferramentas usadas exclusivamente no gerenciamento de configurações.
+
+[ALTERNATIVAS]
+(A) Ansible e go2.
+(B) Salt e pepper.
+(C) Nagios e chief.
+(D) Puppet e pallet.
+(E) Confops e bamboo.
+
+[GABARITO]
+D

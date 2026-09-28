@@ -1,0 +1,18 @@
+ID: 72-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O gerente de um projeto do TRF1 decidiu por empregar o Método do Caminho Crítico (CPM) em sua fase de planejamento. O CPM serve ao propósito de:
+
+[ALTERNATIVAS]
+(A) estimar a duração mínima do projeto;
+(B) estimar a duração máxima do projeto;
+(C) levantar as atividades com mais custo do projeto;
+(D) levantar as atividade mais importantes de um projeto;
+(E) levantar as atividades que possuem maior risco no projeto.
+
+[GABARITO]
+A

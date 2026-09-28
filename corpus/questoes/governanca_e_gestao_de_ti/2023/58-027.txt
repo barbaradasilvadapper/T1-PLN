@@ -1,0 +1,18 @@
+ID: 58-027
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Os objetivos de governança e gestão no COBIT 2019 estão agrupados em domínios bem definidos. Controlar todos os ativos de informação e tecnologia para otimizar o valor fornecido pelo seu uso, é um objetivo de gestão do domínio
+
+[ALTERNATIVAS]
+(A) avaliar, orientar e monitorar.
+(B) alinhar, planejar e organizar.
+(C) construir, adquirir e implementar.
+(D) entregar serviço e suporte.
+(E) monitorar, avaliar e analisar.
+
+[GABARITO]
+C

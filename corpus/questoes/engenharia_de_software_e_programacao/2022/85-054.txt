@@ -1,0 +1,18 @@
+ID: 85-054
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um dos objetivos da UML 5.2.1 é prover ferramentas para análise, projeto e implementação de sistemas de informação baseada em software. Para isso, diversos diagramas são utilizados. O diagrama estrutural que ilustra a estrutura estática dos objetos de um sistema é o de:
+
+[ALTERNATIVAS]
+(A) classes;
+(B) pacotes;
+(C) atividades;
+(D) casos de uso;
+(E) máquinas de estado.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 12-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Ao projetar uma tabela para acompanhamento de processos, deseja-se evitar inconsistência temporal entre as etapas, permitindo que o sistema verifique se o valor a ser inserido em um campo preserve a cronologia das etapas. Nesse contexto, a cláusula SQL que implementa essa restrição é a
+
+[ALTERNATIVAS]
+(A) CHECK
+(B) FOREIGN KEY
+(C) NOT NULL
+(D) PRIMARY KEY
+(E) UNIQUE
+
+[GABARITO]
+A

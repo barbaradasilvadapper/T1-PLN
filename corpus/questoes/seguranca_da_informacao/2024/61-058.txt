@@ -1,0 +1,18 @@
+ID: 61-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Na Lei nº 13.709/2018 (LGPD – Lei Geral de Proteção de Dados Pessoais), os dados sensíveis recebem uma proteção especial devido à sua natureza mais delicada, que pode expor os titulares a discriminações ou violações graves de direitos. A proteção desses dados visa assegurar maior segurança e privacidade aos indivíduos. No âmbito da LGPD, considera-se um exemplo de dado pessoal sensível de uma pessoa física o
+
+[ALTERNATIVAS]
+(A) dado biométrico.
+(B) endereço IP de computador pessoal.
+(C) nome social da pessoa física.
+(D) número de telefone.
+(E) número do cadastro de pessoas físicas (CPF).
+
+[GABARITO]
+A

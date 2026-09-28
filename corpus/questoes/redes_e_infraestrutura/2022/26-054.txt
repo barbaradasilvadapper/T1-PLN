@@ -1,0 +1,18 @@
+ID: 26-054
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de suporte de sistemas senado federal
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Protocolo OSPF Open Shortest Path First é um protocolo aberto (open), pois sua especificação se encontra em um documento de domínio público. Uma de suas características é que, ao utilizá-lo, um roteador não precisa manter uma tabela com todas as rotas possíveis na rede. Essa característica é possível, pois
+
+[ALTERNATIVAS]
+(A) os roteadores descobrem as rotas dinamicamente por meio do uso de requisições IP ao endereço de broadcast da rede.
+(B) para redes utilizando o protocolo OSPF, rotas não são necessárias.
+(C) esse protocolo implementa um mecanismo no qual cada roteador indica aos demais somente as rotas cuja distância é menor que a média da rede.
+(D) cada roteador do sistema autônomo é capaz de gerar as rotas por meio do cálculo do menor caminho em um grafo compartilhado por todos.
+(E) nesse tipo de rede, é responsabilidade dos dispositivos finais conhecer as rotas.
+
+[GABARITO]
+D

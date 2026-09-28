@@ -1,0 +1,18 @@
+ID: 64-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A norma NBR 14565 trata do procedimento básico para elaboração de projetos de cabeamento de telecomunicações para rede interna estruturada, também conhecida como cabeamento estruturado. A respeito do tema, relacione os elementos principais do cabeamento estruturado a suas respectivas definições. 1. Sala de equipamentos 2. Rede primária de nível 1 3. Rede secundária 4. Armário de telecomunicações ( ) Espaço destinado à transição entre o caminho primário e o secundário com conexão cruzada, podendo abrigar equipamento ativo. ( ) Espaço necessário para os equipamentos de telecomunicações. ( ) Cabo que interliga os distribuidores secundários à área de trabalho. ( ) Cabo que interliga o distribuidor geral de telecomunicações aos distribuidores secundários ou distribuidores intermediários. Assinale a opção que indica a relação correta, segundo a ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 3 – 2 – 4.
+(B) 1 – 4 – 3 – 2.
+(C) 4 – 2 – 3 – 1.
+(D) 2 – 4 – 3 – 1.
+(E) 4 – 1 – 3 – 2.
+
+[GABARITO]
+E

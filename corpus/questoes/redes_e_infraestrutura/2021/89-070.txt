@@ -1,0 +1,18 @@
+ID: 89-070
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista da tecnologia da informacao funsaude ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Nas implementações Linux, as funções de gerenciamento de memória e gerenciamento de processos são operadas pelo componente conhecido como
+
+[ALTERNATIVAS]
+(A) BIOS.
+(B) Kernel.
+(C) Interface.
+(D) Thread.
+(E) Web service. Ε1Τ1
+
+[GABARITO]
+B

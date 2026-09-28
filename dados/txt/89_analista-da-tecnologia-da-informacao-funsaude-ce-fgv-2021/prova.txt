@@ -1,0 +1,1298 @@
+Fundação Regional de Saúde
+FUNSAÚDE-CE
+SUA PROVA
+•
+As questões objetivas têm cinco alternativas de
+resposta (A, B, C, D, E) e somente uma delas
+está correta;
+•
+Além deste caderno de questões, contendo
+setenta questões objetivas, você receberá do
+Fiscal de Sala:
+• o cartão-resposta das questões objetivas;
+•
+TEMPO
+•
+Você dispõe de 4h para a realização da prova, já
+incluído o tempo para a marcação do cartão-
+resposta;
+•
+1h 30min após o início da prova é possível
+retirar-se da sala, sem levar o caderno de
+questões.
+•
+Faltando 1 hora para o final da prova é possível
+retirar-se da sala levando o caderno de questões.
+NÃO SERÁ PERMITIDO
+•
+Qualquer tipo de comunicação entre
+candidatos durante a aplicação da prova;
+os
+•
+Levantar da cadeira sem autorização do Fiscal de
+Sala;
+•
+Usar o sanitário ao término da prova, após deixar
+a sala.
+T
+TARDE
+Tipo 1 – BRANCA
+INFORMAÇÕES GERAIS
+•
+Verifique se seu caderno está completo, sem repetição
+de questões ou falhas. Caso contrário, notifique
+imediatamente o Fiscal da Sala, para que sejam
+tomadas as devidas providências;
+•
+Confira seus dados pessoais, especialmente nome,
+número de inscrição e documento de identidade e leia
+atentamente as instruções para preencher o cartão-
+resposta;
+•
+Use somente caneta esferográfica, fabricada em
+material transparente, com tinta preta ou azul;
+•
+Assine
+seu
+reservado(s);
+nome
+apenas
+no(s)
+espaço(s)
+•
+Confira sua cor e tipo do caderno de questões. Caso
+tenha recebido caderno de cor ou tipo diferente do
+impresso em seu cartão-resposta, o fiscal deve ser
+obrigatoriamente informado para o devido registro
+na Ata da Sala;
+•
+Reserve tempo suficiente para o preenchimento do
+seu material. O preenchimento é de sua
+responsabilidade e não será permitida a troca do
+cartão-resposta em caso de erro;
+•
+Para fins de avaliação, serão levadas em consideração
+apenas as marcações realizadas no cartão-resposta;
+•
+Os candidatos serão submetidos ao sistema de
+detecção de metais quando do ingresso e da saída de
+sanitários durante a realização das provas;
+•
+Boa sorte!
+Concurso Público 2021
+ANALISTA DE TECNOLOGIA
+DA INFORMAÇÃO – TI E
+INFRAESTRUTURA DE INFORMÁTICA
+
+Concurso Público FUNSAUDE-E02 2021
+Língua Portuguesa
+1
+“A matemática é a única ciência exata em que se nunca se sabe
+do que se está falando nem se o que aquilo que se diz é
+verdadeiro”. Bertrand Russell.
+Essa frase afirma que na matemática “nunca se sabe do que se
+está falando”, ou seja, contém a marca da
+(A) inexatidão.
+(B) abstração.
+(C) imprecisão.
+(D) ilogicidade.
+(E) dúvida.
+2
+“A matemática, vista corretamente, possui não apenas verdade,
+mas também suprema beleza – uma beleza fria e austera, como a
+da escultura.” Bertrand Russell.
+Assinale a opção que apresenta a afirmação adequada sobre os
+componentes desse pensamento.
+(A) O segmento “vista corretamente” indica a causa da oração
+seguinte.
+(B) Os segmentos “não apenas” e “mas também” indicam
+oposição de ideias.
+(C) As palavras “verdade” e “beleza” indicam valores que se
+contradizem na ciência matemática.
+(D) O termo “a” em “a da escultura” engloba a verdade e a
+beleza da matemática.
+(E) A comparação “como a da escultura” traz uma valorização
+artística da matemática.
+3
+“O homem é confinado nos limites estreitos do corpo, como numa
+prisão, mas a matemática o liberta e o faz maior do que todo o
+universo... É levado pela tempestade das paixões a um canto e a
+outro, sem nenhuma meta, mas a matemática lhe restitui a paz
+interior, resolvendo harmoniosamente os movimentos opostos da
+alma e reconduzindo-a, sob a orientação da razão, ao acordo e à
+harmonia.” Bertrand Russell.
+As opções a seguir apresentam marcas qualitativas da
+matemática sugeridas pelo texto acima, à exceção de uma.
+Assinale-a.
+(A) A capacidade de superar a limitação humana.
+(B) A possibilidade de criar a ilusão de grandeza.
+(C) A criação da harmonia interior.
+(D) A orientação racional diante das paixões.
+(E) A formação de condições de união interna.
+E2NS07 Analista de Tecnologia da Informação
+4
+“O homem é confinado nos limites estreitos do corpo, como numa
+prisão, mas a matemática o liberta e o faz maior do que todo o
+universo... É levado pela tempestade das paixões a um canto e a
+outro, sem nenhuma meta, mas a matemática lhe restitui a paz
+interior, resolvendo harmoniosamente os movimentos opostos da
+alma e reconduzindo-a, sob a orientação da razão, ao acordo e à
+harmonia.” Bertrand Russell.
+Assinale a opção que indica os vocábulos que não se relacionam
+semanticamente por semelhança ou oposição.
+(A) Confinado / limites.
+(B) Limites estreitos / prisão.
+(C) Prisão / paixões.
+(D) Movimentos opostos / acordo e harmonia.
+(E) Tempestade das paixões / paz interior.
+5
+“O homem é confinado nos limites estreitos do corpo, como numa
+prisão, mas a matemática o liberta e o faz maior do que todo o
+universo... É levado pela tempestade das paixões a um canto e a
+outro, sem nenhuma meta, mas a matemática lhe restitui a paz
+interior, resolvendo harmoniosamente os movimentos opostos da
+alma e reconduzindo-a, sob a orientação da razão, ao acordo e à
+harmonia.” Bertrand Russell.
+No pensamento de B. Russel há a utilização de linguagem
+figurada; aasinale a opção que indica o segmento que
+exemplifica, ao contrário, o emprego de linguagem lógica.
+(A) como numa prisão.
+(B) tempestade das paixões.
+(C) paz interior.
+(D) maior do que todo o universo.
+(E) a matemática o liberta.
+6
+“O intelecto humano compreende algumas coisas com tal
+perfeição, e delas tem uma certeza tão absoluta, quanto as possui
+a própria natureza: e tais são as ciências matemáticas puras, ou
+seja, a geometria e a aritmética, das quais o intelecto divino
+conhece muito mais infinitos teoremas, pois conhece todos eles:
+mas daqueles poucos compreendidos pelo intelecto humano,
+creio que a cognição se compare à divina na certeza objetiva...”
+Galileo Galilei.
+Esse pensamento é, e mostra, uma estrutura argumentativa; tudo
+o que nele é afirmado se apoia em
+(A) opiniões pessoais.
+(B) estudos e pesquisas.
+(C) testemunhos de autoridade.
+(D) citações.
+(E) princípios religiosos.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 2
+
+Concurso Público FUNSAUDE-E02 2021
+7
+Assinale a opção que apresenta a frase que contém uma
+metáfora explicada.
+(A) “Um homem que tem um milhão de dólares sente-se tão bem
+como se fosse rico.”
+(B) “Quem fica olhando o vento jamais semeará, quem fica
+olhando as nuvens jamais ceifará.”
+(C) “O capital é como água. Sempre flui por onde encontra
+menos obstáculos.”
+(D) “A única certeza do planejamento é que as coisas nunca
+ocorrem como planejadas.”
+(E) “Sabedoria é saber o que fazer; virtude é fazer.”
+8
+Assinale a opção que apresenta a frase que mostra incoerência.
+(A) “Uma das coisas mais curiosas a respeito da Bolsa é que cada
+vez que uma pessoa vende ações, uma outra compra, e
+ambas pensam que são espertas.”
+(B) “Pequenas oportunidades podem ser o início de grandes
+empreendimentos.”
+(C) “Casar por causa de dinheiro é a maneira mais difícil de
+consegui-lo.”
+(D) “Nunca devemos gastar o que não temos.”
+(E) “Dinheiro é o cartão de crédito de pobre.”
+9
+Assinale a opção que apresenta a frase que mostra uma
+valorização social do dinheiro.
+(A) “Esse negócio de sucesso é bonito, mas você não vive em
+função disso. O cemitério está cheio de caras de sucesso.
+Quero uma vida mais simples do que um copo d’água.”
+(B) “Para que serve o dinheiro? Quem não o tem, não tem
+coragem; quem o tem, tem preocupação; quem já o teve tem
+lamentações.”
+(C) “O dinheiro pode não trazer felicidade, mas afasta a
+infelicidade para bem longe.”
+(D) “Algum dinheiro evita preocupações. Muito dinheiro as
+atrai.”
+(E) “Você deve ganhar dinheiro antes de gastá-lo.”
+10
+Assinale a frase que não apresenta paralelismo sintático em sua
+estruturação.
+(A) “Quando se nega a alguém a oportunidade de tomar decisões
+importantes, ele começa a achar importantes as decisões que
+lhe permitem tomar.”
+(B) “Qualquer agência com 10 milhões a menos de faturamento
+do que a nossa é muito pequena para oferecer serviços bons;
+qualquer agência, com 10 milhões a mais, é muito grande
+para ser eficiente.”
+(C) “Não é a quantidade de dinheiro que você ganha, é a
+quantidade de dinheiro que você guarda.”
+(D) “Adquirimos dinheiro com trabalho, guardamo-lo com temor
+e perdemo-lo com grande dor.”
+(E) “Empresa privada é aquela que o governo controla, empresa
+estatal é aquela que ninguém controla.”
+E2NS07 Analista de Tecnologia da Informação
+Raciocínio Lógico
+11
+Considere a sentença:
+“Se a cobra é verde, então ela não morde ou ela é venenosa”.
+A sentença logicamente equivalente à sentença dada é:
+(A) Se a cobra morde e não é venenosa, então ela não é verde.
+(B) Se a cobra não é verde, então ela morde e não é venenosa.
+(C) Se a cobra não é verde, então ela não morde ou não é
+venenosa.
+(D) A cobra é verde e não morde ou é venenosa.
+(E) A cobra não é verde e morde e não é venenosa.
+12
+Considere a sentença:
+“Todo urso branco é amigo da onça.”
+A negação lógica dessa sentença é:
+(A) Nenhum urso branco é amigo da onça.
+(B) Algum urso branco não é amigo da onça.
+(C) Todo urso marrom é amigo da onça.
+(D) Nenhuma onça é amiga de urso branco.
+(E) Algum urso não é branco e é amigo da onça.
+13
+Em uma caixa há peças de várias cores e formatos. Há 140 peças
+azuis e 80 peças triangulares. 70% das peças triangulares também
+são azuis.
+A porcentagem das peças azuis, que também são triangulares, é
+de
+(A) 70%.
+(B) 60%.
+(C) 40%.
+(D) 35%.
+(E) 20%.
+14
+Ulisses escreveu todos os números pares positivos de 2 até 2022.
+Depois, ele pintou de azul todos os números que também eram
+múltiplos de 3 e pintou de amarelo os demais.
+A quantidade de números que Ulisses pintou de amarelo é:
+(A) 1485.
+(B) 1011.
+(C) 886.
+(D) 752.
+(E) 674.
+15
+Alfredo comprou em uma promoção, com 15% de desconto, um
+celular e pagou R$ 1360,00.
+Nessa compra, Alfredo economizou
+(A) R$ 260,00.
+(B) R$ 240,00.
+(C) R$ 224,00.
+(D) R$ 204,00.
+(E) R$ 200,00.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 3
+
+Concurso Público FUNSAUDE-E02 2021
+16
+A área de um retângulo aumentou 20% e sua base diminuiu 20%.
+Em relação à altura do retângulo original, a altura atual é
+(A) a mesma.
+(B) 20% maior.
+(C) 40% maior.
+(D) 50% maior.
+(E) 100% maior.
+17
+Seja N a quantidade de números inteiros pares, de dois
+algarismos, tais que o algarismo das dezenas é maior do que o
+algarismo das unidades.
+O valor de N é
+(A) 45.
+(B) 40.
+(C) 30.
+(D) 25.
+(E) 20
+18
+Em uma caixa há 7 fichas numeradas com 1, 3, 4, 6, 7, 8, 9.
+Retira-se aleatoriamente uma ficha da caixa, anota-se o número e
+a mesma é, então, recolocada na caixa. A seguir, retira-se,
+também aleatoriamente, uma ficha da caixa e anota-se o
+número.
+A probabilidade de o produto dos dois números sorteados ser par
+é:
+(A)
+(B)
+(C)
+(D)
+(E)
+19
+A mediana dos sete números 9, 2, 5, 3, 13, x, 5 é x.
+A média desses números é
+(A) 5.
+(B) 5,5.
+(C) 6.
+(D) 6,5.
+(E) 7.
+E2NS07 Analista de Tecnologia da Informação
+20
+Considere um triângulo ABC. Seja M o ponto médio do lado AC.
+Sejam P e Q os pontos que dividem o lado BC em três partes
+iguais, sendo P mais próximo de B do que de C.
+A área do triângulo PQM é 4. A área do quadrilátero ABPM é
+(A) 24.
+(B) 20.
+(C) 16.
+(D) 12.
+(E) 8.
+Atualidades
+21
+As Comissões Parlamentares de Inquérito (CPI) firmaram-se como
+importante instrumento constitucional de fiscalização do Poder
+Executivo.
+A respeito do funcionamento de uma CPI, assinale a afirmativa
+correta.
+(A) Sua criação depende de um requerimento apoiado por
+maioria absoluta dos parlamentares.
+(B) Seu objetivo é apurar fatos relevantes à vida pública e à
+ordem legal, econômica e social do país.
+(C) Suas atribuições consistem em ouvir testemunhas e punir os
+acusados, se considerados culpados.
+(D) Seus poderes incluem a prisão preventiva de suspeitos de
+ameaçar investigações em curso.
+(E) Seu relatório conclusivo é sigiloso e encaminhado para
+análise do Supremo Tribunal Federal.
+22
+Depois de 12 anos de mandatos consecutivos de Benjamin
+Netanyahu, em junho de 2021 o Parlamento israelense deu seu
+voto de confiança para um novo governo, tendo Naftali Bennett
+como primeiro-ministro.
+A nomeação do novo governo
+(A) põe fim à liderança do Likud, partido de centro.
+(B) significa a vitória de uma coalizão partidária de amplo
+espectro político.
+(C) promove negociações para um acordo de cooperação nuclear
+entre Irã e Israel.
+(D) fortalece as posições da ONU a favor de assentamentos
+judaicos em áreas palestinas.
+(E) confirma a orientação secular do novo governo e a imposição
+de uma política de separação entre religião e estado.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 4
+
+Concurso Público FUNSAUDE-E02 2021
+23
+As imagens a seguir reproduzem os cartazes de duas políticas
+públicas recentes no campo da saúde: o Programa Mais Médicos
+(2013) e o Programa Médicos pelo Brasil (2019)
+A respeito do direito à saúde no Brasil, relacione essas duas
+iniciativas públicas às suas respectivas descrições.
+1. Programa Mais Médicos (2013)
+2. Programa Médicos pelo Brasil (2019)
+( ) Resultou de uma ação conjunta entre os Ministérios da Saúde
+e da Educação que estabelecia uma cooperação internacional
+para autorizar o trabalho de médicos cubanos.
+( ) Exige que todos os participantes selecionados, que não
+atuam na atenção primária, ingressem em um curso de
+especialização em medicina de família e comunidade nos dois
+primeiros anos.
+( ) Considera a atuação dos profissionais como uma formação
+em serviço, motivo pelo qual os médicos não obtêm um
+vínculo de trabalho e são remunerados com uma bolsa-
+formação.
+Assinale a opção que apresenta, segundo a ordem apresentada, a
+relação correta.
+(A) 1, 2 e 1.
+(B) 2, 1 e 2.
+(C) 2, 1 e 1.
+(D) 2, 2 e 1
+(E) 1, 2 e 2.
+E2NS07 Analista de Tecnologia da Informação
+24
+O conceito de justiça climática é fundamental para entendermos
+o atual debate internacional sobre as mudanças climáticas. Ele é
+um desdobramento de justiça ambiental e mostra o paradoxo
+causado pelo atual modelo de desenvolvimento: as sociedades
+que mais sofrem as consequências do aquecimento global são as
+que menos contribuíram para esse fenômeno.
+Sobre o conceito de justiça climática analise as afirmativas a
+seguir.
+I. É utilizado, segundo uma dimensão ética e política, para
+denunciar as disparidades e as responsabilidades quanto aos
+efeitos e às causas das mudanças do clima.
+II. Considera todos os seres humanos igualmente responsáveis
+pelos recursos e pela destruição da natureza, cujos impactos
+atingem indistintamente a humanidade.
+III. Argumenta que grupos sociais distintos têm responsabilidade
+diferenciada sobre o consumo dos recursos naturais e que, na
+análise dos riscos ambientais, deve ser considerada.
+Está correto o que se afirma em
+(A) I, somente.
+(B) II, somente.
+(C) I e III, somente.
+(D) II e III, somente.
+(E) I, II e III.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 5
+
+Concurso Público FUNSAUDE-E02 2021
+25
+O artista visual Rimon Guimarães ficou conhecido por seus
+murais de cores vibrantes em várias cidades do mundo, como os
+apresentados a seguir.
+Figura I
+Mural em Amsterdam (2014).
+“Preta do Sul”, Curitiba (2017).
+A Figura I retrata a lateral de um prédio de um conjunto
+habitacional na periferia de Amsterdam, onde moram imigrantes
+provenientes das colônias holandesas, na qual o artista pintou
+um totem gigante de cabeças sobrepostas que lembram
+afrodescendentes, com seus turbantes e tatuagens coloridas. Ao
+lado do totem, pintou a figura de um dançarino negro.
+A Figura II apresenta o painel pintado na lateral do Centro de
+Dança do Banco do Brasil, em Curitiba, considerada a cidade mais
+“europeia” do Brasil. O painel mostra uma mulher negra, com um
+turbante volumoso, estampado com figuras africanas.
+Adaptado de bienalsaopaulo, post no Instagram, 09/07/2021.
+Com base nas imagens e no texto, analise as afirmativas a seguir.
+I. Os murais marcam a presença negra em espaços onde ela
+não é considerada expressiva, como em Amsterdã ou no Sul
+do Brasil.
+II. Os murais se inscrevem no espaço público urbano, o que
+confere visibilidade às obras e possibilitam sua ampla fruição.
+III. Os murais projetam, de forma agigantada, referências
+culturais não eurocêntricas.
+Está correto o que se afirma em:
+(A) I, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+E2NS07 Analista de Tecnologia da Informação
+26
+Emoticon é uma palavra derivada da junção dos termos em inglês
+emotion (emoção) + icon (ícone). É uma sequência de caracteres
+tipográficos, tais como: :), :( , ^-^, :3,e.e','-' e :-) ou, também, uma
+imagem (usualmente pequena), que traduz ou quer transmitir o
+estado psicológico, emotivo, de quem os emprega, por meio de
+ícones ilustrativos de uma expressão facial. O uso difundido do
+emoticon nos leva a refletir sobre o poder das mídias digitais e
+das mensagens instantâneas, que têm se transformado em um
+verdadeiro laboratório de experimentação de novas linguagens,
+novos paradigmas culturais e novos comportamentos sociais.
+Nesse sentido, há uma mutação atual da forma de escrever, que
+está transformando também o modo de pensar: o modo lógico
+aos poucos está sendo substituído por um modo onde prevalecem
+imagens e emoções, com o mecanismo da sugestão e do contágio
+emotivo.
+Com base no texto, assinale a afirmativa que descreve
+corretamente o impacto do uso de emoticons nas interações
+digitais.
+(A) Os emoticons são usados como adereços das conversas
+digitais, sem ter a pretensão de agregar informação.
+(B) A troca de mensagens apoiada em ícones desenvolve nos
+usuários a capacidade lógica de estabelecer equivalências.
+(C) O uso de emoticons é uma estratégia cognitiva da nova era
+digital para traduzir sentimentos e facilitar a interação.
+(D) As mensagens com emoticons aumentam a qualidade e a
+capacidade de análise de seus usuários
+(E) O emprego de emoticons reflete a velocidade da vida
+moderna e permite abreviar textos e torná-los mais objetivos.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 6
+
+Concurso Público FUNSAUDE-E02 2021
+27
+A renda média domiciliar per capita mede a capacidade de
+aquisição de bens e serviços dos moradores do domicílio e o
+índice de Gini mede o grau de concentração de renda em
+determinado grupo e varia de 0 a 1, sendo 0 uma situação de
+completa igualdade, e 1 uma situação de completa desigualdade.
+A respeito da evolução da renda média e da desigualdade no
+Brasil, na última década, analise os gráficos a seguir.
+Fonte: Base de dados da PNADC 2012/2019.
+Com base nos gráficos, analise as afirmativas a seguir e assinale
+(V) para a verdadeira e (F) para a falsa.
+( ) Em 2015, a renda média familiar permaneceu em baixa pelos
+dois anos seguintes, devido à crise econômica iniciada em
+2014, marcada por forte recessão e aumento do desemprego.
+( ) A piora na renda e na desigualdade, a partir de 2015,
+decorreu do rebaixamento da classificação de risco do Brasil,
+com a desaceleração de investimentos internos e externos.
+( ) Em 2018, a recessão pareceu dar lugar ao crescimento, e a
+apropriação desse crescimento, em especial num cenário de
+austeridade, é, acentuadamente, favorável aos mais ricos.
+Assinale a opção que indica a sequência correta, segundo a
+ordem apresentada.
+(A) V – V – F.
+(B) V – F – F.
+(C) F – F – V.
+(D) V – F – V.
+(E) F – V – V.
+E2NS07 Analista de Tecnologia da Informação
+28
+A capa da revista The Economist, de junho de 2021, traz uma
+imagem eloquente sobre as ameaças crescentes de ataques
+cibernéticos. O título, “Broadbandits”, é um trocadilho que alude
+à banda larga da internet (broadband) sob ameaça de hackers
+(bandits), ideia reforçada pelo subtítulo: “A insurgente
+ciberameaça de espiões e trapaceiros”.
+Sobre os ataques cibernéticos registrados na última década,
+analise as afirmativas a seguir e assinale (V) para a verdadeira e
+(F) para a falsa.
+( ) Com a conexão em larga escala das redes 5G, a segurança de
+dados passou a ter importância central para as empresas.
+( ) Ciberataques são um problema de segurança nacional, na
+medida em que a ação de hackers se dá também por meio de
+grupos patrocinados por facções político-ideológicas.
+( ) O uso de ransomwares é um modelo de negócio lucrativo da
+extorsão online, pois cibercriminosos ameaçam a liberação
+pública de dados roubados.
+Assinale a opção que indica a sequência correta, segundo a
+ordem apresentada.
+(A) V – V – F.
+(B) V – F – V.
+(C) F – F – V.
+(D) F – V – F.
+(E) V – V – V.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 7
+
+Concurso Público FUNSAUDE-E02 2021
+29
+Leia o trecho selecionado da Declaração Universal sobre Bioética
+e Direitos Humanos da Unesco (DUBDH), de 2005.
+A Conferência Geral, refletindo sobre os rápidos avanços na
+ciência e na tecnologia e reconhecendo que questões éticas
+suscitadas pelos rápidos avanços na ciência e suas aplicações
+tecnológicas devem ser examinadas com o devido respeito à
+dignidade da pessoa humana e no cumprimento e respeito
+universais pelos direitos humanos e liberdades fundamentais.
+Consciente de que os seres humanos são parte integrante da
+biosfera, com um papel importante na proteção um do outro e
+das demais formas de vida, em particular dos animais, reconhece,
+com base na liberdade da ciência e da pesquisa, que os
+desenvolvimentos científicos e tecnológicos têm sido e podem ser
+de grande benefício para toda a humanidade.
+Considerando que todos os seres humanos, sem distinção, devem
+se beneficiar dos mesmos elevados padrões éticos na medicina e
+nas pesquisas em ciências da vida, proclama os princípios a seguir
+e adota a presente Declaração.
+Adaptado de https://bvsms.saude.gov.br/bvs/publicacoes
+Com base no texto, a respeito dos princípios que norteiam a
+DUBDH assinale a afirmativa incorreta.
+(A) Valoriza a prática da ciência e da pesquisa voltada para o
+bem-estar de indivíduos, famílias, grupos e comunidades.
+(B) Defende a observância da dignidade humana e dos direitos
+humanos, com base nos valores da solidariedade e da
+cooperação.
+(C) Considera a ética um marco fundamental para orientar as
+políticas da comunidade internacional em relação à saúde e
+ao bem-estar.
+(D) Reconhece a finitude dos recursos naturais e a necessidade
+de contribuir para manutenção de um equilíbrio do
+ecossistema.
+(E) Estabelece a medicina como um bem individual a ser
+compartilhado, com base em critérios de hierarquia social e
+geracional.
+E2NS07 Analista de Tecnologia da Informação
+30
+Entregadores realizam marcha em São Paulo (01/07/2020).
+Durante a pandemia, a mobilização dos entregadores de
+aplicativos levantou um debate sobre suas condições de trabalho
+em uma economia cada vez mais “uberizada”.
+A respeito das novas relações de trabalho difundidas pela
+popularização das plataformas de entrega, analise as afirmativas
+a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+( ) Os entregadores mantêm vínculo trabalhista com as
+empresas e se mobilizam, mediante o sindicato, para obter
+cobertura de saúde, em função da periculosidade da função.
+( ) As empresas dos aplicativos de entrega possuem grande
+poder sobre o mercado de trabalho, pois poucas empresas
+dominam um setor que emprega milhões.
+( ) A sociedade enfrenta os desafios que envolvem o novo
+modelo de entregas por aplicativos e suas consequências
+para a cidade, o meio ambiente e o estado de bem-estar
+social.
+As afirmativas são, na ordem apresentada, respectivamente,
+(A) F – V – F.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+(E) F – F – V.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 8
+
+Concurso Público FUNSAUDE-E02 2021
+Legislação
+31
+A execução das ações a seguir está incluída no campo de atuação
+do Sistema Único de Saúde (SUS), à exceção de uma. Assinale-a.
+(A) Vigilância sanitária de portos, aeroportos e fronteiras.
+(B) Assistência ao trabalhador vítima de acidentes de trabalho.
+(C) Acesso a medicamentos essenciais e assistência terapêutica.
+(D) Subvenção a instituições privadas com fins lucrativos.
+(E) Fiscalização de produtos tóxicos e radioativos.
+32
+A Secretaria de Atenção à Saúde (SAS) do Ministério da Saúde
+define complexidade em saúde como “ações e serviços que visam
+atender aos principais problemas e agravos de saúde da
+população, cuja complexidade da assistência na prática clínica
+demande a disponibilidade de profissionais especializados e a
+utilização de recursos tecnológicos, para o apoio diagnóstico e
+tratamento”.
+A respeito dos níveis de complexidade de atenção à saúde,
+analise as afirmativas a seguir e assinale (V) para a verdadeira e
+(F) se for falsa.
+( ) Os atendimentos de alta complexidade correspondem aos
+serviços de apoio diagnóstico e terapêutico e as cirurgias
+ambulatoriais especializadas.
+( ) A atenção básica deve ser prestada por uma equipe
+multiprofissional.
+( ) Os atendimentos de média complexidade são ambulatoriais e
+hospitalares, como os procedimentos de quimioterapia e
+radioterapia.
+As afirmativas são, na ordem apresentada, respectivamente,
+(A) V – V – F.
+(B) V – F – V.
+(C) F – V – V.
+(D) F – V – F.
+(E) F – F – V.
+33
+Assinale a opção que indica o instrumento que viabiliza o sistema
+de planejamento do SUS.
+(A) O PNS (Plano Nacional de Saúde), que norteia o planejamento
+do SUS e explicita as políticas e os compromissos de médio
+prazo do setor saúde, com vigência de quatro anos.
+(B) O PAS (Programa Anual de Saúde), que apresenta os
+resultados anuais alcançados com a execução do PNS e
+orienta eventuais redirecionamentos que se fizerem
+necessários.
+(C) O RQPC (Relatório Quadrimestral de Prestação de Contas),
+que operacionaliza as metas do PNS e prevê a alocação
+quadrimestral dos recursos orçamentários a serem
+executados.
+(D) O RAG (Relatório Anual de Gestão), que monitora a execução
+do PAS e estabelece diretrizes da legislação tributária e
+políticas de aplicação nas agências financeiras de fomento.
+(E) O SARGSUS (Sistema de Apoio ao Relatório de Gestão), que
+viabiliza apoio on-line para o Tribunal de Contas da União
+auditar a oferta de serviços assistenciais de saúde.
+E2NS07 Analista de Tecnologia da Informação
+34
+As diretrizes a seguir fazem parte da Carta dos Direitos e Deveres
+da Pessoa Usuária da Saúde, elaborada pelo Conselho Nacional
+de Saúde (CNS), em 2017.
+1. A Rede de Serviços do SUS utilizará as tecnologias disponíveis
+para facilitar o agendamento de procedimentos nos serviços
+de saúde, em todos os níveis de complexidade.
+2. Haverá regulamentação do tempo de espera em filas de
+procedimentos, considerando a demanda e o acolhimento da
+população.
+Assinale a opção que identifica o direito básico do usuário que as
+duas diretrizes pretendem materializar.
+(A) Tratamento adequado.
+(B) Atendimento humanizado.
+(C) Direito à informação.
+(D) Corresponsabilidade.
+(E) Respeito aos valores culturais.
+35
+No quadro da Política Nacional de Humanização foi proposto, em
+2009, o Plano de Qualificação da Atenção em Maternidades e a
+Rede Perinatal na Amazônia Legal e Nordeste (PQM), para
+desenvolver condições institucionais e técnicas que alterassem os
+processos de trabalho e reduzissem a morbimortalidade materna
+e neonatal.
+A atenção ao parto e ao nascimento, com modos de cuidado
+humanizado e integral às mulheres e às crianças,
+(A) pressupõe a hegemonia de um modelo biomédico, pautado
+em uma concepção mecanicista do organismo humano.
+(B) é centrado na incorporação de tecnologias e na organização
+especializada e setorial do ambiente e dos processos de
+trabalho.
+(C) conta com educadores perinatais, psicólogos e doulas na
+equipe médica e assistencial, de acordo com as necessidades
+da mulher e de sua família.
+(D) está voltado para atender a mulher indígena a partir do
+ambiente social das aldeias, afastadas de adequadas
+estruturas hospitalares.
+(E) promove o parto com métodos de alívio da dor baseados na
+episiotomia, no uso de ocitocina e na possibilidade de partos
+na posição vertical.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 9
+
+Concurso Público FUNSAUDE-E02 2021
+36
+Segundo o Art. 196 da Constituição Federal /1988,
+A saúde é direito de todos e dever do Estado, garantido mediante
+políticas sociais e econômicas que visem à redução do risco de
+doença e de outros agravos e ao acesso universal e igualitário às
+ações e serviços para sua promoção, proteção e recuperação.
+Com base no artigo citado, assinale a afirmativa correta.
+(A) Considera-se a política de saúde como política social, e,
+portanto, assume-se a saúde como um direito inerente à
+cidadania.
+(B) Assegura-se o direito a serviços sanitários básicos a todos os
+cidadãos, pela implantação de um sistema universal de
+saúde.
+(C) Estabelece-se o acesso ao atendimento em hospitais e
+unidades básicas para todos os cidadãos filiados à previdência
+social.
+(D) Atribui-se ao Executivo federal o financiamento de políticas
+de saúde hierarquizadas em função da precariedade de
+acesso e da distribuição econômico-social.
+(E) Visa a estabelecer um Sistema Único, capaz de promover a
+saúde mediante a progressiva eliminação das doenças e
+enfermidades.
+37
+Em consonância ao princípio constitucional da participação dos
+cidadãos nas políticas públicas e, em especial, à diretriz
+estabelecida no Art. 198, inciso III, da Constituição Federal/1988,
+o ordenamento jurídico legal que orienta a organização e o
+funcionamento do SUS prevê espaços obrigatórios de
+participação e controle social da comunidade nos assuntos da
+saúde pública.
+A esse respeito, assinale a opção que descreve corretamente
+mecanismos de cidadania ativa previstos no setor da saúde.
+(A) A Lei nº 8.142/90 afirma que o Conselho Nacional de Saúde
+tem representação na Comissão Nacional de Incorporação de
+Tecnologias no SUS.
+(B) A Lei nº 8.080/90 estabelece a participação indígena no
+Conselho Nacional de Saúde e nos Conselhos Estaduais e
+Municipais de Saúde, quando for o caso.
+(C) A RDC 63/2011 garante a abertura de audiências públicas no
+legislativo, na apresentação do relatório do gestor do SUS.
+(D) A RDC 36/2013 institui colegiados com participação
+comunitária para aprovar ações e serviços de saneamento
+básico de domicílios e pequenas comunidades.
+(E) A Resolução CNS 553/2017 dispõe sobre as comissões
+intersetoriais e suas competências de supervisionar os
+parâmetros de cobertura assistencial.
+38
+Com base na Resolução CNS nº 553/2017, nas consultas, nos
+procedimentos diagnósticos, preventivos, cirúrgicos e
+terapêuticos, a pessoa tem direito à
+(A) assistência espiritual, psicológica e social, fornecida pelos
+Conselhos de Saúde.
+(B) informação sobre formas de participação nos órgãos
+consultivos de saúde.
+(C) segurança do procedimento e o bem-estar psíquico e
+emocional.
+(D) inclusão em tratamentos experimentais, nacionais e
+internacionais, a expensas do SUS.
+(E) privacidade, até em caso de doença transmissível,
+desautorizando a aplicação de medidas sanitárias.
+E2NS07 Analista de Tecnologia da Informação
+39
+A respeito dos protocolos de higiene das mãos nos serviços de
+saúde do país, analise as afirmativas a seguir.
+I. As mãos devem ser higienizadas em momentos essenciais, de
+acordo com o fluxo de cuidados assistenciais, para prevenir
+infecções relacionadas à assistência à saúde causadas por
+transmissão cruzada pelas mãos.
+II. A higienização das mãos faz parte do Plano de Segurança do
+Paciente em Serviços de Saúde, o qual estabelece estratégias
+e ações de gestão de risco, conforme as atividades
+desenvolvidas pelos serviços de saúde.
+III. O uso de luvas substitui a higienização das mãos, uma vez
+que reduz a possibilidade de os micro-organismos das mãos
+do profissional contaminarem o campo do paciente ou
+impede o contato com sangue infectado,
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+40
+O Nascer no Ceará é um programa da Secretaria de Saúde do
+Estado do Ceará em parceria com a SOCEGO (Associação
+Cearense de Ginecologia e Obstetrícia) para estruturar a rede de
+assistência a mulheres e bebês em todo o estado, incluindo a
+assistência ao pré-natal, parto, recém-nascido e planejamento
+reprodutivo, com o objetivo de reduzir as taxas de mortalidade
+de mães e bebês no Estado do Ceará.
+As afirmativas a seguir indicam condutas assistenciais coerentes
+com esse tipo de programa, à exceção de uma. Assinale-a.
+(A) A estratificação de risco da gestante em habitual e alto é
+ampliada com a categoria de vulnerabilidade, avaliada pelas
+características individuais e condições sociodemográficas
+desfavoráveis da gestante, entre outros.
+(B) O acompanhamento pré-natal assegura o desenvolvimento
+da gestação, permitindo o parto de um recém-nascido
+saudável, abordando aspectos psicossociais e as atividades
+educativas e preventivas.
+(C) O diagnóstico das síndromes hipertensivas em gestação por
+profissional capacitado preserva a saúde materna e reduz a
+morbimortalidade infantil, em virtude da prematuridade que
+acarretam.
+(D) As infecções em gestação devem ser diagnosticadas o quanto
+antes, como é o caso da sífilis, do rastreio de HIV no pré-natal
+e da sorologia para toxoplasmose, por exemplo.
+(E) A boa assistência ao parto resulta no alivio do processo para a
+parturiente, encurtando sua duração, pela utilização de
+fluidos intravenosos e medicamentos antiespasmódicos.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 10
+
+Concurso Público FUNSAUDE-E02 2021
+Conhecimento Específico
+41
+Observe a operação lógica abaixo, que envolve dois operandos
+binários.
+X and Y
+Dado que X=00110101 e Y=01110111, assinale o resultado da
+expressão acima.
+(A) 00110101
+(B) 01110111
+(C) 10001000
+(D) 10111101
+(E) 11001010
+42
+Considere o pseudocódigo abaixo, que define uma função que
+recebe dois arrays, A1, A2, cada um com N elementos indexados
+a partir de 1, e retorna o número de elementos do array A1 que
+não aparecem em A2.
+function xpto(A1, A2, N)
+contagem=0
+for i=1 to N
+flag=0
+for j=1 to N
+if A1[i] == A2[j] then flag=1
+if flag == 0 then contagem=contagem + 1
+return contagem
+Exatamente como foi codificado, o algoritmo da função xpto tem
+complexidade
+(A) O(1)
+(B) O(n)
+(C) O(2.n)
+(D) O(n 2 )
+(E) O(2.n 2 )
+43
+Considere a representação de números inteiros, com sinal, numa
+palavra de 32 bits.
+O intervalo de valores que pode ser representado é
+(A) -32.767 até +32.768
+(B) -32.768 até +32.767
+(C) -65.536 até 65.535
+(D) -2.147.483.648 até +2.147.483.647
+(E) -2.147.483.647 até +2.147.483.648
+44
+No contexto da testagem de software, os testes do tipo Unitário,
+aplicam-se normalmente
+(A) à aderência a padrões.
+(B) às funções codificadas.
+(C) às interfaces de entrada de dados.
+(D) à integração dos componentes.
+(E) aos limites de carga.
+E2NS07 Analista de Tecnologia da Informação
+45
+A UML (Unified Modeling Language) trabalha com um conjunto
+de diagramas, cobrindo diferentes aspectos da especificação de
+sistemas.
+São diagramas UML, exceto:
+(A) Diagrama de Atividade.
+(B) Diagrama de Banco de Dados.
+(C) Diagrama de Casos de Uso.
+(D) Diagrama de Classes.
+(E) Diagrama de Tempo.
+46
+De acordo com a norma ABNT NBR 27005, sobre Tecnologia da
+informação — Técnicas de segurança — Gestão de riscos de
+segurança da informação, o Processo de Avaliação de Riscos inclui
+as seguintes etapas:
+(A) análise de riscos, avaliação de riscos e tratamento dos riscos.
+(B) análise de riscos, tratamento dos riscos e avaliação de riscos
+residuais.
+(C) avaliação de riscos residuais, análise de riscos e avaliação de
+riscos.
+(D) identificação de riscos, análise de riscos e avaliação de riscos.
+(E) identificação de riscos, análise de riscos e tratamento de
+riscos.
+47
+As operações POP e PUSH aplicáveis às estruturas de dados são
+conhecidas como
+(A) árvores binárias.
+(B) bitmaps.
+(C) hashtables.
+(D) listas encadeadas.
+(E) pilhas.
+48
+Maria está editando um arquivo XML por meio do bloco de notas
+do Windows, e deve tomar cuidado com certos caracteres que
+têm funções especiais.
+Assinale a lista que contém apenas caracteres especiais do XML.
+(A) < > & #
+(B) < > & "
+(C) > & " /
+(D) @ " / \
+(E) / \ @ "
+49
+No contexto de padrões de projeto GoF, há um padrão que tem
+como definição garantir que uma classe tenha apenas uma
+instância de si mesma e que forneça um ponto global de acesso.
+Assinale-o.
+(A) Builder.
+(B) Factory.
+(C) Proxy.
+(D) Singleton.
+(E) Strategy.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 11
+
+Concurso Público FUNSAUDE-E02 2021
+50
+Com relação ao HTTP no contexto de aplicações web, assinale a
+lista que contém dois dos métodos desse protocolo.
+(A) CONNECT e EXIT.
+(B) GET e POST.
+(C) OPEN e CLOSE.
+(D) READ e WRITE.
+(E) START e END.
+51
+O padrão que define um conjunto de interfaces para acesso a
+gerenciadores de bancos de dados, e similares, a partir de
+linguagens de programação, é conhecido pela sigla
+(A) DBA.
+(B) ODBC.
+(C) REST.
+(D) SOA.
+(E) UDBC.
+52
+Analise a frase a seguir.
+Funciona criando ciclos, conhecidos como sprints, que são os
+intervalos de tempo para o desenvolvimento de cada etapa.
+Assinale a metodologia ágil de desenvolvimento à qual a frase
+acima diz respeito.
+(A) Crystal.
+(B) Kanban.
+(C) Lean.
+(D) Scrum.
+(E) XP.
+E2NS07 Analista de Tecnologia da Informação
+Atenção: nas próximas cinco questões, considere a definição e
+as instâncias das tabelas de bancos de dados CLUBE e JOGO
+exibidas a seguir.
+nome
+Barcelona
+Boca Juniors
+The Strongest
+JOGO
+mandante
+visitante
+golsM
+golsV
+Barcelona
+Boca Juniors
+1
+0
+Barcelona
+The Strongest
+NULL
+NULL
+Boca Juniors
+Barcelona
+0
+0
+Boca Juniors
+The Strongest
+3
+0
+The Strongest
+Barcelona
+2
+0
+The Strongest
+Boca Juniors
+2
+0
+Cada clube deve jogar quatro vezes, duas como mandante e duas
+como visitante.
+As colunas golsM e golsV registram o número de gols dos times
+mandantes e visitantes, respectivamente, em cada jogo. Ambas
+são nulas enquanto o jogo não for realizado.
+53
+Em relação às instâncias das tabelas CLUBE e JOGO, definidas
+anteriormente, considere as constraints a seguir.
+I. constraint pk1 primary key (mandante, visitante)
+II. constraint fk1 foreign key (mandante) references clube
+III. constraint fk2 foreign key (visitante) references clube
+Dessas constraints, podem ser aplicadas à tabela JOGO:
+(A) I, apenas.
+(B) I e II, somente.
+(C) I e III, somente.
+(D) II e III, somente.
+(E) I, II e III.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 12
+
+Concurso Público FUNSAUDE-E02 2021
+54
+Considere a tabela JOGO. No MS SQL Server, com a configuração
+default, assinale o comando que produz corretamente a lista de
+jogos que ainda não foram realizados.
+(A) select mandante, visitante from JOGO
+where golsM is null and golsV is null
+(B) select mandante, visitante from JOGO
+where golsM = null and golsV = null
+(C) select mandante, visitante from JOGO
+where golsM <> null and golsV <> null
+(D) select mandante, visitante from JOGO
+where golsM = null or golsV = null
+(E) select mandante, visitante from JOGO
+where golsM <> null or golsV <> null
+55
+Analise o comando SQL a seguir, à luz das definições e instâncias
+das tabelas CLUBE e JOGO, definidas anteriormente.
+select c.nome from CLUBE c where
+(select count(*) from JOGO j
+where c.nome = j.mandante) <> 2
+or
+(select count(*) from JOGO j
+where c.nome = j.visitante) <> 2
+O resultado produzido pela execução desse comando é a lista de
+todos os clubes que
+(A) aparecem em quatro jogos.
+(B) não aparecem em quatro jogos.
+(C) não aparecem em dois jogos como mandante ou que não
+aparecem em dois jogos como visitante.
+(D) aparecem em dois jogos como mandante ou que aparecem
+em dois jogos como visitante.
+(E) aparecem em dois jogos como mandante e aparecem em dois
+jogos como visitante.
+56
+Analise o comando SQL a seguir, à luz das definições e instâncias
+das tabelas CLUBE e JOGO, apresentadas anteriormente.
+select distinct mandante, visitante
+from JOGO, CLUBE
+Assinale o número de linhas, sem incluir os títulos, produzidas
+pela execução desse comando.
+(A) 4.
+(B) 6.
+(C) 10.
+(D) 24.
+(E) 48.
+E2NS07 Analista de Tecnologia da Informação
+57
+Dependências funcionais têm um papel importante na teoria de
+bancos de dados. Tomando por base a instância da tabela JOGO,
+definida anteriormente, assinale a dependência funcional que
+pode ser corretamente depreendida.
+(A) mandate → golsM
+(B) mandate, visitante → golsM
+(C) golsM → mandante
+(D) golsM, golsV → mandante, visitante
+(E) visitante → gols, golsV
+58
+Com respeito às versões mais recentes do MS SQL Server Express
+Edition, que é distribuído sem custos, assinale o limite máximo de
+tamanho de um banco de dados (database).
+(A) 2 GB
+(B) 4 GB
+(C) 8 GB
+(D) 10 GB
+(E) 16 GB
+59
+No contexto da formatação de páginas Web, assinale o papel da
+propriedade padding no CSS em relação a um box.
+(A) Definir a altura e a largura.
+(B) Definir a espessura da área que separa as bordas do
+preenchimento.
+(C) Definir a espessura das margens externas.
+(D) Definir a espessura e o estilo da borda.
+(E) Definir a unidade utilizada para estabelecer as dimensões.
+60
+Considere o código JavaScript exibido a seguir.
+str = "Banana Laranja Morango";
+alert(str.split(" ")[1]);
+Assinale o que é exibido quando esse trecho é executado.
+(A) B
+(B) Banana Laranja Morango
+(C) L
+(D) Laranja
+(E) Morango
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 13
+
+Concurso Público FUNSAUDE-E02 2021
+61
+Considere o trecho de código jQuery.
+$(document).ready(function(){
+$("button").click(function(){
+$("#xpto").hide();
+});
+});
+Assinale o efeito da execução desse trecho.
+(A) Na carga da página, todos os elementos com tag = ”button”
+são ocultados.
+(B) O elemento com o atributo id = ”xpto” é ocultado quando
+qualquer botão for clicado.
+(C) Qualquer elemento com name = ”xpto” é ocultado quando o
+próprio elemento for clicado.
+(D) Qualquer elemento com tag = ”button” é ocultado quando o
+próprio elemento for clicado.
+(E) Todos os elementos com class = ”xpto” são ocultados quando
+qualquer botão for clicado.
+62
+Observe o código Python v2.7.
+def F (a, b):
+while a != b:
+if a > b:
+a = a - b
+elif b > a:
+b -= a
+return a
+Assinale o valor retornado para F (48,36).
+(A) 1
+(B) 12
+(C) 24
+(D) 36
+(E) 48
+63
+No contexto do CSS3, assinale o script que define corretamente a
+formatação para todos os elementos h1 de um documento.
+(A) .h1 {
+color: white;
+text-align: center;
+}
+(B) h1 {
+color= white,
+background= yellow
+}
+(C) #h1 {
+background: yellow,
+family-font: georgia }
+(D) h1 {
+background-color: yellow;
+font-family: verdana; }
+(E) $h1 {
+text-align= center;
+background-color= yellow }
+E2NS07 Analista de Tecnologia da Informação
+64
+Assinale o código C# que está corretamente construído para
+produzir o termo “Ford” na saída.
+(A) using System;
+namespace MyApplication
+{ class Program
+{
+static void Main(string() args)
+{ string() carros = {"Audi", "Ford", "Mini"};
+Console.WriteLine(carros[2]);
+}}}
+(B) using System;
+{
+class Program
+static void Main(string[] args)
+{ string[] carros = ["Audi", "Ford", "Mini"];
+Console.WriteLine(carros[1]);
+}}}
+{
+(C) namespace MyApplication
+{
+class Program
+static void Main(string() args)
+{ string() carros = {"Audi", "Ford", "Mini"};
+Console.WriteLine(carros[2]);
+}}}
+{
+(D) using System;
+namespace MyApplication
+{ class Program
+{
+static void Main(string[] args)
+{ string[] carros = ("Audi", "Ford", "Mini");
+Console.WriteLine(carros[1]);
+}}}
+(E) using System;
+namespace MyApplication
+{ class Program
+{
+static void Main(string[] args)
+{ string[] carros = {"Audi", "Ford", "Mini"};
+Console.WriteLine(carros[1]);
+}}}
+65
+Considere o seguinte trecho de código Java.
+public class Main {
+public static void main(String[] args) {
+int time = 20;
+if (time < 18) {
+System.out.println("Bom dia.");
+} else {
+System.out.println("Boa noite.");
+}
+}
+}
+Assinale o trecho que substitui corretamente a estrutura do
+comando if.
+(A) System.out.println
+(time < 18 ? "Bom dia." : "Boa noite.");
+(B) System.out.println
+((time < 18) ; "Bom dia." ; "Boa noite.");
+(C) System.out.println
+((time < 18) ? "Bom dia." : "Boa noite.");
+(D) System.out.println
+(time < 18 ? "Bom dia." ? "Boa noite.");
+(E) System.out.println
+((time < 18) : "Bom dia." : "Boa noite.");
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 14
+
+Concurso Público FUNSAUDE-E02 2021
+66
+No conjunto de Ferramentas Administrativas do Windows 10, a
+Limpeza de Disco permite a remoção de arquivos tipicamente
+temporários, que podem ser removidos sem prejuízo para o
+funcionamento do sistema.
+Assinale o exemplo de arquivos que pode ser removido pela
+ferramenta citada no drive C.
+(A) Áreas de cache criadas pelos navegadores de Internet.
+(B) Arquivos da Lixeira.
+(C) Arquivos da pasta Downloads do computador.
+(D) Arquivos duplicados.
+(E) Cookies de Internet.
+67
+No Linux, normalmente há um arquivo do sistema que armazena
+as senhas dos usuários criptografadas, além de outras
+informações a elas relacionadas.
+Assinale a localização desse arquivo.
+(A) /etc/group
+(B) /etc/magic
+(C) /etc/password
+(D) /etc/profile
+(E) /etc/shadow
+68
+No Linux, a saída (output) de um comando pode ser direcionada
+para um arquivo ou processo. Nesse contexto, assinale o
+redirecionamento que é determinado pelo símbolo >>.
+(A) Adicionar o conteúdo direcionado a um arquivo existente, ou
+a um novo arquivo se não existir o arquivo referido.
+(B) Descartar o conteúdo direcionado; não gravar e não mostrar.
+(C) Direcionar o conteúdo para outro comando ou processo.
+(D) Gravar um novo arquivo com o conteúdo direcionado; não
+pode existir eventual arquivo homônimo.
+(E) Gravar um novo arquivo com o conteúdo direcionado,
+sobrescrevendo eventual arquivo homônimo.
+69
+Considere um sistema operacional onde o processo P1 precisa
+dos recursos R1 e R2 para prosseguir com seu processamento.
+Concomitantemente, há um processo P2, que também precisa
+dos recursos R1 e R2.
+A situação em que, simultaneamente, o processo P1 detém o
+recurso R1 e espera pelo recurso R2 e o processo P2 detém o
+recurso R2 e espera pelo recurso R1, é denominada
+(A) Checkout.
+(B) Deadlock.
+(C) Livelock.
+(D) Lockdown.
+(E) Shutdown.
+E2NS07 Analista de Tecnologia da Informação
+70
+Nas implementações Linux, as funções de gerenciamento de
+memória e gerenciamento de processos são operadas pelo
+componente conhecido como
+(A) BIOS.
+(B) Kernel.
+(C) Interface.
+(D) Thread.
+(E) Web service.
+Ε1Τ1
+Tipo 1 – Cor BRANCA – Página 15
+
+Realização

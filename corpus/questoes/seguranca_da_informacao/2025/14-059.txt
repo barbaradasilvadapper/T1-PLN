@@ -1,0 +1,18 @@
+ID: 14-059
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+HTTPS (Hypertext Transfer Protocol Secure) é essencial para garantir a segurança e a privacidade das comunicações na web, sendo uma extensão do HTTP (Hypertext Transfer Protocol) que adiciona uma camada de segurança através da criptografia SSL/TLS. Relacione as quatro ações dos protocolos http e https com suas respectivas definições. 1. POST 2. GET 3. PUT 4. DELETE ( ) Atualizar o valor de um recurso. ( ) Ler o valor de um recurso e retorná-lo ao solicitante na representação especificada, que pode ser apresentada em um navegador web. ( ) Apagar o recurso. ( ) Criar um recurso Assinale a opção que indica a relação correta na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 2 – 4 – 1 – 3.
+(B) 2 – 1 – 4 – 3.
+(C) 3 – 2 – 4 – 1.
+(D) 4 – 1 – 2 – 3.
+(E) 1 – 3 – 4 – 2.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 32-081
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Sistema de Gestão de Segurança da Informação (SGSI) é um conjunto de políticas, procedimentos, diretrizes e recursos associados, que são utilizados para proteger a informação dentro de uma organização. Assinale, entre as normas da International Organization for Standardization (ISO) e/ou International Electrotechnical Commission (IEC) apresentadas abaixo, aquela que oferece estrutura abrangente para a implantação de um SGSI.
+
+[ALTERNATIVAS]
+(A) 9001 (Ano 2015).
+(B) 14001 (Ano 2015).
+(C) 27001 (Ano 2022).
+(D) 45001 (Ano 2018).
+(E) 50001 (Ano 2018).
+
+[GABARITO]
+C

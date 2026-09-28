@@ -1,0 +1,18 @@
+ID: 03-065
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O padrão SAML V2 define 3 tipos de declarações que podem ser transmitidas em uma afirmação. As declarações de autenticação
+
+[ALTERNATIVAS]
+(A) definem algo que o sujeito é autorizado a fazer.
+(B) descrevem, no mínimo, o método usado para autenticar e quando a autenticação ocorreu.
+(C) precisam ser codificadas utilizando o algoritmo XTEA antes do envio.
+(D) são criadas pelo cliente que solicitou a autenticação.
+(E) precisam ser transmitidas no formato JSON.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 82-050
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O desenvolvimento de aplicações para dispositivos móveis envolve a escolha de abordagens e plataformas que impactem diretamente o desempenho, o custo de manutenção e a experiência do usuário. Entre as principais estratégias estão o desenvolvimento nativo, o desenvolvimento híbrido e o desenvolvimento multiplataforma (cross-platform), cada uma com características, vantagens e limitações que devem ser avaliadas conforme os requisitos do projeto. Uma equipe de desenvolvimento está avaliando as diferentes abordagens para construir uma aplicação móvel que precisará acessar recursos do dispositivo, como câmera, GPS e notificações push, e deverá funcionar tanto em Android quanto em iOS. Durante o planejamento, surgiram dúvidas sobre as diferenças entre desenvolvimento nativo, híbrido e multiplataforma (crossplatform). Considerando os conceitos, as características e as tecnologias associadas ao desenvolvimento de aplicações para dispositivos móveis, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) No desenvolvimento nativo, a aplicação é construída com as linguagens e ferramentas oficiais de cada plataforma — como Kotlin ou Java com Android Studio para Android, e Swift ou Objective-C com Xcode para iOS —, o que proporciona acesso direto e completo às APIs e aos recursos de hardware do dispositivo, além de melhor desempenho em tempo de execução.
+(B) O desenvolvimento híbrido, utilizado por frameworks como React Native e Flutter, gera código nativo específico para cada plataforma a partir de uma única base de código, dispensando completamente o uso de tecnologias web como HTML, CSS e JavaScript.
+(C) Aplicações desenvolvidas com abordagem multiplataforma (cross-platform) são incapazes de acessar recursos nativos do dispositivo, como câmera, GPS e sensores biométricos, sendo adequadas exclusivamente para aplicações que exibem conteúdo estático sem interação com o hardware.
+(D) O desenvolvimento nativo exige que uma única base de código seja compartilhada entre Android e iOS, sendo essa a principal vantagem dessa abordagem, pois reduz drasticamente o custo e o tempo de desenvolvimento ao eliminar a necessidade de equipes especializadas por plataforma.
+(E) As Progressive Web Apps (PWAs) são consideradas aplicações nativas, pois são obrigatoriamente distribuídas pelas lojas oficiais (Google Play Store e Apple App Store) e possuem acesso irrestrito a todos os recursos de hardware do dispositivo, sem qualquer limitação imposta pelo navegador.
+
+[GABARITO]
+A

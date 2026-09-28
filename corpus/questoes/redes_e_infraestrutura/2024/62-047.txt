@@ -1,0 +1,18 @@
+ID: 62-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Empresa de Pesquisa Energética (EPE) está modernizando sua infraestrutura de rede para melhorar a comunicação e a eficiência operacional. No novo projeto, estão sendo consideradas diferentes arquiteturas e topologias de rede, a utilização de equipamentos de conexão e de transmissão de última geração, e a adoção de protocolos eficientes. A compreensão do modelo OSI e da arquitetura TCP/IP é essencial para a implementação bem-sucedida desse projeto.Para garantir a eficiência e a eficácia da nova infraestrutura de rede da EPE. Para garantir e uma comunicação eficiente e eficaz na nova infraestrutura de rede, a EPE deverá usar
+
+[ALTERNATIVAS]
+(A) apenas a topologia em anel e hubs para conexão.
+(B) switches e roteadores, implementando a arquitetura TCP/IP.
+(C) o modelo OSI, mas ignorar a utilização de protocolos de camada de transporte.
+(D) a topologia em barramento e repetidores.
+(E) apenas hubs e a arquitetura de camada física do modelo OSI.
+
+[GABARITO]
+B

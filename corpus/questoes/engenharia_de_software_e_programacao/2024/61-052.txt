@@ -1,0 +1,18 @@
+ID: 61-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+É correto afirmar que Gherkin é uma linguagem
+
+[ALTERNATIVAS]
+(A) de programação, muito utilizada quando se deseja alto desempenho.
+(B) de automação de testes, muito utilizada com a técnica de Test Driven Development.
+(C) utilizada para validar a prototipação do comportamento do usuário.
+(D) de domínio para descrever o comportamento do software de maneira legível.
+(E) de programação utilizada para implementação de Behavior Driven Development, garantindo que as funcionalidades do software estejam adequadas ao requisito.
+
+[GABARITO]
+D

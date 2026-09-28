@@ -1,0 +1,18 @@
+ID: 02-059
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Lei Geral de Proteção de Dados Pessoais (LGPD) dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais. Segundo a LGPD, a utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo é o(a):
+
+[ALTERNATIVAS]
+(A) bloqueio;
+(B) difusão;
+(C) anonimização;
+(D) eliminação;
+(E) extração.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 77-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O time de Desenvolvimento está projetando uma nova funcionalidade de Arquivamento Rápido para processos concluídos. No design inicial, o botão de arquivamento está posicionado longe do botão de Concluir Processo e usa o ícone de uma lixeira, que os usuários associam à Exclusão Irreversível. O feedback dos usuários revela confusão e hesitação antes de usar a função. A hesitação e a confusão na interação indicam uma falha no Desenho e Planejamento de Interação. Assinale qual princípio de UX é relacionado a essa falha:
+
+[ALTERNATIVAS]
+(A) A falta de feedback imediato do sistema.
+(B) A quebra do Modelo Mental do usuário, devido à incompatibilidade do ícone e da ação esperada.
+(C) A violação do princípio de Usabilidade Heurística de Flexibilidade e Eficiência.
+(D) A inadequação na implementação da Arquitetura da Informação pela Organização Sequencial.
+(E) A ausência de suporte para Web Content Accessibility Guidelines.
+
+[GABARITO]
+B

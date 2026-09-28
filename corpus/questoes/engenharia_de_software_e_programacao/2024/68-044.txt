@@ -1,0 +1,18 @@
+ID: 68-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto da Engenharia de Software, os testes de software desempenham um papel consideravelmente importante no âmbito do processo de desenvolvimento. Nesse contexto, os testes de unidade caracterizam-se por
+
+[ALTERNATIVAS]
+(A) dependerem do sucesso do teste de integração descendente (top-down).
+(B) representarem validações em componentes que representam programas independentes.
+(C) serem responsáveis pela verificação na menor unidade do componente ou módulo de software.
+(D) substituírem paulatinamente a abordagem de teste por fumaça na verificação do software.
+(E) utilizarem como metodologia de base a abordagem de testes de regressão.
+
+[GABARITO]
+C

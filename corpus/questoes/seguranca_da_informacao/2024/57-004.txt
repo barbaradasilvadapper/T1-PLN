@@ -1,0 +1,18 @@
+ID: 57-004
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+João foi incumbido de implementar criptografia em seus sistemas de informação para aprimorar o nível de segurança na troca de informações sigilosas entre os analistas da CVM. Entre outras decisões, deve definir se e quando empregar os modelos de criptografia simétrica e assimétrica. Para isso, é necessário levar em consideração que:
+
+[ALTERNATIVAS]
+(A) a criptografia assimétrica utiliza um par de chaves, em que a chave pública é usada para decriptação de mensagens encriptadas pela chave privada correspondente;
+(B) na criptografia assimétrica, a chave pública pode ser utilizada tanto para autenticação de uma mensagem encriptada pela chave privada correspondente, como para encriptação de mensagens, as quais só podem ser decriptadas pela chave privada correspondente;
+(C) para autenticação de mensagens na criptografia assimétrica, gera-se um hash da mensagem, que é encriptado com a chave pública, gerando uma assinatura digital;
+(D) a criptografia assimétrica veio substituir os algoritmos de criptografia simétrica, principalmente em grandes volumes de dados, em virtude de o esforço computacional envolvido na criptografia assimétrica ser normalmente muito menor;
+(E) a criptografia assimétrica e a simétrica coexistem, sendo a simétrica normalmente utilizada para compartilhar as chaves utilizadas na criptografia assimétrica.
+
+[GABARITO]
+B

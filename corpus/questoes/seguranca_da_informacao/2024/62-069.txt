@@ -1,0 +1,18 @@
+ID: 62-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A EPE está implementando diversas tecnologias para aumentar a segurança de sua rede. Entre essas tecnologias estão os sistemas de detecção de intrusão (IDS) e os sistemas de prevenção de intrusão (IPS), protocolos como SSL e TLS e ferramentas de monitoramento de tráfego e sniffers. Sobre essas medidas, analise as afirmativas a seguir. I. Os sistemas de detecção de intrusão (IDS) apenas monitoram e alertam sobre atividades suspeitas, sem tomar medidas para bloqueá-las. II. Os protocolos SSL e TLS são utilizados para garantir a comunicação segura através da criptografia dos dados em trânsito. III. Os sniffers de rede são ferramentas usadas para bloquear o tráfego de rede não autorizado.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 43-024
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao analisar como o HTTP define como os clientes requisitam páginas aos servidores e como eles as transferem aos clientes, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o cliente HTTP primeiro inicia uma conexão HTTP com o servidor. Uma vez estabelecida, os processos do navegador e do servidor acessam o HTTP por meio de suas interfaces de socket;
+(B) TCP oferece ao HTTP um serviço confiável de transferência de dados, o que implica que toda mensagem de requisição TCP emitida por um processo cliente chegará intacta ao servidor;
+(C) t oda mensagem de resposta TCP emitida pelo processo servidor chegará intacta ao cliente. O TCP não precisa se preocupar com dados perdidos ou com detalhes de como o HTTP se recupera da perda de dados ou os reordena dentro da rede;
+(D) o servidor envia ao cliente os arquivos solicitados e armazena qualquer informação de estado sobre o cliente. Se determinado cliente solicita o mesmo objeto duas vezes em um período de poucos segundos, o servidor não responde dizendo que acabou de enviá-lo;
+(E) o cliente envia mensagens de requisição HTTP para sua interface socket e recebe mensagens de resposta HTTP de sua interface socket. Já o servidor HTTP recebe mensagens de requisição de sua interface socket e envia mensagens de resposta para sua interface socket.
+
+[GABARITO]
+E

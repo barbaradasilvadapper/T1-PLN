@@ -1,0 +1,18 @@
+ID: 40-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Internet das Coisas, ou IoT (Internet of Things) como muitos conhecem, está dentro do tema casa inteligente, uma vez que faz com que “coisas” possam se comunicar, trocar informações e tomar decisões pré-programadas. Nesse contexto, o protocolo sem fio muito usado em dispositivos de casa inteligente, principalmente pela facilidade de transmitir pequenos pacotes de dados, com baixo consumo de energia e que não depende do Wi-Fi para funcionar, é o:
+
+[ALTERNATIVAS]
+(A) zigbee;
+(B) gateway;
+(C) relé smart;
+(D) 6lowPAN;
+(E) tuya.
+
+[GABARITO]
+A

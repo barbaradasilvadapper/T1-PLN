@@ -1,0 +1,18 @@
+ID: 34-079
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma organização está planejando IPv6 usando prefixo global 2001:db8:cafe::/48. Considerando melhores práticas de endereçamento IPv6, a estratégia mais adequada para segmentos de rede é
+
+[ALTERNATIVAS]
+(A) alocar /128 para cada host maximizando conservação.
+(B) evitar SLAAC usando apenas DHCPv6 stateful.
+(C) utilizar apenas endereços link-local para comunicação interna.
+(D) alocar /96 economizando espaço e mantendo compatibilidade com IPv4.
+(E) alocar /64 por segmento, permitindo SLAAC e simplificando operações.
+
+[GABARITO]
+E

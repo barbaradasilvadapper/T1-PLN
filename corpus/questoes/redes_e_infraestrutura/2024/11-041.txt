@@ -1,0 +1,18 @@
+ID: 11-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação aos tipos de redes de computadores e suas arquiteturas, avalie as afirmativas a seguir. I. Uma rede LAN e uma rede WAN se diferenciam apenas pelo fato de a WAN ser uma rede sem fio. II. As WAN costumam usar meios físicos apropriados para longas distâncias, como fibras óticas, pois os enlaces entre dois nós podem ter que cobrir distâncias grandes. III. A topologia em estrela minimiza o tamanho do cabeamento necessário em uma rede de mais de 8 nós regularmente espaçados pela área de uma WAN.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+B

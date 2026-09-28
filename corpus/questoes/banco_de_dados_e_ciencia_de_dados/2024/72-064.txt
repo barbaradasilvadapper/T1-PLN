@@ -1,0 +1,18 @@
+ID: 72-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe a cardinalidade do seguinte diagrama de Entidade Relacionamento: A entidade A pode se relacionar com B:
+
+[ALTERNATIVAS]
+(A) três vezes;
+(B) uma ou muitas vezes;
+(C) uma ou nenhuma vez;
+(D) uma e apenas uma vez;
+(E) nenhuma ou muitas vezes.
+
+[GABARITO]
+E

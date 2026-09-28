@@ -1,0 +1,18 @@
+ID: 50-083
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Assinale a opção correta sobre a segurança de redes de computadores.
+
+[ALTERNATIVAS]
+(A) Os sistemas de detecção de intrusão (IDS) e os sistemas de prevenção de intrusão (IPS) são ferramentas com a mesma função
+(B) Gestão de vulnerabilidades é um processo para correção de vulnerabilidades em softwares, não tendo relação direta com o firewall.
+(C) Um sistema de detecção de intrusão (IDS) não funciona numa DMZ (Demilitarized Zone), pois ela necessita de visibilidade completa da rede.
+(D) O uso de NAC (Network Access Control) não contribui para a gestão de vulnerabilidades.
+(E) Os Sistemas de detecção de intrusão (IDS) são projetados para monitorar e alertar sobre possíveis intrusões, enquanto sistemas de prevenção de intrusão (IPS) atuam ativamente para bloquear ataques detectados.
+
+[GABARITO]
+E

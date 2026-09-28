@@ -1,0 +1,18 @@
+ID: 55-073
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma arquitetura utiliza: • • • aplicação primária on-premise; réplica em nuvem atualizada continuamente; mecanismo de failover por DNS, com troca automática de endpoint; e • pequeno atraso na propagação do DNS. Considerando esse cenário, é correto afirmar que essa arquitetura
+
+[ALTERNATIVAS]
+(A) usa redundância ativa-ativa com RPO e RTO nulos.
+(B) adota uma estratégia híbrida com failover automático, sujeita a pequenas janelas de indisponibilidade.
+(C) caracteriza uma estratégia de Warm Site, cuja ativação do endpoint em nuvem exige intervenção na camada de aplicação.
+(D) implementa tolerância a falhas, garantindo a persistência de sessões de usuário durante o failover.
+(E) emprega replicação assíncrona, cujo RTO é limitado exclusivamente pela largura de banda do link de sincronismo.
+
+[GABARITO]
+B

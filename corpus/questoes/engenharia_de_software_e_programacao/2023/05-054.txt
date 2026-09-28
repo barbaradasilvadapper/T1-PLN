@@ -1,0 +1,18 @@
+ID: 05-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O trecho HTML que referencia corretamente um arquivo na pasta imagens, localizada na pasta corrente, é:
+
+[ALTERNATIVAS]
+(A) <img src="*/imagens/foto.jpg">
+(B) <img src="../imagens/foto.jpg">
+(C) <img src="imagens/foto.jpg">
+(D) <img src="root/..imagens/foto.jpg">
+(E) <img src="root/imagens/foto.jpg">
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 45-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Alguns computadores de uma rede segmentada de um órgão foram infectados por códigos maliciosos inseridos por um invasor que se utilizou das vulnerabilidades existentes no seu sistema operacional. Os códigos maliciosos não se propagam, mas permitem o retorno do invasor sempre que desejar e permitem a instalação de outros códigos maliciosos. O tipo de código malicioso que infectou os referidos computadores é um:
+
+[ALTERNATIVAS]
+(A) BOT;
+(B) spyware;
+(C) backdoor;
+(D) rootkit;
+(E) vírus.
+
+[GABARITO]
+D

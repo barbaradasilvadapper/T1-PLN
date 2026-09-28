@@ -1,0 +1,18 @@
+ID: 10-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O sistema Web SouDIGITAL está sendo medido por meio da Análise de Pontos de Função (APF). O SouDIGITAL possui funcionalidades de cadastro que armazenam dados em quatro Arquivos Lógicos Internos (ALI) distintos. O sistema possibilita que todos os dados cadastrados sejam apresentados ao usuário, diretamente na sua interface, a título de conferência, a partir da seleção de um conjunto de critérios de busca informados pelos usuários autorizados. Com base na APF, a funcionalidade que apresenta todos os dados cadastrados para conferência deve ser contada como:
+
+[ALTERNATIVAS]
+(A) duas Consultas Externas (CE) e duas Saídas Externas (SE);
+(B) quatro Consultas Externas (CE);
+(C) quatro Saídas Externas (SE);
+(D) uma Consulta Externa (CE);
+(E) uma Saída Externa (SE).
+
+[GABARITO]
+D

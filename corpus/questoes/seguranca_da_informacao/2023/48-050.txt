@@ -1,0 +1,18 @@
+ID: 48-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O TCE SP deseja aprimorar a gestão de pessoal utilizando um novo software. Para isso, o Setor Geral de Pessoal delegou à Diretoria de Gestão de Pessoas (DGP) a tarefa de determinar os meios pelos quais este software será implementado. A DGP decidiu contratar a empresa SisPesSoft para desenvolver o software em parceria com a equipe interna da Diretoria de Tecnologia da Informação. De acordo com a Lei nº 13.709/2018 – Lei Geral de Proteção de Dados (LGPD), nesse contexto, a empresa SisPesSoft atua como:
+
+[ALTERNATIVAS]
+(A) operador;
+(B) controlador;
+(C) encarregado;
+(D) órgão de pesquisa;
+(E) autoridade nacional.
+
+[GABARITO]
+A

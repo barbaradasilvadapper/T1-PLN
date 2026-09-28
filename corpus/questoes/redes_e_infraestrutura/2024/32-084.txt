@@ -1,0 +1,18 @@
+ID: 32-084
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Durante uma auditoria de segurança, uma organização descobriu que seus logs de eventos estavam distribuídos em vários servidores. A organização decidiu implementar um servidor de log centralizado que possa receber logs de servidores Linux via Syslog e de servidores Windows via Microsoft Event Viewer. Assinale a opção que melhor descreve a principal vantagem de implementar um servidor de log centralizado.
+
+[ALTERNATIVAS]
+(A) Reduzir o espaço de armazenamento necessário para logs em cada servidor individual.
+(B) Facilitar a correlação e análise de eventos de segurança de toda a infraestrutura.
+(C) Eliminar a necessidade de configuração de logs em servidores individuais.
+(D) Aumentar a segurança dos logs ao mantê-los apenas localmente nos servidores.
+(E) Melhorar o desempenho dos servidores individuais ao desativar a geração de logs.
+
+[GABARITO]
+B

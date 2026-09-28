@@ -1,0 +1,18 @@
+ID: 38-034
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Tribunal de Justiça está mudando a sua sede para um novo endereço. Nesse processo, a equipe de redes está distribuindo os endereços IPs de forma que fiquem com a mesma quantidade por departamento. Foi fornecido o endereço 10.210.114.0/20 para a nova sede. Para cumprir seu objetivo e atender aos 16 departamentos, a equipe de redes necessita da máscara:
+
+[ALTERNATIVAS]
+(A) 255.255.254.0;
+(B) 255.255.255.128;
+(C) 255.255.252.0;
+(D) 255.255.255.192;
+(E) 255.255.255.0.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 51-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em uma empresa, uma equipe de segurança da informação está implementando medidas para garantir que os dados armazenados não sejam alterados de maneira não autorizada ou acidental, mantendo a precisão e consistência das informações ao longo do tempo. Esse princípio de segurança da informação é conhecido como
+
+[ALTERNATIVAS]
+(A) integridade.
+(B) confidencialidade.
+(C) disponibilidade.
+(D) autenticidade.
+(E) não repúdio.
+
+[GABARITO]
+A

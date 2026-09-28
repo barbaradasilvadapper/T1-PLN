@@ -1,0 +1,18 @@
+ID: 12-081
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A estrutura de dados utilizada pelas linguagens de programação em que o elemento removido da estrutura é o que foi inserido mais recentemente é chamada de
+
+[ALTERNATIVAS]
+(A) fila.
+(B) pilha.
+(C) lista encadeada.
+(D) árvore.
+(E) tabela.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 89-054
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista da tecnologia da informacao funsaude ce
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere a tabela JOGO. No MS SQL Server, com a configuração default, assinale o comando que produz corretamente a lista de jogos que ainda não foram realizados.
+
+[ALTERNATIVAS]
+(A) select mandante, visitante from JOGO where golsM is null and golsV is null
+(B) select mandante, visitante from JOGO where golsM = null and golsV = null
+(C) select mandante, visitante from JOGO where golsM <> null and golsV <> null
+(D) select mandante, visitante from JOGO where golsM = null or golsV = null
+(E) select mandante, visitante from JOGO where golsM <> null or golsV <> null
+
+[GABARITO]
+A

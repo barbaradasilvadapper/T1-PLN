@@ -1,0 +1,18 @@
+ID: 20-026
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o seguinte código Python: import numpy as n arr = np.array([1, 2, 3, 4, 5, 6, 7]) print(arr[1:5]) O resultado da execução do código apresentado é:
+
+[ALTERNATIVAS]
+(A) [1 5]
+(B) [1 2 3 4 5]
+(C) [2 3 4 5]
+(D) [2 3 4 5 6]
+(E) [3 4 5 6 7]
+
+[GABARITO]
+C

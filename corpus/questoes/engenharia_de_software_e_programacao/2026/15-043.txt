@@ -1,0 +1,18 @@
+ID: 15-043
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Projetos complexos e críticos exigem testes exaustivos e contínuos, nos quais cada componente é validado individualmente e cada etapa de integração é rigorosamente homologada, evidenciando a importância da prática no desenvolvimento de software, especialmente em sistemas de missão crítica. I. O teste unitário é uma modalidade de testes que se concentra na verificação da menor unidade do projeto de software. II. O JUnit é um framework que facilita o desenvolvimento e execução de testes unitários em Javascript. III. O JUnit permite validar partes específicas do código de forma automatizada. Com base nas informações acima, analise as afirmações a seguir. Está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I e III, apenas.
+(C) II e III, apenas.
+(D) I, apenas.
+(E) I, II, III.
+
+[GABARITO]
+B

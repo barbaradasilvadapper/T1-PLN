@@ -1,0 +1,18 @@
+ID: 60-025
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os bancos de dados massivos (Big Data) se caracterizam por armazenar grande volume de dados heterogêneos que crescem rapidamente ao longo do tempo. Para implementar esse tipo de banco de dados, é necessário:
+
+[ALTERNATIVAS]
+(A) esquema pré-definido;
+(B) armazenamento de dados estruturados;
+(C) processamento orientado a transações atômicas e isoladas;
+(D) infraestrutura computacional escalável;
+(E) linguagem de consulta estruturada.
+
+[GABARITO]
+D

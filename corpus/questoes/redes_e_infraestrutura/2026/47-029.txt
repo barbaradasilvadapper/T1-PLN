@@ -1,0 +1,18 @@
+ID: 47-029
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um analista está implementando um pipeline no Logstash, da pilha ELK, para tratar registros de acesso HTTP oriundos de um servidor Apache. Para isso, foi utilizada a seguinte configuração de filtro: filter { grok { match => { "message" => "%{IP:client_ip} - - \[%{HTTPDATE:raw_date}\] \"%{WORD:http_method} %{URIPATHPARAM:request} HTTP/%{NUMBER:http_version}\" %{NUMBER:status_code} %{NUMBER:bytes}" } } date { match => [ "raw_date", "dd/MMM/yyyy:HH:mm:ss Z" ] } mutate convert rename } { } } => => { { "status_code" => "integer" "client_ip" => "[source][ip]" } Considere que uma linha de entrada válida seja: 192.168.1.10 - - [22/Mar/2026:14:09:58 +0000] "GET /index.php HTTP/1.1" 200 5120 Com base no funcionamento do Logstash e dos plugins utilizados, com a específica configuração e sintaxe apresentados, assinale a
+
+[ALTERNATIVAS]
+(A) O plugin date converte o campo raw_date em inteiro epoch, sobrescrevendo automaticamente o campo status_code, desde que o grok tenha sido executado com sucesso.
+(B) Após o processamento, o campo client_ip permanece no evento e, adicionalmente, é copiado para o campo aninhado [source][ip], já que a operação rename não remove o campo original.
+(C) O campo status_code será convertido para tipo numérico inteiro, enquanto o campo bytes permanecerá textual, salvo conversão adicional explícita.
+(D) O padrão %{URIPATHPARAM:request} captura exclusivamente o caminho da URI, mas nunca parâmetros de consulta (query string), razão pela qual o filtro falharia caso a URL contenha ?id=10.
+(E) O plugin grok já converte automaticamente os campos %{NUMBER:status_code} e %{NUMBER:bytes} para tipo numérico, tornando redundante o uso de mutate { convert => ... }.
+
+[GABARITO]
+C

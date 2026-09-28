@@ -1,0 +1,18 @@
+ID: 09-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um hacker, por ter conseguido subtrair previamente a senha de acesso, invadiu o tablet do vice-Presidente da Câmara dos Deputados e, sem este saber, adulterou informações importantes relativas ao funcionamento da Casa Parlamentar, trazendo grande prejuízo político. Identificada a pessoa, o aludido congressista ajuizou queixa-crime. Ao final do processo penal, o hacker foi condenado com aumento de pena de um terço, por conta do sujeito passivo do delito. Quanto à situação descrita, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) a deflagração da ação penal está incorreta, porquanto deveria ter sido iniciada pelo Ministério Público.
+(B) na fixação da pena, deveria ter havido um aumento de metade da pena, já que da invasão resultou prejuízo político.
+(C) o crime de invasão de dispositivo informático possui como elementar a exigência de o tablet estar conectado à rede de computadores.
+(D) o aumento da pena deveria ter sido de dois terços da pena, por conta do ilícito penal ter sido praticado contra o vice- Presidente da Câmara dos Deputados.
+(E) para configuração do delito trazido pelo art. 2º, da Lei nº 12.737, de 30 de novembro de 2012 (art. 154-A, do Código Penal), é preciso a efetiva adulteração das informações.
+
+[GABARITO]
+A

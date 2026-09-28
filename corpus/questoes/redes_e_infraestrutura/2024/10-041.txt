@@ -1,0 +1,18 @@
+ID: 10-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Fábio administra os servidores web do TJMS. Utilizando o nginx, Fábio configurou um balanceamento de carga entre os servidores web serv1, serv2 e serv3. O balanceamento foi configurado para operar de forma a não depender de atributos dos clientes ou de métricas dinâmicas dos servidores. A cada quatro requisições feitas via nginx, duas seguem para o serv2, uma segue para o serv1 e outra segue para o serv3. Para aplicar o comportamento especificado, Fábio utilizou como base o seguinte método de balanceamento de carga do nginx:
+
+[ALTERNATIVAS]
+(A) ip-hash;
+(B) random;
+(C) round-robin;
+(D) generic-hash;
+(E) least-connected.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 13-061
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista Paulo precisa analisar e descobrir padrões nas relações entre as diversas entidades nos processos judiciais do MPU, como promotores, juízes, autores, réus, secretários e advogados. Para isso, Paulo vai utilizar um banco de dados NoSQL para armazenar essa rede social judiciária que chamou de SocialJud. Para implementar o SocialJud, Paulo deve usar um banco de dados:
+
+[ALTERNATIVAS]
+(A) colunar;
+(B) chave-valor;
+(C) orientado a documento;
+(D) orientado a grafos com nós e arestas;
+(E) matricial com dimensões hierárquicas.
+
+[GABARITO]
+D

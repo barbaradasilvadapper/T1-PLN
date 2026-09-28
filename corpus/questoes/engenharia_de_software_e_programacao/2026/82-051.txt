@@ -1,0 +1,18 @@
+ID: 82-051
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Java 8 representou uma das atualizações mais significativas da plataforma Java, introduzindo recursos de programação funcional como expressões lambda, a API de Streams, interfaces funcionais, a classe Optional e métodos default em interfaces. Esses recursos modernizaram a linguagem, permitindo um código mais conciso, expressivo e adequado ao processamento declarativo de coleções de dados. Considere o seguinte trecho de código utilizando recursos do Java 8: List<String> nomes = Arrays.asList("Ana", "Carlos", "Beatriz", "Daniel", "Amanda"); List<String> resultado = nomes.stream() .filter(nome -> nome.startsWith("A")) .map(String::toUpperCase) .sorted() .collect(Collectors.toList()); System.out.println(resultado); Considerando os recursos introduzidos pelo Java 8 e o comportamento padrão do código apresentado, sobre o código apresentado, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A saída no console será [AMANDA, ANA], pois o método filter seleciona apenas os nomes que começam com a letra "A", o método map converte cada nome para letras maiúsculas utilizando uma referência de método (method reference), e o método sorted ordena os elementos em ordem alfabética antes da coleta final.
+(B) A expressão nome -> nome.startsWith("A") passada ao método filter é uma classe anônima instanciada em tempo de compilação, pois o Java 8 não suporta funções como valores — toda expressão lambda é convertida em uma classe anônima convencional que implementa a interface Runnable.
+(C) O método map(String::toUpperCase) realiza a filtragem dos elementos da stream, removendo os nomes que já estão em letras maiúsculas e mantendo apenas os que possuem letras minúsculas, sem alterar o conteúdo dos elementos restantes.
+(D) A operação collect(Collectors.toList()) é uma operação intermediária que retorna uma nova stream contendo os elementos coletados, permitindo o encadeamento de operações adicionais de filter e map após a sua invocação.
+(E) O método stream() aplicado à lista cria uma cópia profunda (deep copy) de todos os elementos, de modo que qualquer modificação realizada durante o pipeline de operações altera permanentemente a lista original nomes.
+
+[GABARITO]
+A

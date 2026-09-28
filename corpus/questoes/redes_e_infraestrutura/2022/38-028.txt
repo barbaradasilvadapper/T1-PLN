@@ -1,0 +1,18 @@
+ID: 38-028
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Renan trabalha na infraestrutura de um posto avançado do Tribunal de Justiça do Distrito Federal e precisa efetuar a conexão com a rede local do tribunal. Ao buscar informações sobre as redes, Renan identificou que a arquitetura utilizada é o modelo OSI em ambos os lados, porém os protocolos, endereçamentos e tamanhos de pacotes que trafegam nas redes são diferentes. Para permitir que essas redes heterogêneas sejam interconectadas, Renan deve tratar essa conexão na camada de:
+
+[ALTERNATIVAS]
+(A) redes;
+(B) enlace;
+(C) física;
+(D) apresentação;
+(E) aplicação.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 05-057
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Carla está criando um aplicativo Android com o layout dividido em fragmentos, em que cada fragmento utiliza um recurso de layout. Em um dos fragmentos, ela implementou a resposta ao toque sobre um FloatingActionButton, invocando a navegação para um segundo fragmento. Para o aplicativo executar de forma adequada, ela observou o ciclo de vida dos fragmentos e implementou a funcionalidade no método:
+
+[ALTERNATIVAS]
+(A) onCreateView;
+(B) onCreate;
+(C) onStart;
+(D) onAttach;
+(E) onResume.
+
+[GABARITO]
+A

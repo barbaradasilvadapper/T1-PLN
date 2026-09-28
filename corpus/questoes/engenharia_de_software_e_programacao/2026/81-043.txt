@@ -1,0 +1,18 @@
+ID: 81-043
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação aos diversos modelos de ciclo de vida de desenvolvimento de software (SDLC), assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Os modelos espiral e cascata são os mais adequados para grandes projetos de desenvolvimento de software, pois priorizam análise de riscos. ( ) Nos modelos iterativo, cascata e ágil são avaliados continuamente os requisitos com objetivo de responder rapidamente às alterações, contudo a dependência exagerada do feedback de clientes pode levar a alterações excessivas no escopo ou ao encerramento prematuro do projeto. ( ) Os modelos iterativo, espiral e ágil tem repetição de ciclos, sendo bem identificado que no modelo ágil a repetição de ciclos pode levar à alteração do escopo e a subestimação de recursos.
+
+[ALTERNATIVAS]
+(A) F – F – V.
+(B) V – V – V.
+(C) F – F – F.
+(D) F – V – F.
+(E) V – V – F.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 40-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Redes de Computadores podem ser classificadas de diversas formas, como de acordo com o tamanho da área geográfica que elas abrangem. Quanto à abrangência, a rede que ocupa o espaço de uma sala, escritório ou mesmo um prédio inteiro, porém sem o uso de cabos, usando transmissões em radiofrequência, chama-se:
+
+[ALTERNATIVAS]
+(A) PAN (Personal Area Network);
+(B) WAN (Wide Area Network);
+(C) LAN (Local Area Network);
+(D) IEEE 802.11;
+(E) IEEE 802.3.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 65-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Em um diagrama de modelagem de processos de negócio utilizando a notação BPMN (Business Process Model and Notation), assinale a principal função das Swimlanes.
+
+[ALTERNATIVAS]
+(A) Indicar diferentes tipos de eventos que ocorrem dentro do processo.
+(B) Representar as variáveis que serão manipuladas durante o processo.
+(C) Dividir o diagrama em seções para representar diferentes entidades ou papéis responsáveis por partes específicas do processo.
+(D) Mostrar a sequência temporal das atividades de forma cronológica.
+(E) Detalhar os recursos tecnológicos utilizados em cada etapa do processo.
+
+[GABARITO]
+C

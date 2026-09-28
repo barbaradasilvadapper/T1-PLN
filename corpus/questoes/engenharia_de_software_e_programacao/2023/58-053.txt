@@ -1,0 +1,18 @@
+ID: 58-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O movimento DevOps introduziu princípios e práticas para desenvolver software com qualidade de forma mais rápida e confiável. Assinale a opção que indica um princípio central do movimento DevOps.
+
+[ALTERNATIVAS]
+(A) As equipes de desenvolvimento e de operações devem trabalhar em silos independentes.
+(B) Crie um processo adaptativo, flexível e irrepetível para entrega contínua de software.
+(C) Mantenha tudo o que é necessário para criar, testar, implantar e lançar o software em um sistema de controle de versões.
+(D) A integração é uma atividade laboriosa e deve ser adiada até o início da etapa de testes funcionais.
+(E) Evite automatizar testes porque eles deterioram com o tempo e é mais fácil fazê-los manualmente.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 02-054
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Análise de Pontos de Função (APF) e o Software Non-Functional Assessment Process (SNAP) são utilizados para medir o tamanho de um software. Sobre a aplicação da APF e do SNAP, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o tamanho total do software é obtido por meio da multiplicação da quantidade de Pontos de Função pela quantidade de Pontos SNAP associados à função de transação medida;
+(B) a soma dos Pontos de Função aos Pontos SNAP representa o tamanho total do software;
+(C) os grupos de dados formados em resposta às normalizações de dados são quantificados pelo SNAP;
+(D) as funções de dados que mantêm grupos de dados associados às regras de negócio são quantificadas pela APF;
+(E) as alterações nas estruturas de arquivos lógicos são quantificadas pela APF.
+
+[GABARITO]
+D

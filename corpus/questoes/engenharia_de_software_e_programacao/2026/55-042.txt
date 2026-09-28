@@ -1,0 +1,18 @@
+ID: 55-042
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Fátima está utilizando um sistema bancário para consulta de extratos e pagamento de contas de seu computador pessoal. Sabendo que esse sistema utiliza a arquitetura cliente-servidor, o papel principal do cliente, nesse cenário, é
+
+[ALTERNATIVAS]
+(A) executar a aplicação com interface, lógica e banco separados.
+(B) servir com um nó em uma rede de múltiplos nós que compartilham arquivos diretamente entre si.
+(C) consumir serviços independentes via API.
+(D) armazenar o banco de dados, processar as requisições e executar as transações.
+(E) fornecer a interface (desktop ou web) e enviar suas requisições.
+
+[GABARITO]
+E

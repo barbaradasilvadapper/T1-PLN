@@ -1,0 +1,18 @@
+ID: 39-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Marco Civil da Internet, publicado na Lei nº 12.965/2014, estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil. Um dos principais aspectos versa sobre a isonomia que o responsável pela transmissão, comutação ou roteamento deve ter ao tratar quaisquer pacotes de dados. Tal aspecto é um dever estabelecido na seção que trata da:
+
+[ALTERNATIVAS]
+(A) Neutralidade da Rede;
+(B) Proteção aos Registros;
+(C) Guarda de Registros de Conexão;
+(D) Responsabilidade por Danos;
+(E) Atuação do Poder Público.
+
+[GABARITO]
+A

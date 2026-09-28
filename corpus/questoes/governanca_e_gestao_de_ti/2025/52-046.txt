@@ -1,0 +1,18 @@
+ID: 52-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Considerando a jurisprudência do Tribunal de Contas da União (TCU) aplicável à avaliação de contratos de Tecnologia da Informação (TI), avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) O processo de capacitação dos servidores designados como fiscais e gestores de contratos de TI tem como objetivo assegurar que possuam a qualificação técnica necessária para o desempenho de suas funções, sendo de responsabilidade do titular da unidade de TI e da autoridade competente da área administrativa o risco decorrente da indicação e designação de servidores não capacitados para a fiscalização técnica e administrativa desses contratos. ( ) O procedimento de designação de fiscais e gestores de contratos de TI deve, obrigatoriamente, distribuir aleatoriamente o quantitativo de contratos de TI sob responsabilidade de cada fiscal e gestor, mesmo que resulte em atribuição de tarefa de forma desbalanceada, para evitar favoritismos. ( ) A quantificação ou estimativa prévia do volume de serviços a ser contratado deve ser devidamente justificada no processo de planejamento da contratação, por meio de documento que demonstre a relação entre a demanda prevista e a quantidade a ser contratada, em observância ao princípio da motivação, considerando que o volume de serviços licitado determina a capacidade operacional exigida da empresa contratada e, consequentemente, o porte das empresas aptas a participar da licitação.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) V – V – F.
+(C) F – F – V.
+(D) F – V – F.
+(E) F – F – F.
+
+[GABARITO]
+A

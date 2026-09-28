@@ -1,0 +1,18 @@
+ID: 86-069
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A cada ciclo de contratação de uma empresa hipotética, os novos colaboradores fazem cursos em que são levados a conhecer a história da empresa, sua constante busca pela melhoria dos processos e são apresentados a antigos empregados da empresa que, com seu trabalho e comprometimento, colaboraram para o sucesso e o reconhecimento que ela possui no mercado, atualmente. No contexto do gerenciamento BPM, essa prática visa desenvolver
+
+[ALTERNATIVAS]
+(A) a governança.
+(B) o método.
+(C) a tecnologia da informação.
+(D) o alinhamento estratégico.
+(E) a cultura organizacional.
+
+[GABARITO]
+E

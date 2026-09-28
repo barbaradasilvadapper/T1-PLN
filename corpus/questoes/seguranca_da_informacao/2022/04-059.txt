@@ -1,0 +1,18 @@
+ID: 04-059
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Estratégia Nacional de Segurança da Informação e Cibernética do Poder Judiciário (ENSEC-PJ) foi instituída com o objetivo de incrementar a segurança cibernética nos órgãos do Poder Judiciário, abrangendo aspectos essenciais da segurança da informação e definindo objetivos para fortalecer o espaço cibernético do Poder Judiciário, assim como divulgar ações para os órgãos em seu âmbito de atuação. Um dos objetivos da ENSEC-PJ, instituída pela Resolução CNJ nº 396/2021, é:
+
+[ALTERNATIVAS]
+(A) estabelecer modelo centralizado de governança cibernética nacional;
+(B) permitir a manutenção e a continuidade dos serviços, ou o seu restabelecimento em menor tempo possível;
+(C) fortalecer as ações de governança cibernética;
+(D) realizar prática em gestão de incidentes e efetivar o aprimoramento contínuo do processo;
+(E) estabelecer rede de cooperação do Judiciário para a segurança cibernética.
+
+[GABARITO]
+B

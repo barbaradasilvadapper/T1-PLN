@@ -1,0 +1,18 @@
+ID: 40-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Walace foi contratado pelo Tribunal de Justiça do Amapá (TJAP) para verificar as configurações no firewall existente. Ele recebeu como reclamação que não se conseguia conectar via SSH nas máquinas que passavam pelo firewall. Outra demanda solicitada foi que o servidor do TJAP não deveria responder a ping, não deixando que ele entre, com o objetivo de evitar o ataque de Flooding. De forma a atender à demanda solicitada pelo Tribunal, Walace deverá implementar as regras, respectivamente:
+
+[ALTERNATIVAS]
+(A) <1> # iptables -A INPUT -p tcp --dport 22 -j ACCEPT <2> # iptables -A OUTPUT -p icmp --icmp-type echo-request -j DROP;
+(B) <1> # iptables -A INPUT -p tcp --dport 22 -j ACCEPT <2> # iptables -A INPUT -p icmp --icmp-type echo-request -j DROP;
+(C) <1> # iptables -I INPUT 1 -i lo -j ACCEPT <2> # iptables -A INPUT -m mac --mac-source 00:12:A1:24:BB:0C -j ACCEPT;
+(D) <1> # iptables -A INPUT -m state --state NEW -p tcp --dport 80 -j ACCEPT <2> # iptables -A OUTPUT -p tcp --dport 22 -j ACCEPT;
+(E) <1> # iptables -A INPUT -m state --state NEW -m tcp -p tcp -dport 5100:5150 -j ACCEPT <2> # iptables -A INPUT -p icmp -icmp-type echo-request -j DROP.
+
+[GABARITO]
+B

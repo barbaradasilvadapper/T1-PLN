@@ -1,0 +1,18 @@
+ID: 13-062
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe a transação SQL a seguir. BEGIN; INSERT INTO Parte (ParteID, NomeParte) VALUES (1, 'Mariana Souza'); SAVEPOINT insercao; INSERT INTO Parte (ParteID, NomeParte) VALUES (2, 'Joca Silva'); SAVEPOINT insercao; INSERT INTO Parte (ParteID, NomeParte) VALUES (3, 'Luiz Almeira'); ROLLBACK TO SAVEPOINT insercao; RELEASE SAVEPOINT insercao; ROLLBACK TO SAVEPOINT insercao; SELECT * FROM Parte; COMMIT; No PostgreSQL, após a execução da transação SQL, o(s) registro(s) da tabela Parte é(são):
+
+[ALTERNATIVAS]
+(A) (1, 'Mariana Souza')
+(B) (2, 'Joca Silva')
+(C) (3, 'Luiz Almeira')
+(D) (1, 'Mariana Souza') (2, 'Joca Silva')
+(E) (2, 'Joca Silva') (3, 'Luiz Almeira')
+
+[GABARITO]
+A

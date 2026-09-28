@@ -1,0 +1,18 @@
+ID: 66-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Seja o seguinte código, escrito em linguagem Python: def func(n): if n == 0: return [] return [n] + func(n-1) + [n] n = int(input("Valor de n positivo: ")) seq = func(n) print(' '.join(map(str,seq))) Sobre esse código, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) define uma chamada de função que utiliza a estrutura de dicionários.
+(B) imprime como resultado a saída 4 3 2 1 1 2 3 4, se digitado o valor 4 na console de entrada.
+(C) retorna o resultado [3, 2, 1, 1, 2, 3] se digitado o valor 3 na console de entrada.
+(D) sincroniza a execução de threads na chamada do método print(' '.join(map(str,seq))).
+(E) utiliza uma estrutura de chamada concorrente da função func() como um fork.
+
+[GABARITO]
+B

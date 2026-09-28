@@ -1,0 +1,18 @@
+ID: 85-061
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o seguinte recorte do documento listacara.xsl <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"> <xsl:template match="/"> <html> <body> <table border="1"> <tr> <th>Tipo</th> <th>Nome</th> </tr> <xsl:for-each select="lista/produto"> <tr> <td><xsl:value-of select="tipo"/></td> <xsl:choose> <xsl:when test="preco > 10"> <td> <xsl:text>CARO </xsl:text> <xsl:value-of select="nome"/> </td> </xsl:when> <xsl:otherwise> <td><xsl:value-of select="nome"/></td> </xsl:otherwise> </xsl:choose> </tr> </xsl:for-each> </table> </body> </html> </xsl:template> </xsl:stylesheet> Observe o seguinte recorte do documento lista.xml <?xml-stylesheet type="text/xsl" href=" listacara.xsl"?> <lista> <produto> <tipo>Comida</tipo> <nome>Arroz</nome> <preco>10</preco> </produto> <produto> <tipo>Roupa</tipo> <nome>Blusa</nome> <preco>15</preco> </produto> </lista> Ao abrir o documento lista.xml em um browser, o resultado será:
+
+[ALTERNATIVAS]
+(A) Tipo Comida Roupa Nome Arroz CARO Blusa
+(B) Tipo Comida Roupa Nome CARO Arroz CARO Blusa
+(C) Tipo Comida Roupa Nome Arroz Blusa
+(D) Tipo Roupa Nome CARO Blusa
+(E) Tipo Comida Nome Arroz
+
+[GABARITO]
+A

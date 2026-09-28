@@ -1,0 +1,18 @@
+ID: 25-032
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto do uso de cursores por meio do Oracle PL/SQL, analise o script a seguir. DECLARE v_CPF pessoa.CPF%type; v_nome pessoa.nome%type; ----------- BEGIN OPEN teste; LOOP ----------- EXIT WHEN teste %notfound; EXEC sp_inclui_beneficio(v_CPF); END LOOP; CLOSE teste; END; As linhas que substituem corretamente os trechos tracejados na quarta e na oitava linhas do script acima são, respectivamente:
+
+[ALTERNATIVAS]
+(A) CURSOR teste is SELECT CPF, nome FROM pessoa; FETCH teste into v_CPF, v_nome;
+(B) DECLARE teste as SELECT CPF, nome FROM pessoa; READ teste into v_CPF, v_nome;
+(C) SET CURSOR teste as SELECT CPF, nome FROM pessoa; RETRIEVE teste into v_CPF, v_nome;
+(D) teste = INPUT (SELECT CPF, nome FROM pessoa); NEXT teste INTO v_CPF, v_nome;
+(E) WITH teste as SELECT CPF, nome FROM pessoa; GET v_CPF=CPF, v_nome=nome FROM teste;
+
+[GABARITO]
+A

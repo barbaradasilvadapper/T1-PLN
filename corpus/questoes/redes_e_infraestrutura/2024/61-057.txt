@@ -1,0 +1,18 @@
+ID: 61-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em um ambiente de rede de computadores foi instalado o Harbor para proteger os artefatos através de políticas e controle de acesso baseado em função. Para atender essa característica, é necessário que se gerencie as imagens que vão conter todos os binários e dependências das aplicações. O Harbor cumpre essa função porque ele funciona como um
+
+[ALTERNATIVAS]
+(A) easy Yaml configuration.
+(B) multi-container manager.
+(C) orchestration compose.
+(D) registry open source.
+(E) virtual program Installer.
+
+[GABARITO]
+D

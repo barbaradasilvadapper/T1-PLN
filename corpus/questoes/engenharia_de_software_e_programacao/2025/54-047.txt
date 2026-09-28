@@ -1,0 +1,18 @@
+ID: 54-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O CMMI é um metamodelo de processos qualificado em uma série de capacidades de sistemas que devem estar presentes à medida que as organizações alcançam diferentes níveis de maturidade de processos. O CMMI representa processos de duas maneiras diferentes: (a) como um modelo “contínuo” e (b) como um modelo “por níveis”. Com relação ao CMMI e seus níveis, avalie as afirmativas a seguir. I. O metamodelo é contínuo e descreve um processo em duas dimensões (nível de capacidade x área do processo). Onde cada área de processo (por exemplo, planejamento de projeto, gerenciamento de requisitos, medição e análise, governança de configuração) é formalmente avaliada em relação as metas e práticas específicas e é classificada de acordo com níveis de capacidade. II. No nível 3, conhecido como controlado, todos os critérios do nível de capacidade 2 foram satisfeitos. Além disso, todo o trabalho associado à área de processo está de acordo com uma política definida em termos de organização; todas as pessoas que estão fazendo o trabalho têm acesso a recursos adequados para executar o trabalho; os envolvidos agem ativamente na área de processo conforme necessário; todas as tarefas e produtos são “monitorados, controlados, revisados e avaliados quanto à conformidade com a descrição de processo”. III. No nível 5, conhecido como quantitativamente otimizado, todos os critérios do nível de capacidade 4 foram satisfeitos. Além disso, a área de processo é adaptada e otimizada usando meios quantitativos e estatísticos para predizer às mudanças de necessidades do cliente e melhorar continuamente a eficácia da área de processo em produção. Está correto apenas o que se afirma em
+
+[ALTERNATIVAS]
+(A) I.
+(B) II.
+(C) I e II.
+(D) I e III.
+(E) II e III.
+
+[GABARITO]
+A

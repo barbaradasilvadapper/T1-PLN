@@ -1,0 +1,18 @@
+ID: 18-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João, administrador de banco de dados MySQL, deverá realizar, periodicamente, o backup lógico completo do banco de dados "tjap_db". Para isso, João deverá utilizar o comando:
+
+[ALTERNATIVAS]
+(A) backup -u root -p tjap_db > backup.sql;
+(B) mydump -u root -p tjap_db > backup.sql;
+(C) mybackup -u root -p tjap_db > backup.sql;
+(D) mysqldump -u root -p tjap_db > backup.sql;
+(E) select * from tjap_db into outfile backup.sql;
+
+[GABARITO]
+D

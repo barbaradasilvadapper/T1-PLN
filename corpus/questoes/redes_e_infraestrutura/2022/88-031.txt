@@ -1,0 +1,18 @@
+ID: 88-031
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Muitas organizações usam Network Attached Storage (NAS) para o armazenamento e compartilhamento de dados. Analise as afirmativas a seguir sobre o dispositivo de armazenamento NAS: I. Armazena e recupera dados na forma de bloco de dados através da rede IP. II. O compartilhamento de arquivos entre servidores é possível mesmo com diferentes sistemas operacionais. III. É inadequado para WANs, em função da falta de suporte da tecnologia para redes de longas distâncias. Está o correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 31-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Correlacione as afirmativas sobre segurança de ativos em uma rede corporativa a seguir com os tipos de malware contra os quais se pretende proteger. ( ) Trojan. ( ) Worm. ( ) Spyware. ( ) Ransomware. 1. O Firewall pode proteger desse malware bloqueando a replicação dele entre segmentos de rede. 2. A mitigação mais efetiva contra esse malware é a execução regular de backup dos dados. 3. O uso de proxy pode ajudar contra este tipo de malware, realizando varredura contra malware em todos os arquivos baixados por computadores na rede corporativa. 4. O bloqueio de tráfego de saída no firewall pode impedir que os dados obtidos por esse malware sejam exfiltrados através da internet. A relação correta, na ordem apresentada, é
+
+[ALTERNATIVAS]
+(A) 2 – 4 – 3 – 1.
+(B) 2 – 1 – 4 – 3.
+(C) 3 – 2 – 1 – 4.
+(D) 3 – 1 – 4 – 2.
+(E) 1 – 4 – 3 – 2.
+
+[GABARITO]
+D

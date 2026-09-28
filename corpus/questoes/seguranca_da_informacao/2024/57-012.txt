@@ -1,0 +1,18 @@
+ID: 57-012
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A fim de complementar o trabalho de gestão de vulnerabilidades nos ativos da organização, a equipe de segurança implementou uma solução para auxiliar no tratamento das vulnerabilidades residuais que podem colocar a organização em risco de ataques cibernéticos. A solução detecta precocemente as ameaças, correlacionando os eventos de segurança dos ativos, por meio da análise de seus logs, com comportamentos anômalos e ofensivos contra eles, permitindo algumas ações automáticas de resposta ao incidente. A solução contratada pela equipe de segurança é um:
+
+[ALTERNATIVAS]
+(A) IDS (Intrusion Detection System);
+(B) IPS (Intrusion Prevention System);
+(C) IAM (Identity Access Management);
+(D) firewall;
+(E) SIEM (Security Information and Event Management).
+
+[GABARITO]
+E

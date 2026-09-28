@@ -1,0 +1,18 @@
+ID: 57-022
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A analista Vanesa foi designada para configurar um Tenant do Office 365 para uma empresa de médio porte que deseja migrar todos os seus serviços de e-mail para a nuvem. Ela precisa garantir que a configuração esteja otimizada para segurança, desempenho e conformidade. Considerando as melhores práticas para a configuração de um Tenant do Office 365, a ação que a analista Vanesa deve executar é:
+
+[ALTERNATIVAS]
+(A) definir políticas de senha fracas para facilitar o acesso dos usuários;
+(B) habilitar o Multi-Factor Authentication (MFA) para todas as contas de usuário;
+(C) configurar todos os usuários para usar apenas o protocolo POP3, pois é o mais antigo e testado;
+(D) desativar o acesso ao Exchange Online para evitar possíveis ataques cibernéticos;
+(E) permitir o auto-forwarding de e-mails para domínios externos para promover a flexibilidade de comunicação.
+
+[GABARITO]
+B

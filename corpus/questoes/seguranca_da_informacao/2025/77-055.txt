@@ -1,0 +1,18 @@
+ID: 77-055
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Analista de Sistemas está configurando a comunicação segura HTTPS para o portal de serviços da Assembleia. Durante a fase de handshake do protocolo TLS (Transport Layer Security) entre o cliente e o servidor, as chaves de sessão são negociadas. O principal mecanismo de segurança garantido pela utilização do Certificado Digital do Servidor (X.509) durante o handshake inicial do TLS.
+
+[ALTERNATIVAS]
+(A) Garantir a Confidencialidade da chave simétrica através de criptografia simétrica.
+(B) Garantir a Autenticidade do Servidor e permitir que o cliente criptografe a chave simétrica negociada.
+(C) Estabelecer o algoritmo de hashing usado para a integridade da comunicação.
+(D) Assegurar a Idempotência das requisições HTTP subjacentes.
+(E) Controlar a autorização do usuário logado através do cookie de sessão.
+
+[GABARITO]
+B

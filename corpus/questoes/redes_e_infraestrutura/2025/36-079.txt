@@ -1,0 +1,18 @@
+ID: 36-079
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Ministério Público da União (MPU) está disponibilizando para seus servidores públicos uma rede segregada, Wi-Fi, para acesso à Internet isolado da sua rede interna. O Departamento de Infraestrutura informou que, para uma melhor qualidade no acesso, deverá usar canais mais largos, 80 Mhz e 160 Mhz, com modulação 256-QAM e multiusuário com múltiplas entradas e múltiplas saídas com até oito fluxos. Nessa configuração, o limite teórico é de 7 Gbps. O Departamento de Infraestrutura relatou à chefia que o modelo a ser implementado segundo essas especificações seria o:
+
+[ALTERNATIVAS]
+(A) 802.11b;
+(B) 802.11g;
+(C) 802.11n;
+(D) 802.11ac;
+(E) 802.11ax.
+
+[GABARITO]
+D

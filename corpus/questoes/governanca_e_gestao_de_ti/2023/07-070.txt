@@ -1,0 +1,18 @@
+ID: 07-070
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Márcia, gerente de TI, está atualmente realizando o planejamento para a implantação do ITIL 4 no TJSE. Uma das práticas planejadas, que faz parte do gerenciamento de serviço, é:
+
+[ALTERNATIVAS]
+(A) melhoria contínua;
+(B) análise de negócio;
+(C) gerenciamento de implantação;
+(D) gerenciamento do conhecimento;
+(E) gerenciamento financeiro dos serviços. Tipo 1 ̶ Branca Tipo 1 ̶ Branca Tipo 1 ̶ Branca Tipo 1 ̶ Branca
+
+[GABARITO]
+B

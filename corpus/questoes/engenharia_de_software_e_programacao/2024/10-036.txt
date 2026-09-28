@@ -1,0 +1,18 @@
+ID: 10-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Luana criou o aplicativo JustNotifica, para dispositivos Android. Em horários determinados, o aplicativo envia notificações locais ao usuário por meio de alarms do Android. Caso o dispositivo seja reiniciado, o aplicativo reagenda o envio das notificações locais de forma transparente ao usuário. A fim de automatizar o reagendamento de alarms logo após o reinício do dispositivo, o JustNotifica deve possuir a seguinte permissão do Android:
+
+[ALTERNATIVAS]
+(A) QUICKBOOT_POWERON;
+(B) ACTION_BOOT_COMPLETED;
+(C) LOCKED_BOOT_COMPLETED;
+(D) RECEIVE_BOOT_COMPLETED;
+(E) ACTION_LOCKED_BOOT_COMPLETED.
+
+[GABARITO]
+D

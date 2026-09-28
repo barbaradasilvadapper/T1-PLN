@@ -1,0 +1,18 @@
+ID: 04-057
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Durante uma auditoria externa contratada pelo Tribunal de Justiça ao departamento de segurança da informação, foram avaliados os sistemas existentes seguindo a Norma ABNT NBR ISO/IEC 27001. Durante a avaliação, houve a necessidade de prover um sistema de gerenciamento de senhas interativo e com qualidade. Para criar o seu sistema, o departamento de segurança deve fazer uso do objetivo de controle:
+
+[ALTERNATIVAS]
+(A) requisitos do negócio para controle de acesso;
+(B) controle de acesso ao sistema e à aplicação;
+(C) responsabilidade pelos ativos;
+(D) segurança em recursos humanos;
+(E) gerenciamento de acesso do usuário. – Página 14 Tipo
+
+[GABARITO]
+B

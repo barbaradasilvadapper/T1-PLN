@@ -1,0 +1,18 @@
+ID: 77-061
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Assembleia Legislativa está avaliando a implementação de RPA para automatizar o workflow de criação de pedidos de diárias, um processo que envolve a interação humana com diversas aplicações legadas e Web Forms. A principal característica que torna um processo de negócio adequado para automação via RPA é que ele seja
+
+[ALTERNATIVAS]
+(A) não-repetitivo, altamente complexo e baseado em tomada de decisão humana.
+(B) altamente estratégico e exija a criatividade e a inteligência emocional do funcionário.
+(C) regrado, repetitivo, de alto volume e baseado em dados estruturados ou semiestruturados previsíveis.
+(D) exclusivamente baseado em microsserviços e APIs, sem interface gráfica.
+(E) um processo que nunca muda e que não exige manutenção.
+
+[GABARITO]
+C

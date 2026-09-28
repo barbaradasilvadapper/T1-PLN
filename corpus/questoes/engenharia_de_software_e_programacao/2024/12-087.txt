@@ -1,0 +1,18 @@
+ID: 12-087
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte trecho de código XML: <acervo> <filme id="1"> <title>O concurseiro vencedor</title> <author>José da Silva</author> <year>2023</year> </filme> <filme id="2"> <title>A festa da aprovação</title> <author>Maria dos Anjos</author> <year>2024</year> </filme> <serie id="1"> <title>A preparação em etapas</title> <issue>13</issue> <month>Janeiro</month> <year>2024</year> </serie> </acervo> A expressão XPath que seleciona corretamente o título de todos os filmes no acervo é:
+
+[ALTERNATIVAS]
+(A) /acervo/filme//title
+(B) //filme/title
+(C) /acervo/serie/title
+(D) //title
+(E) //acervo/filme/title
+
+[GABARITO]
+B

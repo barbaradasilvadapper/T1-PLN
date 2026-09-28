@@ -1,0 +1,18 @@
+ID: 72-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Dentre as funcionalidades da aplicação Web MeACOMPANHA, os usuários podem, opcionalmente, registrar três telefones, dois endereços físicos e dois endereços de e-mail como informações de contato. Para os usuários que já utilizaram a aplicação, o sistema apresenta as informações de contato cadastradas viabilizando a opção de alterá-las ou excluí-las. O MeACOMPANHA emite mensagens para o usuário (de erro, de aviso, de alerta e de confirmação) de acordo com suas ações. Com base na Análise de Pontos de Função (APF), as funcionalidades supracitadas da aplicação MeACOMPANHA representam:
+
+[ALTERNATIVAS]
+(A) quatro Processos Elementares (PE) e um Arquivo Lógico (ALR);
+(B) cinco Processos Elementares (PE) e um Arquivo Lógico (ALR);
+(C) doze Processos Elementares (PE) e um Arquivo Lógico (ALR);
+(D) treze Processos Elementares (PE) e três Arquivos Lógicos (ALR);
+(E) dezesseis Processos Elementares (PE) e quatro Arquivos Lógicos (ALR).
+
+[GABARITO]
+A

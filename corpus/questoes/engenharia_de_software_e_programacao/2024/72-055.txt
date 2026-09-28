@@ -1,0 +1,18 @@
+ID: 72-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte código de um componente funcional do React Native: function printTheme(props) { const theme = useState(props?.index?0:1); try { console.log(theme); } catch (e) { console.log(e); } return <Text>{theme}</Text>; } Considere feitas as importações necessárias. Ao ser utilizado em uma aplicação React Native, o componente acima apresentará:
+
+[ALTERNATIVAS]
+(A) o valor do state theme;
+(B) falha, pois há uma ou mais falhas de sintaxe no interior do componente;
+(C) falha, pois o argumento passado ao hook useState não pode conter expressões;
+(D) falha, pois o nome de um componente funcional deve ser iniciado com letra maiúscula;
+(E) falha, pois o fluxo principal de um componente funcional não deve conter um bloco try-catch.
+
+[GABARITO]
+D

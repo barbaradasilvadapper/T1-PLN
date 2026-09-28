@@ -1,0 +1,18 @@
+ID: 69-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando o paradigma da orientação a objetos, identifique os quatro pilares mestres que norteiam o fundamento da tecnologia.
+
+[ALTERNATIVAS]
+(A) Classe, Abstração, Coesão e Encapsulamento.
+(B) Variáveis, Classe, Objeto e Método.
+(C) Agregação, Acoplamento, Colaboração e Especificação.
+(D) Classe, Objeto, Atributo e Método.
+(E) Acoplamento, Coesão, Colaboração e Encapsulamento.
+
+[GABARITO]
+D

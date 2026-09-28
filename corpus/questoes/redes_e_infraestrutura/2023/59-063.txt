@@ -1,0 +1,18 @@
+ID: 59-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O TCP (Transmission Control Protocol) e o UDP (User Datagram Protocol) são os protocolos da camada de transporte do modelo OSI mais utilizados. Eles possuem cabeçalhos diferentes, tornando-os apropriados a aplicações bem características. Com relação aos protocolos TCP e UDP, analise as afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s). ( ) Os campos número de sequência e número de confirmação, ambos do cabeçalho TCP, com 32 bits cada, são fundamentais à transferência confiável de dados ofertada por esse protocolo. ( ) Os campos porta de origem e porta de destino, comuns aos dois protocolos, possuem 16 bits cada, permitindo a numeração de portas de 0 até 65.535. ( ) As Flags (Bits de Código) SYN e ACK permitem que o protocolo UDP realize o sincronismo entre a máquina de origem e a máquina de destino das transmissões.
+
+[ALTERNATIVAS]
+(A) V, V e V;
+(B) V, V e F;
+(C) V, F e F;
+(D) F, V e V;
+(E) F, F e F.
+
+[GABARITO]
+B

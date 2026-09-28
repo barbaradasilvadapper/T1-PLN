@@ -1,0 +1,18 @@
+ID: 81-050
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação às metodologias de desenvolvimento de software, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Metodologias modernas de desenvolvimento de software são predominantemente ágeis, focadas em flexibilidade, colaboração e entregas contínuas de valor. ( ) DevOps e metodologias ágeis enfatizam os testes Shift-Left Testing para garantir a confiabilidade do software, ou seja, concentram-se na realização de testes o quanto antes para detectar problemas de codificação. ( ) DevOps e práticas ágeis se concentram em melhorar o processo de desenvolvimento e a entrega de software, sendo que, ambas são metodologias complementares no ciclo de vida de disponibilização de software.
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) V – V – F.
+(C) V – V – V.
+(D) F – V – V.
+(E) F – V – F.
+
+[GABARITO]
+B

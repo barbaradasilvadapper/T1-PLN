@@ -1,0 +1,18 @@
+ID: 93-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação ao Microsoft SQL Server Profiler, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). I. É uma interface gráfica do usuário para o SQL Trace para monitorar uma instância do SGBD ou do Analysis Services. Permite que o analista monitore um ambiente de produção para ver quais procedimentos armazenados estão afetando o desempenho por serem executados com muita lentidão. II. Permite que o analista capture uma série de instruções Transact-SQL que levam a um problema de desempenho. O rastreio salvo pode então ser usado para replicar o problema em um servidor de teste onde o problema pode ser diagnosticado. III. Oferece suporte à auditoria das ações executadas em instâncias do SGBD SQL Server. As auditorias registram ações relacionadas à segurança para revisão posterior por um administrador de segurança.
+
+[ALTERNATIVAS]
+(A) V – V – V.
+(B) F – F – V.
+(C) V – F – F.
+(D) F – V – V.
+(E) F – F – F.
+
+[GABARITO]
+A

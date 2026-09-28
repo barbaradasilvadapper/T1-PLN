@@ -1,0 +1,18 @@
+ID: 89-055
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista da tecnologia da informacao funsaude ce
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Analise o comando SQL a seguir, à luz das definições e instâncias das tabelas CLUBE e JOGO, definidas anteriormente. select c.nome from CLUBE c where (select count(*) from JOGO j where c.nome = j.mandante) <> 2 or (select count(*) from JOGO j where c.nome = j.visitante) <> 2 O resultado produzido pela execução desse comando é a lista de todos os clubes que
+
+[ALTERNATIVAS]
+(A) aparecem em quatro jogos.
+(B) não aparecem em quatro jogos.
+(C) não aparecem em dois jogos como mandante ou que não aparecem em dois jogos como visitante.
+(D) aparecem em dois jogos como mandante ou que aparecem em dois jogos como visitante.
+(E) aparecem em dois jogos como mandante e aparecem em dois jogos como visitante.
+
+[GABARITO]
+C

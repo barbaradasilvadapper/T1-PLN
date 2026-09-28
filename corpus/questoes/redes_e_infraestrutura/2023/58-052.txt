@@ -1,0 +1,18 @@
+ID: 58-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Aline, diretora de TI de uma empresa, precisa implementar uma estratégia para retenção mais longa possível das cópias de segurança de um ambiente e com um número limitado de três conjuntos de mídias de backup. Para isso, ela escolheu uma estratégia de rotação de modo que o primeiro conjunto de mídia é usado em dias alternados iniciando no primeiro dia, o segundo conjunto é usado no 2º e 6º dias e, o terceiro conjunto é usado no 4º e 8º dias. A partir do 9º dia este ciclo se repete. A estratégia de backup utilizada por Aline chama-se
+
+[ALTERNATIVAS]
+(A) fifo.
+(B) gfs.
+(C) rpo.
+(D) round robin.
+(E) torre de Hanoi.
+
+[GABARITO]
+E

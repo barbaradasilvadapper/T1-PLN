@@ -1,0 +1,18 @@
+ID: 32-100
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um Data Center hipotético possui um sistema redundante de fornecimento de energia elétrica. Nesse Data Center, a energia pode ser fornecida pela concessionária de energia ou por um grupo motor-gerador. Nesse contexto, durante a interrupção do fornecimento de energia para a concessionária, o grupo motor-gerador passará a fornecer energia ao Data Center por intermédio de um(a)
+
+[ALTERNATIVAS]
+(A) transformador.
+(B) disjuntor.
+(C) quadro de transferência automática.
+(D) elo fusível.
+(E) chave seccionadora.
+
+[GABARITO]
+C

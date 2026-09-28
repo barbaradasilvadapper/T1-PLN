@@ -1,0 +1,18 @@
+ID: 21-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Considerando a Estrutura Analítica do Projeto (EAP), analise as afirmativas a seguir. I. Para confeccionar a EAP é necessário considerar somente as entregas mais importantes, isto é, as entregas que podem comprometer as folgas livres do projeto. II. Cada nível descendente da EAP representa uma definição gradualmente menos detalhada do trabalho do projeto. III. A EAP não demonstra as sequências de trabalho de seus itens, isto é, não mostra a sequência em que os itens devem ser executados.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+C

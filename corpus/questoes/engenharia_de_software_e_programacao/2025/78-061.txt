@@ -1,0 +1,18 @@
+ID: 78-061
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No universo do desenvolvimento de software são muito empregados o Desenvolvimento Orientado a Testes (TDD, Test- Driven Development) e o Desenvolvimento Guiado por Comportamento (BDD, Behavior-Driven Development). Com relação ao desenvolvimento de software empregando TDD ou BDD, analise os itens a seguir. I. No TDD busca-se basicamente escrever um teste automatizado antes de começar a desenvolver o código de fato. II. No TDD existe a garantia de que cobertura de testes para 100% do código, já que nada é desenvolvido sem que um teste exista antes. III. No BDD temos a definição do que deve ser feito tecnicamente ao invés da descrição de como a funcionalidade deve se comportar. IV. O BDD trabalha para definir como uma demanda chega ao desenvolvedor, integrar diferentes áreas da empresa e pensar a partir do ponto de vista do comportamento esperado de uma funcionalidade pelo usuário. Está correto o que se afirma em.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II e, III, apenas.
+(C) II e IV, apenas.
+(D) I, II e IV, apenas.
+(E) I, II, III e IV.
+
+[GABARITO]
+D

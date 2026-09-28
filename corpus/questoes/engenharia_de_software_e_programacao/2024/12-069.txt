@@ -1,0 +1,18 @@
+ID: 12-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O desenvolvimento de algoritmos de Inteligência Artificial generativa está relacionado a aspectos éticos com impactos sociais, culturais e econômicos. Entre as diretrizes presentes em diversos instrumentos regulatórios relacionados à IA generativa, destaca-se a priorização de abordagens considerando os aspectos que formam a matriz FAT. O acrônimo FAT é formado pelos seguintes princípios éticos relacionados ao desenvolvimento de algoritmos:
+
+[ALTERNATIVAS]
+(A) Feedback, Algorithm e Training.
+(B) Framework, Agents e Tasks.
+(C) Fairness, Accountability e Transparency.
+(D) Freedom, Autonomy e Trust.
+(E) Fidelity, Altruism e Truthfulness.
+
+[GABARITO]
+C

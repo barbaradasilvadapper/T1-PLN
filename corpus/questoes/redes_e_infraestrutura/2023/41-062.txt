@@ -1,0 +1,18 @@
+ID: 41-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Após infectar a primeira máquina, softwares invasores demoram de 24 a 48 horas para penetrar todo um ambiente computacional e, geralmente, permanecem sem serem detectados por semanas ou meses. No Windows Server 2019, dentre as estratégias para a proteção dos controladores de domínio, o administrador de redes deve:
+
+[ALTERNATIVAS]
+(A) verificar se os controladores de domínio estão executando a versão mais estável do sistema operacional;
+(B) executar apenas a opção de instalação do Server Core nos controladores de domínio, em vez da versão completa da GUI;
+(C) desabilitar o Device Guard e o Controle de Aplicativos do Windows Defender;
+(D) permitir sessões de administrador (RDP/PowerShell) a partir de endereços IP das estações de trabalho, conforme a necessidade;
+(E) desbloquear o Acesso à Internet para controladores de domínio.
+
+[GABARITO]
+B

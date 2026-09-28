@@ -1,0 +1,18 @@
+ID: 79-079
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Carteiras digitais são ferramentas essenciais para armazenar e gerenciar criptomoedas, como Bitcoin e Ethereum. Considere uma equipe de desenvolvimento de um novo aplicativo móvel financeiro. Durante uma reunião para definir a arquitetura do sistema, surge a necessidade de escolher uma forma segura e eficiente para armazenar as chaves privadas dos usuários. Considerando as características de cada tipo de carteira digital, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) carteiras frias não permitem a realização de transações em dispositivos móveis;
+(B) carteiras quentes são mais seguras, pois exigem autenticação de dois fatores para acesso;
+(C) carteiras frias possuem interface mais simples e são recomendadas para usuários menos experientes;
+(D) carteiras frias possuem taxas de transação mais baixas que carteiras quentes;
+(E) carteiras quentes só podem ser acessadas por meio de aplicativos móveis registrados e autorizados.
+
+[GABARITO]
+A

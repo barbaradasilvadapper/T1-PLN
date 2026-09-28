@@ -1,0 +1,18 @@
+ID: 06-078
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A Resolução CNJ nº 335, de 29 de setembro de 2020, que institui política pública para a governança e a gestão de processo judicial eletrônico, no seu Art. 4º, considera que a plataforma digital do Poder Judiciário Brasileiro (PDPJ-BR) adotará obrigatoriamente soluções que abranjam o(s) seguinte(s) conceito(s):
+
+[ALTERNATIVAS]
+(A) utilização preferencial de tecnologias com código fechado;
+(B) desenvolvimento que possibilite o compartilhamento em segmentos específicos e esferas do Poder Judiciário;
+(C) ampla cobertura de testes, alto acoplamento, baixa coesão e modularização;
+(D) processo eletrônico em plataforma privada;
+(E) adaptável ao uso de ferramentas de aprendizado de máquina (machine learning) e de I.A. (Inteligência Artificial)
+
+[GABARITO]
+E

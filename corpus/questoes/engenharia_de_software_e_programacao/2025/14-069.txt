@@ -1,0 +1,18 @@
+ID: 14-069
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código a seguir. <!DOCTYPE html> <html> <body> <p id="demo"></p> <script> document.getElementById("demo").innerHTML = ~ 5; </script> </body> </html> Ao executar o código, o resultado do processamento do Javascript compatível com o ECMAS 2021 é:
+
+[ALTERNATIVAS]
+(A) 6.
+(B) ~5.
+(C) -6.
+(D) -5.
+(E) NaN.
+
+[GABARITO]
+B

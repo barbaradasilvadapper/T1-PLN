@@ -1,0 +1,18 @@
+ID: 65-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando as melhores práticas em Engenharia de Usabilidade, assinale a opção que apresenta a forma correta de utilizar a prototipação.
+
+[ALTERNATIVAS]
+(A) A equipe desenvolve um protótipo de alta fidelidade detalhado e funcional no início do projeto, sem coletar feedback dos usuários, focando em ajustes técnicos antes de validar as necessidades do usuário.
+(B) Utilizando protótipos de baixa fidelidade, a equipe rapidamente testa diversas ideias de interfaces com um pequeno grupo de usuários internos, sem alterar a diversidade na amostra de testes para manter uma base de comparação mas iterar com base no feedback recebido.
+(C) A equipe cria um único protótipo de alta fidelidade e realiza testes com um grande número de usuários finais e planeja ajustes com base nas observações coletadas.
+(D) Inicialmente, são desenvolvidos protótipos de baixa fidelidade para explorar conceitos de design e fluxos de interação. Após coletar e analisar feedback dos usuários, a equipe itera sobre os protótipos, aumentando progressivamente a fidelidade.
+(E) Os protótipos são desenvolvidos exclusivamente pelo time de design, sem comunicação com a equipe de desenvolvimento, e os testes de usabilidade são realizados apenas após a conclusão do desenvolvimento do aplicativo.
+
+[GABARITO]
+D

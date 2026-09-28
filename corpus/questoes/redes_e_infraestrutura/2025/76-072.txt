@@ -1,0 +1,18 @@
+ID: 76-072
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Assembleia Legislativa decide migrar o portal de consulta a projetos de lei para uma arquitetura em Nuvem Pública para lidar com picos de acesso, como em dias de votação importante. A característica fundamental das plataformas de Nuvem que permite que a infraestrutura se expanda automaticamente durante os picos de demanda e se recolha quando o tráfego diminui, otimizando os custos, é o(a)
+
+[ALTERNATIVAS]
+(A) Measured Service
+(B) Resource Pooling
+(C) Elasticity/Rapid Elasticity
+(D) Broad Network Access
+(E) High Availability
+
+[GABARITO]
+C

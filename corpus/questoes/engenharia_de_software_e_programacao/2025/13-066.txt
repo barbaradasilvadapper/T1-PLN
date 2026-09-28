@@ -1,0 +1,18 @@
+ID: 13-066
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A ORG_A é uma organização que anualmente conduz um processo seletivo interno para cargos de gerência. Concorrem aos cargos aqueles funcionários que cumprem um rol de requisitos definido em norma interna. A ORG_A já possui um software para gestão de funcionários e deseja estendê-lo com uma inovação para apoiar os processos seletivos. O representante do cliente explicou que os funcionários que cumprem os requisitos para um cargo devem ser automaticamente selecionados pelo sistema, e seus nomes devem ser exibidos em tela em ordem crescente de data de admissão, um dado relevante para os usuários e para o processo de seleção. Deve ser disponibilizada a opção para que os usuários do sistema possam alterar a ordenação dos nomes dos funcionários, arrastando e soltando na posição desejada. O sistema deve salvar a nova ordenação após a solicitação do usuário. A alteração da ordenação pode ser refeita a qualquer tempo, mas o sistema deve armazenar o histórico das listas anteriores. As listas de funcionários podem ser impressas em tela. Opcionalmente, as listas podem ser exportadas para os formatos PDF, JSON e XML para interoperabilidade com outros sistemas da ORG_A. Considerando a solicitação do cliente à luz da engenharia de requisitos, para a inovação solicitada identificam-se:
+
+[ALTERNATIVAS]
+(A) três requisitos funcionais e um requisito não funcional de produto;
+(B) quatro requisitos funcionais, um requisito não funcional de usabilidade e um requisito não funcional de desenvolvimento;
+(C) cinco requisitos funcionais e um requisito não funcional organizacional;
+(D) seis requisitos funcionais, um requisito não funcional de desempenho e um requisito não funcional de manutenibilidade;
+(E) sete requisitos funcionais, um requisito não funcional operacional e um requisito não funcional externo.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 43-034
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Para implementar a continuidade de negócios em um órgão, a Alta Administração designou uma equipe para realizar a análise de impacto nos negócios da organização (Business Impact Analysis – BIA). O processo de BIA analisa os efeitos de uma disrupção na organização, a fim de definir as prioridades e os requisitos para a sua continuidade de negócios. Na fase de planejamento da BIA, a equipe designada deve:
+
+[ALTERNATIVAS]
+(A) explorar, de forma consistente, o impacto organizacional que resulta da disrupção nas entregas de produtos e serviços;
+(B) definir limites para a aceitação do impacto;
+(C) determinar os produtos e serviços prioritários que são fornecidos aos clientes;
+(D) estabelecer RTO (Recovery Time Objective) para as atividades;
+(E) agrupar produtos e serviços quando estes tiverem características similares.
+
+[GABARITO]
+E

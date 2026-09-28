@@ -1,0 +1,18 @@
+ID: 76-078
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em projetos de sistemas de grande porte e com alto risco, como o desenvolvimento de um sistema de segurança predial na Assembleia Legislativa, um modelo de ciclo de vida é escolhido por seu foco sistemático na identificação e gestão de riscos em cada volta do ciclo. O seguinte modelo de desenvolvimento de software tem como característica central a Gestão de Risco como atividade dominante em cada iteração:
+
+[ALTERNATIVAS]
+(A) Modelo em V.
+(B) Modelo Espiral.
+(C) Modelo Cascata.
+(D) Modelo de Prototipação Descartável.
+(E) Extreme Programming
+
+[GABARITO]
+B

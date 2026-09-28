@@ -1,0 +1,18 @@
+ID: 58-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Numa instalação de bancos de dados Oracle, as tabelas do tipo Index-Organized permitem
+
+[ALTERNATIVAS]
+(A) a participação num grupo de tabelas (table cluster).
+(B) a supressão da cláusula primary key.
+(C) o acesso às linhas da tabela em certa ordem num full scan.
+(D) o uso de colunas do tipo long.
+(E) o uso de colunas virtuais (virtual columns).
+
+[GABARITO]
+C

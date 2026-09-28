@@ -1,0 +1,18 @@
+ID: 12-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Diferentemente do armazenamento feito em sistema de arquivos, o armazenamento em sistemas de banco de dados ou SGBD possui características especiais que garantem um funcionamento superior em relação à outras formas de armazenamento. Nesse contexto, as propriedades fundamentais garantidas pelo conceito ACID em sistemas de banco de dados são:
+
+[ALTERNATIVAS]
+(A) Atomicidade, Complexidade, Integridade, Durabilidade.
+(B) Atividade, Consistência, Inovação, Durabilidade.
+(C) Atomicidade, Consistência, Isolamento, Durabilidade.
+(D) Autenticidade, Conformidade, Integridade, Desempenho.
+(E) Automação, Convergência, Interoperabilidade, Desempenho.
+
+[GABARITO]
+C

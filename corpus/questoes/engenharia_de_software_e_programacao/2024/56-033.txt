@@ -1,0 +1,18 @@
+ID: 56-033
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Ao desenvolver um sistema em Java, Eliana decidiu usar os recursos para suporte ao paradigma funcional presentes na plataforma, como no código a seguir, para ordenar a lista. List<String> dados = Arrays.asList("Ana","Luiz","Carlos"); dados.sort(expressão funcional); Para que o código de Eliana funcione, a expressão funcional utilizada deverá ser:
+
+[ALTERNATIVAS]
+(A) lambda a,b : a>b
+(B) (a,b) => a.compareTo(b)
+(C) (a,b) -> a.equals(b)
+(D) lambda a,b: strcmp(a,b)
+(E) (a,b) -> a.compareTo(b)
+
+[GABARITO]
+E

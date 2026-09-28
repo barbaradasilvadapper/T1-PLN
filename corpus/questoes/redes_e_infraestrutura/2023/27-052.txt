@@ -1,0 +1,18 @@
+ID: 27-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Daniel administra o serviço de Domain Name System (DNS) da DPE/RS. Foi solicitado que Daniel atualize a configuração de DNS reverso, de forma que o endereço IP 200.198.128.255, da Defensoria, seja resolvido para o nome de domínio www23.defensoria.rs.def.br. Para atender à solicitação, Daniel deve proceder com a inserção de um novo registro de recurso DNS do tipo:
+
+[ALTERNATIVAS]
+(A) A;
+(B) PTR;
+(C) CAA;
+(D) AAAA;
+(E) NAPTR.
+
+[GABARITO]
+B

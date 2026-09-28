@@ -1,0 +1,18 @@
+ID: 42-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa de TI está instalando um sistema de segurança para um ambiente em nuvem de Plataforma como Serviço (PaaS). Nesse caso, precisa-se dividir as responsabilidades relativas à segurança de todo ambiente de nuvem (infraestrutura, acesso, banco de dados etc). Nesse tipo de aplicação (a PaaS), cabe ao provedor de serviços de nuvem ser responsável por proteger
+
+[ALTERNATIVAS]
+(A) os dados, aplicativos, controles de rede virtual, sistema operacional e acessos de usuários.
+(B) o controle de rede virtual, dados internos, middleware, rede física e aplicativos.
+(C) a computação, acesso de usuários, acesso de administradores, middleware e configurações específicas.
+(D) o middleware, controle de rede virtual, dados internos, configurações específicas e aplicativos.
+(E) a rede física, computação, armazenamento, os controles de rede virtual e o sistema operacional.
+
+[GABARITO]
+E

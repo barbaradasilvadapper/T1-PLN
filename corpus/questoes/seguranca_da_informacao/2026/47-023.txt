@@ -1,0 +1,18 @@
+ID: 47-023
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em relação aos requisitos de qualidade em TI, analise as afirmativas a seguir. I. A eficiência de desempenho refere-se ao uso adequado de recursos de hardware e rede. II. A autenticação forte e a criptografia de dados são consideradas requisitos de segurança para proteção contra acessos não autorizados. III. A usabilidade diz respeito à operação sem falhas frequentes.
+
+[ALTERNATIVAS]
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

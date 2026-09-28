@@ -1,0 +1,18 @@
+ID: 90-051
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com referência ao MySQL 5.7, assinale o tipo de tabela (storage engine) que suporta transações seguras.
+
+[ALTERNATIVAS]
+(A) HEAP
+(B) InnoDB
+(C) MEMORY
+(D) MERGE
+(E) MyISAM
+
+[GABARITO]
+B

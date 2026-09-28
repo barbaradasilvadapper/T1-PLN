@@ -1,0 +1,18 @@
+ID: 05-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código PHP abaixo, no qual três linhas foram omitidas do trecho tracejado. <!DOCTYPE html> <html> <body> <?php class Time { public $x; public $y; function set_n($x) { $this->n = $x; } function get_n() { return $this->n; } function set_c($c) { $this->c = $c; } function get_c() { return $this->c; } } - - - - - - - - - - - - - - echo "Time: " . $t->get_n(); echo "<br>"; echo "Cor: " . $t->get_c(); ?> </body> </html> Dado que essa página exibe o trecho Time: Flamengo Cor: Red as linhas omitidas são:
+
+[ALTERNATIVAS]
+(A) $t = new Time(); $t->set_n('Flamengo'); $t->set_c('Red');
+(B) $t = new Time; $t = set_n('Flamengo'); $t = set_c('Red');
+(C) $t = new Time(); $t := set_n('Flamengo'); $t := set_c('Red');
+(D) $t<-new Time; $t->set_n('Flamengo'); $t->set_c('Red');
+(E) $t = new Time(); $t.set_n('Flamengo'); $t.set_c('Red');
+
+[GABARITO]
+A

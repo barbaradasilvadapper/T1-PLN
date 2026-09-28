@@ -1,0 +1,18 @@
+ID: 30-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Tribunal de Justiça do Mato Grosso do Sul (TJMS) está adquirindo uma solução de hiperconvergência com o objetivo de adequar seu Centro de Dados (CD) a sua nova política de hospedagem de máquinas, em que todas as máquinas serão virtuais. Foi escolhido um hipervisor que é executado em modalidade de kernel, tirando partido da proteção de hardware, e cuja CPU hospedeira permite o uso de múltiplas modalidades para dar aos sistemas operacionais convidados seu próprio controle e desempenho aperfeiçoado. É correto concluir que o TJMS escolheu o(a):
+
+[ALTERNATIVAS]
+(A) hipervisor tipo 0;
+(B) hipervisor tipo 1;
+(C) hipervisor tipo 2;
+(D) paravirtualização;
+(E) emulação.
+
+[GABARITO]
+B

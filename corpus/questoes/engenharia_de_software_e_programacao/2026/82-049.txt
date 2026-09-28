@@ -1,0 +1,18 @@
+ID: 82-049
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O JDBC (Java Database Connectivity) é uma API padrão da plataforma Java que define um conjunto de interfaces e classes para estabelecer conexões com bancos de dados relacionais, executar comandos SQL e processar os resultados obtidos. Por meio de drivers específicos fornecidos pelos fabricantes de bancos de dados, o JDBC permite que a aplicação Java interaja com diferentes SGBDs de forma padronizada, usando componentes como Connection, Statement, PreparedStatement e ResultSet. Considere o seguinte trecho de código Java utilizando a API JDBC: String url = "jdbc:mysql://localhost:3306/loja"; String sql = "SELECT nome, preco FROM produtos WHERE categoria = ?"; try (Connection conn = DriverManager.getConnection(url, "usuario", "senha"); PreparedStatement pstmt = conn.prepareStatement(sql)) { pstmt.setString(1, "Eletrônicos"); ResultSet rs = pstmt.executeQuery(); while (rs.next()) { String nome = rs.getString("nome"); double preco = rs.getDouble("preco"); System.out.println(nome + " - R$ " + preco); } } catch (SQLException e) { e.printStackTrace(); } Considerando a API JDBC e o comportamento padrão do código apresentado, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O uso de PreparedStatement com parâmetros representados por ? permite que o valor seja inserido na consulta SQL de forma parametrizada, contribuindo para a prevenção de ataques de SQL Injection, pois o driver JDBC trata o parâmetro como dado e não como parte da estrutura do comando SQL.
+(B) A interface PreparedStatement e a interface Statement são funcionalmente idênticas, diferenciando-se apenas pela sintaxe de escrita da consulta, sem qualquer impacto em desempenho ou segurança da aplicação.
+(C) O método pstmt.setString(1, "Eletrônicos") substitui o primeiro ? da consulta pelo valor informado, sendo que a numeração dos parâmetros no PreparedStatement inicia-se em 0, seguindo a mesma convenção de índice de arrays em Java.
+(D) O bloco try-with-resources utilizado no código exige que o desenvolvedor implemente manualmente os métodos close() de Connection e PreparedStatement dentro de um bloco finally, pois o fechamento automático de recursos não se aplica a objetos JDBC.
+(E) O método executeQuery() do PreparedStatement é responsável tanto por executar consultas SQL quanto por comandos de modificação de dados como INSERT, UPDATE e DELETE, sendo o único método de execução disponível na interface PreparedStatement.
+
+[GABARITO]
+A

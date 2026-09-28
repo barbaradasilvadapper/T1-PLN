@@ -1,0 +1,18 @@
+ID: 32-086
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um administrador de redes está configurando um servidor Linux Ubuntu e precisa garantir que ele tenha um firewall básico configurado para se proteger contra acessos não autorizados. O comando do ufw (Uncomplicated Firewall) que deve ser utilizado para permitir conexões do tipo SSH (Secure Shell) neste servidor é
+
+[ALTERNATIVAS]
+(A) ufw enable 23/tcp
+(B) ufw allow 22/tcp
+(C) ufw enable 22/tcp
+(D) ufw allow 23/tcp
+(E) ufw allow 22/udp
+
+[GABARITO]
+B

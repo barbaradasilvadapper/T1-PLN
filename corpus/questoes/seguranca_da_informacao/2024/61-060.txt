@@ -1,0 +1,18 @@
+ID: 61-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A certificação digital é um mecanismo essencial para garantir a segurança em transações eletrônicas. Através da certificação, é possível garantir a identidade das partes envolvidas e assegurar a integridade das informações trocadas, evitando fraudes e falsificações. Assim, as certificações digitais
+
+[ALTERNATIVAS]
+(A) equivalem a assinaturas digitalizadas.
+(B) permitem seu uso apenas durante o prazo de validade.
+(C) pertencem ao Comitê Gestor da ICP-Brasil e à Autoridade Certificadora.
+(D) são definidas como serviço público, de responsabilidade do governo.
+(E) tornam sigiloso o documento eletrônico assinado.
+
+[GABARITO]
+B

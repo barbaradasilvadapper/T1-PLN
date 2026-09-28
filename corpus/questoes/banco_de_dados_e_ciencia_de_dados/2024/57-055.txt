@@ -1,0 +1,18 @@
+ID: 57-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Davi, um Database Administrator (DBA) que trabalha na Comissão de Valores Mobiliários, identificou, em sua base de dados SQL Server, que muitas operações efetuadas no banco não tinham rastreamento. Com o objetivo de identificá-las, ele iniciou a configuração de auditoria dos dados iniciando com as operações CREATE, ALTER e DROP para qualquer objeto de servidor. Os itens de auditoria a serem configurados por Davi formam um grupo de ações chamadas:
+
+[ALTERNATIVAS]
+(A) server_object_change_group;
+(B) server_object_ownership_change;
+(C) server_operation_group;
+(D) server_principal_impersonation_group;
+(E) server_state_change_group.
+
+[GABARITO]
+A

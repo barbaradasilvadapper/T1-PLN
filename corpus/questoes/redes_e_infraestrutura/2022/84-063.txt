@@ -1,0 +1,18 @@
+ID: 84-063
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O RPM Package Manager é um sistema executado em várias distribuições Linux e UNIX. O conjunto completo de modos básicos de operação do RPM é
+
+[ALTERNATIVAS]
+(A) consulta, atualização e instalação de pacotes.
+(B) instalação, atualização, criação e depuração de pacotes.
+(C) valoração, reinstalação, consulta e desinstalação de pacotes.
+(D) instalação, desinstalação, valoração, consulta, monitoramento e depuração de pacotes.
+(E) criação, instalação, desinstalação, atualização, consulta e verificação de pacotes.
+
+[GABARITO]
+E

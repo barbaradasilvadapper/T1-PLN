@@ -1,0 +1,17 @@
+ID: 23-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação à segurança no desenvolvimento de programação e revisão de código, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O ciclo de vida de desenvolvimento de software (SDLC) pode ser aperfeiçoado pelo uso do framework de desenvolvimento de software seguro (Secure Software Development Framework, SSDF), do NIST Cybersecurity, podendo ser usado por organizações de qualquer setor ou comunidade, independentemente do tamanho ou da sofisticação da segurança cibernética, bem como podendo ser usado para qualquer tipo de desenvolvimento de software, independentemente da tecnologia, plataforma, linguagem de programação ou ambiente operacional. ( ) O uso do Secure Coding Practices Checklist , do Developer Guide e do Offensive Web Testing Framework (OWTF), da Open Web Application Security Project (OWASP), proporciona melhores práticas de programação segura e revisão de código. ( ) O uso do Web Security Testing Guide (WSTG) em conjunto com o Web Application Penetration Checklist , ambos da OWASP, proporcionam a identificação dos mais adequados controles de segurança que devem ser executados, de acordo com as informações do OWASP TOP 10 e WSTG.
+
+[ALTERNATIVAS]
+(A) F, V e F.
+(B) F, F e V.
+(C) V, F e V.
+(D) V, V e V.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 28-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No modelo de referência OSI, a camada responsável por dividir os dados a serem transmitidos em pedaços menores, denominados “quadros”, é a camada:
+
+[ALTERNATIVAS]
+(A) física;
+(B) de rede;
+(C) de sessão;
+(D) de transporte;
+(E) de enlace de dados.
+
+[GABARITO]
+E

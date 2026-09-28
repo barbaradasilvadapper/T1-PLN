@@ -1,0 +1,18 @@
+ID: 57-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Anualmente, a Comissão de Valores Mobiliários (CVM) efetua a contratação da empresa X para executar uma auditoria em sua base de dados, de forma a manter a segurança e conformidade. Entretanto, a CVM efetuou a contratação da empresa Y apenas seis meses após a última auditoria. Essa empresa terá uma abordagem mais direcionada, concentrando-se em áreas críticas do banco de dados. Logo, a empresa Y deverá assinar com a CVM um contrato de execução de uma auditoria do tipo:
+
+[ALTERNATIVAS]
+(A) tradicional;
+(B) exclusão de riscos;
+(C) alterações;
+(D) análise de desempenho;
+(E) integridade.
+
+[GABARITO]
+B

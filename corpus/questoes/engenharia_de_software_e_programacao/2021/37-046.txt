@@ -1,0 +1,18 @@
+ID: 37-046
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com referência à sintaxe do formato XML, um elemento (XML element) pode conter:
+
+[ALTERNATIVAS]
+(A) atributos, texto e formato;
+(B) atributos, texto e outros elementos XML;
+(C) atributos, texto, outros elementos XML e arrays;
+(D) texto, formato e outros elementos XML;
+(E) texto, outros elementos XML e arrays.
+
+[GABARITO]
+B

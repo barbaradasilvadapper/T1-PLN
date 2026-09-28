@@ -1,0 +1,18 @@
+ID: 78-058
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Design Orientado por Domínio (ou DDD, Domain Driven Design) é uma metodologia de desenvolvimento de software que visa criar um modelo de software que corresponda ao domínio de negócios. Com relação a Design Orientado por Domínio, analise os itens a seguir I. O DDD se opõe à ideia de ter um único modelo para todo o sistema; em vez disso, incentiva a divisão do sistema em contextos limitados, cada um dos quais tem seu próprio modelo. II. Durante a fase estratégica de DDD, você está mapeando fora do domínio empresarial e definindo contextos limitados para seus modelos de domínio. III. DDD tático é quando você define os modelos de domínio com mais precisão, sendo estes padrões aplicados dentro de um único contexto limitado.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

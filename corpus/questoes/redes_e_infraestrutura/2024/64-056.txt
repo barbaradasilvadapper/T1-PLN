@@ -1,0 +1,18 @@
+ID: 64-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os sistemas de arquivos dos sistemas operacionais têm a responsabilidade implementam um esquema de abstração que facilita a utilização do meio de armazenamento secundário, isolando os usuários das questões inerentes ao funcionamento físico dos dispositivos de armazenamento. No que concerne a operações em diretórios, existe uma importante chamada de sistema que implementa a operação com diretórios conhecida como ligação simbólica, que
+
+[ALTERNATIVAS]
+(A) cria um arquivo minúsculo, que nomeia outro arquivo.
+(B) libera espaço na tabela interna de blocos fragmentados.
+(C) remove uma entrada de diretório do sistema de arquivos.
+(D) renomeia a estrutura de um diretório em todos os níveis.
+(E) retorna a próxima entrada em um diretório aberto.
+
+[GABARITO]
+A

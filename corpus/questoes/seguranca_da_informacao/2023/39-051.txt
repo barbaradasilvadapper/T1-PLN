@@ -1,0 +1,18 @@
+ID: 39-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A fim de reforçar a proteção dos enlaces sem fio, os analistas de segurança da informação da DPE/RS implantaram a autenticação por Extensible Authentication Protocol (EAP) na rede sem fio da Defensoria. Os analistas optaram pelo método EAP, que autentica mutuamente, por meio de certificados, o cliente e o servidor de autenticação, requerendo, no entanto, a instalação prévia de certificados de cliente em cada dispositivo que entrará na rede, além de exigir a manutenção de uma infraestrutura de chave pública. O método EAP escolhido pelos analistas foi:
+
+[ALTERNATIVAS]
+(A) Transport Layer Security;
+(B) Tunneled Transport Layer Security;
+(C) Flexible Authentication via Secure Tunneling;
+(D) Protected Extensible Authentication Protocol;
+(E) Lightweight Extensible Authentication Protocol.
+
+[GABARITO]
+A

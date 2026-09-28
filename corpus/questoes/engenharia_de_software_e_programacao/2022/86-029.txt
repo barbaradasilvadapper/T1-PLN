@@ -1,0 +1,18 @@
+ID: 86-029
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A metodologia Extreme Programming (XP) define uma série de práticas para desenvolvimento de software. Assinale a opção que apresenta a prática desta metodologia que contribui para produção de softwares de alta qualidade.
+
+[ALTERNATIVAS]
+(A) Testes de aceitação devem ser construídos por analistas especializados, sem a participação do cliente.
+(B) Programadores devem ter autonomia para utilizar seu próprio estilo de codificação desde que seja inteligível.
+(C) Postergar sempre que possível o merge do trabalho dos desenvolvedores em uma linha principal compartilhada.
+(D) Programar em par/dupla num único computador para assegurar que o código seja sempre revisto por duas pessoas.
+(E) Vedar a refatoração de códigos já testados e aprovados para evitar a introdução de novos erros.
+
+[GABARITO]
+D

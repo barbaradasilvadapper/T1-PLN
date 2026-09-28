@@ -1,0 +1,18 @@
+ID: 94-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Dependências funcionais são usadas no processo de normalização de tabelas em projetos de bancos de dados relacionais e possuem propriedades que permitem a derivação de novas dependências. Considerando-se os atributos A, B, C de uma tabela relacional T, a derivação que NÃO é válida é:
+
+[ALTERNATIVAS]
+(A) A, B, C → A, B;
+(B) se A → B e A → C então A → B, C;
+(C) se A → B e B → C então A → C;
+(D) se A → C então A, B → B, C;
+(E) se B → A e C → A então B → C.
+
+[GABARITO]
+E

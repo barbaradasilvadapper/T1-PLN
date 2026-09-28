@@ -1,0 +1,18 @@
+ID: 18-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe o seguinte Diagrama de Classes UML 2.5.1. O elemento ALOCAÇÃO com o atributo Gratificação representa um(a):
+
+[ALTERNATIVAS]
+(A) dependência;
+(B) generalização;
+(C) classe associativa;
+(D) agregação;
+(E) relacionamento de realização.
+
+[GABARITO]
+C

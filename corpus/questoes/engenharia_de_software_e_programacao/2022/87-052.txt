@@ -1,0 +1,18 @@
+ID: 87-052
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do JavaScript, analise um trecho do HTML de uma página web. <div id="xpto"> <p>Texto de teste 1</p> <p id="234">Texto de teste 2</p> </div> A linha de código que altera o tamanho da fonte do segundo parágrafo acima é:
+
+[ALTERNATIVAS]
+(A) document.getElementById("234").style.fontSize="48px";
+(B) document.getElementById("xpto.234").style.fontSize="48px";
+(C) document.getElementById(p<"234">).style.fontSize="48px";
+(D) document.getElementsById("div.p").style.fontSize="48px";
+(E) xpto.getElementById("234").style.fontSize="48px";
+
+[GABARITO]
+A

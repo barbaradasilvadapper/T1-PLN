@@ -1,0 +1,18 @@
+ID: 54-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Balanced Scorecard (BSC) é uma metodologia de medição e gestão de desempenho que desenvolvida em 1997 Robert Kaplan e David Norton. As perspectivas em que o BSC está baseado são
+
+[ALTERNATIVAS]
+(A) econômica, processos e aprendizado.
+(B) financeira, processos internos e desenvolvimento.
+(C) financeira, cliente, processos internos, aprendizado e crescimento.
+(D) econômica, cliente, processos internos e externos, aprendizado e amadurecimento.
+(E) econômica, financeira, processos internos e externos, aprendizado e desenvolvimento.
+
+[GABARITO]
+C

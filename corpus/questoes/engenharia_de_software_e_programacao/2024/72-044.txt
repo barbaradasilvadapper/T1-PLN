@@ -1,0 +1,18 @@
+ID: 72-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Time de Soluções Inovadoras (TISI) de uma organização está utilizando práticas do Kanban no processo de desenvolvimento de soluções de software. Com o uso do Kanban, o TISI visa a:
+
+[ALTERNATIVAS]
+(A) manter um workflow padrão para o processo de inovação;
+(B) gerenciar e melhorar o desempenho dos indivíduos do time;
+(C) estabelecer uma metodologia de desenvolvimento de soluções de software de modo iterativo;
+(D) aplicar um processo para definição de incrementos para desenvolvimento de soluções de software;
+(E) utilizar uma abordagem de mudança evolutiva, baseada em feedbacks, para o processo de desenvolvimento de soluções de software.
+
+[GABARITO]
+E

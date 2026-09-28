@@ -1,0 +1,18 @@
+ID: 12-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O TCE-PA está revisando suas políticas de segurança da informação para garantir que tanto a segurança física quanto a lógica estejam adequadamente implementadas. O objetivo é proteger os ativos do tribunal contra uma variedade de ameaças, desde intrusões físicas até ataques cibernéticos. Assinale a opção que exemplifica a integração de medidas de segurança física e lógica, respectivamente, para proteger os ativos da organização.
+
+[ALTERNATIVAS]
+(A) Instalar câmeras de vigilância para monitorar áreas de acesso restrito / implementar firewalls para proteger a rede.
+(B) Implementar sistemas de backup regulares / utilizar sistemas de controle de versionamento.
+(C) Utilizar autenticação multifator para acesso a sistemas críticos / configurar sistemas de detecção de intrusão ao ambiente.
+(D) Implementar sistemas de detecção de intrusão / estabelecer procedimentos de criptografia para os dados sensíveis.
+(E) Configurar mecanismos de controle de acesso a áreas sensíveis / instalar geradores de energia de reserva.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 30-035
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Lívia, arquiteta de soluções de cloud do Tribunal de Justiça de Mato Grosso de Sul, está estudando a possibilidade de o atual sistema on-premisse ser migrado para uma computação em nuvem. Nesse processo, Lívia está fazendo a verificação das características essenciais de modo a manter conformidade com o serviço de computação em nuvem. Ela identificou que uma premissa para a migração é que a empresa precisa ter o controle exato do hardware disponibilizado em um menor valor de abstração. Portanto, Lívia não conseguirá ter seu serviço de computação em nuvem por não atender à característica do(a):
+
+[ALTERNATIVAS]
+(A) agrupamento de recursos;
+(B) amplo acesso à rede;
+(C) elasticidade rápida;
+(D) serviço mensurável;
+(E) autosserviço sob demanda.
+
+[GABARITO]
+A

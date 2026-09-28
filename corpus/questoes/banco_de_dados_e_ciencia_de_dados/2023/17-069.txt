@@ -1,0 +1,18 @@
+ID: 17-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em administração de banco de dados MySQL, os recursos disponíveis para auxiliar na identificação de problemas relacionados à lentidão em um aplicativo são:
+
+[ALTERNATIVAS]
+(A) log de erros (Error log) e esquema de desempenho (performance schema);
+(B) log de consultas lentas (slow query log) e esquema de desempenho (performance schema);
+(C) esquema de desempenho (performance schema) e log binário (binary log);
+(D) declaração GET DIAGNOSTICS e log de consultas lentas (slow query log);
+(E) log binário (binary log) e lista de índices desatualizados.
+
+[GABARITO]
+B

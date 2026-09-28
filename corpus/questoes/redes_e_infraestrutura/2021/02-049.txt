@@ -1,0 +1,18 @@
+ID: 02-049
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No Windows Server, o Gerenciador dos Serviços de Informação da Internet (IIS) é reiniciado pela linha de comando:
+
+[ALTERNATIVAS]
+(A) infostart
+(B) iisreset
+(C) iisrestart
+(D) restart p-iis
+(E) run iis
+
+[GABARITO]
+B

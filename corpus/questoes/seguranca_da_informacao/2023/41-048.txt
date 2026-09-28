@@ -1,0 +1,18 @@
+ID: 41-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma grande emissora de televisão sofreu um ataque de DDoS e, após análise minuciosa, foi identificada a exploração de uma técnica comumente utilizada por servidores, que é usar vários threads para dar suporte a várias requisições à mesma aplicação de servidor. A técnica utilizada foi:
+
+[ALTERNATIVAS]
+(A) slowloris;
+(B) inundação SIP;
+(C) ataques de difusão;
+(D) ataques de amplificação;
+(E) ataques refletores e amplificadores.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 12-092
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em relação ao desenvolvimento de software utilizando plataformas low-code e no-code, analise as práticas a seguir. I. Implementar uma governança de TI que inclua revisões de segurança e conformidade das aplicações desenvolvidas, além de políticas de controle de versão. II. Utilizar apenas as bibliotecas e componentes internos da plataforma para evitar incompatibilidades e problemas de integração. III. Desenvolver todas as aplicações críticas em paralelo utilizando métodos tradicionais de desenvolvimento para garantir a redundância. Para garantir que as aplicações desenvolvidas atendam às boas práticas para segurança, escalabilidade e manutenção, é(são) correta(s) a(s) prática(s):
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

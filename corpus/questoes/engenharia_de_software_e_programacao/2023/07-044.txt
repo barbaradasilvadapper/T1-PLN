@@ -1,0 +1,18 @@
+ID: 07-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Toda instrução consiste em uma ordem codificada (código de operação), para o processador executar uma operação qualquer sobre dados. No contexto da interpretação de uma instrução, o dado pode ser um valor numérico, um caractere alfabético, um endereço (instrução de desvio). Considerando um dado de valor numérico, o mesmo número expresso em hexadecimal, decimal e binário, respectivamente, corresponde a:
+
+[ALTERNATIVAS]
+(A) BABE, 47806, 1011101010111111;
+(B) CACA, 51912, 1111101011001010;
+(C) CADE, 51934, 1000101011011110;
+(D) DEDE, 57054, 1101111011011110;
+(E) FADA, 64216, 1111101011011010.
+
+[GABARITO]
+D

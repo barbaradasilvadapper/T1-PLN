@@ -1,0 +1,18 @@
+ID: 82-054
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Drupal é um sistema de gerenciamento de conteúdo (CMS) de código aberto, desenvolvido em PHP, amplamente utilizado na construção de portais institucionais, sites governamentais e plataformas de conteúdo de grande escala. Sua arquitetura modular, baseada em um núcleo (core) extensível por módulos contribuídos e customizados, permite alto grau de personalização. Entre seus conceitos fundamentais estão os tipos de conteúdo (content types), a taxonomia, os blocos, as views, o sistema de permissões e papéis (roles) e o mecanismo de hooks e eventos para extensão de funcionalidades. Considere o seguinte cenário: Uma equipe de desenvolvimento está utilizando o Drupal (versão 9 ou superior) para construir um portal institucional de um órgão público. O portal deverá publicar notícias, organizar conteúdos por categorias temáticas, controlar o acesso de diferentes perfis de usuários (editor, revisor e administrador) e exibir listagens dinâmicas de conteúdo filtradas por data e categoria. Considerando a arquitetura, os conceitos e os recursos do ambiente Drupal, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Os tipos de conteúdo (content types) no Drupal permitem definir estruturas personalizadas de dados — como "Notícia", "Evento" ou "Documento" — compostas por campos configuráveis (texto, imagem, data, referência a taxonomia, entre outros), e cada tipo de conteúdo pode possuir sua própria configuração de exibição e formulário de edição.
+(B) O sistema de taxonomia do Drupal funciona exclusivamente como mecanismo de navegação visual (menus), não sendo possível utilizá-lo para categorizar, filtrar ou agrupar conteúdos em listagens dinâmicas geradas pelo módulo Views.
+(C) O sistema de permissões do Drupal opera exclusivamente no nível global da aplicação, atribuindo acesso total ou nenhum acesso ao painel administrativo, sem possibilidade de configurar permissões granulares por funcionalidade, tipo de conteúdo ou papel (role) de usuário.
+(D) O módulo Views, presente no núcleo do Drupal a partir da versão 8, é utilizado exclusivamente para a criação de formulários de entrada de dados, não sendo capaz de gerar listagens, tabelas ou grades de conteúdo com filtros e ordenação.
+(E) No Drupal, toda a customização de funcionalidades deve ser realizada por meio de edição direta dos arquivos do núcleo (core), pois o sistema não dispõe de um mecanismo de módulos contribuídos ou customizados que permita estender o comportamento padrão sem alterar o código-fonte original.
+
+[GABARITO]
+A

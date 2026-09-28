@@ -1,0 +1,18 @@
+ID: 06-077
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+De acordo com a Resolução CNJ nº 396/2021, que institui a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ), no seu Art. 18, estabelece que a Rede de Cooperação do Judiciário na área de segurança cibernética tem o seguinte objetivo:
+
+[ALTERNATIVAS]
+(A) evitar ambiente colaborativo com outros órgãos do Poder Judiciário, de forma a manter em segredo quaisquer ameaças e eventuais ataques ou incidentes cibernéticos;
+(B) estimular o compartilhamento de informações sobre incidentes e vulnerabilidades cibernéticas, exceto as do âmbito do Poder Judiciário;
+(C) realizar exercícios cibernéticos com a participação de entes restritos ao Poder Judiciário, no intuito de evitar vazamento de dados sensíveis;
+(D) fortalecer o Centro de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos (CPTRIC-PJ) do CNJ;
+(E) desestimular a estrutura judiciária quanto ao aprimoramento de investigações de crimes cibernéticos.
+
+[GABARITO]
+D

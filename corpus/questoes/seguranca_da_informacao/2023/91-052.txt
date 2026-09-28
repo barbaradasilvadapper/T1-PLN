@@ -1,0 +1,18 @@
+ID: 91-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A norma NBR ISO/IEC 27001:2022 é composta por um conjunto de controles que as organizações interessadas em implementar um sistema de gestão de segurança da informação devem adotar. De acordo com esta norma, um exemplo de controle organizacional é
+
+[ALTERNATIVAS]
+(A) o uso de criptografia.
+(B) a classificação das informações.
+(C) a prevenção de vazamento de dados.
+(D) o acordo de confidencialidade ou não divulgação.
+(E) o descarte seguro ou reutilização de equipamentos.
+
+[GABARITO]
+B

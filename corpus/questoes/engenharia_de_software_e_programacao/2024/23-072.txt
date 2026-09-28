@@ -1,0 +1,17 @@
+ID: 23-072
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação à Engenharia de Requisitos, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A Engenharia de Requisitos inclui três atividades fundamentais: elicitação (e análise); especificação; e, validação. ( ) Na etapa de classificação e organização, no processo de elicitação e análise de requisitos, o conjunto não estruturado de requisitos é agrupado pelos requisitos relacionados e organizado em grupos coerentes. ( ) Na prática, a Engenharia de Requisitos é um processo iterativo, no qual as atividades são intercaladas As afirmativas são, respectivamente:
+
+[ALTERNATIVAS]
+(A) V, F e F.
+(B) F, V e F.
+(C) F, F e V.
+(D) V, V e V.
+
+[GABARITO]
+D

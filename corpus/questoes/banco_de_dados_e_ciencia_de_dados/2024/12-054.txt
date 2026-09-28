@@ -1,0 +1,18 @@
+ID: 12-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em um processo, o funcionário responsável foi substituído por outro funcionário da mesma organização. Tal substituição deve ser registrada no banco de dados do departamento de pessoal. A cláusula SQL mais indicada para implementar essa alteração, mantendo a integridade do banco, é denominada
+
+[ALTERNATIVAS]
+(A) ALTER
+(B) INSERT
+(C) JOIN
+(D) UPDATE
+(E) WITH
+
+[GABARITO]
+D

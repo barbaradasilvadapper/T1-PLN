@@ -1,0 +1,18 @@
+ID: 88-054
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código JavaScript a seguir. const cidades = ["Natal", "Manaus", "Recife", "Brasília"]; cidades.reverse(); alert (cidades); Assinale o que é exibido na execução do trecho acima.
+
+[ALTERNATIVAS]
+(A) Brasília,Manaus,Natal,Recife
+(B) Brasília,Natal,Manaus,Recife
+(C) Brasília,Recife,Manaus,Natal
+(D) Manaus,Recife,Brasília,Natal
+(E) Recife,Natal,Manaus,Brasília
+
+[GABARITO]
+C

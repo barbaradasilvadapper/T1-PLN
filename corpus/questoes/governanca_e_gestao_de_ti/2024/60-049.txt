@@ -1,0 +1,18 @@
+ID: 60-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O framework COBIT 2019 define os componentes para construir e manter um sistema de governança e gerenciamento de informações e tecnologias relacionadas. Nesse sentido, com base no COBIT 2019 Core Model, os objetivos de:
+
+[ALTERNATIVAS]
+(A) governança MEA (Monitor, Evaluate e Assess) estão relacionados aos processos de otimização da entrega de benefícios, auditorias interna e externa da organização;
+(B) gerenciamento APO (Align, Plan and Organize) estão relacionados à gestão de inovação, orçamento, custos, qualidade e dados;
+(C) governança BAI (Build, Acquire and Implement) estão relacionados aos requisitos, dados, programas, projetos e mudanças em TI;
+(D) governança DSS (Deliver, Service and Support) estão relacionados ao custo dos controles de incidentes e manutenção dos sistemas de segurança;
+(E) gerenciamento de TI corporativa estão relacionados ao mapeamento de todo ambiente computacional (hardware e software) da organização.
+
+[GABARITO]
+B

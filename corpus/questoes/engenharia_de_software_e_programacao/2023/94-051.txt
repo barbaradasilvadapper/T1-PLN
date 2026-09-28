@@ -1,0 +1,18 @@
+ID: 94-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Python a seguir. for num in enigma(10): print(num) Dado que a execução desse código exibe 10 números inteiros, a formulação correta para a função enigma é:
+
+[ALTERNATIVAS]
+(A) def enigma(n): for i in range(n): yield i
+(B) def enigma(n): for i in range(n): return i
+(C) def enigma(n): for i in range(n): if i == 0: return i else: return (enigma3(n-1))
+(D) def enigma(n): return n * range(n)
+(E) def enigma(n): return n!
+
+[GABARITO]
+A

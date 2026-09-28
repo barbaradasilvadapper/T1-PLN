@@ -1,0 +1,18 @@
+ID: 92-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Após configurar o IP 220.42.17.6/29 na interface do seu roteador, juntamente com o gateway padrão (default gateway) configurado como 220.42.17.7, você percebe que o roteador não consegue fazer ping para nenhum dispositivo remoto. Com base no cenário apresentado, assinale a opção que melhor descreve o que está impedindo o roteador de fazer ping em dispositivos remotos.
+
+[ALTERNATIVAS]
+(A) O endereço IP da interface do roteador está incorreto.
+(B) O endereço IP do gateway padrão (default gateway) não faz parte da mesma sub-rede.
+(C) O endereço de IP do gateway padrão (default gateway) é o endereço de broadcast desta sub-rede.
+(D) O provedor de serviços de internet está bloqueando o tráfego de saída.
+(E) O roteador está com defeito e precisa ser substituído.
+
+[GABARITO]
+C

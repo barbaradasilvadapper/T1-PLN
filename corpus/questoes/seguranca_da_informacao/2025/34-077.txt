@@ -1,0 +1,18 @@
+ID: 34-077
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um WAF (Web Application Firewall) está sendo configurado para proteger aplicações web críticas. Sobre a implementação e limitações de WAF, é correto afirmar que o WAF.
+
+[ALTERNATIVAS]
+(A) elimina necessidade de validação de entrada no código.
+(B) opera na camada 7, protegendo contra-ataques de aplicação, mas não substitui práticas de desenvolvimento seguro.
+(C) deve operar em modo de bloqueio imediatamente sem período de aprendizado.
+(D) protege somente contra-ataques DDoS volumétricos de camadas 3 e 4.
+(E) não consegue distinguir tráfego legítimo de malicioso.
+
+[GABARITO]
+B

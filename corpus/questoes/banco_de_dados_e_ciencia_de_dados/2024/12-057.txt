@@ -1,0 +1,18 @@
+ID: 12-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de SGBD (Sistema de Gerenciamento de Banco de Dados) e de gerenciamento de banco de dados, relacionamento é um importante conceito para garantir o correto funcionamento de um sistema que se utiliza de banco de dados, em relação à sua modelagem. Em um Sistema de Gerenciamento de Banco de Dados (SGBD), um relacionamento refere-se a
+
+[ALTERNATIVAS]
+(A) um conjunto de operações matemáticas aplicadas aos dados para gerar novos valores.
+(B) uma estrutura hierárquica utilizada para organizar os dados em múltiplos níveis.
+(C) uma associação entre tabelas que define como os dados estão interligados.
+(D) um método para compactar e armazenar os dados de forma eficiente em disco.
+(E) um algoritmo usado para distribuir os dados em diferentes servidores de banco de dados.
+
+[GABARITO]
+C

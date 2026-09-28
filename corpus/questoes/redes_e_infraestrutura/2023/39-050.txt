@@ -1,0 +1,18 @@
+ID: 39-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Carlos instalou um novo servidor de Network File System, versão 4 (NFSv4). Para permitir aos clientes NFSv4 se conectarem com sucesso ao novo servidor, Carlos precisou liberar no firewall os pacotes de Transmission Control Protocol (TCP) trafegados na porta padrão de operação do serviço NFSv4. Sendo assim, Carlos precisou liberar no firewall a porta TCP:
+
+[ALTERNATIVAS]
+(A) 111;
+(B) 1110;
+(C) 2049;
+(D) 3049;
+(E) 4045.
+
+[GABARITO]
+C

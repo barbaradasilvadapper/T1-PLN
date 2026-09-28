@@ -1,0 +1,18 @@
+ID: 34-069
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um portal de notícias sofreu ataque DDoS utilizando amplificação DNS e NTP. Para mitigar efetivamente ataques de amplificação, a estratégia mais apropriada inclui
+
+[ALTERNATIVAS]
+(A) desabilitar completamente DNS e NTP na organização.
+(B) utilizar apenas servidores Windows.
+(C) aumentar largura de banda sem outras medidas.
+(D) migrar todos os serviços para IPv6.
+(E) implementar BCP 38, rate limiting em servidores e separar servidores DNS autoritativos dos recursivos.
+
+[GABARITO]
+E

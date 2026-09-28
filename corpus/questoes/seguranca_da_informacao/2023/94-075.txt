@@ -1,0 +1,18 @@
+ID: 94-075
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Na empresa XX, os funcionários do departamento de engenharia têm acesso de leitura e execução para cada objeto armazenado no diretório “orçamentos” e direito de escrita apenas no diretório “projetos”. A política de segurança da informação adotada pela empresa XX está relacionada ao princípio da:
+
+[ALTERNATIVAS]
+(A) auditabilidade;
+(B) disponibilidade;
+(C) autenticidade;
+(D) confidencialidade;
+(E) privacidade.
+
+[GABARITO]
+D

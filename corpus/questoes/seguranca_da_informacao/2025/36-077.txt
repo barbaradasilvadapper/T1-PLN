@@ -1,0 +1,18 @@
+ID: 36-077
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Davi é gerente de segurança em uma multinacional e recebeu a demanda de implementar a segurança na rede Wi-Fi de uma das filiais. Ele buscou por um protocolo que conseguisse ter um bom nível de segurança e não consumisse muitos recursos com criptografia. Após alguns estudos, Davi selecionou o WPA2 em virtude de ser um modelo de criptografia mais utilizado em redes sem fio e possuir características voltadas para o uso empresarial e corporativo, além de ter um nível de segurança considerado:
+
+[ALTERNATIVAS]
+(A) médio, protocolo de criptografia TKIP e método de autenticação PSK;
+(B) alto, protocolo de criptografia AES e método de autenticação PSK;
+(C) baixo, protocolo de criptografia RC4 e método de autenticação CRC;
+(D) altíssimo, protocolo de criptografia AES e método de autenticação SAE;
+(E) baixo, protocolo de criptografia EAP-MD5 e método de autenticação RADIUS.
+
+[GABARITO]
+B

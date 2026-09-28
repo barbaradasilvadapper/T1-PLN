@@ -1,0 +1,18 @@
+ID: 59-041
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Redes de computadores podem ser classificadas de acordo com a distância máxima entre dois dispositivos da rede. Essa distância determina a sua abrangência geográfica, que pode ser definida como LAN (Local Area Network), MAN (Metropolitan Area Network), PAN (Personal Area Network) e WAN (Wide Area Network). Os tipos de redes, em ordem crescente de abrangência geográfica, são:
+
+[ALTERNATIVAS]
+(A) WAN, MAN, LAN e PAN;
+(B) LAN, PAN, MAN e WAN;
+(C) LAN, MAN, PAN e WAN;
+(D) PAN, LAN, WAN e MAN;
+(E) PAN, LAN, MAN e WAN.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 21-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação ao diagrama de entidade relacionamento no contexto da engenharia de software, analise as afirmativas a seguir. I. O diagrama é utilizado em projetos de desenvolvimento de software que não utilizam banco de dados. II. Os relacionamentos entre entidades podem ser do tipo 1:1, 1:n ou n:n. III. No diagrama, elipses representam atributos.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

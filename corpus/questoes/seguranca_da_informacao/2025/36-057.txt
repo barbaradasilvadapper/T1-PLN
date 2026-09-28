@@ -1,0 +1,18 @@
+ID: 36-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Karen é funcionária pública do Ministério Público da União (MPU) e foi designada para determinar e implementar controles de acordo com a Norma ABNT NBR ISO/IEC 27002:2022 para tratamento de riscos de segurança da informação em um sistema de gestão de segurança da informação (SGSI) do MPU, baseado na ABNT NBR ISO/IEC 27001. Entretanto, para iniciar esse processo, Karen precisará determinar, junto com a organização, os requisitos de segurança necessários para atender a demanda do MPU. Para identificar esses requisitos, as principais fontes de requisitos, segundo a Norma ABNT NBR ISO/IEC 27002:2022, observadas por Karen, são:
+
+[ALTERNATIVAS]
+(A) avaliação de riscos da organização, considerando estratégia e os objetivos globais de negócios e requisitos legais que devem ser cumpridos;
+(B) plano estratégico de Tecnologia da Informação, além de seus requisitos contratuais com as partes interessadas e seu ambiente sociocultural;
+(C) plano de continuidade de negócios e conjunto de princípios, objetivos e requisitos de negócios para as etapas do ciclo de vida da informação do MPU;
+(D) sistema de gestão e continuidade de negócios e avaliação de riscos da organização;
+(E) plano de continuidade de negócios e requisitos regulamentares a serem cumpridos pela organização, assim como suas partes interessadas.
+
+[GABARITO]
+A

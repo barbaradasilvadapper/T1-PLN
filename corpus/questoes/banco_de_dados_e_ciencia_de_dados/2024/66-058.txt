@@ -1,0 +1,18 @@
+ID: 66-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os catálogos do sistema (system catalogs) do servidor PostgreSQL, versão 16.2, servem para gerenciar e acessar informações sobre o banco de dados e seus objetos. Eles desempenham um papel fundamental nas operações internas do PostgreSQL, contribuindo para tarefas como otimização de consultas, controle de acesso e gerenciamento de transações. Considerando os system catalogs do PostgreSQL, versão 16.2, o catálogo
+
+[ALTERNATIVAS]
+(A) pg_attrdef, que armazena valores padrão da coluna, com as principais informações sobre colunas armazenadas em pg_attribute.
+(B) pg_database, que armazena informações sobre os bancos de dados disponíveis, uma cópia por banco de dados.
+(C) pg_sequence, que armazena informações sobre transformações, mecanismo de adaptação de tipos de dados a linguagens procedurais.
+(D) pg_shseclabel, que armazena informações sobre funções de suporte associadas a famílias de operadores de métodos de acesso.
+(E) pg_statistic_ext, que armazena definições de wrapper de dados externos.
+
+[GABARITO]
+A

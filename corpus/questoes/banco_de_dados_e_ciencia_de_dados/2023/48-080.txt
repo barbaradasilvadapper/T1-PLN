@@ -1,0 +1,18 @@
+ID: 48-080
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No Data Warehouse do TCE SP, chamado DWContas, está implementada a dimensão DIM_PESSOA contendo o atributo CEP. Quando uma pessoa muda de endereço e altera seu CEP no cadastro do sistema transacional do ambiente operacional, a tabela DIM_PESSOA precisa ser atualizada. No DWContas, é necessário preservar o valor anterior do CEP e armazenar o valor atualizado em uma nova coluna da DIM _PESSOA. Para atender ao requisito do DWContas, deve-se implementar a técnica de modelagem multidimentional Slowly Change Dimension (SCD) do tipo:
+
+[ALTERNATIVAS]
+(A) 0;
+(B) 1;
+(C) 2;
+(D) 3;
+(E) 4. Tipo 1 Branca Tipo 1 Branca
+
+[GABARITO]
+D

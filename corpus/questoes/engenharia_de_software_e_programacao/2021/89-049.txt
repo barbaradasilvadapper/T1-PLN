@@ -1,0 +1,18 @@
+ID: 89-049
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista da tecnologia da informacao funsaude ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto de padrões de projeto GoF, há um padrão que tem como definição garantir que uma classe tenha apenas uma instância de si mesma e que forneça um ponto global de acesso. Assinale-o.
+
+[ALTERNATIVAS]
+(A) Builder.
+(B) Factory.
+(C) Proxy.
+(D) Singleton.
+(E) Strategy. Ε1Τ1
+
+[GABARITO]
+D

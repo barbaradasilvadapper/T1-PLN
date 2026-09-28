@@ -1,0 +1,18 @@
+ID: 58-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Sobre as tecnologias de storage comumente utilizadas pelas organizações, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) DAS é diretamente conectado à rede local.
+(B) NAS possui sistema operacional próprio.
+(C) SAN utiliza exclusivamente unidades de estado sólido.
+(D) DAS e NAS utilizam armazenamento em bloco.
+(E) NAS e SAN precisam estar conectados ao servidor host.
+
+[GABARITO]
+B

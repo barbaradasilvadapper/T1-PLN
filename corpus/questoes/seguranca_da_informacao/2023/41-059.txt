@@ -1,0 +1,18 @@
+ID: 41-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os datagramas IPSec são enviados entre pares de entidades da rede. A entidade de origem, antes de enviar datagramas IPSec ao destinatário, cria uma conexão lógica da camada de rede, denominada Associação de Segurança (SA). As informações de estado sobre essa SA possuem um identificador, denominado Índice de Parâmetro de Segurança (SPI), que possui o tamanho de:
+
+[ALTERNATIVAS]
+(A) 12 bits;
+(B) 16 bits;
+(C) 24 bits;
+(D) 32 bits;
+(E) 64 bits.
+
+[GABARITO]
+D

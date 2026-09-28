@@ -1,0 +1,18 @@
+ID: 88-058
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Numa prova de concurso, a organizadora estava preocupada com a ocorrência de homônimos fazendo prova na mesma sala, já que isso poderia ocasionar contratempos. Para uma tabela relacional T, contendo as colunas CPF, Nome e CodSala, assinale o comando SQL que identifica corretamente os homônimos em cada sala.
+
+[ALTERNATIVAS]
+(A) SELECT CodSala, Nome, CPF FROM T WHERE EXISTS (SELECT * FROM T t1
+(B) SELECT CodSala, Nome, CPF FROM T WHERE EXISTS (SELECT * FROM TT WHERE TT.CodSala = T.CodSala and TT.Nome <> T.Nome and TT.CPF = T.CPF)
+(C) SELECT CodSala, Nome, CPF FROM T and t1.Nome = T.Nome
+(D) SELECT CodSala, Nome, CPF FROM T WHERE NOT EXISTS (SELECT * FROM T t1 and t1.Nome = T.Nome
+(E) SELECT CodSala, Nome, CPF FROM T WHERE EXISTS (SELECT * FROM T t1 and t1.Nome = T.Nome
+
+[GABARITO]
+E

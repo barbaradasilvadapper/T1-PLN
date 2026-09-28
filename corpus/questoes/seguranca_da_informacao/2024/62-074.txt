@@ -1,0 +1,18 @@
+ID: 62-074
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Sobre o uso de assinaturas digitais e certificação digital, analise as afirmativas a seguir. I. O uso da assinatura digital garante a autenticidade, a integridade, o não repúdio e a confidencialidade. II. A assinatura digital está baseada em criptografia assimétrica. Nesse processo, o usuário remetente utiliza sua chave privada para criptografar a mensagem. Do outro lado, o usuário destinatário utiliza a chave pública do emissor para decriptografar a mensagem. III. O certificado digital é um atestado eletrônico que guarda informações sobre seu titular, e é garantido por uma Autoridade Certificadora (AC).
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+C

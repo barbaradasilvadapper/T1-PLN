@@ -1,0 +1,18 @@
+ID: 95-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A analista Carla recebeu a tarefa de implementar uma solução algorítmica para classificar os processos arquivados no TJRN entre aqueles que foram ganhos e aqueles que foram perdidos. Na primeira abordagem, Carla se baseou no algoritmo de machine learning que, aplicado à classificação binária, divide os dados de entrada em duas regiões separadas por uma reta. Ao fim do algoritmo, a distância da reta para o dado mais próximo de cada região é a mesma e a maior possível. Sendo assim, na primeira abordagem, Carla utilizou como base o algoritmo de machine learning:
+
+[ALTERNATIVAS]
+(A) K-Médias;
+(B) Regressão Linear;
+(C) Regressão Logística;
+(D) K-Vizinhos Mais Próximos;
+(E) Máquina de Vetores de Suporte.
+
+[GABARITO]
+E

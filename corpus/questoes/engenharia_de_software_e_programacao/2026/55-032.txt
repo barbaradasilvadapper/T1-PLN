@@ -1,0 +1,18 @@
+ID: 55-032
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Rational Unified Process (RUP) é um processo de desenvolvimento de software iterativo, centrado na arquitetura e orientado por casos de uso. Em uma de suas fases, busca-se compreender o domínio do problema, definir e validar a arquitetura do sistema e mitigar os principais riscos do projeto. Considerando essas características, assinale a opção que indica a fase descrita.
+
+[ALTERNATIVAS]
+(A) Iniciação.
+(B) Construção.
+(C) Manutenção.
+(D) Elaboração.
+(E) Transição.
+
+[GABARITO]
+D

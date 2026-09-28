@@ -1,0 +1,18 @@
+ID: 70-035
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Sobre modelagem e desenvolvimento de sistemas, analise as afirmativas a seguir. I. Na modelagem de processos (BPM), a utilização de linguagens de programação é fundamental para a representação gráfica dos processos de negócio. II. A UML (Unified Modeling Language) permite representar sistemas complexos por meio de conceitos como classes, objetos, herança e polimorfismo. III. Análise de Pontos de Função é aplicada para avaliar a performance de sistemas já implementados, medindo a eficiência do código e a velocidade de execução.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 17-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Depois de assumir uma função de gestão dos bancos de dados SQL Server, João decidiu levantar os logins correntes na sua instalação. Para tanto, com seu login “sa” executou o comando:
+
+[ALTERNATIVAS]
+(A) select * from dba.logins
+(B) select * from information_schema.login
+(C) select * from master..logins
+(D) select * from sys.syslogins
+(E) select * from system
+
+[GABARITO]
+D

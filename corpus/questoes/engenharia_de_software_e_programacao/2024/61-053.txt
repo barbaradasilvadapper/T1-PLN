@@ -1,0 +1,18 @@
+ID: 61-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando as afirmativas a seguir, assinale a opção que indica aquelas que descrevem as vantagens da prototipação. I. Prototipação permite que as partes interessadas tenham uma visão clara do produto final antes do início do desenvolvimento. II. A prototipação ajuda a identificar problemas de usabilidade no início do processo de design. III. A prototipação garante que o produto final será desenvolvido sem precisar de ajustes ou correções. IV. A prototipação permite que funcionalidades sejam testadas de forma incremental antes da implementação completa. V. A prototipação elimina a necessidade de revisões ou alterações posteriores no ciclo de desenvolvimento.
+
+[ALTERNATIVAS]
+(A) I, III e IV.
+(B) II, IV e V.
+(C) I, II e IV.
+(D) II, III e V.
+(E) Todas estão corretas.
+
+[GABARITO]
+C

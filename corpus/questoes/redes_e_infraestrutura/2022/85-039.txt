@@ -1,0 +1,18 @@
+ID: 85-039
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto do Linux, a simbologia de redirecionamento de saída de dados que adiciona dados no final de um arquivo é:
+
+[ALTERNATIVAS]
+(A) |
+(B) ||
+(C) >
+(D) ->
+(E) >>
+
+[GABARITO]
+E

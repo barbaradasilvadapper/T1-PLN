@@ -1,0 +1,18 @@
+ID: 43-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Durante uma auditoria na rede de computadores da empresa XXX Ltda, foi identificado que um hacker insider não autorizado realizou alteração no programa de pagamento de funcionários da empresa para que ele rodasse de modo diferente do habitual. A alternativa que indica corretamente o nome desse tipo de ataque e sua caracterização é:
+
+[ALTERNATIVAS]
+(A) ataque de interceptação – ocorre quando um ativo é destruído ou torna-se indisponível (ou inutilizável), caracterizando um ataque contra a disponibilidade;
+(B) ataque de interrupção – ocorre quando um ativo é acessado por uma parte não autorizada (pessoa, programa ou computador), caracterizando um ataque contra a confidencialidade;
+(C) ataque de modificação – ocorre quando um ativo é acessado por uma parte não autorizada (pessoa, programa ou computador) e ainda alterado, caracterizando um ataque contra a integridade;
+(D) ataque de fabricação – ocorre quando uma parte não autorizada (pessoa, programa ou computador) insere objetos falsificados em um ativo, caracterizando um ataque contra a disponibilidade;
+(E) ataque de negação – ocorre quando um ativo é acessado por uma parte não autorizada (pessoa, programa ou computador) negando ao sistema a capacidade de ser executado do modo habitual.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 72-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Depois de implementar um cubo de dados, carregando dados de diversos bancos de dados, o analista Davi precisa desenvolver a camada de visualização dos dados para que os tomadores de decisão possam analisá-los em diversas granularidades e por diferentes perspectivas. No Power BI, para visualizar dados multidimensionais de um Data Mart, permitindo operações OLAP, Davi deve implementar o visual:
+
+[ALTERNATIVAS]
+(A) matriz;
+(B) cartões;
+(C) dispersão;
+(D) narrativa inteligente;
+(E) gráficos de combinação.
+
+[GABARITO]
+A

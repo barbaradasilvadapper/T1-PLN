@@ -1,0 +1,18 @@
+ID: 91-037
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+De acordo com o COBIT 2019, considera-se um Fator de Design que pode influenciar na adequação do sistema de governança de uma empresa:
+
+[ALTERNATIVAS]
+(A) computação em nuvem.
+(B) cultura e comportamento.
+(C) estrutura organizacional.
+(D) pessoas e competências.
+(E) perfil de risco.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 12-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+As arquiteturas de modelos de linguagem de larga escala (Large Language Models – LLM) surgiram recentemente, revolucionando a área de inteligência artificial nas áreas de processamento e geração de texto. A arquitetura desses modelos baseia-se, majoritariamente, nas redes neurais do tipo transformers. Relacione as arquiteturas a seguir as suas características principais. 1. BERT 2. GPT 3. T5 ( ) Utiliza decoders das redes transformer para prever novos tokens a partir de uma sequência, tornando-se ideal para a geração de textos. ( ) Utiliza encoders das redes transformer para "entender" o contexto de frases, tornando-se ideal para classificação de textos. ( ) Utiliza encoders e decoders das redes transformer, sendo adaptável a situações em que seja necessário gerar novos textos ou processar textos para "entender" o contexto das frases. ( ) Em comparação com as outras arquiteturas, tem menor necessidade de fine-tuning para melhora de performance. A relação correta, na ordem apresentada, é
+
+[ALTERNATIVAS]
+(A) 1 – 3 – 2 – 2.
+(B) 2 – 3 – 1 – 3.
+(C) 3 – 2 – 1 – 2.
+(D) 3 – 1 – 2 – 2.
+(E) 2 – 1 – 3 – 3.
+
+[GABARITO]
+E

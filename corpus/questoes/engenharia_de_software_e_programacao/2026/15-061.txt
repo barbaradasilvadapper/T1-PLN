@@ -1,0 +1,18 @@
+ID: 15-061
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com o aumento das integrações entre sistemas internos e aplicações externas, a instituição está revisando sua estratégia de comunicação entre serviços. A equipe de TI precisa garantir que as novas soluções ofereçam interoperabilidade, padronização e facilidade de manutenção. Para isso, durante a definição da arquitetura de integração, surge a necessidade de avaliar as características essenciais que uma API deve apresentar para garantir segurança, consistência e eficiência no acesso a dados e funcionalidades corporativas. Nesse sentido é válido afirmar que
+
+[ALTERNATIVAS]
+(A) há oportunidades de gerar receita e benefícios através do uso de APIs, que podem ser gerenciadas e monetizadas de forma estratégica.
+(B) uma API mantém informações sobre o estado da interação entre o cliente e o servidor ao longo do tempo, para permitir comunicações dependentes de um contexto previamente estabelecido.
+(C) a API permite comunicação baseada em HTTP e dependem de estados definidos, simplificando a integração entre aplicações.
+(D) as interfaces gráficas de uma API se comunicam através de chamadas e respostas de código.
+(E) as APIs são protocolos exclusivos que especificam e descrevem sistemas pertencentes ao mesmo ecossistema se comunicam.
+
+[GABARITO]
+A

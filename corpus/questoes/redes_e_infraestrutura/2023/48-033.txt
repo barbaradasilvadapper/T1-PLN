@@ -1,0 +1,18 @@
+ID: 48-033
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista João identificou que a máquina ALFA com IPv6 ::ffff:c0a8:acf5 está gerando um tráfego anômalo e necessita identificar o endereço MAC da máquina ALFA para tomar as medidas necessárias. Considerando a utilização do IPv6, João deve utilizar:
+
+[ALTERNATIVAS]
+(A) VPN;
+(B) NDP;
+(C) leasing;
+(D) deering;
+(E) proxy ARP.
+
+[GABARITO]
+B

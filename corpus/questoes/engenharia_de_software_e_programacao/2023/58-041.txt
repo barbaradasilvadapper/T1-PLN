@@ -1,0 +1,18 @@
+ID: 58-041
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código em Python que utiliza a biblioteca NLTK (Natural Language Toolkit) a seguir. import nltk from nltk.tokenize import word_tokenize nltk.download('punkt') texto = "Processamento de Linguagem Natural é uma área da inteligência artificial que lida com a interação entre computadores e linguagem humana." tokens = word_tokenize(texto) print(tokens) Assinale a opção que corresponde ao propósito do código apresentado.
+
+[ALTERNATIVAS]
+(A) Realizar a tradução automática de um texto de um idioma para outro.
+(B) Analisar a estrutura gramatical de um texto.
+(C) Extrair informações relevantes de um texto, como entidades nomeadas.
+(D) Sintetizar um texto a partir de um conjunto de palavraschave.
+(E) Realizar a tokenização do texto, ou seja, dividir o texto em palavras ou unidades significativas.
+
+[GABARITO]
+E

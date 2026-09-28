@@ -1,0 +1,18 @@
+ID: 55-071
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma aplicação em produção foi comprometida por meio da exploração de uma biblioteca com CVE conhecido, que permite execução remota de código. O pipeline da aplicação possui SAST durante a fase de desenvolvimento, DAST em ambiente de homologação e, ainda, possui monitoramento em produção. Após investigação, verificouse que a vulnerabilidade estava em uma dependência indireta, não houve alerta durante o pipeline e a exploração ocorreu imediatamente após o deploy. Com base nesse contexto, assinale a afirmativa que explica corretamente a falha de detecção.
+
+[ALTERNATIVAS]
+(A) Ausência de análise de composição de software (SCA) no pipeline para identificação de vulnerabilidades em dependências transitivas.
+(B) Limitação do SAST na análise de fluxos dinâmicos de execução da aplicação.
+(C) Dependência do DAST de cobertura de testes para identificação de vulnerabilidades exploráveis.
+(D) Natureza reativa do monitoramento em produção, voltada à detecção pós-exploração.
+(E) Ausência de testes funcionais capazes de exercitar cenários de falha na aplicação.
+
+[GABARITO]
+A

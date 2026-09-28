@@ -1,0 +1,18 @@
+ID: 93-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação aos níveis da arquitetura ANSI/SPARC dos Sistemas Gerenciadores de Bancos de Dados (SGBD) relacionais, assinale (V) para a afirmativa verdadeira e (F) para a falsa. I. O nível interno é o mais próximo do meio de armazenamento físico, é uma representação de baixo nível de todo o banco de dados, ele se ocupa do modo como os dados são fisicamente armazenados dentro do SGBD. II. O nível externo, também conhecido como o nível lógico de comunidade, é o mais próximo dos usuários finais ou programadores de aplicação, é aquele que se ocupa do modo como os dados são vistos pelos usuários do sistema. III. O nível conceitual, também conhecido nível lógico de usuário, é um nível indireto entre os outros dois níveis e representa todo o conteúdo do banco de dados de uma forma um tanto abstrata em comparação como os dados são armazenados logicamente.
+
+[ALTERNATIVAS]
+(A) F – V – V.
+(B) F – F – V.
+(C) F – V – F.
+(D) V – V – F.
+(E) V – F – F.
+
+[GABARITO]
+E

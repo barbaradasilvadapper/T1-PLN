@@ -1,0 +1,18 @@
+ID: 94-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considerando a tabela T da figura 1, analise o comando a seguir. DELETE FROM T WHERE EXISTS ( SELECT * FROM T t2 WHERE T.A = t2.A and T.B = t2.B and T.C = t2.C ) O número de linhas removidas pela execução do comando acima é:
+
+[ALTERNATIVAS]
+(A) 0;
+(B) 1;
+(C) 2;
+(D) 3;
+(E) 4.
+
+[GABARITO]
+A

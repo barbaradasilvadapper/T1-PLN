@@ -1,0 +1,18 @@
+ID: 11-039
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em sistemas computacionais, diversos componentes desempenham funções essenciais e interagem para assegurar o funcionamento eficiente do sistema. A compreensão de como esses elementos se conectam e colaboram é fundamental para entender o funcionamento do hardware. Nesse contexto, analise as seguintes afirmações. I. O barramento é o canal de comunicação responsável por interligar os componentes, viabilizando a troca de dados entre os diversos dispositivos. Ele pode ser utilizado para a transmissão de sinais de controle, instruções e dados. II. O componente responsável por coordenar e gerenciar toda a atividade de um processador é a Unidade Lógica e Aritmética. III. Os registradores são memórias de média velocidade e alta capacidade de armazenamento, porém seu uso é limitado devido ao alto custo.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+A

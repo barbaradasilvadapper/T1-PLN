@@ -1,0 +1,18 @@
+ID: 47-055
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O XSS (Cross-site Scripting) é um ataque do tipo injection, que traz riscos se não for tratado corretamente. O site OWASP top 10 na sua lista de 2025, elenca o ataque de injection na quinta posição, mostrando a importância da sua mitigação para um desenvolvimento seguro. Assinale a opção que indica o procedimento correto para mitigar ataques do tipo XSS.
+
+[ALTERNATIVAS]
+(A) Sanitizar as tabelas lookup, evitando que scripts sejam executados no CSS.
+(B) Evitar que as URL contenham comandos em SQL, assim impedindo o XSS server-side.
+(C) Proteger o servidor contra execução de scripts indevidos, o que impede qualquer forma de XSS.
+(D) Garantir que os scripts inline possam ser executados, o que permite que esses funcionem conforme o desejado pelo programador.
+(E) Validar todas as entradas fornecidas pelos usuários, impedindo que payloads maliciosos sejam inseridos e executados no ambiente client-side.
+
+[GABARITO]
+E

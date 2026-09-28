@@ -1,0 +1,18 @@
+ID: 92-045
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma corporação possui uma rede local em funcionamento com a faixa de endereços IPv4 192.168.10.0/24 - 192.168.10.255/24, sendo fixado o endereço 192.168.10.1 para o endereço do gateway e servidor DHCP. Um analista de suporte precisa de 5 endereços de rede desse intervalo para dedicá-los a 3 impressoras de rede e 2 servidores, sendo um servidor de FTP e outro para DNS. A solução a ser adotada pelo analista de suporte de forma que os endereços IPv4 continuem sendo distribuídos de forma dinâmica é
+
+[ALTERNATIVAS]
+(A) reservar uma faixa de endereços IPv4 com o mínimo de 5 endereços na configuração do servidor DHCP, com intervalo entre 192.168.10.2/24 e 192.168.10.254/24.
+(B) reservar uma faixa de endereços IPv4 com o mínimo de 6 endereços na configuração do servidor DHCP, com intervalo entre 192.168.10.0/24 e 192.168.10.255/24.
+(C) não utilizar mais o serviço de DHCP e distribui-los de forma estática.
+(D) reservar uma faixa de endereços IPv4 com o mínimo de 5 endereços na configuração do servidor DHCP, utilizando somente endereços entre 192.168.10.240/24 e 192.168.10.254/24.
+(E) realizar a instalação e configuração de um servidor NAT para fazer a reserva de 5 endereços IPv4.
+
+[GABARITO]
+A

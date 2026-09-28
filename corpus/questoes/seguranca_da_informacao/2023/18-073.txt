@@ -1,0 +1,18 @@
+ID: 18-073
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Fábio pertence ao departamento de segurança da empresa K e está verificando os controles existentes para a Gestão de Riscos de Segurança da Informação. Ele faz uso da norma ABNT NBR ISO/IEC 27005:2011 para efetuar sua verificação. Fábio está examinando o correto funcionamento dos controles existentes. Ele identificou alguns controles obsoletos, que foram descartados, e outros que foram substituídos por controles melhores ou mais modernos. Nesse momento, Fábio está fazendo uso da tarefa dentro de identificação de riscos:
+
+[ALTERNATIVAS]
+(A) dos ativos;
+(B) das ameaças;
+(C) de controles existentes;
+(D) das vulnerabilidades;
+(E) de consequências.
+
+[GABARITO]
+C

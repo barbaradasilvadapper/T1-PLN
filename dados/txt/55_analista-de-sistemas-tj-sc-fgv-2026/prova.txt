@@ -1,0 +1,2125 @@
+T RIBUNAL DE J USTIÇA DO
+E STADO DE S ANTA C ATARINA
+SUA PROVA
+Além
+deste
+caderno
+de
+questões
+contendo
+80 (oitenta) questões objetivas, você receberá do fiscal
+de sala uma folha para a marcação das respostas.
+As questões objetivas têm 5 (cinco) opções de resposta
+(A, B, C, D e E) e somente uma delas está correta.
+TEMPO
+•
+4 (quatro) horas é o período disponível para a
+realização da prova, já incluído o tempo para a
+marcação da folha de respostas.
+•
+2 (duas) horas após o início da prova, é possível
+retirar-se da sala, sem levar o caderno de questões
+nem qualquer tipo de anotação de suas respostas.
+• 30 (trinta) minutos antes do término do período de
+prova, é possível retirar-se da sala, levando o
+caderno de questões.
+NÃO SERÁ PERMITIDO
+•
+Qualquer tipo de comunicação entre os candidatos
+durante a aplicação da prova.
+•
+Usar o sanitário ao término da prova, após deixar a
+sala.
+•
+Anotar informações relativas às respostas em qualquer
+outro meio que não seja este caderno de questões.
+NÍVEL SUPERIOR – MANHÃ
+P ROVA O BJETIVA
+T IPO 1
+INFORMAÇÕES GERAIS
+•
+Verifique se este caderno de questões está completo e
+sem falhas de impressão. Caso contrário, notifique
+imediatamente o fiscal da sala, para que sejam
+tomadas as devidas providências.
+•
+Na folha de respostas, confira seus dados pessoais,
+especialmente nome, número de inscrição e
+documento de identidade, e leia atentamente as
+instruções para preenchê-las.
+•
+Use somente caneta esferográfica, fabricada em
+material transparente, com tinta preta ou azul.
+•
+Assine seu nome apenas no espaço reservado na folha
+de respostas.
+•
+Confira o tipo do seu caderno de questões. Caso tenha
+recebido caderno de questões com tipo diferente do
+impresso em sua folha de respostas, o fiscal deve ser
+obrigatoriamente informado para o devido registro
+na ata da sala.
+•
+O preenchimento das respostas é de sua
+responsabilidade e não será permitida a substituição da
+folha de respostas em caso de erro cometido por você.
+•
+Para fins de avaliação, serão levadas em consideração
+apenas as marcações realizadas na folha de respostas.
+•
+Os candidatos serão submetidos ao sistema de
+detecção de metais quando do ingresso e da saída de
+sanitários durante a realização das provas.
+Boa prova!
+A NALISTA DE S ISTEMAS
+
+
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+Conhecimentos Gerais
+Língua Portuguesa
+1
+Observe uma peça de campanha divulgada pela Secretaria do
+Estado de Turismo de Santa Catarina em 2023.
+Fonte: https://acontecendoaqui.com.br/propaganda/nova-marca-do-turismo-de-
+santa-catarina-e-apresentada-ao-mercado/
+Na campanha apresentada, a construção de sentidos decorre da
+articulação entre elementos verbais e não verbais, mobilizando
+recursos semânticos e visuais para promover o turismo.
+Considerando essa relação, assinale a afirmativa que melhor
+interpreta a estratégia discursiva empregada na peça.
+(A) A imagem de interação entre pessoas destaca o caráter
+coletivo da cena, enquanto o texto verbal remete à dimensão
+institucional da campanha turística.
+(B) O uso de formas circulares atua como recurso visual que
+acompanha o conteúdo verbal apresentado na peça
+publicitária.
+(C) A expressão “Santa Catarina” cumpre função informativa,
+contribuindo para a identificação explícita do local promovido
+na campanha.
+(D) A campanha articula texto e imagem de modo complementar,
+de forma que o conteúdo visual só pode ser compreendido
+pela leitura do slogan.
+(E) A expressão “um estado de alegria” explora o duplo sentido da
+palavra “estado”, articulando a ideia de unidade federativa à
+de condição emocional sugerida pela cena.
+ANALISTA DE SISTEMAS – MANHÃ
+2
+Leia o texto a seguir.
+Vendo-a comer, não entendo os motivos de termos nos separado,
+agora é tudo tão nebuloso que me perco buscando razões, só que
+não teve razão alguma. Na época, parecia a coisa certa a fazer...
+Pergunto a ela o que fiz conosco. Ela larga os talheres no prato. Faz
+barulho. Atingi algum limite. Me encara por um momento
+escolhendo as palavras, enquanto passa a língua sob o lábio,
+tirando alguma coisa dos dentes agora perfeitos, corrigidos pelo
+aparelho, que não está mais lá, dá uma tragada no cigarro, que
+morria equilibrado no tampo da mesa, e o recoloca no mesmo
+lugar com o mesmo cuidado… quase caindo, desafiando os limites,
+desafiando o equilíbrio - eu sou aquela quase-guimba de cigarro
+que quase apagava.
+SIQUEIRA, Mauro. Pequenas colisões. Rio de Janeiro: Bando, 2025. p.177 .
+No fragmento apresentado, observa-se a presença de diferentes
+tipologias textuais articuladas na construção do sentido.
+Considerando essa relação, assinale a afirmativa que analisa
+corretamente o papel do potencial descritivo no texto.
+(A) O texto apresenta predomínio descritivo, com foco na
+caracterização da personagem, em detrimento do
+desenvolvimento das ações e da reflexão do narrador.
+(B) O potencial descritivo manifesta-se na caracterização de
+estados emocionais, assumindo papel central na construção
+do texto em relação à narração dos acontecimentos.
+(C) A descrição aparece em momentos específicos do texto,
+produzindo pausas na sequência narrativa e direcionando a
+atenção para aspectos pontuais da cena.
+(D) O texto apresenta predominância narrativa, mas incorpora
+sequências descritivas que contribuem para a construção da
+subjetividade do narrador.
+(E) A descrição acompanha a progressão do texto, conferindo
+detalhamento às cenas, sem se relacionar diretamente com o
+conflito central apresentado.
+TIPO 1 – PÁGINA 3
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+3
+Leia o poema a seguir, publicado em 1893 pelo poeta catarinense
+Cruz e Souza, principal nome do Simbolismo no Brasil.
+Acrobata da Dor
+Gargalha, ri, num riso de tormenta,
+como um palhaço, que desengonçado,
+nervoso, ri, num riso absurdo, inflado
+de uma ironia e de uma dor violenta.
+Da gargalhada atroz, sanguinolenta,
+agita os guizos, e convulsionado
+Salta, gavroche, salta clown, varado
+pelo estertor dessa agonia lenta...
+Pedem-te bis e um bis não se despreza!
+Vamos! Reteza os músculos, reteza
+nessas macabras piruetas d'aço...
+E embora caias sobre o chão, fremente,
+afogado em teu sangue estuoso e quente,
+ri! Coração, tristíssimo palhaço.
+https://www.escritas.org/pt/t/13184/acrobata-da-dor
+No poema, o eu lírico constrói sentidos por meio da mobilização
+de palavras pertencentes ao campo semântico do universo
+circense, associado à figura do “palhaço”.
+Considerando esse aspecto, assinale a opção que apresenta um
+termo do texto que integra esse campo semântico.
+(A) Tormenta.
+(B) Nervoso.
+(C) Despreza.
+(D) Piruetas.
+(E) Chão.
+ANALISTA DE SISTEMAS – MANHÃ
+4
+Leia a notícia a seguir, publicada em abril de 2026.
+Juros e cenário exterior afetam mais a economia catarinense
+Dois setores pesquisados pelo IBGE, a indústria e os serviços
+apresentaram retração no primeiro bimestre do ano frente aos
+mesmos meses de 2025
+Há meses que os juros básicos nas alturas, em 15% ao ano,
+mais o tarifaço dos EUA e outros fatores vêm afetando a economia
+catarinense, mas os estragos maiores, até agora, apareceram nos
+dados de janeiro e fevereiro, apurados pelo IBGE. As pesquisas
+mostraram retração de 6,1% da indústria no primeiro bimestre
+frente ao mesmo período do ano passado e retração também dos
+serviços em 1,2%. Somente o comércio ampliado cresceu 2,4%
+nessa comparação em SC.
+A produção industrial de Santa Catarina fechou os dois
+primeiros meses do ano com recuo de -6,2% frente aos mesmos
+meses de 2025. As maiores quedas foram na fabricação de
+automóveis, reboques e carrocerias (-20,4%), produção de móveis
+(-22,6%) e fabricação de máquinas e equipamentos (-16,5%).
+Entre os 14 setores pesquisados pelo IBGE, somente dois
+tiveram crescimento de vendas no bimestre frente ao mesmo
+período de 2025, apurou o Observatório Fiesc, da Federação das
+Indústrias de SC. As altas foram na produção de alimentos (+1,4%)
+e de produtos de borracha e plástico (+0,4%).
+https://www.nsctotal.com.br/colunistas/estela-benetti/juros-e-cenario-exterior-
+afetam-mais-a-economia-catarinense
+A respeito da utilização de dados numéricos na notícia
+apresentada, marque a opção correta.
+(A) Os dados numéricos contribuem para quantificar as
+informações apresentadas, sem interferir na credibilidade do
+texto.
+(B) A presença de dados numéricos organiza as informações do
+texto, pois, sem eles, o leitor poderia ter dificuldades na
+compreensão textual.
+(C) O uso de dados numéricos confere precisão às informações e
+contribui para a construção de uma abordagem objetiva e
+fundamentada dos fatos.
+(D) Os dados numéricos são utilizados para ilustrar as
+informações, funcionando como exemplos que poderiam ser
+substituídos por descrições qualitativas.
+(E) A inserção de dados numéricos no texto tem função
+predominantemente explicativa, voltada à simplificação do
+conteúdo apresentado ao leitor.
+TIPO 1 – PÁGINA 4
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+5
+Leia o fragmento de texto a seguir.
+Sentimento que não espairo; pois eu mesmo nem acerto com o
+mote disso ― o que queria e o que não queria, estória sem final.
+O correr da vida embrulha tudo, a vida é assim: esquenta e esfria,
+aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer
+da gente é coragem. O que Deus quer é ver a gente aprendendo a
+ser capaz de ficar alegre a mais, no meio da alegria, e inda mais
+alegre no meio da tristeza! Só assim de repente, na horinha em
+que se quer, de propósito ― por coragem. Será? Era o que eu às
+vezes achava. Ao clarear do dia.
+ROSA, João Guimarães. Grande Sertão: Veredas. São Paulo: Cia das Letras. 2019. p.
+293 .
+No fragmento apresentado, o uso de diferentes sinais de
+pontuação contribui para a construção de sentidos e para a
+expressão da subjetividade do narrador.
+Considerando esse aspecto, assinale a afirmativa que analisa
+corretamente o papel desses recursos no texto.
+(A) O uso do ponto e vírgula estabelece relações de subordinação
+entre as orações, organizando o texto de forma hierarquizada.
+(B) Os dois-pontos introduzem explicações e enumerações,
+contribuindo para o encadeamento reflexivo das ideias do
+narrador.
+(C) O travessão é empregado para indicar mudança de
+interlocutor, caracterizando o texto como diálogo direto.
+(D) Os pontos finais fragmentam o texto em períodos
+independentes, sem relação com o ritmo ou com a construção
+de sentido.
+(E) O ponto de interrogação é utilizado para organizar
+sintaticamente o texto, sem interferir na expressividade da
+linguagem.
+6
+Leia o texto a seguir:
+Departamento de Libras promove palestra ‘Trazendo a
+universidade para a vida e vida à universidade’
+O Departamento de Libras da UFSC irá promover a palestra
+“Trazendo a universidade para a vida e vida à universidade” com o
+educador Fernando Leão (vice-presidente do Instituto Caminho do
+Meio). O evento será realizado na sala 305 do Espaço Físico
+Integrado (EFI), 3º andar, no dia 8 de outubro, das 8h30 às 11h30.
+Haverá interpretação para Libras.
+https://noticias.ufsc.br/tags/departamento-de-libras/
+No texto apresentado, observa-se a predominância de verbos no
+futuro, como em “irá promover”, “será realizado” e “haverá”.
+Considerando o efeito de sentido produzido por essa escolha
+verbal, é correto afirmar que
+(A) o emprego de verbos no futuro reforça o caráter informativo e
+prospectivo do texto, anunciando ações previstas para
+momento posterior.
+(B) o uso predominante de verbos no futuro indica hipótese,
+sugerindo incerteza quanto à realização do evento anunciado.
+(C) a predominância de verbos no futuro contribui para a
+construção de um texto narrativo, relatando acontecimentos
+posteriores ao momento da enunciação.
+(D) o uso do futuro verbal aproxima o texto da linguagem
+injuntiva, orientando o leitor sobre ações que deverão ser
+realizadas.
+(E) a utilização do futuro verbal confere subjetividade ao texto,
+destacando expectativas pessoais do autor sobre o evento
+divulgado.
+ANALISTA DE SISTEMAS – MANHÃ
+7
+Leia, a seguir, o trecho inicial do conto “Luz”, do escritor Salim
+Miguel.
+Anoitece.
+Seis pessoas: três adultos, três crianças. Os adultos: faixa dos
+vinte anos. As crianças: a mais nova com menos de seis meses, o
+mais velho com pouco mais de três anos. Pai, mãe, tio, duas
+meninas, um menino.
+O dia: 18. O mês: maio. O ano: 1927. O local: cais do porto da
+Praça Mauá. O estado: Rio de Janeiro. O país: Brasil.
+Muitos anos depois, já bem velho, o pai gostava de
+rememorar, de repetir insistindo: a primeira palavra que aprendi
+em português, que me foi diretamente dirigida, que gravei: luz.
+Nur.
+Cala. Pensa. Concentra-se. Se esforça. Se perde para se achar.
+Ativada, a memória recua. Busca resgatar o passado. Retirá-lo do
+mais fundo do tempo. Devassar o escuro abismo. Tornar hoje o
+ontem.
+MIGUEL, Salim. Nur na escuridão [recurso eletrônico]. Florianópolis: Editora da
+UFSC, 2025, p. 15-16.
+Nesse trecho do conto, observa-se uma construção textual
+marcada por frases curtas e estruturas fragmentadas.
+Considerando esse aspecto, assinale a afirmativa que analisa
+corretamente o efeito de sentido produzido por essa escolha
+estilística.
+(A) A fragmentação mostra que o narrador tem dificuldade para
+organizar suas ideias.
+(B) As frases curtas fazem o texto parecer técnico, como se
+apresentasse dados objetivos.
+(C) A repetição de estruturas torna o texto cansativo e sem
+progressão.
+(D) A construção em frases curtas reduz a presença de
+sentimentos no texto.
+(E) A fragmentação cria ritmo mais lento, capaz de representar as
+lembranças do narrador.
+8
+Santa Catarina no Século XIX
+Pode-se dizer que Santa Catarina é um estado de imigrantes.
+Desde o início do século XVI, o estado foi ocupado por indução
+oficial. Até o século XX, nenhuma motivação econômica havia
+estimulado o povoamento espontâneo naquela parte do Brasil.
+Havia pouco pau-brasil, a cana-de-açúcar ficava distante dos
+centros de distribuição do comércio na Europa, não havia metais
+preciosos, nem borracha, algodão, café ou tabaco. A definição de
+limites ao sul do Brasil e a ocupação de espaços demográficos
+estratégicos foram as grandes razões para o seu povoamento.
+http://portal.iphan.gov.br/uploads/publicacao/
+o_patrimonio_cultural_da_imigracao_santa_catarina.pdf
+O segmento que reescreve o trecho sublinhado, sem alteração de
+sentido, é:
+(A) em razão do povoamento da região.
+(B) por causa do povoamento já realizado.
+(C) a fim de que o seu povoamento ocorresse.
+(D) apesar do povoamento da região.
+(E) depois que o povoamento aconteceu.
+TIPO 1 – PÁGINA 5
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+9
+Perfil do Acadêmico
+Sexto ocupante da Cadeira nº 35,
+eleito em 9 de junho de 2022, na
+sucessão de Candido Mendes de
+Almeida e recebido em 2 de
+setembro
+de
+2022
+pela
+Acadêmica Ana Maria Machado.
+Cadeira: 35
+Posição: Atual
+Antecedido por: Candido Mendes de Almeida
+Data de nascimento: 22 de Maio de 1951
+Naturalidade: Blumenau - SC Brasil
+Data de eleição: 9 de Junho de 2022
+Data de posse: 2 de Setembro de 2022
+Acadêmica que o recebeu: Ana Maria Machado
+https://www.academia.org.br/academicos/godofredo-de-oliveira-neto
+Os gêneros textuais são formas composicionais que se organizam
+de acordo com finalidades comunicativas e contextos de
+circulação específicos.
+Considerando essas características, assinale a opção que identifica
+corretamente a função do texto apresentado.
+(A) Narrar a trajetória pessoal do acadêmico, destacando
+episódios marcantes de sua vida.
+(B) Informar, de forma objetiva e organizada, dados biográficos e
+institucionais do acadêmico.
+(C) Defender a relevância do acadêmico no campo literário, por
+meio de argumentos avaliativos.
+(D) Relatar experiências vividas pelo acadêmico em primeira
+pessoa, com foco subjetivo.
+(E) Explicar o funcionamento da instituição à qual o acadêmico
+pertence, detalhando suas regras.
+10
+Saúde SC reforça importância da vacinação contra o Vírus
+Sincicial Respiratório em gestantes
+Com a aproximação do frio, a Secretaria de Estado da Saúde (SES)
+reforça a importância da vacinação de gestantes contra o Vírus
+Sincicial Respiratório (VSR). A imunização tem como principal
+objetivo reduzir complicações respiratórias em bebês nos
+primeiros meses de vida, como bronquiolite e pneumonia —
+doenças que tendem a aumentar durante o inverno e podem levar
+a internações.
+https://saude.sc.gov.br
+A utilização de letras maiúsculas na apresentação do “Vírus
+Sincicial Respiratório”, em todas as ocorrências no texto, serve
+para
+(A) indicar destaque informativo dentro do texto, relacionado à
+relevância do tema abordado.
+(B) ser uma estratégia de destaque para enfatizar a gravidade da
+doença mencionada no texto.
+(C) apresentar o uso de linguagem técnica, comum em textos da
+área da saúde.
+(D) corresponder à denominação oficial de um agente viral
+específico, funcionando como nome próprio.
+(E) marcar a presença de termos estrangeiros incorporados ao
+vocabulário científico.
+ANALISTA DE SISTEMAS – MANHÃ
+Legislação Institucional do PJSC
+11
+Na primeira metade do mandato, o 1º Vice-Presidente do Tribunal
+de Justiça do Estado de Santa Catarina, por questões estritamente
+pessoais, aposentou-se, ensejando a vacância do cargo e das
+funções por ele exercidas.
+Nesse cenário, considerando as disposições do Regimento Interno
+do Tribunal de Justiça do Estado de Santa Catarina, é correto
+afirmar que, em razão da vacância,
+(A) caberá ao desembargador mais antigo do Tribunal de Justiça
+assumir as funções da 1ª Vice-Presidência.
+(B) será realizada a eleição do sucessor, no prazo de trinta dias,
+contado da ocorrência da vaga.
+(C) o Corregedor-Geral da Justiça assumirá o cargo de 1º Vice-
+Presidente.
+(D) o 3º Vice-Presidente assumirá o cargo de 1º Vice-Presidente.
+(E) o 2º Vice-Presidente assumirá o cargo de 1º Vice-Presidente.
+12
+O território do Estado, para a administração da Justiça, divide-se
+em distritos, subdistritos, municípios, comarcas e comarcas
+integradas, formando, porém, uma só circunscrição para os atos
+da competência do Tribunal de Justiça.
+De acordo com a narrativa, e considerando as disposições do
+Código de Divisão e Organização Judiciárias do Estado de Santa
+Catarina, analise as afirmativas a seguir.
+I. A comarca constituir-se-á de um ou mais municípios,
+recebendo a denominação daquele que lhe servir de sede.
+II. Quando o movimento forense o exigir, a comarca poderá ser
+subdividida em duas ou mais varas.
+III. O Tribunal de Justiça, para efeito de comunicação de atos
+processuais, realização de diligências e atos probatórios,
+poderá reunir duas ou mais comarcas para constituírem uma
+comarca integrada, desde que haja proximidade entre as sedes
+municipais, facilidade de comunicação viária e intensa
+movimentação populacional entre as comarcas contíguas.
+Nesse cenário, considerando as disposições do Código de Divisão
+e Organização Judiciárias do Estado de Santa Catarina, está correto
+o que se afirma em
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+TIPO 1 – PÁGINA 6
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+13
+Caio, analista jurídico, foi designado para atuar no gabinete de um
+dos juízes titulares da Comarca de Balneário Camboriú/SC. Dessa
+forma, o referido agente público, visando à otimização de sua
+atuação, resolveu estudar a normativa que lhe é aplicável.
+Nesse cenário, considerando o Código de Normas da Corregedoria-
+Geral da Justiça do Tribunal de Justiça do Estado de Santa Catarina
+(Foro Judicial), é certo que o gabinete de cada juiz deverá adotar
+as providências elencadas abaixo, à exceção de uma. Assinale-a.
+(A) Primar pela automatização do fluxo processual e dos atos
+decisórios, otimizando as atividades de cumprimento com o
+uso das ferramentas disponibilizadas no sistema de tramitação
+eletrônica de processos.
+(B) Receber os processos e, constatado equívoco ou ausência de
+movimentação de conclusão, comunicar o magistrado para
+que esse efetive o ajuste devido.
+(C) Lançar adequadamente a movimentação correspondente ao
+ato praticado pelo juiz no sistema informatizado.
+(D) Atualizar diariamente a pauta de audiências no sistema
+informatizado.
+(E) Zelar pelo fluxo regular de processos entre cartório e gabinete.
+14
+Nos termos da legislação de regência, o servidor nomeado para
+cargo efetivo fica sujeito a um período de estágio probatório de
+três anos de efetivo exercício no cargo para o qual prestou
+concurso público.
+Nesse cenário, considerando as disposições da Lei Estadual
+nº 6.745/1985, avalie as afirmativas a seguir e assinale (V) para a
+verdadeira e (F) para a falsa.
+( ) Serão considerados requisitos básicos do estágio probatório a
+idoneidade moral, a assiduidade e a pontualidade, a disciplina
+e a eficiência.
+( ) A verificação dos requisitos necessários à confirmação no
+cargo será efetuada por comissão composta de, no mínimo,
+cinco membros designados pelo titular do órgão.
+( ) Será suspensa a contagem do período do estágio probatório
+do servidor afastado a qualquer título, inclusive férias, e o
+exercício de cargo comissionado com atribuições afins às do
+cargo efetivo.
+As afirmativas são, respectivamente,
+(A) F – V – F.
+(B) V – F – F.
+(C) V – V – F.
+(D) F – F – F.
+(E) V – V – V.
+ANALISTA DE SISTEMAS – MANHÃ
+15
+O Órgão Especial do Tribunal de Justiça, composto por vinte e cinco
+membros, exerce, por delegação do Tribunal Pleno, competência
+para processar e julgar originariamente, nos crimes comuns, o
+vice-governador do Estado, os deputados estaduais e o
+procurador-geral de justiça.
+À luz das disposições do Regimento Interno do Tribunal de Justiça
+do Estado de Santa Catarina, assinale a opção que indica
+corretamente a forma de preenchimento das vinte e cinco vagas
+do Órgão Especial.
+(A) Treze por antiguidade, mediante ato de efetivação do
+presidente do Tribunal de Justiça, preenchidas pelos membros
+mais antigos do Tribunal Pleno, conforme a ordem
+decrescente de antiguidade, nas classes a que pertencerem,
+vedada a recusa ao encargo; e doze por eleição, mediante
+votação secreta entre os membros do Tribunal Pleno,
+convocado especialmente para tal finalidade, vedada a recusa
+ao encargo, salvo se apresentada manifestação expressa antes
+da eleição.
+(B) Treze por antiguidade, mediante ato de efetivação do
+presidente do Tribunal de Justiça, preenchidas pelos membros
+mais antigos do Tribunal Pleno, conforme a ordem
+decrescente de antiguidade, nas classes a que pertencerem,
+admitida a recusa ao encargo; e doze por eleição, mediante
+votação aberta entre os membros do Tribunal Pleno,
+convocado especialmente para tal finalidade, admitida a
+recusa ao encargo.
+(C) Doze por antiguidade, mediante ato de efetivação do
+presidente do Tribunal de Justiça, preenchidas pelos membros
+mais antigos do Tribunal Pleno, conforme a ordem
+decrescente de antiguidade, nas classes a que pertencerem,
+admitida a recusa ao encargo; e treze por eleição, mediante
+votação aberta entre os membros do Tribunal Pleno,
+convocado especialmente para tal finalidade, admitida a
+recusa ao encargo.
+(D) Por antiguidade, mediante ato de efetivação do presidente do
+Tribunal de Justiça, preenchidas pelos membros mais antigos
+do Tribunal Pleno, conforme a ordem decrescente de
+antiguidade, nas classes a que pertencerem, vedada a recusa
+ao encargo.
+(E) Por eleição, mediante votação secreta entre os membros do
+Tribunal Pleno, convocado especialmente para tal finalidade,
+vedada a recusa ao encargo, salvo se apresentada
+manifestação expressa antes da eleição.
+TIPO 1 – PÁGINA 7
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+16
+Lucas, chefe de cartório da 1ª Vara Criminal da Comarca Alfa (SC),
+foi convidado a palestrar perante os novos servidores do Poder
+Judiciário do Estado de Santa Catarina, ocasião em que abordou,
+dentre outras temáticas, as matérias afetas à sua competência.
+Nesse cenário, considerando o Código de Normas da Corregedoria-
+Geral da Justiça do Tribunal de Justiça do Estado de Santa Catarina
+(Foro Judicial), é correto afirmar que compete ao chefe do cartório
+(A) conferir se todos os bens e valores vinculados aos autos, ou
+que são objeto do litígio, foram devidamente cadastrados e
+estão com a situação, localização e demais dados atualizados
+no sistema informatizado do Poder Judiciário.
+(B) verificar, quinzenalmente, nas comarcas em que não houver
+central de mandados, os mandados não devolvidos dentro dos
+prazos assinalados e apresentar relação ao juiz da respectiva
+unidade.
+(C) certificar, na tutela cautelar, o decurso de quinze dias da
+efetivação da medida sem a propositura da ação ou a dedução
+do pedido principal e fazer conclusão.
+(D) certificar, nos autos, a ocorrência de feriado local, regional,
+nacional ou ponto facultativo, bem como qualquer outro fato
+que possa influir na contagem de prazo processual.
+(E) expedir, a cada noventa dias, relação atualizada dos réus
+presos, com o número do processo, a fase em que ele se
+encontra, e encaminhar cópia ao juiz.
+Ética e Gestão no Serviço Público
+17
+João e Maria, servidores públicos ocupantes de cargos de
+provimento efetivo no Estado Sigma, que não se conhecem e
+jamais praticaram qualquer ato em comunhão de ações e
+desígnios, respondem a ações de improbidade administrativa com
+base na Lei nº 8.429/1992, cada qual pela prática dos próprios
+atos. João desviou recursos públicos enquanto atuava como
+ordenador de despesas. Maria, por sua vez, revelou fato de que
+tinha ciência em razão de suas atribuições e que deveria
+permanecer em segredo, colocando em risco a segurança do
+Estado.
+À luz da sistemática vigente, é correto afirmar que
+(A) as condutas de João e Maria podem acarretar a aplicação da
+sanção de perda da função pública.
+(B) as condutas de João e Maria foram enquadradas em uma
+tipologia legal de caráter exemplificativo, não taxativo.
+(C) a conduta de João pode acarretar a aplicação da sanção de
+suspensão dos direitos políticos por até 14 (quatorze) anos.
+(D) a conduta de Maria pode acarretar a aplicação da sanção de
+vedação ao recebimento de incentivos fiscais por até 12 (doze)
+anos.
+(E) as ações ajuizadas em face de João e Maria são de autoria do
+Ministério Público, considerando sua legitimidade privativa
+nessa seara.
+ANALISTA DE SISTEMAS – MANHÃ
+18
+A sociedade empresária Alfa teria praticado atos lesivos ao Estado
+Beta, consistentes em alegada fraude à licitação praticada em
+detrimento da Secretaria de Estado de Educação do Poder
+Executivo do referido ente federativo. No curso do processo
+administrativo instaurado para a apuração dos fatos, o
+representante legal de Alfa cogitou a celebração de ajuste no
+âmbito da consensualidade de colaboração, conforme disciplina
+estabelecida na Lei nº 12.846/2013.
+Em relação ao ajuste cogitado pelo representante legal de Alfa, é
+correto afirmar que
+(A) é vedado, considerando a indisponibilidade dos interesses
+envolvidos.
+(B) deve ser celebrado no plano administrativo e homologado
+pelo Poder Judiciário.
+(C) exime Alfa, caso celebrado, da obrigação de reparar
+integralmente o dano causado.
+(D) deve ser celebrado no plano processual, pelo Ministério
+Público, com a correlata homologação pelo Poder Judiciário.
+(E) independe de homologação pelo Poder Judiciário e não afasta
+a possibilidade de suspensão ou interdição parcial das
+atividades de Alfa.
+19
+João, servidor público ocupante de cargo de provimento efetivo da
+Administração Pública indireta do Estado Delta, aceitou vantagem
+indevida dada pela sociedade empresária Sigma, para que fosse
+favorecida em determinada licitação.
+Para que seja atribuído ato ilícito a Sigma, na perspectiva da Lei nº
+12.846/2013, é correto afirmar que
+(A) deve ocorrer a prévia condenação de João pela prática de ato
+de improbidade administrativa.
+(B) deve ser previamente demonstrada a responsabilidade
+individual de um dirigente a ela vinculado.
+(C) pode ser perquirida a responsabilização de Sigma,
+independentemente da culpabilidade de um dos seus
+dirigentes.
+(D) pode ser perquirida a responsabilidade administrativa de
+Sigma, independentemente do elemento subjetivo do agir,
+mas não a responsabilidade na instância civil.
+(E) deve ser demonstrada a existência de cláusula de anuência à
+responsabilização, no edital da licitação, paralelamente à
+responsabilização com base na Lei nº 8.429/1992.
+TIPO 1 – PÁGINA 8
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+20
+Maria ocupa cargo de primeiro escalão em determinado ente
+federativo, na condição de Secretária de Estado. As normas afetas
+à prevenção e ao tratamento do conflito de interesses nesse ente
+seguem
+os
+balizamentos
+oferecidos
+pela
+Lei
+nº 12.813/2013.
+Maria pretende exercer determinada atividade privada de cunho
+econômico. Embora o exercício dessa atividade não seja vedado
+pelas referidas normas, Maria tem dúvida em relação à sua
+licitude, pois implicaria na prestação de serviços a pessoas jurídicas
+que têm interesse em decisões de colegiado administrativo do
+qual ela participa.
+Ao analisar a sistemática legal, Maria concluiu corretamente que
+(A) a ausência de vedação legal ao exercício da atividade afasta a
+possibilidade de ser configurado o conflito de interesses.
+(B) o interesse das pessoas jurídicas nas decisões do colegiado de
+que Maria participe não configura conflito de interesses.
+(C) o conflito de interesses na situação descrita é afastado, caso
+Maria esteja em gozo de licença ou em período de
+afastamento.
+(D) a situação descrita configura conflito de interesses, devendo
+ser fiscalizada por Comissão de Ética Pública instituída no
+âmbito do Poder Executivo do ente federativo ao qual Maria
+está vinculada.
+(E) o conflito de interesses somente estará configurado se Maria
+divulgar ou fizer uso de informações privilegiadas obtidas no
+exercício funcional, para viabilizar a prestação do serviço para
+o qual seja contratada.
+Noções de Informática e Proteção de
+Dados
+21
+A navegação segura na internet via protocolo HTTPS (Hypertext
+Transfer Protocol Secure) exige uma interação complexa entre
+hardware, software e protocolos de rede.
+Considerando o fluxo de processamento de uma requisição HTTPS
+em um sistema computacional moderno, é correto afirmar que
+(A) o protocolo HTTPS opera exclusivamente na camada de
+transporte do modelo OSI, substituindo o TCP para garantir
+que a criptografia seja processada diretamente pelo hardware
+da placa de rede (NIC).
+(B) durante o handshake do TLS, o sistema operacional utiliza
+chamadas de sistema para acessar funções criptográficas e
+gerenciar sockets de rede, permitindo que o navegador
+estabeleça um canal seguro sobre a pilha TCP/IP.
+(C) a criptografia assimétrica utilizada no HTTPS é uma função
+nativa do firmware do roteador, o que desonera a CPU do
+computador cliente de realizar cálculos matemáticos
+complexos.
+(D) o endereçamento IP (camada de rede do modelo OSI) é o
+responsável por garantir a integridade dos certificados digitais,
+enquanto o protocolo HTTPS gerencia o endereçamento físico
+(MAC Address).
+(E) ao utilizar HTTPS, o sistema operacional desativa a memória
+virtual para impedir que chaves criptográficas sejam gravadas
+em disco (swap), priorizando o processamento na Unidade de
+Controle.
+ANALISTA DE SISTEMAS – MANHÃ
+22
+Um Analista de Tecnologia da Informação do Tribunal de Justiça de
+Santa Catarina foi encarregado de adequar os sistemas
+corporativos às exigências da Lei Geral de Proteção de Dados
+Pessoais (LGPD). Para reduzir os riscos decorrentes de eventual
+incidente de segurança envolvendo dados processuais e
+administrativos, ele adotou duas ações distintas:
+1. aplicou um algoritmo para transformar o campo "Informação
+Sigilosa" em um código cifrado, de modo que o conteúdo
+original somente possa ser acessado mediante o uso da chave
+apropriada; e
+2. no campo "Nome da Parte", substituiu as identidades reais por
+códigos alfanuméricos aleatórios, mantendo a tabela de
+correspondência entre os códigos e as identidades em
+ambiente segregado e seguro, permitindo que equipes de
+estatística e inteligência de dados realizem análises sem
+identificar diretamente os indivíduos, embora a associação
+possa ser restabelecida pelo Tribunal quando necessário.
+As técnicas aplicadas pelo analista nas ações 1 e 2 são,
+respectivamente,
+(A) Hash Robusto e Pseudonimização.
+(B) Criptografia Assimétrica e Pseudonimização.
+(C) Criptografia Simétrica e Anonimização Irreversível.
+(D) Esteganografia e Tokenização de Sessão.
+(E) Codificação de Base64 e Criptografia de Chave Única.
+23
+No que diz respeito às políticas institucionais de privacidade e ao
+tratamento de dados pessoais no âmbito do Poder Judiciário,
+analise as afirmativas a seguir.
+I. O tratamento de dados pessoais realizado para fins de
+atividades jurisdicionais é isento de medidas de segurança e
+conformidade, as quais devem ser aplicadas exclusivamente às
+atividades administrativas dos tribunais.
+II. Os tribunais devem designar um Encarregado pelo Tratamento
+de Dados Pessoais (DPO) para atuar como canal de
+comunicação entre o órgão, os titulares dos dados e a
+Autoridade Nacional de Proteção de Dados (ANPD).
+III. No Poder Judiciário, a responsabilidade pela segurança da
+informação e pela preservação da confidencialidade dos dados
+é atribuída exclusivamente aos servidores das unidades de
+Tecnologia da Informação (TI).
+Está correto o que se afirma, apenas, em
+(A) I.
+(B) II.
+(C) III.
+(D) I e II.
+(E) II e III.
+TIPO 1 – PÁGINA 9
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+24
+O Tribunal de Justiça de Santa Catarina implementou um sistema
+eletrônico para gestão processual e atendimento ao cidadão, com
+o objetivo de aprimorar a prestação jurisdicional e assegurar a
+conformidade com a Lei nº 13.709/2018 (Lei Geral de Proteção de
+Dados Pessoais – LGPD).
+Na solução adotada:
+i) dados de partes, advogados e demais usuários são coletados e
+utilizados para identificação, comunicação processual e
+tramitação dos feitos;
+ii) informações relativas à saúde, biometria e outros dados
+protegidos pela LGPD recebem tratamento diferenciado e
+maior nível de proteção;
+iii) os cidadãos podem solicitar informações sobre o tratamento
+de seus dados pessoais, nos termos da legislação aplicável;
+iv) o Tribunal define as finalidades e os meios de tratamento dos
+dados pessoais utilizados em suas atividades; e
+v) empresa contratada é responsável pelo armazenamento e
+processamento de dados em ambiente computacional
+disponibilizado ao Tribunal.
+Com base nesse cenário, associe corretamente os conceitos da
+LGPD (Coluna I) às descrições (Coluna II):
+Coluna I
+Coluna II
+( ) Informações como nome, CPF,
+endereço eletrônico e telefone,
+utilizadas para identificar usuários dos
+serviços judiciais.
+2. Dado pessoal
+(
+)
+Empresa contratada que realiza o
+sensível
+armazenamento e o processamento
+de dados em nome do Tribunal.
+3. Titular dos
+( ) Pessoa física a quem os dados pessoais
+dados
+se referem, podendo exercer os
+direitos previstos na LGPD.
+4. Controlador
+( ) Informações sobre saúde, dados
+biométricos
+ou
+outros
+dados
+5. Operador
+submetidos à proteção especial pela
+legislação.
+( ) Órgão responsável por definir as
+finalidades e os meios de tratamento
+dos dados pessoais utilizados no
+sistema.
+Assinale a opção que indica a relação correta, na ordem
+apresentada.
+(A) 1 – 5 – 3 – 2 – 4.
+(B) 1 – 4 – 3 – 2 – 5.
+(C) 2 – 5 – 3 – 1 – 4.
+(D) 1 – 5 – 4 – 2 – 3.
+(E) 1 – 3 – 5 – 2 – 4.
+1. Dado pessoal
+ANALISTA DE SISTEMAS – MANHÃ
+25
+No âmbito da Resolução TJ nº 3/2021 do Tribunal de Justiça de
+Santa Catarina, o tratamento de dados pessoais deve ser pautado
+pela observância estrita das bases legais e dos princípios de
+proteção ao titular. Imagine que uma unidade administrativa do
+TJSC deseja implementar um novo sistema para o processamento
+de dados de magistrados e servidores, visando especificamente ao
+cumprimento de determinações contidas em leis federais e
+normas do Conselho Nacional de Justiça (CNJ).
+Considerando as diretrizes sobre o ciclo de vida dos dados e as
+hipóteses de tratamento previstas na referida Resolução e na
+LGPD, assinale a afirmativa que descreve corretamente a base
+legal e a conduta correta para esse cenário.
+(A) O tratamento deve ser baseado exclusivamente no
+consentimento do titular, devendo o sistema ser interrompido
+caso algum servidor se recuse a autorizar a coleta dos dados.
+(B) O tratamento poderá ser realizado com base no cumprimento
+de obrigação legal ou regulatória, o que dispensa a coleta de
+consentimento específico, desde que respeitados os princípios
+da finalidade e da necessidade.
+(C) Os dados coletados para essa finalidade legal podem ser
+utilizados posteriormente para qualquer outro fim
+administrativo, uma vez que o dado já reside nos servidores do
+Controlador (PJSC).
+(D) O dado pessoal sensível, por sua natureza, não pode ser
+tratado pelo Tribunal sob a justificativa de obrigação legal,
+exigindo sempre a anonimização irreversível imediata após a
+coleta.
+(E) A fase de descarte do ciclo de vida do dado é facultativa para
+o Judiciário, sendo permitida a manutenção perpétua de dados
+pessoais em texto claro para fins de registro histórico, sem
+necessidade de avaliação de descarte.
+TIPO 1 – PÁGINA 10
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+Direitos Humanos e acesso à justiça
+26
+Os direitos humanos foram consolidados no Brasil mediante a
+Constituição Federal de 1988, que adotou a dignidade da pessoa
+humana (Art. 1º, III) como fundamento da República e garantiu a
+igualdade (Art. 5º) sem distinções. Esses princípios norteiam o
+Estado Democrático de Direito, assegurando proteção contra
+arbítrios, além de direitos fundamentais, sociais e mecanismos de
+inclusão.
+Considerando as disposições constitucionais relativas aos direitos
+e garantias individuais, assinale a afirmativa correta.
+(A) A liberdade de consciência e de crença é inviolável, assegurado
+o livre exercício dos cultos religiosos, não sendo garantida a
+prestação de assistência religiosa nas entidades civis e
+militares de internação coletiva.
+(B) A casa é asilo inviolável do indivíduo, ninguém nela podendo
+adentrar sem consentimento do morador, salvo em caso de
+flagrante delito ou desastre, ou para prestar socorro, ou,
+durante o dia ou noite, por determinação judicial.
+(C) O sigilo da correspondência é inviolável, salvo, no último caso,
+por ordem judicial, nas hipóteses e na forma que a lei
+estabelecer para fins de investigação criminal ou instrução
+processual penal.
+(D) Todos podem reunir-se pacificamente, ainda que armados, em
+locais abertos ao público, independentemente de autorização,
+desde que não frustrem outra reunião anteriormente
+convocada para o mesmo local.
+(E) É livre a locomoção no território nacional em tempo de paz ou
+de guerra, podendo qualquer pessoa, nos termos da lei, nele
+entrar, permanecer ou dele sair com seus bens.
+27
+No ordenamento jurídico brasileiro, a proteção dos direitos
+fundamentais decorre tanto das normas constitucionais quanto
+dos tratados internacionais de direitos humanos ratificados pelo
+Brasil. Além disso, os direitos e as garantias fundamentais
+possuem aplicação imediata, nos termos da Constituição Federal,
+independentemente de regulamentação para produzirem efeitos.
+Considerando as disposições da Constituição Federal e dos
+tratados internacionais de direitos humanos incorporados ao
+ordenamento jurídico brasileiro, assinale a afirmativa correta.
+(A) Os tratados de direitos humanos ratificados após a Emenda
+Constitucional nº 45/2004 com quórum qualificado (dois
+quintos, dois turnos, duas casas) equivalem a emendas
+constitucionais.
+(B) O Supremo Tribunal Federal não admite a utilização do Pacto
+de São José da Costa Rica para servir de fundamentos a
+determinadas decisões, como no caso da prisão civil do
+depositário infiel.
+(C) Os tratados de direitos humanos ratificados pelo rito comum,
+por maioria absoluta, possuem hierarquia superior à das leis
+ordinárias e inferior à da Constituição Federal.
+(D) Os juízes brasileiros devem verificar se as leis internas estão
+em conformidade com os tratados internacionais de direitos
+humanos, priorizando a norma mais favorável.
+(E) Ainda que haja inércia de autoridades estaduais, não é
+permitido à Justiça Federal assumir a competência para
+processar e julgar casos de graves violações de direitos
+humanos.
+ANALISTA DE SISTEMAS – MANHÃ
+28
+O acesso à justiça é direito fundamental, preceituado no artigo 5º,
+XXXV, da Constituição Federal de 1988, que garante a
+inafastabilidade da jurisdição. Trata-se de garantia sustentada
+pelos princípios do contraditório e da ampla defesa, assegurando
+o devido processo legal.
+Considerando a legislação em vigor, é correto afirmar que
+(A) é assegurado a todos, desde que haja o pagamento de taxas, o
+direito de petição aos Poderes Públicos em defesa de direitos
+ou contra ilegalidade ou abuso de poder.
+(B) a Constituição Federal veda que haja juízo ou tribunal de
+exceção, salvo em época de guerra ou estado de sítio
+decretado.
+(C) ninguém será considerado culpado até a publicação da
+sentença penal condenatória em Diário Oficial, lançado o
+nome no rol dos culpados.
+(D) a lei não prejudicará o ato jurídico perfeito e a coisa julgada,
+sendo possível que direito adquirido seja alterado por regra
+resultante de Emenda Constitucional, posterior.
+(E) é a todos assegurada a obtenção de certidões em repartições
+públicas, para defesa de direitos e esclarecimento de situações
+de interesse pessoal.
+29
+A ordem jurídica brasileira prevê mecanismos específicos de
+proteção destinados à promoção da igualdade e à prevenção de
+discriminações contra grupos vulneráveis.
+Considerando a Constituição Federal, a legislação vigente e a
+jurisprudência dos tribunais superiores, assinale a afirmativa
+correta.
+(A) É obrigação do poder público assegurar à pessoa idosa,
+diversas garantias, entre elas, a prioridade no recebimento da
+restituição do Imposto de Renda.
+(B) A deficiência não afeta a plena capacidade civil da pessoa,
+salvo o exercício do direito à curatela e à adoção, como
+adotante ou adotando.
+(C) Nos processos seletivos para ingresso nos cursos de
+instituições de ensino superior, deve haver atendimento
+preferencial à pessoa com deficiência, não sendo possível
+conceder dilação de tempo.
+(D) A Constituição Federal protege a liberdade de consciência e de
+crença, não sendo assegurada a assistência religiosa aos
+praticantes de quaisquer religiões, internados em hospitais
+públicos, diante da laicidade do Estado.
+(E) O Supremo Tribunal Federal, por não equiparar a homofobia e
+a transfobia ao crime de racismo, não permite aplicar à
+homofobia as sanções previstas na Lei nº 7.716/1989.
+TIPO 1 – PÁGINA 11
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+30
+No Brasil, as políticas judiciárias de inclusão e cidadania são
+coordenadas, principalmente, pelo Conselho Nacional de Justiça
+(CNJ) e visam a transformar o Poder Judiciário em um agente ativo
+na promoção de direitos fundamentais e na remoção de barreiras
+ao acesso à justiça.
+Considerando as normas vigentes sobre essas políticas, assinale a
+afirmativa correta.
+(A) As pessoas em situação de rua terão assegurado o acesso às
+dependências do Poder Judiciário para o exercício de seus
+direitos, salvo se estiverem com vestimentas e condições de
+higiene incompatíveis com as regras do Tribunal.
+(B) Os tribunais deverão viabilizar atendimento prioritário e
+desburocratizado às pessoas em situação de rua, não se
+conferindo atendimento especial a qualquer pessoa, ainda que
+caracterizada como LGBTQUIA+ ou migrantes.
+(C) Entende-se como mulheres em condição de especial
+vulnerabilidade econômico-social, as mulheres vítimas de
+violência física, moral, patrimonial, psicológica ou sexual, salvo
+as mulheres trans e travestis.
+(D) A Resolução 497/2023 do CNJ instituiu, no âmbito do Poder
+Judiciário Nacional, à exceção do Supremo Tribunal Federal, o
+Programa “Transformação”, para fomentar a adoção de
+políticas afirmativas que reduzam as desigualdades no
+mercado de trabalho de mulheres de grupos vulneráveis.
+(E) O Programa “Transformação” consiste na reserva, pelos
+Tribunais e Conselhos, de, no mínimo, 10% (dez por cento) das
+vagas nos contratos que envolvam prestação de serviços
+contínuos com regime de dedicação exclusiva de mão de obra.
+Conhecimentos Específicos Engenharia
+de Software e Desenvolvimento
+31
+O Tribunal de Justiça iniciou o desenvolvimento de um sistema
+corporativo cujos requisitos são apenas parcialmente conhecidos,
+havendo elevado grau de incerteza quanto à integração com bases
+de dados e serviços de outros órgãos, ao desempenho sob carga e
+aos mecanismos de segurança.
+Em razão dessas características, a equipe optou por um processo
+de desenvolvimento no qual, a cada ciclo, são definidos objetivos,
+identificados e analisados riscos, desenvolvidas soluções parciais e
+planejada a etapa subsequente, permitindo que decisões
+arquiteturais sejam tomadas progressivamente com base no
+conhecimento adquirido ao longo do projeto.
+Nessa situação, o processo de desenvolvimento mais aderente é o
+(A) modelo em cascata.
+(B) modelo espiral.
+(C) modelo V.
+(D) Scrum.
+(E) modelo de prototipação descartável.
+ANALISTA DE SISTEMAS – MANHÃ
+32
+O Rational Unified Process (RUP) é um processo de
+desenvolvimento de software iterativo, centrado na arquitetura e
+orientado por casos de uso.
+Em uma de suas fases, busca-se compreender o domínio do
+problema, definir e validar a arquitetura do sistema e mitigar os
+principais riscos do projeto.
+Considerando essas características, assinale a opção que indica a
+fase descrita.
+(A) Iniciação.
+(B) Construção.
+(C) Manutenção.
+(D) Elaboração.
+(E) Transição.
+33
+O Guia Geral MPS de Software:2024 apresenta o modelo MPS.BR,
+uma iniciativa brasileira coordenada pela SOFTEX com o objetivo
+de promover a melhoria dos processos de software e aumentar a
+competitividade das organizações. O documento detalha o
+Modelo de Referência para Software (MR-MPS-SW), estruturado
+em sete níveis de maturidade, que variam do G (Parcialmente
+Gerenciado) ao A (em Otimização).
+Considerando as características dos níveis de maturidade do MR-
+MPS-SW, assinale a afirmativa que descreve corretamente o nível
+D.
+(A) Caracteriza-se pela gestão mais rigorosa da execução dos
+processos e dos respectivos produtos de trabalho.
+(B) Caracteriza-se pela consolidação da definição dos processos,
+com avanços em processos organizacionais e de projeto.
+(C) Caracteriza-se pela completa definição e integração dos
+processos em toda a unidade organizacional.
+(D) Caracteriza-se pela adoção de um processo padrão
+organizacional que pode ser adaptado às necessidades de
+projetos específicos.
+(E) Caracteriza-se pelo controle do desempenho dos processos
+por meio de técnicas estatísticas e quantitativas, visando à
+previsibilidade dos resultados.
+34
+Durante o projeto de um sistema, utilizando linguagem orientada
+a objetos, foram adotadas as seguintes práticas:
+I. Uma classe define seus atributos como privados e disponibiliza
+apenas métodos públicos para sua leitura e alteração,
+permitindo a realização de validações antes de qualquer
+modificação dos dados.
+II. Uma classe base é estendida por diversas subclasses que
+compartilham comportamento comum, mas especializam
+determinadas operações conforme suas regras específicas.
+III. Um mesmo método, definido na classe base, é
+reimplementado nas subclasses, de modo que sua execução
+produza comportamentos distintos conforme o tipo concreto
+do objeto em tempo de execução.
+Com base nos conceitos fundamentais da programação orientada
+a objetos, assinale a opção que classifica corretamente as práticas
+descritas.
+(A) I – abstração; II – herança; III – polimorfismo.
+(B) I – encapsulamento; II – herança; III – sobrescrita.
+(C) I – encapsulamento; II – composição; III – polimorfismo.
+(D) I – encapsulamento; II – herança; III – sobrecarga.
+(E) I – abstração; II – herança; III – sobrecarga.
+TIPO 1 – PÁGINA 12
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+35
+A respeito de padrões de projeto utilizados em Engenharia de
+Software, analise os itens a seguir.
+I. O padrão estrutural descreve a forma pela qual classes e
+objetos são combinados para compor estruturas mais
+complexas.
+II. O padrão criacional (ou de criação) abstrai o processo de
+instanciação de classes e objetos.
+III. O padrão de projeto comportamental foi criado pela
+linguagem UML versão 2.1, e é representado por meio de
+diagramas de classes e de relacionamentos.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+36
+No universo Java, as interfaces Map e Set são essenciais para
+organizar e manipular dados de forma eficiente, permitindo
+armazenar elementos e associações chave-valor com rapidez e
+clareza no código.
+Nesse contexto, avalie as sentenças a seguir.
+I. Set é uma interface que estende Collection e possui elementos
+únicos.
+II. Uma diferença entre Map e Set é que Maps contêm chaves e
+valores, enquanto Sets contêm somente valores.
+III. Em um Map, as chaves devem ser únicas, mas essa regra não
+se aplica aos valores associados.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+37
+Durante o planejamento da integração entre os sistemas de um
+órgão público, a equipe discutiu o uso de serviços baseados em
+SOAP (Simple Object Access Protocol) e em REST (Representational
+State Transfer).
+Na ocasião, foram apresentadas as seguintes afirmações:
+I. Em arquiteturas REST, a restrição de ausência de estado na
+comunicação entre cliente e servidor tende a favorecer a
+escalabilidade, pois cada requisição deve conter as
+informações necessárias ao seu processamento.
+II. Em SOAP, a adoção do HTTP (Hypertext Transfer Protocol)
+implica que todas as operações sejam idempotentes,
+independentemente do método utilizado.
+III. Em soluções baseadas em SOAP, o uso de WSDL (Web Services
+Description Language) pode contribuir para uma descrição
+formal do serviço, o que favorece a interoperabilidade
+contratual entre aplicações.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+ANALISTA DE SISTEMAS – MANHÃ
+38
+No sistema de controle de versão Git, há 3 comandos com nomes
+similares: reset, restore e revert.
+Considerando esse contexto, relacione os comandos da coluna da
+esquerda às respectivas características, apresentadas na coluna da
+direita.
+( ) Restaura arquivos na árvore de trabalho
+(working tree) a partir do índice ou de outro
+commit, sem atualizar o ponteiro do seu
+branch.
+( ) Atualiza o branch atual movendo o seu
+ponteiro (tip/HEAD) com o objetivo de
+adicionar ou remover commits, alterando o
+histórico do branch.
+( ) Um novo commit é criado, revertendo
+alterações introduzidas por commits
+anteriores.
+1. reset
+2. restore
+3. revert
+Assinale a opção que indica a relação correta, na ordem
+apresentada.
+(A) 1 – 2 – 3.
+(B) 1 – 3 – 2.
+(C) 2 – 1 – 3.
+(D) 2 – 3 – 1.
+(E) 3 – 2 – 1.
+39
+Um analista de testes precisa conduzir uma bateria de testes em
+um novo sistema do Tribunal de Justiça de Santa Catarina. Para
+isso, ele deve conhecer os diferentes níveis de testes, seus
+objetivos e os profissionais normalmente envolvidos em cada nível
+de sua execução.
+Associe os níveis de teste às respectivas características.
+( ) O ideal é que seja conduzido pelos
+próprios desenvolvedores, para prevenir
+o aparecimento de falhas logo no início.
+( ) Avalia o comportamento do software
+como um todo, agindo sobre todas as
+camadas de forma unificada.
+( ) Foca nas interfaces de comunicação e na
+troca de informações entre as partes
+internas ou com APIs externas.
+( ) Recomenda-se que seja executado por
+uma equipe de testes independente, e
+não pelos desenvolvedores, para evitar
+testes "viciados" que mascarem falhas.
+1. Teste de
+integração.
+2. Teste
+unitário.
+3. Teste de
+sistema.
+Assinale a opção que indica a relação correta, na ordem
+apresentada.
+(A) 2 – 1 – 1 – 3.
+(B) 1 – 3 – 2 – 2.
+(C) 2 – 3 – 1 – 3.
+(D) 3 – 2 – 3 – 1.
+(E) 3 – 2 – 1 – 1.
+TIPO 1 – PÁGINA 13
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+40
+Em um sistema de gestão arquivística de documentos digitais, os
+metadados podem desempenhar diferentes funções, como
+descrever o conteúdo dos documentos, registrar informações de
+gestão, apoiar sua preservação ou indicar a forma como seus
+componentes se relacionam.
+Nesse contexto, os metadados estruturais são aqueles que
+(A) descrevem o assunto, o produtor, a data, o título e outros
+elementos utilizados para identificação e recuperação
+intelectual do documento.
+(B) registram informações sobre permissões de acesso, prazos de
+guarda, regras de uso, tramitação e responsabilidades
+administrativas associadas ao documento.
+(C) correspondem às unidades elementares de informação
+registradas em um sistema, ainda sem organização contextual
+suficiente para produzir significado arquivístico, como valores
+isolados em campos, códigos, datas ou caracteres.
+(D) documentam ações voltadas à preservação digital, como
+migração de formato, verificação de integridade, fixidade,
+obsolescência tecnológica e eventos de preservação.
+(E) indicam a organização interna do documento digital e as
+relações entre seus componentes, como páginas, capítulos,
+anexos, versões, arquivos vinculados ou partes que compõem
+um objeto digital.
+Arquitetura de Sistemas e Integração
+41
+Em uma aplicação corporativa de um tribunal, os usuários acessam
+o sistema por meio de navegadores instalados em suas estações
+de trabalho. As regras de negócio, o controle de acesso e a
+comunicação com o banco de dados são centralizados em
+servidores da instituição. As estações dos usuários apenas enviam
+requisições, recebem respostas e exibem as telas da aplicação,
+sem executar localmente as principais rotinas de processamento.
+A arquitetura da aplicação descrita é caracterizada como
+(A) arquitetura ponto a ponto.
+(B) arquitetura monolítica embarcada.
+(C) arquitetura orientada a eventos.
+(D) arquitetura serverless.
+(E) arquitetura cliente-servidor.
+42
+Fátima está utilizando um sistema bancário para consulta de
+extratos e pagamento de contas de seu computador pessoal.
+Sabendo que esse sistema utiliza a arquitetura cliente-servidor, o
+papel principal do cliente, nesse cenário, é
+(A) executar a aplicação com interface, lógica e banco separados.
+(B) servir com um nó em uma rede de múltiplos nós que
+compartilham arquivos diretamente entre si.
+(C) consumir serviços independentes via API.
+(D) armazenar o banco de dados, processar as requisições e
+executar as transações.
+(E) fornecer a interface (desktop ou web) e enviar suas
+requisições.
+ANALISTA DE SISTEMAS – MANHÃ
+43
+No âmbito do Domain-Driven Design (DDD), assinale a afirmativa
+correta a respeito do emprego e das características de Value
+Objects e Entities.
+(A) Um Value Object é projetado com uma identidade única e
+exclusiva, sendo capaz de sofrer mudanças contínuas de
+estado ao longo de um grande período de tempo.
+(B) A principal característica de um Value Object é a sua
+mutabilidade, o que permite que seus atributos internos sejam
+alterados livremente após a sua criação no sistema.
+(C) A igualdade entre dois Value Objects é determinada pela
+comparação de seus identificadores, independentemente de
+quais sejam os valores de seus atributos.
+(D) O design deve priorizar o uso de Value Objects em vez de
+Entities sempre que possível, pois tipos de valor que medem,
+quantificam ou descrevem coisas são mais fáceis de criar,
+testar e manter.
+(E) Os métodos de um Value Object devem, por padrão, produzir
+efeitos colaterais para que possam modificar seu próprio
+estado ou o estado de outras Entities com as quais se
+relacionam.
+44
+Em um projeto de integração entre sistemas de um tribunal, uma
+equipe técnica decidiu disponibilizar funcionalidades de consulta e
+atualização de informações por meio de uma API RESTful,
+utilizando o formato JSON para a troca de dados entre aplicações
+Nesse contexto, assinale a opção que apresenta corretamente
+uma característica de uma API RESTful e uma característica do
+formato JSON.
+(A) A API RESTful organiza a comunicação em torno de recursos
+identificados por URI; o JSON representa dados em formato
+textual, com estruturas como objetos, arrays e pares chave-
+valor.
+(B) A API RESTful organiza a comunicação em torno de recursos
+identificados por URI; o JSON é um protocolo de transporte
+responsável pelo envio das requisições entre cliente e
+servidor.
+(C) A API RESTful exige, obrigatoriamente, a manutenção de
+estado da sessão no servidor; o JSON representa dados em
+formato textual, com estruturas como objetos, arrays e pares
+chave-valor.
+(D) A API RESTful utiliza métodos HTTP, como GET, POST, PUT e
+DELETE, para manipular recursos; o JSON é um formato binário
+utilizado exclusivamente para compactação de arquivos.
+(E) A API RESTful depende necessariamente de WSDL para
+descrever suas operações; o JSON é independente de
+linguagem de programação e pode ser interpretado por
+diferentes plataformas.
+TIPO 1 – PÁGINA 14
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+45
+A Plataforma Digital do Poder Judiciário (PDPJ-Br) define a
+arquitetura, os padrões e as tecnologias pelos quais os sistemas e
+serviços relacionados à Administração da Justiça devem ser
+desenvolvidos. No contexto dessa arquitetura, uma das
+tecnologias apresenta as seguintes características:
+“serviço REST que atua como service registry. Cada serviço, ao ser
+iniciado, registra-se nesse servidor, o qual mantém um catálogo de
+serviços ativos. A partir desse catálogo, é possível implementar
+outros comportamentos no sistema, como load balancing e circuit
+breaker.”
+Diante do exposto, assinale a opção cujo serviço corresponde às
+características descritas.
+(A) Flyway.
+(B) Eureka.
+(C) Swagger.
+(D) Hibernate Envers.
+(E) AMQP.
+46
+O Java Spring Boot (Spring Boot) é uma ferramenta open source
+que simplifica e acelera o desenvolvimento de aplicações web e
+microsserviços baseados no Spring Framework.
+Nesse cenário, assinale a afirmativa que descreve corretamente
+uma característica do Spring Boot.
+(A) Prioriza configuração baseada em XML.
+(B) Não permite a utilização de anotações @Profile em conjunto
+com @Component ou @Configuration.
+(C) Não provê suporte à Kotlin.
+(D) Fornece configurações padrão para Java Util Logging e Log4j2,
+mas não para Logback.
+(E) Em termos de internacionalização, por padrão, procura pela
+presença de um pacote de recursos chamado messages na raiz
+do classpath.
+47
+Em um sistema corporativo desenvolvido em Java, a equipe
+precisa persistir entidades de domínio em um banco de dados
+relacional, utilizar uma implementação concreta para o
+Mapeamento Objeto-Relacional, manter histórico das alterações
+realizadas em determinadas entidades e controlar a evolução do
+esquema do banco de dados entre os ambientes de
+desenvolvimento, homologação e produção.
+Com base nesse cenário, analise as seguintes afirmativas:
+I. A Java Persistent API (JPA) define uma especificação para
+persistência objeto-relacional em aplicações Java, permitindo
+o mapeamento de classes e relacionamentos para estruturas
+de bancos relacionais.
+II. O Hibernate pode atuar como implementação da JPA,
+fornecendo mecanismos concretos de ORM para persistência,
+consultas e sincronização entre objetos Java e tabelas
+relacionais.
+III. O Hibernate Envers é utilizado para controlar migrações
+versionadas do esquema do banco de dados, enquanto o
+Flyway registra o histórico das alterações realizadas nas
+entidades persistentes.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+ANALISTA DE SISTEMAS – MANHÃ
+48
+A mensageria é fundamental para garantir a comunicação
+assíncrona e escalável entre sistemas distribuídos, permitindo que
+aplicações processem tarefas de forma desacoplada e eficiente.
+Uma das ferramentas mais empregadas no mercado para
+implementar mensageria é a RabbitMQ.
+Sobre essa ferramenta, assinale (V) para afirmativa verdadeira e
+(F) para falsa.
+( ) Aplicações podem referenciar filas por meio de seus nomes.
+( ) A propriedade Exclusive determina que a fila sobreviverá à
+reinicialização do broker.
+( ) Caso a segurança de dados seja prioridade, é mais
+recomendável usar filas clássicas do que filas do tipo quorum
+e streams.
+As afirmativas são, respectivamente,
+(A) F – F – F.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+(E) V – F – V.
+49
+O setor de tecnologia de um tribunal desenvolveu uma aplicação
+web composta por três serviços: cadastro de usuários, consulta
+processual e geração de relatórios. Cada serviço possui
+dependências próprias e deve ser implantado de forma
+padronizada nos ambientes de desenvolvimento, homologação e
+produção.
+Além disso, a equipe precisa distribuir réplicas desses serviços em
+diferentes nós de um cluster, reiniciar automaticamente instâncias
+com falha, ampliar a quantidade de réplicas em períodos de maior
+demanda e administrar, por uma interface centralizada, mais de
+um cluster Kubernetes utilizado pela instituição.
+Nesse contexto, é correto afirmar que
+(A) o Docker permite empacotar aplicações e dependências em
+containers, o Kubernetes orquestra a implantação e o
+escalonamento desses containers, e o Rancher auxilia na
+gestão centralizada de clusters Kubernetes.
+(B) o Docker permite empacotar aplicações e dependências em
+containers, o Kubernetes orquestra a implantação e o
+escalonamento desses containers, e o Rancher é um formato
+de imagem utilizado para distribuir containers.
+(C) o Docker permite empacotar aplicações e dependências em
+containers, o Kubernetes é utilizado principalmente para criar
+imagens de containers, e o Rancher auxilia na gestão
+centralizada de clusters Kubernetes.
+(D) o Docker é utilizado principalmente para empacotar aplicações
+e dependências em máquinas virtuais completas, o
+Kubernetes orquestra a implantação e o escalonamento de
+containers, e o Rancher auxilia na gestão centralizada de
+clusters Kubernetes.
+(E) o Docker permite empacotar aplicações e dependências em
+containers, o Kubernetes orquestra a implantação e o
+escalonamento desses containers, e o Rancher substitui a
+necessidade de clusters Kubernetes por execução local isolada.
+TIPO 1 – PÁGINA 15
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+50
+Em arquiteturas de microsserviços voltadas para tribunais, a
+comunicação baseada em mensageria (como o uso de Message
+Brokers) é frequentemente adotada para aumentar a resiliência do
+ecossistema.
+Ao utilizar um modelo de comunicação assíncrona para o
+processamento de petições e atos processuais, o sistema busca
+mitigar o risco de falhas em cascata e lidar com picos de demanda.
+Uma característica fundamental e intrínseca a esse modelo de
+interação é o
+(A) Acoplamento Temporal, que exige que o serviço de destino
+esteja em estado operacional e pronto para processamento no
+exato momento em que o produtor realiza o envio da
+mensagem.
+(B) Bloqueio da Thread de Execução, em que o serviço emissor
+suspende suas atividades e aguarda a confirmação de
+recebimento e o processamento final da tarefa pelo
+consumidor para retomar sua lógica.
+(C) Desacoplamento espacial e temporal, permitindo que o
+produtor envie a mensagem e prossiga com seu fluxo de
+execução, sem a necessidade de que o serviço consumidor
+esteja disponível ou que sua localização seja conhecida no
+momento da emissão.
+(D) Protocolo de RPC (Remote Procedure Call), que visa garantir
+que a chamada entre serviços distribuídos ocorra de forma
+transparente, mimetizando uma chamada de função local e
+síncrona.
+(E) Mecanismo de Idempotência Nativa, característica garantida
+obrigatoriamente pela camada de transporte que impede, de
+forma automática e sem necessidade de lógica no consumidor,
+o processamento de mensagens duplicadas.
+ANALISTA DE SISTEMAS – MANHÃ
+Banco de Dados e Engenharia de Dados
+51
+OLTP e OLAP são mecanismos de gerenciamento de dados com
+propósitos distintos.
+A esse respeito, relacione as opções 1 e 2, da coluna da esquerda,
+às respectivas características, da coluna da direita.
+( ) Altera pequenas quantidades de dados com
+frequência e, em geral, apresenta maior
+equilíbrio entre operações de leitura e
+gravação.
+( ) Armazena grandes volume de dados
+históricos, o que normalmente exige maior
+capacidade de armazenamento.
+( ) Executa
+consultas
+mais
+complexas,
+envolvendo uma grande quantidade de
+registros.
+( ) É comumente utilizado em transações
+bancárias online, compras eletrônicas ou
+envio de mensagens de texto.
+1. OLTP
+2. OLAP
+Assinale a opção que indica a relação correta, na ordem
+apresentada.
+(A) 1 – 2 – 2 – 1.
+(B) 1 – 2 – 1 – 2.
+(C) 1 – 1 – 2 – 1.
+(D) 2 – 2 – 2 – 1.
+(E) 2 – 1 – 1 – 2.
+52
+No contexto da modelagem de dados relacional, analise as
+afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa.
+( ) As tabelas são representações das relações, sendo que as
+linhas (ou tuplas) correspondem aos registros, enquanto as
+colunas correspondem aos atributos.
+( ) Quando se fixa que certo campo só pode aceitar valores
+numéricos, trata-se de uma restrição de entidade.
+( ) A forma normal que elimina a dependência transitiva é a
+terceira forma normal.
+( ) Uma entidade é considerada forte quando utiliza uma chave
+primária composta formada pela chave primária de outra
+entidade e um atributo discriminador (chave parcial).
+As afirmativas são, respectivamente,
+(A) V – F – V – F.
+(B) F – V – V – F.
+(C) V – V – F – V.
+(D) F – F – V – V.
+(E) V – F – F – F.
+TIPO 1 – PÁGINA 16
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+53
+No desenvolvimento de soluções de Business Intelligence, a
+modelagem dimensional é amplamente utilizada para organizar os
+dados de forma a facilitar a análise e a performance de consultas.
+Sobre os conceitos e as componentes dessa técnica de
+modelagem, analise as afirmativas a seguir.
+I. As tabelas fato são projetadas para armazenar métricas
+quantitativas resultantes de processos ou eventos de negócio.
+II. As tabelas dimensão fornecem o contexto necessário para os
+fatos, contendo atributos descritivos.
+III. A modelagem dimensional baseia-se na normalização
+extensiva de suas tabelas como princípio de organização dos
+dados.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+54
+Letícia é analista de sistemas do Tribunal de Justiça e elabora
+análises e relatórios sobre os processos de sua região. No
+desempenho de suas atribuições, realiza operações em OLAP
+(Online Analytical Processing).
+Em uma dessas análises, utilizando um cubo de dados com as
+dimensões processos, tempo e cidade, ela deverá realizar as
+seguintes operações:
+I. detalhar a quantidade de processos de ano para trimestre;
+II. filtrar os processos, considerando apenas os de natureza
+criminal; e
+III. rotacionar a visualização dos dados, trocando linhas por
+colunas.
+A sequência de operações que Letícia deverá realizar é,
+respectivamente,
+(A) Drill-down, Dice e Pivot.
+(B) Slice, Roll-Up e Drill-down.
+(C) Drill-down, Slice e Pivot.
+(D) Drill-down, Pivot e Dice.
+(E) Slice, Roll-up e Dice.
+55
+Jonas é administrador de banco de dados do Tribunal de Justiça de
+Santa Catarina. Em sua rotina, realiza criação, manipulação e
+definição de dados por meio de linguagem SQL, atendendo às
+demandas da equipe de desenvolvimento de sistemas. Em
+determinada tarefa, verificou que havia criado uma tabela de
+forma equivocada e que ela não seria mais necessária, inclusive em
+sua estrutura.
+Diante disso, para eliminar definitivamente essa tabela, ele deve
+utilizar o comando
+(A) TRUNCATE table.
+(B) DELETE table.
+(C) UPDATE table.
+(D) GRANT table.
+(E) DROP table.
+ANALISTA DE SISTEMAS – MANHÃ
+56
+No contexto de Sistemas Gerenciadores de Bancos de Dados
+Relacionais (SGBDR), como SQL Server, PostgreSQL e Oracle, o
+conceito de transação é fundamental para o processamento de
+dados. Uma transação corresponde a uma unidade lógica de
+trabalho que deve ser executada de forma completa e consistente.
+O uso de transações tem como objetivo principal garantir que o
+banco de dados
+(A) maximize a redundância controlada de dados para otimizar a
+velocidade de recuperação em caso de falhas de hardware.
+(B) mantenha a consistência e a integridade dos dados,
+assegurando o cumprimento das propriedades de
+atomicidade, consistência, isolamento e durabilidade.
+(C) dispense a utilização de estruturas de indexação e de
+restrições de chave estrangeira (foreign keys) nas tabelas.
+(D) centralize o processamento analítico no servidor de aplicação,
+eliminando a necessidade de mecanismos de controle de
+concorrência.
+(E) restrinja o acesso simultâneo de múltiplos usuários,
+priorizando operações de leitura em detrimento de operações
+de escrita.
+57
+Um Tribunal de Justiça identificou degradação de desempenho em
+consultas que filtram registros por múltiplas colunas combinadas
+por operadores lógicos AND na cláusula WHERE. A equipe de
+administração de banco de dados (DBA) decide criar um índice
+composto (multi-column index) para otimizar essas operações.
+Considerando o funcionamento de índices compostos baseados
+em árvores balanceadas (B-Tree), em sistemas gerenciadores de
+bancos de dados relacionais, assinale a afirmativa correta.
+(A) A ordem das colunas na definição do índice não interfere em
+sua eficiência, uma vez que o otimizador de consultas
+reordena os predicados automaticamente para garantir o uso
+do índice.
+(B) A utilização do índice composto é otimizada quando os
+predicados da consulta seguem a ordem de definição das
+colunas no índice, respeitando a regra do prefixo à esquerda
+(leftmost prefix).
+(C) Um índice composto só pode ser utilizado pelo motor de
+execução se todas as colunas que o compõem forem
+obrigatoriamente referenciadas na cláusula de filtragem da
+consulta.
+(D) A criação de índices compostos em colunas com baixa
+seletividade garante, de forma determinística, a substituição
+do escaneamento sequencial de tabela (table scan) pelo
+escaneamento de índice (index scan).
+(E) Índices compostos tornam-se desnecessários em sistemas
+modernos que implementam técnicas como index skip scan,
+sendo a ordem das colunas irrelevante para o desempenho das
+consultas.
+TIPO 1 – PÁGINA 17
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+58
+Com relação às arquiteturas de armazenamento e processamento
+de dados em larga escala, analise as afirmativas a seguir e assinale
+(V) para verdadeira e (F) para falsa.
+( ) Os Data Lakes fundamentam-se no conceito de schema-on-
+read, permitindo o armazenamento de dados em seu formato
+bruto sem a necessidade de uma estrutura rígida no momento
+da ingestão.
+( ) Os Data Warehouses operam sob o modelo de schema-on-
+write, exigindo que os dados sejam transformados e
+estruturados conforme um esquema definido antes de sua
+carga e disponibilização para consulta.
+( ) Os Data Lakes são repositórios projetados exclusivamente
+para o armazenamento de dados não estruturados, sendo
+tecnicamente incompatíveis para dados estruturados
+provenientes de sistemas transacionais.
+As afirmativas são, respectivamente,
+(A) V – V – F.
+(B) V – F – V.
+(C) F – V – V.
+(D) V – F – F.
+(E) F – V – F.
+Infraestrutura de TI e Computação em
+Nuvem
+59
+Com relação aos fundamentos, características e arquitetura da
+computação em nuvem, assinale (V) para afirmativa verdadeira e
+(F) para falsa.
+( ) A resiliência na computação em nuvem pode abranger a
+disponibilidade de recursos em uma única nuvem ou entre
+múltiplas nuvens.
+( ) A arquitetura de computação em nuvem não contempla
+virtualização, pois os recursos são fisicamente dedicados a
+cada usuário.
+( ) A elasticidade é uma característica da computação em nuvem
+que permite o redimensionamento dos recursos de TI na
+nuvem conforme a demanda.
+As afirmativas são, respectivamente,
+(A) V – V – F.
+(B) F – F – V.
+(C) V – F – V.
+(D) F – V – V.
+(E) V – F – F.
+60
+Considerando os modelos de serviço em computação em nuvem
+— também denominados modelos de entrega de nuvem ou
+modelos de entrega de serviços em nuvem —, assinale a afirmativa
+correta.
+(A) Um provedor de nuvem pode oferecer serviços conforme os
+modelos IaaS, PaaS ou SaaS, os quais possuem escopos
+exclusivos e não relacionados entre si.
+(B) O modelo IaaS oferece um serviço pronto para uso, cuja
+configuração não é facultada ao consumidor.
+(C) O consumidor de nuvem em um modelo PaaS possui acesso
+integral aos recursos de TI.
+(D) O modelo SaaS permite a oferta de um serviço reutilizável.
+(E) Em ambos os modelos, PaaS e SaaS, o provedor de nuvem
+fornece acesso à infraestrutura física aos consumidores.
+ANALISTA DE SISTEMAS – MANHÃ
+61
+Com relação aos tipos de nuvens, no contexto da computação em
+nuvem, analise os itens a seguir.
+I. Uma nuvem tipo híbrida é uma combinação de dois ou mais
+modelos de implantação de nuvem.
+II. Uma nuvem tipo pública é aquela que provê os serviços do
+setor público do Estado, de forma gratuita aos cidadãos.
+III. Um provedor de serviço em nuvem do tipo privada não
+oferece o modelo SaaS.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) III, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+62
+A computação em nuvem é um modelo que permite o acesso sob
+demanda a recursos computacionais, como rede, servidores e
+armazenamento.
+No contexto de desenvolvimento de software em nuvem e uso de
+containers, considere os itens a seguir.
+I. Recurso que pode ser compartilhado pelos containers com o
+sistema operacional do hospedeiro, mas não pelas máquinas
+virtuais.
+II. Orquestrador de containers.
+III. Novo modelo de desenvolvimento em que as aplicações são
+feitas para a nuvem, e não adaptadas a ela.
+Assinale a opção que apresenta, respectivamente, os recursos ou
+conceitos listados.
+(A) Kernel, Docker, IaaS.
+(B) Cluster, Node, Microserviços.
+(C) Kernel, Kubernetes, Cloud Native.
+(D) Hardware, Hypervisor, Cluster.
+(E) Sistema de arquivos base, Kubernetes, DevOps.
+63
+Considerando o modelo de referência OSI para redes de
+computadores, assinale a afirmativa correta.
+(A) O TCP (Transmission Control Protocol) é um protocolo da
+camada de controle responsável pela transmissão confiável.
+(B) O protocolo IP (Internet Protocol) é o único protocolo
+responsável por endereçamento em redes de computadores.
+(C) A camada física é responsável por garantir que os dados sejam
+transmitidos corretamente.
+(D) O roteamento de pacotes é uma das funções da camada de
+aplicação, em especial para navegação web.
+(E) O controle de fluxo é uma das funções da camada de enlace de
+dados.
+TIPO 1 – PÁGINA 18
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+64
+O modelo OSI para redes de computadores é uma abstração para
+organizar as responsabilidades em camadas que encapsulam a
+informação a ser transmitida, da camada mais superior (aplicação)
+até a mais inferior (física).
+No contexto do modelo OSI, analise as afirmativas a seguir.
+I. A camada de rede é a responsável por determinar, passo a
+passo, qual será o próximo nó da rede a que será enviado o
+datagrama, em um processo chamado de roteamento.
+II. A camada de enlace é a responsável pelo encaminhamento de
+um frame ponto a ponto, utilizando o endereçamento IP para
+garantir que está sendo enviado o frame para o próximo
+destino correto.
+III. A camada de transporte pode implementar o protocolo TCP,
+que garante a entrega fim a fim dos pacotes entre origem e
+destino. Nesse protocolo, estabelece-se uma conexão, e
+eventuais perdas de pacotes são tratadas por meio de
+retransmissões na própria camada de transporte.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+65
+Na arquitetura clássica descrita por Von Neumann, o computador
+é representado por um processador, barramentos, uma memória
+principal e dispositivos de entrada e saída.
+Entretanto, os computadores atuais executam múltiplos
+processos, possuem diversos núcleos de processamento, e
+possuem arquiteturas multinível de memória. Para organizar
+todos esses recursos, utiliza-se um programa especial chamado de
+Sistema Operacional.
+Com relação ao Sistema Operacional e à alocação de recursos
+computacionais, assinale (V) para afirmativa verdadeira e (F) para
+falsa.
+( ) O sistema operacional utiliza um escalonador para conceder e
+revogar acesso ao processador a cada processo em execução,
+por meio da implementação de algoritmos como FIFO ou
+round-robin.
+( ) A arquitetura multinível de memória visa diminuir a latência
+de acesso à memória, sendo composta por caches de
+diferentes velocidades de acesso, pela memória RAM e pela
+memória virtual.
+( ) Os dispositivos de entrada e saída permitem que o
+computador interaja com o mundo exterior, e o sistema
+operacional é responsável por conceder acesso a esses
+dispositivos para os processos, por meio de programas
+conhecidos como daemons.
+As afirmativas são, respectivamente,
+(A) F – V – F.
+(B) V – F – F.
+(C) F – F – V.
+(D) F – V – V.
+(E) V – V – F.
+ANALISTA DE SISTEMAS – MANHÃ
+66
+Sobre o processo de virtualização de computadores, é correto
+afirmar que
+(A) para realizar a virtualização, utiliza-se um software chamado
+hypervisor, responsável por gerenciar máquinas virtuais e
+abstrair os recursos de hardware para os sistemas
+operacionais convidados.
+(B) o processo de virtualização traz benefícios no tempo de
+processamento, pois a latência de resposta dos processos
+virtualizados é menor do que nos sistemas não virtualizados.
+(C) a virtualização traz ganhos econômicos, pois é possível
+virtualizar diversas cópias de sistemas proprietários, como o
+Windows ou iOS em máquinas Linux com apenas acesso a uma
+licença.
+(D) um dos benefícios da virtualização é a escalabilidade, pois ela
+permite que processadores de diversos servidores distintos
+sejam usados em um único sistema virtual.
+(E) os containers são sistemas operacionais generalistas
+virtualizados, que permitem flexibilidade na utilização dos
+recursos de hardware e facilitam o deployment de soluções.
+Segurança da Informação e Governança
+de TI
+67
+Relacione os conceitos de Segurança da Informação às respectivas
+definições, quando houver.
+( ) Propriedade de proteger a exatidão
+da informação.
+( ) Processo
+de
+concessão
+de
+permissões.
+( ) Propriedade em que a informação
+não é disponibilizada ou divulgada
+para pessoas, entidades ou
+processos não autorizados.
+( ) Propriedade de ser acessível e
+utilizável sob demanda por uma
+entidade autorizada.
+1.
+2.
+3.
+4.
+5.
+Confidencialidade
+Integridade
+Disponibilidade
+Autenticação
+Autorização
+Assinale a opção que indica a relação correta, na ordem
+apresentada
+(A) 1 – 4 – 5 – 2.
+(B) 2 – 4 – 1 – 3.
+(C) 4 – 5 – 3 – 1.
+(D) 2 – 5 – 1 – 3.
+(E) 4 – 2 – 3 – 1.
+TIPO 1 – PÁGINA 19
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+68
+Analise as seguintes afirmativas relacionadas à proteção de dados
+pessoais e Gestão de Identidade:
+I. Para implementar a proteção dos dados pessoais em repouso,
+deve-se manter os dados criptografados e liberar sua
+decifração apenas mediante autenticação e validação do
+direito ao acesso.
+II. O conceito de Multi-factor Authentication - MFA
+(preferencialmente solicitando algo que o usuário sabe, algo
+que possui e algo que é), serve para reforçar o processo de
+autenticação.
+III. Para o correto funcionamento do Controle de Acesso baseado
+em papéis – RBAC, é importante que apenas permissões
+necessárias sejam associadas a cada usuário, e que cada papel
+seja associado a um usuário distinto.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+69
+No complexo e conectado ambiente de serviços disponíveis na
+rede mundial, garantir a autenticidade de um usuário para que
+possa acessar apenas os conteúdos a ele disponíveis é um
+processo fundamental. Com a proliferação da necessidade de se
+autenticar a cada interação, surgiu a tecnologia de Single-Sign on
+(SSO).
+Assim sendo, o SSO é
+(A) uma solução integradora, que permite que um servidor
+autentique diversos usuários para acessá-lo simultaneamente.
+(B) uma instanciação do Keycloak, protocolo de autenticação
+remota padronizada pela RFC 6749.
+(C) um serviço que reduz o número de autenticações em múltiplos
+sistemas.
+(D) um processo que garante autenticação segura com apenas um
+fator.
+(E) uma tecnologia que deve ser instalada em um servidor singular
+da rede, para acesso remoto de vários sistemas a esse servidor.
+ANALISTA DE SISTEMAS – MANHÃ
+70
+O protocolo Oauth2.0, descrito pela RFC 6749 e proposto pela
+Internet Engineering Task Force (IETF), busca reduzir a necessidade
+de compartilhamento de credenciais de autenticação (como
+senhas ou biometria) do detentor de um recurso (chamados de
+resource owner) diretamente com os sistemas que precisam do
+credenciamento (chamados de clients). Nesse protocolo, é
+utilizado um servidor de autorização (chamado authorization
+server) que emite tokens de acesso aos clients, mediante
+autorização dos resource owners. Dessa forma, as credenciais são
+apresentadas apenas ao servidor de autorização e não a cada
+client.
+Com relação ao protocolo Oauth2.0, como definido pelo RFC 6749,
+é correto afirmar que
+(A) a authorization grant é entregue pelo resource owner para o
+client e representa a autorização do detentor para que o client
+possa acessar o recurso protegido. No Oauth2.0, são definidos
+2 tipos de grant: explicit e authorization code.
+(B) os tokens de acesso (access token) devem garantir acesso por
+tempo limitado ao recurso protegido. Um refresh token serve
+para solicitar nova autenticação pelo client após expiração do
+token de acesso.
+(C) o acesso ao recurso protegido é concedido pelo servidor do
+recurso (resource server) ao client, apenas se esse apresentar
+um token de acesso válido, não expirado e de acesso irrestrito
+aos recursos presente no servidor.
+(D) o servidor de recursos (resource server) é o responsável por
+manter as credenciais do resource owner secretas e íntegras,
+devendo armazená-las em forma de salted hash.
+(E) ao emitir um token de acesso, o servidor deve descrever no
+mesmo o limite de acesso ao recurso, incluindo escopo e
+tempo, além de poder emitir tokens de refresh para novas
+autorizações sem necessidade de nova autenticação.
+71
+Uma aplicação em produção foi comprometida por meio da
+exploração de uma biblioteca com CVE conhecido, que permite
+execução remota de código.
+O pipeline da aplicação possui SAST durante a fase de
+desenvolvimento, DAST em ambiente de homologação e, ainda,
+possui monitoramento em produção. Após investigação, verificou-
+se que a vulnerabilidade estava em uma dependência indireta, não
+houve alerta durante o pipeline e a exploração ocorreu
+imediatamente após o deploy.
+Com base nesse contexto, assinale a afirmativa que explica
+corretamente a falha de detecção.
+(A) Ausência de análise de composição de software (SCA) no
+pipeline para identificação de vulnerabilidades em
+dependências transitivas.
+(B) Limitação do SAST na análise de fluxos dinâmicos de execução
+da aplicação.
+(C) Dependência do DAST de cobertura de testes para
+identificação de vulnerabilidades exploráveis.
+(D) Natureza reativa do monitoramento em produção, voltada à
+detecção pós-exploração.
+(E) Ausência de testes funcionais capazes de exercitar cenários de
+falha na aplicação.
+TIPO 1 – PÁGINA 20
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+72
+Uma organização mantém um sistema legado crítico, mas com
+forte dependência de tecnologia obsoleta. Foi identificado um
+risco relacionado tanto ao comprometimento da segurança
+quanto à futura indisponibilidade do sistema.
+Para tratar esse risco, foram propostas as seguintes ações:
+P1: migrar as funcionalidades para uma plataforma SaaS moderna,
+desativando o servidor antigo;
+P2: terceirizar a gestão do legado para um parceiro especializado,
+com foco em cláusulas de responsabilidade civil em contrato,
+sem alteração dos controles técnicos ou operacionais do
+sistema;
+P3: isolar o sistema em uma VLAN sem acesso à internet e exigir
+VPN com MFA para qualquer acesso; e
+P4: manter a operação do sistema legado, estabelecendo um
+fundo de reserva financeira para cobrir eventuais multas e
+definindo um plano de resposta a incidentes para recuperação
+manual, em caso de falha catastrófica.
+Assinale a opção que associa corretamente cada proposta a uma
+estratégia de tratamento de risco.
+(A) P1: evitar; P2: transferir; P3: mitigar; P4: aceitar.
+(B) P1: evitar; P2: mitigar; P3: mitigar; P4: aceitar.
+(C) P1: mitigar; P2: transferir; P3: mitigar; P4: transferir.
+(D) P1: evitar; P2: transferir; P3: mitigar; P4: transferir.
+(E) P1: mitigar; P2: mitigar; P3: mitigar; P4: aceitar.
+73
+Uma arquitetura utiliza:
+•
+•
+•
+aplicação primária on-premise;
+réplica em nuvem atualizada continuamente;
+mecanismo de failover por DNS, com troca automática de
+endpoint; e
+• pequeno atraso na propagação do DNS.
+Considerando esse cenário, é correto afirmar que essa arquitetura
+(A) usa redundância ativa-ativa com RPO e RTO nulos.
+(B) adota uma estratégia híbrida com failover automático, sujeita
+a pequenas janelas de indisponibilidade.
+(C) caracteriza uma estratégia de Warm Site, cuja ativação do
+endpoint em nuvem exige intervenção na camada de
+aplicação.
+(D) implementa tolerância a falhas, garantindo a persistência de
+sessões de usuário durante o failover.
+(E) emprega replicação assíncrona, cujo RTO é limitado
+exclusivamente pela largura de banda do link de sincronismo.
+ANALISTA DE SISTEMAS – MANHÃ
+74
+No contexto da Lei nº 13.709/2018 (LGPD), um Tribunal de Justiça
+utiliza um sistema informatizado para registrar e dar andamento a
+processos, realizando o tratamento de dados pessoais das partes,
+advogados e demais envolvidos.
+Considerando essa situação, assinale a opção que identifica
+corretamente a base legal em que se fundamenta o tratamento de
+dados pessoais realizado pelo Tribunal.
+(A) Consentimento do titular, em razão da necessidade de
+autorização prévia para o uso de dados em sistemas
+informatizados.
+(B) Legítimo interesse do controlador, visando ao apoio e à
+promoção de atividades que beneficiem a sociedade.
+(C) Cumprimento de obrigação legal ou regulatória pelo
+controlador.
+(D) Proteção da vida ou da incolumidade física do titular ou de
+terceiro, dada a natureza da atividade jurisdicional.
+(E) Proteção do crédito, em razão da natureza econômica e
+patrimonial das demandas judiciais.
+Governança Projetos e TI no Setor
+Público
+75
+O crescente investimento em tecnologia da informação, em
+âmbito público e privado, justifica a necessidade de implementar
+a governança de TI para garantir, entre outros fatores, a
+conformidade dos processos de TI com as regulamentações
+vigentes.
+A respeito da governança de TI no setor público, assinale a
+afirmativa correta.
+(A) A transparência em TI exige concentrar-se prioritariamente na
+divulgação dos resultados alcançados, cabendo às áreas
+técnicas definir de forma autônoma quais informações
+operacionais serão compartilhadas com as partes
+interessadas.
+(B) A conformidade, no contexto da tecnologia da informação,
+consiste em cumprir as normas aplicáveis e os requisitos legais.
+Portanto, é necessário monitorar, de forma contínua, as
+instruções normativas, as leis e os decretos.
+(C) O monitoramento das ações de tecnologia da informação deve
+priorizar indicadores operacionais e de infraestrutura, uma vez
+que a avaliação de benefícios e resultados dos projetos é
+atribuição exclusiva das áreas de negócio.
+(D) A avaliação do uso da tecnologia da informação por parte dos
+órgãos públicos é realizada somente de forma interna, ou seja,
+por um setor específico do próprio órgão, que tem a missão de
+garantir as boas práticas das ações de TI.
+(E) A implantação de um modelo de governança de TI tem como
+foco principal a padronização tecnológica e a eficiência
+operacional dos serviços de TI, independentemente dos
+objetivos estratégicos definidos pela organização.
+TIPO 1 – PÁGINA 21
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+76
+Gerenciar projetos envolve diversos desafios, entretanto há boas
+práticas que fornecem técnicas e ferramentas que auxiliam no
+planejamento, na execução e no monitoramento e controle das
+ações.
+A esse respeito, assinale a opção correta.
+(A) O ciclo de vida ágil elimina todos os riscos do projeto, dado que
+o gerenciamento de mudanças fica facilitado quando se
+compara com um ciclo de vida preditivo.
+(B) As estratégias de respostas aos riscos dos projetos devem ser
+prevenir, mitigar, aceitar, transferir e escalar, objetivando
+diminuir a probabilidade de o risco acontecer ou diminuir o
+impacto no projeto.
+(C) Metodologias ágeis só devem ser utilizadas em projetos de
+tecnologia da informação.
+(D) Scrum e Kanban não podem ser utilizados juntos pois o scrum
+possui papéis e responsabilidades e o Kanban foca em fluxo
+contínuo de atividades.
+(E) O ciclo de vida de um projeto pode ser escolhido com base na
+complexidade do projeto, no conhecimento do escopo do que
+será produzido ou fornecido, na cultura organizacional e na
+maturidade da equipe técnica que irá trabalhar no projeto.
+77
+Considerando a técnica de Análise de Pontos de Função (APF),
+utilizada para medir o tamanho funcional de um software, assinale
+a afirmativa correta.
+(A) Um dos objetivos principais da APF é medir a funcionalidade
+que entregue ao usuário, mas só analisa softwares cuja
+tecnologia utilizada foi o Python.
+(B) A APF fornece unidades de medidas distintas para custos,
+estimativas e produtividade.
+(C) As funções de dados medem o processamento das
+informações, e as funções de transação medem o
+conhecimento que a aplicação mantém.
+(D) A Regra de Intencionalidade do Usuário estabelece que uma
+transação só é contada se ela completar um processo de
+negócio.
+(E) O Ponto de Função Não Ajustado (PFNA) é um exemplo de
+função de transação.
+78
+Considerando o roteiro de métricas de software do Sistema de
+Administração dos Recursos de Tecnologia da Informação (SISP),
+assinale a afirmativa correta.
+(A) O objetivo da medição de software é pagar por hora
+trabalhada para evitar ineficiências.
+(B) Há definição clara do que não gera pontos de função e, para
+que uma funcionalidade seja paga, a existência de
+documentação é uma exigência.
+(C) A função de transação Entrada Externa armazena dados
+apenas lidos de outras transações.
+(D) A Função de dados Consulta Externa recupera dados sem
+cálculos.
+(E) A versão 2.0 não adota o IFPUG - International Function Point
+Users Group.
+ANALISTA DE SISTEMAS – MANHÃ
+79
+As contratações de Tecnologia da Informação (TI), no setor
+público, devem seguir leis e instruções normativas, bem como o
+planejamento estratégico institucional.
+A esse respeito, é correto afirmar que
+(A) as contratações de TI devem ser submetidas a práticas de
+gestão de riscos somente na fase de planejamento.
+(B) a cada troca de gestor, secretário ou diretor, deve haver
+mudanças no planejamento estratégico de TI, para garantir
+que as contratações estejam alinhadas à visão de futuro do
+novo profissional representante do órgão.
+(C) nas licitações, o critério de julgamento por técnica e preço será
+escolhido quando estudo técnico preliminar demonstrar que a
+avaliação e a ponderação da qualidade técnica das propostas
+que superarem os requisitos mínimos estabelecidos no edital
+forem relevantes aos fins pretendidos pela Administração.
+(D) o planejamento estratégico mostra o “como fazer”, lista
+projetos e processos específicos considerando prazos e
+responsáveis.
+(E) nem todas as contratações de TI devem estar alinhadas ao
+plano estratégico institucional, sendo suficiente estar evidente
+a necessidade do serviço a ser contratado ou do produto a ser
+adquirido.
+80
+Considerando os atos normativos do Conselho Nacional de Justiça
+(CNJ) relacionados à governança, à segurança cibernética e à
+transformação digital do Poder Judiciário, assinale a opção correta.
+(A) A Resolução nº 335/2020 do CNJ institui a Estratégia Nacional
+de Segurança Cibernética do Poder Judiciário.
+(B) A Resolução nº 396/2021 do CNJ estabelece uma política
+pública para a governança e a gestão de processo judicial
+eletrônico.
+(C) A Portaria 252/2020 dispõe sobre o Modelo de Governança e
+Gestão da Plataforma Digital do Poder Judiciário (PDPJ-Br).
+(D) A Portaria nº 257/2022, em seu inciso II do Art. 1º, define a
+linguagem de programação Python para a arquitetura de
+desenvolvimento da Plataforma Digital do Poder Judiciário
+Brasileiro (PDPJ-Br).
+(E) A Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br)
+restringe sua atuação ao desenvolvimento de soluções
+internas dos tribunais, sem contemplar requisitos relacionados
+à computação em nuvem, interoperabilidade e autenticação
+uniformizada.
+TIPO 1 – PÁGINA 22
+
+
+
+Realização

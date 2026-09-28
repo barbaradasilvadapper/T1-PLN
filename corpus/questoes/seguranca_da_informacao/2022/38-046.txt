@@ -1,0 +1,18 @@
+ID: 38-046
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um órgão do Poder Judiciário está realizando a análise de impacto em seu negócio, identificando os efeitos de uma interrupção das suas atividades, a fim de subsidiar o seu processo de gestão de continuidade de negócios. Uma das atividades a ser executada pelo órgão durante o seu processo de análise de impacto de negócio é:
+
+[ALTERNATIVAS]
+(A) identificar as atividades internas de seus colaboradores, desconsiderando os relacionamentos com os fornecedores;
+(B) identificar os requisitos para continuar e recuperar as atividades priorizadas dentro do prazo e na capacidade aceitável;
+(C) implementar e manter uma estrutura de respostas que permita aviso e comunicação oportuna às partes do órgão atingido pela disrupção;
+(D) identificar o período máximo tolerável de disrupção para as atividades do órgão;
+(E) estabelecer prazo padrão para recuperação das atividades identificadas na análise.
+
+[GABARITO]
+D

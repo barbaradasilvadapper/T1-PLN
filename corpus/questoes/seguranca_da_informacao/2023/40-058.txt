@@ -1,0 +1,18 @@
+ID: 40-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ) define, em seu Art. 12, um modelo centralizado de governança nacional na segurança cibernética para os órgãos no âmbito do Poder Judiciário, à exceção do Supremo Tribunal Federal. Um dos objetivos desse modelo centralizado é:
+
+[ALTERNATIVAS]
+(A) realizar exercícios cibernéticos com a participação de múltiplos entes;
+(B) estabelecer norma sobre a definição dos requisitos metodológicos para a implementação da gestão de risco dos ativos da informação no Poder Judiciário;
+(C) estabelecer rotinas de verificações de conformidade em segurança cibernética;
+(D) elaborar a Política de Segurança da Informação e normas internas correlatas ao tema, observadas as normas de segurança da informação editadas pelo CNJ;
+(E) promover ações de capacitação e profissionalização dos recursos humanos em temas relacionados à segurança da informação.
+
+[GABARITO]
+C

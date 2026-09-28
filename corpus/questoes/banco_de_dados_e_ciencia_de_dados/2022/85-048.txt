@@ -1,0 +1,18 @@
+ID: 85-048
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Caio preparou o comando SQL exibido a seguir para deletar um conjunto de linhas de uma tabela. delete from T1 where exists(select * from T2 where T1.A1 = T2.A2) Para testar seu comando e descobrir exatamente quais seriam as linhas deletadas, Caio pretende executar um comando sem alteração de dados que permita a identificação dessas linhas. Para isso, basta que Caio substitua no comando original o termo:
+
+[ALTERNATIVAS]
+(A) “=” por “<>”;
+(B) “delete from” por “show deleted rows from”;
+(C) “delete” por “delete limit 0”;
+(D) “delete” por “select *”;
+(E) “exists” por “not exists”.
+
+[GABARITO]
+D

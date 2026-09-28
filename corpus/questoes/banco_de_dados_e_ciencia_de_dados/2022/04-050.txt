@@ -1,0 +1,18 @@
+ID: 04-050
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Lino precisa preparar um grande volume de dados para minerar realizando operações de limpeza, adequação de formato, exclusão de brancos e inclusão de novos atributos derivados. Para realizar o pré-processamento dos dados, Lino deve usar uma ferramenta do tipo:
+
+[ALTERNATIVAS]
+(A) ETL;
+(B) OLAP;
+(C) Apriori;
+(D) Data Mart;
+(E) Data Lake.
+
+[GABARITO]
+A

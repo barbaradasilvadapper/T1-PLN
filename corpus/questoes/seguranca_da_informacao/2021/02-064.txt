@@ -1,0 +1,18 @@
+ID: 02-064
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Kátia, engenheira de segurança, recebeu de seu chefe uma mensagem a ser criptografada e enviada para uma das filiais da empresa em outro estado, de forma segura. A mensagem não é crítica para a empresa, logo o sistema de criptografia a ser utilizado pode ser computacionalmente simples. Kátia resolveu então usar uma cifra de transposição que não altera o conteúdo da mensagem, alterando apenas suas posições. Considerando que a chave utilizada foi MEGABUCK e o texto cifrado é ISODAIAORPSOROPCUOCLSASMDSRENOLVOTIRCSMDTOIFROEEE RBUIATROSONOO a alternativa que apresenta o texto em claro correto para o texto cifrado acima é:
+
+[ALTERNATIVAS]
+(A) EMVIRTUDEDOSPROTESTOSOCORRIDOSLIBERAROSFUNCION ARIOSAPOSOALMOCO;
+(B) EFETUARODEPOSITONACONTADAFILIALDERONDONIAHOJEIM PRETERIVELMENTE;
+(C) ALTERARASFOLHASDEPAGAMENTOEDAROAUMENTOACORDA DONAREUNIAODEONTEM;
+(D) TRANSFERIROFUNCIONARIOROBERTODODEPARTAMENTOBP ARAODEPARTAMENTOA;
+(E) ENCAMINHARPOREMAILOPLANEJAMENTODEFERIASDODEPA RTAMENTOACADEMICO.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 76-077
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Para o desenvolvimento de um sistema de interface com o público, em que a equipe de Análise de Sistemas precisa clarear os requisitos de usabilidade e garantir que o design da tela atenda às expectativas dos usuários finais, utiliza-se um modelo que rapidamente constrói uma versão preliminar do sistema. O principal propósito da utilização do Modelo de Prototipação no desenvolvimento de software é
+
+[ALTERNATIVAS]
+(A) garantir a integridade da base de código usando TDD
+(B) obter feedback rápido do cliente sobre a interface e os requisitos, reduzindo a incerteza inicial.
+(C) finalizar toda a documentação de arquitetura antes de iniciar qualquer codificação.
+(D) integrar código em um repositório central várias vezes por dia.
+(E) gerenciar o fluxo contínuo de trabalho através da limitação de WIP.
+
+[GABARITO]
+B

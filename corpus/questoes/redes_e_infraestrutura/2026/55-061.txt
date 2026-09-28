@@ -1,0 +1,18 @@
+ID: 55-061
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação aos tipos de nuvens, no contexto da computação em nuvem, analise os itens a seguir. I. Uma nuvem tipo híbrida é uma combinação de dois ou mais modelos de implantação de nuvem. II. Uma nuvem tipo pública é aquela que provê os serviços do setor público do Estado, de forma gratuita aos cidadãos. III. Um provedor de serviço em nuvem do tipo privada não oferece o modelo SaaS.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) III, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

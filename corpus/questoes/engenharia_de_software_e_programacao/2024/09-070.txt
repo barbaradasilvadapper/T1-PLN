@@ -1,0 +1,18 @@
+ID: 09-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do gerenciamento de projetos, uma abordagem Ágil Híbrida é caracterizada por
+
+[ALTERNATIVAS]
+(A) utilizar exclusivamente metodologias ágeis em todos os aspectos do projeto.
+(B) combinar práticas ágeis com métodos tradicionais de gerenciamento de projetos para atender às necessidades específicas da equipe e do projeto.
+(C) adotar apenas as cerimônias do Scrum, sem considerar outros métodos.
+(D) implementar um plano fixo e detalhado antes de iniciar o projeto, sem revisões.
+(E) focar unicamente na documentação, ignorando a interação com a equipe.
+
+[GABARITO]
+B

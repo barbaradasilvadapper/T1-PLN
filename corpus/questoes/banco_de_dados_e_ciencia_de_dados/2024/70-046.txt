@@ -1,0 +1,18 @@
+ID: 70-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A principal função de um Data Warehouse é
+
+[ALTERNATIVAS]
+(A) criptografar dados sensíveis de negócios para garantir a segurança da informação.
+(B) integrar e armazenar grandes volumes de dados de diversas fontes de forma organizada para suportar a tomada de decisão.
+(C) processar transações online em tempo real para e-commerce e aplicações web.
+(D) analisar e prever tendências futuras de mercado utilizando algoritmos de inteligência artificial.
+(E) facilitar operações de negócios do dia a dia, como transações financeiras e registros de clientes.
+
+[GABARITO]
+B

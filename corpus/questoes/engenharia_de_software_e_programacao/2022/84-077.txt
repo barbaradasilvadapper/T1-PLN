@@ -1,0 +1,18 @@
+ID: 84-077
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O comando que pode ser executado na ferramenta de versionamento Git para exibir a lista dos arquivos alterados no diretório de trabalho local é
+
+[ALTERNATIVAS]
+(A) git fetch
+(B) git gc
+(C) git status
+(D) git prune
+(E) git remote
+
+[GABARITO]
+C

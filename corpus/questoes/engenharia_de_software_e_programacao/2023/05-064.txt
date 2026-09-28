@@ -1,0 +1,18 @@
+ID: 05-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Roberto está definindo o projeto de um novo portal para a empresa X Ltda., e preocupou-se em seguir as diretrizes de acessibilidade para conteúdo Web (WCAG). Entre as decisões tomadas por Roberto, ele demonstrou grande preocupação com pessoas que apresentam deficiência visual quando:
+
+[ALTERNATIVAS]
+(A) definiu um nível de contraste baixo na paleta de cores;
+(B) exigiu que todas as imagens significativas tenham um texto descritivo;
+(C) decidiu apagar todos os dados correntes da página quando uma sessão expirar;
+(D) ofereceu interpretação com o uso da língua de sinais, por meio de avatar próprio, para os conteúdos em áudio;
+(E) não permitiu que qualquer conteúdo pisque mais de três vezes no intervalo de um segundo.
+
+[GABARITO]
+B

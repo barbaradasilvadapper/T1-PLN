@@ -1,0 +1,18 @@
+ID: 79-064
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Joana deve investigar anomalias no tráfego da rede B do MPU. A rede B interliga os dispositivos por um switch padrão. A fim de facilitar a investigação, Joana decidiu capturar todos os pacotes trafegados por qualquer dispositivo da rede B (sniffing geral), utilizando apenas um software sniffer no computador PC, conectado à rede B. A analista executou um ataque controlado à rede B, fazendo com que o switch padrão se comportasse como um simples hub. Joana avaliou ainda se havia necessidade de definir a única placa de rede do PC, a IBNet, para operar no modo promíscuo. Para cumprir o objetivo de investigar toda a rede B, Joana realizou um ataque do tipo:
+
+[ALTERNATIVAS]
+(A) ARP spoofing, e precisou alterar o modo de operação da IBNet;
+(B) MAC flooding, e precisou alterar o modo de operação da IBNet;
+(C) ARP flooding, e não precisou alterar o modo de operação da IBNet;
+(D) MAC flooding, e não precisou alterar o modo de operação da IBNet;
+(E) MAC spoofing, e não precisou alterar o modo de operação da IBNet.
+
+[GABARITO]
+B

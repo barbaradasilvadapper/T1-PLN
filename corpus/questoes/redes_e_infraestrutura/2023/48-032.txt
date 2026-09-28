@@ -1,0 +1,18 @@
+ID: 48-032
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um determinado roteador está interligando diversos enlaces, cada um rodando diferentes protocolos da camada de enlace com diferentes MTUs. Ao receber um datagrama IPv4 de um enlace, o roteador identificou que o enlace de saída tem uma MTU menor do que o comprimento do datagrama IP. Nesse cenário, o roteador deve:
+
+[ALTERNATIVAS]
+(A) descartar o datagrama IP e solicitar à origem que envie novamente o datagrama com a MTU correta;
+(B) descartar o datagrama IP, alterar a MTU do enlace e solicitar à origem que envie novamente o datagrama;
+(C) ajustar a MTU do enlace de saída, igualando à MTU do enlace de entrada, para suportar o datagrama IP enviado e os demais com mesmo tamanho;
+(D) fragmentar os dados do datagrama IP em dois ou mais datagramas IP menores e reconstruí-los utilizando os campos ID, Deslocamento e Flag;
+(E) fragmentar os dados do datagrama IP em dois ou mais datagramas IP menores e reconstruí-los utilizando os campos ID, Deslocamento e TTL.
+
+[GABARITO]
+D

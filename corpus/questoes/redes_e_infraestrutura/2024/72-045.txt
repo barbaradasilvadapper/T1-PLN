@@ -1,0 +1,18 @@
+ID: 72-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe do Núcleo de Gestão de Tecnologia da Informação (NucTI) de uma organização optou por utilizar Infrastructure as Code (IaC). Com o uso de IaC, o provedor terá responsabilidade sobre algumas funções, mas a equipe do NucTI terá que gerenciar:
+
+[ALTERNATIVAS]
+(A) os dados e o crescimento de storage;
+(B) as aplicações, os dados e as storages;
+(C) a virtualização, o sistema operacional e as aplicações;
+(D) a virtualização, o middleware e o ambiente de execução;
+(E) as aplicações, os dados, o middleware e o sistema operacional.
+
+[GABARITO]
+E

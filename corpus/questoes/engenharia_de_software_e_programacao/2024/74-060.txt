@@ -1,0 +1,18 @@
+ID: 74-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Controle de versão de código-fonte usando Git é uma prática fundamental no desenvolvimento de software que permite rastrear e gerenciar alterações no código ao longo do tempo. O Git é um sistema de controle de versão distribuído que facilita o gerenciamento de código-fonte, colaboração entre equipes e manutenção do histórico do projeto. Uma boa prática para o controle de versão de código-fonte usando Git é
+
+[ALTERNATIVAS]
+(A) fazer commits frequentes e pequenos para garantir que as alterações sejam bem documentadas e facilmente revertidas, se necessário.
+(B) fazer commits grandes e esporádicos que incluam várias alterações de uma vez para reduzir o número total de commits no repositório.
+(C) usar a branch main (ou master) para desenvolvimento contínuo e criar branches somente para lançamentos finais.
+(D) evitar a utilização de mensagens de commit para manter o histórico de commits mais limpo e conciso.
+(E) realizar commits diretamente no branch main (ou master) sem criar branches de desenvolvimento ou features para simplificar o fluxo de trabalho.
+
+[GABARITO]
+A

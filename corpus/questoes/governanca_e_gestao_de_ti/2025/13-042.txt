@@ -1,0 +1,18 @@
+ID: 13-042
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Joana, gestora de processos de negócio, é responsável por otimizar os processos do MPU. Com base no CBOK 4.0, na primeira fase do seu trabalho, Joana definiu a seguinte tarefa: • identificar interfaces entre processos em que o trabalho ou a informação passam de um departamento para outro, o que pode gerar atrasos na execução do processo, além de distorções ou perdas de informações. Para executar essa tarefa, Joana deve identificar:
+
+[ALTERNATIVAS]
+(A) as atividades manuais, para transformá-las em atividades automáticas, visando a otimizar e agilizar a execução das tarefas;
+(B) os repositórios de processos de negócio, para catalogar as tarefas manuais e repetitivas dos departamentos;
+(C) handoffs utilizando swim lanes, para modelar as interfaces entre os departamentos;
+(D) as atividades atômicas, limitando as transferências de informação entre departamentos quando possível;
+(E) Key Performance Indicator (KPI), para avaliar as tarefas que mais atrasam, causam distorções e perdas de informações.
+
+[GABARITO]
+C

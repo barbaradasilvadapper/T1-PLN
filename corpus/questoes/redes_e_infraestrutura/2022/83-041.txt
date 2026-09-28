@@ -1,0 +1,18 @@
+ID: 83-041
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo da arquitetura TCP/IP que tem por objetivo oferecer um mecanismo de mapeamento dinâmico do endereço IP em um endereço físico é
+
+[ALTERNATIVAS]
+(A) ARP.
+(B) DHCP.
+(C) ICMP.
+(D) SNMP.
+(E) UDP.
+
+[GABARITO]
+A

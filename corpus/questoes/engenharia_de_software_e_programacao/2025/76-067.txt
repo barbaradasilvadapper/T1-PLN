@@ -1,0 +1,18 @@
+ID: 76-067
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Sistemas deseja que o tamanho da fonte e o espaçamento de um elemento de navegação se ajustem de forma relativa ao tamanho do viewport, e não de forma fixa. A seguinte unidade de medida CSS deve ser utilizada para que o tamanho de um elemento seja relativo ao tamanho da viewport, sendo importante para um design fluido e responsivo
+
+[ALTERNATIVAS]
+(A) px (Pixels).
+(B) em (Relativo ao tamanho da fonte do elemento pai).
+(C) rem (Relativo ao tamanho da fonte da raiz, root).
+(D) % (Porcentagem, relativo ao elemento pai).
+(E) vw (Largura da viewport).
+
+[GABARITO]
+E

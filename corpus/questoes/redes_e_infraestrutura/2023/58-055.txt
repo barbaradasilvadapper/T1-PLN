@@ -1,0 +1,18 @@
+ID: 58-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Kubernetes é uma plataforma open-source de orquestração de contêineres. Sobre esta plataforma, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Executa cargas de trabalho colocando pods em contêineres para execução em nodes.
+(B) Nodes são as menores unidades de computação implantáveis que é possível criar e gerenciar no Kubernetes.
+(C) Uma imagem de contêiner é um pacote de software leve sem as dependências necessárias para executar o aplicativo.
+(D) Um node pode ser uma máquina virtual ou física e contém os serviços necessários para executar os pods.
+(E) A execução de um contêiner é decomposta em um grupo de um ou mais kubelets com armazenamento efêmero.
+
+[GABARITO]
+D

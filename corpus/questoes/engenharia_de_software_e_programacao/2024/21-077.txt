@@ -1,0 +1,18 @@
+ID: 21-077
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Seja 𝑋 a variável aleatória que representa o número de ocorrências de um certo evento A em 𝑡 unidades de tempo. A distribuição de probabilidade de 𝑋 segue a distribuição de Poisson, isto é, a probabilidade de {𝑋 = 𝑥} é dada por: 𝑒 −𝜆𝑡 (𝜆𝑡) 𝑥 /𝑥!, em que 𝜆 é a taxa de ocorrência por unidade de tempo. Considerando o exposto, o valor esperado do tempo entre duas ocorrências consecutivas do evento A, é
+
+[ALTERNATIVAS]
+(A) 𝑡.
+(B) 𝜆𝑡.
+(C) 𝑡/𝜆.
+(D) 1/𝜆.
+(E) 2/𝜆.
+
+[GABARITO]
+D

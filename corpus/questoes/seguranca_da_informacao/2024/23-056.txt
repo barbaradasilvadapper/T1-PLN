@@ -1,0 +1,17 @@
+ID: 23-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Na era digital, onde a informação é um dos ativos mais valiosos, a implementação de uma política de segurança da informação é crucial para proteger os dados sensíveis e garantir a confiança de clientes e parceiros. Quando se trata de desenvolver uma política de segurança da informação, é recomendável ter em mente alguns conceitos: I. Toda informação deve ser mantida na sua condição original, tal como fornecida pelo seu proprietário, com o objetivo de protegê-la contra quaisquer alterações indevidas, sejam elas intencionais ou acidentais. II. É fundamental registrar tanto o acesso quanto o uso da informação, permitindo a identificação dos usuários que acessaram e as ações realizadas com os dados. III. Toda informação deve ser protegida conforme o seu nível de sigilo, com o objetivo de restringir o acesso e o uso apenas às pessoas autorizadas a recebê-la. As afirmações acima referem-se aos seguintes conceitos, respectivamente.
+
+[ALTERNATIVAS]
+(A) Integridade– Disponibilidade – Legalidade.
+(B) Disponibilidade – Confidencialidade – Legalidade.
+(C) Auditabilidade – Legalidade – Confidencialidade.
+(D) Integridade – Auditabilidade – Confidencialidade.
+
+[GABARITO]
+D

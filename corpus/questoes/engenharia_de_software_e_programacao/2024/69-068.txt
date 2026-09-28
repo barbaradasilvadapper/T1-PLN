@@ -1,0 +1,18 @@
+ID: 69-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A prática de Test Driven Development (TDD, ou Desenvolvimento Orientado por Testes) se relaciona com o conceito de verificação e validação e se baseia em um ciclo para garantir a qualidade do código. Entre as características do TDD, é correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) trata-se de desenvolvimento orientado para os comportamentos, sendo o desenvolvedor responsável por escrever os testes e validá-los de forma que eles funcionem.
+(B) trata-se de desenvolvimento orientado para os testes, sendo atribuição do programador escrever como o problema deve se comportar.
+(C) na prática, se refere a escrever um teste automatizado durante o desenvolvimento do código de fato.
+(D) o ciclo do TDD se inicia com a criação de um teste, para auxiliar a codificação, segue com a realização da codificação para passar no teste, e finaliza com a eliminação das redundâncias, ao se refatorar o código.
+(E) no desenvolvimento de programas são intercalados testes, elicitação de requisitos e desenvolvimento de código, tendo os testes embutidos em um programa separado que os executa e invoca o sistema que está sendo testado.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 79-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista Jonas está desenvolvendo um Large Language Model (LLM) para ser utilizado nas soluções de inteligência artificial do MPU. Para isso, Jonas utilizou o modelo pré-treinado BERTimbau, mas observou que as respostas eram genéricas e não específicas para o domínio. Para treinar um modelo pré-treinado adaptando-o às tarefas e aos conjuntos de dados específicos do domínio do MPU, Jonas deve realizar um(a):
+
+[ALTERNATIVAS]
+(A) overfitting;
+(B) regression;
+(C) discretization;
+(D) model fine-tuning;
+(E) feature engineering.
+
+[GABARITO]
+D

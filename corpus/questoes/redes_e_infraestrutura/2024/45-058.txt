@@ -1,0 +1,18 @@
+ID: 45-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao analisar um protocolo de comunicação em rede, foram observadas as características a seguir. I. Os tipos de mensagens trocadas, por exemplo, de requisição e de resposta. II. A sintaxe dos vários tipos de mensagens, tais como os campos da mensagem e o modo como os campos são delineados. III. A semântica dos campos, isto é, o significado da informação nos campos. IV. Regras para determinar quando e como um processo envia mensagens e responde a mensagens. Considerando as camadas do modelo OSI, o protocolo que define as características citadas opera na camada:
+
+[ALTERNATIVAS]
+(A) rede;
+(B) física;
+(C) enlace;
+(D) aplicação;
+(E) transporte.
+
+[GABARITO]
+D

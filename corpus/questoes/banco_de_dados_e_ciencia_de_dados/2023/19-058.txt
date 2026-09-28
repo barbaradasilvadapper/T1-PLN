@@ -1,0 +1,18 @@
+ID: 19-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João é um administrador de banco de dados MySQL e precisa realizar o restore do banco de dados "tjse_db", a partir de um arquivo de backup previamente criado com o nome backuptjse.sql. Para isso, João deverá utilizar o comando:
+
+[ALTERNATIVAS]
+(A) insert into tjse_db from backuptjse.sql
+(B) mysql -u root -p tjse_db < backuptjse.sql
+(C) import database tjse_db from backuptjse.sql
+(D) recover database tjse_db from backuptjse.sql
+(E) restore database tjse_db from backuptjse.sql
+
+[GABARITO]
+B

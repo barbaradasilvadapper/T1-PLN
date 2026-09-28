@@ -1,0 +1,18 @@
+ID: 58-046
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de uma instalação do MS SQL Server, a configuração inicial do server collation (Agrupamento do servidor, em português), analise as afirmativas a seguir. I. Não é possível criar bancos de dados com um valor do parâmetro Agrupamento diferente daquele adotado na instalação do SQL Server. II. A escolha do Agrupamento pode ter impacto nas comparações entre strings em comandos SQL. III. A escolha do Agrupamento não tem impacto na ordenação (order by) em comandos SQL.
+
+[ALTERNATIVAS]
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+A

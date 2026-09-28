@@ -1,0 +1,18 @@
+ID: 22-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O Apache Hadoop é uma plataforma amplamente utilizada no processamento de grandes volumes de dados. Ele se destaca por sua arquitetura distribuída e capacidade de lidar com grandes conjuntos de dados de forma eficiente. Com base nas capacidades e funcionalidades do Hadoop, assinale a opção que = descreve corretamente seu funcionamento e aplicação prática.
+
+[ALTERNATIVAS]
+(A) O Hadoop é uma plataforma de banco de dados relacional, que utiliza o SQL para gerenciar grandes volumes de dados de maneira centralizada.
+(B) O Hadoop possui uma arquitetura distribuída, composta principalmente pelo HDFS (Hadoop Distributed File System) e o MapReduce, permitindo o processamento de grandes volumes de dados de maneira escalável e paralela.
+(C) O principal componente do Hadoop é o NoSQL, que possibilita o armazenamento de dados não estruturados em um único servidor, sem a necessidade de distribuição.
+(D) O Hadoop foi projetado para pequenas empresas que possuem volumes reduzidos de dados e não requerem processamento paralelo, destacando-se por sua simplicidade de uso.
+(E) O Hadoop se limita ao armazenamento de dados em clusters locais, não sendo compatível com ambientes de computação em nuvem ou distribuídos globalmente.
+
+[GABARITO]
+B

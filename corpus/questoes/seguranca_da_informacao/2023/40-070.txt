@@ -1,0 +1,18 @@
+ID: 40-070
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A empresa Z criou uma nova aplicação web, mas foi atacada após disponibilizá-la na Internet. A equipe de segurança da empresa Z identificou que a configuração do servidor de aplicações permitia que os detalhes das mensagens de erro fossem retornados aos usuários. Tal fato exibe informações confidenciais ou falhas subjacentes. Para a elaboração do relatório de ataque a ser entregue à empresa Z, a equipe de segurança usou o OWASP. Ao verificar o OWASP, a equipe definiu o ataque como pertencente à categoria:
+
+[ALTERNATIVAS]
+(A) A09:2021 – Falhas de Registro e Monitoramento de Segurança;
+(B) A08:2021 – Falhas de Software e Integridade de Dados;
+(C) A07:2021 – Falhas de Identificação e Autenticação;
+(D) A06:2021 – Componentes Vulneráveis e Desatualizados;
+(E) A05:2021 – Configuração Incorreta de Segurança.
+
+[GABARITO]
+E

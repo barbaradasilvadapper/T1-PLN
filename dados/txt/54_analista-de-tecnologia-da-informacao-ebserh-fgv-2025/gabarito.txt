@@ -1,0 +1,536 @@
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                                       ADVOGADO - PROVA TIPO 1
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    D    B    E    C    E     B     C     C     A    C     A     D      E       C    A    E    D    A    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    C    A    C    D    E     A     E     C     A    D     E     C      A       B    D    B    C    D    A
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   A    C    B    A    C    B     C     A     E     E    E     C     A      B       D    D    B    B    C    C
+
+
+                                       ADVOGADO - PROVA TIPO 2
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    E    D    B    E    A     C     C     B     C    C     C     A      D       E    A    E    C    D    A
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   C    A    D    A    C    E     E     D     E     A    B     D     E      C       A    A    D    B    C    D
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   C    A    A    B    C    B     E     C     A     E    A     E     C      D       B    D    B    C    B    C
+
+
+                                       ADVOGADO - PROVA TIPO 3
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   E    D    A    B    E    C     C     B     C     D    E     C     C      A       D    A    C    A    C    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    E    A    C    A    D     A     D     E     E    A     B     D      E       C    D    A    D    B    C
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   A    C    A    B    B    C     A     E     C     E    C     E     A      D       B    D    B    B    C    C
+
+
+                                       ADVOGADO - PROVA TIPO 4
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   C    B    C    C    A    D     E     E     B     D    D     E     C      C       A    D    C    A    E    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   A    E    A    E    C    C     A     A     D     E    C     A     B      D       E    C    D    A    D    B
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   C    A    B    A    B    C     E     A     C     E    A     C     E      B       D    D    B    C    B    C
+
+
+
+
+                                                                                                   Página 1 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                   ANALISTA DE TECNOLOGIA DA INFORMAÇÃO - PROVA TIPO 1
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    D    B    E    C    E     B     C     C     A    C     A     D      E       C    A    E    D    A    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    C    A    C    D    E     A     E     C     A    D     E     C      A       B    D    B    C    D    A
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   C    C    B    B    B    E     A     D     B     C    B     C     E      B       D    E    E    E    C    B
+
+
+                   ANALISTA DE TECNOLOGIA DA INFORMAÇÃO - PROVA TIPO 2
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    E    D    B    E    A     C     C     B     C    C     C     A      D       E    A    E    C    D    A
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   C    A    D    A    C    E     E     D     E     A    B     D     E      C       A    A    D    B    C    D
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   C    E    B    E    E    B     C     D     D     C    B     E     B      A       E    B    B    C    C    B
+
+
+                   ANALISTA DE TECNOLOGIA DA INFORMAÇÃO - PROVA TIPO 3
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   E    D    A    B    E    C     C     B     C     D    E     C     C      A       D    A    C    A    C    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    E    A    C    A    D     A     D     E     E    A     B     D      E       C    D    A    D    B    C
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   E    E    B    B    B    D     E     C     B     C    C     C     C      B       E    E    A    B    B    D
+
+
+                   ANALISTA DE TECNOLOGIA DA INFORMAÇÃO - PROVA TIPO 4
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   C    B    C    C    A    D     E     E     B     D    D     E     C      C       A    D    C    A    E    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   A    E    A    E    C    C     A     A     D     E    C     A     B      D       E    C    D    A    D    B
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   E    D    C    A    E    B     B     B     E     D    C     E     C      B       C    B    C    B    B    E
+
+
+
+
+                                                                                                   Página 2 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                                        GESTÃO - PROVA TIPO 1
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    D    B    E    C    E     B     C     C     A    C     A     D      E       C    A    E    D    A    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    C    A    C    D    E     A     E     C     A    D     E     C      A       B    D    B    C    D    A
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   D    E    A    A    A    C     A     A     C     D    C     A     D      B       E    A    D    E    D    B
+
+
+                                        GESTÃO - PROVA TIPO 2
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    E    D    B    E    A     C     C     B     C    C     C     A      D       E    A    E    C    D    A
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   C    A    D    A    C    E     E     D     E     A    B     D     E      C       A    A    D    B    C    D
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   A    D    E    A    A    D     C     A     A     C    D     B     E      C       A    B    A    D    E    D
+
+
+                                        GESTÃO - PROVA TIPO 3
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   E    D    A    B    E    C     C     B     C     D    E     C     C      A       D    A    C    A    C    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    E    A    C    A    D     A     D     E     E    A     B     D      E       C    D    A    D    B    C
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   A    A    D    E    A    A     C     D     C     A    E     C     A      D       B    D    B    A    D    E
+
+
+                                        GESTÃO - PROVA TIPO 4
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   C    B    C    C    A    D     E     E     B     D    D     E     C      C       A    D    C    A    E    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   A    E    A    E    C    C     A     A     D     E    C     A     B      D       E    C    D    A    D    B
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   A    A    A    D    E    C     D     C     A     A    B     E     C      A       D    E    D    B    A    D
+
+
+
+
+                                                                                                   Página 3 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                                    COMUNICAÇÃO - PROVA TIPO 1
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    D    B    E    C    E     B     C     C     A    C     A     D      E       C    A    E    D    A    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    C    A    C    D    E     A     E     C     A    D     E     C      A       B    D    B    C    D    A
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   E    D    A    E    C    A     C     D     D     A    B     E     B      C       A    B    B    C    D    E
+
+
+                                    COMUNICAÇÃO - PROVA TIPO 2
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    E    D    B    E    A     C     C     B     C    C     C     A      D       E    A    E    C    D    A
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   C    A    D    A    C    E     E     D     E     A    B     D     E      C       A    A    D    B    C    D
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   B    D    E    B    C    B     B     C     A     C    A     D     C      A       E    E    D    A    D    E
+
+
+
+
+                                                                                                   Página 4 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                             ECONOMIA E ESTATÍSTICA - PROVA TIPO 1
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    D    B    E    C    E     B     C     C     A    C     A     D      E       C    A    E    D    A    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    C    A    C    D    E     A     E     C     A    D     E     C      A       B    D    B    C    D    A
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   B    D    C    A    D    E     D     C     B     B    C     B     E      B       D    D    A    C    E    B
+
+
+
+
+                                                                                                   Página 5 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                             ECONOMIA E ESTATÍSTICA - PROVA TIPO 2
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    E    D    B    E    A     C     C     B     C    C     C     A      D       E    A    E    C    D    A
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   C    A    D    A    C    E     E     D     E     A    B     D     E      C       A    A    D    B    C    D
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   B    D    D    C    E    A     D     B     C     C    B     E     B      E       C    B    D    D    A    B
+
+
+
+
+                                                                                                   Página 6 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                                       ARQUITETO - PROVA TIPO 1
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    D    B    E    C    E     B     C     C     A    C     A     D      E       C    A    E    D    A    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    C    A    C    D    E     A     E     C     A    D     E     C      A       B    D    B    C    D    A
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   A    C    B    D    E    D     E     B     E     E    C     B     A      D       C    B    D    A    A    C
+
+
+                                       ARQUITETO - PROVA TIPO 2
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    E    D    B    E    A     C     C     B     C    C     C     A      D       E    A    E    C    D    A
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   C    A    D    A    C    E     E     D     E     A    B     D     E      C       A    A    D    B    C    D
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   E    E    E    A    C    D     B     A     C     A    B     A     B      D       E    D    C    C    B    D
+
+
+
+
+                                                                                                   Página 7 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                                       ENGENHARIA - PROVA TIPO 1
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    D    B    E    C    E     B     C     C     A    C     A     D      E       C    A    E    D    A    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    C    A    C    D    E     A     E     C     A    D     E     C      A       B    D    B    C    D    A
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   B    C    D    B    A    E     C     A     E     D    A     A     D      D       B    D    B    E    C    E
+
+
+                                       ENGENHARIA - PROVA TIPO 2
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    E    D    B    E    A     C     C     B     C    C     C     A      D       E    A    E    C    D    A
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   C    A    D    A    C    E     E     D     E     A    B     D     E      C       A    A    D    B    C    D
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   A    B    A    D    B    E     E     A     D     C    D     E     D      C       B    A    E    B    C    D
+
+
+                                       ENGENHARIA - PROVA TIPO 3
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   E    D    A    B    E    C     C     B     C     D    E     C     C      A       D    A    C    A    C    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    E    A    C    A    D     A     D     E     E    A     B     D      E       C    D    A    D    B    C
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   A    A    A    C    D    B     C     C     D     D    B     E     A      E       D    D    B    E    E    B
+
+
+                                       ENGENHARIA - PROVA TIPO 4
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   C    B    C    C    A    D     E     E     B     D    D     E     C      C       A    D    C    A    E    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   A    E    A    E    C    C     A     A     D     E    C     A     B      D       E    C    D    A    D    B
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   E    B    C    B    E    A     E     E     A     A    D     C     B      D       D    C    A    D    B    D
+
+
+
+
+                                                                                                   Página 8 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                                 ENGENHEIRO CLÍNICO - PROVA TIPO 1
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   D    D    B    E    C    E     B     C     C     A    C     A     D      E       C    A    E    D    A    D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   E    C    A    C    D    E     A     E     C     A    D     E     C      A       B    D    B    C    D    A
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   E    E    D    B    B    D     A     C     A     C    A     D     E      A       C    C    B    D    B    E
+
+
+
+
+                                                                                                   Página 9 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                            ENGENHEIRO DE PRODUÇÃO - PROVA TIPO 1
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19    20
+   D    D    B    E    C    E     B     C     C     A    C     A     D      E       C    A    E    D    A     D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39    40
+   E    C    A    C    D    E     A     E     C     A    D     E     C      A       B    D    B    C    D     A
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59    60
+   B    A    A    E    B    C     D     C     D     B    C     E     D      D       E    A    E    C    A     B
+
+
+
+
+                                                                                                   Página 10 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (MANHÃ)
+
+
+
+
+                   ENGENHEIRO DE SEGURANÇA DO TRABALHO - PROVA TIPO 1
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19    20
+   D    D    B    E    C    E     B     C     C     A    C     A     D      E       C    A    E    D    A     D
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39    40
+   E    C    A    C    D    E     A     E     C     A    D     E     C      A       B    D    B    C    D     A
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59    60
+   E    C    E    C    D    D     A     B     B     B    D     A     C      E       D    B    C    A    B     E
+
+
+                   ENGENHEIRO DE SEGURANÇA DO TRABALHO - PROVA TIPO 2
+    1    2    3    4    5    6     7     8     9    10   11    12    13     14      15   16   17   18   19    20
+   D    E    D    B    E    A     C     C     B     C    C     C     A      D       E    A    E    C    D     A
+   21   22   23   24   25   26    27    28    29    30   31    32    33     34      35   36   37   38   39    40
+   C    A    D    A    C    E     E     D     E     A    B     D     E      C       A    A    D    B    C     D
+   41   42   43   44   45   46    47    48    49    50   51    52    53     54      55   56   57   58   59    60
+   B    D    B    B    D    A     E     B     D     E    E     D     C      E       C    C    C    A    B     A
+
+
+
+
+                                                                                                   Página 11 de 11
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (TARDE)
+
+
+
+
+                       TÉCNICO EM SEGURANÇA DO TRABALHO - PROVA TIPO 1
+    1    2    3    4     5    6    7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   B    E    C    D     C    E    D     A     B     B    C     D     E      A       B    A    C    D    B    E
+   21   22   23   24    25   26   27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   D    A    A    C     D    E    A     D     E     C    C     E     D      B       A    B    A    D    C    B
+   41   42   43   44    45   46   47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   E    D    A    B     D    C    E     C     B     A    C     A     B      B       A    C    E    E    D    D
+
+
+                       TÉCNICO EM SEGURANÇA DO TRABALHO - PROVA TIPO 2
+    1    2    3    4     5    6    7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   B    C    E    D     A    C    E     D     B     B    B     C     D      E       A    C    E    D    C    D
+   21   22   23   24    25   26   27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   A    B    D    E     A    A    C     A     D     E    A     C     E      D       B    B    B    A    D    C
+   41   42   43   44    45   46   47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   D    C    A    D     E    D    C     C     E     B    A     B     E      E       A    D    B    A    C    B
+
+
+
+
+                                                                                                    Página 1 de 2
+
+                                                                                         www.pciconcursos.com.br
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YzkzNjo5ZjEw:VGh1LCAyNCBTZXAgMjAyNiAyMDoyMDoyNSAtMDMwMA==
+
+
+
+
+                             EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES – EBSERH
+                                     CONCURSO PÚBLICO – EDITAL Nº 04/2024
+                                           GABARITO PRELIMINAR
+                                   DAS PROVAS APLICADAS NO DIA 16/03/2025
+                                                   (TARDE)
+
+
+
+
+                            ASSISTENTE ADMINISTRATIVO - PROVA TIPO 1
+    1    2    3    4    5     6    7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   B    E    C    D    C     E    D     A     B     B    C     D     E      A       B    A    C    D    B    E
+   21   22   23   24   25    26   27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   D    A    A    C    D     E    A     D     E     C    C     E     D      B       A    B    A    D    C    B
+   41   42   43   44   45    46   47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   E    A    A    E    A     B    A     D     B     C    B     E     A      E       A    E    C    C    D    E
+
+
+                            ASSISTENTE ADMINISTRATIVO - PROVA TIPO 2
+    1    2    3    4    5     6    7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   B    C    E    D    A     C    E     D     B     B    B     C     D      E       A    C    E    D    C    D
+   21   22   23   24   25    26   27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   A    B    D    E    A     A    C     A     D     E    A     C     E      D       B    B    B    A    D    C
+   41   42   43   44   45    46   47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   A    C    C    B    C     E    E     E     D     A    A     E     E      D       B    B    A    A    A    E
+
+
+                            ASSISTENTE ADMINISTRATIVO - PROVA TIPO 3
+    1    2    3    4    5     6    7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   B    E    C    D    D     A    C     E     B     B    A     B     C      D       E    E    A    C    A    C
+   21   22   23   24   25    26   27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   A    A    D    B    E     C    D     D     D     E    B     A     C      E       D    C    B    B    A    D
+   41   42   43   44   45    46   47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   E    A    B    C    A     E    E     D     A     D    E     B     A      C       C    E    B    A    A    E
+
+
+                            ASSISTENTE ADMINISTRATIVO - PROVA TIPO 4
+    1    2    3    4    5     6    7     8     9    10   11    12    13     14      15   16   17   18   19   20
+   B    C    E    D    E     D    A     C     B     B    E     A     B      C       D    C    A    E    A    D
+   21   22   23   24   25    26   27    28    29    30   31    32    33     34      35   36   37   38   39   40
+   D    D    E    E    B     C    C     A     D     A    D     B     A      C       E    D    C    B    B    A
+   41   42   43   44   45    46   47    48    49    50   51    52    53     54      55   56   57   58   59   60
+   C    A    C    A    B     A    D     A     E     E    A     D     B      C       A    E    E    E    E    B
+
+
+
+
+                                                                                                    Página 2 de 2
+
+                                                                                         www.pciconcursos.com.br
+

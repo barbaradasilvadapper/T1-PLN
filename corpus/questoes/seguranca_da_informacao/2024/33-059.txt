@@ -1,0 +1,18 @@
+ID: 33-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um órgão que realiza atendimento presencial ao público implementou três redes sem fio e configurou protocolos de segurança distintos nelas. Os protocolos foram implementados de acordo com os requisitos de segurança necessários para cada rede, conforme descritos abaixo: 1. rede pública: protocolo com chave criptográfica única e estática de 128 bits que utiliza algoritmo de criptografia RC4; 2. rede interna: protocolo com chave criptográfica AES, com senhas longas; 3. rede terceirizada: protocolo com chave criptográfica gerada dinamicamente e alterada regularmente em tempos prédefinidos, com base no algoritmo de criptografia RC4, com senhas curtas. Os protocolos de segurança implementados na rede foram, respectivamente:
+
+[ALTERNATIVAS]
+(A) WPA, EAP e WPA3;
+(B) WPA, WEP e WPA2;
+(C) WEP, WPA2 e WPA;
+(D) WEP, WPA3 e EAP;
+(E) EAP, WEP e WPA2.
+
+[GABARITO]
+C

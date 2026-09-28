@@ -1,0 +1,18 @@
+ID: 56-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto de processadores modernos que implementam técnicas como execução fora de ordem e especulativa, o ciclo de execução de instruções se torna mais complexo. Considerando essas técnicas avançadas, a opção que descreve um aspecto do processo de execução de instruções que é fundamental para otimizar o desempenho do processador, mantendo a precisão dos resultados, está corretamente descrito em:
+
+[ALTERNATIVAS]
+(A) o processador executa instruções estritamente na ordem em que aparecem no programa, sem considerar a possibilidade de dependências de dados entre instruções subsequentes;
+(B) antes de buscar instruções na memória, o processador sempre espera a conclusão da execução de todas as instruções anteriores, garantindo a execução sequencial para minimizar erros de previsão de salto;
+(C) o processador utiliza uma unidade de previsão de salto para executar instruções especulativamente, antes da confirmação de que essas instruções precisam ser executadas, revertendo alterações se a especulação estiver incorreta;
+(D) as instruções são decodificadas em uma ordem fixa e armazenadas em um buffer até que todos os operandos estejam disponíveis, momento no qual o processador interrompe todas as outras operações para executar essa instrução;
+(E) para cada instrução, o processador primeiro atualiza o contador de programa e, em seguida, executa uma análise completa do código do programa para identificar possíveis otimizações de execução antes de proceder à busca de instruções.
+
+[GABARITO]
+C

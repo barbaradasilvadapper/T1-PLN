@@ -1,0 +1,18 @@
+ID: 43-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um servidor sofreu um ataque de DDOS (ataque distribuído de negação de serviço) por inundação SYN (SYN flooding), levando-o a negar as solicitações lícitas por falta de recursos disponíveis. Sobre o método de inundação SYN utilizado no ataque sofrido, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) utilizou a sequência completa de three-way handshake no estabelecimento da conexão TCP;
+(B) utilizou a sequência completa de three-way handshake no estabelecimento da conexão UDP;
+(C) não foi recebido o pacote ACK no three-way handshake para estabelecimento da conexão TCP;
+(D) não foi recebido o pacote ACK no three-way handshake para estabelecimento da conexão UDP;
+(E) as conexões completamente estabelecidas no three-way handshake foram recicladas para liberar recursos do servidor.
+
+[GABARITO]
+C

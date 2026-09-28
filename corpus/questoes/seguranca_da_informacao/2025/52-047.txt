@@ -1,0 +1,18 @@
+ID: 52-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A analista Maria foi incumbida de implementar no TCE-PE um controle previsto na norma ISO/IEC 27002:2022 (trata-se do controle organizacional de contato com as autoridades). Esse controle visa garantir que haja um fluxo adequado de informações em relação à segurança da informação entre a organização e as autoridades legais, regulatórias e de supervisão relevantes. Considerando as diretrizes da ISO/IEC 27002:2022, assinale a opção que apresenta corretamente os atributos dos domínios de segurança associados ao controle que será implementado por Maria.
+
+[ALTERNATIVAS]
+(A) Defesa e resiliência.
+(B) Governança e ecossistema.
+(C) Proteção e cibersegurança.
+(D) Detecção e mitigação de riscos.
+(E) Gestão de riscos e gestão de identidade/acesso.
+
+[GABARITO]
+A

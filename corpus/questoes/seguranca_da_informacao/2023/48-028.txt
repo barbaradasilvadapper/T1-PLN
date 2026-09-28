@@ -1,0 +1,18 @@
+ID: 48-028
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Martin é um criptoanalista contratado pela empresa Z para identificar o ataque ocorrido em sua rede. Após um tempo, Martin tinha as seguintes informações: - algoritmo de encriptação - texto cifrado - mensagem de texto claro escolhida pelo criptoanalista, com seu respectivo texto cifrado produzido pela chave secreta - texto cifrado escolhido pelo criptoanalista, com seu respectivo texto claro decriptado produzido pela chave secreta Com base nas informações obtidas pelo criptoanalista, pode-se identificar o ataque como:
+
+[ALTERNATIVAS]
+(A) apenas texto cifrado;
+(B) texto claro conhecido;
+(C) texto claro escolhido;
+(D) texto cifrado escolhido;
+(E) texto escolhido.
+
+[GABARITO]
+E

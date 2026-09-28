@@ -1,0 +1,18 @@
+ID: 47-033
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considerando as diretrizes da Lei Geral de Proteção de Dados (LGPD) em relação à Segurança da Informação, assinale a
+
+[ALTERNATIVAS]
+(A) A LGPD não classifica informações sobre religião e dados relacionados à saúde como dados pessoais sensíveis.
+(B) A criptografia é citada na LGPD como uma medida técnica obrigatória para todos os tipos de tratamento de dados pessoais.
+(C) A LGPD permite o tratamento de dados pessoais sem medida de segurança, quando forem utilizados apenas internamente pela organização.
+(D) O princípio da Prevenção na LGPD estabelece que os agentes de tratamento devem adotar medidas para prevenir a ocorrência de danos decorrentes do tratamento de dados pessoais.
+(E) A LGPD determina que, em caso de incidente de segurança que possa acarretar risco aos titulares, o controlador deverá comunicar à Autoridade Nacional de Proteção de Dados (ANPD), não havendo necessidade de comunicar ao titular.
+
+[GABARITO]
+D

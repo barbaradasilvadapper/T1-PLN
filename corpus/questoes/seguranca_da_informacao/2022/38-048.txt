@@ -1,0 +1,18 @@
+ID: 38-048
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Comitê de Segurança Cibernética do Poder Judiciário instituiu o Protocolo de Prevenção a Incidentes Cibernéticos do Poder Judiciário (PPINC-PJ) com diretrizes para a prevenção a incidentes cibernéticos em seu mais alto nível. O PPINC-PJ baseia-se em um conjunto de boas práticas de segurança cibernéticas para melhor detectar, conter e eliminar ataques cibernéticos, minimizando eventuais impactos na operação das atividades dos órgãos. De acordo com o Anexo I, da Portaria CNJ nº 162/2021, o princípio crítico da PPINC-PJ que tem foco na formação, na revisão de controles/acessos, nos processos e na disseminação da cultura de segurança cibernética é:
+
+[ALTERNATIVAS]
+(A) priorização;
+(B) diagnóstico contínuo;
+(C) formação, capacitação e conscientização;
+(D) automação;
+(E) resiliência.
+
+[GABARITO]
+A

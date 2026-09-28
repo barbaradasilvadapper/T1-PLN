@@ -1,0 +1,18 @@
+ID: 25-035
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Anderson quer enviar uma mensagem para sua esposa que está em outra cidade sem que ninguém saiba da existência da mensagem. Então, Anderson inseriu a mensagem em uma foto em que ambos estavam, de forma que fez uma pequena redução na qualidade da imagem e inseriu a mensagem nesses bits sobressalentes. Para ocultar a mensagem em uma foto, Anderson utilizou a técnica de:
+
+[ALTERNATIVAS]
+(A) transposição;
+(B) substituição;
+(C) criptoanálise;
+(D) esteganografia;
+(E) cifração polialfabética.
+
+[GABARITO]
+D

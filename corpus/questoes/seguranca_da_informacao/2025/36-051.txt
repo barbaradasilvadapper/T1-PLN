@@ -1,0 +1,18 @@
+ID: 36-051
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A empresa Y foi contratada para eliminar/mitigar as ameaças existentes após a migração dos serviços de uma multinacional para a nuvem. A empresa Y iniciou o processo de identificação dessas ameaças na nova infraestrutura utilizada e elencou como principais ameaças a serem trabalhadas: funcionários maliciosos, perda de dados ou vazamento e perfis de risco desconhecido. Como contramedidas a essas ameaças, a empresa Y deverá implementar, respectivamente:
+
+[ALTERNATIVAS]
+(A) a adoção de técnicas de autenticação fortes de dois fatores, sempre que possível (monitoramento e envio de alertas sobre informações necessárias) e processos iniciais mais rigorosos de registro e validação;
+(B) o monitoramento de listas negras públicas para os seus próprios blocos de rede, e a garantia de que os fortes controles de autenticação e de acesso estejam implementados com as transmissões sendo encriptadas;
+(C) a determinação de processos de notificação de violação de segurança, a análise da proteção dos dados em tempo de projeto e de execução, e a divulgação dos registros históricos e dos dados correlatos;
+(D) a proibição do compartilhamento das credenciais da conta entre usuários e serviços, a utilização de técnicas de autenticação fortes de dois fatores, sempre que possível, e o emprego de monitoração proativa para detectar atividades não autorizadas;
+(E) a condução de varreduras de vulnerabilidades e auditorias de configuração, o monitoramento do ambiente para mudanças/atividades não autorizadas, e a exigência de transparência nas práticas gerais de segurança e de gerenciamento de informações, bem como de relatórios de conformidade.
+
+[GABARITO]
+C

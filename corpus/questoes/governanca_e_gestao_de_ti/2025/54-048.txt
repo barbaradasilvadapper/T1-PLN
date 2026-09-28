@@ -1,0 +1,18 @@
+ID: 54-048
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+BPMN 2.0 é uma linguagem gráfica padronizada para representar processos de negócios que podem ser facilmente compreensíveis por todos os usuários, desde o nível empresarial que criam os rascunhos iniciais dos processos, aos desenvolvedores técnicos responsáveis pela implementação dos tecnologia que executará esses processos. Com base no BPMN 2.0, relacione os elementos de modelagem elencados a seguir às suas respectivas representações gráficas. 1. 2. 3. 4. Fluxo de mensagem Objeto de Dados Lane Gateway ( ) ( ) ( ) ( ) A relação correta, na ordem apresentada, é
+
+[ALTERNATIVAS]
+(A) 4 – 2 – 1 – 3.
+(B) 1 – 3 – 4 – 2.
+(C) 3 – 4 – 1 – 2.
+(D) 4 – 1 – 3 – 2.
+(E) 2 – 4 – 3 – 1.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 63-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação à linguagem de programação JavaScript, analise as afirmativas a seguir. I. Set é uma coleção de valores que não permite elementos repetidos. II. Todos os objetos são criados por meio do construtor JSON (JavaScript Object Notation). III. A sintaxe para uma declaração de função com dois parâmetros (p0 e p1) é: function nome_da_função(p0, p1) { corpo_da_função }
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) III, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

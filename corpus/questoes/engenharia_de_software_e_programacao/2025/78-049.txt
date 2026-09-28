@@ -1,0 +1,18 @@
+ID: 78-049
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A ferramenta do framework Selenium que permite a execução de testes paralelos em múltiplas máquinas em diferentes plataformas é o
+
+[ALTERNATIVAS]
+(A) web driver.
+(B) remote.
+(C) cloud.
+(D) grid.
+(E) IDE.
+
+[GABARITO]
+D

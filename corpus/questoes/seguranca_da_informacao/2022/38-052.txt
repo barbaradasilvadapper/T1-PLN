@@ -1,0 +1,18 @@
+ID: 38-052
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um ataque perigoso para aplicações web é o clickjacking, uma técnica maliciosa que induz o usuário a clicar em algo diferente do que ele enxerga, potencialmente podendo causar ações indesejadas ou revelar informações confidenciais. Uma forma de a aplicação web tentar evitar que esse ataque ocorra é pelo uso do(a):
+
+[ALTERNATIVAS]
+(A) extensão Expect-CT;
+(B) cabeçalho X-Frame-Options;
+(C) protocolo Strict-Transport-Security;
+(D) atributo Secure em cookies;
+(E) cabeçalho X-Xss-Protection.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 63-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Acerca de conceitos, frameworks e boas práticas no contexto de arquiteturas de sistemas, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Normalmente, conexões do tipo SOAP são mais rápidas e fáceis de usar do que as provenientes de APIs REST.
+(B) O Princípio da Substituição de Liskov afirma que os sistemas mais flexíveis são aqueles nos quais as dependências do código-fonte se referem apenas a abstrações.
+(C) O Entity Framework Core é o ORM da plataforma .NET, o qual elimina a necessidade da maioria do código de acesso a dados que os desenvolvedores geralmente precisam escrever.
+(D) O padrão Strangler permite que desenvolvedores criem e suportem um tipo de back-end por interface de usuário.
+(E) Usar códigos de retorno ao invés de exceções e não utilizar verbos como nomes para classes são boas práticas de design de software.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 33-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O analista Alexandre é um dos responsáveis pelo desenvolvimento de um novo serviço de suporte técnico remoto no TRF1. Alexandre e sua equipe estão analisando a melhor forma de implementar o serviço em operação. Analisando os conceitos de gerenciamento de serviços de acordo com a ITIL 4, eles identificaram que a descrição formal de um ou mais serviços, projetados para atender às necessidades de um grupo de consumidores-alvo, podendo incluir mercadorias, acesso a recursos e ações de serviço, é conhecida como:
+
+[ALTERNATIVAS]
+(A) garantia de serviços;
+(B) portfólio de serviços;
+(C) prática de serviços;
+(D) oferta de serviços;
+(E) marketing de serviços.
+
+[GABARITO]
+D

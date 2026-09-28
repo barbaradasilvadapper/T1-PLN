@@ -1,0 +1,18 @@
+ID: 18-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A tabela “Tbl_Financeiro” armazena milhares de registros de transações financeiras. Para lidar com consultas que envolvam agregações e cálculos complexos, o administrador de banco de dados poderá adotar a seguinte estratégia de otimização de consultas:
+
+[ALTERNATIVAS]
+(A) aplicar “commits” aninhados;
+(B) utilizar índices bitmap para colunas que envolvam dados calculados;
+(C) reduzir a redundância dos dados aplicando técnicas de normalização;
+(D) implementar particionamento horizontal para dividir a tabela em segmentos menores;
+(E) armazenar previamente os resultados de consultas frequentes utilizando visões materializadas.
+
+[GABARITO]
+E

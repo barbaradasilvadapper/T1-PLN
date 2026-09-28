@@ -1,0 +1,18 @@
+ID: 62-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considerando as redes de computadores e os protocolos da camada de aplicação, analise as afirmativas a seguir. I. O protocolo LDAP permite acesso a bancos de dados. II. O protocolo SMTP serve para realizar a transferência de dados remotamente. III. O protocolo HTTP possui a funcionalidade de permitir comunicação entre cliente e servidor, por meio de troca de mensagens de requisição e de resposta entre eles.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

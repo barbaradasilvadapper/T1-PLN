@@ -1,0 +1,18 @@
+ID: 91-057
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os pacotes padrão que fazem parte especificação da API JSR 362 Portlet 3.0 são
+
+[ALTERNATIVAS]
+(A) java.portlet, java.portlets.annotation e java.portlets.flag.
+(B) javax.portlet, javax.portlet.annotations e javax.portlet.filter.
+(C) javax.portlets, javax.portlets.annotations e javax.portlets.flags.
+(D) java.portlet.rss, java.portlet.annotations.rss, java.portlet.filter.rss e java.portlet.request.rss.
+(E) javax.portlets.rss, javax.portlets.annotations.rss, javax.portlets.flags.rs, javax.portlet.request.rss e javax.portlet.responses.rss.
+
+[GABARITO]
+B

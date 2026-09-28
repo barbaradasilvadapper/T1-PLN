@@ -1,0 +1,18 @@
+ID: 55-022
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um Analista de Tecnologia da Informação do Tribunal de Justiça de Santa Catarina foi encarregado de adequar os sistemas corporativos às exigências da Lei Geral de Proteção de Dados Pessoais (LGPD). Para reduzir os riscos decorrentes de eventual incidente de segurança envolvendo dados processuais e administrativos, ele adotou duas ações distintas: 1. aplicou um algoritmo para transformar o campo "Informação Sigilosa" em um código cifrado, de modo que o conteúdo original somente possa ser acessado mediante o uso da chave apropriada; e 2. no campo "Nome da Parte", substituiu as identidades reais por códigos alfanuméricos aleatórios, mantendo a tabela de correspondência entre os códigos e as identidades em ambiente segregado e seguro, permitindo que equipes de estatística e inteligência de dados realizem análises sem identificar diretamente os indivíduos, embora a associação possa ser restabelecida pelo Tribunal quando necessário. As técnicas aplicadas pelo analista nas ações 1 e 2 são, respectivamente,
+
+[ALTERNATIVAS]
+(A) Hash Robusto e Pseudonimização.
+(B) Criptografia Assimétrica e Pseudonimização.
+(C) Criptografia Simétrica e Anonimização Irreversível.
+(D) Esteganografia e Tokenização de Sessão.
+(E) Codificação de Base64 e Criptografia de Chave Única.
+
+[GABARITO]
+B

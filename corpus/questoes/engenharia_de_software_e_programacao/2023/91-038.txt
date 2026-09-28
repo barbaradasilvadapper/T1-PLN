@@ -1,0 +1,18 @@
+ID: 91-038
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+SOA é um padrão de arquitetura de software de baixo acoplamento e baseada em princípios de computação distribuída. Na arquitetura SOA, o UDDI define um padrão para
+
+[ALTERNATIVAS]
+(A) renderização de documentos XML em navegadores web.
+(B) ofuscação de informações em banco de dados relacionais.
+(C) transferência de ficheiros entre computadores remotos.
+(D) visibilidade, reutilização e gerenciabilidade de serviços web.
+(E) conversão de endpoints em endereços da camada de enlace.
+
+[GABARITO]
+D

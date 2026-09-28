@@ -1,0 +1,18 @@
+ID: 29-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O administrador de banco de dados do TJSE deverá criar um banco de dados relacional para armazenar um grande volume de dados, oriundos do novo sistema de gestão de processos, e precisa considerar seu crescimento futuro e desempenho. Nesse sentido, a abordagem mais apropriada para o dimensionamento inicial do banco de dados é:
+
+[ALTERNATIVAS]
+(A) atribuir um tamanho fixo de armazenamento para todas as tabelas e índices para evitar expansões automáticas e fragmentações;
+(B) utilizar o tamanho padrão de armazenamento fornecido pelo sistema gerenciador de banco de dados (SGBD) para todas as tabelas e índices;
+(C) estimar o tamanho inicial de cada tabela e índice com base em projeções de crescimento e adicionar uma margem de segurança para o espaço de armazenamento necessário;
+(D) colocar todas as tabelas em um espaço de armazenamento pequeno e, a partir do crescimento dos dados, aumentá-lo conforme a necessidade;
+(E) desconsiderar dimensionar o espaço de armazenamento do banco de dados inicialmente, pois os SGBDs são capazes de fornecer, automaticamente, o tamanho necessário para armazenar todas as tabelas e índices.
+
+[GABARITO]
+C

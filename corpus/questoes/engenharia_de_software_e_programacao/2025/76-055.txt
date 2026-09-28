@@ -1,0 +1,18 @@
+ID: 76-055
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A área de TI da Assembleia Legislativa está implementando o Scrum para o desenvolvimento do novo portal de transparência. Durante uma reunião de Sprint Planning, o time de desenvolvimento recusa-se a se comprometer com um conjunto de itens do Product Backlog (PB) que o Product Owner (PO) exigiu, alegando que o esforço excede a capacidade histórica do time. Segundo o Scrum, a responsabilidade final pela composição do Sprint Backlog e, portanto, pela validação de sua viabilidade dentro do Sprint, é
+
+[ALTERNATIVAS]
+(A) do Development Team, que é a única parte que estima e compromete-se com o trabalho.
+(B) do Product Owner, que detém a autoridade máxima sobre a priorização do Product Backlog.
+(C) do Scrum Master, que é o facilitador e o responsável por remover impedimentos.
+(D) da equipe Scrum inteira, em consenso, após a estimativa do Product Owner
+(E) de Stakeholder externo, consultado durante o Sprint Planning para arbitrar o escopo.
+
+[GABARITO]
+A

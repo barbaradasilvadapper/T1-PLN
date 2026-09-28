@@ -1,0 +1,18 @@
+ID: 60-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Artigo 46 da Lei Nº 13.709 (Lei Geral de Proteção de Dados Pessoais), de 14 de agosto de 2018, explicita que os agentes de tratamento devem adotar medidas de segurança aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas que gerem destruição, perda, alteração ou comunicação desses dados. A aplicação do disposto no Artigo requer que:
+
+[ALTERNATIVAS]
+(A) as medidas de segurança sejam observadas a partir da fase de concepção do produto ou serviço;
+(B) a proteção de dados pessoais seja considerada a partir da fase de execução do produto ou serviço;
+(C) os agentes de tratamento sejam notificados pela autoridade nacional dos riscos e sanções relacionados ao incidente;
+(D) o titular seja notificado por e-mail ou telegrama quando os riscos relacionados a incidentes de acessos não autorizados puderem afetar a salvaguarda de dados bancários, de saúde ou de seus dependentes menores de idade;
+(E) o controlador notifique os administradores dos sistemas de software envolvidos em um incidente para que providenciem, preventivamente, que os usuários alterem suas credenciais de acesso.
+
+[GABARITO]
+A

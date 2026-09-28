@@ -1,0 +1,18 @@
+ID: 68-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com a utilização de uma abordagem de desenvolvimento que utilize Sistemas Gerenciadores de Bancos de Dados (SGBDs), é possível alterar as estruturas de arquivos sem que haja necessariamente a modificação dos programas de aplicação que as utilizam. Assinale a opção que indica a propriedade que implementa, no âmbito de Sistemas de Bancos de Dados, tal possibilidade.
+
+[ALTERNATIVAS]
+(A) Controle de concorrência.
+(B) Controle de redundância.
+(C) Independência de dados.
+(D) Oferta de múltiplas interfaces.
+(E) Recuperação de falhas.
+
+[GABARITO]
+C

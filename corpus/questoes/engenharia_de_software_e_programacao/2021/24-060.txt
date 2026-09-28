@@ -1,0 +1,18 @@
+ID: 24-060
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código JavaScript a seguir. let txt = ""; function funcao(value, index, array) { if (index % 2 == 0) {txt += value}; } function xpto (x) { x.forEach(funcao); return txt; } alert (xpto([0, 1, 1, 2, 3, 5])); A execução desse código provoca a exibição de:
+
+[ALTERNATIVAS]
+(A) 011235
+(B) 013
+(C) 125
+(D) 532110
+(E) null
+
+[GABARITO]
+B

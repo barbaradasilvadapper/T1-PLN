@@ -1,0 +1,18 @@
+ID: 78-054
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Uma notação padrão para os casos de modelagem de processos de negócio é o Modelo e Notação de Processos de Negócio (ou BPMN, Business Process Model and Notation; anteriormente conhecido como Notação de Modelagem de Processos de Negócio, ou Business Process Modeling Notation). Com relação ao BPMN, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Foi desenvolvido originalmente pela Business Process Management Initiative (BPMI) como uma notação exclusiva textual e precisa para documentar processos de negócios. ( ) Corresponde a uma maneira padronizada de demonstrar processos completos que ocorrem em um negócio. ( ) O BPMN permite que os stakeholders visualizem os setores e facilita a otimização dos fluxos de trabalho.
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) V – V – F.
+(C) F – V – F.
+(D) F – F – V.
+(E) V – F – V.
+
+[GABARITO]
+C

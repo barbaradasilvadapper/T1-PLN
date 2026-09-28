@@ -1,0 +1,18 @@
+ID: 48-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Marcos está efetuando a manutenção de um sistema e notou que em diversos pontos são efetuadas chamadas HTTP para diferentes servidores, utilizando configurações específicas. Ele resolveu refatorar o código, criando uma classe que oferece métodos para cada elemento da configuração, os quais podem ser combinados para gerar um conector personalizado para cada servidor acessado. Adotando essa abordagem, Marcos aumentou o reuso de processos intermediários na construção de objetos complexos, de acordo com o padrão:
+
+[ALTERNATIVAS]
+(A) Singleton;
+(B) Mediator;
+(C) Builder;
+(D) Observer;
+(E) Chain of Responsibility.
+
+[GABARITO]
+C

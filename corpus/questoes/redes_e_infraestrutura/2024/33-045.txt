@@ -1,0 +1,18 @@
+ID: 33-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma mensagem foi enviada com o objetivo de localizar um usuário que está longe de casa, e o servidor de localização do SIP conseguiu determinar a localização do usuário. O método que se relaciona com a habilidade do SIP em localizar e estabelecer conexão com um usuário é o:
+
+[ALTERNATIVAS]
+(A) ACK;
+(B) INVITE;
+(C) LOOKUP;
+(D) OPTIONS;
+(E) REGISTER.
+
+[GABARITO]
+E

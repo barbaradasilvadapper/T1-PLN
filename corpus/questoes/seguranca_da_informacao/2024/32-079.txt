@@ -1,0 +1,18 @@
+ID: 32-079
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Durante uma auditoria de segurança de uma rede corporativa, foi descoberto que alguns servidores apresentavam vulnerabilidades significativas. Entre os problemas identificados foram relacionados vazamentos de senhas, diversas aplicações com falta de atualizações críticas e contas de ex-funcionários ainda ativas com permissões administrativas. Com base nessa situação hipotética, considerando os problemas encontrados e as boas práticas de hardening, as seguintes combinações de medidas de segurança são as mais apropriadas para proteger esses servidores e mitigar essas vulnerabilidades:
+
+[ALTERNATIVAS]
+(A) configurar o firewall nos servidores para impedir acessos não autorizados, proibir os compartilhamentos de senhas, e excluir contas de usuários inativos logo após a saída deles da empresa.
+(B) atualizar os sistemas operacionais e aplicar os patches de segurança, tirar as permissões administrativas dos usuários inativos, criar uma única senha forte com autenticação multifatorial (MFA) para o uso compartilhado pelos administradores dos sistemas.
+(C) atualizar política para o uso de senhas fortes e configurar o Host-Based Intrusion Detection System (HIDS) para proteger contra as senhas vazadas, atualizar os sistemas operacionais e aplicar os patches de segurança, e redefinir as senhas das contas dos usuários inativos.
+(D) atualizar política para uso de senhas fortes e configurar o Host-Based Intrusion Prevention System (HIPS) para proteger contra as senhas vazadas, atualizar os sistemas operacionais e aplicar os patches de segurança, excluir contas de usuários inativos logo após a saída deles da empresa.
+(E) atualizar política para o uso de senhas fortes e configurar autenticação multifatorial (MFA), manter o sistema sempre atualizado e aplicar os patches de segurança, e desativar contas de usuários inativos.
+
+[GABARITO]
+E

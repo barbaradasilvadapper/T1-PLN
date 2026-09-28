@@ -1,0 +1,18 @@
+ID: 87-058
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere uma tabela relacional T com três colunas, A, B e C. Para as colunas A e B, separadamente, foram criados índices do tipo bitmap, cujos conteúdos são exibidos a seguir, na ordem. 1001 110000000 1002 001000000 1005 000110000 1007 000001100 1010 000000011 112 100001000 114 000000100 117 000010000 210 001000000 316 000100001 317 010000010 Nesse contexto, o valor exibido pela execução do comando SQL select sum(1) contagem from T where A=1010 or B=316 deve ser:
+
+[ALTERNATIVAS]
+(A) o número 0;
+(B) o número 1;
+(C) o número 2;
+(D) o número 3;
+(E) NULL.
+
+[GABARITO]
+D

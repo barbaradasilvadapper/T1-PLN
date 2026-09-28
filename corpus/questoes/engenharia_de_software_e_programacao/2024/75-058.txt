@@ -1,0 +1,18 @@
+ID: 75-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A linguagem python tem sido empregada para automatização de processos, como por exemplo, fechar a conexão de um banco ao tratar um erro. No tratamento de exceções, a seguinte cláusula (ou bloco) garante a execução independentemente de uma exceção ter ocorrido ou não no código anterior:
+
+[ALTERNATIVAS]
+(A) except
+(B) termination
+(C) try
+(D) finally
+(E) raise
+
+[GABARITO]
+D

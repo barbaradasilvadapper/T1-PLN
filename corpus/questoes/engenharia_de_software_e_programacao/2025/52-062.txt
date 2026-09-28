@@ -1,0 +1,18 @@
+ID: 52-062
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Leia os trechos a seguir. 1. São realizados para assegurar que múltiplos componentes funcionem corretamente quando combinados. Este tipo de teste envolve a combinação de unidades testadas em grupos para verificar se elas funcionam corretamente em interação umas com as outras. Tais testes visam detectar problemas que podem surgir nas interfaces entre os módulos, abordando erros de comunicação e interações indesejadas entre diferentes partes do programa. 2. São vitais para garantir que alterações no software, como a adição de novos módulos, não introduzam erros indesejados em funcionalidades existentes. A execução de um subconjunto de testes já realizados é essencial após quaisquer modificações. Este tipo de teste visa descobrir problemas que possam ter surgido em decorrência de mudanças na configuração do software, garantindo assim que os comportamentos esperados não sejam afetados. Traduzidos e adaptados de: PRESSMAN, Roger S. Software Engineering: a practitioner’s approach. 5th ed., 2001. Os trechos 1 e 2, tratam, respectivamente, de:
+
+[ALTERNATIVAS]
+(A) testes de regressão e testes de integração.
+(B) testes de integração e testes de fluxo de dados.
+(C) testes de regressão e testes unitários.
+(D) testes de integração e testes de regressão.
+(E) testes unitários e testes de regressão.
+
+[GABARITO]
+D

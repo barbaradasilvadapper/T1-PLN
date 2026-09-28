@@ -1,0 +1,18 @@
+ID: 06-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em computação, o sistema numérico hexadecimal ou base 16 é representado por todos os símbolos do conjunto:
+
+[ALTERNATIVAS]
+(A) {0, 1}
+(B) {0, 1, 2, 3, 4, 5, 6, 7}
+(C) {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+(D) {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F}
+(E) {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F, G, H, I, J}
+
+[GABARITO]
+D

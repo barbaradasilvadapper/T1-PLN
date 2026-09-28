@@ -1,0 +1,18 @@
+ID: 27-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista João trabalha conectado remotamente ao servidor SERV10, através de um cliente Secure Shell (SSH), em sua estação de trabalho ET10. João constatou que, ao deixar de usar o cliente SSH por alguns minutos, ocorre a queda da conexão remota sem, no entanto, ocorrer a queda do link de rede. Ao investigar o motivo da queda, João descobriu que as sessões SSH são encerradas por SERV10 após 5 minutos de ociosidade de tráfego. Para mitigar a queda de conexão por ociosidade, João configurou no cliente SSH o parâmetro que estabelece o envio automático de um pacote criptografado com o objetivo de evitar o encerramento da sessão. Portanto, João configurou no cliente SSH da ET10 o parâmetro:
+
+[ALTERNATIVAS]
+(A) TCPKeepAlive;
+(B) ChannelTimeout;
+(C) ClientAliveInterval;
+(D) ServerAliveInterval;
+(E) UnusedConnectionTimeout.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 77-068
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O sistema legado da Assembleia gera dados de votação em um formato XML que não pode ser consumido diretamente pelo novo portal de transparência, pois os nomes dos elementos (<ParlamentarID>, <VotoFinal>) são incompatíveis com o backend do portal. O Analista de Programação precisa criar um mecanismo para transformar o documento XML de um esquema para outro. Assinale qual a tecnologia, baseada em XML, é a ferramenta padrão e mais eficiente para realizar a transformação de um documento XML (fonte) em outro documento XML (destino) ou em outro formato estruturado (como HTML)
+
+[ALTERNATIVAS]
+(A) XPath (XML Path Language).
+(B) SOAP (Simple Object Access Protocol).
+(C) DOM (Document Object Model).
+(D) XSLT (Extensible Stylesheet Language Transformations).
+(E) XML Schema Definition (XSD).
+
+[GABARITO]
+D

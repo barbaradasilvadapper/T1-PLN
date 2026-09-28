@@ -1,0 +1,18 @@
+ID: 71-039
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A implementação da Lei Geral de Proteção de Dados Pessoais, LGPD (Lei nº 13.709/2018), representa um avanço significativo na garantia da privacidade e no controle dos cidadãos sobre suas informações pessoais, impactando empresas, órgãos governamentais e demais instituições que lidam com dados no Brasil. Entre os fundamentos que disciplinam a proteção de dados pessoais, encontra-se pertinente
+
+[ALTERNATIVAS]
+(A) a realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular.
+(B) a compatibilidade do tratamento com as finalidades informadas ao titular.
+(C) a autodeterminação informativa.
+(D) a integralidade dos dados pessoais.
+(E) a impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos.
+
+[GABARITO]
+C

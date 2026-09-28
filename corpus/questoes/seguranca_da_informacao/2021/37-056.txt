@@ -1,0 +1,18 @@
+ID: 37-056
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um plano consistente de continuidade de negócios deve possuir índices RTO e RPO bem dimensionados. Um plano que estabelece uma meta RTO de 24 horas e um RPO de 5 horas significaria que:
+
+[ALTERNATIVAS]
+(A) é aceitável um sistema ficar indisponível por até 24 horas depois de um desastre, seja natural ou ocasionado por erro humano;
+(B) as operações devem retornar à normalidade em até 5 horas após a identificação de um desastre, sem perder nenhuma transação de negócio;
+(C) uma perda de até as últimas 24 horas de transações de negócios seria tolerável;
+(D) é esperado perder mais de 5 horas de transações de negócios diante de um desastre natural;
+(E) as operações devem retornar à normalidade em até 5 horas quando as falhas são provocadas por erro humano, e em até 24 horas quando decorrentes de desastres naturais.
+
+[GABARITO]
+A

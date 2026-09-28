@@ -1,0 +1,18 @@
+ID: 20-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João, administrador de Banco de Dados Oracle, percebe que a configuração de um parâmetro específico precisa ser ajustada para otimizar o desempenho do banco de dados. Ele precisa fazer essa alteração, de forma persistente, no arquivo de inicialização (spfile) e garantir que ela seja aplicada após o reinício do banco de dados. Para isso, João deverá executar o comando:
+
+[ALTERNATIVAS]
+(A) UPDATE SYSTEM SET parameter_name = novo_valor;
+(B) ALTER SESSION SET parameter_name = novo_valor;
+(C) ALTER SYSTEM SET parameter_name = novo_valor SCOPE=PFILE;
+(D) ALTER SYSTEM SET parameter_name = novo_valor SCOPE=SPFILE;
+(E) ALTER DATABASE SET parameter_name = novo_valor SCOPE=SPFILE;
+
+[GABARITO]
+D

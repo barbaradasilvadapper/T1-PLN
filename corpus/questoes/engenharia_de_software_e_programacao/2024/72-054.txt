@@ -1,0 +1,18 @@
+ID: 72-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Glenda precisa adicionar uma biblioteca de código fechado a um projeto Java com Maven. A biblioteca possui um conjunto de funções criptográficas implementadas por uma empresa terceirizada. A empresa disponibilizou a biblioteca por meio de um Java Archive (JAR) que não foi construído pelo Maven. Para que o Maven adicione ao repositório local o JAR da empresa terceirizada, a analista deve executar a seguinte meta do maveninstall-plugin:
+
+[ALTERNATIVAS]
+(A) lib-jar;
+(B) lib-local;
+(C) install-jar;
+(D) install-file;
+(E) install-local.
+
+[GABARITO]
+D

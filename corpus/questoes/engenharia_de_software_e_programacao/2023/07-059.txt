@@ -1,0 +1,18 @@
+ID: 07-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Portlets são fragmentos de conteúdo, contendo informações ou serviços, que podem ser combinados para a construção de um portal baseado em tecnologia Java Web. Uma característica da versão 3 dos portlets é que:
+
+[ALTERNATIVAS]
+(A) um portlet no modo VIEW pode ter seu comportamento customizado pelo usuário;
+(B) os portlets são unidades completamente independentes, que não podem atuar de forma colaborativa;
+(C) a anotação @InitMethod define um método para configurar a inicialização do portlet;
+(D) um portlet só aceita a definição de um método anotado com @ActionMethod;
+(E) para definir cabeçalhos do protocolo HTTP é necessário um método anotado com @RenderMethod.
+
+[GABARITO]
+C

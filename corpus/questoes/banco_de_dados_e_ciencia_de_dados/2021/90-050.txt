@@ -1,0 +1,18 @@
+ID: 90-050
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No âmbito do Oracle, analise o comando select xxxx.currval from dual Assinale a opção que identifica corretamente a natureza do objeto xxxx.
+
+[ALTERNATIVAS]
+(A) User.
+(B) Table.
+(C) Sequence.
+(D) Constraint.
+(E) Tablespace.
+
+[GABARITO]
+C

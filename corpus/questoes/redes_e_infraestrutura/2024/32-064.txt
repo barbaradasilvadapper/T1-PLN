@@ -1,0 +1,18 @@
+ID: 32-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Para o encaminhamento de datagramas IPv4 (Internet Protocol versão 4) dentro de Sistemas Autônomos na Internet, são empregados dois protocolos de roteamento: o protocolo RIP (Routing Information Protocol) e o protocolo OSPF (Open Shortest Path First). Com relação a esses protocolos de roteamento, avalie as afirmativas a seguir. I. O protocolo OSPF usa o algoritmo de Dijkstra para calcular as melhores rotas entre a origem e o destino de um datagrama, tendo como informações um banco de dados dos estados de enlaces da topologia do sistema autônomo. II. O protocolo RIP utiliza o algoritmo de roteamento vetor distância, enviando mensagens regulares entre os roteadores para difundir informações sobre largura de banda dos enlaces. III. O protocolo OSPF possui um tempo de convergência menor que o protocolo RIP. O tempo de convergência é o período decorrido até que os roteadores completem a execução de uma reação à queda de um determinado roteador, escolhendo outro caminho disponível para os destinos afetados.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

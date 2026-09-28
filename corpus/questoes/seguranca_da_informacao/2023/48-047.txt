@@ -1,0 +1,18 @@
+ID: 48-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com o aumento no número de violações de segurança da rede do Tribunal de Contas do Estado de São Paulo (TCE SP), este resolveu contratar a empresa Z para que faça o hardening em sua rede. Hardening é uma coleção de ferramentas, técnicas e práticas recomendadas para reduzir as vulnerabilidades em softwares, sistemas, infraestrutura, firmwares e hardwares. Sua execução possui etapas comuns independentemente da referência adotada e está dividida em 9 etapas. A empresa Z está usando ferramentas para verificar a eficácia da implementação e emitindo alertas para possíveis comprometimentos de algum procedimento. A empresa Z encontra-se na fase de verificação da:
+
+[ALTERNATIVAS]
+(A) compatibilidade dos procedimentos de rollback;
+(B) compatibilidade em ambiente de produção;
+(C) conformidade da aplicação do hardening;
+(D) implementação do hardening no ambiente de produção;
+(E) atualização do hardening.
+
+[GABARITO]
+C

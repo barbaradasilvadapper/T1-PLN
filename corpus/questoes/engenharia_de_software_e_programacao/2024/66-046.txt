@@ -1,0 +1,18 @@
+ID: 66-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os portais corporativos são pontos centrais de acesso a informações e aplicações em uma organização e os portlets e o uso de RSS (Really Simple Syndication) são um grande apoio para integração de diferentes fontes de informação, personalização e atualização de conteúdo e distribuição eficiente de atualizações. Nesse cenário, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Os portlets são componentes de software desatualizados e não são mais utilizados em portais corporativos modernos devido à evolução das tecnologias web.
+(B) O RSS é uma tecnologia que permite apenas a visualização de notícias, sendo incompatível com a integração em portais corporativos para distribuição de conteúdo personalizado.
+(C) Frameworks como o Spring Portlet MVC e plataformas como o Liferay são exemplos de tecnologias que suportam a implementação de arquiteturas de portais corporativos, permitindo a criação de portlets e a integração de feeds RSS.
+(D) A arquitetura da informação é irrelevante para a implementação de portais corporativos, uma vez que o foco deve estar exclusivamente no desenvolvimento técnico dos portlets.
+(E) Portlets são elementos que só podem ser implementados utilizando linguagens de programação orientadas a objeto, como Java, impossibilitando seu uso em plataformas baseadas em outras linguagens.
+
+[GABARITO]
+C

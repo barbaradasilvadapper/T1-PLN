@@ -1,0 +1,18 @@
+ID: 33-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um usuário abriu um chamado questionando por que, ao realizar um download a partir do servidor de arquivos, o tráfego estava sendo encaminhado por dois caminhos distintos. Márcia, analista do TRF, explicou que o protocolo de roteamento utilizado é o OSPF, que identificou dois caminhos com custos iguais. Durante o encaminhamento dos pacotes, o tráfego é distribuído entre esses caminhos, promovendo o balanceamento de carga. A técnica mencionada por Márcia é chamada de:
+
+[ALTERNATIVAS]
+(A) ICMP;
+(B) ECMP;
+(C) MOSPF;
+(D) roteamento estático;
+(E) roteamento dinâmico.
+
+[GABARITO]
+B

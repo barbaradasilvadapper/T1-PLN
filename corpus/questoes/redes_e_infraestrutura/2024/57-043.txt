@@ -1,0 +1,18 @@
+ID: 57-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Claudio, analista de TI, ao identificar um problema na camada de enlace, pediu apoio ao técnico Luís para efetuar diversos testes com os equipamentos a fim de analisar todo o funcionamento dos equipamentos envolvidos. No que se refere ao funcionamento da camada de enlace, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) códigos de CRC também são conhecidos como códigos polinomiais, já que é possível considerar a cadeia de bits a ser enviada como um polinômio cujos coeficientes são os valores 0 e 1 na cadeia;
+(B) técnicas de detecção e correção permitem que o receptor sempre descubra a ocorrência de erros de bits, enquanto técnicas mais sofisticadas de detecção e correção de erros ficam sujeitas a uma sobrecarga maior;
+(C) cada padrão de CRC pode detectar erros de rajada de menos do que r + 1 bits. Além disso, em hipóteses apropriadas, uma rajada de comprimento maior do que r + 1 bits é detectada com probabilidade de 2 - 0,5r;
+(D) todos os cálculos de CRC são feitos por aritmética de módulo 2 sem “vai 1” nas adições nem “empresta 1” nas subtrações. Isso significa que a adição e a subtração são idênticas e ambas são equivalentes à operação OU(OR)bit a bit dos operandos;
+(E) um método simples de soma de verificação é multiplicar inteiros de k bits e somar o total resultante com bits de detecção de erros. A soma de verificação da Internet é baseada nessa técnica, em que bytes de dados são tratados como inteiros de 16 bits.
+
+[GABARITO]
+A

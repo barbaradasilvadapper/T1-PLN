@@ -1,0 +1,18 @@
+ID: 73-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um advogado de uma empresa perguntou a uma analista de TI sobre as capacidades da assinatura digital. Em particular, indagou se a assinatura digital era capaz de garantir a confidencialidade, a integridade dos dados e proteção contra falsificação. A analista de TI respondeu que a assinatura digital:
+
+[ALTERNATIVAS]
+(A) oferecia essas três garantias, além de comprovar a origem dos dados;
+(B) oferecia essas três garantias, além de assegurar a disponibilidade dos dados;
+(C) garantia a confidencialidade e protegia contra falsificação, mas não assegurava a integridade dos dados;
+(D) garantia a confidencialidade e a integridade dos dados, mas não protegia contra falsificação;
+(E) permitia que o receptor dos dados comprovasse sua origem e integridade, mas não garantia a confidencialidade.
+
+[GABARITO]
+E

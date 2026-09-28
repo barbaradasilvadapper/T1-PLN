@@ -1,0 +1,18 @@
+ID: 58-004
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise as operações bitwise do JavaScript, exibidas a seguir. 4 & 1 7 | 2 ~ -5 9 >> 2 9 >>> 1 Os valores de cada uma dessas expressões, na ordem, são:
+
+[ALTERNATIVAS]
+(A) 0; 7; 5; 1; 2.
+(B) 1; 9; 5; 1; 2.
+(C) 0; 7; 4; 2; 4.
+(D) 0; 9; 4; 0; 4.
+(E) 1; 1; -5; 4; 2.
+
+[GABARITO]
+C

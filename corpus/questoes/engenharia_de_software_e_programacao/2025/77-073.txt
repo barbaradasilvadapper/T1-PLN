@@ -1,0 +1,18 @@
+ID: 77-073
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe de desenvolvimento utiliza a ferramenta SonarQube no pipeline de CI/CD para manter a qualidade do código-fonte. Assinale o principal tipo de análise que o SonarQube realiza no código-fonte, e o seu objetivo primário na cultura de Clean Code
+
+[ALTERNATIVAS]
+(A) Análise Dinâmica (DAST) para simular ataques e quebrar a segurança interna e externa do sistema.
+(B) Análise Estática (SAST) para identificar code smells, dívida técnica, vulnerabilidades e duplicidade, sem executar o código.
+(C) Testes de Mutação para validar a eficácia dos testes unitários conduzidos pela equipe de desenvolvimento.
+(D) Testes de Performance (Load Testing) para medir a latência da API.
+(E) Análise de Cobertura de Testes Exclusivamente no projeto.
+
+[GABARITO]
+B

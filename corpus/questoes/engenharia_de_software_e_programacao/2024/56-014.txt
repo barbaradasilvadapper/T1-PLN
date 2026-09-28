@@ -1,0 +1,18 @@
+ID: 56-014
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Camila executou o seguinte script em JavaScript: const map1 = new WeakMap(); const e1 = {}; map1.set(e1, e1); console.log(map1.get(e1)) Logo após, Camila executou outro script em JavaScript: const map2 = new WeakMap(); const e2 = "dois"; map2.set(e2, e2); console.log(map2.get(e2)) O interpretador JavaScript usado por Camila suporta a estrutura de dados WeakMap do JavaScript. Os scripts executados por Camila imprimiram no console, respectivamente:
+
+[ALTERNATIVAS]
+(A) TypeError e TypeError;
+(B) TypeError e a string “dois”;
+(C) SyntaxError e a string “dois”;
+(D) um objeto vazio e TypeError;
+(E) um objeto vazio e a string “dois”.
+
+[GABARITO]
+D

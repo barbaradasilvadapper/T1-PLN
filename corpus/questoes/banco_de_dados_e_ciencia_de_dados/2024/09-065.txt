@@ -1,0 +1,18 @@
+ID: 09-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Sobre as diferenças entre abordagens relacionais e multidimensionais em bancos de dados, assinale a opção correta.
+
+[ALTERNATIVAS]
+(A) A abordagem multidimensional é mais eficiente para transações online (OLTP) do que a abordagem relacional.
+(B) A abordagem relacional é usada principalmente em sistemas de apoio à decisão (OLAP), enquanto a multidimensional é usada em sistemas transacionais (OLTP).
+(C) A abordagem multidimensional facilita a análise de grandes volumes de dados organizados em dimensões e métricas.
+(D) Em uma abordagem relacional, os dados são organizados em cubos, o que facilita a análise em tempo real.
+(E) A abordagem multidimensional não suporta agregações de dados ou cálculos como somas e médias.
+
+[GABARITO]
+C

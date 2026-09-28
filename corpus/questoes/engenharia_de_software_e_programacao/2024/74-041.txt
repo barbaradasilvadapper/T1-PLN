@@ -1,0 +1,18 @@
+ID: 74-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Engenharia de Requisitos é uma disciplina fundamental na Engenharia de Software. Ela envolve a identificação, a análise, a documentação e o gerenciamento dos requisitos de um sistema de software. Esses requisitos definem o que o sistema deve fazer e quais são as suas funcionalidades e restrições. O objetivo principal da engenharia de requisitos é assegurar que o software desenvolvido atenda às necessidades e expectativas dos stakeholders (partes interessadas). Diante do contexto apresentado, a seguinte etapa da Engenharia de Requisitos é essencial para garantir que as necessidades e expectativas dos stakeholders sejam corretamente compreendidas e documentadas:
+
+[ALTERNATIVAS]
+(A) Implementação de testes automatizados.
+(B) Análise de viabilidade técnica.
+(C) Elicitação de requisitos.
+(D) Design da arquitetura do sistema.
+(E) Implementação do código-fonte.
+
+[GABARITO]
+C

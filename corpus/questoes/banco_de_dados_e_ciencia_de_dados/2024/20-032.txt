@@ -1,0 +1,18 @@
+ID: 20-032
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Bianca está analisando os dados do Data Mart Processos do TJMS utilizando uma ferramenta OLAP. Ela quer analisar os processos apenas do ano de 2024 e da Comarca de Corumbá. Para isso, Bianca deverá executar a operação OLAP:
+
+[ALTERNATIVAS]
+(A) dice;
+(B) slice;
+(C) roll-up;
+(D) drill-down;
+(E) pivot.
+
+[GABARITO]
+A

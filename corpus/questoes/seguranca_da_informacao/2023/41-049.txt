@@ -1,0 +1,18 @@
+ID: 41-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Luís, gerente comercial de uma empresa de segurança, apresentou alguns equipamentos de segurança numa feira de tecnologia. Ao apresentar um IDS, Luís informou que são componentes lógicos de um IDS:
+
+[ALTERNATIVAS]
+(A) autenticadores, sensores e analisadores;
+(B) autenticadores, módulo de prevenção e analisadores;
+(C) interface de usuário (console de gerenciamento), sensores e analisadores;
+(D) módulo de prevenção, interface de usuário (console de gerenciamento) e sensores;
+(E) interface de usuário (console de gerenciamento), autenticadores e módulo de prevenção.
+
+[GABARITO]
+C

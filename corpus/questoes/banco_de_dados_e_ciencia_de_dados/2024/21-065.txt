@@ -1,0 +1,18 @@
+ID: 21-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Sistemas de Informações Geográficas (SIG) são recursos valiosos para instituições cujos negócios demandam a tomada de decisões baseadas na geolocalização de objetos e fenômenos. Entre as funcionalidades inerentes aos SIG, algumas destinam-se à manipulação e à análise de dados geográficos, tantos matriciais quanto vetoriais. Assinale a opção que apresenta funcionalidade de manipulação e de análise de dados matriciais, exclusivamente.
+
+[ALTERNATIVAS]
+(A) Cálculo de declividade.
+(B) Classificação MaxVer.
+(C) Interpolação.
+(D) Junção Espacial.
+(E) Tesselação.
+
+[GABARITO]
+B

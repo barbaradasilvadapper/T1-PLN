@@ -1,0 +1,18 @@
+ID: 84-041
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do HTML e CSS, analise o código a seguir numa página Web. p.centro { text-align: center; color: blue; } Sobre esse trecho, é correto afirmar que a cor e o alinhamento serão aplicados
+
+[ALTERNATIVAS]
+(A) à classe denominada “p.centro”.
+(B) à classe denominada “p”.
+(C) aos elementos com a tag <p> que tenham a classe “centro”.
+(D) aos elementos com id = “p” que tenham a classe “centro”.
+(E) aos elementos que tenham a classe “p.centro”.
+
+[GABARITO]
+C

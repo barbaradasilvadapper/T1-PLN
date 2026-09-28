@@ -1,0 +1,18 @@
+ID: 18-071
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de transações em banco de dados, a transação T1 está inserindo um novo registro na tabela TB_JUIZ. Enquanto isso, a transação T2 está lendo todos os registros de TB_JUIZ para gerar uma listagem. Considere que: - T1 iniciou antes de T2; - T1 ainda não concluiu; e - T2 não enxerga o registro que está sendo inserido por T1. A situação apresentada acima representa um:
+
+[ALTERNATIVAS]
+(A) bloqueio por inanição;
+(B) bloqueio do tipo Latches;
+(C) conflito causado por um registro fantasma;
+(D) conflito lógico entre T1 e T2, com bloqueio do item (registro) que está sendo inserido por T1;
+(E) deadlock que pode ser prevenido pelo esquema esperar-morrer (wait-die).
+
+[GABARITO]
+C

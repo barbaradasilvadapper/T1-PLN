@@ -1,0 +1,18 @@
+ID: 56-007
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista José desenvolveu a aplicação CVMapaB observando a arquitetura hexagonal. Para a interação com o usuário, a CVMapaB disponibiliza uma interface gráfica de usuário e uma interface de linha de comando, a cvmapb, com ambas as interfaces capazes de realizar as mesmas operações. A aplicação também disponibiliza uma Application Programming Interface (API) web RESTful, capaz de realizar parte das operações disponíveis na cvmapb. A CVMapaB utiliza o sistema gerenciador de banco de dados da CVM para persistir os dados do usuário. A aplicação possui, ainda, implementações específicas para a publicação de métricas de desempenho. As métricas são remetidas pela CVMapaB ao pipeline de processamento de dados em tempo real da CVM. Com base no enunciado e à luz da arquitetura hexagonal, são identificáveis na CVMapaB:
+
+[ALTERNATIVAS]
+(A) três portas primárias, duas portas secundárias, um adaptador primário e um adaptador secundário;
+(B) duas portas primárias, duas portas secundárias, um adaptador primário e dois adaptadores secundários;
+(C) duas portas primárias, uma porta secundária, dois adaptadores primários e três adaptadores secundários;
+(D) duas portas primárias, uma porta secundária, três adaptadores primários e dois adaptadores secundários;
+(E) uma porta primária, duas portas secundárias, três adaptadores primários e dois adaptadores secundários.
+
+[GABARITO]
+E

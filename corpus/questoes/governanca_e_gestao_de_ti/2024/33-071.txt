@@ -1,0 +1,18 @@
+ID: 33-071
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+As contratações de solução de tecnologia da informação e comunicação (STIC) deverão ser precedidas de encaminhamento pela área demandante do projeto básico ou termo de referência. Esse documento deverá conter a fundamentação da contratação dispondo, entre outros elementos, sobre os(as):
+
+[ALTERNATIVAS]
+(A) obrigações contratuais que o órgão e a empresa deverão observar;
+(B) informações sobre o impacto social decorrente da contratação;
+(C) alinhamentos entre a contratação e o planejamento de transformação digital do órgão;
+(D) objetivos a serem alcançados por meio da plataforma digital do Poder Judiciário brasileiro - PDPJ-Br;
+(E) benefícios diretos e indiretos resultantes da implementação da plataforma digital do Poder Judiciário brasileiro - PDPJ-Br.
+
+[GABARITO]
+A

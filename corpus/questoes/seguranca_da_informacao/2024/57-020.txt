@@ -1,0 +1,18 @@
+ID: 57-020
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A fim de incrementar a reputação do domínio da organização, a equipe de Tecnologia da Informação (TI) adotou o DMARC (Domain-based Message Authentication, Reporting & Conformance) para a autenticação de seus e-mails, implementando uma política que salva e-mails que apresentam falhas de autenticação na pasta de spam. A política DMARC implementada pela equipe de TI é a:
+
+[ALTERNATIVAS]
+(A) none;
+(B) relaxed mode;
+(C) quarantine;
+(D) strict mode;
+(E) reject.
+
+[GABARITO]
+C

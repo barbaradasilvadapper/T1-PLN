@@ -1,0 +1,18 @@
+ID: 15-058
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma empresa de serviços digitais enfrenta atrasos nos releases e erros frequentes devido a processos manuais de integração e deploy. Para aumentar a eficiência e a confiabilidade das entregas, a área de TI avalia a adoção de práticas DevOps. Assinale a afirmativa verdadeira sobre o papel da automação no DevOps.
+
+[ALTERNATIVAS]
+(A) A automação no DevOps é limitada apenas à automação de testes de software, não abrangendo outras etapas do ciclo de vida do desenvolvimento.
+(B) A implementação de automação no DevOps pode resultar em um aumento significativo no tempo de entrega de software devido à complexidade dos sistemas automatizados.
+(C) A automação é essencial para a operação eficiente dos pipelines de CI/CD, permitindo entrega e implantação de software mais rápidas e confiáveis.
+(D) A automação é irrelevante para ambientes de desenvolvimento pequenos, onde os desenvolvedores podem gerenciar manualmente a configuração e a entrega.
+(E) A automação em DevOps é um conceito recente e não possui impacto nas práticas ágeis já estabelecidas no desenvolvimento de software.
+
+[GABARITO]
+C

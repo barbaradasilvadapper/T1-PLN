@@ -1,0 +1,18 @@
+ID: 87-072
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A adoção da Arquitetura Orientada a Serviços (Service Oriented Architecture - SOA) viabiliza a utilização de vários recursos que proporcionam benefícios aos softwares que suportam as operações de negócios das organizações. A detecção de ataques de segurança, como ataques de negação de serviço, é um benefício proporcionado pelo recurso de SOA denominado:
+
+[ALTERNATIVAS]
+(A) Orquestração de Serviços;
+(B) Coreografia de Serviços;
+(C) Monitoramento de Mensagens;
+(D) Virtualização de Serviços;
+(E) Processamento de Eventos Complexos.
+
+[GABARITO]
+C

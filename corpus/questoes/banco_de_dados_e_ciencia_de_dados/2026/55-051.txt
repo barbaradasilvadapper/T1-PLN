@@ -1,0 +1,18 @@
+ID: 55-051
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+OLTP e OLAP são mecanismos de gerenciamento de dados com propósitos distintos. A esse respeito, relacione as opções 1 e 2, da coluna da esquerda, às respectivas características, da coluna da direita. ( ) Altera pequenas quantidades de dados com frequência e, em geral, apresenta maior equilíbrio entre operações de leitura e gravação. ( ) Armazena grandes volume de dados históricos, o que normalmente exige maior capacidade de armazenamento. ( ) Executa consultas mais complexas, envolvendo uma grande quantidade de registros. ( ) É comumente utilizado em transações bancárias online, compras eletrônicas ou envio de mensagens de texto. 1. OLTP 2. OLAP apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 2 – 2 – 1.
+(B) 1 – 2 – 1 – 2.
+(C) 1 – 1 – 2 – 1.
+(D) 2 – 2 – 2 – 1.
+(E) 2 – 1 – 1 – 2.
+
+[GABARITO]
+A

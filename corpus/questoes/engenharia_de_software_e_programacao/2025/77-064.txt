@@ -1,0 +1,18 @@
+ID: 77-064
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um teste unitário para o método GerarProtocolo(Doc doc), o Analista de Programação precisa garantir que a lógica de negócio do método funcione corretamente. No entanto, o método GerarProtocolo depende da classe PersistenciaBD, que acessa o banco de dados. O objetivo do uso de objetos Mock ou Stub para substituir a classe PersistenciaBD durante o teste unitário é:
+
+[ALTERNATIVAS]
+(A) Testar a conexão real entre a aplicação e o banco de dados.
+(B) Garantir o Isolamento da unidade de código em teste, eliminando dependências externas e não-determinísticas.
+(C) Medir o tempo de execução da query SQL para identificar gargalos de performance.
+(D) Automatizar o preenchimento de formulários no frontend.
+(E) Validar o contrato da API REST que o sistema consome.
+
+[GABARITO]
+B

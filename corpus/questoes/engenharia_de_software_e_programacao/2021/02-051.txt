@@ -1,0 +1,18 @@
+ID: 02-051
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe de desenvolvimento de software SystemsXYZ vem enfrentando problemas de defeitos associados à qualidade do software. Por isso, a equipe decidiu adotar medições de software baseadas em métricas de produto. Métricas de produto dinâmicas são coletadas por meio de medições efetuadas de um programa em execução, ajudando a avaliar a sua eficiência. Um exemplo associado à métrica dinâmica é o(a):
+
+[ALTERNATIVAS]
+(A) fan-in/fan-out;
+(B) tamanho de código-fonte;
+(C) comprimento médio de identificadores;
+(D) número de relatórios de bugs;
+(E) complexidade ciclomática.
+
+[GABARITO]
+D

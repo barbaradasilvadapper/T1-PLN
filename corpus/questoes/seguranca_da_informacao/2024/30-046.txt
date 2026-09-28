@@ -1,0 +1,18 @@
+ID: 30-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um especialista está estabelecendo o mecanismo de autenticação para os novos analistas recém-contratados por sua organização, sendo a senha o método de autenticação mais utilizado. A senha requer controles adicionais, dentre os quais:
+
+[ALTERNATIVAS]
+(A) somente as tentativas de acesso devem ser registradas permitindo a rastreabilidade dessas ações e geração de evidências;
+(B) o arquivo de senhas deve ser criptografado com possibilidade de reversão ao valor original quando necessário;
+(C) um número máximo de tentativas incorretas de senha deve ser estipulado, após o qual a entrada do usuário deve ser excluída;
+(D) o usuário pode mudar ou não a senha no primeiro acesso toda vez que um responsável pelo controle de acesso lhe atribuir uma senha;
+(E) a atribuição de senha para o usuário no ambiente computacional somente deve ser feita pelo sistema de controle de acesso e deve registrar a data e hora/minuto/segundo, dentre outras informações.
+
+[GABARITO]
+E

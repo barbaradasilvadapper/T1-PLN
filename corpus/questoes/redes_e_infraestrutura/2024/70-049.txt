@@ -1,0 +1,18 @@
+ID: 70-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considerando a arquitetura de computadores modernos, assinale a opção que descreve corretamente a relação e diferença funcional entre a Unidade Central de Processamento (CPU) e a Unidade de Processamento Gráfico (GPU).
+
+[ALTERNATIVAS]
+(A) A GPU substitui completamente a CPU em sistemas avançados, com a primeira realizando todas as funções computacionais, desde o processamento básico até gráficos intensivos.
+(B) A CPU lida com todas as operações do computador, incluindo gráficos, com a GPU agindo meramente como uma reserva de memória adicional para aumentar a capacidade.
+(C) A GPU é uma extensão da CPU, dedicada a otimizar o desempenho do sistema operacional e software de aplicação, sem envolvimento em processamento gráfico.
+(D) Enquanto a CPU executa cálculos e operações lógicas de forma sequencial para tarefas gerais, a GPU é especializada em processamento paralelo.
+(E) A CPU foca em tarefas gerais de computação e executa operações complexas sequencialmente, enquanto a GPU é especializada em melhorar a qualidade do áudio do sistema.
+
+[GABARITO]
+D

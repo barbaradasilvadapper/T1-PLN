@@ -1,0 +1,18 @@
+ID: 59-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Três roteadores estão conectados em série por duas redes de ligação. Esses roteadores e essas redes de ligação são responsáveis por conectarem outras três redes locais (Stub). O protocolo Routing Information Protocol versão 2 (RIPv2) foi corretamente configurado para estabelecer conexão entre todas essas redes. A tabela abaixo apresenta as redes diretamente conectadas aos respectivos roteadores. Rede IP Diretamente Conectada Roteador Tipo de Rede 192.168.1.0/24 Rede Local (Stub) R1 192.168.2.0/24 Rede de Ligação 192.168.2.0/24 Rede de Ligação R2 192.168.3.0/24 Rede Local (Stub) 192.168.4.0/24 Rede de Ligação 192.168.4.0/24 Rede de Licação R3 192.168.5.0/24 Rede Local (Stub) A rota para a rede local 192.168.1.0/24 inserida pelo protocolo RIPv2 no roteador R3 apresentará custo igual a
+
+[ALTERNATIVAS]
+(A) 0;
+(B) 1;
+(C) 2;
+(D) 90;
+(E) 120.
+
+[GABARITO]
+C

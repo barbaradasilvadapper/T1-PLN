@@ -1,0 +1,18 @@
+ID: 84-064
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Analise o script abaixo. #!/bin/bash NR=-31; until [ ${NR} -gt 273 ]; do echo "NR=${NR}"; NR=$[ ${NR} +49 ]; echo " FIM=${NR}"; echo " Conta=$((count++))"; done Assinale a opção que indica quantas linhas serão impressas na tela de um terminal Linux e quais os valores de ${NR} e de count ao término da execução do script.
+
+[ALTERNATIVAS]
+(A) 7, 273 e 6.
+(B) 14, 312 e 7.
+(C) 14, 263 e 7.
+(D) 21, 361 e 7.
+(E) 21, 312 e 6.
+
+[GABARITO]
+E

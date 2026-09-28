@@ -1,0 +1,18 @@
+ID: 56-013
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte código em Java: import java.util.concurrent.atomic.AtomicInteger; class MultiSomador extends Thread { int n = 1_000; int saida = 1; AtomicInteger contagem = new AtomicInteger(1); public void run() { for (short i = 0; i < n; i++) saida = contagem.getAndIncrement(); } } public class Principal { public static void main(String[] args) throws InterruptedException { MultiSomador a = new MultiSomador(); Thread b = new Thread(a, "b"); Thread c = new Thread(a, "c"); b.start(); b.join(0); c.start(); c.join(0); System.out.print(a.contagem+", "+a.saida); } } Ao ser executado em um ambiente Java com suporte à classe de biblioteca AtomicInteger, o código acima imprime na saída padrão:
+
+[ALTERNATIVAS]
+(A) 1, 1
+(B) Exception
+(C) 1000, 999
+(D) 2000, 1999
+(E) 2001, 2000
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 40-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O setor de Tecnologia da Informação (TI) realiza as cópias de segurança (backup) de acordo com as políticas de backup definidas para cada sistema, conforme os requisitos estabelecidos pelos seus gestores. A fim de agilizar a cópia dos dados e diminuir o tempo da janela de backup diária, o setor de TI implementou um tipo de backup que copia nos dias úteis somente os dados modificados desde o último backup. Essa estratégia implementa um backup:
+
+[ALTERNATIVAS]
+(A) híbrido;
+(B) completo;
+(C) diferencial;
+(D) incremental;
+(E) em disco.
+
+[GABARITO]
+D

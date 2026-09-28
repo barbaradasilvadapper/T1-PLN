@@ -1,0 +1,18 @@
+ID: 19-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere uma tabela de um banco relacional com quatro colunas: X, Y, Z e W. Na modelagem dos dados, foram detectadas as seguintes dependências funcionais para essa tabela. X → Y X → Z Z → X Y → Z X → W A lista das colunas que devem necessariamente ser definidas com a propriedade unique, com colunas isoladas ou em conjunto, é:
+
+[ALTERNATIVAS]
+(A) X e Y, em conjunto, e W, separadamente;
+(B) X, Y, Z, W, separadamente;
+(C) X, Y, Z, separadamente;
+(D) X, isoladamente, e ainda Y, Z, em conjunto;
+(E) X, isoladamente.
+
+[GABARITO]
+C

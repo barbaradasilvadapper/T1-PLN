@@ -1,0 +1,18 @@
+ID: 87-070
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Escritório de Métricas (EM) de um órgão público já determinou o tipo e o escopo de uma contagem de pontos de função. Para determinar o posicionamento da fronteira da aplicação a ser medida, o EM deve:
+
+[ALTERNATIVAS]
+(A) definir o que é externo à aplicação;
+(B) identificar os tipos de usuários da aplicação;
+(C) basear-se nos dados que são mantidos pela aplicação;
+(D) considerar aspectos técnicos da implementação, como a divisão em camadas;
+(E) determinar as partições que requerem esforço de desenvolvimento.
+
+[GABARITO]
+A

@@ -1,0 +1,17 @@
+ID: 23-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os códigos reproduzidos abaixo (CÓDIGO-01 e CÓDIGO-02) foram desenvolvidos na linguagem C#. Ambos resultam na mesma saída (OUTPUT). CÓDIGO-01 Console.WriteLine ("***Sounds animals.***"); Tiger tiger = new(); tiger.Sound(); Dog dog = new(); dog.Sound(); Console.ReadKey(); class Tiger { public void Sound() {Console.WriteLine("Tigers roar."); } } class Dog { public void Sound() { Console.WriteLine("Dogs bark."); } } CÓDIGO-02 Console.WriteLine ("***Sounds animals.***"); IAnimal animal = new Tiger(); animal.Sound(); animal = new Dog(); animal.Sound(); interface IAnimal { void Sound(); } class Tiger : IAnimal { public void Sound() { Console.WriteLine("Tigers roar."); } } class Dog : IAnimal { public void Sound() { Console.WriteLine("Dogs bark."); } } OUTPUT ***Sounds Tigers Dogs bark. animals.*** roar. Assinale a opção que indica o pilar da programação orientada a objetos que diferencia o segundo código (CÓDIGO-02) do primeiro.
+
+[ALTERNATIVAS]
+(A) Encapsulamento.
+(B) Polimorfismo.
+(C) Herança.
+(D) Sobrecarga.
+
+[GABARITO]
+B

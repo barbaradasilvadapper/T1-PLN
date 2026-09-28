@@ -1,0 +1,18 @@
+ID: 13-071
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Após um estudo aprofundado sobre a sistemática de gestão de processos e do sistema digital que a apoia – o SisGEPRO 1.0 –, a Equipe de Soluções Técnicas (EST) identificou que há conceitos do negócio que não são compreendidos por algumas das partes envolvidas na sustentação do sistema, levando a erros de codificação. Assim, dada a complexidade do negócio e a obsolescência do SisGEPRO 1.0, a EST recomendou o desenvolvimento de uma nova versão do sistema – o SisGEPRO 2.0 – aplicando a abordagem Domain-Driven Design (DDD). Em conformidade com o DDD, o arquiteto de software, após a modelagem dos conceitos do domínio, irá:
+
+[ALTERNATIVAS]
+(A) organizar um repositório (Repository) para que outras camadas tenham acesso à lógica necessária para acesso a objetos;
+(B) definir o modelo de domínio (Domain Model) acoplado às necessidades de armazenamento de objetos e suas referências;
+(C) codificar uma fábrica (Factory) para definir a estratégia de criação e armazenamento de objetos do domínio;
+(D) especificar agregados (Aggregates) para garantir a consistência das mudanças em objetos num modelo com associações complexas;
+(E) projetar serviços (Services) para atender a ações que se refiram a Entidades ou Objetos de valor específicos.
+
+[GABARITO]
+D

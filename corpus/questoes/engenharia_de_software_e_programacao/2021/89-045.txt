@@ -1,0 +1,18 @@
+ID: 89-045
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista da tecnologia da informacao funsaude ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A UML (Unified Modeling Language) trabalha com um conjunto de diagramas, cobrindo diferentes aspectos da especificação de sistemas. São diagramas UML, exceto:
+
+[ALTERNATIVAS]
+(A) Diagrama de Atividade.
+(B) Diagrama de Banco de Dados.
+(C) Diagrama de Casos de Uso.
+(D) Diagrama de Classes.
+(E) Diagrama de Tempo.
+
+[GABARITO]
+B

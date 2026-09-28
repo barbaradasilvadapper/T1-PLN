@@ -1,0 +1,18 @@
+ID: 61-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os sistemas de armazenamento de dados baseados em software desempenham um papel importante na gestão e acesso a grandes volumes de informações em diferentes ambientes. Eles oferecem soluções flexíveis e adaptáveis, dependendo das necessidades específicas de desempenho, escalabilidade e acesso aos dados. Nesse contexto, assinale a opção que corretamente associa o sistema de armazenamento baseado em software com sua característica.
+
+[ALTERNATIVAS]
+(A) A autenticação de clientes no sistema de arquivos NFS é possível mesmo sem a coincidência de identificador de usuário, dada a característica de ciframento do protocolo.
+(B) CIFS oferece um recurso de bloqueio para compartilhamento de arquivos entre hosts via NAS que não está disponível para NFS, diferenciando as duas soluções.
+(C) No storage baseado em blocos, toda a manipulação de dados é realizada com o seu identificador de objetos, associando-o a um volume de armazenamento físico.
+(D) O protocolo NFS aliado ao sistema de armazenamento NAS cria uma arquitetura um-para-muitos no modelo cliente-servidor, com cada máquina exercendo um papel específico.
+(E) Sistemas baseados em objetos escalam horizontalmente, aumentando sua capacidade de armazenamento pela adição de mais unidades de disco ao pool de armazenamento.
+
+[GABARITO]
+E

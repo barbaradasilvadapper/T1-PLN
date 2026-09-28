@@ -1,0 +1,18 @@
+ID: 18-070
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um sistema de banco de dados envolve quatro componentes principais: dados, hardware, software e usuários. O sistema gerenciador de banco de dados é um software que:
+
+[ALTERNATIVAS]
+(A) abstrai o modelo conceitual;
+(B) limita a independência lógica de dados;
+(C) isola os usuários do banco de dados dos detalhes do nível de hardware;
+(D) deve ser parametrizado para atender ao sistema de processamento analítico online;
+(E) elimina a redundância do sistema de processamento de transações online.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 69-074
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação a gestão de memória, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) Na virtualização cada máquina virtual consome memória de tamanho default mínimo padronizado pelo Sistema Operacional, além de memória de sobrecarga adicional para virtualização. ( ) A alocação de memória da máquina virtual é implicitamente limitada pelo tamanho configurado, tendo como limite superior a quantidade de Random Access Memory (RAM, ou memória de acesso aleatório) física que o host pode alocar para a máquina virtual. ( ) Na virtualização de memória o sistema operacional fornece aos seus processos uma visão virtual da memória, sendo qualquer acesso à memória física interceptado e manipulado pelo componente de hardware chamado Memory Management Unit (MMU, ou unidade de gerenciamento de memória).
+
+[ALTERNATIVAS]
+(A) F – F – V.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+(E) V – F – V.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 62-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Empresa de Pesquisa Energética (EPE) está atualizando sua infraestrutura de rede para suportar o protocolo IPv6, devido à crescente necessidade de endereços IP e melhorias na eficiência e segurança da rede. Ao projetar a nova infraestrutura de rede da EPE como suporte ao funcionamento do IPv6, e garantir uma transição eficiente do IPv4 para o IPv6, a EPE deve
+
+[ALTERNATIVAS]
+(A) adotar apenas o uso de NAT (Network Address Translation) para IPv6.
+(B) utilizar o endereçamento IPv6 privado sem roteamento externo.
+(C) implementar pilha dupla, permitindo que os dispositivos utilizem simultaneamente IPv4 e IPv6.
+(D) desativar todos os dispositivos IPv4 antes de implementar o IPv6.
+(E) implementar o uso exclusivo de endereços IPv6 temporários.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 10-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Estratégia Nacional de Segurança da Informação e Cibernética do Poder Judiciário (ENSEC-PJ) tem o objetivo de aprimorar o nível de maturidade em segurança cibernética nos órgãos do Poder Judiciário. Conforme estabelecido na ENSEC-PJ, é um objetivo da Rede de Cooperação do Judiciário na área de segurança cibernética:
+
+[ALTERNATIVAS]
+(A) promover ações de capacitação e profissionalização dos recursos humanos em temas relacionados à segurança da informação;
+(B) promover troca de informações e experiências com os comitês gestores de segurança da informação dos outros Poderes e com a sociedade;
+(C) fortalecer o Centro de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos (CPTRIC-PJ) do Conselho Nacional de Justiça;
+(D) consolidar e analisar os resultados dos trabalhos de auditoria sobre a gestão da segurança da informação;
+(E) elaborar e implementar programas sobre segurança da informação destinados à conscientização e à capacitação dos servidores do Poder Judiciário.
+
+[GABARITO]
+C

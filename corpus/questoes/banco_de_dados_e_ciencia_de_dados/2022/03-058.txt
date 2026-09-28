@@ -1,0 +1,18 @@
+ID: 03-058
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+As tabelas PROFESSOR e ALUNO registram os identificadores únicos, nomes e datas de nascimento de professores e alunos de uma universidade. Assinale a opção que irá produzir uma lista contendo um único atributo com todos os nomes de alunos e professores de forma a não repetir homônimos.
+
+[ALTERNATIVAS]
+(A) Uma junção natural entre as projeções Π 𝐴𝑙𝑢𝑛𝐼𝐷 (𝐴𝐿𝑈𝑁𝑂) ⋈ Π 𝑃𝑟𝑜𝑓𝐼𝐷 (𝑃𝑅𝑂𝐹𝐸𝑆𝑆𝑂𝑅).
+(B) Uma projeção Π 𝑃𝑟𝑜𝑓𝑁𝑜𝑚𝑒 (𝑃𝑅𝑂𝐹𝐸𝑆𝑆𝑂𝑅) seguida de uma projeção Π 𝐴𝑙𝑢𝑛𝑁𝑜𝑚𝑒 (𝐴𝐿𝑈𝑁𝑂).
+(C) Um produto cartesiano entre as projeções Π 𝐴𝑙𝑢𝑛𝑁𝑜𝑚𝑒 (𝐴𝐿𝑈𝑁𝑂) × Π 𝑃𝑟𝑜𝑓𝑁𝑜𝑚𝑒 (𝑃𝑅𝑂𝐹𝐸𝑆𝑆𝑂𝑅).
+(D) Um conjunto união entre as projeções Π 𝐴𝑙𝑢𝑛𝑁𝑜𝑚𝑒 (𝐴𝐿𝑈𝑁𝑂) ∪ Π 𝑃𝑟𝑜𝑓𝑁𝑜𝑚𝑒 (𝑃𝑅𝑂𝐹𝐸𝑆𝑆𝑂𝑅).
+(E) Um conjunto intercessão entre as projeções Π 𝐴𝑙𝑢𝑛𝑁𝑜𝑚𝑒 (𝐴𝐿𝑈𝑁𝑂) ∩ Π 𝑃𝑟𝑜𝑓𝑁𝑜𝑚𝑒 (𝑃𝑅𝑂𝐹𝐸𝑆𝑆𝑂𝑅).
+
+[GABARITO]
+D

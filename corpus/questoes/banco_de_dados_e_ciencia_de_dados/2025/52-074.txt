@@ -1,0 +1,18 @@
+ID: 52-074
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Redes neurais profundas revolucionaram áreas como reconhecimento de fala, visão computacional e processamento de linguagem natural, ao permitir a modelagem de padrões complexos por meio de múltiplas camadas ocultas. A respeito das redes neurais profundas, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Redes neurais profundas são compostas por uma única camada oculta entre a entrada e a saída, o que as torna ideais para problemas linearmente separáveis.
+(B) A profundidade das redes refere-se exclusivamente ao número de conexões por neurônio, e não ao número de camadas.
+(C) As redes neurais profundas aprendem representações hierárquicas dos dados por meio de múltiplas camadas, sendo capazes de extrair características de alto nível automaticamente.
+(D) O principal objetivo das redes neurais profundas é substituir completamente algoritmos supervisionados como SVM e árvores de decisão em qualquer contexto.
+(E) Uma característica fundamental das redes neurais profundas é que elas não exigem grande capacidade computacional, podendo ser treinadas eficientemente em qualquer máquina convencional.
+
+[GABARITO]
+C

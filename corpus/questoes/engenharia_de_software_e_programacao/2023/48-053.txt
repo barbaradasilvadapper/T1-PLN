@@ -1,0 +1,18 @@
+ID: 48-053
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O AppDELTA é um aplicativo para dispositivos móveis que pode fazer uso da localização física do dispositivo utilizado pelo usuário para prestar serviços mais assertivos com base na localidade. Para obter a localização física do dispositivo móvel, o aplicativo solicita ao usuário a autorização de uso de dados de localização. A decisão do usuário sobre autorização ou não de uso deve ser consultada a partir de outras aplicações Web. Caso autorizada a obtenção de dados de localização, mas a opção de indicação de localização ainda não esteja habilitada no sistema operacional, o aplicativo solicita que o usuário habilite a referida opção. Em análise de pontos de função, a opção do usuário sobre a autorização para obtenção da localização e a ação de coleta da localização em si pelo aplicativo representam, respectivamente, uma:
+
+[ALTERNATIVAS]
+(A) Entrada Externa de complexidade média e uma Entrada Externa de complexidade alta;
+(B) Entrada Externa de complexidade baixa e uma Consulta Externa de complexidade média;
+(C) Consulta Externa de complexidade baixa e uma Entrada Externa de complexidade média;
+(D) Entrada Externa de complexidade baixa e uma Entrada Externa de complexidade baixa;
+(E) Consulta Externa de complexidade baixa e uma Consulta Externa de complexidade baixa.
+
+[GABARITO]
+D

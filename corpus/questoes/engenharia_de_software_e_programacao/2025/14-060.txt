@@ -1,0 +1,18 @@
+ID: 14-060
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A infraestrutura blockchain mantém cadeias de blocos, que representam a construção básica na infraestrutura. Estes blocos são constituídos de cabeçalho e corpo. No cabeçalho de um bloco o componente (ou estrutura de campo) Nbits representa
+
+[ALTERNATIVAS]
+(A) o hash criptográfico do bloco anterior na cadeia
+(B) um campo que representa a dificuldade de mineração.
+(C) uma estrutura de dados usada para resumir todas as transações no bloco de forma eficiente e segura
+(D) uma marca temporal que indica quando o bloco foi minerado
+(E) um valor que os mineradores ajustam para tentar encontrar um hash válido para o bloco.
+
+[GABARITO]
+B

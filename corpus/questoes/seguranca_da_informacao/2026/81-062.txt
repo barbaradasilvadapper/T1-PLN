@@ -1,0 +1,18 @@
+ID: 81-062
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A criptografia de dados é controlada por algoritmos e fórmulas matemáticas (razoavelmente) complicadas. Considere que um parlamentar da ALEGO recebeu um texto cifrado, levou a você (profissional de T I) e o informou que o algoritmo Caeser Cipher foi utilizado para codificar o texto. O parlamentar solicitou sua colaboração para apresentar outras alternativas de criptografia simples, empregando apenas cifras de substituição. Como alternativas que garantem a segurança real, podem ser sugeridas as seguintes cifras, exceto uma. Assinale-a.
+
+[ALTERNATIVAS]
+(A) Cifras de Substituição Simples com Alfabeto Embaralhado, Cifras de Transposição e Cifra de Atbash.
+(B) Cifras de Substituição Simples com Alfabeto Embaralhado, Cifra de Villegagnon e ROT13.
+(C) Cifra de Atbash, Cifras de Substituição Simples com Alfabeto Embaralhado e Cifra de Villegagnon.
+(D) Cifra de RSA, Cifras de Substituição Simples com Alfabeto Embaralhado e Cifra de Atbash
+(E) Cifra de Vigenère, Cifra de Atbash e ROT13.
+
+[GABARITO]
+E

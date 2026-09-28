@@ -1,0 +1,18 @@
+ID: 26-062
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de suporte de sistemas senado federal
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um sistema criptográfico tipicamente depende de duas partes: seu algoritmo, que determina as operações que precisam ser feitas para proteger uma mensagem, e sua chave, que age como entropia para a proteção da mensagem. De forma geral, o algoritmo deverá ser capaz de, ao receber uma mensagem em texto legível, aciona a chave que gerará uma nova mensagem não compreensível para qualquer um que não possua a chave. Porém, durante os anos, criptoanalistas desenvolveram métodos para tentar descobrir as chaves secretas. Nesse sentido, analise os métodos a seguir. I. Ataque de texto cifrado (cyphertext-only): o criptoanalista tem uma grande biblioteca de mensagens cifradas, mas desconhece as originais e as chaves utilizadas. Seu objetivo é recuperar as mensagens normais (deduzir as chaves utilizadas). II. Ataque de texto conhecido (known-plaintext): o criptoanalista possui uma grande biblioteca de mensagens criptografadas e também as mensagens originais equivalentes. Seu objetivo é deduzir as chaves utilizadas. III. Ataque adaptativo do texto escolhido (adaptative-choosenplaintext): neste método o criptoanalista utiliza blocos de informações em texto puro para descobrir através da tentativa e erro entre todas as combinações possíveis as chaves de criptografia. IV. Ataque do texto cifrado escolhido (choosen-cyphertext): o criptoanalista tem uma grande quantidade de mensagens e seus equivalentes criptografados e pode produzir uma mensagem criptografada específica para ser decifrada e obter o resultado produzido. É utilizado quando se tem uma "caixapreta" que faz descriptografia automática. Sua tarefa é deduzir chaves utilizadas. Os métodos que estão corretamente descritos são:
+
+[ALTERNATIVAS]
+(A) I, II e III, apenas.
+(B) II e IV, apenas.
+(C) II, III e IV, apenas.
+(D) I, II e IV, apenas.
+(E) I, III e IV, apenas.
+
+[GABARITO]
+D

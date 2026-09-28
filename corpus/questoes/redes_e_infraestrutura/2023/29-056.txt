@@ -1,0 +1,18 @@
+ID: 29-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Maria é uma estagiária na divisão de redes de computadores do Tribunal de Justiça de Sergipe. Foi solicitado a Maria, partindo do IP 194.24.16.0/28 com máscara de rede /28, o número de hosts por sub-redes possível existentes nesse range, de forma a buscar uma distribuição dos endereços IPs. O número de hosts por sub-redes informado por Maria é:
+
+[ALTERNATIVAS]
+(A) 8;
+(B) 16;
+(C) 32;
+(D) 64;
+(E) 128.
+
+[GABARITO]
+B

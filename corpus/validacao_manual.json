@@ -1,0 +1,721 @@
+{
+  "descricao": "Conferência manual de amostra aleatória estratificada do corpus final (seed 20260927): 20 questões por subárea e 10 de Governança. Revisão feita com auxílio do Claude (IA). A questão 01-048 saiu da amostra porque foi removida do corpus final (depende de tabelas descritas em outra questão).",
+  "n": 89,
+  "dominio_correto": 89,
+  "subarea_correta": 83,
+  "observacao": "Os erros concentram-se em questões de protocolos de segurança (IPSec, SSL, DNSSEC, RADIUS) que o classificador mantém em Redes.",
+  "itens": [
+    {
+      "id": "55-040",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": false,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": "fronteira: metadados em gestão arquivística de documentos digitais (gestão da informação)"
+    },
+    {
+      "id": "18-072",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "21-040",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "48-078",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "86-050",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "38-042",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": false,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": "ataque de SQL injection"
+    },
+    {
+      "id": "83-054",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "21-052",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "10-049",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "94-058",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "71-060",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "85-048",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "48-077",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "17-061",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "34-073",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "70-044",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "20-033",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "29-068",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "19-057",
+      "subarea_atribuida": "banco_de_dados_e_ciencia_de_dados",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "banco_de_dados_e_ciencia_de_dados",
+      "obs": ""
+    },
+    {
+      "id": "06-045",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "23-070",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "13-066",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "77-079",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "77-064",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "48-069",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "78-052",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "02-038",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "72-052",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "06-059",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "74-050",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "84-059",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "10-031",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "58-019",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "77-070",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "63-068",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "88-056",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "63-064",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "05-051",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "83-037",
+      "subarea_atribuida": "engenharia_de_software_e_programacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "engenharia_de_software_e_programacao",
+      "obs": ""
+    },
+    {
+      "id": "80-024",
+      "subarea_atribuida": "governanca_e_gestao_de_ti",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "governanca_e_gestao_de_ti",
+      "obs": ""
+    },
+    {
+      "id": "62-054",
+      "subarea_atribuida": "governanca_e_gestao_de_ti",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "governanca_e_gestao_de_ti",
+      "obs": ""
+    },
+    {
+      "id": "03-045",
+      "subarea_atribuida": "governanca_e_gestao_de_ti",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "governanca_e_gestao_de_ti",
+      "obs": ""
+    },
+    {
+      "id": "71-071",
+      "subarea_atribuida": "governanca_e_gestao_de_ti",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "governanca_e_gestao_de_ti",
+      "obs": ""
+    },
+    {
+      "id": "70-068",
+      "subarea_atribuida": "governanca_e_gestao_de_ti",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "governanca_e_gestao_de_ti",
+      "obs": ""
+    },
+    {
+      "id": "21-050",
+      "subarea_atribuida": "governanca_e_gestao_de_ti",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "governanca_e_gestao_de_ti",
+      "obs": ""
+    },
+    {
+      "id": "86-068",
+      "subarea_atribuida": "governanca_e_gestao_de_ti",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "governanca_e_gestao_de_ti",
+      "obs": ""
+    },
+    {
+      "id": "47-021",
+      "subarea_atribuida": "governanca_e_gestao_de_ti",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "governanca_e_gestao_de_ti",
+      "obs": ""
+    },
+    {
+      "id": "59-077",
+      "subarea_atribuida": "governanca_e_gestao_de_ti",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "governanca_e_gestao_de_ti",
+      "obs": ""
+    },
+    {
+      "id": "60-049",
+      "subarea_atribuida": "governanca_e_gestao_de_ti",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "governanca_e_gestao_de_ti",
+      "obs": ""
+    },
+    {
+      "id": "32-065",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "03-052",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "48-027",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "70-057",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": false,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": "DNSSEC/SPF/DKIM contra envenenamento de cache"
+    },
+    {
+      "id": "28-054",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": false,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": "modos do IPSec"
+    },
+    {
+      "id": "35-066",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "27-069",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "27-067",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "05-042",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "59-060",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "04-058",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "25-049",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "39-062",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": false,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": "autenticação RADIUS (AAA)"
+    },
+    {
+      "id": "78-059",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "73-061",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": false,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": "protocolo SSL"
+    },
+    {
+      "id": "83-041",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "25-054",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "36-078",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "62-051",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "85-065",
+      "subarea_atribuida": "redes_e_infraestrutura",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "redes_e_infraestrutura",
+      "obs": ""
+    },
+    {
+      "id": "30-042",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "50-084",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "70-064",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "03-065",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "51-068",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "58-067",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "38-044",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "28-061",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "47-040",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "34-077",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "31-037",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "44-077",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "42-054",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "80-054",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "85-066",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "37-055",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "33-062",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "71-068",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "29-055",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    },
+    {
+      "id": "55-067",
+      "subarea_atribuida": "seguranca_da_informacao",
+      "eh_computacao": true,
+      "subarea_correta": true,
+      "subarea_sugerida": "seguranca_da_informacao",
+      "obs": ""
+    }
+  ]
+}

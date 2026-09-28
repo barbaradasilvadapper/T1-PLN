@@ -1,0 +1,18 @@
+ID: 63-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A DevOps integra desenvolvimento e operações de TI, de modo a melhorar a colaboração e a produtividade. Com o intuito de efetuar o backup dos servidores de uma empresa, observando os princípios da DevOps, o administrador deve
+
+[ALTERNATIVAS]
+(A) implementar scripts para realizar backups periódicos e solicitar à equipe de TI que execute tais scripts periodicamente.
+(B) configurar ferramentas de backup e designar membros da equipe para monitorar o processo de backup.
+(C) usar scripts para programar backups periódicos e verificar automaticamente sua integridade.
+(D) designar um responsável por executar os procedimentos de backup e mover os dados para um local de armazenamento seguro periodicamente.
+(E) empregar ferramentas de automatização para programar backups periódicos, e designar uma equipe para verificar sua integridade.
+
+[GABARITO]
+C

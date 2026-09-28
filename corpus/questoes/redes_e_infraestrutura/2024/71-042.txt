@@ -1,0 +1,18 @@
+ID: 71-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O administrador de um servidor web configurado com sistema operacional Linux necessita economizar espaço em disco para ler arquivos que foram previamente compactados com gzip, sem descompactá-los. O comando que ele deverá utilizar é o
+
+[ALTERNATIVAS]
+(A) tar.
+(B) grep.
+(C) zcat.
+(D) touch.
+(E) expnd.
+
+[GABARITO]
+C

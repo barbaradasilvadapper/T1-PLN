@@ -1,0 +1,18 @@
+ID: 10-021
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um analista do TJMS está atualmente engajado na elaboração de um sistema de criptografia. Esse sistema é notável por sua utilização de representações de dados em binário, hexadecimal e decimal, juntamente com a implementação de operações de aritmética computacional. Ao conduzir um teste, o analista identificou um padrão específico para a codificação de mensagens, descrito da seguinte forma: 1. inicialmente, um número na forma decimal é convertido para sua equivalência binária; 2. posteriormente, esse número binário é transformado para o formato hexadecimal; 3. como etapa final, adiciona-se 17 (em decimal) ao resultado hexadecimal obtido. Considerando o número decimal de partida como 254, e levando em conta as transformações para binário e depois para hexadecimal, seguidas pela adição antes da última etapa, o resultado final encontrado pelo analista é:
+
+[ALTERNATIVAS]
+(A) 0x11B;
+(B) 0x10F;
+(C) 0x121;
+(D) 0x117;
+(E) 0x10A.
+
+[GABARITO]
+B

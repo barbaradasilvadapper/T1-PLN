@@ -1,0 +1,18 @@
+ID: 13-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A visualização de dados nos Sistemas de Informação apoia diversas análises de dados. Observe o seguinte gráfico pizza gerado por um código Python, utilizando a biblioteca matplotlib.pyplot. SP RJ MS DF MG No Python, com a biblioteca matplotlib.pyplot, para destacar fatias da pizza, afastando-as do centro, deve-se usar o parâmetro:
+
+[ALTERNATIVAS]
+(A) axis
+(B) explode
+(C) scatter
+(D) startangle
+(E) width marker
+
+[GABARITO]
+B

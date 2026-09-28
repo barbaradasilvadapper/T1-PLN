@@ -1,0 +1,18 @@
+ID: 03-044
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Durante a definição da fase de Melhoria Contínua do Serviço, foi solicitado ao time de Governança de TI da Brasil Eventos, que apresentasse ao conselho administrativo exemplos de interação entre esta e as demais fases do ciclo de vida de um serviço, segundo a ITIL®. Os exemplos abaixo representam saídas das demais fases e ao mesmo tempo são entradas para a fase de Melhoria Contínua do Serviço. Relacione os exemplos com suas respectivas fases: ( ) Relatório de erros conhecidos da central de serviços da Brasil Eventos. ( ) Plano estratégico e a visão e missão da Brasil Eventos. ( ) Catálogo de serviços de TI da Brasil Eventos para seus departamentos internos. ( ) Relatório de Mudanças emergências realizadas ao longo do ano corrente na Brasil Eventos para o departamento de Marketing. 1. Desenho do Serviço 2. Estratégia do Serviço 3. Transição do Serviço 4. Operação do Serviço Analise a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 2, 4, 1 e 3.
+(B) 4, 2, 3 e 1.
+(C) 4, 3, 1 e 2.
+(D) 3, 2, 4 e 3.
+(E) 4, 2, 1 e 3.
+
+[GABARITO]
+E

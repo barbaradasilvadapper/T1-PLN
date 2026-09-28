@@ -1,0 +1,18 @@
+ID: 14-042
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um workflow no github é um processo automatizado e configurável capaz de executar jobs. Com relação aos componentes básicos presentes nos workflows, analise os itens a seguir. I. Event é uma atividade específica em um repositório que aciona a execução do workflow. Por exemplo, uma atividade pode se originar do GitHub quando um usuário cria uma solicitação de pull ou envia um commit para um repositório. II. Job é um conjunto de tarefas que são executadas em um workflow por um ou mais hosts. Cada tarefa é uma ação ou shell script a ser executado na ordem em que foram definidos, sendo dependentes umas das outras. III. Host é um servidor que executa os workflows quando são acionados pelos usuários. Cada host pode executar vários jobs de modo concorrente. O GitHub fornece hosts no Ubuntu Linux, Windows e MacOS. Está correto, o que se afirma em
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

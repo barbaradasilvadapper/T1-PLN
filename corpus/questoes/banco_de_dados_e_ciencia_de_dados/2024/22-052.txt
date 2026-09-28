@@ -1,0 +1,18 @@
+ID: 22-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A companhia aérea Flying to the Moon sabe que o peso das bagagens despachadas por passageiro é uma variável aleatória com média μ=20 kg e desvio padrão σ=5 kg. Em um voo com capacidade máxima de 100 passageiros, todos os assentos estão ocupados. Observações: • Considere que a distribuição da soma pode ser aproximada por uma distribuição normal; Nomeando de Z a variável padronizada (escore-z), utilize a tabela a seguir, se julgar necessário. • A probabilidade de que o peso total das bagagens neste voo exceda 2100 kg, e assim, ultrapasse o limite de segurança estabelecido, é igual a
+
+[ALTERNATIVAS]
+(A) 97,72%
+(B) 50%
+(C) 0,9772%
+(D) 2,28%
+(E) 4,55%
+
+[GABARITO]
+D

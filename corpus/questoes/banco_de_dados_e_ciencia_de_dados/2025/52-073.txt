@@ -1,0 +1,18 @@
+ID: 52-073
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em aplicações modernas de ciência de dados, como reconhecimento de padrões e previsão de comportamento, o aprendizado supervisionado tem se destacado por utilizar conjuntos de dados rotulados para treinar modelos capazes de generalizar para novos exemplos. Assinale a afirmativa que descreve corretamente uma característica fundamental do aprendizado supervisionado em Machine Learning.
+
+[ALTERNATIVAS]
+(A) Modelos supervisionados não utilizam dados rotulados, pois aprendem padrões de forma autônoma com base em agrupamentos naturais.
+(B) Em aprendizado supervisionado, o modelo é treinado com dados de entrada e suas respectivas saídas esperadas, permitindo que ele aprenda a prever rótulos para novos dados.
+(C) O aprendizado supervisionado é ideal apenas para problemas de agrupamento, como segmentação de clientes sem dados prévios.
+(D) A principal vantagem do aprendizado supervisionado é que ele não requer validação ou avaliação do modelo, pois a acurácia é garantida pela presença de rótulos.
+(E) Técnicas supervisionadas não podem ser aplicadas em regressão, sendo utilizadas exclusivamente para problemas de classificação binária.
+
+[GABARITO]
+B

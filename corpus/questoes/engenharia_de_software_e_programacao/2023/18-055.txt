@@ -1,0 +1,18 @@
+ID: 18-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte documento XML. <?xml version="1.0" encoding="UTF-8"?> <itens> <livro> <titulo>Cartilha LGPD</titulo> <preco>10</preco> </livro> <celular> <nome>Celular B</nome> <manual> <livro> <titulo>Manual Celular</titulo> </livro> </manual> </celular> </itens> Para recuperar o título de todos os livros, deve-se usar a expressão xPath:
+
+[ALTERNATIVAS]
+(A) /titulo
+(B) /livro//titulo
+(C) /itens/livro/titulo
+(D) //livro/../titulo
+(E) /itens/..//titulo
+
+[GABARITO]
+E

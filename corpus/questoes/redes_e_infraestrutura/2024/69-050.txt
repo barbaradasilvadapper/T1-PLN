@@ -1,0 +1,18 @@
+ID: 69-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O System Security Services Daemon (SSSD) é um serviço de sistema dos Linux para acessar diretórios remotos e mecanismos de autenticação. O SSSD conecta um sistema local (cliente SSSD) a um sistema back-end externo (domínio). Isso fornece ao cliente SSSD acesso a serviços remotos de identidade e autenticação usando um provedor SSSD. Por exemplo, um diretório LDAP, um domínio de gerenciamento de identidade (IdM) ou Active Directory (AD) ou um domínio Kerberos. O arquivo id_provider ad no diretório /etc/sssd/sssd.conf permite que um provedor de AD lide com domínios confiáveis. Com relação a suas configurações, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) O SSSD oferece suporte apenas a domínios em uma única floresta do AD. Se o SSSD exigir acesso a múltiplos domínios de múltiplas florestas, o administrador deve usar IdM com trusts (preferencial) ou o serviço winbshield em vez de SSSD. ( ) Por padrão, o SSSD descobre todos os domínios na floresta e, se chegar uma solicitação de um objeto em um domínio confiável, o SSSD tenta resolvê-lo. Se os domínios confiáveis não forem acessíveis ou estiverem geograficamente distantes, o que os torna lentos, o administrador poderá definir o ad_domains usando o parâmetro /etc/sssd/sssd.conf para limitar a partir de quais domínios confiáveis o SSSD resolve objetos. ( ) Por padrão, o administrador deve usar nomes de usuários totalmente qualificados para resolver usuários de domínios confiáveis.
+
+[ALTERNATIVAS]
+(A) F – F – F.
+(B) V – V – F.
+(C) V – F – F.
+(D) F – F – V.
+(E) V – V – V.
+
+[GABARITO]
+D

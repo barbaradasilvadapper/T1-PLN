@@ -1,0 +1,18 @@
+ID: 32-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma empresa está se preparando para uma licitação e por isso, todos os seus empregados estão trabalhando para elaborar a proposta a ser apresentada. Ao iniciar mais um dia de trabalho, os empregados constataram que os servidores estavam inacessíveis, impossibilitando-os de trabalhar na proposta. Após ser notificada do fato, a equipe de TI analisou a situação e chegou à conclusão que a empresa sofreu um ataque do tipo Distributed Denial of Service (DDoS). De acordo a NBR ISO/IEC 27005, da ABNT, o objetivo alvo dos atacantes era
+
+[ALTERNATIVAS]
+(A) espionagem.
+(B) pré-posicionamento estratégico.
+(C) Influência.
+(D) desafio.
+(E) obstáculo ao funcionamento.
+
+[GABARITO]
+E

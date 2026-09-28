@@ -1,0 +1,18 @@
+ID: 25-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista José gerencia o servidor LServer que executa RHEL (Red Hat Enterprise Linux). O servidor LServer possui o sistema de controle de acesso nativo do RHEL, o SELinux (Security-Enhanced Linux), habilitado no modo Enforcing. José precisa mapear o usuário local user10 do LServer para um dos usuários SELinux nativos do RHEL de forma que o SELinux restrinja os direitos de acesso do user10 ao mínimo necessário. O user10 prescinde de qualquer acesso como superusuário, mas necessita efetuar login no ambiente gráfico. O acesso à rede do user10 se dá apenas com o uso de navegadores web. Portanto, José deve mapear user10 para o usuário SELinux:
+
+[ALTERNATIVAS]
+(A) user_u;
+(B) staff_u;
+(C) sysadm_u;
+(D) system_u;
+(E) xguest_u.
+
+[GABARITO]
+E

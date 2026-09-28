@@ -1,0 +1,18 @@
+ID: 27-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+André foi contratado pela Defensoria Pública do Estado do Rio Grande do Sul (DPE/RS) para implementar um modelo RAID (Redundant Array of Inexpensive Disks) em seu storage. O objetivo do RAID é proporcionar mais desempenho nas operações de transferência de dados e também mais confiabilidade no armazenamento. A DPE/RS definiu os seguintes critérios de implementação: I. Tolerância a falhas baseada em paridade distribuída entre os discos; II. Bom desempenho e redundância de dados; e III. Desperdiçar menos espaço que o espelhamento. Com base nos critérios definidos pela DPE/RS, André deverá escolher o RAID:
+
+[ALTERNATIVAS]
+(A) 1;
+(B) 2;
+(C) 3;
+(D) 4;
+(E) 5.
+
+[GABARITO]
+E

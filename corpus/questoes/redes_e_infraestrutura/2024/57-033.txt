@@ -1,0 +1,18 @@
+ID: 57-033
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um sistema de gestão de documentos administrativos possui o plano de backup a seguir, com a execução das cópias dos dados, realizadas sempre às 23:00 do dia, com RPO (Recovery Point Object) de 24 horas. O backup completo possui duração de 240 minutos e o backup diferencial, de 25 minutos. • Dia 1 – backup completo • Dia 2 – backup diferencial • Dia 3 – backup diferencial • Dia 4 – backup diferencial No dia 5, o administrador do sistema identificou uma invasão no servidor que acarretou o comprometimento dos dados a partir de 22:15h do dia 4. Para recuperar o sistema, o administrador instalou um novo servidor e precisou restaurar o backup íntegro e mais atualizado anterior à invasão, que atendesse ao RPO definido. Para atender aos requisitos de recuperação do sistema, o administrador restaurou sequencialmente os backups dos dias:
+
+[ALTERNATIVAS]
+(A) Dia 1 + Dia 2 + Dia 3 + Dia 4;
+(B) Dia 1 + Dia 2 + Dia 3;
+(C) Dia 1 + Dia 2;
+(D) Dia 1 + Dia 3;
+(E) Dia 1 + Dia 4.
+
+[GABARITO]
+D

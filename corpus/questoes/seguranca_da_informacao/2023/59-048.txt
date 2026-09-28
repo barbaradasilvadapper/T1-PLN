@@ -1,0 +1,18 @@
+ID: 59-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+As redes sem fio em ambiente corporativo possuem diversas vantagens quando comparadas com a rede cabeada. Por outro lado, o uso de access point torna a rede mais vulnerável a ataques cibernéticos, como, por exemplo, a negação de serviço (DoS). O ataque do tipo DoS consiste em:
+
+[ALTERNATIVAS]
+(A) andar pela cidade procurando redes sem fio vulneráveis;
+(B) escutar o tráfego de dados que está passando por um ponto de acesso;
+(C) descobrir as credenciais de acesso à rede sem fio a partir da força bruta;
+(D) instalar um ponto de acesso falso na rede, de tal forma que o usuário se conecte indevidamente a ele;
+(E) emitir um sinal interferente na frequência de operação e próximo ao access point com o objetivo de deixar o dispositivo inoperante.
+
+[GABARITO]
+E

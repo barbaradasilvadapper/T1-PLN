@@ -1,0 +1,18 @@
+ID: 71-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um administrador de redes precisa utilizar o comando nslookup do Windows Server 2022, o comando exibe informações que podem ser usadas para diagnosticar a infraestrutura do Sistema de Nomes de Domínio (DNS). Considerando essa hipótese, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) A ferramenta de linha de comando nslookup possui dois modos: interativo e não interativo. Se o administrador precisar procurar apenas um único dado ou estiver usando nslookup em scripts, linhas de comando ou PowerShell, então deve usar o modo não interativo. ( ) No modo não interativo do nslookup, o primeiro parâmetro é o computador a ser localizado e o segundo parâmetro é o servidor de nomes DNS a ser usado. Se o administrador do sistema não especificar um segundo parâmetro, o nslookup usará o servidor de nomes DNS padrão. ( ) Se como administrador ele digitar “nslookup –” ou “nslookup” sozinho numa janela de terminal, o prompt de comando mudará para o prompt interativo >. No modo interativo, ele poderá: inserir nomes ou endereços IP, setar variáveis e outras opções em linhas separadas, além de interromper comandos interativos a qualquer momento pressionando CTRL+B.
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) V – V – F.
+(C) V – V – V.
+(D) F – F – F.
+(E) F – V – V.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 75-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O DAMA-DMBOK2 apresenta uma visão abrangente dos desafios, complexidades e valor do gerenciamento eficaz de dados nas corporações. Os tipos de modelos operacionais de governança de dados discutidos no DAMA-DMBOK2 são
+
+[ALTERNATIVAS]
+(A) startup e avançado.
+(B) on premises e on cloud.
+(C) ad hoc e orientado a negócio.
+(D) centralizado, replicado e federado.
+(E) ad hoc, startup, distribuído e orientado a negócio.
+
+[GABARITO]
+D

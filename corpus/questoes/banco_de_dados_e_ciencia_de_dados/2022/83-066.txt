@@ -1,0 +1,18 @@
+ID: 83-066
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto da implementação de tecnologias para data mining e apresentação de dados, a sigla ETL refere-se
+
+[ALTERNATIVAS]
+(A) ao processamento de transações on line em ambientes de produção.
+(B) ao processo de identificação de dados e relacionamentos numa interface de exploração de dados.
+(C) aos processos de criação de índices full text.
+(D) aos processos de extração, transformação e carga de dados.
+(E) às manobras para visualização de dados sobre cubos dimensionais.
+
+[GABARITO]
+D

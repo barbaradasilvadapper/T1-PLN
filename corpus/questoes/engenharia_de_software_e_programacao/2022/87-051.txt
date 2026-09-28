@@ -1,0 +1,18 @@
+ID: 87-051
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código JavaScript exibido a seguir. var numeros = [4,9,16]; var xpto = numeros.map(function(num) { return num << 2; }); Após a execução desse trecho de código, os valores de numeros e xpto são, respectivamente:
+
+[ALTERNATIVAS]
+(A) undefined [16,36,64]
+(B) [4,9,16] [16,36,64]
+(C) null [0,1,4]
+(D) [4,9,16] Null
+(E) [16,36,64] Undefined
+
+[GABARITO]
+B

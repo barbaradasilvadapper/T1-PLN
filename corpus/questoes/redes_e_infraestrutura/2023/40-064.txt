@@ -1,0 +1,18 @@
+ID: 40-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A arquitetura de firewall da empresa APP.TI utiliza uma sub-rede para isolar a rede interna e a internet. Essa é uma arquitetura de firewall do tipo:
+
+[ALTERNATIVAS]
+(A) Packet Filter;
+(B) Screened Host;
+(C) Screened Subnet;
+(D) Dual-Homed Host;
+(E) Stateful Inspection.
+
+[GABARITO]
+C

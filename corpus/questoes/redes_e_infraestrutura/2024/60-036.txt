@@ -1,0 +1,18 @@
+ID: 60-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Apolo, analista de suporte de TI, está diante do desafio de implementar um sistema de compartilhamento de arquivos entre servidores que operam sob os sistemas Linux e Windows no TJMS. Sua principal meta é assegurar uma integração eficiente e compatível entre esses sistemas operacionais distintos. Para alcançar esse objetivo, ele precisa selecionar um protocolo de compartilhamento de arquivos adequado. Para tal finalidade, Apolo deve escolher o protocolo:
+
+[ALTERNATIVAS]
+(A) SSH;
+(B) SNMP;
+(C) FTP;
+(D) RDP;
+(E) CIFS.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 30-031
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O analista de infraestrutura César é responsável pela implementação de acesso remoto à rede corporativa do Tribunal de Justiça. César está analisando o protocolo de rede IPSec, comumente utilizado nessas conexões. Sobre as características do IPSec, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) por ser um protocolo da camada Internet, é não orientado a conexões;
+(B) seus serviços incluem a codificação do cabeçalho, mas não o sigilo da carga útil;
+(C) seus serviços incluem a autenticidade dos dados, mas não a integridade dos dados;
+(D) seus serviços incluem o acordo criptográfico e a autenticação de origem;
+(E) no modo túnel, o pacote IP, com exceção do cabeçalho, é encapsulado no corpo de um novo pacote.
+
+[GABARITO]
+D

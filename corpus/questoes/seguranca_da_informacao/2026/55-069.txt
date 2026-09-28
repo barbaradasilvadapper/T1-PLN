@@ -1,0 +1,18 @@
+ID: 55-069
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No complexo e conectado ambiente de serviços disponíveis na rede mundial, garantir a autenticidade de um usuário para que possa acessar apenas os conteúdos a ele disponíveis é um processo fundamental. Com a proliferação da necessidade de se autenticar a cada interação, surgiu a tecnologia de Single-Sign on (SSO). Assim sendo, o SSO é
+
+[ALTERNATIVAS]
+(A) uma solução integradora, que permite que um servidor autentique diversos usuários para acessá-lo simultaneamente.
+(B) uma instanciação do Keycloak, protocolo de autenticação remota padronizada pela RFC 6749.
+(C) um serviço que reduz o número de autenticações em múltiplos sistemas.
+(D) um processo que garante autenticação segura com apenas um fator.
+(E) uma tecnologia que deve ser instalada em um servidor singular da rede, para acesso remoto de vários sistemas a esse servidor.
+
+[GABARITO]
+C

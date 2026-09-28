@@ -1,0 +1,18 @@
+ID: 74-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Domain-Driven Design (DDD) é uma abordagem para o desenvolvimento de software que enfatiza a colaboração entre desenvolvedores e especialistas do domínio para criar soluções de software que são fortemente alinhadas com as necessidades e complexidades do domínio do problema. Assinale a opção que melhor descreve o conceito central de Domain-Driven Design (DDD).
+
+[ALTERNATIVAS]
+(A) Domain-Driven Design (DDD) foca na criação de interfaces de usuário sofisticadas e interativas para melhorar a experiência do usuário.
+(B) Domain-Driven Design (DDD) é uma abordagem que se concentra na modelagem e na solução de problemas complexos por meio da colaboração estreita com especialistas do domínio e da construção de um modelo de domínio rico e expressivo.
+(C) Domain-Driven Design (DDD) prioriza a eficiência na performance do banco de dados ao criar modelos de dados altamente normalizados e otimizados.
+(D) Domain-Driven Design (DDD) enfatiza o uso de frameworks e bibliotecas de terceiros para acelerar o desenvolvimento de software.
+(E) Domain-Driven Design (DDD) se concentra principalmente na implementação de testes automatizados para garantir a qualidade do código.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 82-030
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+As primeiras abordagens no processo de desenvolvimento de software estavam fortemente centradas na funcionalidade e no desempenho, com pouca preocupação com a legibilidade e a manutenção do código. Com o avanço das práticas de engenharia de software, especialmente a partir da adoção da programação estruturada e, posteriormente, da programação orientada a objetos, passou-se a valorizar a organização, a modularização e a clareza do código. Com isso, surgiram princípios e práticas voltados à melhoria da qualidade interna do software, como o Clean Code, que tem como objetivo tornar o código mais compreensível, coeso e de fácil manutenção. Com base nesse contexto, analise as afirmativas a seguir. I. As funções devem concentrar o maior número possível de operações, a fim de evitar fragmentação do código e melhorar a eficiência. II. A escrita de código limpo prioriza a legibilidade e a facilidade de manutenção, considerando que o código será frequentemente lido por outros desenvolvedores. III. O uso de nomes significativos para variáveis e funções contribui para a compreensão do código, reduzindo a necessidade de comentários explicativos.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 16-029
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando a especificação oficial do GraphQL, analise a operação a seguir, elaborada por uma equipe para consultas de clientes e pedidos em uma API. query BuscarCliente($id: ID!, $limite: Int = 10) { c1: cliente(id: $id) { id nome pedidos(limite: $limite) { total itens } } c2: cliente(id: $id) { id nome } } Com base no código e nas regras da linguagem, avalie as afirmativas a seguir. I. Os aliases c1 e c2 definem nomes distintos, na resposta, para duas seleções de consulta ao mesmo cliente. II. Se o campo itens for do tipo objeto ou lista de objetos, a operação será inválida por faltar subseleção para esse campo. III. Caso a variável $limite não seja informada na execução da operação, será usado o valor padrão 10 .
+
+[ALTERNATIVAS]
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

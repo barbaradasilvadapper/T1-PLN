@@ -1,0 +1,18 @@
+ID: 03-049
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Durante o processo de construção de software, a metodologia de Desenvolvimento Orientado a Testes é muito aplicada. A ordem utilizada na prática do TDD é
+
+[ALTERNATIVAS]
+(A) escrever a funcionalidade após escrever os testes unitários e, por fim, refatorar o código implementado.
+(B) escrever os testes unitários após escrever a funcionalidade e, por fim, refatorar o código implementado.
+(C) escrever a funcionalidade após refatorar o código implementado e por fim escrever os testes unitários.
+(D) escrever os testes unitários após escrever a funcionalidade e, por fim, escrever os testes de integração.
+(E) escrever os testes de integração após escrever a funcionalidade e, por fim, refatorar o código.
+
+[GABARITO]
+A

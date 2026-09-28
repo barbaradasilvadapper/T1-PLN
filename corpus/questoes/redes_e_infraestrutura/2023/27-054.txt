@@ -1,0 +1,18 @@
+ID: 27-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Carlos instalou na DPE/RS o roteador IntraRouter. O IntraRouter efetua o roteamento de pacotes entre as redes internas da Defensoria, através do protocolo Open Shortest Path First (OSPF). A fim de orientar o IntraRouter a priorizar o tráfego pelos enlaces com maior largura de banda, Carlos reconfigurou o roteador, atribuindo, para cada enlace, um peso numérico positivo e inversamente proporcional à largura de banda do enlace. A reconfiguração de pesos no IntraRouter, feita por Carlos, devese ao fato de o OSPF ser baseado no algoritmo de:
+
+[ALTERNATIVAS]
+(A) Dijkstra;
+(B) Bellman-Ford;
+(C) Busca em largura;
+(D) Busca bidirecional;
+(E) Busca em profundidade.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 14-051
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em Inteligência Artificial existem diversos tipos de aprendizado sendo que cada um possui características e aplicações. Com relação aos tipos de aprendizado, analise os itens a seguir. I. No aprendizado não supervisionado, o agente aprende a partir de padrões na entrada, mesmo que nenhum feedback explícito tenha sido fornecido anteriormente, sendo empregadas como as técnicas mais comuns a regressão e a classificação. II. No aprendizado acelerado, o agente usa grandes modelos de linguagens pré-existentes e aprende a partir de série de contribuições de uma rede semântica composta por conceitos, recompensas ou punições. Por exemplo, a falta de gorjeta no final da viagem dá ao agente uma indicação de que fez algo errado, cabe ao agente decidir quais das ações anteriores a contribuição foram mais responsáveis por ele. III. No aprendizado supervisionado, o agente observa e analisa alguns pares de dados rotulados de entrada-saída como exemplo e aprende uma função que faz o mapeamento da entrada para a saída. Está correto, o que se afirma em
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+C

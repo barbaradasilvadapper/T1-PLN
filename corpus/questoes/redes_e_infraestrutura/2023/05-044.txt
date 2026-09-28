@@ -1,0 +1,18 @@
+ID: 05-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ana trabalha na empresa X, que presta serviço de Tecnologia da Informação à DPE/RS. Durante o funcionamento do site da Defensoria, notou a ocorrência de deadlock. Ana iniciou uma investigação para identificar a tarefa que ocasionou o deadlock. A atividade executada pela aplicação que ocasionou o deadlock foi:
+
+[ALTERNATIVAS]
+(A) um processo de update da aplicação que corrompeu um dado no banco de dados, impedindo o acesso ao banco;
+(B) o excesso de processos enviados para a execução em memória principal, causando lentidão;
+(C) a execução de alguns processos, em background, que não liberavam recursos para a inicialização de outras tarefas;
+(D) o uso compartilhado dos recursos causando lentidão ao sistema para o controle de alterações;
+(E) o bloqueio de um usuário em virtude de ter esgotado a quantidade de erro de senha durante o processo de autenticação.
+
+[GABARITO]
+C

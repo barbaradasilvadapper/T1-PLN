@@ -1,0 +1,18 @@
+ID: 13-043
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João é analista de banco de dados do MPU e precisa analisar as consultas que estão impactando o desempenho do banco de dados BDProc no PostgreSQL. Para isso, ele decidiu escrever as consultas SQL como expressões da álgebra relacional. Observe a consulta SQL a seguir. SELECT processo_id FROM Processos WHERE autor = “Maria” AND situacao = “Ativo” Na álgebra relacional, a expressão correspondente que João deve escrever é:
+
+[ALTERNATIVAS]
+(A) 𝜋 autor, situacao (𝜎 processo_id=(Processos, “Maria”, “Ativo”) )
+(B) 𝜋 processo_id (𝜎 autor = “Maria” ∧ situacao = “Ativo” (Processos) )
+(C) 𝜎 processo_id(Processos) (𝜋 autor = “Maria”, situacao = “Ativo”) )
+(D) 𝜎 (autor = “Maria” ∩ situacao = “Ativo”, processo_id (Processos) )
+(E) (autor = “Maria” ∪ situacao = “Ativo”) ⋈ ( 𝜋 processo_id (Processos))
+
+[GABARITO]
+B

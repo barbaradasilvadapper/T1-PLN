@@ -1,0 +1,18 @@
+ID: 34-062
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em um ambiente MySQL InnoDB com alta carga transacional OLTP, o DBA está otimizando parâmetros de configuração. Sobre ajustes de performance no MySQL InnoDB, analise as afirmativas: I. O parâmetro innodb_buffer_pool_size deve ser configurado para aproximadamente 70-80% da RAM em servidores dedicados. II. Configurar innodb_flush_log_at_trx_commit=2 oferece bom equilíbrio entre performance e durabilidade, gravando no OS cache a cada commit. III. O tamanho de innodb_log_file_size deve ser suficiente para aproximadamente 1-2 horas de atividade de escrita.
+
+[ALTERNATIVAS]
+(A) I, apenas
+(B) II, apenas
+(C) I e III, apenas
+(D) I, II e III
+(E) II e III, apenas
+
+[GABARITO]
+D

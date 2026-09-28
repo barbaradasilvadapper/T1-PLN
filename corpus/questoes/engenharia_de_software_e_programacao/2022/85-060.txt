@@ -1,0 +1,18 @@
+ID: 85-060
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um documento XML é considerado bem formado quando segue as regras de sintaxe estabelecidas na especificação da linguagem. A alternativa que apresenta um documento XML bem formado é:
+
+[ALTERNATIVAS]
+(A) <Letra> eh uma tag igual a </letra>
+(B) <p>Este eh um paragrafo comum.</p>
+(C) <!--Este eh um -- comentario padrao -->
+(D) <mensagem>salario < 1000</mensagem>
+(E) <b><i>Este texto eh negrito e italico</b></i>
+
+[GABARITO]
+B

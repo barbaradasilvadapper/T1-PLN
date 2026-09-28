@@ -1,0 +1,18 @@
+ID: 80-038
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Gisele, uma analista do judiciário, necessita alterar os scripts de inicialização e shutdown de um servidor de aplicação Tomcat. Sabe-se que a configuração do Tomcat versão 11 usou os diretórios padrão indicados pelo programa instalador. O diretório que contém esses scripts é o
+
+[ALTERNATIVAS]
+(A) /bin.
+(B) /init.
+(C) /config.
+(D) /scripts.
+(E) /webapps.
+
+[GABARITO]
+A

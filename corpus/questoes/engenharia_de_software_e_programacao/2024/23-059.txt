@@ -1,0 +1,17 @@
+ID: 23-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Existem várias técnicas de teste de software, cada uma com seus próprios objetivos e métodos específicos. Relacione os testes de software listados a seguir, às suas respectivas definições. 1. Teste Funcional 2. Teste de Conformidade 3. Teste de Caixa Preta 4. Teste de Desempenho ( ) Avalia como o sistema se comporta em termos de velocidade, escalabilidade e estabilidade sob diferentes condições de carga. ( ) Testa o software sem conhecimento interno da lógica ou estrutura do código, focando nos requisitos e funcionalidades visíveis. ( ) Verifica se as funções do software estão operando conforme esperado. Isso pode incluir testes de casos de uso, fluxos de trabalho e requisitos funcionais. ( ) Verifica se o software atende a padrões, regulamentos e requisitos legais. Assinale a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 2 – 4 – 3 – 1.
+(B) 2 – 1 – 3 – 4.
+(C) 4 – 3 – 1 – 2.
+(D) 4 – 2 – 1 – 3.
+
+[GABARITO]
+C

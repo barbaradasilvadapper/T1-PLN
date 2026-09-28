@@ -1,0 +1,18 @@
+ID: 22-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere o seguinte cenário: Uma empresa de telecomunicações está analisando os dados de uso de seus clientes, como frequência de chamadas, uso de dados móveis e envio de mensagens. Ela quer identificar grupos de clientes com comportamentos semelhantes para oferecer promoções personalizadas. Em uma escolha por uma solução de aprendizado de máquina, o cientista de dados deve observar que, se o aprendizado for
+
+[ALTERNATIVAS]
+(A) híbrido, congregará as características dos modelos supervisionado e não supervisionado, em um modelo ensemble.
+(B) não supervisionado oferecerá opções como os algoritmos back propagation, K-means e C4.5.
+(C) não supervisionado demandará uma fase de pósprocessamento que envolve visualização e análise do modelo.
+(D) supervisionado considerará a abstração de um modelo de conhecimento da forma (entrada, saída desejada).
+(E) supervisionado, os algoritmos partirão dos dados, buscando relacionamento entre eles.
+
+[GABARITO]
+D

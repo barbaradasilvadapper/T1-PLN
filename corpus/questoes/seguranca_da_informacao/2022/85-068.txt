@@ -1,0 +1,18 @@
+ID: 85-068
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A analista Ana instalou o sistema de segurança de rede ASec no TCE/TO. O ASec objetiva interromper automaticamente ataques distribuídos de negação de serviço ao observar o tráfego de toda a rede a fim de detectar e bloquear fluxos de tráfego incomuns. Sendo assim, ASec é caracterizado como um sistema de segurança de rede do tipo:
+
+[ALTERNATIVAS]
+(A) Network Intrusion Detection System;
+(B) Host Intrusion Detection System;
+(C) Host Intrusion Prevention System;
+(D) Network Behavior Analysis;
+(E) Security Information and Event Management.
+
+[GABARITO]
+D

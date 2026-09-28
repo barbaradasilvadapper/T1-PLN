@@ -1,0 +1,18 @@
+ID: 02-058
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de desenvolvimento de sistemas de um tribunal de contas está encarregada de aprimorar o desempenho dos serviços Web e das aplicações de rede, que estão, de forma indesejada, constantemente inacessíveis. Nesse cenário, a fim de aliviar o problema com uma ação direta, a equipe deve:
+
+[ALTERNATIVAS]
+(A) usar a aplicação nginx como proxy reverso para o Apache;
+(B) configurar o servidor de aplicação WildFly em modo de cluster com subsistema de cache tipo Infinispan;
+(C) atualizar a tecnologia de endereçamento dinâmico, de DHCPv4 para DHCPv6;
+(D) trocar o servidor de aplicação Tomcat pelo JBoss para possibilitar uma configuração em modo de cluster;
+(E) implantar o padrão DNSSEC na resolução de nomes de domínios das aplicações.
+
+[GABARITO]
+B

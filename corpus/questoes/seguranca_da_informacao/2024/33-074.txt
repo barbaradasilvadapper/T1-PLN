@@ -1,0 +1,18 @@
+ID: 33-074
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O gerente de recursos humanos está organizando uma atividade institucional que contará com a presença de familiares dos servidores do órgão. Para fins de controle de acesso e organização do evento, será necessário registrar o nome, idade e CPF de todos. Além disso, a atividade contará com o apoio da equipe de marketing, que divulgará, após o seu término, uma notícia com fotos do evento na página de Internet da instituição. O gerente de recursos humanos solicita ao encarregado pelo tratamento de dados pessoais que o oriente sobre como proceder para coletar dados pessoais de crianças que venham a participar do evento. O encarregado esclarece corretamente que, nos termos da Lei Geral de Proteção de Dados Pessoais, deverá ser solicitado o consentimento:
+
+[ALTERNATIVAS]
+(A) expresso e em destaque, dado pelo responsável legal;
+(B) expresso e em destaque, dado por ambos os pais ou responsável legal;
+(C) específico e em destaque, dado pelo servidor que acompanhará a criança no evento;
+(D) expresso e em destaque, dado por pelo menos um dos pais ou responsável legal;
+(E) específico, em destaque, dado por pelo menos um dos pais ou responsável legal.
+
+[GABARITO]
+E

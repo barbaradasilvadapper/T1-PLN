@@ -1,0 +1,18 @@
+ID: 44-086
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de seguranca tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Common Vulnerabilities and Exposure CVE-2017-0144 permite que invasores remotos executem códigos arbitrários por meio de uma vulnerabilidade do protocolo de compartilhamento de arquivos de algumas versões do sistema operacional Windows. Assinale a opção que apresenta o protocolo de compartilhamento utilizado, por padrão, pelos sistemas operacionais Windows vulneráveis e que fora alvo da vulnerabilidade CVE-2017-0144.
+
+[ALTERNATIVAS]
+(A) FTP (File Transfer Protocol).
+(B) SFTP (Secure File Tranfer Protocol).
+(C) SMB (Server Message Block).
+(D) SCP (Secure Copy Protocol).
+(E) NFS (Network File System).
+
+[GABARITO]
+C

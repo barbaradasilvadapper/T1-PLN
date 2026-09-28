@@ -1,0 +1,18 @@
+ID: 15-054
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A área de integração de sistemas da ALEGO está modernizando sua arquitetura de dados e precisa definir o padrão para troca de informações entre as novas aplicações internas e serviços externos. A equipe busca um formato leve, amplamente utilizado em APIs modernas e facilmente interpretado por diferentes linguagens de programação. Durante a reunião de avaliação técnica, surge o seguinte questionamento: no processo de padronização da comunicação entre sistemas, a equipe considera utilizar JSON para troca de informações. Assinale a alternativa que descreve corretamente esse formato:
+
+[ALTERNATIVAS]
+(A) JSON é uma linguagem de marcação hierárquica baseada em tags, semelhante ao XML.
+(B) JSON é um protocolo de comunicação que define regras completas de transmissão de mensagens entre servidores.
+(C) JSON é um banco de dados orientado a documentos, usado para armazenar coleções de dados de forma persistente.
+(D) JSON é um formato leve de troca de dados baseado em pares de chave-valor, amplamente utilizado em integrações web modernas.
+(E) JSON é uma linguagem de programação voltada ao desenvolvimento de aplicações web e móveis.
+
+[GABARITO]
+D

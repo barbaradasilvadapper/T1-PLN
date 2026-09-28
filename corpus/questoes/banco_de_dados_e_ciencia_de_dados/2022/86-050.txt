@@ -1,0 +1,18 @@
+ID: 86-050
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Analise o comando a seguir. SELECT * FROM T1 FULL OUTER JOIN T2 ON T1.A=T2.A Sabe-se que a coluna A foi definida como chave primária tanto em T1 como em T2, e que T1 e T2 contêm, respectivamente, 20 e 30 linhas. Assinale a opção que apresenta a estimativa do número de linhas produzidas pela execução do comando acima.
+
+[ALTERNATIVAS]
+(A) 20, exatamente.
+(B) 30, exatamente.
+(C) 600, exatamente.
+(D) Entre 20 e 30.
+(E) Entre 30 e 50.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 18-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe o seguinte script de criação da tabela “Empresa” e outros objetos em Oracle: CREATE TABLE empresa ( empresa_ID NUMBER(12) PRIMARY KEY, razao_social VARCHAR2(50) NOT NULL ); CREATE SEQUENCE sq_empresa_pk START WITH 2 INCREMENT BY 2 NOMAXVALUE NOCACHE NOCYCLE; CREATE OR REPLACE TRIGGER trg_bi_empresa BEFORE INSERT ON empresa FOR EACH ROW WHEN (NEW.empresa_ID IS NULL) BEGIN SELECT sq_empresa_pk.NEXTVAL INTO :NEW.empresa_ID FROM dual; END; Após a execução do script anteriormente apresentado, analise a execução dos seguintes comandos: VALUES (NULL, 'AAA'); INSERT INTO empresa (razao_social) VALUES ('BBB'); VALUES (1, 'CCC'); VALUES (5, 'DDD'); VALUES (6, 'EEE'); INSERT INTO empresa (razao_social) VALUES ('FFF'); COMMIT; Após a execução dos comandos apresentados, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) foram inseridas 6 (seis) linhas e o número final para sq_empresa_pk.CURRVAL é igual a 6 (seis);
+(B) nenhuma linha pode ser inserida e o número final para sq_empresa_pk.CURRVAL é igual a 2 (dois);
+(C) foram inseridas 5 (cinco) linhas e o número final para sq_empresa_pk.CURRVAL é igual a 6 (seis);
+(D) foram inseridas 5 (cinco) linhas e o número final para sq_empresa_pk.CURRVAL é igual a 4 (quatro);
+(E) foram inseridas 4 (quatro) linhas e o número final para sq_empresa_pk.CURRVAL é igual a 4 (quatro).
+
+[GABARITO]
+C

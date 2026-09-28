@@ -1,0 +1,1202 @@
+GOVERNO DO ESTADO DO AMAPÁ
+SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+(EDITAL Nº 003/2022)
+PERITO CRIMINAL, PERITO ODONTOLEGISTA, PAPILOSCOPISTA,
+TÉCNICO PERICIAL E AUXILIAR TÉCNICO PERICIAL
+SUA PROVA
+
+Além deste caderno contendo 60 (sessenta)
+questões objetivas e 1 (uma) questão discursiva,
+você receberá do fiscal de prova o cartão-
+resposta e a folha de texto definitivo.
+
+TEMPO
+
+Você dispõe de 4 (quatro) horas e 30 (trinta)
+minutos para a realização da prova, já incluído o
+tempo para a marcação do cartão-resposta e o
+preenchimento da folha de texto definitivo.
+
+2 (duas) horas após o início da prova é possível
+retirar-se da sala, sem levar o caderno de
+questões.
+ A partir dos 30 minutos anteriores ao término da
+prova é possível retirar-se da sala levando o
+caderno de questões.
+NÃO SERÁ PERMITIDO
+
+Qualquer tipo de comunicação entre
+candidatos durante a aplicação da prova.
+os
+
+Anotar informações relativas às respostas em
+qualquer outro meio que não seja o caderno de
+questões.
+
+Levantar da cadeira sem autorização do fiscal de
+sala.
+
+Usar o sanitário ao término da prova, após deixar
+a sala.
+MANHÃ
+P ERITO C RIMINAL
+N ÍVEL S UPERIOR T IPO 1 – B RANCA
+INFORMAÇÕES GERAIS
+
+Verifique se seu caderno de questões está completo,
+sem repetição de questões ou falhas. Caso contrário,
+notifique imediatamente o fiscal da sala, para que
+sejam tomadas as devidas providências.
+
+Confira seus dados pessoais, especialmente nome,
+número de inscrição e documento de identidade e leia
+atentamente as instruções para preencher o cartão-
+resposta e a folha de texto definitivo.
+
+Use somente caneta esferográfica, fabricada em
+material transparente, com tinta preta ou azul.
+
+Assine
+seu
+reservado(s).
+nome
+apenas
+no(s)
+espaço(s)
+
+Confira seu cargo, cor e tipo do caderno de questões.
+Caso tenha recebido caderno de cargo ou cor ou tipo
+diferente do impresso em seu cartão-resposta e em
+sua folha de texto definitivo, o fiscal deve ser
+obrigatoriamente informado para o devido registro
+na ata da sala.
+
+Reserve tempo suficiente para o preenchimento do
+seu cartão-resposta e da sua folha de texto definitivo.
+O preenchimento é de sua responsabilidade e não
+será permitida a troca do cartão-resposta e da folha
+de texto definitivo em caso de erro do candidato.
+
+Para fins de avaliação, serão levadas em consideração
+apenas as marcações realizadas no cartão-resposta e
+na folha de texto definitivo.
+
+A FGV coletará as impressões digitais dos candidatos
+na lista de presença.
+
+Os candidatos serão submetidos ao sistema de
+detecção de metais quando do ingresso e da saída de
+sanitários durante a realização das provas.
+
+Boa sorte!
+C IÊNCIA DA C OMPUTAÇÃO
+A NALISTA DE S ISTEMA
+
+
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+Língua Portuguesa
+1
+Assinale a frase abaixo em que a preposição DE é uma exigência
+de um termo anterior (valor gramatical).
+(A) Se eu vi além dos outros, é porque eu estava sobre o ombro
+de gigantes.
+(B) Nunca subestime a capacidade de um homem de subestimar
+uma mulher.
+(C) Não aceite carona de homens estranhos e lembre-se de que
+todos os homens são estranhos.
+(D) A única maneira de ter amigos é ser amigo.
+(E) As más companhias são como um mercado de peixes; acaba-
+se acostumando com o mau cheiro.
+2
+A maioria das palavras mostra vários significados (polissemia), o
+que também ocorre com as preposições. Indique a frase em que
+a preposição DE tem o valor de “finalidade”.
+(A) A glória é como o vagalume: brilha de longe, mas vista de
+perto, não dá luz nem calor.
+(B) A melhor coisa que existe na televisão é o botão de desligar.
+(C) Moda é uma forma de feiura tão intolerável que precisamos
+alterá-la a cada seis meses.
+(D) Serviço de emergência disponível só com 24 horas de
+antecedência.
+(E) Existem dois tipos de esparadrapo: os que não grudam e os
+que não saem.
+3
+Assinale a frase abaixo que não mostra uma contradição lógica.
+(A) Eu adoro surpresas, desde que eu esteja pronto para elas.
+(B) Não há nada permanente exceto a mudança.
+(C) Há três coisas certas na vida: a morte, o erro e o imprevisto.
+(D) Eu disse um milhão de vezes para você não exagerar.
+(E) Pretendia me suicidar e quase me matei.
+4
+Assinale a frase a seguir em que as duas palavras sublinhadas
+mostram o mesmo sentido.
+(A) Seja paciente no trânsito para não ser paciente no hospital.
+(B) Você tem que ter muita paciência para aprender a ter
+paciência.
+(C) Na prosperidade nossos amigos nos conhecem; na
+adversidade nós conhecemos nossos amigos.
+(D) A única maneira de ter amigos é ser amigo.
+(E) O segredo de um casamento feliz permanece em segredo.
+5
+A narrativa traz uma sequência de ações ou acontecimentos;
+assinale a frase abaixo que mostra uma sequência de ações.
+(A) Choveu muito e as estradas ficaram alagadas.
+(B) Com o tremor, prédios desabaram e as ruas ficaram com
+crateras.
+(C) A dobradiça soltou da moldura e a porta caiu.
+(D) Assaltaram o banco da cidade e desapareceram.
+(E) Com o choque, a mesa desabou e a louça partiu.
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+6
+Observe o seguinte trecho narrativo:
+“No último verão, eu dormia com a janela aberta. Despertando,
+liguei o rádio da cabeceira para ouvir música nos primeiros
+minutos do dia. E a música cresce, viva, fresca, endiabrada. Em
+seguida minha atenção foi despertada por um barulho que surge
+no teto na direção de minha cabeça. Pássaros, de tamanho sem
+dúvida respeitável, brigam e se insultam com força. O barulho
+aumenta, e eu tento adivinhar as unhas das patas escorregando
+sobre o telhado. Finalmente, um conjunto de penas eriçadas bate
+sobre a beira de minha janela e cai dentro do quarto. Dois
+gaviões assustados se separam e num movimento comum
+retomam pela janela o caminho da liberdade. Nesse momento, os
+últimos acordes da música se extinguem e o locutor anuncia:
+‘Vocês acabam de ouvir a abertura de O pássaro ladrão, de
+Rossini’. Eu sorri sob os lençóis”.
+As narrativas apresentam geralmente um esquema de cinco
+partes; tendo por base a narrativa acima, assinale a parte da
+narrativa que não exemplifica totalmente a parte indicada.
+(A) Estado inicial da narrativa, com a definição do lugar, do
+tempo e dos personagens: “No último verão, eu dormia com
+a janela aberta”.
+(B) Um acontecimento perturbador mexe com o estado inicial:
+“Em seguida minha atenção foi despertada por um barulho
+que surge no teto na direção de minha cabeça”.
+(C) Uma sequência de transformações modifica a situação do
+personagem: “Pássaros, de tamanho sem dúvida respeitável,
+brigam e se insultam com força. O barulho aumenta, e eu
+tento adivinhar as unhas das patas escorregando sobre o
+telhado. Finalmente, um conjunto de penas eriçadas bate
+sobre a beira de minha janela e cai dentro do quarto. Dois
+gaviões assustados se separam e num movimento comum
+retomam pela janela o caminho da liberdade”.
+(D) Um acontecimento equilibrador restabelece o estado inicial:
+“Nesse momento, os últimos acordes da música se extinguem
+e o locutor anuncia: ‘Vocês acabam de ouvir a abertura de
+O pássaro ladrão, de Rossini’”.
+(E) Apresentação de um estado final, feliz o infeliz: “Eu sorri sob
+os lençóis”.
+7
+Em todas as opções abaixo, as frases foram reescritas de modo a,
+mantendo-se o sentido, eliminar o advérbio “não”.
+Assinale a frase em que isso foi feito de modo adequado.
+(A) Não me lembro do que ele morreu. Só me lembro que não
+era nada sério / que eu desconhecia a doença.
+(B) O maior delito que você comete é o suicídio, porque é o único
+que não permite arrependimento / evita o pecado.
+(C) Os homens não seguem aqueles que estão em dúvida / se
+orientam por aqueles que estão seguros.
+(D) Nunca superestime a decência humana / Sempre subestime a
+decência humana.
+(E) A mulher fala sempre de sua idade, mas não a diz nunca /
+mas sempre a esconde.
+
+Tipo Branca – Página 3
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+8
+Observe o seguinte texto:
+“A delicadeza do governo contribui maravilhosamente para a
+propagação da espécie. Todas as repúblicas são uma prova disso,
+e, mais que todas, a Suíça e a Holanda, que são os piores países
+da Europa, se levamos em conta a natureza do terreno, e que,
+entretanto, são os mais populosos”. (Montesquieu)
+Sobre a estrutura argumentativa desse segmento, assinale a
+afirmativa inadequada.
+(A) A tese do texto é a de que um governo cordial favorece a
+propagação da espécie.
+(B) O argumento para isso é o de que todas as repúblicas podem
+comprovar essa tese.
+(C) A explicitação do argumento traz a informação de que
+Holanda e Suíça, apesar de serem países de natureza difícil,
+são os mais populosos da Europa.
+(D) Infere-se dessa exemplificação de que são cordiais os
+governos de Holanda e Suíça.
+(E) A tese defendida contra-argumenta aqueles que participam
+da ideia de que a estrutura do governo em nada colabora
+para a propagação da espécie.
+9
+Assinale a frase abaixo que não exemplifica uma interrogação
+indireta.
+(A) Queria descobrir quem fez isso.
+(B) Não sei por que chove tanto.
+(C) Eles nunca mostram quanto custa o seguro.
+(D) Eu vi quando eles chegaram.
+(E) Eles desconhecem onde ele mora.
+10
+Assinale a frase abaixo que se encontra na voz passiva sintética
+ou pronominal, com o pronome SE.
+(A) O tempo perdido não se encontra nunca mais.
+(B) Os que empregam mal seu tempo são os primeiros a se
+queixar de sua brevidade.
+(C) Sempre temos tempo suficiente se dele fizermos bom uso.
+(D) Vou virar abóbora, se não tiver um filho agora.
+(E) É desagradável quando se precisa da ajuda familiar.
+Informática
+11
+Considere a texto a seguir, retirado de uma página Web da
+Microsoft.
+“Um banco de dados hierárquico central usado no Windows 98,
+Windows CE, Windows NT e Windows 2000 usado para
+armazenar informações necessárias para configurar o sistema
+para um ou mais usuários, aplicativos e dispositivos de
+hardware.”
+Assinale o componente do Windows descrito no texto.
+(A) Área de Trabalho.
+(B) Área de Transferência.
+(C) Kernel.
+(D) NTFS.
+(E) Registro.
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+12
+No Google Chrome, o atalho de teclado Ctrl+Shift+T permite
+(A) reabrir o conteúdo da aba corrente numa nova aba.
+(B) recuperar abas a partir do histórico.
+(C) recuperar todas as abas ativas quando o Google Chrome foi
+fechado pela última vez.
+(D) recuperar uma aba numa lista das dez últimas abas fechadas.
+(E) recuperar uma aba recém-fechada.
+13
+Considere um documento MS Word cujo conteúdo é exibido a
+seguir.
+abas abastecimento bas1 basculante bassab
+Nesse contexto, considere ainda uma busca avançada com
+emprego de “caracteres curinga”, na qual o texto
+bas>
+tenha sido digitado na caixa Localizar.
+Assinale o número de trechos que seriam localizados.
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+14
+No âmbito de planilhas MS Excel e Libre Office Calc, assinale o
+número de células compreendidas na região X3:AC200.
+(A) 990.
+(B) 995.
+(C) 1.182.
+(D) 1.188.
+(E) 1.194.
+15
+Analise o trecho de planilha Excel no qual estão rastreadas as
+precedentes das células A3, B2 e C3.
+Assinale a lista de fórmulas presentes em cada uma dessas
+células, na ordem estabelecida acima.
+(A) =A1+B2 =B1
+=B2
+(B) =B2+C3 =A1+B1 =C3
+(C) =C1
+=A1+B2
+=A3
+(D) =C3
+=A1+B1
+=B2
+(E) =C3
+=B1
+=B2
+
+Tipo Branca – Página 4
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+Direito
+16
+Após sacar dinheiro no Banco, retornando a pé para casa, Maria
+foi surpreendida por Túlio que, ostentado arma de fogo, exigiu
+que ela entregasse sua bolsa com seu aparelho celular.
+Amedrontada, Maria entregou seus pertences. De posse dos
+objetos, Túlio correu pela rua, mas logo foi abordado por policiais
+que iniciavam o patrulhamento no local, para azar do meliante.
+Túlio foi detido com os bens subtraídos e levado para a Delegacia,
+tendo a arma de fogo sido periciada e comprovada a sua
+potencialidade lesiva.
+Acerca da hipótese, é correto afirmar que Túlio praticou
+(A) tentativa de roubo, com aumento de pena pelo emprego de
+arma de fogo.
+(B) furto por arrebatamento.
+(C) roubo simples.
+(D) conduta atípica.
+(E) roubo consumado, com aumento de pena pelo emprego de
+arma de fogo.
+17
+Em 03 de abril de 2022, Victor foi a um festival de música na
+cidade onde mora. Durante a madrugada, Victor percebeu que
+uma moradora de sua rua, Juliana, estava dançando distraída;
+Victor aproveitou o momento e subtraiu, sem violência ou grave
+ameaça, o smartphone de Juliana. Juliana somente percebeu que
+estava sem o aparelho celular quando chegou em casa e, no dia
+seguinte, realizou o registro de ocorrência. Em 05 de abril de
+2022, Victor arrependeu-se, foi até a casa de Juliana, pediu
+desculpas e devolveu, intacto, o aparelho celular. Apesar disso,
+em 15 de abril de 2022, o Ministério Público denunciou Victor
+com incurso nas penas do Art. 155, caput, do CP.
+Na hipótese, é correto afirmar que
+(A) houve arrependimento eficaz, previsto no Art. 15, segunda
+parte, do CP, tendo em vista que Victor impediu a produção
+do resultado.
+(B) houve desistência voluntária, prevista no Art. 15, primeira
+parte, do CP, visto que Victor desistiu voluntariamente de
+seguir com a execução.
+(C) não houve crime, porque Victor se arrependeu e devolveu o
+bem intacto.
+(D) houve arrependimento posterior, previsto no Art. 16, do CP.
+(E) houve crime impossível, previsto no Art. 17, do CP.
+18
+Sydney complementa sua renda familiar com a intermediação da
+venda de embarcações de médio porte. Considerando que as
+embarcações, a despeito de serem bens móveis, necessitam de
+registro na Capitania dos Portos (artigo 3º da Lei 7.6525/88) e
+que os bens imóveis necessitam de matrícula no Registro de
+Imóveis, pode-se afirmar que a conduta de Sydney, que não
+possui registro no Conselho Regional de Corretores de Imóveis,
+ao intermediar a venda de embarcações
+(A) configura exercício funcional ilegalmente antecipado.
+(B) é atípica.
+(C) é usurpação de função pública.
+(D) configure falsidade ideológica.
+(E) é crime de advocacia administrativa.
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+19
+Juliana, 29 anos, sorrateiramente subtraiu considerável quantia
+em dinheiro de seu pai, Afrânio, 62 anos, para adquirir um carro
+seminovo com o qual sonhava.
+Nesse caso, é correto afirmar que Juliana
+(A) praticou conduta atípica, pois é herdeira de seu pai.
+(B) é isenta de pena, visto que praticou crime de furto em
+prejuízo de seu ascendente.
+(C) não é isenta de pena.
+(D) não cometeu crime por ter agido em exercício regular de
+direito.
+(E) praticou crime impossível, visto que foi em prejuízo de seu
+pai.
+20
+Arnaldo, indiciado pelo crime de roubo em procedimento
+conduzido pela polícia judiciária, confessou o crime em sede
+policial. Em juízo, embora nenhuma prova para a condenação
+tenha sido produzida pelo Ministério Público, o juiz resolveu
+condenar Arnaldo, com base estritamente na confissão produzida
+no inquérito.
+Nesse caso, é correto afirmar que
+(A) agiu corretamente o magistrado, diante da confissão
+prestada por Arnaldo.
+(B) a confissão só tem validade quando realizada em juízo.
+(C) a confissão deveria ser confrontada com outras provas
+produzidas no inquérito.
+(D) a confissão não possui validade em nenhuma hipótese.
+(E) a confissão em sede policial é válida; no entanto, somente
+poderá ensejar a condenação se corroborada com outros
+elementos de prova produzidos sob o crivo do contraditório.
+21
+Fábio, delegado de polícia, determinou, de ofício, a instauração
+de inquérito policial para apurar a suspeita de roubo à residência
+de uma celebridade conhecida nas redes sociais. Ocorre que o
+dono da residência, que é pai da celebridade, ficou tenso ao ver
+nas redes sociais a notícia sobre o fato e resolveu requerer o
+arquivamento do inquérito para abafar o caso, evitando
+escândalos.
+Nesse caso, é correto afirmar que
+(A) o inquérito policial não pode ser instaurado de ofício pelo
+delegado de polícia.
+(B) o inquérito policial deve sempre ser instaurado pelo delegado
+de polícia.
+(C) o delegado de polícia, tomando conhecimento da prática de
+uma infração penal de ação penal pública condicionada à
+representação não deve instaurar o inquérito policial, ainda
+que tenha a vítima representado.
+(D) o delegado de polícia, tomando conhecimento da prática de
+uma infração penal de ação penal pública incondicionada
+deve instaurar, de ofício, o inquérito policial.
+(E) o inquérito deve ser arquivado, diante do requerimento do
+dono da residência.
+
+Tipo Branca – Página 5
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+22
+Durante o inquérito policial, foi judicialmente determinada a
+busca e apreensão domiciliar de um computador específico na
+residência de Helena. Contudo, os agentes confundiram-se e
+apreenderam o computador que estava na residência da vizinha
+de Helena.
+Nessa hipótese, é correto afirmar que
+(A) os elementos de informação colhidos nesse ato não poderão
+integrar o material probatório a ser valorado pelo juiz.
+(B) os elementos de informação colhidos nesse ato poderão
+integrar o material probatório a ser valorado pelo juiz.
+(C) em regra, vícios do inquérito policial projetam-se para a ação
+penal.
+(D) vícios do inquérito policial sempre acarretam a nulidade da
+ação penal.
+(E) como foi judicialmente determinada a busca e apreensão
+domiciliar, esta foi regular.
+23
+Ao sair do trabalho e a caminho de casa, Paulo deparou-se com
+um cadáver, que parecia ter sido baleado. De pronto, entrou em
+contato com a autoridade policial e informou o ocorrido.
+Nesse caso, estamos diante de
+(A) Notitia criminis espontânea de cognição imediata.
+(B) Notitia criminis espontânea de cognição mediata.
+(C) Notitia criminis provocada.
+(D) Delatio criminis.
+(E) Notitia criminis de cognição coercitiva.
+24
+No que tange ao exame de corpo de delito e perícias em geral,
+assinale a afirmativa incorreta.
+(A) No caso de inobservância de formalidades, ou no caso de
+omissões, obscuridades ou contradições no laudo pericial, a
+autoridade judiciária mandará suprir a formalidade,
+complementar ou esclarecer o laudo, podendo também
+ordenar que se proceda a novo exame, por outros peritos, se
+julgar conveniente.
+(B) Uma vez entregue e aceito pelas partes o laudo pericial, o juiz
+ficará adstrito ao laudo, não podendo rejeitá-lo, no todo ou
+em parte.
+(C) Para o efeito de exame do local onde houver sido praticada a
+infração, a autoridade providenciará imediatamente para que
+não se altere o estado das coisas até a chegada dos peritos,
+que poderão instruir seus laudos com fotografias, desenhos
+ou esquemas elucidativos.
+(D) Nos crimes cometidos com destruição ou rompimento de
+obstáculo a subtração da coisa, ou por meio de escalada, os
+peritos, além de descrever os vestígios, indicarão com que
+instrumentos, por que meios e em que época presumem ter
+sido o fato praticado.
+(E) Para representar as lesões encontradas no cadáver, os
+peritos, quando possível, juntarão ao laudo do exame provas
+fotográficas, esquemas ou desenhos, devidamente
+rubricados.
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+25
+Indício é:
+(A) a circunstância conhecida e provada, que, tendo relação com
+o fato, autorize, por indução, concluir-se a existência de outra
+ou outras circunstâncias.
+(B) a circunstância conhecida que, podendo ou não ter relação
+com o fato, autorize investigar-se a existência de outra ou
+outras circunstâncias.
+(C) a circunstância que, não tendo relação com o fato, autorize,
+por indução, a investigação de outra ou outras circunstâncias.
+(D) todo objeto ou material bruto, visível ou latente, constatado
+ou recolhido, que se relaciona à infração penal.
+(E) a circunstância que, não tendo relação com o fato, se
+relaciona à infração penal.
+26
+Em relação à prova, avalie as afirmativas a seguir e assinale
+V para a verdadeira e F para a falsa.
+( ) O juiz formará sua convicção pela livre apreciação da prova
+produzida em contraditório judicial.
+( ) O juiz pode fundamentar sua decisão exclusivamente nos
+elementos informativos colhidos na investigação.
+( ) As provas cautelares, não repetíveis e antecipadas não devem
+influenciar a convicção do juiz.
+As afirmativas são, respectivamente,
+(A) V, V e V.
+(B) V, F e V.
+(C) F, V e F.
+(D) V, F e F.
+(E) F, F e F.
+27
+Em relação ao corpo de delito, avalie as afirmativas a seguir:
+I. Quando a infração deixar vestígios, será indispensável o
+exame de corpo de delito, direto ou indireto, não podendo
+supri-lo a confissão do acusado.
+II. Dar-se-á prioridade à realização do exame de corpo de delito
+quando se tratar de crime que envolva violência doméstica e
+familiar contra mulher.
+III. Dar-se-á prioridade à realização do exame de corpo de delito
+quando se tratar de crime que envolva violência contra
+criança, adolescente, idoso ou pessoa com deficiência.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+Tipo Branca – Página 6
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+28
+No que tange ao exame de corpo de delito e perícias em geral,
+assinale a afirmativa incorreta.
+(A) Em caso de exumação para exame cadavérico, a autoridade
+providenciará para que, em dia e hora previamente
+marcados, se realize a diligência, da qual se lavrará auto
+circunstanciado.
+(B) Nos casos de morte violenta, o exame de corpo de delito é
+imprescindível, não bastando o simples exame externo do
+cadáver, mesmo quando não houver infração penal que
+apurar, ou quando as lesões externas permitirem precisar a
+causa da morte e não houver necessidade de exame interno
+para a verificação de alguma circunstância relevante.
+(C) Em caso de exumação para exame cadavérico, o
+administrador de cemitério público ou particular indicará o
+lugar da sepultura, sob pena de desobediência. No caso de
+recusa ou de falta de quem indique a sepultura, ou de
+encontrar-se o cadáver em lugar não destinado a inumações,
+a autoridade procederá às pesquisas necessárias, o que tudo
+constará do auto.
+(D) Os cadáveres serão sempre fotografados na posição em que
+forem encontrados, bem como, na medida do possível, todas
+as lesões externas e vestígios deixados no local do crime.
+(E) A autópsia será feita pelo menos seis horas depois do óbito,
+salvo se os peritos, pela evidência dos sinais de morte,
+julgarem que possa ser feita antes daquele prazo, o que
+declararão no auto.
+29
+No que tange ao exame de corpo de delito e perícias em geral,
+assinale a afirmativa incorreta.
+(A) Em caso de lesões corporais, se o primeiro exame pericial
+tiver sido incompleto, proceder-se-á a exame complementar
+por determinação da autoridade policial ou judiciária, de
+ofício, ou a requerimento do Ministério Público, do ofendido
+ou do acusado, ou de seu defensor.
+(B) No exame complementar, os peritos terão presente o auto de
+corpo de delito, a fim de suprir-lhe a deficiência ou retificá-lo.
+(C) Se o exame tiver por fim precisar a classificação do delito no
+o
+Art. 129, § 1 , I, do Código Penal (Art. 129. Ofender a
+integridade corporal ou a saúde de outrem: § 1º Se resulta I -
+Incapacidade para as ocupações habituais, por mais de trinta
+dias), deverá ser feito logo que decorra o prazo de 30 dias
+contado da data do crime.
+(D) Havendo dúvida sobre a identidade do cadáver exumado,
+proceder-se-á ao reconhecimento pelo Instituto de
+Identificação e Estatística ou repartição congênere ou pela
+inquirição de testemunhas, lavrando-se auto de
+reconhecimento e de identidade, no qual se descreverá o
+cadáver, com todos os sinais e indicações.
+(E) O exame de corpo de delito deverá ser feito em dia útil, não
+se admitindo laudos produzidos durante anoite ou em dias
+que não houver expediente regular.
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+30
+No que tange à cronomatogenese, assinale a afirmativa
+incorreta.
+(A) São fenômenos cadavéricos de ordem física: desidratação,
+resfriamento do corpo e livores hipostáticos.
+(B) São fenômenos cadavéricos de ordem química: autólise,
+rigidez muscular, putrefação, maceração, adipocera e
+mumificação.
+(C) A intensidade da rigidez muscular não varia de acordo com as
+condições relacionadas ao cadáver e à causa da morte.
+(D) A putrefação é a decomposição do corpo pela ação de
+bactérias saprófitas que o invadem passado algum tempo da
+morte.
+(E) A autólise é a destruição das células pela ação incontida de
+suas próprias enzimas.
+Conhecimentos Específicos
+31
+Muitas organizações usam Network Attached Storage (NAS) para
+o armazenamento e compartilhamento de dados.
+Analise as afirmativas a seguir sobre o dispositivo de
+armazenamento NAS:
+I. Armazena e recupera dados na forma de bloco de dados
+através da rede IP.
+II. O compartilhamento de arquivos entre servidores é possível
+mesmo com diferentes sistemas operacionais.
+III. É inadequado para WANs, em função da falta de suporte da
+tecnologia para redes de longas distâncias.
+Está o correto o que se afirma em
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+32
+Uma determinada organização usa um sistema de
+monitoramento e vigilância por meio de câmeras distribuídas e
+conectadas a um sistema central. As imagens dessas câmeras são
+armazenadas em um equipamento de gravação que possui 3
+discos rígidos iguais.
+Para proteger os dados em caso de falha, o equipamento de
+gravação implementa a tecnologia RAID, na qual os dados são
+subdivididos em blocos e bits de paridade são criados. Os blocos
+de dados e as informações de paridade são distribuídas de forma
+alternada em todos os discos.
+O nível de RAID implementado neste equipamento de
+gravação é o
+(A) RAID 0.
+(B) RAID 1.
+(C) RAID 5.
+(D) RAID 10.
+(E) RAID 50.
+
+Tipo Branca – Página 7
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+33
+A virtualização de servidores é uma técnica que tem sido adotada
+por organizações para aumentar a densidade de utilização dos
+recursos computacionais.
+Sobre as tecnologias de virtualização, é correto afirmar que
+(A) Hyper-V provê suporte somente para máquinas virtuais nas
+quais se executam sistema operacional Windows.
+(B) ESXi é uma plataforma de virtualização bare-metal, isto é,
+baseada em hipervisor nativo.
+(C) Xen é um software proprietário de virtualização integrado ao
+kernel da arquitetura PowerPC.
+(D) VirtualBox é uma tecnologia de virtualização que impossibilita
+o uso da webcam do sistema hospedeiro.
+(E) KVM é um módulo nativo do kernel do Windows que
+converte o sistema operacional em um hipervisor hosted.
+34
+As LANs de difusão admitem diversas topologias. Em relação à
+topologia Barramento, é correto afirmar que
+(A) o mecanismo de arbitragem para resolver conflitos pode ser
+centralizado ou distribuído.
+(B) cada nó da rede pode ouvir apenas os dados destinados a ele.
+(C) todos os nós são conectados a um dispositivo central por
+meios físicos distintos.
+(D) a rede continua funcionando mesmo se for danificado o cabo
+principal ao qual se ligam os computadores.
+(E) essa topologia requer cabeamento por par trançado para
+cancelar as interferências eletromagnéticas.
+35
+Sobre elementos de interconexão de redes de computadores, é
+correto afirmar que
+(A) gateways não reconhecem quadros, pacotes ou cabeçalhos,
+somente volts.
+(B) bridges são adequadas para interligar redes que utilizam
+diferentes protocolos de transporte orientados a conexões.
+(C) switches operam na camada de rede e sua função é fazer o
+encaminhamento dos pacotes entre duas redes.
+(D) hubs começam a encaminhar quadros tão logo recebem o
+campo de cabeçalho de destino, mas antes de chegar o
+restante do quadro.
+(E) roteadores examinam os endereços nos pacotes IP e efetuam
+o roteamento com base nesses endereços.
+36
+Na arquitetura TCP/IP, o mecanismo de mapeamento dinâmico
+do endereço IP em endereço físico é desempenhado pelo
+protocolo
+(A) ARP.
+(B) ICMP.
+(C) IMAP.
+(D) MAC.
+(E) RIP.
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+37
+A norma NBR ISO/IEC 27002:2013 é uma orientação para as
+organizações implementarem controles de segurança da
+informação comumente aceitos.
+De acordo com essa norma, convém que
+(A) os funcionários possam instalar e utilizar os programas
+utilitários que preferirem.
+(B) os diretores estatutários continuem com os ativos da
+organização após o encerramento do contrato de trabalho.
+(C) toda informação dentro da organização seja classificada
+como sigilosa para evitar divulgação não autorizada.
+(D) grupos de serviços de informação, usuários e sistemas de
+informação sejam segregados em redes.
+(E) o disco rígido dos equipamentos a serem descartados não
+sejam inspecionadas para evitar furto de informação.
+38
+O objetivo da prática de gerenciamento de arquitetura, segundo
+o ITIL v4, é
+(A) minimizar o impacto negativo de interrupções não planejadas
+de um serviço, restaurando a operação normal o mais rápido
+possível.
+(B) garantir que a organização entenda e lide com os riscos de
+forma eficaz para garantir a sustentabilidade contínua de
+seus negócios.
+(C) fornecer os princípios, padrões e ferramentas que permitem
+a uma organização gerenciar mudanças complexas de
+maneira estruturada e ágil.
+(D) mover hardware, software, documentação, processos ou
+qualquer outro componente novo ou alterado para
+ambientes produtivos.
+(E) assegurar que a organização entenda e gerencie os riscos à
+confidencialidade, integridade e disponibilidade das
+informações.
+39
+Um cibercriminoso tentou obstruir o acesso ao portal
+institucional de uma empresa sobrecarregando os servidores web
+com muitas requisições HTTP simultâneas, de forma a deixar os
+servidores e site lento e indisponível para acesso.
+Esse tipo de ataque cibernético que inunda servidores da Web
+com solicitações que impedem a conexão de seus usuários
+regulares é denominado
+(A) Decoy.
+(B) DMA.
+(C) DoS.
+(D) Trojan.
+(E) Ransomware.
+40
+De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD),
+a Autoridade Nacional de Proteção de Dados é responsável por
+(A) realizar o tratamento de dados pessoais sensíveis em nome
+do controlador.
+(B) obter o consentimento do titular para transferência
+internacional de dados pessoais.
+(C) tomar as decisões referentes a anonimização e tratamento
+dos dados pessoais.
+(D) atuar como canal de comunicação entre os titulares de dados
+pessoais sensíveis.
+(E) zelar, implementar e fiscalizar o cumprimento da LGPD em
+todo o território nacional.
+
+Tipo Branca – Página 8
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+41
+A norma NBR ISO/IEC 27701:2019 fornece orientações para
+gestão da privacidade da informação dentro do contexto da
+organização.
+De acordo com esta norma, é recomendado que a organização
+(A) disponibilize regularmente informação na forma que permita
+a identificação dos titulares dos dados pessoais.
+(B) assegure que os arquivos temporários criados como um
+resultado de tratamento de dados pessoais sejam guardados
+e auditáveis.
+(C) assegure que o conteúdo de mídia física contendo dados
+pessoais que esteja deixando as instalações da organização
+seja acessível a qualquer pessoa.
+(D) limite a coleta de dados pessoais a um mínimo que seja
+relevante, proporcional e necessário para os propósitos
+identificados.
+(E) utilize dados pessoais reais, precisos, completos e atualizados
+nos procedimentos de teste e homologação dos sistemas de
+software.
+42
+Aline deseja enviar uma mensagem cifrada para Marcos usando
+um esquema de cifra de chave simétrica. Portanto, para encriptar
+sua mensagem Aline deve usar o algoritmo
+(A) AES.
+(B) Diffie-Helman.
+(C) MD5.
+(D) RSA.
+(E) SHA-1.
+43
+Os sistemas de arquivos determinam como as informações são
+guardadas e acessadas nos dispositivos de armazenamento.
+Em relação aos sistemas de arquivos, é correto afirmar que
+(A) EXT2 é um sistema de arquivos de journaling que
+normalmente é utilizado pelo núcleo do Linux.
+(B) NTFS não estabelece um limite de caracteres para o tamanho
+máximo do nome dos arquivos.
+(C) FAT32 trabalha com clusters maiores e é mais veloz que o seu
+antecessor, o FAT16.
+(D) HFS é um sistema de arquivos proprietário desenvolvido pela
+Microsoft projetado para uso em mídia somente leitura.
+(E) ReiserFS usa árvores balanceadas para tornar o processo de
+busca de arquivos mais eficiente.
+44
+João está investigando uma possível violação de segurança e
+precisa saber quais usuários fizeram login no sistema
+recentemente.
+O utilitário de linha de comando do sistema operacional Linux
+que mostra essas informações é
+(A) alias
+(B) last
+(C) nice
+(D) tty
+(E) wc
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+45
+No COBIT 2019 os objetivos de governança e gestão estão
+agrupados em domínios. De acordo com este framework, é
+correto afirmar que o domínio BAI (Buid, Acquire, and
+Implement) fornece orientação sobre como
+(A) adquirir e implementar soluções de TI e integrá-las nos
+processos de negócio.
+(B) gerenciar os incidentes de serviços e implementar os
+controles de segurança.
+(C) monitorar o atingimento das metas de desempenho de TI e
+de conformidade de organização.
+(D) planejar os investimentos, gerenciar os riscos e medir a
+qualidade de execução dos processos de TI.
+(E) gerenciar a estratégia e administrar os investimentos de
+negócio habilitados por TI.
+46
+A aquisição de imagens de unidades de disco rígido é considerada
+uma das partes principais em uma investigação de computação
+forense, uma vez que a maioria dos dados que podem conter
+evidências para a investigação está neste tipo de dispositivo de
+armazenamento.
+O FTK Imager é uma ferramenta que pode ser utilizada para a
+criação de imagens dos tipos
+(A) Raw (dd), NTFS, E01, AFF.
+(B) Raw (dd), NTFS, E01, SMART.
+(C) Raw (dd), SMART, E01, AFF.
+(D) Raw (dd), SMART, E01, VMDK.
+(E) Raw (dd), SMART, NTFS, VMDK.
+47
+Um perito de um órgão público realizou a seguinte análise em um
+arquivo de memória volátil (RAM) denominado mem.dmp, obtido
+em tempo real em um sistema em execução:
+$ python vol.py –f mem.dmp --profile=Win7SP1x64 pslist
+O possível objetivo do perito com a execução do comando foi
+listar
+(A) o relacionamento entre os processos pais e filhos.
+(B) os comandos executados no console.
+(C) os processos em execução.
+(D) os processos ocultos.
+(E) as conexões de rede.
+48
+O formato de arquivo chamado Raw, padrão para a saída gerada
+pelo comando dd do Linux/UNIX, é uma cópia bit a bit dos dados
+brutos da unidade que está sob investigação, que pode ser usado
+na criação de uma imagem da unidade completa ou de um único
+volume (partição).
+Assinale a opção que apresenta a principal desvantagem do
+formato Raw.
+(A) Não ser suportado na maioria dos programas de computação
+forense.
+(B) Requerer o mesmo espaço de armazenamento da unidade de
+origem.
+(C) Ignorar erros de leitura menores a partir da unidade de
+origem.
+(D) Realizar uma rápida transferência de dados.
+(E) Realizar a compactação dos dados.
+
+Tipo Branca – Página 9
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+49
+O perito José copiou dados brutos do DiscoA, que possui
+tamanho de setor de 4096 bytes, para o arquivoB do DiscoC. Para
+este fim, José utilizou a ferramenta dd, executando no sistema
+operacional do DiscoC o seguinte comando:
+dd if=DiscoA of=arquivoB bs=4096w count=1 seek=6
+O argumento bs definiu o tamanho do bloco utilizado pelo dd
+para a entrada e para a saída. Portanto, o comando executado
+por José copiou do DiscoA
+(A) 1 setor, iniciando no 6º bloco do DiscoA, para o DiscoC,
+iniciando no 1º bloco do arquivoB.
+(B) 2 setores, iniciando no 1º bloco do DiscoA, para o DiscoC,
+iniciando no 7º bloco do arquivoB.
+(C) 2 setores, iniciando no 6º bloco do DiscoA, para o DiscoC,
+iniciando no 1º bloco do arquivoB.
+(D) 4096 setores, iniciando no 1º bloco do DiscoA, para o DiscoC,
+iniciando no 6º bloco do arquivoB.
+(E) 4096 setores, iniciando no 7º bloco do DiscoA, para o DiscoC,
+iniciando no 1º bloco do arquivoB.
+50
+A fim de realizar análise forense nos discos rígidos de PCCrime
+sem modificar o conteúdo dos discos periciados, a perita criminal
+Ester, da Polícia Científica do Amapá (PCA), utilizou a versão livre
+do Live CD produzido pela empresa e-fense com ferramentas
+forenses embutidas.
+Logo, Ester usou o Live CD
+(A) Helix.
+(B) Pentoo.
+(C) Operator.
+(D) Kali Linux.
+(E) BackTrack.
+51
+A perita criminal Joana suspeitou que o ramdisk genérico do
+sistema operacional Android 12 de CelularB havia sido
+maliciosamente modificado.
+A fim de realizar uma análise mais aprofundada, Joana copiou do
+CelularB a partição do Android 12 que guarda o ramdisk genérico,
+efetuando assim a cópia da partição do Android
+(A) boot.
+(B) cache.
+(C) system.
+(D) vendor.
+(E) recovery.
+52
+O perito José foi incumbido de extrair os dados referentes às
+mensagens de Short Message Service (SMS) transmitidas e
+recebidas pelo aplicativo Mensagens de um dispositivo iOS.
+Para tanto, José desbloqueou o acesso aos arquivos internos do
+iOS e copiou a pasta SMS localizada em
+(A) /private/var/logs.
+(B) /private/var/root/Media.
+(C) /private/var/mobile/Media.
+(D) /private/var/mobile/Library.
+(E) /private/var/mobile/Applications.
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+53
+No contexto da linguagem PHP, analise as afirmativas a seguir.
+I. Os comandos print e echo podem ser usados para produzir
+saída de dados (ouput).
+II. Todos os comandos de saída retornam o valor zero.
+III. Todos os comandos de saída podem receber múltiplos
+argumentos de entrada.
+Está correto o que se afirma em
+(A) II, apenas.
+(B) I, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+54
+Analise o código JavaScript a seguir.
+const cidades =
+["Natal", "Manaus", "Recife", "Brasília"];
+cidades.reverse();
+alert (cidades);
+Assinale o que é exibido na execução do trecho acima.
+(A) Brasília,Manaus,Natal,Recife
+(B) Brasília,Natal,Manaus,Recife
+(C) Brasília,Recife,Manaus,Natal
+(D) Manaus,Recife,Brasília,Natal
+(E) Recife,Natal,Manaus,Brasília
+55
+Analise o código Python a seguir.
+L=["Um","Dois","Três","Quatro","Cinco","Seis"]
+print(L[4][2])
+Assinale o efeito da execução desse trecho.
+(A) A exibição da letra “n”.
+(B) A exibição da lista "[“Quatro","Cinco"].
+(C) A exibição da palavra “Cinco”.
+(D) A exibição do número 5.
+(E) A mensagem de erro “object is not subscriptable”.
+
+Tipo Branca – Página 10
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+56
+Assinale a estrutura correta de acordo com a sintaxe do C#.
+(A) using System;
+namespace HelloWorld;
+class Program
+{
+static void Main(string[] args)
+{
+Console.WriteLine("Assim funciona!");
+}
+}
+(B) using System;
+namespace HelloWorld;
+class Program
+{
+static void Main(parameters)
+{
+Console.WriteLine("Assim funciona!");
+}
+}
+(C) using System;
+namespace HelloWorld
+{
+class Program
+{
+proc Main(string[] args)
+{
+Console.WriteLine("Assim funciona!");
+}
+}
+}
+(D) using System;
+namespace HelloWorld
+{
+class Program
+{
+static void Main(string[] args)
+{
+Console.WriteLine("Assim funciona!");
+}
+}
+}
+(E) using System;
+namespace HelloWorld
+{
+class static Main(string[] args)
+{
+Console.WriteLine("Assim funciona!");
+}
+}
+}
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+57
+Considere que a tabela relacional T:
+(1) contém 100 linhas na sua instância corrente; (2) possui uma
+coluna A que é uma chave primária e não aceita nulos; e (3) a
+configuração do ambiente de consultas SQL trata valores nulos
+(NULL) como unknown.
+Nesse contexto, assinale os números mínimos e máximos,
+respectivamente, de linhas que seriam produzidas pela execução
+do comando
+SELECT * FROM T WHERE A = NULL
+UNION
+SELECT * FROM T WHERE A <> NULL
+(A) 0 e 0.
+(B) 0 e 1.
+(C) 1 e 1.
+(D) 0 e 100.
+(E) 1 e 100.
+58
+Numa prova de concurso, a organizadora estava preocupada com
+a ocorrência de homônimos fazendo prova na mesma sala, já que
+isso poderia ocasionar contratempos.
+Para uma tabela relacional T, contendo as colunas CPF, Nome e
+CodSala, assinale o comando SQL que identifica corretamente os
+homônimos em cada sala.
+(A) SELECT CodSala, Nome, CPF
+FROM T
+WHERE EXISTS (SELECT * FROM T t1
+WHERE t1.CodSala = T.CodSala
+and t1.CPF <> T.CPF)
+ORDER BY 1, 2, 3
+(B) SELECT CodSala, Nome, CPF
+FROM T
+WHERE EXISTS (SELECT * FROM TT
+WHERE TT.CodSala = T.CodSala
+and TT.Nome <> T.Nome
+and TT.CPF = T.CPF)
+ORDER BY 1, 2, 3
+(C) SELECT CodSala, Nome, CPF
+FROM T
+WHERE t1.CodSala = T.CodSala
+and t1.Nome = T.Nome
+and t1.CPF <> T.CPF)
+ORDER BY 1, 2, 3
+(D) SELECT CodSala, Nome, CPF
+FROM T
+WHERE NOT EXISTS (SELECT * FROM T t1
+WHERE t1.CodSala = T.CodSala
+and t1.Nome = T.Nome
+and t1.CPF <> T.CPF)
+ORDER BY 1, 2, 3
+(E) SELECT CodSala, Nome, CPF
+FROM T
+WHERE EXISTS (SELECT * FROM T t1
+WHERE t1.CodSala = T.CodSala
+and t1.Nome = T.Nome
+and t1.CPF <> T.CPF)
+ORDER BY 1, 2, 3
+
+Tipo Branca – Página 11
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+59
+Árvores B são frequentemente utilizadas para indexação de
+bancos de dados. Nesse contexto, analise as afirmativas a seguir
+sobre esse tipo de estrutura de dados.
+I. São balanceadas.
+II. Os nós podem ter mais de dois filhos.
+III. A altura da árvore é O(lg(N)).
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+60
+Analise o código HTLM a seguir, do qual um trecho foi omitido.
+<body>
+------------------------------------
+<button type="button"
+onclick="document.getElementById('xpto').innerHTML
+= 'Clicado'">Clique aqui</button>
+</body>
+Assinale o papel da string “xpto” na segunda linha após o trecho
+tracejado.
+(A) O nome de um evento HTML.
+(B) O nome de uma classe CSS.
+(C) O nome de uma função JavaScript.
+(D) O valor do atributo “id” de um elemento.
+(E) Uma tag nativa do XML.
+
+Tipo Branca – Página 12
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+Questão Discursiva
+Considere o exemplo fictício de tabelas e a instrução SQL abaixo.
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+
+Tipo Branca – Página 13
+A linguagem SQL (Structured Query Language) foi proposta por Codd em 1970 e levantou uma crítica aos sistemas de bancos de dados de
+sua época, declarando que os futuros usuários de grandes bancos de dados deveriam ser protegidos da obrigação de conhecer as
+organizações internas dos arquivos de dados. A linguagem SQL viria a se tornar uma solução à crítica levantada na época.
+(Codd, E. F. (1970). A Relational Model of Data for Large Shared Data Banks. Communications of the ACM)
+A partir do preâmbulo e do exemplo de uso da linguagem SQL apresentado acima, escreva um texto dissertativo-argumentativo que
+posicione a linguagem SQL em relação às demais linguagens de programação, tais como Java, PHP, Python, C# e JavaScript que responda
+ao que se pede abaixo:
+a) A linguagem SQL ainda é relevante no mercado?
+b) Imaginando as tabelas fictícias como arquivos CSV em texto plano, seria possível produzir o mesmo resultado da instrução SQL
+acima com outras linguagens? Haveria maior ou menor esforço?
+1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+17
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+19
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO (PERITOS)
+Perito Criminal (Ciência da Computação; Analista de Sistema)
+FGV
+
+Tipo Branca – Página 14
+21
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+22
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+23
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+24
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+25
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+26
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+27
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+29
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+30
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Realização

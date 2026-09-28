@@ -1,0 +1,18 @@
+ID: 56-027
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Diversas operações matemáticas podem ser implementadas de forma recursiva, como no algoritmo seguinte. Função X (J: inteiro, K: inteiro) Início Se J < K Então Retorne J Senão Retorne X (J-K, K) Fim Considerando o domínio dos inteiros positivos, a função terá como resultado o(a):
+
+[ALTERNATIVAS]
+(A) adição entre J e K;
+(B) multiplicação de J por K;
+(C) resto da divisão de J por K;
+(D) subtração entre J e K;
+(E) elevação de J à potência K.
+
+[GABARITO]
+C

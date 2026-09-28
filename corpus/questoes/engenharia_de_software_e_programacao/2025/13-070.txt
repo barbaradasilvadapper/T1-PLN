@@ -1,0 +1,18 @@
+ID: 13-070
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Time de Desenvolvimento de Software (TDevS) de uma organização está utilizando testes automatizados em seus projetos. Ao utilizar testes automatizados, o TDevS:
+
+[ALTERNATIVAS]
+(A) está focando a eficácia da usabilidade com testes exploratórios de caixa-preta;
+(B) busca redução do retrabalho para execução dos testes não funcionais de interface com o usuário;
+(C) tem aplicado testes de integração para verificação antecipada dos caminhos e condições lógicas codificadas;
+(D) visa a aumentar a agilidade do time, já que os testes são codificados uma vez e não precisam ser alterados ao longo do ciclo de vida do projeto;
+(E) deseja garantir a estabilidade das mudanças por meio da incorporação dos testes de integração no processo de integração contínua.
+
+[GABARITO]
+E

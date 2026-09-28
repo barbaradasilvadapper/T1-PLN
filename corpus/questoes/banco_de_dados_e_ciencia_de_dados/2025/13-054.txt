@@ -1,0 +1,18 @@
+ID: 13-054
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A analista de Business Intelligence Lúcia está elaborando o modelo multidimensional do Data Mart Processos Judiciais (DMProcJ). Durante sua análise, ela observou que o número do processo judicial ( num_processo ) não é uma métrica, mas sim um atributo importante, pois representa o menor grão do DMProcJ e pode ser usado para navegar até o sistema transacional de origem para analisar outras informações de um processo específico. Para modelar o atributo num_processo , Lúcia deve implementar um(a):
+
+[ALTERNATIVAS]
+(A) fato não aditivo;
+(B) dimensão ponte;
+(C) operação drill across;
+(D) dimensão degenerada;
+(E) data mart dependente.
+
+[GABARITO]
+D

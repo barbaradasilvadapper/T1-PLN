@@ -1,0 +1,18 @@
+ID: 61-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Os sistemas de bancos de dados são fundamentados por um conjunto de conceitos básicos que orientam as decisões de sua construção. Nesse contexto, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) a independência de dados é definida como a possibilidade de modificação do esquema de um nível da arquitetura de três esquemas, sem alterar o esquema do nível mais alto adjacente.
+(B) esquema de um banco de dados representa o conjunto de tuplas existentes em um determinado instante.
+(C) metadados refere-se à capacidade de generalização de um conjunto de dados que possuem características similares.
+(D) o modelo de banco de dados de um sistema gerenciador representa o número máximo de usuários suportados pelo sistema.
+(E) o nível lógico de usuário da arquitetura de três esquemas descreve a estrutura completa do banco de dados para uma comunidade de usuários. ATENÇÃO: O texto a seguir deve ser usado para as próximas três questões O esquema de um banco de dados relacional, especificado pelos comandos SQL a seguir, atenderá às consultas
+
+[GABARITO]
+A

@@ -1,0 +1,17 @@
+ID: 23-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma empresa de tecnologia que está revisando sua política de segurança para garantir a proteção eficaz de todos os sistemas operacionais usados em sua infraestrutura de TI. Existem várias medidas de proteção que podem ser adotadas para resguardar os sistemas operacionais contra ataques de malware, exploração de vulnerabilidades, negação de serviço, e outras ameaças similares. São consideradas medidas de proteção os itens: I. Patches de segurança, II. Capacitação dos funcionários no tema, III. Antivírus, IV. Controle de acesso
+
+[ALTERNATIVAS]
+(A) I, II e III, apenas.
+(B) II, III e IV, apenas
+(C) I, II, III, IV.
+(D) II e III, apenas.
+
+[GABARITO]
+C

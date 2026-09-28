@@ -1,0 +1,18 @@
+ID: 88-057
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere que a tabela relacional T: (1) contém 100 linhas na sua instância corrente; (2) possui uma coluna A que é uma chave primária e não aceita nulos; e (3) a configuração do ambiente de consultas SQL trata valores nulos (NULL) como unknown. Nesse contexto, assinale os números mínimos e máximos, respectivamente, de linhas que seriam produzidas pela execução do comando SELECT * FROM T WHERE A = NULL UNION SELECT * FROM T WHERE A <> NULL
+
+[ALTERNATIVAS]
+(A) 0 e 0.
+(B) 0 e 1.
+(C) 1 e 1.
+(D) 0 e 100.
+(E) 1 e 100.
+
+[GABARITO]
+A

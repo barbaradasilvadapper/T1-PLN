@@ -1,0 +1,18 @@
+ID: 33-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Pedro está implementando um banco de dados a partir de um projeto lógico que recebeu dos desenvolvedores de Sistemas de Informação do Tribunal. No projeto, há relacionamentos entre diversas tabelas. No SQL, para implementar os relacionamentos de modo a prevenir que alguma transação de banco de dados destrua os relacionamentos entre as tabelas, Pedro deve utilizar a cláusula:
+
+[ALTERNATIVAS]
+(A) CHECK
+(B) UNION
+(C) DEFAULT
+(D) ORDER BY
+(E) FOREIGN KEY
+
+[GABARITO]
+E

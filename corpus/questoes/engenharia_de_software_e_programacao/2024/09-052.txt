@@ -1,0 +1,18 @@
+ID: 09-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em relação aos diferentes tipos de testes de software, considere as afirmativas abaixo: I. Os testes unitários focam em verificar o comportamento de unidades isoladas de código, como funções ou métodos, garantindo que funcionem conforme o esperado. II. Os testes de integração buscam verificar a interação entre diferentes módulos ou componentes do sistema, visando garantir que funcionem corretamente quando combinados. III. O Test-Driven Development (TDD) segue a prática de escrever os testes antes do código funcional, incentivando a criação de código mais limpo e eficiente. IV. Os testes de usabilidade avaliam a experiência do usuário ao interagir com o software, verificando se a interface é intuitiva e eficiente.
+
+[ALTERNATIVAS]
+(A) I, II e IV, apenas.
+(B) I, III e IV, apenas.
+(C) II, III e IV, apenas.
+(D) I, II, III e IV.
+(E) I e III, apenas.
+
+[GABARITO]
+D

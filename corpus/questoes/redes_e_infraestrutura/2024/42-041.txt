@@ -1,0 +1,18 @@
+ID: 42-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo HTTP (HyperText Transfer Protocol) é utilizado para a comunicação na World Wide Web, permitindo a troca de informações entre clientes (navegadores) e servidores. Em uma correspondência do protocolo HTTP e o modelo OSI (Open Systems Interconnection), o HTTP poderá ser associado à camada
+
+[ALTERNATIVAS]
+(A) aplicação.
+(B) enlace.
+(C) eede.
+(D) sessão.
+(E) transporte.
+
+[GABARITO]
+A

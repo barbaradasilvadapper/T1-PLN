@@ -1,0 +1,18 @@
+ID: 36-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe os seguintes conjuntos de dados e o comando executado no banco de dados processo do MongoDB. Coleção: { "_id": 1, "descricao": "Processo trabalhista envolvendo direitos do trabalhador" } { "_id": 2, "descricao": "Contrato de trabalho com cláusulas trabalhistas" } { "_id": 3, "descricao": "Processo administrativo de aposentadoria" } Consulta: db.processo.find({ $text: { $search: "trabalhista" } }) .sort({ score: { $meta: "textScore" } }) Resultado: [ { "_id": 1, "descricao": "Processo trabalhista envolvendo direitos do trabalhador", "score": 1.2 }, { "_id": 2, "descricao": "Contrato de trabalho com cláusulas trabalhistas", "score": 0.9 } ] No Mongosh, para criar um índice visando a otimizar a execução da consulta apresentada com palavra(s) específica(s) em um campo contendo strings, deve-se executar o comando:
+
+[ALTERNATIVAS]
+(A) db.processo.createIndex({"descricao":"2"})
+(B) db.processo.createIndex({"descricao":"2d"})
+(C) db.processo.createIndex({"descricao":"text"})
+(D) db.processo.createIndex({"descricao":"hashed"})
+(E) db.processo.createIndex({"descricao":2dsphere },{unique: true })
+
+[GABARITO]
+C

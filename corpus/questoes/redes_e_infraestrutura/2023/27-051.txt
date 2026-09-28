@@ -1,0 +1,18 @@
+ID: 27-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Durante um período de queda da conectividade à Internet, a analista Ana precisou transferir um arquivo de texto do seu smartphone para todos os membros da equipe de TI. A fim de acelerar a difusão do arquivo na ausência da Internet, Ana criou uma rede Bluetooth, designando o seu smartphone como dispositivo mestre e conectando outros 7 smartphones, dispostos sobre uma mesma mesa, ao seu. Em relação à área de alcance, a rede criada por Ana é classificada como:
+
+[ALTERNATIVAS]
+(A) wide;
+(B) local;
+(C) body;
+(D) campus;
+(E) personal.
+
+[GABARITO]
+E

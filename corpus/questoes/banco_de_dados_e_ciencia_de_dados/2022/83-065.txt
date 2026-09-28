@@ -1,0 +1,18 @@
+ID: 83-065
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere o script a seguir. SELECT * FROM FT_SEARCH('xxxxxx', 0, 0); Assinale a lista de implementações de bancos de dados que admitem nativamente a sintaxe usada acima.
+
+[ALTERNATIVAS]
+(A) H2 e PostgreSQL, somente.
+(B) H2, somente.
+(C) Oracle e PostgreSQL, somente.
+(D) Oracle, somente.
+(E) PostgreSQL, somente.
+
+[GABARITO]
+B

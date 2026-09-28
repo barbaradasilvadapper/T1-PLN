@@ -1,0 +1,18 @@
+ID: 12-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em um Sistema de Gerenciamento de Banco de Dados (SGBD), recursos como Stored Procedures e Triggers são utilizados para dar maior flexibilidade para as aplicações a serem desenvolvidas, com o objetivo de regras e controles serem implementados na camada do banco. No contexto apresentado, assinale a opção que mostra a principal diferença entre Stored Procedures e Triggers.
+
+[ALTERNATIVAS]
+(A) Stored Procedures são usadas para automatizar a execução de tarefas rotineiras, enquanto Triggers são usadas para armazenar procedimentos complexos.
+(B) Stored Procedures são acionadas automaticamente em resposta a eventos específicos, enquanto Triggers são procedimentos armazenados que podem ser chamados explicitamente por comandos SQL.
+(C) Stored Procedures são sempre escritas em linguagens de programação de alto nível, enquanto Triggers são escritas em SQL puro.
+(D) Stored Procedures são armazenadas no disco junto com os dados do banco, enquanto Triggers são armazenadas apenas na memória principal do servidor.
+(E) Stored Procedures são executadas apenas uma vez por evento, enquanto Triggers são executadas repetidamente até que o evento seja concluído.
+
+[GABARITO]
+B

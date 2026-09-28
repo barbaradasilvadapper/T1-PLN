@@ -1,0 +1,18 @@
+ID: 47-026
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Durante uma vistoria na infraestrutura de rede do edifício-sede, o analista identificou que as ligações VoIP do setor jurídico apresentavam perda de pacotes nos horários de maior acesso de visitantes à rede Wi-Fi. A análise revelou que os três perfis de usuário — administrativo, VoIP e visitantes — compartilhavam o mesmo domínio de broadcast. A solução adotada foi segmentar logicamente o tráfego nos switches existentes, sem aquisição de novos equipamentos, e configurar o enlace entre o switch de distribuição e o roteador central para transportar os três grupos simultaneamente. Sobre o funcionamento desse enlace, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Cada quadro Ethernet recebe uma marcação de 4 bytes com o identificador do grupo ao qual pertence, permitindo que o roteador processe cada fluxo de forma isolada.
+(B) O switch encapsula os quadros de cada grupo em pacotes IP distintos antes de encaminhá-los ao roteador, que os desencapsula e aplica as políticas de segurança.
+(C) A marcação do tráfego ocorre no cabeçalho IP, onde um campo específico identifica a qual segmento lógico o pacote pertence, sendo interpretado pelo roteador central.
+(D) O enlace entre switch e roteador opera com múltiplos endereços MAC virtuais, um para cada grupo, sendo o roteamento feito com base nos identificadores de camada 2.
+(E) A separação dos grupos é feita pelo roteador central por meio da leitura das portas TCP de destino em cada pacote, que são mapeadas para interfaces lógicas distintas.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 31-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considerando os conceitos e ferramentas relacionados a serviços de autenticação/autorização, webhooks e message brokers, avalie as afirmativas a seguir e assinale (V) para a(s) verdadeira(s) e (F) para a(s) falsa(s). ( ) Um dos principais objetivos do SAML é proporcionar Single-Sign On (SSO), isto é, permitir que um usuário se autentique uma vez e tenha acesso a outros sistemas sem a necessidade de fornecer novamente suas credenciais. ( ) No protocolo MQTT do RabbitMQ, a publicação de mensagens acontece dentro do contexto de um link. ( ) Keycloak permite a implementação de Single-Sign On (SSO) e fornece suporte para OpenID Connect e OAuth 2.0. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) V – F – V.
+(C) V – V – F.
+(D) F – F – V.
+(E) F – V – V.
+
+[GABARITO]
+B

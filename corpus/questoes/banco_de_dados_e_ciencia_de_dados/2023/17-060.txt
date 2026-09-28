@@ -1,0 +1,18 @@
+ID: 17-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Tanto no SQL Server como no MySQL, a aplicação do comando drop table T destina-se a:
+
+[ALTERNATIVAS]
+(A) remover T;
+(B) remover todos os índices de T;
+(C) colocar T no estado read only;
+(D) recuperar T a partir de arquivos de backup;
+(E) desconectar T do banco de dados atual, e transformá-la numa tabela temporária.
+
+[GABARITO]
+A

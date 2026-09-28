@@ -1,0 +1,18 @@
+ID: 11-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma API REST (Representational State Transfer) é uma interface que permite a comunicação entre sistemas utilizando um determinado protocolo, em que os recursos são acessados e manipulados por meio de requisições padrão como GET, POST, PUT e DELETE, seguindo princípios de simplicidade, escalabilidade e independência de plataforma. Isso posto, marque a opção correta a seguir sobre API REST.
+
+[ALTERNATIVAS]
+(A) Normalmente, uma solicitação PUT cria um novo registro.
+(B) Nenhum dado do cliente é armazenado no servidor entre as solicitações e toda solicitação é separada e desconectada.
+(C) Não há a possibilidade de utilização de cache.
+(D) Utiliza WSDL como linguagem de descrição de serviços web.
+(E) É um protocolo com requisitos específicos, como a mensageria XML.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 66-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Visões em SQL possuem um papel relevante em bancos de dados relacionais. Ela oferece mecanismos importantes, tais como abstração de dados, segurança e simplificação das consultas. Nesse contexto, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) a cláusula WITH CHECK OPTION da SQL é demandada no final da especificação da visão, a fim de que a tornar uma asserção.
+(B) a estratégia de modificação de consultas para a implementação de visões é eficaz para consultas complexas.
+(C) a responsabilidade pela atualização do estado de uma visão é do usuário, que necessita enviar um comando refresh a cada execução.
+(D) uma visão em linha (view em linha) consiste na definição de uma visão na cláusula HAVING de uma consulta SQL.
+(E) visões materializadas criam uma tabela temporária, utilizando técnicas como a atualização incremental.
+
+[GABARITO]
+E

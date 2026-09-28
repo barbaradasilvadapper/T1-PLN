@@ -1,0 +1,18 @@
+ID: 45-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com o crescente número de ataques cibernéticos, o Tribunal Regional Federal da 1ª Região (TRF1) resolveu criar um departamento de cybersegurança. Esse departamento conterá inicialmente os times A e B. A diferença entre eles é que o time A é responsável por ataques e o time B, pela defesa. João, Denise e Sônia foram contratados para o departamento. João realizará coleta de dados, análises dos dados, sistemas, redes e servidores que devem ser protegidos, além de produzirem avaliações de riscos. Denise fará prevenção, identificação, contenção e mitigação de qualquer tentativa de acesso indevido. Sônia buscará vulnerabilidades conhecidas e testará novas combinações de ataques e de engenharia social para obter acesso aos sistemas. De acordo com o que cada um executará, João, Denise e Sônia serão alocados, respectivamente, nos times:
+
+[ALTERNATIVAS]
+(A) A, A e A;
+(B) B, A e A;
+(C) B, B e A;
+(D) B, B e B;
+(E) A, B e B.
+
+[GABARITO]
+C

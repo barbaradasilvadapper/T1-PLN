@@ -1,0 +1,18 @@
+ID: 55-056
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de Sistemas Gerenciadores de Bancos de Dados Relacionais (SGBDR), como SQL Server, PostgreSQL e Oracle, o conceito de transação é fundamental para o processamento de dados. Uma transação corresponde a uma unidade lógica de trabalho que deve ser executada de forma completa e consistente. O uso de transações tem como objetivo principal garantir que o banco de dados
+
+[ALTERNATIVAS]
+(A) maximize a redundância controlada de dados para otimizar a velocidade de recuperação em caso de falhas de hardware.
+(B) mantenha a consistência e a integridade dos dados, assegurando o cumprimento das propriedades de atomicidade, consistência, isolamento e durabilidade.
+(C) dispense a utilização de estruturas de indexação e de restrições de chave estrangeira (foreign keys) nas tabelas.
+(D) centralize o processamento analítico no servidor de aplicação, eliminando a necessidade de mecanismos de controle de concorrência.
+(E) restrinja o acesso simultâneo de múltiplos usuários, priorizando operações de leitura em detrimento de operações de escrita.
+
+[GABARITO]
+B

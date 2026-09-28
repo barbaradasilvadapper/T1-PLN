@@ -1,0 +1,18 @@
+ID: 64-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A respeito de permissões do sistema de arquivos GNU/Linux, analise as afirmativas a seguir. I. O comando "[user@host ~]$ chmod a+x file2" indica que as permissões configuradas para file2 são de leitura, gravação e execução para todos os usuários. II. Somente o usuário root pode alterar o usuário proprietário de um arquivo. No entanto, a propriedade do grupo pode ser definida pelo root ou pelo proprietário do arquivo. III. O comando "[user@host ~]# chmod 750 file" indica que as permissões configuradas para file são de leitura, gravação e execução para user; gravação e execução para o grupo; e nenhuma permissão para os outros usuários.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) II e III, apenas.
+(C) I e III, apenas.
+(D) I e II, apenas.
+(E) II, apenas.
+
+[GABARITO]
+E

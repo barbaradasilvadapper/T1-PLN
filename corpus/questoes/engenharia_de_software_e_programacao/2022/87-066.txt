@@ -1,0 +1,18 @@
+ID: 87-066
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um Grupo de Desenvolvimento de Software (GDS) está trabalhando na especificação de requisitos de um novo aplicativo para dispositivos móveis. Como requisitos não funcionais, o cliente solicitou que o aplicativo atenda às cláusulas de proteção e privacidade de dados em consonância com legislações federais em vigor. Os requisitos não funcionais solicitados pelo cliente devem ser classificados pelo GDS como requisitos:
+
+[ALTERNATIVAS]
+(A) externos;
+(B) de produto;
+(C) de proteção;
+(D) de confiança;
+(E) organizacionais.
+
+[GABARITO]
+A

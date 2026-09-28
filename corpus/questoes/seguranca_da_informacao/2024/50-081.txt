@@ -1,0 +1,18 @@
+ID: 50-081
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A ABNT NBR ISO/IEC 27001:2022, NBR ISO/IEC 27002:2022, os CIS v8, SIEM, e a Lei nº 13.709(LGPD) são algumas das diversas normas e leis que trabalham conjuntamente para assegurar a integridade, confidencialidade e disponibilidade dos dados no contexto da segurança da informação. Assinale a opção que descreve corretamente uma contribuição combinada dessas leis e normas.
+
+[ALTERNATIVAS]
+(A) Apenas a implementação da LGPD é suficiente para garantir a conformidade legal e a segurança da informação, tornando as outras normas e controles redundantes.
+(B) O ponto chave dos Sistemas de Gerenciamento de Informações e Eventos de Segurança (SIEM) oferecer somente práticas de segurança pessoal em tempo real que deve ser combinado as demais normas e leis.
+(C) As normas ABNT NBR ISO/IEC estabelecem os requisitos gerais de segurança, a LGPD foca na proteção de dados pessoais, e os SIEM proporcionam a visão e controle operacionais necessários.
+(D) A adoção dos CIS Critical Security Controls v8 cobre os requisitos de segurança e as normas ABNT NBR ISO/IEC fornecem o complemento no que se refere a proteção de dados pessoais.
+(E) A ABNT NBR ISO/IEC 27001:2022 e a 27002:2022 são as únicas que fornecem uma abordagem baseada em risco que utilizará os outros mecanismos para organizar e controlar os sistemas de segurança.
+
+[GABARITO]
+C

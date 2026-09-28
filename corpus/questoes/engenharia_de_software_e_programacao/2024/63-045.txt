@@ -1,0 +1,18 @@
+ID: 63-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Desenvolvimento Orientado por Comportamento (BDD) facilita a colaboração entre as partes interessadas e desenvolvedores ao usar uma linguagem comum para descrever o comportamento do sistema. Sobre o BDD, analise as afirmativas a seguir. I. No BDD, os novos comportamentos são adicionados e testados em pequenos ciclos contínuos, sendo assim um método iterativo, mas não incremental. II. No BDD, a documentação é atualizada automaticamente a cada ciclo. III. A prática de escrever testes antes do desenvolvimento do código é um elemento essencial do BDD.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 28-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O TJSE vai implementar uma rede local no seu setor de atendimento ao público, que deve funcionar sem interrupção mesmo quando novos computadores forem adicionados a ela. Além disso, eles desejam que a rede possua um gerenciamento centralizado do tráfego de dados. O setor de TI, responsável pela especificação de rede, definiu que a rede terá uma topologia do tipo:
+
+[ALTERNATIVAS]
+(A) anel;
+(B) barramento;
+(C) estrela;
+(D) malha;
+(E) ponto a ponto.
+
+[GABARITO]
+C

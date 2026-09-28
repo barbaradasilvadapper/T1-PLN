@@ -1,0 +1,18 @@
+ID: 52-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O COBIT 2019 traz uma série de categoria de indicadores para apoiar o monitoramento e a avaliação da TI, entre eles o chamado KGI. Um KGI consiste em:
+
+[ALTERNATIVAS]
+(A) tempo médio de resolução de incidentes.
+(B) percentual de projetos entregues no prazo.
+(C) percentual de disponibilidade de sistemas críticos.
+(D) aumento da receita por trimestre.
+(E) número de funcionários treinados em segurança da informação.
+
+[GABARITO]
+D

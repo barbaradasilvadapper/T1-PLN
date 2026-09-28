@@ -1,0 +1,18 @@
+ID: 29-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João é um administrador de banco de dados MySQL e precisa criar uma rotina de carga de dados para ler os dados do arquivo "dados.csv" e inserir na tabela “tabela_dados”. Para tal, João deverá utilizar o comando:
+
+[ALTERNATIVAS]
+(A) insert into tabela_dados values 'dados.csv';
+(B) insert all from 'dados.csv' into tabela_dados;
+(C) import data 'dados.csv' to tabela_dados fields terminated by ',' lines terminated by '\n' ignore 1 lines (id, nome);
+(D) load to 'dados.csv' into table tabela_dados fields terminated by ',' lines terminated by '\n' ignore 1 lines (id, nome);
+(E) load data infile 'dados.csv' into table tabela_dados fields terminated by ',' lines terminated by '\n' ignore 1 lines (id, nome);
+
+[GABARITO]
+E

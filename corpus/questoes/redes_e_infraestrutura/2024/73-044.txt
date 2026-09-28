@@ -1,0 +1,18 @@
+ID: 73-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Fabiana está realizando configurações avançadas em uma estação de trabalho Windows. Em determinado momento, Fabiana precisou listar as variáveis de ambiente em um terminal Powershell. A analista não utilizou nenhum alias ou versão alternativa dos comandos básicos do Powershell. Para listar as variáveis de ambiente em um terminal Powershell, Fabiana executou o comando:
+
+[ALTERNATIVAS]
+(A) Set
+(B) Env
+(C) Echo $Env
+(D) Get-ChildItem Env:
+(E) Get-ChildItem $Env
+
+[GABARITO]
+D

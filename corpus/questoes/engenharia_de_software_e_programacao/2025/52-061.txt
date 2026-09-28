@@ -1,0 +1,18 @@
+ID: 52-061
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em relação aos principais conceitos de metodologias de gerenciamento de projetos, analise as afirmativas a seguir. I. Scrum é adequado quando se deseja um processo iterativo, com entregas parciais e reuniões frequentes de alinhamento. II. O Kanban exige definição prévia do escopo completo antes do início das atividades, e limita-se a tarefas com prazos fixos. III. O modelo cascata é mais indicado para projetos com escopo bem definido, baixa tolerância a mudanças e forte exigência documental. IV. Ao adotar Kanban, é possível aplicar limites ao trabalho em andamento (WIP) e focar na otimização do fluxo contínuo. V. O Scrum Master, no modelo tradicional, é o responsável por garantir que as fases sejam concluídas sequencialmente e conforme o cronograma.
+
+[ALTERNATIVAS]
+(A) I e III, apenas.
+(B) II, IV e V, apenas.
+(C) I, III e IV, apenas.
+(D) I e IV, apenas.
+(E) I, II, III, IV e V.
+
+[GABARITO]
+C

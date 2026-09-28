@@ -1,0 +1,18 @@
+ID: 95-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto de um script JavaScript numa página Web, considere o trecho a seguir. <script> function teste(x) { return (x / 2); } alert (teste); </script> É correto afirmar sobre esse script que:
+
+[ALTERNATIVAS]
+(A) há um erro de sintaxe que impede sua execução;
+(B) quando executado, exibe a definição da função teste;
+(C) quando executado, exibe o valor 0;
+(D) quando executado, exibe o valor undefined;
+(E) quando executado, o comando alert não é acionado.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 13-073
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Lucas está instalando no MPU a ferramenta Rancher, com o objetivo de facilitar o gerenciamento de contêineres. A fim de escolher a distribuição do Kubernetes que o Rancher irá operar, Lucas estabeleceu as seguintes condições: a distribuição escolhida deve ser compatível com o Rancher, não deve depender de nuvens externas e não deve depender do Docker como runtime de contêineres. Diante dessas condições, o analista deve escolher, entre as distribuições do Kubernetes:
+
+[ALTERNATIVAS]
+(A) EKS e K3s;
+(B) RKE2 e K3s;
+(C) RKE1 e K3s;
+(D) RKE1 e EKS;
+(E) RKE1 e RKE2.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 59-072
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O cluster de um sistema celular foi definido com 12 células, onde cada célula possui um raio R c . Sabendo disso, a distância entre dois clusters é:
+
+[ALTERNATIVAS]
+(A) 3R c ;
+(B) 4R c ;
+(C) 5R c ;
+(D) 6R c ;
+(E) 7R c .
+
+[GABARITO]
+D

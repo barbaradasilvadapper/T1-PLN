@@ -1,0 +1,18 @@
+ID: 18-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A técnica de modelagem de dados que impacta negativamente no desempenho das consultas de uma base multidimensional, pois aumenta a quantidade de joins, é a:
+
+[ALTERNATIVAS]
+(A) criação de chaves substitutas;
+(B) conformidade das dimensões;
+(C) não aditividade dos fatos;
+(D) degeneração das dimensões;
+(E) normalização das dimensões.
+
+[GABARITO]
+E

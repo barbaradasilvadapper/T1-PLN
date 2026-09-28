@@ -1,0 +1,18 @@
+ID: 27-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Kléber está instalando um novo servidor de Network File System (NFS). O novo servidor de NFS se localiza em uma rede com enlaces altamente confiáveis, que não apresentam perdas de pacote, mesmo em condições de sobrecarga. Devido à alta confiabilidade da rede, Kléber optou por desativar o controle de congestionamento no servidor, a fim de aliviar a carga de processamento. Dessa forma, Kléber instalou a versão mais recente possível do NFS compatível com transporte por User Datagram Protocol (UDP). Logo, Kléber procedeu com a instalação do NFS:
+
+[ALTERNATIVAS]
+(A) v1;
+(B) v2;
+(C) v3;
+(D) v4;
+(E) v4.1.
+
+[GABARITO]
+C

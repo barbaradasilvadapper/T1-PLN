@@ -1,0 +1,18 @@
+ID: 15-050
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O desenvolvimento para dispositivos móveis, tanto em Android quanto em iOS, abrange a criação de aplicações projetadas para operar em ambientes altamente dinâmicos, explorando recursos nativos dos smartphones e tablets para oferecer experiências interativas, responsivas e alinhadas às demandas atuais de mobilidade e conectividade. Com relação a estes sistemas operacionais móveis, podemos afirmar que
+
+[ALTERNATIVAS]
+(A) possuem grande variedade de fabricantes e alta personalização do sistema.
+(B) utilizam a linguagem Kotlin como sua linguagem de desenvolvimento nativa principal.
+(C) os aplicativos devem ajustar sua interface e comportamento a diferentes tamanhos, resoluções e proporções de tela, garantindo uma experiência consistente e funcional em meio à ampla diversidade de dispositivos presentes no mercado.
+(D) o iOs é mais versátil em termos de integração com diferentes plataformas.
+(E) os aplicativos iOs podem ser baixados diretamente da Play Store, a loja de aplicativos da Apple.
+
+[GABARITO]
+C

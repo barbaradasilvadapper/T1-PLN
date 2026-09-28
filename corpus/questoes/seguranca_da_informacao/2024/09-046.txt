@@ -1,0 +1,18 @@
+ID: 09-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em um ambiente corporativo, uma empresa de e-commerce precisa garantir a segurança das transações realizadas por seus clientes através de seu site. Para isso, o site utiliza o protocolo HTTPS, que combina o protocolo HTTP com uma camada adicional de segurança. Assinale a opção que apresenta a diferença entre os protocolos SSL e TLS no contexto de sua aplicação em comunicações seguras via HTTPS.
+
+[ALTERNATIVAS]
+(A) O SSL é mais seguro que o TLS, pois utiliza um algoritmo de criptografia mais avançado.
+(B) O TLS substitui o SSL, corrigindo vulnerabilidades encontradas nas versões anteriores do SSL e implementando melhorias de segurança.
+(C) O TLS e o SSL são intercambiáveis, pois ambos oferecem o mesmo nível de segurança, com a única diferença sendo a compatibilidade de alguns navegadores.
+(D) O HTTPS só funciona com o protocolo SSL, pois foi o primeiro protocolo desenvolvido para essa finalidade.
+(E) O SSL e o TLS são usados conjuntamente para garantir um nível de segurança adicional em transações bancárias, sendo o SSL utilizado para a autenticação e o TLS para a criptografia dos dados.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 91-032
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A elicitação de requisitos é uma atividade central da engenharia de requisitos. Assinale a técnica de elicitação que extrai informações necessárias para construir um novo sistema a partir do código fonte de um sistema legado.
+
+[ALTERNATIVAS]
+(A) arqueologia de sistemas.
+(B) entrevista dos stakeholders.
+(C) leitura baseada em perspectiva.
+(D) mapas mentais.
+(E) observação de campo.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 50-076
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Internet é formada por um grande número de sistemas autônomos (SAs). Cada SA é operado por uma organização diferente e pode usar seu próprio algoritmo de roteamento interno. Um algoritmo de roteamento em um SA é chamado de protocolo de gateway interior, já um algoritmo para roteamento entre SAs é chamado de protocolo de gateway exterior. A respeito desses protocolos, analise os itens a seguir: I. O protocolo de gateway interior recomendado na Internet é o BGP; II. O protocolo OSPF é baseado no roteamento de vetor de distância; III. Os protocolos de gateway exterior foram projetados para permitir a imposição de muitos tipos de políticas de roteamento no tráfego entre SAs.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) I, apenas.
+(E) III, apenas.
+
+[GABARITO]
+E

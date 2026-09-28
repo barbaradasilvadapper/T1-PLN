@@ -1,0 +1,18 @@
+ID: 63-076
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação às estruturas de dados em listas, analise as afirmativas a seguir. I. Em uma lista não ordenada, os elementos devem estar organizados em ordem decrescente das respectivas chaves. II. Uma lista encadeada é uma estrutura de dados, na qual os objetos estão organizados em ordem linear. III. Em uma lista duplamente encadeada, cada elemento deve apontar para o elemento anterior e para o próximo.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

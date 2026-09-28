@@ -1,0 +1,18 @@
+ID: 32-083
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Na criptografia, o conceito de força de uma cifra representa a dificuldade para se encontrar a chave em um processo de busca exaustiva. Esse conceito permite comparar sistemas criptográficos bastante distintos por meio de um número em comum. Normalmente a força de uma cifra é representada em número de bits. Nesse contexto, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) as cifras assimétricas sempre possuem força maior que cifras simétricas.
+(B) uma cifra RSA de 1024bits é 4 vezes mais forte que uma cifra AES 256bits.
+(C) uma cifra é matematicamente indecifrável apenas quando sua força é infinita.
+(D) uma cifra tipo One Time Pad é considerada teoricamente segura segundo a teoria da informação.
+(E) a força de uma cifra assimétrica é igual à dificuldade de se descobrir sua chave pública.
+
+[GABARITO]
+D

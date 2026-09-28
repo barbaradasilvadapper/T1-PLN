@@ -1,0 +1,18 @@
+ID: 55-074
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No contexto da Lei nº 13.709/2018 (LGPD), um Tribunal de Justiça utiliza um sistema informatizado para registrar e dar andamento a processos, realizando o tratamento de dados pessoais das partes, advogados e demais envolvidos. Considerando essa situação, assinale a opção que identifica corretamente a base legal em que se fundamenta o tratamento de dados pessoais realizado pelo Tribunal.
+
+[ALTERNATIVAS]
+(A) Consentimento do titular, em razão da necessidade de autorização prévia para o uso de dados em sistemas informatizados.
+(B) Legítimo interesse do controlador, visando ao apoio e à promoção de atividades que beneficiem a sociedade.
+(C) Cumprimento de obrigação legal ou regulatória pelo controlador.
+(D) Proteção da vida ou da incolumidade física do titular ou de terceiro, dada a natureza da atividade jurisdicional.
+(E) Proteção do crédito, em razão da natureza econômica e patrimonial das demandas judiciais.
+
+[GABARITO]
+C

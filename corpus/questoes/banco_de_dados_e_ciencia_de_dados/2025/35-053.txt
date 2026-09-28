@@ -1,0 +1,18 @@
+ID: 35-053
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O MySQL 9.0 utiliza diversos tipos de logs, cada tipo contém informações sobre determinadas atividades executadas pelo SGBD e que podem ser úteis em atividade de auditoria. O log que mantém informações sobre consultas que demoravam mais que um determinado tempo estipulado pela variável de sistema “long_query_time” (medida em segundos) para serem executadas é o
+
+[ALTERNATIVAS]
+(A) ddl log.
+(B) error log.
+(C) slow query log.
+(D) long query log.
+(E) general query log.
+
+[GABARITO]
+C

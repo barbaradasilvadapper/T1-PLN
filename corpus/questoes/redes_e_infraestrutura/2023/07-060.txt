@@ -1,0 +1,18 @@
+ID: 07-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Débora instalou um novo servidor de containers Docker no TJSE. Com o objetivo de maximizar a disponibilidade do servidor, Débora optou por utilizar o driver de storage Docker capaz de realizar armazenamento em nível de bloco, provisionamento fino e snapshots copy-on-write. O driver de storage escolhido por Débora necessita de um sistema de arquivos específico, disponível nativamente no kernel do Linux. Débora escolheu o driver de storage Docker:
+
+[ALTERNATIVAS]
+(A) zfs;
+(B) vfs;
+(C) aufs;
+(D) btrfs;
+(E) overlay2.
+
+[GABARITO]
+D

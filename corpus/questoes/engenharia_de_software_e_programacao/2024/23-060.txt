@@ -1,0 +1,17 @@
+ID: 23-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Teoricamente, um programa escrito em C é compatível com um compilador C++. Com relação a compatibilidade com um compilador C++, analise os itens a seguir. I. Na realidade essa compatibilidade não é de 100% pois o C++ possui mais palavras reservadas e um código C que utilize uma destas palavras não é um programa C++ correto. II. Em C++ uma estrutura só é válida no escopo em que foi declarada enquanto no código escrito em C o escopo de declaração é sempre global. III. O uso de bibliotecas C em programas C++ é sempre possível pois o C++ permitir sobrecarga de nomes de funções e os compiladores empregam a mesma regra para geração dos nomes durante a compilação da função.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 77-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Assembleia está avaliando o uso de uma blockchain privada para o registro imutável de seus Atos Oficiais. Uma das características fundamentais que confere segurança a essa tecnologia é a imutabilidade dos registros. Assinale a combinação de mecanismos técnicos que garante a imutabilidade dos dados em uma blockchain após a criação de um bloco
+
+[ALTERNATIVAS]
+(A) Proof-of-Stake (PoS) e chaves simétricas.
+(B) Criptografia assimétrica (RSA) e Web of Trust.
+(C) Função Hash Criptográfica para encadeamento e Mecanismo de Consenso para validação distribuída.
+(D) Smart Contracts e Gossip Protocol.
+(E) Criptografia de ponta a ponta e Rate Limiting.
+
+[GABARITO]
+C

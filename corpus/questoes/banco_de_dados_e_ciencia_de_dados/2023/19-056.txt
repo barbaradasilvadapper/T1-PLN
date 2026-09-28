@@ -1,0 +1,18 @@
+ID: 19-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de administração de banco de dados MySQL, ao planejar o armazenamento de tabelas e índices, considerando otimizar a alocação de espaço e melhorar o desempenho do sistema, é recomendado:
+
+[ALTERNATIVAS]
+(A) definir tamanhos de página menores para todas as tabelas e índices para reduzir a fragmentação;
+(B) utilizar a compactação de tabelas para economizar espaço em disco, independentemente do tipo de dado;
+(C) utilizar partições para separar dados históricos de dados recentes em tabelas com alta taxa de inserção;
+(D) armazenar todos os índices em um disco (SSD) e as tabelas de dados em um disco rígido tradicional (HDD) para equilibrar o desempenho e o custo;
+(E) utilizar o mecanismo de armazenamento MyISAM para todas as tabelas, pois ele oferece melhor desempenho em leitura e é compatível com a propriedade ACID.
+
+[GABARITO]
+C

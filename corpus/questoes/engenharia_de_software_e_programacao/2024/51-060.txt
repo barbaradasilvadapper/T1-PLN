@@ -1,0 +1,18 @@
+ID: 51-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No Scrum, um papel é responsável por maximizar o valor do produto e do trabalho da equipe, além de definir e ordenar o Product Backlog, papel esse exercido pelo
+
+[ALTERNATIVAS]
+(A) Product Owner.
+(B) Scrum Master.
+(C) Desenvolvedor.
+(D) Stakeholder.
+(E) Gerente de Projetos.
+
+[GABARITO]
+A

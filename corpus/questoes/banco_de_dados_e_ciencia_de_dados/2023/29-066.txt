@@ -1,0 +1,18 @@
+ID: 29-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista Luca, do Setor de Inovação do TJSE, está propondo a criação de um ambiente para armazenar dados que não se sabe, a priori, qual é a sua estrutura, ou seja, um banco de dados schemaless. Então, Luca solicitou ao Setor de Infraestrutura a disponibilização de um banco de dados em que as entidades são armazenadas em nós e os relacionamentos entre essas entidades são armazenados em vértices. Para atender a demanda de Luca, o Setor de Infraestrutura deverá disponibilizar um banco de dados:
+
+[ALTERNATIVAS]
+(A) Grafo;
+(B) Colunar;
+(C) Chave-valor;
+(D) Multidimensional;
+(E) Orientado a documento.
+
+[GABARITO]
+A

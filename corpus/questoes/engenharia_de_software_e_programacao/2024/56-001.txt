@@ -1,0 +1,18 @@
+ID: 56-001
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A fábrica de software SeuSW estabeleceu formalmente um Processo Geral (PG) para condução de projetos de desenvolvimento de diferentes tipos de produtos de software. Assim, a descrição do processo contém a definição do ciclo de vida do projeto e a lista de tarefas a serem executadas. Considerando o Modelo de Referência MPS.BR (Melhoria de Processo do Software Brasileiro), o PG da SeuSW estará, minimamente, aderente a um resultado esperado para o nível:
+
+[ALTERNATIVAS]
+(A) "G" quando protótipos, demonstrações ou revisões forem utilizados para validar os requisitos;
+(B) "G" quando a rastreabilidade bidirecional entre requisitos, atividades e produtos de trabalho do projeto for estabelecida e mantida;
+(C) "F" quando os treinamentos identificados como necessários para capacitação dos colaboradores forem realizados e registrados;
+(D) "F" quando as estimativas de dimensão de tarefas e produtos de trabalho do projeto forem estabelecidas com a utilização da Análise de Pontos por Função;
+(E) "E" quando o processo definido para o projeto, derivado da estratégia para adaptação do processo da organização, for estabelecido, mantido atualizado e utilizado.
+
+[GABARITO]
+B

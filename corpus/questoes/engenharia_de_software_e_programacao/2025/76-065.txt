@@ -1,0 +1,18 @@
+ID: 76-065
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um sistema que utiliza a prática de Integração Contínua, o código é frequentemente integrado e testado automaticamente. A metodologia XP enfatiza a prática de Refatoração como essencial para a qualidade contínua. no contexto da Refatoração contínua, o conceito de Technical Debt representa
+
+[ALTERNATIVAS]
+(A) o custo financeiro total do desenvolvimento, incluindo salários e software.
+(B) o atraso na entrega de novas funcionalidades devido à má documentação dos requisitos.
+(C) a diferença entre o cronograma do projeto e o cronograma real de desenvolvimento.
+(D) o custo futuro de retrabalho imposto por decisões de design ou implementações de baixa qualidade feitas no passado.
+(E) a quantidade de testes unitários que a equipe ainda precisa escrever para atingir 100% de cobertura.
+
+[GABARITO]
+D

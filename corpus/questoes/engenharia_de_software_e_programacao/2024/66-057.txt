@@ -1,0 +1,18 @@
+ID: 66-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Linguagem de Modelagem Unificada (de UML – Unified Modeling Language) é uma linguagem padrão e visual utilizada para modelar sistemas de software. Ela busca facilitar a comunicação entre equipes, documenta sistemas, apoia o teste de software, e é útil em prototipagem e design iterativo. No que concerne aos artefatos da UML, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A herança múltipla descreve uma condição de modelagem na qual uma classe possui mais de uma subclasse.
+(B) A temporalidade dos processos é explicitamente capturada na sequência de interações do diagrama de comunicação.
+(C) Estereótipos são mecanismos de uso geral que estendem o significado de um elemento de um diagrama.
+(D) O diagrama de pacotes representa a interação entre objetos na ordem temporal em que acontecem.
+(E) O empacotamento do diagrama de sequência é possível pela composição do diagrama de transição estado.
+
+[GABARITO]
+C

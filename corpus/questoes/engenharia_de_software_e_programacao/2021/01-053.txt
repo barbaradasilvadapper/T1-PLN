@@ -1,0 +1,18 @@
+ID: 01-053
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código Python 2.7 a seguir. def ABC(L, n): while True: if len(L) >= n: return L else: L.append(len(L) ** 2) print ABC([20],10) O resultado da execução desse código é:
+
+[ALTERNATIVAS]
+(A) [1, 4, 9, 16, 25, 36, 49, 64]
+(B) [1, 4, 9, 16, 25, 36, 49, 64, 81]
+(C) [20, 1, 4, 9, 16, 25, 36, 49, 64]
+(D) [20, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+(E) [20, 4, 9, 16, 25, 36, 49, 64, 81]
+
+[GABARITO]
+D

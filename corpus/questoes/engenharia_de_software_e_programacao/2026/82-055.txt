@@ -1,0 +1,18 @@
+ID: 82-055
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A arquitetura REST (Representational State Transfer), proposta por Roy Fielding, define um conjunto de restrições arquiteturais para o projeto de serviços web escaláveis, baseados no protocolo HTTP. Os serviços RESTful utilizam os métodos HTTP (GET, POST, PUT, PATCH, DELETE) como verbos de operação, URIs como identificadores de recursos, e códigos de status HTTP para comunicar o resultado das operações, promovendo interoperabilidade, desacoplamento entre cliente e servidor e navegabilidade entre recursos. Considere que uma equipe de desenvolvimento está projetando uma API RESTful para um sistema de gerenciamento de tarefas. A API deverá permitir as operações de criação, leitura, atualização completa, atualização parcial e exclusão de tarefas. A equipe definiu o recurso tarefa e precisa mapear corretamente os métodos HTTP, as URIs e os códigos de status de resposta. Considerando as restrições arquiteturais REST e as boas práticas de projeto de APIs RESTful, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O método HTTP POST /tarefas/15 é o método correto para recuperar uma tarefa específica, pois o POST é o único método HTTP capaz de transportar identificadores na URI e retornar dados no corpo da resposta.
+(B) O método HTTP GET /tarefas/15 é utilizado para recuperar a representação da tarefa com identificador 15, e a resposta bem-sucedida deve retornar o código de status 200 OK com os dados do recurso no corpo da resposta. O método GET é considerado seguro (safe) e idempotente, pois não altera o estado do recurso no servidor.
+(C) O método HTTP PUT /tarefas/15 é utilizado para aplicar modificações parciais em campos específicos da tarefa, enviando no corpo da requisição apenas os atributos que devem ser alterados, sem necessidade de enviar a representação completa do recurso.
+(D) O método HTTP DELETE /tarefas sem identificador específico é a forma recomendada pela arquitetura REST para excluir uma única tarefa, cabendo ao servidor identificar automaticamente qual recurso deve ser removido com base no conteúdo do cabeçalho User-Agent.
+(E) Na arquitetura REST, os serviços devem obrigatoriamente manter o estado da sessão do cliente no servidor (stateful) entre requisições consecutivas, armazenando informações como autenticação e contexto de navegação em variáveis de sessão no lado do servidor.
+
+[GABARITO]
+B

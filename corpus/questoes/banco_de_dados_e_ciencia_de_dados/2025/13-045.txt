@@ -1,0 +1,18 @@
+ID: 13-045
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João está aprendendo banco de dados orientado a documento. Para começar, João buscou a correspondência com a sua área de conhecimento, que é a álgebra relacional e o banco de dados relacional. Em seu estudo, João identificou que uma relação (relation) da álgebra relacional corresponde, no MySQL e no MongoDB, respectivamente, a:
+
+[ALTERNATIVAS]
+(A) column e field;
+(B) row e document;
+(C) table e collection;
+(D) tuple e attribute;
+(E) foreign key e hierarchy.
+
+[GABARITO]
+C

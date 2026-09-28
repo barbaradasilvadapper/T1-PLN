@@ -1,0 +1,18 @@
+ID: 33-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma empresa de consultoria foi contratada pela empresa X na tentativa de adequar a sua segurança à norma ABNT NBR ISO/IEC 27002:2013. Ao analisar o relatório final da consultoria, a empresa X notou algumas observações sobre o controle de acesso à informação e às funções dos sistemas de aplicações, necessários para que ela siga uma política de controle de acesso. Como forma de restrição de acesso à informação, o controle sugerido pela consultoria foi:
+
+[ALTERNATIVAS]
+(A) limitar a informações contidas nas saídas;
+(B) registrar tentativas de acesso ao sistema, incluindo as sem sucesso e as bem-sucedidas;
+(C) obrigar os usuários a mudarem as suas senhas temporárias no primeiro acesso ao sistema;
+(D) mostrar um aviso geral informando que o computador deve ser acessado somente por usuários autorizados;
+(E) permitir que os usuários selecionem e modifiquem suas próprias senhas, incluindo um procedimento de confirmação para evitar erros.
+
+[GABARITO]
+A

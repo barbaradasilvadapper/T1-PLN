@@ -1,0 +1,18 @@
+ID: 04-058
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Poder Judiciário criou a Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) para disponibilizar soluções para uso por todos os sistemas de processo judicial eletrônico do Poder Judiciário nacional. A PDPJ-Br é disponibilizada na forma de um marketplace que pode ser hospedada em nuvem. O requisito a ser observado para permitir a hospedagem da PDPJ- Br em um provedor de serviços de nuvem é que a nuvem:
+
+[ALTERNATIVAS]
+(A) seja híbrida e exclusiva para o Poder Judiciário;
+(B) seja híbrida, podendo ser compartilhada somente outro órgão público;
+(C) armazene os dados em um datacenter em território nacional;
+(D) transmita os dados por equipamentos em território nacional;
+(E) realize o backup dos dados em equipamentos do Poder Judiciário.
+
+[GABARITO]
+C

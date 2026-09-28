@@ -1,0 +1,18 @@
+ID: 39-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Marcos trabalha no setor de segurança de redes da empresa X Ltda. e, ao observar o arquivo de log do roteador, notou uma grande quantidade de acessos indesejados, provenientes de diferentes servidores, em curto espaço de tempo. Durante o período em que ocorreram os acessos, diversas reclamações acerca do tempo de resposta foram recebidas pela equipe de suporte. Marcos concluiu, corretamente, que ocorreu um ataque do tipo:
+
+[ALTERNATIVAS]
+(A) Phishing;
+(B) Ransomware;
+(C) DDoS;
+(D) Backdoor;
+(E) Keylogger.
+
+[GABARITO]
+C

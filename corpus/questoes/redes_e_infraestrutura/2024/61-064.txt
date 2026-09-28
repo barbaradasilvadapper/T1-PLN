@@ -1,0 +1,18 @@
+ID: 61-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa está trabalhando com ambiente Kubernetes para orquestração de containers. Nesse caso, significa que esse ambiente vai ter como característica
+
+[ALTERNATIVAS]
+(A) a automatização e simplificação do provisionamento, implementação e gerenciamento de aplicações em contêineres.
+(B) a criação de scripts, desde a instalação de um sistema operacional até a instalação e configuração de todos os serviços da rede.
+(C) a configuração da infraestrutura de TI, através de testes funcionais, para anteceder problemas dos serviços em produção.
+(D) o processamento dos diversos tipos de tarefas, que serão executadas com base no sucesso das tarefas anteriores, formando um fluxo.
+(E) o registro de todas as alterações de arquivos ao longo do tempo, de forma a possibilitar a recuperação de versões específicas dos mesmos.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 33-076
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A plataforma digital do Poder Judiciário brasileiro (PDPJ-Br) foi criada com o objetivo integrar e consolidar todos os sistemas eletrônicos do Judiciário brasileiro em um único ambiente unificado. Para tanto, a PDPJ-BR adota soluções que abrangem o conceito de computação em nuvem. A PDPJ-Br poderá ser provida por um serviço de computação em nuvem fornecido por uma empresa privada, desde que:
+
+[ALTERNATIVAS]
+(A) o armazenamento dos dados ocorra em datacenter abrigado na sede da empresa contratada;
+(B) atenda aos requisitos de disponibilidade, de escalabilidade, de redundância e de criptografia;
+(C) permita o compartilhamento não oneroso do código-fonte dos artefatos que venham a ser hospedados na nuvem;
+(D) permita a mensuração de uso dos recursos da nuvem conforme critérios pactuados pela empresa contratada;
+(E) possibilite a conformidade com as normas técnicas e outras estabelecidas em ato próprio do coordenador do comitê gestor de segurança da informação do Poder Judiciário.
+
+[GABARITO]
+B

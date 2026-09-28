@@ -1,0 +1,18 @@
+ID: 58-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Assinale a opção que apresenta a sintaxe correta do comando Power Shell que exibe o valor do parâmetro WindowsProductId no Windows 10.
+
+[ALTERNATIVAS]
+(A) Get-ComputerInfo | -filter "*ProductId*"
+(B) Get-ComputerInfo | Out-String | include Product
+(C) Get-ComputerInfo include "Product"
+(D) Get-ComputerInfo -Property WindowsProductId
+(E) Get-ComputerInfo Where-Object "*WindosProductId*"
+
+[GABARITO]
+D

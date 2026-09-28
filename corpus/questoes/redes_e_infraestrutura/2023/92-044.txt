@@ -1,0 +1,18 @@
+ID: 92-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um administrador de redes trabalha em uma corporação que possui em seu escritório sede, uma rede configurada com endereços IPv4 na sub-rede 192.168.10.0/24, sendo que os endereços 192.168.10.0 e 192.168.10.255 são reservados para identificação da rede e para broadcast, respectivamente. Nesse contexto, a forma correta de fornecer endereços IPv4 disponíveis de forma automática aos dispositivos conectados a esta rede é por meio de um servidor:
+
+[ALTERNATIVAS]
+(A) NAT.
+(B) DNS.
+(C) FTP.
+(D) HTTP.
+(E) DHCP.
+
+[GABARITO]
+E

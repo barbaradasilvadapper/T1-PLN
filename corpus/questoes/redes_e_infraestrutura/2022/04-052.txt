@@ -1,0 +1,18 @@
+ID: 04-052
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de analistas de sistemas do TJDFT desenvolveu o Operator COperator para o servidor OpenShift OSServer do Tribunal a fim de automatizar o gerenciamento da aplicação Kubernetes AppK. Para implantar o COperator no formato Bundle através do OLM (Operator Lifecycle Manager) do OSServer, a equipe precisou definir os metadados referentes a nome e mantenedor do COperator no seu respectivo:
+
+[ALTERNATIVAS]
+(A) install plan;
+(B) cluster service version;
+(C) registry;
+(D) operator groups;
+(E) operator conditions. – Página 13 Tipo
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 87-056
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um funcionário foi temporariamente alocado em uma mesa com um computador com um sistema operacional Linux. Ele gostaria de editar algumas planilhas que criou usando o software Microsoft Excel. Uma aplicação que atende à necessidade desse usuário é:
+
+[ALTERNATIVAS]
+(A) GNU Planilhas;
+(B) LibreOffice Calc;
+(C) OpenOffice Excel;
+(D) GIMP;
+(E) GNU Emacs.
+
+[GABARITO]
+B

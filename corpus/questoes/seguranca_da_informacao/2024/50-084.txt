@@ -1,0 +1,18 @@
+ID: 50-084
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considerando os protocolos de segurança EAP, WEP, WPA e WPA2, é correto, para a segurança de uma rede sem fio, que devemos
+
+[ALTERNATIVAS]
+(A) utilizar exclusivamente o protocolo EAP, uma vez que sua antiguidade no mercado o torna amplamente compatível com diversos dispositivos e sistemas operacionais.
+(B) preferir autenticação somente com WPA2 e criptografia WEP, pois ele é criado para garantir a conexão dos dispositivos dos usuários, minimizando obstáculos de acesso.
+(C) implementar o protocolo WPA2 juntamente com EAP para uma camada adicional de autenticação, garantindo assim uma conexão segura e uma defesa robusta contra ataques.
+(D) usar a criptografia WPA para aumentar a velocidade de transmissão de dados, compensando através do uso intensivo de softwares antivírus nos dispositivos conectados.
+(E) configurar a rede para permitir conexões anônimas, facilitando assim o gerenciamento de dispositivos IoT na infraestrutura sem sacrificar a segurança.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 14-067
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+VueJS é um framework utilizado para construir interfaces de usuário. Com relação aos recursos do framework, avalie as afirmativas a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Ele é construído sobre HTML, CSS e JavaScript padrão e fornece um modelo de programação declarativo baseado em componentes que ajudam o analista-programador a desenvolver eficientemente interfaces de usuário de qualquer complexidade. ( ) Ele pode ser usado de diferentes maneiras, por exemplo, para melhorar HTML estático sem uma etapa de construção; Incorporar componentes da Web em qualquer página; desenvolver aplicações SPA e renderizar Fullstack/Server-Side. ( ) Os componentes do VueJS podem ser criados a partir de três diferentes estilos de API, a saber: API de opções, API de adaptação de dispositivo e API de composição.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – F – V.
+(C) V – F – F.
+(D) F – V – V.
+(E) F – F – V.
+
+[GABARITO]
+A

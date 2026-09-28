@@ -1,0 +1,18 @@
+ID: 84-047
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o trecho de código JavaScript a seguir. const xxxxx = ... let texto = ""; for (const x of xxxxx) { texto += x; } Assinale a definição de xxxxx que não funciona para o código acima.
+
+[ALTERNATIVAS]
+(A) const xxxxx = "abcdefghijklmnopqrstuvwxyz";
+(B) const xxxxx = [undefined, null];
+(C) const xxxxx = {10,12,14};
+(D) const xxxxx = new Set(["a","b","c"]);
+(E) const xxxxx = new Map([["Um", 1], ["Dois", 2]]);
+
+[GABARITO]
+C

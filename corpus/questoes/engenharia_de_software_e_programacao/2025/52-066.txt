@@ -1,0 +1,18 @@
+ID: 52-066
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Leia a descrição a seguir. “É uma cópia de um repositório existente para o seu próprio namespace ou conta, permitindo realizar alterações e experimentar o projeto livremente, pois a cópia é totalmente sua e você tem permissão para fazer push para ela”. O elemento do sistema de controle de versão git correspondente à descrição citada é:
+
+[ALTERNATIVAS]
+(A) Tag.
+(B) Branch.
+(C) Fork.
+(D) Commit.
+(E) GitLab.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 43-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Wallace é um administrador de empresas e, em virtude do seu trabalho, viaja com frequência. Nesse processo, ele acessa redes sem fio tanto públicas quanto privadas. Ao chegar a um local de embarque, como aeroporto ou rodoviária, Wallace já começa a buscar por uma rede wifi disponível; caso haja uma rede aberta, ele efetua a conexão, acreditando que a rede pertence ao local de embarque. Com essa atitude, Wallace deixa de atender a uma boa prática de segurança em redes sem fio, na medida em que:
+
+[ALTERNATIVAS]
+(A) não utiliza VPN para a conexão;
+(B) ignora a verificação da legitimidade da conexão;
+(C) não evita o uso de sites específicos;
+(D) usa a rede wifi pública, e não a rede do celular;
+(E) acessa a rede sem fio sem um antimalware instalado no seu dispositivo.
+
+[GABARITO]
+B

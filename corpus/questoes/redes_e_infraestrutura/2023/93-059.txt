@@ -1,0 +1,18 @@
+ID: 93-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+As aplicações Web executadas como parte da arquitetura do protocolo TCP/IP utilizam o protocolo TCP da camada de transporte. O tamanho, em octetos, do cabeçalho TCP é
+
+[ALTERNATIVAS]
+(A) 4.
+(B) 12.
+(C) 16.
+(D) 20.
+(E) 32.
+
+[GABARITO]
+D

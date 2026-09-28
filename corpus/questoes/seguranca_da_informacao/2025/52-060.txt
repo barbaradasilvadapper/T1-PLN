@@ -1,0 +1,18 @@
+ID: 52-060
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O TCE-PE pretende implantar uma solução de edge computing com virtualização em dispositivos de borda, como parte de sua estratégia de modernização da infraestrutura e aproximação do processamento aos pontos de coleta de dados. Essa abordagem, embora traga ganhos em desempenho e autonomia operacional, exige cuidados adicionais com a conformidade legal e o controle dos dados sensíveis. Com base na Lei Geral de Proteção de Dados Pessoais (LGPD) e nas boas práticas de soberania digital, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) O uso de edge computing em ambientes públicos não isenta o controlador da obrigação de manter registros das operações de tratamento realizadas em dispositivos de borda. ( ) Em ambientes de edge computing, o operador pode assumir a responsabilidade pelas decisões sobre finalidade e forma do tratamento de dados pessoais. ( ) A adoção de edge computing com processamento local permite ao controlador exercer supervisão direta sobre o tratamento de dados pessoais, ou indireta, por meio do operador, o que contribui para a conformidade com a LGPD. ( ) A adoção de virtualização local em dispositivos de borda exime o controlador da necessidade de aplicar medidas técnicas e administrativas para garantir a segurança dos dados, conforme o nível de risco.
+
+[ALTERNATIVAS]
+(A) V – V – F – F.
+(B) F – F – V – V.
+(C) F – V – V – F.
+(D) V – F – V – V.
+(E) V – F – V – F.
+
+[GABARITO]
+E

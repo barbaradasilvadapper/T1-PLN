@@ -1,0 +1,18 @@
+ID: 13-076
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código em Java a seguir. package com.mpu.questao; public sealed class MPU {} final class MPF extends MPU {} sealed class MPM extends MPU {} final class MPDFT extends MPU {} non-sealed class MPT extends MPU {} O código acima possui um erro, pois a classe:
+
+[ALTERNATIVAS]
+(A) MPU, sendo sealed, omitiu a cláusula permits;
+(B) MPF, sendo final, não pode estender a classe MPU, que é sealed;
+(C) MPM, sendo sealed, não definiu nenhuma subclasse permitida;
+(D) MPT, sendo non-sealed, não pode estender a classe MPU, que é sealed;
+(E) MPDFT, sendo final, não pode ser declarada após a classe MPM, de escopo protected.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 83-034
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma das práticas que o Maven incentiva é especificar e fazer referência a variáveis para evitar a repetição de um mesmo valor em vários locais diferentes. Desse modo, para acessar a variável predefinida project.basedir, você deve referenciá-la no arquivo POM como
+
+[ALTERNATIVAS]
+(A) <project.basedir>
+(B) ${project.basedir}
+(C) `project.basedir`
+(D) %project.basedir%
+(E) #(project.basedir)
+
+[GABARITO]
+B

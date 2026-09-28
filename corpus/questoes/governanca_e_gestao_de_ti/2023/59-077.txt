@@ -1,0 +1,18 @@
+ID: 59-077
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Os processos de governança de serviços de TI são divididos em 4 domínios, de acordo com o guia COBIT. Os processos do domínio de planejar e organizar têm como objetivos gerais:
+
+[ALTERNATIVAS]
+(A) apresentar como a infraestrutura de TI contribui para o atendimento dos objetivos institucionais da organização;
+(B) identificar, desenvolver ou adquirir soluções de TI que acompanham as mudanças da organização;
+(C) realizar a implantação de novos serviços de TI, levando em conta também aspectos de treinamento e segurança;
+(D) monitorar o funcionamento dos serviços de TI, analisando a aderência aos requisitos definidos para a área;
+(E) realizar a contratação de serviços de TI com base nas expectativas de uma determinada organização.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 95-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Supondo que no Brasil - todo brasileiro tem um, e somente um, CPF; - alguns brasileiros têm um, mas somente um, passaporte válido; - alguns brasileiros têm uma, mas somente uma, carteira de motorista (CNH) válida. A definição correta desses atributos numa tabela relacional normalizada seria:
+
+[ALTERNATIVAS]
+(A) CPF varchar(11) not null CNH varchar(9) UNIQUE Passaporte varchar(9) UNIQUE
+(B) CPF varchar(11) not null UNIQUE CNH varchar(9) UNIQUE Passaporte varchar(9) UNIQUE
+(C) CPF varchar(11) UNIQUE CNH varchar(9) not null Passaporte varchar(9) not null
+(D) CPF varchar(11) not null CNH varchar(9) null Passaporte varchar(9) null
+(E) CPF varchar(11) null CNH varchar(9) UNIQUE Passaporte varchar(9) UNIQUE
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 71-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação a Software Defined Network (SDN), avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) O SDN permite que os usuários finais controlem a rede, podendo alterar e modificar como o tráfego flui. ( ) No SDN, o plano de controle e o plano de dados não podem ser separados. ( ) A virtualização da rede, um conceito importante do SDN, consiste em criar redes virtuais sobre uma rede física usando software.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) V – F – F.
+(C) F – V – F.
+(D) V – V – F.
+(E) V – V – V.
+
+[GABARITO]
+A

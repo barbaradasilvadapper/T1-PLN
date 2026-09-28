@@ -1,0 +1,18 @@
+ID: 69-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Atualmente existem diferentes tipos de implementação de bancos de dados NoSQL, diversas implementações adotam a propriedade de consistência relaxada presente no teorema CAP. As demais propriedades do teorema CAP são
+
+[ALTERNATIVAS]
+(A) disponibilidade e tolerância a partições.
+(B) desempenho e tolerância a falhas.
+(C) atomicidade e particionamento.
+(D) amplitude e particionamento.
+(E) atomicidade e persistência.
+
+[GABARITO]
+A

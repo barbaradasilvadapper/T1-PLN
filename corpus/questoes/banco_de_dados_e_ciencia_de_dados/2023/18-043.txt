@@ -1,0 +1,18 @@
+ID: 18-043
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+anteriormente, analise o comando SQL a seguir. select nome where not exists (select * from Disputa D where D.azul = C.nome) or not exists (select * from Disputa D where D.verde = C.nome) A execução do comando acima produziria somente a lista completa dos competidores que:
+
+[ALTERNATIVAS]
+(A) participaram em disputas com camisas das duas cores;
+(B) nunca participaram em disputas com camisa verde;
+(C) nunca participaram em disputas com camisa azul;
+(D) nas disputas em que participaram, usaram sempre camisas da mesma cor;
+(E) nunca participaram em disputas.
+
+[GABARITO]
+D

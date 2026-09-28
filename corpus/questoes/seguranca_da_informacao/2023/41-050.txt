@@ -1,0 +1,18 @@
+ID: 41-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um hacker invadiu os sistemas de um Tribunal de Justiça, desativou a consulta de processos, identificou o nome do juiz responsável pelo processo 0121-2026 (que corre em segredo de justiça), alterou o nome do juiz responsável e ativou novamente a consulta de processos na página do Tribunal de Justiça. Foram violados, respectivamente, os objetivos principais da segurança da informação:
+
+[ALTERNATIVAS]
+(A) confidencialidade, irretratabilidade e integridade;
+(B) irretratabilidade, confidencialidade e integridade;
+(C) disponibilidade, confidencialidade e integridade;
+(D) disponibilidade, confidencialidade e irretratabilidade;
+(E) disponibilidade, integridade e irretratabilidade.
+
+[GABARITO]
+C

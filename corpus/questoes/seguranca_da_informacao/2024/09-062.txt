@@ -1,0 +1,18 @@
+ID: 09-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+As políticas de controle de acesso em sistemas computacionais são fundamentais para garantir a segurança e a integridade dos dados, regulando quem pode acessar, modificar ou interagir com recursos específicos. A política de controle de acesso cujo procedimento baseia-se na comparação de rótulos de segurança com autorizações que indicam quais entidades do sistema têm direito a acessar determinados recursos é a de controle de acesso
+
+[ALTERNATIVAS]
+(A) discricionário.
+(B) mandatório.
+(C) por entrada confiável.
+(D) por papéis.
+(E) por privilégio mínimo.
+
+[GABARITO]
+B

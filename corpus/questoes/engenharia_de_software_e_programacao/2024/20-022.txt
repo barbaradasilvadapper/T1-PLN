@@ -1,0 +1,18 @@
+ID: 20-022
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Micael, atuando como analista no desenvolvimento de um sistema de gerenciamento de biblioteca, enfrenta o desafio de selecionar uma estrutura de dados que otimize o armazenamento de informações sobre os livros. O sistema requer uma solução que combine a eficiência em realizar buscas rápidas por título, a capacidade de adicionar novos títulos frequentemente e a preservação da ordem alfabética para melhorar a experiência de navegação. Levando em conta os critérios de acesso, busca, inserção e ordenação nas estruturas de dados, Micael identifica que a melhor opção para cumprir esses requisitos é a(o):
+
+[ALTERNATIVAS]
+(A) hash table;
+(B) lista encadeada;
+(C) array ordenado;
+(D) fila de prioridade;
+(E) árvore de busca binária.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 83-067
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere o script Oracle PL/SQL a seguir. DECLARE var_x(2); BEGIN UPDATE calendario SET dia = dia + 1; IF ....... THEN dbms_output.put_line('Zero alterados.'); ELSIF ....... THEN var_x:= ....... ; dbms_output.put_line(var_x || ' alterados.'); END IF; END; Para que esse script funcione corretamente, os três trechos pontilhados devem ser substituídos, na ordem em que aparecem, por
+
+[ALTERNATIVAS]
+(A) .EMPTY / .OK / .RECORD_COUNT
+(B) .NOTFOUND / .FOUND / .COUNT
+(C) _NOTFOUND / _FOUND / _COUNT
+(D) SQL%NOTFOUND / SQL%FOUND / SQL%ROWCOUNT
+(E) SQL:EMPTY / SQL:OK / SQL:ROWCOUNT
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 55-068
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Analise as seguintes afirmativas relacionadas à proteção de dados pessoais e Gestão de Identidade: I. Para implementar a proteção dos dados pessoais em repouso, deve-se manter os dados criptografados e liberar sua decifração apenas mediante autenticação e validação do direito ao acesso. II. O conceito de Multi-factor Authentication - MFA (preferencialmente solicitando algo que o usuário sabe, algo que possui e algo que é), serve para reforçar o processo de autenticação. III. Para o correto funcionamento do Controle de Acesso baseado em papéis – RBAC, é importante que apenas permissões necessárias sejam associadas a cada usuário, e que cada papel seja associado a um usuário distinto.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

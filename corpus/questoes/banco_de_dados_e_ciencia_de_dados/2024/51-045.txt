@@ -1,0 +1,18 @@
+ID: 51-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A governança de dados é um conjunto de práticas, processos e políticas que garantem a disponibilidade, integridade, segurança e usabilidade dos dados dentro de uma organização. Ela envolve a criação de regras e a definição de responsabilidades para a gestão dos dados ao longo de seu ciclo de vida. Diferentes tipos de governança de dados podem ser implementados, dependendo dos objetivos da organização e dos requisitos regulatórios. No contexto de Governança de Dados, no modelo de governança de dados colegiado
+
+[ALTERNATIVAS]
+(A) a governança de dados é centralizada em uma única equipe responsável por todas as decisões, garantindo padronização e controle rígido.
+(B) múltiplas áreas da organização compartilham a responsabilidade pelas decisões de dados, com a liderança de um comitê ou grupo interdepartamental.
+(C) todas as decisões são tomadas de forma independente por cada equipe de dados, sem coordenação centralizada.
+(D) a governança de dados é mantida por um único setor que gerencia a coleta, o armazenamento e a análise dos dados de toda a organização.
+(E) a responsabilidade de governança é atribuída exclusivamente aos usuários finais dos dados, garantindo maior autonomia para o uso.
+
+[GABARITO]
+B

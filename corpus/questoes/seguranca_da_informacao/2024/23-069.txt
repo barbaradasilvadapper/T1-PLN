@@ -1,0 +1,17 @@
+ID: 23-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A ABNT NBR ISO/IEC 27005:2011 fornece diretrizes para o processo de Gestão de Riscos de Segurança da Informação de uma organização, atendendo particularmente aos requisitos de um Sistema de Gestão de Segurança da Informação (SGSI) Com relação à Gestão de Risco, em conformidade com a norma ABNT NBR ISO/IEC 27005:2011, analise os itens a seguir. I. O risco é o efeito da incerteza nos objetivos, sendo muitas vezes caracterizado pela referência aos eventos potenciais e às consequências, ou uma combinação destes. II. O risco residual (ou "risco retido") se refere ao risco remanescente após o tratamento de eventos sucessivos. III. O nível de risco se relaciona a magnitude de um risco, expressa em termos da combinação das consequências e de suas probabilidades (likelihood)
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I e III, apenas.
+(C) II e III, apenas.
+(D) I, II e III.
+
+[GABARITO]
+B

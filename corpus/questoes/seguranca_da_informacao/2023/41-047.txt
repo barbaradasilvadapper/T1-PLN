@@ -1,0 +1,18 @@
+ID: 41-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Marcos, advogado que sempre acessava os sistemas de um Tribunal de Justiça para fazer consultas de processos, usou seus conhecimentos de informática para invadir tais sistemas. Tendo acesso ao nível raiz e aos demais níveis, utilizou um conjunto de ferramentas de hacker para fazer alterações indevidas. Baseado nas informações acima, é correto afirmar que Marcos utilizou:
+
+[ALTERNATIVAS]
+(A) vírus;
+(B) rootkit;
+(C) spyware;
+(D) keyloggers;
+(E) bomba lógica.
+
+[GABARITO]
+B

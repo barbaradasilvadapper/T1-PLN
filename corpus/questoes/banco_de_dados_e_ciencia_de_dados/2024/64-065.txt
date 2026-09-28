@@ -1,0 +1,18 @@
+ID: 64-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A consulta select titulo from livro left join editora on livro.cod_editora = editora.cod_editora where editora.nome_editora is null apresenta os títulos dos livros
+
+[ALTERNATIVAS]
+(A) cadastrados na tabela “editora”.
+(B) ligados a editoras sem ramal cadastrado.
+(C) localizados ao lado esquerdo das editoras.
+(D) não vinculados a uma editora.
+(E) relacionados a editoras sem nome cadastrado (null).
+
+[GABARITO]
+D

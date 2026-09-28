@@ -1,0 +1,18 @@
+ID: 20-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Sistemas de informação novos e atualizados requerem verificação e testes completos durante o processo de desenvolvimento, incluindo a preparação de uma programação de atividades detalhada, com testes de entrada e saída esperadas sob determinadas condições. Considerando a proteção de dados em teste, a ABNT NBR ISO/IEC 27002:2013 estabelece que:
+
+[ALTERNATIVAS]
+(A) os procedimentos de controle de acesso aplicáveis aos sistemas e aplicações operacionais sejam mais rígidos que os aplicados aos sistemas e aplicações em teste;
+(B) a cópia da informação operacional para uso em ambiente de teste pode ser realizada conforme a necessidade da equipe de desenvolvimento do sistema;
+(C) a informação operacional copiada para o ambiente de testes deve permanecer no ambiente de testes após a entrada do sistema em produção para assegurar a confiabilidade dos testes;
+(D) todos os detalhes e conteúdos sejam protegidos contra remoção ou modificação quando a informação de identificação pessoal ou outras informações sensíveis forem utilizadas com o propósito de teste;
+(E) o uso de cópias de bancos de dados operacionais para utilização em ambiente de testes é recomendável para assegurar aderência às práticas de desenvolvimento seguro de sistemas.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 03-050
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Assinale a opção que apresenta apenas diagramas de UML classificados como diagramas de estrutura.
+
+[ALTERNATIVAS]
+(A) Diagrama de Sequência, Diagrama de Componente, Diagrama de Implantação e Diagrama de Classe.
+(B) Diagrama de Pacote, Diagrama de Componente, Diagrama de Implantação e Diagrama de Classe.
+(C) Diagrama de Atividades, Diagrama de Componente, Diagrama de Colaboração e Diagrama de Pacote.
+(D) Diagrama de estado, Diagrama de Classe, Diagrama de Componente e Diagrama de Pacote.
+(E) Diagrama de Pacote, Diagrama de Atividades, Diagrama de Caso de Uso e Diagrama de Sequência.
+
+[GABARITO]
+B

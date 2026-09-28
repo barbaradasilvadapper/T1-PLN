@@ -1,0 +1,18 @@
+ID: 85-067
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O auditor José recebeu o arquivo AnexoJ em formato digital. Antes de proceder com a abertura do AnexoJ, José determinou a fidedignidade do referido arquivo, avaliando a conformidade dos dados do AnexoJ por ele recebido com os dados do AnexoJ transmitido pelo emissor. Essa avaliação feita por José em AnexoJ está diretamente relacionada com o seguinte princípio da segurança de informações:
+
+[ALTERNATIVAS]
+(A) integridade;
+(B) confidencialidade;
+(C) autenticidade;
+(D) disponibilidade;
+(E) qualidade.
+
+[GABARITO]
+A

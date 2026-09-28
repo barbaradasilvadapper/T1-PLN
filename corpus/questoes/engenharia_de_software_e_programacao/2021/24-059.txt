@@ -1,0 +1,18 @@
+ID: 24-059
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O script JSON corretamente formado é:
+
+[ALTERNATIVAS]
+(A) {loja:"ImportCar",ranking:null,carros:["Audi","BMW"]}
+(B) {"loja":"ImportCar","ranking":null,"carros":{"Audi","BMW"}}
+(C) {loja:ImportCar,ranking:null,carros:["Audi","BMW"]}
+(D) {loja:ImportCar,ranking:null,carros:[Audi;BMW]}
+(E) {"loja":"ImportCar","ranking":null,"carros":["Audi","BMW"]}
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 41-070
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Observe o conjunto de dados pessoais sensíveis a seguir. Nome: Maria da Silva Código Postal: 49010-000 Convicção Religiosa: Não tem Altura: 1,62 Observe o resultado do tratamento dos dados pessoais sensíveis apresentados. Nome: 029B Código Postal: 49xxx Convicção Religiosa: Não tem Altura: 1,62 O tratamento realizado nos dados pessoais sensíveis apresentados, por meio do qual os dados perderam a possiblidade de associação, direta ou indireta, com o indivíduo é:
+
+[ALTERNATIVAS]
+(A) difusão;
+(B) bloqueio;
+(C) eliminação;
+(D) classificação;
+(E) anonimização. Tipo 1 ̶ Branca Tipo 1 ̶ Branca Tipo 1 ̶ Branca Tipo 1 ̶ Branca
+
+[GABARITO]
+E

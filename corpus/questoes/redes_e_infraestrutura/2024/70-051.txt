@@ -1,0 +1,18 @@
+ID: 70-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em redes de computadores, os dispositivos de interconexão desempenham um papel fundamental na transmissão de dados, conectando diferentes segmentos de rede, gerenciando o tráfego e mantendo a qualidade da comunicação até os dispositivos finais. Entre os elementos de interconexão, o dispositivo que é responsável por encaminhar pacotes em uma WAN é denominado
+
+[ALTERNATIVAS]
+(A) hub.
+(B) repetidor.
+(C) switch.
+(D) roteador.
+(E) bridge.
+
+[GABARITO]
+D

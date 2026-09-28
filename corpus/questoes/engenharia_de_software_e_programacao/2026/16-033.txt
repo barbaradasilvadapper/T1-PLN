@@ -1,0 +1,18 @@
+ID: 16-033
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um Engenheiro de Testes acaba de receber uma demanda para conduzir um teste de sistema com sua equipe. Sobre esse tipo de teste, analise as afirmativas a seguir. I. Deve ser conduzido antes dos testes de integração e conduzido preferencialmente por uma equipe de testes. II. Tem como objetivo confrontar o software em funcionamento com seus requisitos funcionais e não funcionais, sendo executado em um ambiente muito semelhante ao de produção. III. Pode ser dividido em fases alfa (em ambiente de desenvolvimento) e beta (em ambiente que emula a produção) e realizado integralmente pela equipe de testes.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+B

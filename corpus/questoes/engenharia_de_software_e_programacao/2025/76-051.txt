@@ -1,0 +1,18 @@
+ID: 76-051
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um sistema de controle de tramitação de proposições, a classe Proposicao contém a lógica para manipular o atributo situacao. O acesso direto ao atributo é impedido (privado), e todas as modificações são feitas por métodos públicos como avancarSituacao() e reverterSituacao(), que contêm validações de regras de negócio. A restrição de acesso direto aos dados (situacao) e a concentração da lógica de validação dentro da própria classe Proposicao são exemplos, respectivamente, de
+
+[ALTERNATIVAS]
+(A) Polimorfismo e Herança.
+(B) Abstração e Acoplamento.
+(C) Acoplamento e Baixa Abstração.
+(D) Herança e Baixa Coesão.
+(E) Encapsulamento e Alta Coesão.
+
+[GABARITO]
+E

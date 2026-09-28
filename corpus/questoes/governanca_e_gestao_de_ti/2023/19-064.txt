@@ -1,0 +1,18 @@
+ID: 19-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+No ITIL v.4 as práticas são definidas como um conjunto de recursos organizacionais projetados para realizar um trabalho ou atingir um objetivo. O propósito da prática de Gerenciamento de Capacidade e Desempenho, segundo o modelo, é:
+
+[ALTERNATIVAS]
+(A) apoiar as estratégias e planos da organização para a gestão de serviços, garantindo que os recursos financeiros e investimentos estão sendo utilizados de forma eficaz;
+(B) garantir que a organização tenha a combinação certa de programas, projetos, produtos e serviços para executar a estratégia dentro do orçamento financeiro;
+(C) garantir êxito no planejamento, delegação, monitoramento e manutenção do controle de todos os aspectos de um projeto, de forma a garantir sucesso na entrega dos projetos;
+(D) analisar um negócio ou algum elemento dele, definir suas necessidades associadas e recomendar soluções com o objetivo da criação de valor para as partes interessadas;
+(E) assegurar que os serviços alcancem o rendimento acordado e esperado, satisfazendo a demanda atual e futura de forma eficiente em termos de custos.
+
+[GABARITO]
+E

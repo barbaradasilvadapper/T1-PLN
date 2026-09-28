@@ -1,0 +1,18 @@
+ID: 65-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Assinale a opção que indica o padrão responsável pela criação de objetos de várias classes graças à especialização de sua classe principal.
+
+[ALTERNATIVAS]
+(A) Abstract Factory.
+(B) Decorator.
+(C) Strategy.
+(D) Builder.
+(E) Adapter.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 62-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A computação serverless é um modelo de computação em nuvem em que o provedor gerencia automaticamente a infraestrutura. Sobre a computação serverless, analise as afirmativas a seguir: I. A precificação segue um modelo chamado pay-as-you-go, no qual o contratante paga apenas pelos recursos utilizados. II. Armazena o estado de suas funções entre execuções, de modo a evitar interrupções e possibilitar escalabilidade horizontal. III. O provedor gerencia automaticamente a infraestrutura usada, de modo que o desenvolvedor não precisa se preocupar com aspectos de segurança.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

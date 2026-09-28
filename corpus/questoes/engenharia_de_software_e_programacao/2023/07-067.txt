@@ -1,0 +1,18 @@
+ID: 07-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A AP1 é uma aplicação que apresenta dados na forma de listagem para os usuários em uma página Web. Para cada listagem, AP1 calcula a quantidade de dados listados. Os dados são recuperados de um banco de dados mantido pela aplicação AP2. Em Análise de Pontos de Função (APF), a função de transação para apresentação de dados de AP1 é uma:
+
+[ALTERNATIVAS]
+(A) Consulta Externa (CE) cujo processo elementar está relacionado a um Arquivo de Interface Externa (AIE) de AP2;
+(B) Saída Externa (SE) cujo processo elementar recupera dados de um Arquivo de Interface Externa (AIE);
+(C) Consulta Externa (CE) associada a uma função de dados do tipo Entrada Externa (EE) de AP2;
+(D) Saída Externa (SE) mantida por uma função de dados do tipo Arquivo Lógico Interno (ALI);
+(E) Consulta Externa (CE) fora da fronteira de AP2 associada a um Arquivo Lógico de Dados.
+
+[GABARITO]
+B

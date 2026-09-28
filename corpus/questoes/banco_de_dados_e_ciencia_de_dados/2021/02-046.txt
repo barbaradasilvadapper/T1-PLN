@@ -1,0 +1,18 @@
+ID: 02-046
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere uma tabela de banco de dados T1, com colunas A e B, e outra, T2, com colunas C e D. A coluna A constitui a chave primária de T1. Não há chave primária em T2. Há n 1 registros em T1 e n 2 registros em T2, n 1 > 0 e n 2 > 0. Considere ainda o comando SQL a seguir. select distinct A from T1 right join T2 on T1.A=T2.C Para quaisquer instâncias de T1 e T2 de acordo com as premissas acima, é correto afirmar, sobre o resultado produzido pela execução desse comando, que:
+
+[ALTERNATIVAS]
+(A) poderá estar vazio;
+(B) não conterá valores nulos;
+(C) o número de linhas será maior ou igual a n 2 ;
+(D) o número de linhas será igual a n 1 +n 2 ;
+(E) o número de linhas será menor ou igual a n 1 .
+
+[GABARITO]
+E

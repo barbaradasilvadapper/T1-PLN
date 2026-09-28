@@ -1,0 +1,18 @@
+ID: 81-069
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em Python a função é um módulo de programa independente que foi especialmente escrito para implementar os requisitos da função. O programa que chama a função é chamado de calling program. Com relação ao uso do Python, analise os itens a seguir: I. Uma função recursiva, tem um calling program com uma função definida (escrita) dentro do corpo de outra função. II. O algoritmo de redução da dimensionalidade Principal component analysis (PCA), presente na biblioteca Scikit-Learn Library, é usada para decompor um conjunto de dados multivariado, podendo sua capacidade de estimar quantos componentes são necessários para descrever os dados ser determinada observando o Cálculo médio de Autovalores e Autovetores. III. Modelos de Large Language Models (LLMs) foram incorporados ao Python, por meio de camadas de abstração (bibliotecas), que estabeleceram facilidade de integração por meio de Processamento matemático em GPU (pela Infraestrutura/Base), Download e execução de modelos opensource (pelo Acesso a Modelos), Criação de fluxos de trabalho e agentes multitarefa (pela Orquestração) e conexão da IA com documentos e bases de dados (pela Integração de Dados).
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

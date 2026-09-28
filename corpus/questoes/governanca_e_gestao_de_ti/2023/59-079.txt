@@ -1,0 +1,18 @@
+ID: 59-079
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Com base na Instrução Normativa nº 4, de 11 de setembro de 2014 (MPOG/SLTI), que dispõe sobre o processo de contratação de Soluções de Tecnologia da Informação pelos órgãos integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP) do Poder Executivo Federal. A primeira fase da contratação de Soluções de Tecnologia da Informação se inicia com a elaboração do Documento de Oficialização de Demanda (DOD). Esse documento:
+
+[ALTERNATIVAS]
+(A) apresenta os riscos e ameaças à contratação;
+(B) demonstra a viabilidade técnica e econômica da contratação;
+(C) detalha a necessidade que deverá ser atendida pela contratação;
+(D) descreve as atividades de alocação de recursos necessários para a contratação;
+(E) reúne as especificações necessárias para definir a Solução de Tecnologia da Informação a ser contratada.
+
+[GABARITO]
+C

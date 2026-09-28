@@ -1,0 +1,18 @@
+ID: 38-035
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A empresa World Coorp está com problemas de alocação de endereços IPs em sua rede local. A intenção é reduzir o número de IPs sendo utilizado e a técnica selecionada foi o NAT (Network Address Translation). Isso permite que uma máquina da rede local tenha um endereço privado, também conhecido como não roteável que, ao sair para a Internet, deve ser convertido para um endereço roteável. Para que a empresa possa utilizar o NAT, a faixa de endereços da rede interna deve ser:
+
+[ALTERNATIVAS]
+(A) 127.0.0.1/16;
+(B) 169.254.0.0/16;
+(C) 186.45.123.69/24;
+(D) 192.168.0.0/16;
+(E) 198.133.219.25/24.
+
+[GABARITO]
+D

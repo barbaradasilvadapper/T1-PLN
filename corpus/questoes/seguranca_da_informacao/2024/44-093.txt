@@ -1,0 +1,18 @@
+ID: 44-093
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de seguranca tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Muitos ataques cibernéticos não exploram vulnerabilidades de sites, aplicações ou serviços, mas na verdade exploram a dimensão humana, realizando a chamada engenharia social, para enganar o usuário visando roubar credenciais de acesso, coletar informações, injetar malwares, etc. Um desses ataques utiliza email, SMS ou chamadas telefônicas para atacar uma lista restrita de alvos sobre os quais os criminosos realizaram pesquisa específica para a elaboração do ataque. O ataque supramencionado é chamado de
+
+[ALTERNATIVAS]
+(A) port scan.
+(B) Advanced Persistent Threat (APT).
+(C) ataques de dicionário.
+(D) DDoS.
+(E) spear phishing.
+
+[GABARITO]
+E

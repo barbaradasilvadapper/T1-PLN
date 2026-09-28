@@ -1,0 +1,18 @@
+ID: 34-043
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Entre os principais Sistemas Gerenciadores de Banco de Dados relacionais utilizados em ambientes corporativos, o Oracle Database utiliza como porta padrão para conexões de clientes o número
+
+[ALTERNATIVAS]
+(A) 1433.
+(B) 1521.
+(C) 3306.
+(D) 5432.
+(E) 27017.
+
+[GABARITO]
+B

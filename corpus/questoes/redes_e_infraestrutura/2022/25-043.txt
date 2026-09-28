@@ -1,0 +1,18 @@
+ID: 25-043
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de Tecnologia da Informação de um Tribunal deseja melhorar a disponibilidade de sua rede interna, por isso está pesquisando soluções de redundância para os seus dispositivos de conectividade. Uma das soluções pesquisadas adota o VRRP (Virtual Router Redundancy Protocol) para eliminar o ponto único de falha inerente ao ambiente estático roteado por padrão. Uma característica que também é inerente à solução pesquisada é que:
+
+[ALTERNATIVAS]
+(A) todas as mensagens são executadas usando datagrama multicast IPv4 ou IPv6;
+(B) um roteador VRRP não pode associar um roteador virtual ao seu endereço real em uma interface;
+(C) existe uma restrição contra a reutilização de um mesmo VRID com um mapeamento de endereço diferente em LANs diferentes;
+(D) para que sua operação seja possível, deve haver no mínimo um roteador Master e dois roteadores Backup;
+(E) se o roteador Master ficar indisponível, o roteador Backup de menor prioridade será eleito Master e fará o escoamento do tráfego.
+
+[GABARITO]
+A

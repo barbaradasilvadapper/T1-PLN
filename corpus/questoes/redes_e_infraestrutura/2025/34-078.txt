@@ -1,0 +1,18 @@
+ID: 34-078
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma plataforma de e-commerce possui Oracle RAC com cinco nós. Sobre Oracle RAC e mecanismo de Cache Fusion, analise as seguintes afirmativas: I. Cache Fusion permite transferência de blocos de dados diretamente entre instâncias via interconnect, sem gravação em disco. II. Global Cache Service (GCS) coordena acesso aos blocos compartilhados entre instâncias. III. Em falha de nó, Global Enqueue Service (GES) reconfigura locks entre nós sobreviventes.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I e III, apenas.
+(E) II, apenas.
+
+[GABARITO]
+A

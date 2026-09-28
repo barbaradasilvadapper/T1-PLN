@@ -1,0 +1,18 @@
+ID: 90-059
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com referência à segurança de dados sigilosos, uma das técnicas utilizadas por hackers é a adição de código quando da entrada de dados em sistemas de informação. Essa técnica é conhecida como
+
+[ALTERNATIVAS]
+(A) Man-in-the-middle.
+(B) Cavalo de Troia.
+(C) SQL injection.
+(D) Phishing.
+(E) DDoS.
+
+[GABARITO]
+C

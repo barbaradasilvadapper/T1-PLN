@@ -1,0 +1,18 @@
+ID: 78-048
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Git é um sistema de controle de versões distribuído que possui vários comandos. O comando que copia os commits mais recentes do repositório local para um repositório remoto é o
+
+[ALTERNATIVAS]
+(A) pull.
+(B) push.
+(C) fetch.
+(D) save.
+(E) merge.
+
+[GABARITO]
+B

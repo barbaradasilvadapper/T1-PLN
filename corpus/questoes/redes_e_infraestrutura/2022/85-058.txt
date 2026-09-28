@@ -1,0 +1,18 @@
+ID: 85-058
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+De acordo com o modelo de referência OSI, a camada que converte o formato de dado recebido em um formato comum, responsável pela formatação dos dados, conversão de códigos e caracteres, e que também pode ter outros usos como compressão e criptografia, é a camada:
+
+[ALTERNATIVAS]
+(A) rede;
+(B) enlace;
+(C) sessão;
+(D) aplicação;
+(E) apresentação.
+
+[GABARITO]
+E

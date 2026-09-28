@@ -1,0 +1,18 @@
+ID: 48-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+João foi contratado para implantar uma arquitetura de zero Trust no Tribunal de Contas do Estado de São Paulo (TCE SP). Ele subdividiu as atividades em um mecanismo de política e um algoritmo Trust. Esse algoritmo é o processo usado pelo mecanismo de política para conceder ou negar acesso a um recurso. As entradas para o algoritmo Trust foram divididas em categorias com base no que fornecem ao algoritmo. João está identificando quem solicita acesso a um recurso e se essa solicitação pode ser feita por um conjunto de sujeitos (humanos ou processos) da empresa ou colaboradores. A informação desse conjunto de sujeitos será parte da política de acesso aos recursos. Todas essas informações compõem a entrada ao algoritmo de zero Trust implantado por João, que pertence à categoria:
+
+[ALTERNATIVAS]
+(A) access request;
+(B) subject database;
+(C) asset database;
+(D) resource requirements;
+(E) threat intelligence.
+
+[GABARITO]
+B

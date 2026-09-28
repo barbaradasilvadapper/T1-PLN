@@ -1,0 +1,18 @@
+ID: 73-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Claudio é o administrador de sistemas de uma grande empresa de tecnologia. Ele começou a notar que, em momentos aleatórios, alguns servidores críticos da empresa são interrompidos, paralisando importantes operações de negócios. Após uma investigação aprofundada, Claudio descobre que esses incidentes estão ocorrendo devido a um tipo específico de ataque que usa pacotes cuja estrutura aciona um bug no software de tratamento de rede do sistema. Isso significa que o sistema não pode mais se comunicar pela rede até esse software ser reativado, em geral mediante a reinicialização do sistemaalvo. Esse tipo de ataque denomina-se:
+
+[ALTERNATIVAS]
+(A) spoofing;
+(B) phishing;
+(C) man-in-the-middle;
+(D) pacote envenenado;
+(E) retrodifusão de tráfego.
+
+[GABARITO]
+D

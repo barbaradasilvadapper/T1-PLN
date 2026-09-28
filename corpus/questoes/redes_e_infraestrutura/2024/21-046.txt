@@ -1,0 +1,18 @@
+ID: 21-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma plataforma de desenvolvimento fornece recursos como servidores, bancos de dados e ambientes de desenvolvimento integrados (IDEs) necessários para criar, testar e implantar uma aplicação web. Assinale a opção que apresenta o modelo de serviço de computação em nuvem no qual essa plataforma se enquadra.
+
+[ALTERNATIVAS]
+(A) SaaS.
+(B) DaaS.
+(C) IaaS.
+(D) PaaS.
+(E) AiaaS.
+
+[GABARITO]
+D

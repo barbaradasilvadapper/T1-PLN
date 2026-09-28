@@ -1,0 +1,1593 @@
+C ONCURSO P ÚBLICO
+M INISTÉRIO P ÚBLICO DO E STADO
+DO E SPÍRITO S ANTO
+SUA PROVA
+Além deste caderno de questões contendo
+60 (sessenta) questões objetivas e 2 (duas)
+questões discursivas, você receberá do fiscal de sala o
+cartão de respostas e a folha de textos definitivos.
+As questões objetivas têm 5 (cinco) opções de
+resposta (A, B, C, D e E) e somente uma delas está
+correta.
+TEMPO
+
+4 (quatro) horas e 30 (trinta) minutos é o
+período disponível para a realização da prova, já
+incluído o tempo para a marcação da folha de
+respostas e o preenchimento da folha de textos
+definitivos.
+
+3 (três) horas após o início da prova, é possível
+retirar-se da sala, sem levar o caderno de questões
+nem qualquer tipo de anotação de suas respostas.
+ 30 (trinta) minutos antes do término do período
+de prova, é possível retirar-se da sala, levando o
+caderno de questões.
+NÃO SERÁ PERMITIDO
+
+Qualquer tipo de comunicação entre os candidatos
+durante a aplicação da prova.
+
+Usar o sanitário ao término da prova, após deixar
+a sala.
+
+Anotar informações relativas às respostas em
+qualquer outro meio que não seja este caderno de
+questões.
+NÍVEL SUPERIOR – MANHÃ
+A GENTE E SPECIALIZADO
+A NALISTA DE S ISTEMAS
+P ROVA O BJETIVA E D ISCURSIVA
+T IPO 1
+INFORMAÇÕES GERAIS
+
+Verifique se este caderno de questões está completo e
+sem falhas de impressão. Caso contrário, notifique
+imediatamente o fiscal da sala, para que sejam
+tomadas as devidas providências.
+
+No cartão de respostas e na folha de textos definitivos,
+confira seus dados pessoais, especialmente nome,
+número de inscrição e documento de identidade, e leia
+atentamente as instruções para preenchê-lo.
+
+Use somente caneta esferográfica, fabricada em
+material transparente, com tinta preta ou azul.
+
+Assine seu nome apenas no espaço reservado na folha
+de respostas e na folha de textos definitivos.
+
+Confira o tipo do seu caderno de questões. Caso tenha
+recebido caderno de questões com tipo diferente do
+impresso em seu cartão de respostas ou em sua folha
+de
+textos
+definitivos,
+o
+fiscal
+deve
+ser
+obrigatoriamente informado para o devido registro
+na ata da sala.
+
+O preenchimento das respostas é de sua
+responsabilidade e não será permitida a substituição do
+cartão de respostas ou da folha de textos definitivos em
+caso de erro cometido por você.
+
+Para fins de avaliação, serão levadas em consideração
+apenas as marcações realizadas no cartão de respostas
+e na folha de textos definitivos.
+
+Os candidatos serão submetidos ao sistema de
+detecção de metais quando do ingresso e da saída de
+sanitários durante a realização das provas.
+Boa prova!
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+Conhecimentos Básicos
+Língua Portuguesa
+1
+“Consideramos estas verdades como evidentes por si: que todos os
+homens são criados iguais; que são dotados pelo seu Criador de
+certos direitos inalienáveis; que entre esses direitos estão a vida, a
+liberdade e a procura da felicidade.”
+Thomas Jefferson, Declaração de Independência dos EUA. (1776)
+Sobre a significação e a estruturação desse segmento, assinale a
+afirmativa correta.
+(A) Os três direitos citados ao final do texto são todos os direitos
+inalienáveis dos homens.
+(B) O fato de a forma verbal “Consideramos” estar no plural indica
+que são vários os autores do texto.
+(C) O termo “estas verdades” se refere a algo dito anteriormente,
+que não está registrado neste segmento.
+(D) Ao afirmar que “todos os homens são criados iguais”, o texto
+indica que todos os homens têm os mesmos direitos.
+(E) Ao dizer que as verdades citadas são “evidentes por si”, o autor
+do texto indica que elas necessitam de demonstração.
+2
+“O direito de voto para eleger representantes é o direito básico
+pelo qual os demais são protegidos. Retirar esse direito equivale a
+reduzir a pessoa à escravidão, pois escravidão consiste em estar
+sujeito à vontade de outrem.”
+Thomas Paine. Dissertação sobre os Primeiros Princípios do Governo. (1795)
+Sobre a significação ou a estruturação desse fragmento textual,
+assinale a afirmativa correta.
+(A) O termo “para eleger representantes” poderia ser
+adequadamente substituído por “para a eleição de
+representantes”.
+(B) Ao dizer que o direito de voto é “o direito básico”, o autor
+indica que a democracia é o melhor dos regimes.
+(C) O termo “os demais” se refere a todas as demais pessoas.
+(D) O termo “são protegidos” poderia ser passado para a voz ativa
+com a forma “pelo qual se protegiam”.
+(E) A parte final do texto mostra o entendimento pessoal que o
+autor do texto dá à palavra “escravidão”.
+3
+“As leis são como as teias de aranha: as simples mosquinhas e as
+pequenas borboletas se prendem nelas, enquanto as grandes
+varejeiras malfazejas as rompem e passam através.”
+Sobre esse fragmento textual, assinale a afirmativa correta.
+(A) A condenação expressa no texto se utiliza de linguagem lógica.
+(B) O autor condena certas leis que não se dirigem a reais
+problemas da sociedade.
+(C) O fragmento textual acima condena os privilégios de uma
+classe social sobre outras.
+(D) No segmento “se prendem nelas”, o pronome pessoal “elas”
+se refere às “simples mosquinhas”.
+(E) Segundo o texto, as leis são como teias de aranha porque
+servem para prender todos os que cometem crimes.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+4
+As frases a seguir têm as leis como tema; assinale a frase que
+mostra uma visão positiva das leis.
+(A) Em meio às armas, calam-se as leis.
+(B) Existem leis, mas não quem as proveja.
+(C) O mais corrupto dos Estados tem o maior número de leis.
+(D) A quem poderá ser aprazível uma cidade, se não lhe agradam
+as leis?
+(E) A lei é a razão humana, enquanto governa todos os povos da
+Terra.
+5
+Leia o texto a seguir.
+“Não devemos fazer da lei um espantalho / Armado para assustar
+a aves de rapina, / Mas deixado sempre estático, de modo que com
+o hábito / Ele não seja mais o terror delas, e sim o seu poleiro.”
+Shakespeare, William. Medida por Medida (Ato 2, Cena 1).
+A afirmação correta sobre as leis, que está implícita no texto, é que
+elas devem
+(A) proteger a todos.
+(B) modificar-se conforme as circunstâncias.
+(C) funcionar, devido ao medo que provocam.
+(D) ser amplamente divulgadas entre os cidadãos.
+(E) ajudar a todos em sua tarefa de obter alimentação.
+6
+Uma das marcas de um bom texto é a utilização de palavras em
+seu sentido adequado; assinale a opção em que a palavra
+sublinhada está adequadamente empregada.
+(A) As leis cumpridas são difíceis de entender.
+(B) É uma autoridade eminente e por isso ninguém o respeita.
+(C) A lei tem dois e apenas dois fundamentos: a equidade e a
+utilidade.
+(D) As leis são sempre úteis aos que possuem posses e nocivas aos
+que nada têm.
+(E) Quando vou a um país, não examino se tem boas leis, mas se
+as que lá existem são executadas.
+7
+Assinale a opção que indica a frase que está rigorosamente dentro
+dos modelos da norma culta.
+(A) Todos os convidados vestiam trajes à rigor.
+(B) Os policiais estavam cara a cara com os delinquentes.
+(C) Os promotores ficaram receiosos ante seus adversários.
+(D) As festas beneficientes nem sempre produzem dinheiro.
+(E) Entreguei a Constituição as advogadas para que ficassem bem-
+informadas.
+8
+As opções a seguir mostram duas formas corretas de uma mesma
+frase, à exceção de uma. Assinale-a.
+(A) Voltamos de Alagoas. / Voltamos das Alagoas.
+(B) Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure
+o Juiz.
+(C) Houve um acidente grave durante o julgamento. / Houve um
+incidente grave durante o julgamento.
+(D) A Constituição foi criada a 13 de junho de 1888. / A
+Constituição foi criada em 13 de junho de 1888.
+(E) À exceção de Bernardo, todos estiveram presentes. / Com
+exceção de Bernardo, todos estiveram presentes.
+
+TIPO 1 – PÁGINA 2
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+9
+Leia o segmento a seguir.
+“Agora que expliquei o título, passo a escrever o livro. Antes disso,
+porém, digamos os motivos que me põem a pena na mão. Vivo só,
+com um criado. A casa em que moro é própria; fi-la construir de
+propósito, levado de um desejo tão particular, que me vexa
+imprimi-lo, mas vá lá.
+Um dia, há bastantes anos, lembrou-me reproduzir no Engenho
+Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o
+mesmo aspecto e economia daquela outra, que desapareceu.”
+Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899.
+Sobre a estruturação ou a significação desse texto, assinale a
+afirmativa incorreta.
+(A) O segmento inicial “Agora que expliquei o título” se refere a
+algo já dito anteriormente.
+(B) O pronome “isso”, na expressão “Antes disso” se refere à ação
+de explicar o título do livro.
+(C) O pronome relativo “que” no segmento “que me põem a pena
+na mão” se refere ao substantivo “motivos”.
+(D) A frase “Vivo só, com um criado” mudaria de sentido se
+retirássemos a vírgula.
+(E) O pronome indefinido “outra” e o pronome relativo “que” no
+segmento “daquela outra, que desapareceu” mostram o
+mesmo antecedente.
+10
+Os segmentos textuais a seguir foram retirados do romance Dom
+Casmurro.
+Assinale aquele que exemplifica o modo descritivo de organização
+discursiva.
+(A) Agora que expliquei o título, passo a escrever o livro.
+(B) Fiquei tão alegre com esta ideia, que ainda agora me treme a
+pena na mão.
+(C) Ia entrar na sala de visitas, quando ouvi proferir o meu nome
+e escondi-me atrás da porta.
+(D) Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos
+ministros e acabou recitando-me versos.
+(E) Não consultes dicionários. Casmurro não está aqui no sentido
+que eles lhe dão, mas no que lhe pôs o vulgo de homem calado
+e metido consigo.
+Raciocínio Lógico-matemático
+11
+Um sistema de criptografia atribuiu valores numéricos às letras do
+alfabeto. Cada letra recebeu um único valor. Letras distintas têm
+valores distintos.
+Nesse sistema:
+ a soma das letras da palavra NARA é 19;
+ a soma das letras da palavra MARIA é 25;
+ a soma das letras da palavra MAIARA é 27;
+ a soma das letras da palavra MARIANA é 31.
+Com base nessas informações, é correto afirmar que a valor
+atribuído a R foi
+(A) 10.
+(B) 11.
+(C) 12.
+(D) 13.
+(E) 14.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+12
+A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado
+de duas formas diferentes.
+Na Figura 1, o menor lado de B está encostado no maior lado de A,
+de modo que o maior lado de B, na sua parte inferior, está
+perfeitamente alinhado com o menor lado de A, na sua parte
+inferior, formando uma figura em L cujo perímetro é 32 cm.
+Na Figura 2, o maior lado de B está encostado no maior lado de A,
+de modo que o menor lado de B, na sua parte inferior, está
+perfeitamente alinhado com o menor lado de A, na sua parte
+inferior, formando uma nova figura cujo perímetro é 26 cm.
+No retângulo B, a diferença entre as medidas do maior lado e do
+menor lado vale
+(A) 7,5 cm.
+(B) 6,0 cm.
+(C) 4,5 cm.
+(D) 3,0 cm.
+(E) 1,5 cm.
+13
+Em um jogo, sorteiam-se ao acaso, sucessivamente e sem
+reposição, números do conjunto {1,2,3,4,5,6,7,8}. Cada jogador
+recebe uma cartela com 6 números distintos desse conjunto. Duas
+cartelas quaisquer nunca têm exatamente os mesmos 6 números.
+A quantidade máxima de cartelas distintas que se pode ter nesse
+jogo é
+(A) 28.
+(B) 36.
+(C) 42.
+(D) 48.
+(E) 56.
+14
+O "grau" do álcool doméstico indica a concentração de etanol
+presente na mistura com água. No Brasil, essa medida é expressa
+em INPM. Por exemplo, o álcool 46 INPM possui, a cada 100
+gramas de produto, 46 gramas de etanol e 54 gramas de água e
+outros componentes.
+Misturando-se 200g de álcool 46 INPM com 300 gramas de álcool
+70 INPM, produz-se 500g de álcool com concentração INPM igual
+a
+(A) 59,4.
+(B) 59,6.
+(C) 59,8.
+(D) 60,2.
+(E) 60,4.
+
+TIPO 1 – PÁGINA 3
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+15
+Considere a proposição P dada por:
+“Pelo menos um livro da minha biblioteca é sobre Matemática e
+nenhum dos discos da minha discoteca é importado.”
+Assinale a opção que contém a negação de P.
+(A) Pelo menos um livro da minha biblioteca não é sobre
+Matemática e algum disco da minha discoteca é importado.
+(B) Pelo menos um livro da minha biblioteca não é sobre
+Matemática ou algum disco da minha discoteca é importado.
+(C) Pelo menos um livro da minha biblioteca não é sobre
+Matemática e todos os discos da minha discoteca são
+importados.
+(D) Nenhum livro da minha biblioteca é sobre Matemática ou
+algum disco da minha discoteca é importado.
+(E) Nenhum livro da minha biblioteca é sobre Matemática e algum
+disco da minha discoteca é importado.
+Legislação e Código de Ética do MPES
+16
+João, servidor do Ministério Público do Estado do Espírito Santo,
+foi promovido e passou a ocupar uma classe distinta daquela que
+ocupava, o que levou ao seu enquadramento na nova situação da
+carreira.
+À luz dessa constatação, é correto afirmar que João
+(A) alcançou o vigésimo nível da classe anterior.
+(B) passou a ocupar o nível inicial da classe atual.
+(C) preencheu os requisitos da promoção por merecimento.
+(D) foi promovido em razão da existência de vaga na nova classe.
+(E) obteve o padrão temporal mínimo de 2 (dois) anos na classe
+anterior.
+17
+Determinada estrutura orgânica do Ministério Público do Estado
+do Espírito Santo entendeu que seria necessária a revisão de uma
+meta do Plano Estratégico (PE) da Instituição.
+Ao analisar os balizamentos estabelecidos pela Portaria nº 8.565/2017,
+a referida estrutura concluiu, corretamente, que
+(A) a revisão somente é admitida em relação aos indicadores, não
+em relação às metas.
+(B) a Assessoria de Gestão Estratégica deve exarar manifestação
+técnica sobre a proposta.
+(C) o PE é caracterizado pela estabilidade e permanência, sendo
+incompatível com o instituto da revisão.
+(D) a revisão somente é admitida em relação aos indicadores e às
+ações estratégicas, não em relação às metas.
+(E) o início do processo de revisão deve ser autorizado na reunião
+de gestão estratégica, cabendo a deliberação final e
+irrecorrível à plenária.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+18
+O Ministério Público do Estado do Espírito Santo, pelo órgão de
+execução com atribuição, pretende realizar operações de
+classificação e avaliação de dados pessoais de alguns investigados
+em procedimentos de investigação criminal que tramitam no
+âmbito da Instituição.
+Ao decidir pela realização dessas atividades, o órgão de execução
+concluiu, corretamente, que
+(A) a atividade desenvolvida configura tratamento da informação,
+logo, por tal razão, é exigida a observância da Lei Geral de
+Proteção de Dados Pessoais.
+(B) o tratamento da informação, nas circunstâncias indicadas,
+pressupõe prévia autorização judicial, como é exigido pela Lei
+Geral de Proteção de Dados Pessoais.
+(C) a atividade desenvolvida somente atrairia a aplicação da Lei
+Geral de Proteção de Dados Pessoais se houvesse tratamento
+de dados pessoais, o que não é o caso.
+(D) a Lei Geral de Proteção de Dados Pessoais é aplicada
+indistintamente a qualquer atividade que tenha por objeto
+dados pessoais, independente da sua natureza.
+(E) o tratamento de dados pessoais é realizado no âmbito de uma
+atividade de investigação de infração penal, o que afasta a
+incidência da Lei Geral de Proteção de Dados Pessoais.
+19
+Ana, servidora ocupante de cargo em comissão no âmbito do
+Ministério Público do Estado do Espírito Santo (MPES), foi
+informada sobre uma reunião que seria realizada pelo conselho
+responsável pela gestão do Fundo Estadual de Reparação de
+Interesses Difusos Lesados, que teria uma pauta de grande
+relevância para a atuação finalística da Instituição.
+Ao delinear as medidas de apoio que tinha o munus de adotar na
+referida reunião, Ana partiu da premissa correta de que o Fundo
+(A) conta com a atuação de representante do MPES em seu
+conselho, apesar de integrar a estrutura do Poder Executivo.
+(B) integra a estrutura do MPES, sendo que o seu conselho conta
+com a participação de membros da Instituição, do Poder
+Executivo e de associações.
+(C) é estrutura autônoma e independente, cuja atuação é
+fiscalizada pelo MPES, que participa das reuniões do seu
+conselho sem ter direito a voto.
+(D) é parte integrante do Fundo Especial do MPES, sendo que os
+seus recursos estão finalisticamente comprometidos com a
+defesa de interesses difusos e coletivos.
+(E) conta com representantes dos três poderes e instituições
+constitucionalmente
+autônomas,
+bem
+como
+com
+representantes da sociedade civil organizada, sendo presidido
+pelo Procurador-Geral de Justiça.
+
+TIPO 1 – PÁGINA 4
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+20
+No primeiro mês do exercício financeiro X, Inês, que atua em um
+setor de controle interno do Ministério Público do Estado do
+Espírito Santo (MPES), recebeu a informação de que a Instituição
+recebera recursos previstos na lei orçamentária anual (LOA)
+aprovada pela Assembleia Legislativa.
+Sobre a situação descrita, à luz da Lei Complementar Estadual
+nº 95/1997, assinale a afirmativa correta.
+(A) Os recursos foram postos à disposição em duodécimo.
+(B) A LOA foi aprovada a partir de projeto de lei apresentado pelo
+MPES.
+(C) Os recursos foram depositados no Fundo de Despesas
+Correntes do MPES.
+(D) Os recursos recebidos estão vinculados a despesas e a cotas
+definidas na programação financeira.
+(E) Os recursos foram solicitados à Secretaria de Estado de
+Fazenda mediante comprovação das despesas a serem
+realizadas.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+Conhecimentos Específicos
+21
+O desenvolvimento web moderno exige domínio das tecnologias
+HTML5 e CSS3, que trabalham de forma complementar para
+estruturar e estilizar páginas. Enquanto o HTML define a semântica
+e a estrutura do conteúdo, o CSS3 introduz recursos avançados de
+layout, como Flexbox e Grid, além de seletores sofisticados e
+propriedades de transformação e transição.
+Considere o seguinte trecho de código:
+<style>
+.container {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.item:nth-child(2n) {
+background-color: lightblue;
+}
+</style>
+<div class="container">
+<div class="item">A</div>
+<div class="item">B</div>
+<div class="item">C</div>
+<div class="item">D</div>
+</div>
+Sobre o código apresentado, considerando o comportamento
+padrão dos navegadores modernos compatíveis com as
+especificações do W3C, assinale a afirmativa correta.
+(A) A propriedade justify-content: space-between distribui os itens
+com espaçamento igual entre eles e também nas
+extremidades do contêiner, deixando margens laterais iguais
+aos espaços internos.
+(B) O seletor .item:nth-child(2n) aplicará a cor de fundo lightblue
+apenas aos itens "A" e "C", pois eles ocupam as posições
+ímpares dentro do contêiner.
+(C) A propriedade align-items: center alinha os itens
+horizontalmente ao centro do eixo principal do contêiner
+flexível.
+(D) O seletor .item:nth-child(2n) aplicará a cor de fundo lightblue
+aos itens "B" e "D", pois corresponde aos elementos filhos
+cujas posições são múltiplos de 2.
+(E) Para que o Flexbox funcione corretamente, seria obrigatório
+declarar também a propriedade flex-direction: row, caso
+contrário os itens seriam empilhados verticalmente por
+padrão.
+
+TIPO 1 – PÁGINA 5
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+22
+O Bootstrap é um dos frameworks front-end mais utilizados no
+desenvolvimento web. Ele oferece um sistema de grid responsivo
+baseado em 12 colunas, componentes pré-estilizados e classes
+utilitárias que agilizam a construção de interfaces adaptáveis a
+diferentes tamanhos de tela, seguindo a abordagem mobile-first.
+Considere o seguinte trecho de código utilizando o framework
+Bootstrap 5:
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4">Bloco 1</div>
+<div class="col-12 col-md-6 col-lg-4">Bloco 2</div>
+<div class="col-12 col-md-6 col-lg-4">Bloco 3</div>
+</div>
+</div>
+Sobre o código apresentado, considerando o comportamento
+padrão do sistema de grid do Bootstrap 5 e sua abordagem mobile-
+first, assinale a afirmativa correta.
+(A) Em telas grandes (a partir do breakpoint lg), cada bloco
+ocupará 4 colunas do grid de 12, resultando em três blocos
+dispostos lado a lado em uma única linha.
+(B) Em dispositivos móveis (abaixo do breakpoint md), cada bloco
+ocupará 6 colunas do grid, fazendo com que dois blocos
+apareçam por linha.
+(C) A classe col-md-6 será aplicada exclusivamente em telas que
+correspondam ao breakpoint md, sendo ignorada nos
+breakpoints superiores como lg e xl.
+(D) O Bootstrap 5 utiliza a abordagem desktop-first, de modo que
+a classe col-12 só será aplicada caso nenhuma media query de
+resolução superior seja ativada pelo navegador.
+(E) A classe container faz com que o conteúdo ocupe 100% da
+largura da tela em todos os breakpoints, sem margens laterais,
+comportando-se de forma idêntica à classe container-fluid.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+23
+O Spring é um dos frameworks mais consolidados no ecossistema
+Java para o desenvolvimento de aplicações corporativas.
+Por meio de conceitos como Inversão de Controle (IoC) e Injeção
+de Dependências (DI), o Spring promove o baixo acoplamento
+entre componentes, enquanto o Spring Boot simplifica a
+configuração e a inicialização de projetos por meio de convenções
+e autoconfiguração.
+Considere o seguinte trecho de código utilizando Spring Boot:
+@RestController
+@RequestMapping("/produtos")
+public class ProdutoController {
+@Autowired
+private ProdutoService produtoService;
+@GetMapping("/{id}")
+public ResponseEntity<Produto> buscarPorId(@PathVariable
+Long id) {
+Produto produto = produtoService.buscarPorId(id);
+return ResponseEntity.ok(produto);
+}
+@PostMapping
+public ResponseEntity<Produto> salvar(@RequestBody Produto
+produto) {
+Produto salvo = produtoService.salvar(produto);
+return
+ResponseEntity.status(HttpStatus.CREATED).body(salvo);
+}
+}
+Sobre o código apresentado, considerando os conceitos do Spring
+Framework e o comportamento padrão do Spring Boot, assinale a
+afirmativa correta.
+(A) A anotação @PathVariable no método buscarPorId captura
+parâmetros enviados no corpo da requisição HTTP,
+funcionando de forma idêntica à anotação @RequestBody.
+(B) A anotação @PostMapping configura o método salvar para
+responder a requisições do tipo HTTP GET, sendo apenas um
+alias sintático para @GetMapping com semântica de criação.
+(C) A anotação @Autowired realiza a instanciação manual do
+objeto ProdutoService, exigindo que o desenvolvedor
+implemente explicitamente o padrão de projeto Factory para
+que a injeção funcione.
+(D) A anotação @RestController é equivalente à combinação das
+anotações @Controller e @ResponseBody, fazendo com que
+os métodos da classe retornem os dados diretamente no corpo
+da resposta HTTP, por padrão em formato JSON.
+(E) A anotação @RequestMapping("/produtos") aplicada à classe
+exige que cada método declare novamente o caminho
+completo / produtos em suas respectivas anotações de
+mapeamento, caso contrário os endpoints não serão
+registrados.
+
+TIPO 1 – PÁGINA 6
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+24
+Uma equipe mantém uma aplicação web estruturada segundo o
+modelo MVC (Modelo-Visão-Controlador). Após sucessivas
+evoluções, os controladores passaram a concentrar validações de
+negócio, cálculos, verificação de permissões e decisões sobre
+transições de estado.
+Como consequência, regras semelhantes começaram a ser
+repetidas em diferentes controladores, e mudanças em uma
+mesma política funcional passaram a exigir alterações em vários
+pontos do sistema. Em uma revisão arquitetural, decidiu-se
+promover uma refatoração para reduzir esse problema mantendo
+a separação de responsabilidades e favorecendo a reusabilidade.
+Nesse contexto, de acordo com o modelo MVC, assinale a opção
+que apresenta a medida mais adequada.
+(A) Transferir as regras repetidas para as visões, de modo que cada
+interface trate localmente as decisões necessárias ao seu fluxo
+específico.
+(B) Manter as regras nos controladores, mas reorganizar os
+métodos por caso de uso, a fim de tornar a manutenção mais
+previsível.
+(C) Transferir a lógica de negócio e gestão de estado para a
+camada de modelo, usando abstrações para evitar a
+duplicação e delegando a coordenação do fluxo aos
+controladores.
+(D) Concentrar validações e decisões de estado em um único
+controlador central, para eliminar divergências entre os
+demais controladores.
+(E) Restringir os modelos à representação de dados e deslocar
+para os controladores as regras remanescentes,
+uniformizando o padrão já adotado.
+25
+Uma organização iniciou a modernização de seu sistema
+corporativo. A aplicação, antes monolítica, foi gradualmente
+dividida em serviços independentes para atender módulos como
+autenticação, faturamento e catálogo.
+Durante a transição, parte da integração entre sistemas legados
+permaneceu baseada em contratos formais descritos em XML,
+enquanto os novos serviços passaram a expor APIs HTTP com troca
+de mensagens em JSON.
+Com base nesse cenário, avalie as afirmativas a seguir.
+I. A coexistência, no mesmo ambiente, de serviços que utilizam
+contratos formais em XML e de APIs HTTP com JSON é
+compatível com um processo de transição arquitetural, não
+sendo suficiente, por si só, para descaracterizar uma adoção
+de microsserviços.
+II. Em uma arquitetura de microsserviços, a divisão do sistema
+em vários serviços garante baixo acoplamento e
+independência de evolução, mesmo que todos compartilhem
+o mesmo banco de dados e dependam de mudanças
+coordenadas no esquema relacional.
+III. Os microsserviços podem ser compreendidos como uma
+abordagem específica de arquitetura orientada a serviços, de
+modo que nem toda solução orientada a serviços caracteriza,
+necessariamente, uma arquitetura de microsserviços.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+26
+A plataforma .NET oferece diferentes modelos de programação
+para construção de aplicações, incluindo abordagens orientadas a
+serviços, padrões arquiteturais tradicionais e modelos baseados
+em páginas. Entre essas abordagens, algumas priorizam a
+separação estrita de responsabilidades, enquanto outras
+favorecem maior coesão entre interface e lógica.
+Nesse contexto, assinale a opção que apresenta uma das principais
+características do modelo Razor Pages no ecossistema .NET.
+(A) Segue rigidamente a separação em camadas proposta pelo
+padrão MVC, exigindo a definição explícita de controllers para
+cada requisição.
+(B) Baseia-se em consultas declarativas com LINQ como
+mecanismo central de organização da lógica de aplicação e
+navegação entre páginas.
+(C) Implementa, de forma obrigatória, o padrão de APIs RESTful,
+sendo utilizado exclusivamente para exposição de serviços e
+manipulação de dados via HTTP.
+(D) Restringe a interação com outras camadas da aplicação,
+limitando seu uso à renderização estática de conteúdo sem
+acesso a serviços ou dados dinâmicos.
+(E) Adota uma abordagem orientada a páginas, na qual cada
+unidade de interface encapsula sua lógica associada,
+reduzindo a necessidade de separação explícita em controllers.
+27
+Considerando boas práticas de arquitetura de APIs REST, avalie as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a
+falsa.
+( ) Em APIs REST, a semântica do método HTTP integra o contrato
+da operação, de modo que a leitura de um recurso não deve
+ser modelada com método cujo significado indique alteração
+de estado.
+( ) A criação de novos recursos em uma coleção pode ser
+realizada por meio de requisição PUT dirigida ao endpoint
+correspondente à coleção, com retorno de um novo
+identificador gerado pelo servidor.
+( ) Em APIs REST, a utilização de um código HTTP uniforme para
+respostas de êxito e de falha não compromete a semântica da
+interação, desde que o corpo da mensagem descreva
+adequadamente o resultado da requisição.
+As afirmativas são, respectivamente,
+(A) V – V – V.
+(B) V – V – F.
+(C) V – F – F.
+(D) F – V – F.
+(E) F – F – V.
+
+TIPO 1 – PÁGINA 7
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+28
+Uma instituição pública passou a expor parte de seus serviços por
+meio de APIs usadas na comunicação entre sistemas internos e
+aplicações externas.
+Em uma revisão de segurança, a equipe técnica avaliou diferentes
+medidas de proteção dos recursos expostos, considerando
+aspectos ligados a controle de acesso, proteção das comunicações,
+tratamento das requisições recebidas e limitação do uso dos
+serviços.
+Para esse contexto, assinale a opção que apresenta uma medida
+tecnicamente adequada.
+(A) Adotar a utilização de certificados digitais no servidor nas
+requisições entre clientes e serviços, de modo a garantir que
+apenas clientes autorizados tenham acesso aos endpoints
+disponíveis.
+(B) Adotar tokens de longa duração como medida de segurança, a
+fim de reduzir a frequência de renovação e, com isso, diminuir
+a exposição da API a falhas associadas ao processo de
+reautenticação.
+(C) Dispensar mecanismos específicos de autorização quando a
+API utilizar OAuth 2.0 ou JWT emitido por servidor confiável,
+pois a validade do token já é suficiente para legitimar o acesso
+aos recursos expostos.
+(D) Implementar validação e saneamento dos dados de entrada
+recebidos pelas APIs, com verificação dos parâmetros e do
+payload da requisição, a fim de mitigar ataques de injeção e
+outros efeitos decorrentes do processamento de entradas
+maliciosas.
+(E) Dispensar o uso de rate limiting nos servidores de recursos de
+APIs que adotam OAuth 2.0, uma vez que o controle de
+consumo por contador exige manutenção de estado entre
+requisições, contrariando o princípio de comunicação sem
+estado do protocolo OAuth.
+,
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+29
+Considerando a especificação oficial do GraphQL, analise a
+operação a seguir, elaborada por uma equipe para consultas de
+clientes e pedidos em uma API.
+query BuscarCliente($id: ID!, $limite: Int = 10) {
+c1: cliente(id: $id) {
+id
+nome
+pedidos(limite: $limite) {
+total
+itens
+}
+}
+c2: cliente(id: $id) {
+id
+nome
+}
+}
+Com base no código e nas regras da linguagem, avalie as
+afirmativas a seguir.
+I. Os aliases c1 e c2 definem nomes distintos, na resposta, para
+duas seleções de consulta ao mesmo cliente.
+II. Se o campo itens for do tipo objeto ou lista de objetos, a
+operação será inválida por faltar subseleção para esse campo.
+III. Caso a variável $limite não seja informada na execução da
+operação, será usado o valor padrão 10 .
+Está correto o que se afirma em
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+TIPO 1 – PÁGINA 8
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+30
+Uma equipe mantém uma API REST documentada por meio de
+uma especificação OpenAPI 3.x, exibida no Swagger UI. Parte dos
+endpoints exige autenticação por token do tipo bearer no formato
+JWT, enviado no cabeçalho Authorization. Contudo, na interface
+gerada, essas operações não exibem o botão Authorize nem ficam
+corretamente marcadas como protegidas.
+Sem alterar a implementação da API e atuando apenas na
+especificação OpenAPI, a equipe precisa configurar a
+documentação para que o Swagger UI reconheça formalmente
+esse mecanismo de segurança e permita seu uso nas operações
+protegidas.
+Nesse contexto, assinale a opção que apresenta a medida
+tecnicamente mais adequada.
+(A) Definir, em components/securitySchemes, um esquema de
+segurança do tipo http com scheme: bearer, podendo indicar
+bearerFormat: JWT, e aplicá-lo por meio de security no nível
+global ou apenas nas operações protegidas.
+(B) Declarar, em components/schemas, um objeto chamado
+Authorization, com um campo obrigatório token, e referenciá-
+lo nas operações que exigem autenticação.
+(C) Adicionar, em cada operação protegida, um parâmetro em
+header com o nome Authorization, sem definir esquema de
+segurança específico na especificação.
+(D) Definir, em components/securitySchemes, um esquema do
+tipo apiToken, com in: header e name: Authorization, e
+associá-lo às operações protegidas por meio de security.
+(E) Definir, em components/securitySchemes, um esquema do
+tipo http com scheme: basic e associá-lo às operações
+protegidas, informando que o token JWT será enviado no
+cabeçalho Authorization.
+31
+Uma organização mantém integrações corporativas baseadas em
+serviços SOAP/XML, consumidos por aplicações internas e
+externas a partir de contrato formal previamente publicado.
+Em uma atualização do sistema provedor, a equipe pretende
+alterar a estrutura da mensagem de resposta, com renomeação de
+alguns elementos e mudança de tipos de dados, sem adotar uma
+estratégia de versionamento compatível, sob o argumento de que
+o endpoint e o protocolo de transporte permanecerão inalterados.
+Com base nesse cenário, analise as afirmativas a seguir.
+I. A renomeação de elementos na mensagem de resposta não
+compromete a compatibilidade da integração, porque os
+consumidores podem consultar o WSDL atualizado, que define
+o contrato de comunicação do serviço, e passar a interpretar
+os novos nomes corretamente.
+II. Em arquiteturas baseadas em SOAP, a interoperabilidade
+entre consumidor e provedor depende também da aderência
+das mensagens ao contrato formal do serviço, e não apenas da
+possibilidade de troca de documentos XML entre as partes.
+III. A manutenção do mesmo endpoint e do mesmo protocolo de
+transporte não é suficiente, por si só, para preservar a
+compatibilidade da integração, quando a resposta do serviço
+deixa de corresponder à estrutura contratualmente esperada
+pelos consumidores.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+32
+Um estudante de segurança da informação realizou uma avaliação
+de segurança de uma aplicação web em ambiente de testes, e
+acessou a aplicação por meio de um navegador, inserindo o
+seguinte código em um campo de entrada de dados:
+<script>alert('teste')</script>
+Ao submeter a requisição, a aplicação retornou uma resposta que
+resultou na exibição de um alerta no navegador, evidenciando a
+execução do script inserido.
+A técnica empregada caracteriza um tipo de análise de software
+conhecido como
+(A) análise estática de código, pois o comportamento da aplicação
+foi avaliado sem a necessidade de execução.
+(B) revisão de código manual, com foco na identificação de
+vulnerabilidades diretamente no código-fonte.
+(C) análise dinâmica de software, baseada na interação com a
+aplicação em execução e a avaliação de seu comportamento
+em tempo de execução.
+(D) uso de linters, para identificação de falhas sintáticas e más
+práticas de programação.
+(E) teste unitário, voltado à validação de componentes isolados do
+sistema.
+33
+Um Engenheiro de Testes acaba de receber uma demanda para
+conduzir um teste de sistema com sua equipe.
+Sobre esse tipo de teste, analise as afirmativas a seguir.
+I. Deve ser conduzido antes dos testes de integração e conduzido
+preferencialmente por uma equipe de testes.
+II. Tem como objetivo confrontar o software em funcionamento
+com seus requisitos funcionais e não funcionais, sendo
+executado em um ambiente muito semelhante ao de
+produção.
+III. Pode ser dividido em fases alfa (em ambiente de
+desenvolvimento) e beta (em ambiente que emula a
+produção) e realizado integralmente pela equipe de testes.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+TIPO 1 – PÁGINA 9
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+34
+Um Analista de Testes precisa validar diversas funcionalidades de
+um sistema de forma isolada. A quantidade de cenários e
+combinações de entrada faz com que o número de testes seja
+muito alto. Para conduzir esta tarefa, ele poderá fazer uso de
+ferramentas de automação de testes, porém é muito importante
+que ele saiba diferenciar quais as características de cada uma para
+utilizá-las do modo correto.
+Relacione as ferramentas de teste listadas a seguir às respectivas
+características.
+1. Selenium
+2. Cypress
+( ) É mais flexível e multiplataforma.
+( ) Não utiliza Webdriver.
+( ) É executado fora do browser.
+( ) É mais utilizado para testes de front-end.
+Assinale a opção que indica a relação correta, segundo a ordem
+apresentada.
+(A) 2, 2, 2 e 1.
+(B) 1, 1, 2 e 1.
+(C) 1, 2, 1 e 1.
+(D) 1, 2, 1 e 2.
+(E) 2, 1, 1 e 2.
+35
+Leia o trecho a seguir.
+As metodologias de desenvolvimento de software evoluíram de
+abordagens rígidas e sequenciais, como o modelo em cascata, para
+modelos iterativos e incrementais, que favorecem as mudanças e
+a redução de riscos. Com as práticas ágeis, passaram a priorizar
+ciclos curtos, feedback contínuo e maior integração entre
+desenvolvimento e validação.
+Nesse contexto, surgem metodologias que colocam os testes no
+centro do desenvolvimento, não apenas para verificação, mas
+como guia para construção do software, melhorando qualidade e
+alinhamento com o negócio. Em uma delas, utilizam-se
+especificações em linguagem natural, o que permite o
+entendimento entre clientes, analistas e desenvolvedores; surge
+também a chamada living documentation, que se mantém
+atualizada por ser executável como testes automatizados.
+Assinale a opção que indica a metodologia em questão.
+(A) TDD (Test Driven Development).
+(B) BDD (Behavior Driven Development).
+(C) DDT (Data Driven Development).
+(D) RUP (Rational Unifed Process).
+(E) UCD (User-Centered Design).
+36
+Diagramas UML são um valioso recurso para documentar as
+funcionalidades e a dinâmica das interações em um sistema a ser
+projetado.
+Assinale a opção que apresenta o diagrama UML mais indicado
+para representar as interações externas com o sistema e as
+funcionalidades percebidas pelos usuários.
+(A) Diagrama de Estado.
+(B) Diagrama de Classes.
+(C) Diagrama de Sequência.
+(D) Diagrama de Caso de Uso.
+(E) Diagrama de Componentes.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+37
+Ao projetar um sistema, o cliente apresentou uma lista de
+requisitos a serem implementados.
+Relacione os requisitos listados a seguir à sua classificação como
+Funcionais (RF) ou Não Funcionais (RNF).
+1. Requisito Funcional (RF)
+2. Requisito Não Funcional (RNF)
+( ) Emitir relatórios diários de indicadores de performance.
+( ) Armazenar dados temporais estritamente sob o padrão da ISO
+8601.
+( ) Adaptar a interface dinamicamente para dispositivos móveis e
+desktops.
+Assinale a opção que indica a relação correta, segundo a ordem
+apresentada.
+(A) 1, 1 e 2.
+(B) 1, 2 e 2.
+(C) 1, 1 e 1.
+(D) 2, 1 e 1.
+(E) 2, 2 e 2.
+38
+A virtualização permite a execução de múltiplos sistemas
+operacionais em um mesmo hardware físico, otimizando o uso dos
+recursos computacionais.
+Com a evolução dessa tecnologia, surgiram abordagens mais
+eficientes, como a virtualização baseada em contêineres, que
+permite a execução de aplicações de forma isolada e portátil em
+diferentes ambientes computacionais.
+Considerando o uso da tecnologia Docker no contexto da
+virtualização por contêineres, assinale a afirmativa correta.
+(A) Os dados armazenados em contêineres Docker são
+automaticamente mantidos, independentemente de qualquer
+configuração adicional, mesmo após o encerramento do
+contêiner.
+(B) A tecnologia Docker permite executar aplicações em
+contêineres que compartilham o kernel do sistema
+operacional do host, tornando sua execução mais leve que
+máquinas virtuais.
+(C) O uso de mecanismos de armazenamento de dados
+compartilhados elimina o isolamento entre contêineres,
+fazendo com que passem a funcionar como uma única
+unidade.
+(D) Os contêineres Docker não permitem o compartilhamento de
+dados entre si, em razão do isolamento proporcionado pelo
+sistema operacional.
+(E) Os bind mounts são gerenciados pelo Docker de forma
+independente da estrutura de diretórios do sistema
+hospedeiro.
+
+TIPO 1 – PÁGINA 10
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+39
+A orquestração de contêineres permite automatizar a
+implantação, o escalonamento e o gerenciamento de aplicações
+distribuídas.
+Nesse contexto, ferramentas surgiram para administrar clusters de
+nós computacionais e garantir alta disponibilidade e eficiência
+operacional.
+Diante do exposto, analise as afirmativas a seguir.
+I. O Kubernetes é uma plataforma de orquestração de
+contêineres que permite automatizar a implantação, o
+escalonamento e a gestão de aplicações em clusters de nós
+computacionais.
+II. O Rancher é uma ferramenta nativa do Kubernetes utilizada
+para o gerenciamento de clusters.
+III. Em um cluster Kubernetes, os nós de trabalho executam os
+pods, enquanto o plano de controle é responsável pelo
+gerenciamento do estado do cluster.
+Está correto o que se afirma em
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+40
+O Jenkins é um servidor de automação usado para suportar
+práticas de Integração Contínua e Entrega Contínua (CI/CD). Um
+de seus recursos centrais é o Jenkins Pipeline, que permite a
+modelagem de ciclos de vida de entrega de software como código
+(Pipeline-as-Code), geralmente definidos em um arquivo chamado
+Jenkinsfile.
+Nesse cenário, analise as afirmativas a seguir e assinale (V) para a
+verdadeira e (F) para a falsa.
+( ) Não é possível usar shell script em um Jenkins Pipeline.
+( ) Existem dois tipos de sintaxe para arquivos Jenkinsfile:
+Declarative e Scripted.
+( ) É uma boa prática combinar as etapas (steps) de um Pipeline
+em etapas únicas sempre que possível, a fim de reduzir a
+sobrecarga gerada pelo próprio mecanismo de execução.
+As afirmativas são, respectivamente,
+(A) F – V – V.
+(B) F – F – V.
+(C) F – V – F.
+(D) V – V – V.
+(E) V – F – F.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+41
+O OWASP Top 10:2025 apresenta as principais categorias de riscos
+de segurança em aplicações web, incluindo falhas relacionadas à
+manipulação inadequada de entradas fornecidas pelo usuário.
+Uma
+aplicação
+web,
+hospedada
+no
+endereço
+http://www.eth0123.com, permite acesso a informações
+jornalísticas por meio do seguinte endereço:
+http://www.eth0123.com/acesso.php?arq=jornal
+Durante uma análise de segurança, verificou-se que o parâmetro
+“arq” é utilizado pela aplicação para carregar conteúdos
+armazenados no servidor. Em razão de falha na validação de
+entradas fornecidas pelo usuário, foi possível manipular o
+endereço de acesso conforme apresentado a seguir, permitindo
+visualizar o conteúdo de um arquivo sensível do sistema:
+http://www.eth0123.com/acesso.php?arq=../../etc/passwd
+Assinale a opção que apresenta a técnica de exploração utilizada
+nesse cenário.
+(A) SQL Injection
+(B) LFI – Local File Inclusion
+(C) XSS – Cross-Site Scripting
+(D) RFI – Remote File Inclusion
+(E) FPD – Full Path Disclosure
+42
+No contexto de Sistemas de Gerenciamento de Bancos de Dados
+Relacionais (SGBD), um conjunto de operações é considerado uma
+transação confiável se atender a critérios rigorosos que garantam,
+por exemplo, que uma falha no sistema não deixa os dados em um
+estado parcial ou corrompido.
+Sobre as propriedades fundamentais que regem as transações em
+bancos de dados, assinale a opção que indica a propriedade que,
+uma vez confirmada, assegura que a operação não será perdida,
+mesmo em caso de falha de energia ou colapso do sistema.
+(A) Atomicidade.
+(B) Consistência.
+(C) Durabilidade
+(D) Isolamento.
+(E) Persistência.
+43
+A Normalização é uma técnica aplicada ao projeto lógico para
+evitar anomalias de atualização e redundância. Em consequência,
+foram feitas algumas adaptações na estrutura de dados para
+atender aos critérios das diferentes Formas Normais.
+Uma tabela é considerada como estando na Primeira Forma
+Normal (1FN) quando
+(A) a tabela possui um índice único criado sobre a chave primária.
+(B) não existem dependências transitivas entre atributos não
+chave.
+(C) existe pelo menos uma chave estrangeira vinculada a outra
+tabela normalizada.
+(D) todos os seus atributos possuem apenas valores atômicos e
+não existem grupos repetitivos.
+(E) não existem dependências parciais, ou seja, todos os atributos
+dependem da chave primária total.
+
+TIPO 1 – PÁGINA 11
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+44
+Em uma repartição há 150 funcionários lotados em 12
+departamentos. Cada departamento possui diferentes estruturas
+funcionais, de modo que os salários dos funcionários oscilam
+conforme a função exercida.
+Uma consulta solicitada por meio da Lei de Acesso à Informação
+(LAI) pede para listar todos os departamentos que possuem uma
+média salarial superior a R$ 5.000,00 (cinco mil reais).
+A cláusula SQL que deve ser utilizada para filtrar esse resultado
+após o agrupamento dos dados é a
+(A) WHERE
+(B) HAVING
+(C) GROUP BY
+(D) ORDER BY
+(E) GROUP FILTER
+45
+No desenvolvimento de sistemas de banco de dados robustos, os
+gatilhos (triggers) funcionam como mecanismos automatizados
+para garantir a integridade semântica e manter trilhas de
+auditoria. Na programação desses gatilhos, as variáveis de
+transição (geralmente chamadas de OLD e NEW) permitem ao
+desenvolvedor acessar diferentes estados de uma tupla (linha) no
+momento do disparo.
+Considerando um gatilho disparado por uma instrução delete,
+assinale a opção que indica a disponibilidade e o conteúdo dessas
+variáveis.
+(A) Apenas a variável NEW está disponível, contendo os valores
+nulos.
+(B) Ambas as variáveis estão disponíveis e possuem os mesmos
+valores.
+(C) Nenhuma das variáveis está disponível em operações de
+exclusão.
+(D) Apenas a variável OLD está disponível, contendo os dados do
+registro que será removido.
+(E) Ambas as variáveis estão disponíveis, mas a OLD contém
+valores nulos e a NEW contém os dados removidos.
+46
+A criação de visões em bancos de dados permite apresentar um
+extrato personalizado sobre os registros reais, simplificando
+consultas complexas e protegendo informações sensíveis.
+Assinale a opção que indica a sintaxe correta, em SQL, para criar
+uma visão chamada 'v_vendas' que mostre todos os registros de
+uma tabela denominada 'pedidos'.
+(A) WITH VIEW v_vendas AS (SELECT * FROM pedidos)
+(B) CREATE VIEW v_vendas AS SELECT * FROM pedidos
+(C) INSERT VIEW v_vendas VALUES (SELECT ALL FROM pedidos)
+(D) NEW VIEW v_vendas FROM (SELECT * FROM pedidos)
+(E) ALTER TABLE pedidos ADD VIEW v_vendas AS SELECT * FROM
+pedidos
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+47
+O comando explain plan (ou similar, dependendo do SGBD) é um
+recurso valioso para nortear as decisões de um administrador ou
+desenvolvedor de banco de dados quando o volume de dados
+pode comprometer o desempenho das consultas.
+Assinale a opção que apresenta, corretamente, a situação em que
+o uso do plano de execução é mais indicado para resolver um
+problema de performance.
+(A) Quando se deseja verificar se o SGBD está convertendo tipos
+de dados de forma implícita e invalidando o uso de índices.
+(B) Quando é necessário garantir que os dados sensíveis de uma
+tabela sejam criptografados antes do armazenamento.
+(C) Quando é necessário auditar o usuário que realizou a última
+alteração em um registro específico da tabela.
+(D) Quando o desenvolvedor deseja alterar permanentemente a
+ordem física das linhas no disco rígido.
+(E) Quando uma cópia física de segurança (backup) de uma visão
+materializada será criada.
+48
+Deseja-se controlar o comportamento dinâmico entre os
+elementos gráficos de uma mesma página de um relatório
+desenvolvido no Power BI Desktop. Para isso, é utilizado o recurso
+de edição de interações entre visuais.
+Com base nas funcionalidades desse recurso e nas boas práticas
+de visualização de dados, analise as afirmativas a seguir.
+I. A seleção de um ponto de dado em um visual de origem pode
+ser configurada para filtrar ou destacar (realçar) os dados
+exibidos nos demais visuais da página.
+II. O desenvolvedor pode modificar as interações padrão,
+ativando, desativando ou alterando o comportamento de cada
+visual de destino de forma independente.
+III. A gestão criteriosa das interações entre visuais contribui para
+reduzir a carga cognitiva do usuário, evitando interpretações
+equivocadas e favorecendo a clareza da análise.
+Está correto o que se afirma em
+(A) III, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+49
+Um relatório analítico é estruturado para subsidiar a tomada de
+decisão, iniciando com a apresentação de um indicador
+consolidado e, na sequência, explorando desdobramentos por
+diferentes dimensões, como região e período, com destaque para
+variações relevantes.
+Essa forma de organização da informação está associada ao
+princípio de storytelling com dados que consiste em
+(A) utilizar múltiplas codificações visuais redundantes para
+reforçar a leitura dos dados.
+(B) aplicar o design progressivo de informação, priorizando a visão
+macro antes do detalhamento analítico.
+(C) evitar qualquer forma de direcionamento interpretativo,
+mantendo a neutralidade na apresentação dos dados.
+(D) maximizar a quantidade de informação exibida, priorizando a
+densidade informacional em detrimento da hierarquia visual.
+(E) apresentar inicialmente detalhes específicos para,
+posteriormente, contextualizar os resultados de forma
+agregada.
+
+TIPO 1 – PÁGINA 12
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+50
+No desenvolvimento de painéis interativos com o framework Shiny
+(linguagem R), a gestão eficiente do grafo de reatividade é
+fundamental para o desempenho da aplicação. Um profissional
+deve selecionar a função reativa adequada para cada necessidade
+de processamento no server.
+Relacione as funções listadas a seguir às respectivas definições.
+1. reactive()
+2. observe()
+3. eventReactive()
+( ) Cria uma expressão reativa que encapsula um cálculo,
+evitando recomputações desnecessárias e retornando um
+valor que pode ser utilizado por outras expressões reativas ou
+saídas (outputs).
+( ) Cria um observador destinado a executar ações com efeitos
+colaterais (side effects), como gravação em banco de dados ou
+envio de notificações, não retornando valor reutilizável.
+( ) Cria uma expressão reativa cujo valor é atualizado apenas
+quando ocorre um evento explícito (por exemplo, o clique de
+um botão), evitando atualizações desnecessárias causadas por
+outras entradas.
+Assinale a opção que indica a relação correta, segundo a ordem
+apresentada.
+(A) 1, 2 e 3.
+(B) 1, 3 e 2.
+(C) 2, 1 e 3.
+(D) 3, 2 e 1.
+(E) 2, 3 e 1.
+51
+Um cientista de dados foi incumbido de analisar o desempenho de
+estudantes em um exame nacional, com o objetivo de investigar
+possíveis desigualdades educacionais. Para isso, pretende
+comparar
+as
+distribuições
+de
+notas
+considerando
+simultaneamente o nível socioeconômico (baixo, médio e alto) e a
+região geográfica (Norte, Nordeste, Sul, Sudeste e Centro-Oeste).
+Sabe-se que a análise deve preservar a comparabilidade entre os
+grupos, permitindo identificar padrões estruturais de forma clara
+e consistente entre os subconjuntos de dados.
+Considerando o uso da biblioteca ggplot2 na linguagem R, assinale
+a opção que apresenta a abordagem mais adequada para atender
+ao objetivo proposto.
+(A) Utilizar facet_wrap (~ regiao + nivel_socioeconomico), pois
+essa função organiza automaticamente os painéis, garantindo
+flexibilidade na disposição gráfica, ainda que sem controle
+explícito da estrutura bidimensional.
+(B) Utilizar facet_grid (regiao ~ nivel_socioeconomico), pois essa
+abordagem organiza os dados em uma matriz bidimensional
+fixa, favorecendo a comparação sistemática entre linhas e
+colunas.
+(C) Utilizar group_by (regiao, nivel_socioeconomico) seguido de
+summarise, gerando gráficos independentes para cada grupo,
+o que amplia o detalhamento analítico, ainda que reduza a
+comparabilidade visual.
+(D) Utilizar geom_density com sobreposição de todas as
+categorias em um único painel, maximizando a densidade
+informacional e facilitando a identificação de padrões globais.
+(E) Utilizar coord_flip, pois a inversão dos eixos melhora a
+legibilidade das categorias e permite comparação direta entre
+todas as variáveis simultaneamente.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+52
+No contexto da elaboração de documentos técnicos na área de
+Tecnologia da Informação, analise os itens a seguir.
+I. O Parecer Técnico é o instrumento adequado quando se exige
+de um Analista de TI uma análise de conformidade das
+funcionalidades entregues frente ao Termo de Referência,
+visando subsidiar a decisão de pagamento de uma fatura
+contratual.
+II. O Laudo Técnico é o documento recomendado para o registro
+de constatações objetivas resultantes de um exame pericial ou
+de uma auditoria de segurança em sistemas.
+III. O Laudo Técnico possui natureza predominantemente
+opinativa e conclusiva, enquanto o Parecer Técnico possui
+natureza essencialmente descritiva e fática.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+53
+No que tange à elaboração de laudos técnicos, assinale a
+afirmativa correta.
+(A) A metodologia deve explicitar os procedimentos, técnicas,
+ferramentas e normas adotados, de modo a permitir a
+reprodutibilidade e a verificação dos resultados.
+(B) A seção de conclusão pode conter opiniões de caráter
+subjetivo, ainda que não estejam fundamentadas nas
+evidências obtidas durante a análise técnica.
+(C) A seção de identificação do laudo técnico é facultativa,
+podendo ser dispensada quando o documento se destinar ao
+uso interno da organização.
+(D) O laudo técnico caracteriza-se predominantemente por seu
+caráter opinativo, baseado na interpretação do profissional
+responsável.
+(E) O escopo do laudo técnico deve ser definido ao final do
+documento, após a análise dos dados, a fim de refletir com
+maior precisão os resultados obtidos.
+54
+Em relação à Legislação e aos aspectos éticos na área de
+Tecnologia da Informação, assinale a afirmativa correta.
+(A) Um analista de TI que, durante atividade de manutenção,
+copia documentos estratégicos da organização para
+dispositivo pessoal, ainda que sem intenção de obter
+vantagem, incorre em violação do sigilo profissional e da
+responsabilidade técnica.
+(B) A Responsabilidade Técnica limita-se à garantia de que os
+sistemas estejam disponíveis, não abrangendo as falhas de
+configuração que resultem em acessos indevidos.
+(C) O profissional de TI pode compartilhar dados internos da
+organização, desde que não haja identificação direta dos
+titulares das informações.
+(D) O dever de sigilo profissional cessa após o desligamento do
+colaborador, exceto se houver cláusula contratual específica
+de não divulgação.
+(E) A Ética Profissional em TI foca na eficiência técnica dos
+algoritmos, sendo as questões de privacidade de
+responsabilidade do setor jurídico.
+
+TIPO 1 – PÁGINA 13
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+55
+Um agente técnico-estatístico na área de Tecnologia da
+Informação está elaborando um relatório para avaliar o
+desempenho de um sistema corporativo de gestão de serviços
+digitais. Para isso, ele utiliza dados oficiais de bases institucionais,
+como registros de chamados, tempo de resposta, disponibilidade
+do sistema e índices de satisfação dos usuários.
+Com base na utilização de estatísticas oficiais e na construção de
+indicadores de desempenho em ambientes de TI na Administração
+Pública, assinale a afirmativa correta.
+(A) Indicadores de desempenho em TI devem ser utilizados
+apenas para fins operacionais, não sendo adequados para
+avaliação estratégica de serviços públicos digitais.
+(B) Indicadores de desempenho permitem avaliar a eficiência e a
+qualidade dos serviços de TI, apoiando a tomada de decisão e
+a melhoria contínua dos sistemas.
+(C) Indicadores estatísticos em TI não podem ser utilizados para
+comparações entre diferentes períodos, devido à variabilidade
+dos sistemas tecnológicos.
+(D) Relatórios estatísticos na área de TI devem apresentar
+exclusivamente dados técnicos, sem interpretação ou análise
+gerencial.
+(E) A utilização de dados institucionais limita a criação de novos
+indicadores de desempenho em ambientes de TI.
+56
+No que tange às contratações de bens e serviços de Tecnologia da
+Informação (TI), conforme disposições da Lei nº 14.133/2021,
+analise as afirmativas a seguir.
+I. Nas contratações de TI, a Administração poderá definir o
+objeto da licitação com base exclusiva em marca ou modelo
+específico, desde que isso facilite a padronização tecnológica
+da organização.
+II. O Diálogo Competitivo é uma modalidade de licitação que
+pode ser aplicada em projetos de TI que envolvam inovação
+tecnológica ou quando a Administração não consegue definir,
+com precisão suficiente, as especificações técnicas do objeto.
+III. A contratação de soluções de TI deverá priorizar, sempre que
+possível, especificações baseadas em desempenho ou
+requisitos funcionais, evitando restrições indevidas à
+competitividade.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+57
+No contexto da gestão e fiscalização de contratos administrativos
+previstos na Lei nº 14.133/2021, avalie as afirmativas a seguir e
+assinale (V) para a verdadeira e (F) para a falsa.
+( ) As contratações públicas deverão submeter-se a duas linhas de
+defesa, estruturadas para promover práticas contínuas e
+permanentes de gestão de riscos e controle preventivo na
+administração pública.
+( ) Na fiscalização contratual poderão ser considerados critérios
+como oportunidade, materialidade, relevância e risco.
+( ) A execução do contrato deverá ser acompanhada e fiscalizada
+por apenas um fiscal de contrato, responsável por todas as
+atividades de controle da execução contratual.
+As afirmativas são, respectivamente,
+(A) F – V – F.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+(E) F – F – V.
+58
+Comunicação assíncrona é um modelo de interação entre
+sistemas, em que o emissor envia uma mensagem sem precisar
+aguardar uma resposta imediata do receptor para continuar sua
+execução. O receptor processa a mensagem quando estiver
+disponível e, por vezes, há um intermediário. Em outras palavras,
+o envio e o processamento da mensagem ocorrem em momentos
+independentes. Tal abordagem é comumente aplicada em
+cenários de mensageria, tais como notificações, filas e event
+streamings.
+As tecnologias que se associam as aplicações mencionadas são,
+respectivamente,
+(A) API Gateway, RabbitMQ e Kafka.
+(B) Kafka, RabbitMQ e Webhooks.
+(C) Webhooks, Kafka e API Gateway.
+(D) Webhooks, RabbitMQ e Kafka.
+(E) RabbitMQ, Kafka e Webhooks.
+59
+O sistema e-Gampes (Sistema de Gestão de Autos) do MPES é a
+principal ferramenta de gestão de autos finalísticos.
+Ele digitalizou o fluxo de trabalho extrajudicial (inquéritos civis,
+notícias de fato), eliminando o uso de papel e proporcionando
+agilidade, segurança e transparência na tramitação. Nele é
+possível cadastrar, alterar e excluir autos, executar relatórios
+analíticos e listar os autos cadastrados em uma consulta simples.
+Com base na Análise de Pontos de Função (APF), as
+funcionalidades citadas acima serão contadas, respectivamente,
+como
+(A) Entrada Externa, Saída Externa e Consulta Externa.
+(B) Saída Externa, Consulta Externa e Arquivo de Interface
+Externo.
+(C) Saída Externa, Saída Externa e Consulta Externa.
+(D) Arquivo Lógico Interno, Consulta Externa e Entrada Externa.
+(E) Entrada Externa, Saída Externa e Saída Externa.
+
+TIPO 1 – PÁGINA 14
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+60
+O ASP.NET Core é uma reformulação completa, moderna e de alto
+desempenho do tradicional ASP.NET. Criado pela Microsoft como
+uma plataforma open-source e multiplataforma, ele foi reescrito
+do zero para ser modular e leve, sendo ideal para a criação de
+aplicativos modernos, conectados à nuvem e compatíveis com
+Windows, Linux e macOS.
+Sobre o tema, assinale a opção que apresenta, corretamente, uma
+de suas características.
+(A) Utiliza o ADO.NET para evitar o uso direto de SQL.
+(B) Contém o Blazor, um framework para UI web interativa usando
+JavaScript ao invés de C#.
+(C) Sua arquitetura tem como características a junção de
+responsabilidades e alto acoplamento.
+(D) Faz o mapeamento Objeto-Relacional com o Entity
+Framework, permitindo a manipulação de dados por meio de
+objetos.
+(E) Utiliza o Razor Pages como alternativa ao MVC (Model-View-
+Controller), onde cada página tem UI própria, porém, sem
+lógica associada.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+
+TIPO 1 – PÁGINA 15
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+Prova Discursiva
+1
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+
+TIPO 1 – PÁGINA 16
+O Ministério Público de uma unidade da federação está reestruturando sua arquitetura de dados para o monitoramento de indicadores de
+celeridade e produtividade processual. A equipe técnica utiliza o Power BI como ferramenta de visualização, integrada a bases de dados SQL
+de alta volumetria. O gestor do projeto questiona a performance dos painéis e a eficácia da comunicação visual dos indicadores críticos,
+enfatizando sua preocupação com o desempenho e clareza dos painéis.
+a) Considerando o contexto de desenvolvimento de sistemas e as boas práticas de Data Analytics, compare Medidas (Measures) e Colunas
+Calculadas no Power BI quanto:
+1) ao momento de execução (tempo de carga vs. tempo de consulta);
+2) ao impacto no uso de memória RAM e de CPU; e
+3) à adequação em cenários com grande volume de dados e justifique sua escolha sob a ótica de performance.
+b) Defina o conceito de Atributos Pré-Atentivos e descreva dois exemplos práticos de como utilizá-los no design de um gráfico de barras
+para destacar varas processuais que ultrapassaram a meta de produtividade, indicando explicitamente o atributo e o efeito perceptivo
+gerado.
+c) Dada a alta volumetria de dados, apresente duas estratégias distintas de modelagem ou otimização no Power BI, descrevendo sua
+aplicação prática e indicando objetivamente como cada uma contribui para a melhoria do desempenho dos painéis.
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+
+TIPO 1 – PÁGINA 17
+1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+2
+1.
+2.
+3.
+4.
+CREATE TABLE futebol.clube (
+acronimo CHAR(3) PRIMARY KEY, -- Ex: 'PAL', 'FLA'
+nome_clube VARCHAR(100) NOT NULL UNIQUE,
+cidade VARCHAR(100) NOT NULL);
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+
+TIPO 1 – PÁGINA 18
+Na condição de Analista de Sistemas do Ministério Público do Estado do Espírito Santo (MPES), responsável pela modelagem e pelo
+desenvolvimento de soluções de Tecnologia da Informação, considere o código apresentado a seguir, rodando sobre uma base de dados
+criada em SGBD PostgreSQL.
+CREATE TABLE futebol.jogador (
+clube_acronimo CHAR(3),
+camisa INT,
+nome VARCHAR(100) NOT NULL,
+PRIMARY KEY (clube_acronimo, camisa),
+FOREIGN KEY (clube_acronimo) REFERENCES futebol.clube(acronimo));
+CREATE TABLE futebol.partida (
+id_partida VARCHAR(20) PRIMARY KEY, -- Ex: 'BRA26-R01-01'
+rodada INT NOT NULL,
+time_casa CHAR(3) NOT NULL,
+time_visitante CHAR(3) NOT NULL,
+FOREIGN KEY (time_casa) REFERENCES futebol.clube(acronimo),
+FOREIGN KEY (time_visitante) REFERENCES futebol.clube(acronimo));
+CREATE TABLE futebol.gol (
+id_gol SERIAL PRIMARY KEY,
+id_partida VARCHAR(20) NOT NULL,
+clube_autor CHAR(3) NOT NULL,
+camisa_autor INT NOT NULL,
+minuto VARCHAR(10) NOT NULL, -- VARCHAR para aceitar formatos como '90+4'
+FOREIGN KEY (id_partida) REFERENCES futebol.partida(id_partida)
+FOREIGN KEY (clube_autor, camisa_autor) REFERENCES futebol.jogador(clube_acronimo, camisa));
+Considere o esquema relacional apresentado e, com base nos conceitos de normalização de bancos de dados, analise sua adequação às
+formas normais.
+Para cada um dos itens a seguir, indique se a estrutura atende aos requisitos da forma normal correspondente e justifique sua resposta.
+a. Primeira Forma Normal (1FN);
+b. Segunda Forma Normal (2FN); e
+c. Terceira Forma Normal (3FN).
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+AGENTE ESPECIALIZADO - ANALISTA DE SISTEMAS - MANHÃ
+
+TIPO 1 – PÁGINA 19
+1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Realização

@@ -1,0 +1,18 @@
+ID: 88-046
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A aquisição de imagens de unidades de disco rígido é considerada uma das partes principais em uma investigação de computação forense, uma vez que a maioria dos dados que podem conter evidências para a investigação está neste tipo de dispositivo de armazenamento. O FTK Imager é uma ferramenta que pode ser utilizada para a criação de imagens dos tipos
+
+[ALTERNATIVAS]
+(A) Raw (dd), NTFS, E01, AFF.
+(B) Raw (dd), NTFS, E01, SMART.
+(C) Raw (dd), SMART, E01, AFF.
+(D) Raw (dd), SMART, E01, VMDK.
+(E) Raw (dd), SMART, NTFS, VMDK.
+
+[GABARITO]
+C

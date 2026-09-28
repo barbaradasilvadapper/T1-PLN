@@ -1,0 +1,18 @@
+ID: 13-049
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista João está analisando os dados de diversas fontes, carregando-os em um banco de dados relacional. Durante as cargas, diversas tabelas foram criadas, e agora João precisa fazer uma limpeza no seu banco de dados. Para remover uma tabela do banco de dados, João deve utilizar o comando:
+
+[ALTERNATIVAS]
+(A) DROP;
+(B) ALTER;
+(C) DELETE;
+(D) UPDATE;
+(E) TRUNCATE.
+
+[GABARITO]
+A

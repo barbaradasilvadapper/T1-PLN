@@ -1,0 +1,18 @@
+ID: 71-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação ao docker, avalie se as afirmativas a seguir são ( ) Docker é uma ferramenta exclusiva para sistemas operacionais Windows. ( ) Docker é uma ferramenta de código aberto utilizada para criação e gerenciamento de containers. ( ) Docker é capaz de melhorar a portabilidade e organização de aplicativos.
+
+[ALTERNATIVAS]
+(A) F – V – F.
+(B) F – V – V.
+(C) F – F – V.
+(D) V – F – V.
+(E) V – V – F.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 48-034
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O SNMP é usado para transmitir informações e comandos entre uma entidade gerenciadora e um agente que os executa em nome da entidade dentro de um dispositivo de rede gerenciado. Em alguns casos, ocorre uma sobrecarga devido às múltiplas mensagens que devem ser enviadas. Para evitar essa sobrecarga, deve ser utilizada a PDU:
+
+[ALTERNATIVAS]
+(A) GetRequest;
+(B) InformRequest;
+(C) GetBulkRequest;
+(D) GetNextRequest;
+(E) InformBulkRequest.
+
+[GABARITO]
+C

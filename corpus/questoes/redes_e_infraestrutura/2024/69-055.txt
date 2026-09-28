@@ -1,0 +1,18 @@
+ID: 69-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A RFC 3021 descreve o protocolo MPLS. A seleção de rotas deste protocolo refere-se ao método usado para selecionar o Label Switched Path (LSP) para um Forwarding Equivalence Class (FEC). Com relação à seleção de rotas suportadas pelo MPLS, analise as afirmativas a seguir. I. MPLS suporta duas opções para seleção de rota: roteamento salto a salto e roteamento explícito. II. O roteamento salto a salto pode ser útil para vários propósitos, por exemplo, no roteamento de políticas ou engenharia de tráfego. No MPLS, a rota salto a salto precisa ser especificada quando os rótulos são atribuídos e a rota precisa ser especificada para cada pacote IP. Isto torna esse tipo de roteamento muito mais eficiente do que a alternativa de roteamento de origem IP. III. O roteamento explícito permite que cada nó escolha o próximo FEC independentemente. No entanto, este é o modo menos usual nas redes IP existente. Um LSP roteado explicitamente é um LSP cuja rota é selecionada usando roteamento direto.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) I e III, apenas.
+
+[GABARITO]
+A

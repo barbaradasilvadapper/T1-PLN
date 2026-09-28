@@ -1,0 +1,18 @@
+ID: 74-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+NoSQL é um termo que se refere a um grupo de sistemas de gerenciamento de banco de dados que não utilizam o modelo tradicional de tabelas relacionais e SQL (Structured Query Language). O objetivo dos bancos de dados NoSQL é proporcionar maior flexibilidade, escalabilidade e desempenho para certos tipos de aplicativos e cargas de trabalho que são desafiadores para bancos de dados relacionais tradicionais. Dos tipos de Sistemas de Gerenciamento de Banco de Dados NoSQL elencados a seguir, o mais adequado para armazenar e consultar dados que possuem relações hierárquicas e estruturadas em forma de documentos complexos é o Banco de Dados
+
+[ALTERNATIVAS]
+(A) Orientado a Grafos.
+(B) de Coluna.
+(C) Chave-Valor.
+(D) Documental.
+(E) de Séries Temporais.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 73-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Luis precisa estabelecer um acesso remoto a um servidor e pede orientação a Carlos, um analista de TI. Carlos afirmou que o acesso pode ser feito pelo protocolo da camada de:
+
+[ALTERNATIVAS]
+(A) aplicação chamado telnet, que roda sobre UDP e, por isso, não é tão confiável quanto o SSH;
+(B) aplicação chamado telnet, que roda sobre TCP (assim como o SSH) e é uma aplicação interativa;
+(C) rede chamado SSH, que roda sobre TCP e, apesar de não ser criptografado, é mais confiável do que o telnet;
+(D) rede chamado SSH, que roda sobre UDP e, apesar de não ser criptografado, é mais confiável do que o telnet;
+(E) aplicação chamado SSH, que roda sobre TCP e, apesar de não ser criptografado, é mais confiável do que o telnet.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 92-032
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O prompt de comando (cmd.exe) no sistema operacional Windows (ou superior) é o meio pelo qual podemos executar tarefas sem o uso da interface gráfica. Assinale o comando utilizado para visualizar as configurações de rede.
+
+[ALTERNATIVAS]
+(A) ifconfig
+(B) netconfig
+(C) format
+(D) systeminfo
+(E) ipconfig
+
+[GABARITO]
+E

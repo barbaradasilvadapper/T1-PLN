@@ -1,0 +1,18 @@
+ID: 16-040
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Jenkins é um servidor de automação usado para suportar práticas de Integração Contínua e Entrega Contínua (CI/CD). Um de seus recursos centrais é o Jenkins Pipeline, que permite a modelagem de ciclos de vida de entrega de software como código (Pipeline-as-Code), geralmente definidos em um arquivo chamado Jenkinsfile. Nesse cenário, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Não é possível usar shell script em um Jenkins Pipeline. ( ) Existem dois tipos de sintaxe para arquivos Jenkinsfile: Declarative e Scripted. ( ) É uma boa prática combinar as etapas (steps) de um Pipeline em etapas únicas sempre que possível, a fim de reduzir a sobrecarga gerada pelo próprio mecanismo de execução. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) F – V – V.
+(B) F – F – V.
+(C) F – V – F.
+(D) V – V – V.
+(E) V – F – F.
+
+[GABARITO]
+A

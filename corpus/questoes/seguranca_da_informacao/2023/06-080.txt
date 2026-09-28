@@ -1,0 +1,18 @@
+ID: 06-080
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A analista Joana implementou o sistema de autorização da aplicação TJApp utilizando o protocolo OAuth2. Joana decidiu por implementar o fluxo do OAuth2 de concessão por código de autorização. A fim de indicar ao servidor de autorização o fluxo de concessão escolhido, Joana atribuiu ao parâmetro response_type da requisição de autorização de TJApp o valor associado ao fluxo implementado, conforme a especificação do OAuth2. Joana atribuiu ao response_type o valor:
+
+[ALTERNATIVAS]
+(A) code;
+(B) token;
+(C) auth-code;
+(D) access-token;
+(E) client-credentials.
+
+[GABARITO]
+A

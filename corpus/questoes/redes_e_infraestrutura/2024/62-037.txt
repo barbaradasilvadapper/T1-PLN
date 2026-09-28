@@ -1,0 +1,18 @@
+ID: 62-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma aplicação corporativa foi virtualizada para um provedor de serviços computacionais em nuvem. Essa aplicação permite aos usuários realizar o upload de vídeos para sua posterior publicação e disponibilidade para o público geral na internet. O contrato assinado entre a empresa e o provedor prevê a cobrança mensal de dados armazenados no servidor da aplicação e de upload de dados do servidor (download dos internautas), conforme a tabela a seguir. Armazenamento Upload Até 5TB R$ 200,00 Até 1TB R$ 150,00 Entre 10TB 5TB e R$ 400,00 Entre 1TB e 2TB R$ 300,00 Maior que 10TB R$ 600,00 Maior que 2TB R$ 450,00 Sabendo que, no primeiro mês do contrato, a taxa de armazenamento diário demandado pela aplicação foi de 200GB/dia, e que a taxa média de upload realizado pela aplicação foi de 1Mbps, assinale a opção que apresenta o valor a ser pago por esta empresa ao provedor de computação em nuvem ao término do primeiro mês de contrato. Considerações: um mês possui 30 dias de duração e, inicialmente, não há dados armazenados no servidor.
+
+[ALTERNATIVAS]
+(A) R$ 350,00
+(B) R$ 500,00
+(C) R$ 550,00
+(D) R$ 700,00
+(E) R$ 850,00
+
+[GABARITO]
+C

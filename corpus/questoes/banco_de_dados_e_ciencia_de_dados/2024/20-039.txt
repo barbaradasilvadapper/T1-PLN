@@ -1,0 +1,18 @@
+ID: 20-039
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João está encarregado de projetar um banco de dados PostgreSQL para gerenciar informações de cursos universitários, segundo o modelo lógico simplificado: Para assegurar a unicidade dos dados, João deverá garantir que cada "Aluno" possa realizar a "Matricula" em uma "Disciplina" apenas uma vez. Para tanto, ele deverá evitar a duplicidade de matrículas e criar a restrição de integridade:
+
+[ALTERNATIVAS]
+(A) chave única em Matricula para o atributo (IDMatricula);
+(B) chave primária em Matricula para o atributo (IDMatricula);
+(C) chave única em Matricula para os atributos (IDAluno, IDDisciplina);
+(D) chave estrangeira em Matricula para os atributos (IDAluno, IDDisciplina);
+(E) chave primária em Matrícula para os atributos (IDMatricula, IDAluno, IDDisciplina).
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 11-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte fragmento de código XML: <livro xmlns:ficcao="http://exemplo.com/ficcao" xmlns:didatico="http://exemplo.com/didatico"> <ficcao:titulo>O Conto Fantástico</ficcao:titulo> <didatico:titulo>Guia de Estudos</didatico:titulo> </livro> No exemplo acima, ficcao e didatico são exemplos de
+
+[ALTERNATIVAS]
+(A) elementos XML.
+(B) atributos XML.
+(C) prefixos de namespace.
+(D) entidades XML.
+(E) instruções de processamento.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 84-059
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Swagger é uma plataforma que possui diversas ferramentas, entre as quais o SwaggerHub. Em relação ao SwaggerHub, analise os itens a seguir: I. Permite que os desenvolvedores definam suas APIs no formato OpenAPI ou AsyncAPI. II. É uma plataforma colaborativa capaz de hospedar todas as definições de APIs em um único local. III. Para o AsyncAPI, gera códigos de servidor e cliente e envia-os por push para as plataformas GitHub, GitLab, Bitbucket ou Azure DevOps Services. Está correto apenas o que se afirma em
+
+[ALTERNATIVAS]
+(A) I.
+(B) I e II.
+(C) II e III.
+(D) I e III.
+(E) III.
+
+[GABARITO]
+B

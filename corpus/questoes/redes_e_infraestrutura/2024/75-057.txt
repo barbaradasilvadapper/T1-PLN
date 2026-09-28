@@ -1,0 +1,18 @@
+ID: 75-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+As tecnologias de contêiner têm sido amplamente empregadas em ambientes de nuvem, em especial para implantação de microsserviços em diferentes plataformas. Com relação às tecnologias de contêiner, assinale V para a afirmativa verdadeira e F para a falsa. ( ) O Docker é uma tecnologia de tempo de execução de contêineres que empacota o software em unidades dinâmicas e flexíveis. ( ) Kubernetes é uma ferramenta de orquestração de contêineres para executar aplicações de nível de produção, sendo exclusiva para operação em grande escala por datacenters de nuvem. ( ) O Docker pode executar e escalar um ou vários contêineres ao mesmo tempo, sendo a ferramenta mais adequada para gerenciando de um cluster de instâncias de computação realizando a programação da execução de contêineres no cluster com base nos recursos computacionais disponíveis e nos requisitos de recursos de cada contêiner.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – F – V.
+(C) V – V – V.
+(D) F – V – F.
+(E) F – F – F.
+
+[GABARITO]
+E

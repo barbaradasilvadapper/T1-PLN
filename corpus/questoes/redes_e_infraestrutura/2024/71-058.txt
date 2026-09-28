@@ -1,0 +1,18 @@
+ID: 71-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os modos de endereçamento do protocolo IP v6 referem-se aos mecanismos aos quais se endereçam hosts em uma rede. Os modos de endereçamento disponíveis são
+
+[ALTERNATIVAS]
+(A) unicast, multicast e anycast.
+(B) narrowcast e ominicast.
+(C) typecast e widecast.
+(D) lancast, typecast e broadcast.
+(E) unicast, wancast e broadcast.
+
+[GABARITO]
+A

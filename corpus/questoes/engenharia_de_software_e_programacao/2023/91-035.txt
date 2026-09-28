@@ -1,0 +1,18 @@
+ID: 91-035
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A UML (Unified Modeling Language) oferece um conjunto de notações gráficas amplamente utilizado em projetos de sistemas de software. O diagrama de atividades previsto na UML é o mais indicado para
+
+[ALTERNATIVAS]
+(A) observar as mudanças de comportamento de um único objeto com foco nas restrições de temporização.
+(B) mostrar o layout físico de um sistema, revelando quais partes do software são executadas em quais partes do hardware.
+(C) representar um instantâneo dos objetos em um sistema em um determinado ponto no tempo.
+(D) descrever lógica de procedimento, processo de negócio, fluxo de trabalho e etapas executadas por um sistema.
+(E) decompor hierarquicamente uma classe em uma estrutura interna para visualizar um objeto complexo em partes.
+
+[GABARITO]
+D

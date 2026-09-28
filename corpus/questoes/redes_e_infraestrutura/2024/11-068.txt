@@ -1,0 +1,18 @@
+ID: 11-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No Kubernetes, há duas formas de aplicar mudanças na configuração de uma aplicação: imperativa e declarativa. Considere os dois comandos a seguir: 1: kubectl create -f exemplo.yaml 2: kubectl apply -f exemplo-deployment.yaml Nesse caso, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) 1 é um exemplo de comando declarativo, em que o kubectl especifica a operação que se deseja aplicar.
+(B) 2 é um exemplo de comando imperativo, em que o kubectl especifica a operação que se deseja aplicar.
+(C) 2 é um exemplo de comando imperativo, em que o usuário não define que operações serão executadas.
+(D) 1 é um exemplo de comando declarativo, em que o sistema do Kubernetes decidirá a melhor forma de aplicá-lo.
+(E) 2 é um exemplo de comando declarativo, em que o sistema do Kubernetes decidirá a melhor forma de aplicá-lo.
+
+[GABARITO]
+E

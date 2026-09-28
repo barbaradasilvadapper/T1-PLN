@@ -1,0 +1,18 @@
+ID: 43-025
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Bruna, analista de rede do TJMS, foi acionada via Help Desk devido a uma questão relacionada a aplicações P2P, em que qualquer par A participante deve poder iniciar uma conexão TCP com qualquer outro par B participante. Contudo, o problema é que, se o par B estiver por trás de um NAT, não poderá agir como um servidor e aceitar conexões TCP. Para contornar o problema, Bruna pode utilizar a técnica de:
+
+[ALTERNATIVAS]
+(A) NAT dinâmico para fazer a tradução 1:1;
+(B) NAT estático para fazer a tradução 1:1;
+(C) NAT dinâmico para fazer a tradução 1:N;
+(D) tradução da conexão para fazer o NAT reverso;
+(E) reversão de conexão para fazer a travessia de NAT.
+
+[GABARITO]
+E

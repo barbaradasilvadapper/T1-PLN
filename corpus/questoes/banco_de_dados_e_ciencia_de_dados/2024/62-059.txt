@@ -1,0 +1,18 @@
+ID: 62-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação à linguagem de consulta estruturada (SQL) padrão ANSI e seus subconjuntos, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Os comandos GRANT e REVOKE são usados para conceder e revogar privilégios aos usuários e pertencem à DTL. ( ) O comando para apagar uma tabela é o DELETE. ( ) Os comandos CREATE, ALTER e DROP pertencem ao subconjunto DDL. ( ) O comando TRUNCATE é utilizado para limpar completamente uma tabela, mantendo sua estrutura para futuras inserções de dados. Pertence ao subconjunto DDL. As afirmativas são, respetivamente,
+
+[ALTERNATIVAS]
+(A) F – V – V – F.
+(B) V – V – F – F.
+(C) F – F – V – V.
+(D) V – F – F – V.
+(E) F – V – V – V.
+
+[GABARITO]
+C

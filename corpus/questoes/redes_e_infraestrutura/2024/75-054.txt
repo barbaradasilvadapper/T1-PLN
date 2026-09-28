@@ -1,0 +1,18 @@
+ID: 75-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O gerenciamento de API é uma atividade crítica em aplicações IoT (Internet of Things) e pode demandar a contratação de uma plataforma de gerenciamento híbrida e multinuvem. Neste contexto, tem sido amplamente utilizados os protocolos de comunicação: REST (Representational State Transfer) e MQTT (Message Queue Telemetry Transport). Identifique o serviço do AZURE que usa o protocolo MQTT, para implementar um MQTT Broker, como base para a camada de mensagens:
+
+[ALTERNATIVAS]
+(A) Azure MQTT Broker
+(B) Azure IoT Edge
+(C) Azure IoT Broker
+(D) Azure Mosquitto
+(E) Azure IoT MQ
+
+[GABARITO]
+E

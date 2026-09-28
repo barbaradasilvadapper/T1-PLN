@@ -1,0 +1,18 @@
+ID: 25-028
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto do MySQL, analise as afirmativas a seguir a respeito da carga de dados (Bulk Data Loading) para tabelas InnoDB. I. No caso da existência de restrições (constraints) do tipo UNIQUE, é possível suspender temporariamente a verificação com o comando SET unique_checks=1. II. Tabelas InnoDB utilizam índices clusterizados, o que normalmente torna mais rápida a carga de dados dispostos na mesma ordem da chave primária (primary key). III. Na carga de arquivos muito grandes, a shell do MySQL oferece serviços de importação rápida por meio do utilitário util.importTable().
+
+[ALTERNATIVAS]
+(A) II;
+(B) III;
+(C) I e II;
+(D) I e III;
+(E) II e III.
+
+[GABARITO]
+E

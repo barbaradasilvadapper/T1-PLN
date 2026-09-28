@@ -1,0 +1,18 @@
+ID: 13-051
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+As operações em vetores e matrizes é uma importante tarefa no desenvolvimento de Sistemas de Informação, especialmente os que manipulam dados. Observe o seguinte código Python. import numpy as np arr = np.array([1, 2, 3]) y = arr.copy() arr[0] = 4 x = arr.view() print(arr, x, y) print(x.base, y.base, arr.shape) O resultado da execução do código apresentado é:
+
+[ALTERNATIVAS]
+(A) [4 2 3] [4 2 3] [1 2 3] None None (3,1)
+(B) [4 2 3] [1 2 3] [1 2 3] [1 2 3] None (3,2)
+(C) [1 2 3] [1 2 3] [4 2 3] [4 2 3] [1 2 3] (3,0)
+(D) [1 2 3] [4 2 3] [1 2 3] [4 2 3] None (3,3)
+(E) [4 2 3] [4 2 3] [1 2 3] [4 2 3] None (3,)
+
+[GABARITO]
+E

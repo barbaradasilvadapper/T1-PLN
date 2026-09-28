@@ -1,0 +1,18 @@
+ID: 71-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação às aplicações de voz e imagem em movimento (vídeo) sobre redes, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) A aplicação de vídeo em movimento sobre redes pode ser otimizada para reduzir a latência e melhorar a experiência do usuário. ( ) As aplicações de voz e imagem em movimento usam geralmente protocolos multicast sobre redes, o que pode aumentar a eficiência da transmissão. ( ) A aplicação de voz e imagem em movimento sobre redes não requerem qualquer forma de compressão de dados para garantir a qualidade do serviço em ambientes de rede com alta demanda de tráfego.
+
+[ALTERNATIVAS]
+(A) V – V – V.
+(B) F – V – V.
+(C) F – F – V.
+(D) V – F – F.
+(E) V – V – F.
+
+[GABARITO]
+E

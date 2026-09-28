@@ -1,0 +1,18 @@
+ID: 21-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Uma empresa decidiu utilizar o Power BI para poder gerenciar melhor os seus dados. Dessa forma, contratou um especialista para criar um dashboard com o objetivo de melhorar a visualização de seus negócios. Sobre as a construção de dashboards, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Pode ter uma ou mais páginas.
+(B) Está disponível no Power BI Desktop.
+(C) Não se pode definir alertas.
+(D) Não se pode assinar um dashboard.
+(E) Permitem realizar consultas de linguagem natural (P e R).
+
+[GABARITO]
+E

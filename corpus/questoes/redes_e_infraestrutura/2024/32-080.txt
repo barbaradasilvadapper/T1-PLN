@@ -1,0 +1,18 @@
+ID: 32-080
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa deseja implementar uma política de backup que equilibre a necessidade de backups frequentes com a redução do tempo e do espaço de armazenamento. Para atender a essas necessidades no processo de backup, a combinação de tipos de backup e frequência mais indicada é fazer backup
+
+[ALTERNATIVAS]
+(A) completo semanal e backups diferenciais diários.
+(B) completo mensal e backups incrementais diários.
+(C) completo semanal e backups incrementais diários.
+(D) diferencial mensal e backups incrementais semanais.
+(E) completo diário e backups incrementais mensais.
+
+[GABARITO]
+C

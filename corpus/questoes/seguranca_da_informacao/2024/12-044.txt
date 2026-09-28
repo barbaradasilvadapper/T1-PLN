@@ -1,0 +1,18 @@
+ID: 12-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Para assegurar que apenas usuários autorizados possam acessar informações sensíveis e realizar atividades específicas dentro do sistema, uma organização deve implementar eficazmente
+
+[ALTERNATIVAS]
+(A) procedimentos de segurança e segurança física.
+(B) auditoria, conformidade e segurança física.
+(C) controle de acesso e autenticação.
+(D) classificação de informações, métricas e indicadores.
+(E) confiabilidade, integridade e disponibilidade.
+
+[GABARITO]
+C

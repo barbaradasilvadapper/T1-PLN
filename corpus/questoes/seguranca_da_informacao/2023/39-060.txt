@@ -1,0 +1,18 @@
+ID: 39-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com a necessidade da migração para o trabalho remoto durante a pandemia, a editora EdLex definiu que as funções administrativas seriam realizadas no modelo de home office. Paulo, responsável pelo setor de TI da EdLex, decidiu que o acesso aos sistemas seria realizado por intermédio de VPN e estabeleceu que a VPN deveria: (i) usar criptografia com AES; (ii) oferecer suporte a TCP; e (iii) não ser proprietária. O protocolo utilizado por Paulo na VPN da editora EdLex é:
+
+[ALTERNATIVAS]
+(A) OpenVPN;
+(B) L2TP com IPSec;
+(C) PPTP;
+(D) SSTP;
+(E) WireGuard.
+
+[GABARITO]
+A

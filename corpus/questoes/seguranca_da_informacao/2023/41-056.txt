@@ -1,0 +1,18 @@
+ID: 41-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A empresa Z foi contratada para implementar uma solução de segurança onde: o algoritmo tem o tamanho do bloco de texto, às claras, igual a 64 bits; o tamanho do bloco de texto cifrado é de 64 bits; e o tamanho da sua chave é de 168 bits. O algoritmo que será implementado pela empresa Z é o:
+
+[ALTERNATIVAS]
+(A) DSS;
+(B) DES;
+(C) RSA;
+(D) AES;
+(E) Triplo DES.
+
+[GABARITO]
+E

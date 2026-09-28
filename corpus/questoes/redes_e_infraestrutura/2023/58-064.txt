@@ -1,0 +1,18 @@
+ID: 58-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto do Microsoft Active Directory, as ferramentas “Resultant Set of Policy” (RSoP) e “gpresult” são utilizadas para
+
+[ALTERNATIVAS]
+(A) criar e aplicar novas Group Policies Objects (GPOs).
+(B) diagnosticar e identificar problemas na aplicação de GPOs.
+(C) reiniciar os serviços do Active Directory.
+(D) criar e gerenciar contas de usuário e grupos de segurança.
+(E) realizar backups regulares das configurações do Active Directory e dos dados dos usuários.
+
+[GABARITO]
+B

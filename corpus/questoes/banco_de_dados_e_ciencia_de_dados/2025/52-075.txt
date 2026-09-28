@@ -1,0 +1,18 @@
+ID: 52-075
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No campo da inteligência artificial, os agentes desempenham papel central como entidades capazes de perceber o ambiente, tomar decisões e agir com base em metas definidas. Compreender sua estrutura e tipos é fundamental para o desenvolvimento de sistemas inteligentes. Assinale a afirmativa que descreve corretamente uma característica de agentes de inteligência artificial.
+
+[ALTERNATIVAS]
+(A) Um agente reativo simples armazena historicamente os estados anteriores do ambiente para prever ações futuras com base em aprendizado profundo.
+(B) Agentes baseados em objetivos não consideram o estado atual do ambiente, mas tomam decisões aleatórias até alcançarem a meta desejada.
+(C) Agentes baseados em utilidade avaliam diferentes cursos de ação e escolhem aquele que maximiza um valor numérico associado à satisfação da meta.
+(D) Um agente só pode ser considerado inteligente se tiver consciência própria e habilidades linguísticas semelhantes às humanas.
+(E) Agentes de IA operam exclusivamente em ambientes totalmente observáveis e determinísticos, pois exigem informações completas para funcionar.
+
+[GABARITO]
+C

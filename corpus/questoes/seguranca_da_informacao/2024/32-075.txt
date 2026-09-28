@@ -1,0 +1,18 @@
+ID: 32-075
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em uma empresa ocorreu um incidente de segurança no qual uma das contas de e-mail de seus funcionários foi comprometida e começou a enviar diversos e-mails de SPAM para todos os endereços cadastrados na sua lista de contatos. Durante a análise do ocorrido, um analista de segurança concluiu que a conta não foi comprometida por infecção de malware na máquina, mas sim que o próprio usuário havia inadvertidamente disponibilizado sua senha para o atacante após clicar em um link malicioso que havia recebido. Assinale a opção que indica a técnica usada nesse ataque e um exemplo de seu uso.
+
+[ALTERNATIVAS]
+(A) Engodo eletrônico e spoofing.
+(B) Vírus e macro.
+(C) Worm e ransomware.
+(D) Botnet e zumbi.
+(E) Engenharia social e phishing.
+
+[GABARITO]
+E

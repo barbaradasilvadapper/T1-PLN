@@ -1,0 +1,18 @@
+ID: 81-067
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os principais riscos no desenvolvimento software são decorrentes de vulnerabilidades existentes na aplicação. Segundo OWASP Top Ten 2021 e OWASP Top Ten 2025, uma preocupante questão se refere ao risco de configuração Insegura, que decorre de
+
+[ALTERNATIVAS]
+(A) ameaça provocada pela inserção de dados maliciosos em comandos ou consultas pelo atacante decorrente da falta de filtragem do que o usuário digita, levando à execução de código não intencional ou alteração de dados.
+(B) alterações ou corrupções do sistema, de maneira não autorizada, que foca em atualizações de código sem assinatura digital ou processos de CI/CD inseguros.
+(C) riscos por conta de equívocos na configuração do ambiente em que a aplicação está instalada, que podem resultar em graves falhas de segurança não ser necessariamente pelo erro de lógica no código, mas sim pela deficiência na forma como foi estabelecido o provisionamento da infraestrutura e na ausência de processos de hardening (endurecimento) do software e do servidor.
+(D) problemas ausência de logs ou alertas, que possibilitem identificar incidentes, instabilidades e erros na aplicação
+(E) falhas na proteção de dados confidenciais, incluindo CPF, senhas e outras informações pessoais, por meio de criptografia inadequada (como MD5 ou SHA-1) ou má implementação da matemática da criptografia.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 05-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Para criar o cadastro dos clientes da sua empresa de TI, Paulo implementou a tabela CLIENTE e definiu o atributo CLIENTE_ID para identificar os clientes com um número sequencial único. O recurso de banco de dados que Paulo deve usar para gerar automaticamente um número único quando novos registros são inseridos na tabela CLIENTE é o:
+
+[ALTERNATIVAS]
+(A) index;
+(B) unique key;
+(C) constraints;
+(D) primary key;
+(E) auto increment.
+
+[GABARITO]
+E

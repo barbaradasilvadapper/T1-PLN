@@ -1,0 +1,18 @@
+ID: 16-028
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma instituição pública passou a expor parte de seus serviços por meio de APIs usadas na comunicação entre sistemas internos e aplicações externas. Em uma revisão de segurança, a equipe técnica avaliou diferentes medidas de proteção dos recursos expostos, considerando aspectos ligados a controle de acesso, proteção das comunicações, tratamento das requisições recebidas e limitação do uso dos serviços. Para esse contexto, assinale a opção que apresenta uma medida tecnicamente adequada.
+
+[ALTERNATIVAS]
+(A) Adotar a utilização de certificados digitais no servidor nas requisições entre clientes e serviços, de modo a garantir que apenas clientes autorizados tenham acesso aos endpoints disponíveis.
+(B) Adotar tokens de longa duração como medida de segurança, a fim de reduzir a frequência de renovação e, com isso, diminuir a exposição da API a falhas associadas ao processo de reautenticação.
+(C) Dispensar mecanismos específicos de autorização quando a API utilizar OAuth 2.0 ou JWT emitido por servidor confiável, pois a validade do token já é suficiente para legitimar o acesso aos recursos expostos.
+(D) Implementar validação e saneamento dos dados de entrada recebidos pelas APIs, com verificação dos parâmetros e do payload da requisição, a fim de mitigar ataques de injeção e outros efeitos decorrentes do processamento de entradas maliciosas.
+(E) Dispensar o uso de rate limiting nos servidores de recursos de APIs que adotam OAuth 2.0, uma vez que o controle de consumo por contador exige manutenção de estado entre requisições, contrariando o princípio de comunicação sem estado do protocolo OAuth. ,
+
+[GABARITO]
+D

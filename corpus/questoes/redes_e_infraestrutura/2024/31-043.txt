@@ -1,0 +1,18 @@
+ID: 31-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Você, como analista de segurança ou de infraestrutura do TJ-RR, pode ser incumbido de instalar e configurar servidores para resoluções de nomes de domínio da Internet. Uma das soluções mais robustas para esse fim é o BIND, do Internet Systems Consortium (ISC). Em relação ao tema, avalie se cada afirmativa a seguir, referente a boas práticas recomendadas pelo ISC para administração do BIND, é verdadeira (V) ou falsa (F) . ( ) Assegurar que a infraestrutura utilizada suporte EDNS0 e pacotes UDP de tamanhos reduzidos. ( ) Não combinar funções de servidor de nomes autoritativas e recursivas no mesmo servidor. ( ) Empregar firewalls/filtros de pacotes com estado em seus servidores para tráfego de consulta de saída. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) V – V – V.
+(C) V – F – F.
+(D) F – V – V.
+(E) F – V – F.
+
+[GABARITO]
+E

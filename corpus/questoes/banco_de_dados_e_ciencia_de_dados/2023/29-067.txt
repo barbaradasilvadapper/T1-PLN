@@ -1,0 +1,18 @@
+ID: 29-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista de infraestrutura Jair recebeu a demanda de preparar um ambiente para armazenar dados massivos oriundos do Sistema de Tramitação Eletrônica de Processos, do Correio eletrônico e do log do tráfego de rede. Para isso, a característica de banco de dados massivos (Big Data) sobre os tipos de dados e heterogeneidade das fontes de dados que Jair deve considerar é:
+
+[ALTERNATIVAS]
+(A) valor;
+(B) volume;
+(C) variedade;
+(D) velocidade;
+(E) veracidade.
+
+[GABARITO]
+C

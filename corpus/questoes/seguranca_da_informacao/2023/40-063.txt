@@ -1,0 +1,18 @@
+ID: 40-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um centro de estudos, resposta e tratamento de incidentes (CERT) possui, dentre suas atribuições, a manutenção da consciência situacional relativa à segurança cibernética. O CERT atua correlacionando eventos a fim de permitir a detecção precoce de incidentes e ataques no espaço cibernético. Uma atividade que contribui para a manutenção ou incremento da consciência situacional é:
+
+[ALTERNATIVAS]
+(A) a coleta e o compartilhamento de informações que possam ser usadas pela comunidade;
+(B) o desenvolvimento de materiais de boas práticas para administradores de redes por meio da Internet e para usuários finais;
+(C) a fomentação da cooperação entre CSIRTs através da organização de fóruns específicos;
+(D) o suporte ao processo de mitigação de danos causados por um incidente e de recuperação de sistemas comprometidos;
+(E) o suporte ao processo de análise de atividades maliciosas e de sistemas comprometidos.
+
+[GABARITO]
+A

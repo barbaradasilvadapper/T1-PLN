@@ -1,0 +1,18 @@
+ID: 20-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Durante a primeira fase do processo de atualização da política de segurança da informação da empresa de contabilidade XXX Ltda., foi(foram) elencado(s)/a(s) como recurso crítico sob risco de segurança:
+
+[ALTERNATIVAS]
+(A) o registro dos móveis da empresa;
+(B) pessoas, em termos de usuários (internos e externos, quando conveniente), funcionários e dirigentes;
+(C) hardware, tais como, roteadores, linhas de comunicação, filtros de linhas, nobreaks e pen drives;
+(D) documentação a respeito de software, sistemas de informação e manuais de ativos de redes;
+(E) dados (em processamento, estáticos ou em transmissão), backups, logs, base de dados e servidores.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 34-071
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em redes MPLS, os roteadores internos que comutam pacotes baseados apenas em labels, sem examinar o cabeçalho IP completo, são classificados como
+
+[ALTERNATIVAS]
+(A) LER (Label Edge Routers).
+(B) PE (Provider Edge Routers).
+(C) LSR (Label Switch Routers).
+(D) CE (Customer Edge Routers).
+(E) ASBR (AS Border Routers).
+
+[GABARITO]
+C

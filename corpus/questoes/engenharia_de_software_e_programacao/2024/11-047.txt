@@ -1,0 +1,18 @@
+ID: 11-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um técnico de TI é responsável pela manutenção e gestão de um repositório Git para uma equipe de desenvolvimento. Nesse sentido, é essencial que ele compreenda o funcionamento dos comandos básicos do Git para garantir o fluxo de trabalho e uma boa colaboração entre os membros dessa equipe. Sobre o tema, avalie as afirmativas a seguir. I. O comando “git add” é usado para adicionar alterações ao índice, preparando-as para o próximo commit. II. O comando “git commit” envia as alterações do índice para o repositório remoto. III. O comando “git push” envia commits locais para o repositório remoto.
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I e III, apenas.
+(C) II e III, apenas.
+(D) I, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

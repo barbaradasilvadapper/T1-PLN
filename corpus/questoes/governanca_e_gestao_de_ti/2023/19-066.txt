@@ -1,0 +1,18 @@
+ID: 19-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+No modelo ITIL v.4, a cadeia de valor de serviço tem como característica:
+
+[ALTERNATIVAS]
+(A) possuir atividades que representam os passos que uma organização toma na criação de valor, que, por sua vez, transformam as entradas em saídas;
+(B) possuir cinco atividades que levam à criação de produtos e serviços e, por sua vez, cria-se valor;
+(C) ser classificada como o elemento secundário do Sistema de Valor de Serviço (SVS);
+(D) possuir como regra que algumas das interações de entrada e saída com partes externas à cadeia de valor sejam realizadas através da atividade de obtenção/construção;
+(E) possuir como regra que todos os novos recursos sejam obtidos através da atividade de desenho e transição.
+
+[GABARITO]
+A

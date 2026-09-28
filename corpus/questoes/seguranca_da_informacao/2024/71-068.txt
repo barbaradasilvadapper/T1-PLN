@@ -1,0 +1,18 @@
+ID: 71-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Associe os controles de segurança relacionados à solução para a segurança da informação com suas respectivas definições. 1. Firewall 2. Intrusion Detection Systems (IDS) 3. Intrusion Prevention Systems (IPS) 4. Antivírus software ( ) Previne, detecta e remove malware, incluindo vírus de computador, worms de computador, cavalos de Tróia, spyware e adware. ( ) É uma ferramenta de monitoramento em tempo integral colocada nos pontos mais vulneráveis ou pontos críticos das redes corporativas para detectar e deter intrusos continuamente. ( ) É uma ferramenta para monitorar o tráfego de rede e as atividades do sistema para prevenir e bloquear possíveis invasões ou ataques. Esta ferramenta é essencial para identificar e mitigar ameaças em tempo real, melhorando a postura geral de segurança de uma organização. ( ) Impede que usuários não autorizados acessem redes privadas. É uma combinação de hardware e software que controla o fluxo de tráfego de entrada e saída da rede. Assinale a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 2 – 3 – 4.
+(B) 2 – 1 – 3 – 4.
+(C) 4 – 2 – 3 – 1.
+(D) 3 – 2 – 1 – 4.
+(E) 4 – 3 – 2 – 1.
+
+[GABARITO]
+C

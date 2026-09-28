@@ -1,0 +1,18 @@
+ID: 10-039
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Lucas está desenvolvendo o sistema orientado a objeto JustiSul. Em determinado módulo do JustiSul, o sistema instancia um objeto da classe Terceirizado de forma dinâmica, em tempo de execução, por meio da interface I3rd. A classe Terceirizado pertence a uma biblioteca proprietária externa, de forma que o JustiSul conhece apenas a especificação de I3rd, e não a de Terceirizado. Dentro de outro módulo, o sistema precisa instanciar um segundo objeto Terceirizado. Devido ao alto custo de uma nova inicialização dinâmica, Lucas optou por chamar o método cp3rd do objeto Terceirizado já criado. O cp3rd, declarado em I3rd e implementado na classe Terceirizado, retorna uma nova instância da classe, com um estado idêntico ao do objeto chamador. Ao permitir a criação de novas instâncias pelo método cp3rd de uma instância existente, Terceirizado implementa o padrão de projeto:
+
+[ALTERNATIVAS]
+(A) builder;
+(B) singleton;
+(C) prototype;
+(D) factory method;
+(E) abstract factory.
+
+[GABARITO]
+C

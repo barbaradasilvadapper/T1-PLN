@@ -1,0 +1,18 @@
+ID: 59-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os serviços de transmissão de áudio e vídeo sobre IP possibilitam a interação entre dois ou mais usuários simultaneamente. O padrão H.323 e o protocolo SIP são amplamente utilizados nesses tipos de transmissão. Em relação aos serviços de streaming de áudio e vídeo, analise as afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s). ( ) Os quatro tipos de elementos básicos para uma comunicação no padrão H.323 são: Terminais, Gateway, Gatekeeper e MCU. ( ) Um servidor SIP possui 3 modos de operação, sendo eles: Proxy, Registrador e Redirecionamento. ( ) O SIP é um protocolo completo, abrangendo sinalização, registro, controle de admissão, transporte e codecs.
+
+[ALTERNATIVAS]
+(A) F, V e V;
+(B) V, V e F;
+(C) V, F e V;
+(D) F, F e V;
+(E) F, V e F.
+
+[GABARITO]
+B

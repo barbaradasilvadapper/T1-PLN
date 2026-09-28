@@ -1,0 +1,18 @@
+ID: 76-042
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A equipe de Análise de Sistemas decidiu utilizar a notação BPMN (Business Process Model and Notation) para padronizar a modelagem dos processos legislativos e administrativos da casa. A notação fornece um conjunto de símbolos e regras que facilitam a comunicação e o entendimento do fluxo de trabalho. O elemento da notação BPMN utilizado para representar uma atividade que não pode ser decomposta em um nível mais detalhado dentro do modelo em foco, indicando uma tarefa atômica é o(a)
+
+[ALTERNATIVAS]
+(A) Subprocesso (Colapsado)
+(B) Tarefa (Retângulo de cantos arredondados)
+(C) Evento (Circular)
+(D) Gateway (Losango)
+(E) Piscina (Pool)
+
+[GABARITO]
+B

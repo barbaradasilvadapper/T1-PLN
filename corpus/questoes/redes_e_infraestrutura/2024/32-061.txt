@@ -1,0 +1,18 @@
+ID: 32-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Quanto às características e ao funcionamento das redes locais sem fio padrão IEEE 802.11 (Wi-Fi), é correto afirmar que
+
+[ALTERNATIVAS]
+(A) ao se utilizar a topologia AdHoc é obrigatório instalar pontos de acesso (AP – Access Point) para prover comunicações entre as estações.
+(B) em uma rede infraestruturada, um ESS (Extended Service Set) é um conjunto estendido de serviços que representam um conjunto de estações formado pela união de vários conjuntos básicos de serviços conectados por um sistema de distribuição.
+(C) o padrão de comunicação IEEE 802.11a é compatível como o padrão de comunicação IEEE 802.11g.
+(D) uma estação que utiliza a faixa de frequência de 2,4 a 2,485 GHz faz uma varredura nos 14 canais para se associar a um ponto de acesso (AP – Acess Point).
+(E) o padrão IEEE 802.11 emprega o método de acesso chamado CSMA/CD (Carrier-Sense Multiple Access with Collision Detection).
+
+[GABARITO]
+B

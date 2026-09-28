@@ -1,0 +1,18 @@
+ID: 35-049
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+IDS pode ser produtos de hardware ou software. Eles coletam e analisam informações de um computador ou de uma rede com a finalidade de detectar e fornecer alertas em tempo real sobre tentativas de acesso ou ataques aos recursos dos sistemas. Com relação às melhores práticas nos IDS que devem ser adotadas por um administrador de segurança de redes, analise os itens a seguir I. Garantir que as comunicações de gerenciamento do IDS sejam adequadamente protegidas, como por exemplo, por meio de criptografia ou transmissões de dados por uma rede física ou logicamente segmentada. II. Fazer backup das configurações do IDS periodicamente antes de aplicar novas atualizações para garantir que as configurações existentes não são perdidas. III. Criar contas para grupos de usuários ou comunidades de administrador do IDS e restringir o acesso da rede apenas aos componentes dos grupos e comunidades de segurança. IV. Criar alertas com uma determinada prioridade que devem ser enviados diretamente ao administrador para que os ataques e outros eventos que exijam atenção sejam rapidamente reconhecidos. Para reduzir o volume, definir apenas os alertas para os riscos com os quais a empresa mais se preocupa.
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) II e III, apenas.
+(C) I, III e IV, apenas.
+(D) I, II e IV, apenas.
+(E) II, III e IV, apenas.
+
+[GABARITO]
+D

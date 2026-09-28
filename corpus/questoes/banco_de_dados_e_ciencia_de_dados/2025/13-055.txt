@@ -1,0 +1,18 @@
+ID: 13-055
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista de Business Intelligence Luiz está desenvolvendo uma solução aplicando técnicas de mineração de dados na base de dados de processos judiciais do MPU para descobrir padrões que mostrem resultados como o exemplificado a seguir. {Roubo, Antecedentes Criminais, RJ, 2024} ➔ {Pena > 5 anos} [Suporte = 50%, Confiança = 80%] Para descobrir esse tipo de padrão, com antecedente e consequente, Luiz deve minerar:
+
+[ALTERNATIVAS]
+(A) clusters;
+(B) outliers;
+(C) anomalias;
+(D) regressões;
+(E) regras de associação.
+
+[GABARITO]
+E

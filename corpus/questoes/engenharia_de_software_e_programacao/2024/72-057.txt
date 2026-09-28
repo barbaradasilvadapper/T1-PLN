@@ -1,0 +1,18 @@
+ID: 72-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Flávia está escrevendo as regras de Cascading Style Sheets (CSS) para uma página web. Flávia precisa que determinada regra seja aplicada aos elementos da página que possuam ambas as classes “redondo” e “sem-borda”. Para aplicar a regra através de seletores CSS, a analista deve utilizar o seletor:
+
+[ALTERNATIVAS]
+(A) redondo&sem-borda
+(B) redondo+sem-borda
+(C) .redondo.sem-borda
+(D) .redondo+.sem-borda
+(E) .redondo&.sem-borda
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 87-061
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João trabalha na migração para o MySQL de um sistema baseado originalmente no SQL Server. Nesse contexto, nos comandos SQL que eventualmente utilizem o operador like, João:
+
+[ALTERNATIVAS]
+(A) é obrigado a substituir o operador like pelo operador regexp;
+(B) pode manter o comando como está, pois o MySQL interpreta o operador corretamente;
+(C) pode manter o comando, mas deve substituir todas as ocorrências do caractere curinga “%” por “*”;
+(D) pode manter o comando, mas deve substituir todas as ocorrências do caractere curinga “*” por “%”;
+(E) pode manter o comando, mas deve substituir todas as ocorrências do caractere curinga “?” por “_”.
+
+[GABARITO]
+B

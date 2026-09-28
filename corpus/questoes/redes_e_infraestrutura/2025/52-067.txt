@@ -1,0 +1,18 @@
+ID: 52-067
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+DevOps integra desenvolvimento e operações, promovendo a automação e a colaboração contínua para acelerar a entrega de software e melhorar sua qualidade. Essa cultura visa otimizar todo o ciclo de vida do desenvolvimento, desde o planejamento até a produção e monitoramento, garantindo maior agilidade e confiabilidade. Considerando esse cenário, assinale a opção que apresenta ferramentas mais direcionadas para a etapa de build.
+
+[ALTERNATIVAS]
+(A) Gradle, Maven e Make.
+(B) Grafana, Trello e Vagrant.
+(C) Eclipse, NetBeans e git.
+(D) Nagios, kubernetes e Selenium.
+(E) Jira, Puppet e VS Code.
+
+[GABARITO]
+A

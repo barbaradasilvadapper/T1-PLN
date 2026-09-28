@@ -1,0 +1,17 @@
+ID: 23-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A sequência de Fibonacci tem aplicação, dentre outras, em algoritmos de busca, classificação e criptografia. Trata-se de uma lista infinita de números, em que cada um de seus valores é o resultado da soma dos dois anteriores. Matematicamente, esta relação de recorrência é representada por: f(0) = 0 f(1) = 1 f(n) = f(n-1) + f(n+2), para qualquer natural n > 1 Considere que foram elaboradas duas implementações algorítmicas definidas em linguagem Python (CODIGO-01 e CODIGO-02). CODIGO-01 def f(n: int): if n == 1: return 1 if n == 2: return 1 else: return f(n-1) + f(n-2) CODIGO-02 def f(n: int): ultimo = 1 penultimo = 1 if n == 1: return penultimo elif n == 2: return ultimo else: atual = 0 for i in range(2, n): atual = ultimo + penultimo penultimo = ultimo ultimo = atual return atual Quanto às implementações, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Somente o primeiro algoritmo emprega função recursiva.
+(B) Os dois algoritmos empregam função recursiva.
+(C) Somente o primeiro algoritmo emprega função iterativa.
+(D) Os dois algoritmos empregam função iterativa.
+
+[GABARITO]
+A

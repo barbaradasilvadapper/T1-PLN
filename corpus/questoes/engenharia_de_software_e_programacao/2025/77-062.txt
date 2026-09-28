@@ -1,0 +1,18 @@
+ID: 77-062
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Durante o evento de Sprint Planning do projeto de e-Legislação, o Time de Desenvolvimento estima o esforço dos itens do Product Backlog. O Product Owner (PO) questiona uma estimativa alta, alegando que o requisito é simples. O Time insiste na estimativa devido à alta incerteza técnica de integração com um sistema legado. Assinale qual das seguintes ações deve resolver a incerteza técnica na Sprint Planing, de acordo com as práticas ágeis.
+
+[ALTERNATIVAS]
+(A) O PO deve simplesmente aceitar a estimativa, pois o Time é auto-organizado.
+(B) O Scrum Master deve redefinir a Meta da Sprint para um objetivo mais fácil.
+(C) O Time deve transformar a incerteza em uma Spike a ser incluída no Sprint Backlog.
+(D) A incerteza deve ser resolvida pelo gerente de projetos após a Sprint.
+(E) O Time deve reduzir a estimativa para forçar o desenvolvimento.
+
+[GABARITO]
+C

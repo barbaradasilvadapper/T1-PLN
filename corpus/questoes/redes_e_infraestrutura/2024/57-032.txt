@@ -1,0 +1,18 @@
+ID: 57-032
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um órgão adquiriu um novo sistema de circuito fechado de TV (CFTV) para armazenar as imagens das câmeras de monitoramento de seu datacenter. O CFTV é composto por 32 câmeras IP, um servidor e um storage DAS, dedicados ao processamento e armazenamento das imagens. Sobre o storage DAS, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) é acessível por meio de um servidor via conexão SCSI ou USB;
+(B) possui sistema operacional próprio, operando como uma unidade de armazenamento em rede autônoma;
+(C) pode ser conectado a uma rede por meio de switches ethernet;
+(D) pode ser conectado a uma rede SAN via fabric switches;
+(E) precisa de zoneamento para que o servidor acesse o storage.
+
+[GABARITO]
+A

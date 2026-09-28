@@ -1,0 +1,18 @@
+ID: 57-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Virgínia está fazendo manutenção no servidor de DNS (Domain Name Server) da Comissão de Valores Mobiliários. Ela precisa criar um nome alternativo para si, em virtude de sua mudança para um departamento que possui um domínio diferente. Todos, porém, já conhecem seu endereço. Com o objetivo de orientar pessoas e programas na direção correta da entrega de mensagens, Virgínia deverá criar uma entrada dentro dos conjuntos de registros do tipo:
+
+[ALTERNATIVAS]
+(A) NS;
+(B) CNAME;
+(C) MX;
+(D) SOA;
+(E) SRV.
+
+[GABARITO]
+B

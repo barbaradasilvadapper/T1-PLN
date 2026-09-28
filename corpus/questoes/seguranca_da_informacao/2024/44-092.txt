@@ -1,0 +1,18 @@
+ID: 44-092
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de seguranca tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Conforme a tecnologia avança e cada vez mais utilizamos serviços ligados a redes de computadores, as ameaças cibernéticas também vão se diversificando com o surgimento de novas formas de ataques digitais. Relacione os tipos de ataque listados a seguir às respectivas descrições. 1. DoS 2. Cross-Site Scripting (XSS) 3. Cross-Site Request Forgery 4. Injection ( ) ataque em que os criminosos injetam scripts maliciosos no conteúdo de um site de outra forma confiável, visando atacar usuários visitantes do site. ( ) ataque em que o criminoso insere código malicioso em campos de entrada, sites, programa ou outros, com a finalidade de executar comandos que podem, por exemplo, ler ou modificar um banco de dados ou alterar dados em um site. ( ) ataque no qual o criminoso faz com que um usuário autenticado em um aplicativo web realize ações não intencionais sem que ele perceba. ( ) ataque no qual o criminoso tem por objetivo tornar um computador, servidor ou serviço indisponível para os usuários a que se destinam, interrompendo o funcionamento normal do dispositivo. Assinale a opção que indica a relação correta na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 3 – 4 – 2.
+(B) 2 – 4 – 3 – 1
+(C) 3 – 4 – 2 – 1.
+(D) 4 – 3 – 1 – 2.
+(E) 4 – 2 – 1 – 3.
+
+[GABARITO]
+B

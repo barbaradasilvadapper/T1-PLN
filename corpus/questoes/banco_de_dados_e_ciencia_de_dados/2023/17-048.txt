@@ -1,0 +1,18 @@
+ID: 17-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Na fase de projeto de um banco de dados relacional, é comum que seja construído um modelo E-R, pois isso permite uma compreensão lógica das entidades envolvidas e suas respectivas propriedades. Uma das vantagens desses modelos é a identificação imediata da lista de:
+
+[ALTERNATIVAS]
+(A) chaves estrangeiras a serem estabelecidas;
+(B) índices auxiliares para as eventuais buscas;
+(C) permissões de acesso a serem concedidas;
+(D) triggers a serem implementados;
+(E) tipos de dados adequados a cada um dos atributos.
+
+[GABARITO]
+A

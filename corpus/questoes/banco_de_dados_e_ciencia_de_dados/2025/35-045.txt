@@ -1,0 +1,18 @@
+ID: 35-045
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A otimização de consultas SQL desempenha um papel crucial no desempenho dos SGBDs. O PostgreSQL 17.4 cria um plano de consulta para cada consulta SQL que processa. Logo, a escolha do plano mais adequado para combinar com a estrutura da consulta e as propriedades dos dados é absolutamente crítico para um bom desempenho do SGBD. O comando para exibir o plano de execução de uma consulta gerado pelo PostgreSQL planner é o
+
+[ALTERNATIVAS]
+(A) show plan.
+(B) optimize.
+(C) compile.
+(D) analyze.
+(E) explain.
+
+[GABARITO]
+E

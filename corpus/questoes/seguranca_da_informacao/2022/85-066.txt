@@ -1,0 +1,18 @@
+ID: 85-066
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A analista Cátia foi incumbida de implantar o mais rápido possível, no TCE/TO, a autenticação na rede baseada em porta conforme padrão IEEE (Institute of Electrical and Electronics Engineers) 802.1X. Para tanto, Cátia optou por utilizar a variante básica do EAP (Extensible Authentication Protocol) que não dispõe de autenticação mútua entre suplicante e servidor de autenticação e não permite gerar chaves WEP (Wired Equivalent Privacy) de forma dinâmica. Logo, Cátia optou por utilizar a variante EAP:
+
+[ALTERNATIVAS]
+(A) Tunneled Transport Layer Security;
+(B) Transport Layer Security;
+(C) Message Digest 5;
+(D) Flexible Authentication Secure Tunneling;
+(E) Protected Extensible Authentication Protocol.
+
+[GABARITO]
+C

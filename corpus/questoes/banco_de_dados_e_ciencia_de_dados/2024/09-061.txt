@@ -1,0 +1,18 @@
+ID: 09-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Na hora de colocar um projeto de BI em prática, mapear as fontes de dados é primordial. É como preparar o terreno antes de construir: se a base não for sólida, a casa não fica em pé. É necessário garantir que as informações que vamos usar sejam úteis, relevantes e de alta qualidade. Nessa fase, seguir as boas práticas é fundamental para que os dados se encaixem nas necessidades do negócio e nos objetivos do projeto. Mas cuidado! Algumas abordagens podem acabar prejudicando tudo se não forem bem executadas. Assinale a opção que descreve uma prática não recomendada no mapeamento de fontes de dados para um projeto de BI.
+
+[ALTERNATIVAS]
+(A) Conduzir entrevistas abrangentes com usuários e stakeholders, utilizando técnicas de elicitação para extrair requisitos detalhados e garantir que todas as necessidades sejam consideradas.
+(B) Analisar documentos e sistemas existentes para identificar potenciais fontes de dados, assegurando que todo o repositório de informações relevantes seja considerado.
+(C) Coletar dados de todas as fontes disponíveis, sem discriminação, incluindo aqueles que apresentam inconsistências, incertezas ou baixa relevância, a fim de maximizar a quantidade de dados no sistema.
+(D) Avaliar a qualidade dos dados e sua adequação aos objetivos do projeto, garantindo que apenas informações precisas e confiáveis sejam utilizadas para gerar insights de valor.
+(E) Manter uma documentação detalhada das fontes de dados, incluindo suas características, formatos e relacionamentos, para garantir uma governança de dados eficaz e facilitar auditorias futuras.
+
+[GABARITO]
+C

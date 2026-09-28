@@ -1,0 +1,18 @@
+ID: 66-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Relacione os conceitos envolvidos na construção de um software, listados a seguir às respectivas características. 1. Análise de Pontos de Função (APF). 2. Medição não Funcional de Software (Software non-Functional Assessment Process – SNAP). 3. Ciclo de vida do software. 4. Modelos de processos de software. ( ) Importante para se estimar custos e tamanho da equipe de desenvolvimento. ( ) Diz como as funções do software devem se comportar num ponto de vista mais geral do sistema como um todo. ( ) Em algum momento deve levantar os requisitos do sistema que será construído. ( ) Adaptação e melhoria contínua de processos. Assinale a opção que indica a relação correta, segundo a ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 3 – 2 – 1 – 4.
+(B) 3 – 1 – 4 – 2.
+(C) 4 – 1 – 2 – 3.
+(D) 3 – 1 – 2 – 4.
+(E) 1 – 3 – 2 – 4.
+
+[GABARITO]
+D

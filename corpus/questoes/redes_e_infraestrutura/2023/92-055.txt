@@ -1,0 +1,18 @@
+ID: 92-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Assinale a opção que melhor descreve a função principal do protocolo ARP (Address Resolution Protocol) em uma rede de comunicação de dados.
+
+[ALTERNATIVAS]
+(A) Estabelecer conexões seguras entre redes locais (LANs) e redes de longa distância (WANs).
+(B) Gerenciar o tráfego de rede e otimizar o desempenho das transmissões de dados.
+(C) Fornecer serviços de compartilhamento de arquivos e impressoras em uma rede local (LAN).
+(D) Converter endereços IP em endereços físicos (MAC) para possibilitar a comunicação entre dispositivos na mesma rede local (LAN).
+(E) Controlar o acesso à Internet e proteger a rede contra ataques externos.
+
+[GABARITO]
+D

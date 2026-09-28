@@ -1,0 +1,18 @@
+ID: 95-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A Alfa é uma empresa que fornece soluções de software a pedido dos vários clientes. Maria é a gerente do projeto PRI. Com um aumento da demanda por novos projetos na Alfa, Maria foi designada pelo escritório de projetos como gerente do projeto SEG, acumulando mais uma função. Embora o projeto PRI seja pequeno, o SEG tem objetivos distintos e parece estar crescendo a cada dia. Após algum tempo, Maria descobre que, no passado, a Alfa já havia atendido uma demanda semelhante à do projeto SEG. Com o intuito de executar suas funções da melhor forma, Maria deve:
+
+[ALTERNATIVAS]
+(A) gerenciar os projetos PRI e SEG como parte do mesmo programa;
+(B) agrupar os projetos PRI e SEG como parte do mesmo portfólio;
+(C) reunir os stakeholders dos projetos PRI e SEG para comunicar um aumento de prazo;
+(D) unir as equipes dos projetos PRI e SEG e redefinir um cronograma único para ambos os projetos;
+(E) buscar registros históricos do projeto semelhante ao SEG junto ao escritório de projetos.
+
+[GABARITO]
+E

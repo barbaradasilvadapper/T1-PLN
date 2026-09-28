@@ -1,0 +1,18 @@
+ID: 60-033
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um órgão adotou o uso de assinaturas digitais para seus documentos natos digitais. Para evitar a contestação da assinatura digital, estão sendo utilizados certificados digitais padrão ICP-Brasil. O pilar da segurança da informação assegurado pelo uso de assinaturas digitais é:
+
+[ALTERNATIVAS]
+(A) autorização;
+(B) integridade;
+(C) confidencialidade;
+(D) não repúdio;
+(E) disponibilidade.
+
+[GABARITO]
+D

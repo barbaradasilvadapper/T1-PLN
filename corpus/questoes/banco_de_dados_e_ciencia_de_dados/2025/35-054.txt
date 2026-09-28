@@ -1,0 +1,18 @@
+ID: 35-054
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O Neo4J é um banco de dados NoSQL que oferece diversos tipos de índices. Com relação aos índices semânticos deste SBGD, analise os itens a seguir. I. Os índices de texto completo permitem a pesquisa no conteúdo das propriedades string e comparações de similaridade entre strings de consulta e valores string armazenados no banco de dados. II. Os índices de pontos permitem pesquisas de similaridade e consultas analíticas complexas ao representar nós ou propriedades como vetores em um espaço multidimensional. III. Os índices de pesquisa de token resolvem apenas predicados de rótulo de nó e tipo de relacionamento, ou seja, eles podem resolver predicados filtrando-os por propriedades semânticas.
+
+[ALTERNATIVAS]
+(A) II e III, apenas.
+(B) I e III, apenas.
+(C) III, apenas.
+(D) II, apenas.
+(E) I, apenas.
+
+[GABARITO]
+E

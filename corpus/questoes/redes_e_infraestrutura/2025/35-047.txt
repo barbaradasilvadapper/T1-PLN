@@ -1,0 +1,18 @@
+ID: 35-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considere o desempenho de uma rede Ethernet sob condições de carga alta e constante c, com k estações sempre prontas a transmitir. Além disso, considere uma probabilidade de retransmissão constante em cada slot. Se cada estação transmitir durante um slot de disputa com probabilidade p, a probabilidade A de que alguma estação tome posse do canal existente nesse slot será
+
+[ALTERNATIVAS]
+(A) A = k-1.
+(B) A = c*k-1.
+(C) A = p/(k-1)
+(D) A = k*p (1-p) k-1
+(E) A = ln (k-1*c)/(1-p) k-1
+
+[GABARITO]
+D

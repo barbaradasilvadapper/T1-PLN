@@ -1,0 +1,18 @@
+ID: 37-053
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Sobre funções de um Proxy Reverso, analise os itens a seguir. I. Manter cache de conteúdo estático das requisições originadas na Internet com destino à rede local. II. Distribuir a carga de requisições para uma lista rotativa de servidores. III. Autenticar clientes web como uma precondição para encaminhar o tráfego para servidores backend. Está correto o que se afirma em:
+
+[ALTERNATIVAS]
+(A) somente I;
+(B) somente II;
+(C) somente III;
+(D) somente I e II;
+(E) I, II e III.
+
+[GABARITO]
+E

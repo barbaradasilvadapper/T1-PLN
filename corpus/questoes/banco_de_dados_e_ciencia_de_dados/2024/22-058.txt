@@ -1,0 +1,18 @@
+ID: 22-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um conjunto de dados foi particionado em dois subconjuntos, sendo um de treinamento e outro de testagem, ambos utilizados exclusivamente para serem usados em seus objetivos originais (dados de treino para treinamento, e de teste para testagem). Em relação ao ajuste e validação de modelos em aprendizado de máquina, um modelo sofre overfitting quando
+
+[ALTERNATIVAS]
+(A) apresenta bom desempenho nos dados de treinamento, mas tem baixo desempenho nos dados de teste.
+(B) é simples demais para capturar os padrões subjacentes nos dados.
+(C) minimiza o erro nos dados de treinamento e os de teste, aumentando a correlação entre esses dois conjuntos.
+(D) oferece uma matriz de confusão para um classificador detalhando seu desempenho.
+(E) relaciona-se aos altos viés e variância do conjunto de dados.
+
+[GABARITO]
+A

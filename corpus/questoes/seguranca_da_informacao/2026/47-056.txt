@@ -1,0 +1,18 @@
+ID: 47-056
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A segurança dos dados modernos não pode ser dissociada do uso de diversos algoritmos de criptografia, capazes de garantir a confidencialidade e integridade dos dados, tanto em trânsito quanto em repouso. A respeito dos principais algoritmos criptográficos em uso – o AES (Advanced Encryption Standard) e o RSA (Rivest – Shamir – Adleman), assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O AES é um algoritmo de criptografia assimétrico, não apresentando assim o risco da distribuição de chaves em redes abertas e inseguras como a Internet.
+(B) O AES usa um par de chaves pública – privada, o que o torna ideal para cifrar grandes volumes de dados sem a necessidade de compartilhar uma chave secreta previamente.
+(C) O RSA é classificado como criptografia simétrica, pois exige que tanto o remetente quanto o destinatário possuam a mesma chave para realizar as operações de cifragem e decifragem.
+(D) O RSA baseia sua segurança na complexidade matemática da fatoração de números inteiros primos muito grandes, sendo, por isso, um processo computacional mais leve e rápido que o processamento do AES.
+(E) O AES, devido à sua eficiência, é usado para cifrar a mensagem em si em um cenário de comunicação segura, enquanto o RSA é usado para cifrar e transmitir com segurança a chave simétrica do AES.
+
+[GABARITO]
+E

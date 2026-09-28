@@ -1,0 +1,18 @@
+ID: 74-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Análise por pontos de função (APF) é uma técnica usada para medir o tamanho e a complexidade de um software com base nas funções que ele fornece ao usuário. Ela é especialmente útil para estimar o esforço necessário para o desenvolvimento e a manutenção de um sistema. No desenvolvimento de software a análise por pontos de função
+
+[ALTERNATIVAS]
+(A) é usada para estimar o tempo de execução do software em diferentes ambientes de hardware.
+(B) mede a complexidade do software com base no número de linhas de código escritas durante o desenvolvimento.
+(C) avalia a funcionalidade do software a partir do ponto de vista do usuário e é usada para estimar o esforço e os custos de desenvolvimento.
+(D) é aplicada para medir a eficiência do algoritmo de busca usado no software.
+(E) foca exclusivamente na validação e verificação de testes unitários durante o desenvolvimento do software.
+
+[GABARITO]
+C

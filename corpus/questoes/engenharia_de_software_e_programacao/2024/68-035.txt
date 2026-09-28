@@ -1,0 +1,18 @@
+ID: 68-035
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os arquitetos de um projeto estão indecisos entre utilizar a tecnologia JavaScript com Node.js ou Java com o framework J2EE. Assinale a opção que compara corretamente os dois utilitários de gerenciamento, NPM (Node.js) e Maven(J2EE).
+
+[ALTERNATIVAS]
+(A) A velocidade de build e gerenciamento de dependências do Maven pode variar mas, apesar do NPM se sair melhor em termos de instalação de pacotes ele não tem comandos para disparar os servidores
+(B) NPM não pode ser usado em todos os tipos de Projetos por outro lado Maven é excelente para lidar com projetos multi-módulo, permitindo uma gestão eficiente de submódulos e dependências entre eles.
+(C) Maven não tem recursos de instalação de pacotes ou módululos mas o NPM facilita a execução de scripts personalizados definidos em package.json, proporcionando flexibilidade para automatizar tarefas de desenvolvimento e build.
+(D) NPM tem uma curva de aprendizado menor em comparação com o Maven, tornando-o mais acessível para iniciantes e Maven não pode ser usado para desenvolvimento frontend moderno, ao contrário do NPM que está diretamente ligado ao ecossistema frontend.
+(E) NPM é integrado de forma nativa ao ecossistema JavaScript, oferecendo acesso imediato a uma vasta gama de pacotes JS e Node.js, por outro lado, Maven permite um controle mais fino sobre as versões de dependências e sua resolução, incluindo o gerenciamento de dependências transitivas.
+
+[GABARITO]
+E

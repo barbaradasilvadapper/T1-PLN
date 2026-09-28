@@ -1,0 +1,18 @@
+ID: 22-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere o código Python abaixo, que utiliza as bibliotecas Pandas e Matplotlib: Com base no código fornecido, assinale a opção que descreve corretamente a sua função.
+
+[ALTERNATIVAS]
+(A) Cria um DataFrame, plota um gráfico de barras verticais com os dados das colunas 'A' e 'B', e exibe o gráfico gerado.
+(B) Cria um DataFrame, plota um gráfico de dispersão com os dados das colunas 'A' e 'B', e exibe o gráfico gerado.
+(C) Cria uma série de tempo e plota um gráfico de linha com os valores da série 'A'.
+(D) Cria um DataFrame, plota um gráfico de barras verticais empilhadas com os dados das colunas 'A' e 'B', e exibe o gráfico gerado.
+(E) Utiliza o Streamlit para criar uma interface gráfica que exibe um gráfico com os dados das colunas 'A' e 'B'.
+
+[GABARITO]
+A

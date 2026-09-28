@@ -1,0 +1,18 @@
+ID: 22-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um dos conceitos associados a coleções de objetos de dados e/ou arquivos de sistemas de bancos de dados NoSQL é o de sharding. Nesse contexto, uma das características de sharding refere-se
+
+[ALTERNATIVAS]
+(A) ao armazenamento de múltiplos itens com timestamps.
+(B) à conciliação de gravação em operações conflitantes.
+(C) a não exigência de um esquema prévio de dados.
+(D) a oferta de uma linguagem de consulta menos poderosa.
+(E) ao particionamento horizontal dos dados entre nós do sistema.
+
+[GABARITO]
+E

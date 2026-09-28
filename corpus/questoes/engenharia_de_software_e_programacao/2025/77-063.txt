@@ -1,0 +1,18 @@
+ID: 77-063
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Após a conclusão de um Sprint que introduziu uma nova funcionalidade no sistema de Protocolo, o Analista de QA deve executar um conjunto de testes que garantam que as funcionalidades já existentes como login, busca de documentos e workflow de aprovação não foram afetadas negativamente pelas novas alterações no código. O tipo de teste automatizado utilizado para alcançar esse objetivo é
+
+[ALTERNATIVAS]
+(A) Load Testing.
+(B) Testes de Aceitação do Usuário (UAT).
+(C) Testes de Usabilidade.
+(D) Testes Exploratórios.
+(E) Testes de Regressão.
+
+[GABARITO]
+E

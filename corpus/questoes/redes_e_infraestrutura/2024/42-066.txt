@@ -1,0 +1,18 @@
+ID: 42-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa de sistemas de informação deseja montar uma estrutura de nuvem privada no local. Nesse caso, significa que
+
+[ALTERNATIVAS]
+(A) a infraestrutura da nuvem será hospedada internamente no data center da empresa e gerenciada por sua equipe de TI.
+(B) os recursos de nuvem pública serão de terceiros, inclusive com mando externo na operação de provedor de nuvem.
+(C) os serviços de nuvem serão executados fora da empresa, em servidores de nuvem de um fornecedor terceirizado.
+(D) todos os recursos e serviços da nuvem serão compartilhados entre vários clientes, de forma multilocatária.
+(E) vai-se oferecer computadores da empresa, em um ambiente isolado, mas serão usados recursos compartilhados de infraestrutura de nuvem pública.
+
+[GABARITO]
+A

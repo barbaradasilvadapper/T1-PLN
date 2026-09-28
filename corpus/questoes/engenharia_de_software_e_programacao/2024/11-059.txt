@@ -1,0 +1,18 @@
+ID: 11-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+“É uma API de persistência POJO para mapeamento de objetos/relacional que permite o uso de anotações de metadados da linguagem Java e/ou descritores XML para definir o mapeamento entre objetos Java e um banco de dados relacional.” O texto se refere a
+
+[ALTERNATIVAS]
+(A) EJB.
+(B) Spring Boot.
+(C) Thymeleaf.
+(D) Zuul.
+(E) JPA.
+
+[GABARITO]
+E

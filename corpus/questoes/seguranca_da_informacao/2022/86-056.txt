@@ -1,0 +1,18 @@
+ID: 86-056
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em aplicações Web, a vulnerabilidade denominada CSRF (cross site request forgery) ocorre quando solicitações não autorizadas a um website são enviadas a partir de um equipamento onde existe uma sessão ativa em que o website confia. Uma forma de se proteger desse ataque é a(o)
+
+[ALTERNATIVAS]
+(A) desativação do recurso HSTS.
+(B) uso de cabeçalho X-Csrf-Protection nas requisições GET.
+(C) uso do atributo httponly nos cookies utilizados.
+(D) uso de tokens anti-csrf pela aplicação.
+(E) garantia que os cookies não serão enviados em texto claro na rede.
+
+[GABARITO]
+D

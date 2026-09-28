@@ -1,0 +1,18 @@
+ID: 43-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Aline estava atualizando os dados de funcionários de sua empresa quando surgiu uma tela pop up no seu notebook informando que seu dispositivo estava infectado. A tela dizia que Aline deveria clicar em um botão logo abaixo para instalar um antivírus que faria a limpeza do malware. Aline clicou no botão e acabou por ser infectada por um:
+
+[ALTERNATIVAS]
+(A) remote acess trojan (RAT);
+(B) scareware;
+(C) stalkerware;
+(D) ransomware;
+(E) backdoor.
+
+[GABARITO]
+B

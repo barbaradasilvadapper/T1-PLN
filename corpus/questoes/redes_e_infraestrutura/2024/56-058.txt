@@ -1,0 +1,18 @@
+ID: 56-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O estagiário Bebeto, durante um treinamento, constatou que a primeira implementação de memória virtual foi realizada no início da década de 1960, no sistema Atlas, desenvolvido na Universidade de Manchester (Kilburn, 1962). Atualmente, a maioria dos sistemas implementa memória virtual, com exceção de alguns sistemas operacionais de supercomputadores. Nesse contexto, Bebeto pode concluir, em relação à funcionalidade da memória virtual dentro de um sistema operacional contemporâneo, que ela:
+
+[ALTERNATIVAS]
+(A) é empregada primordialmente para acelerar a execução direta de instruções na unidade de processamento central (CPU), eliminando a necessidade de armazenamento secundário durante a execução de programas;
+(B) é uma técnica projetada para reduzir propositadamente a capacidade de memória RAM física acessível pelo sistema, com o intuito de otimizar a alocação de recursos e melhorar a eficiência do sistema por meio de uma gestão de memória mais restritiva;
+(C) se baseia na utilização de espaço em dispositivos de armazenamento secundário, como discos rígidos, para simular uma capacidade de memória RAM mais extensa, possibilitando assim a execução de programas que excedem o tamanho da memória física disponível;
+(D) é uma tecnologia obsoleta, visto que os sistemas operacionais modernos dependem de armazenamento secundário para todas as operações de memória;
+(E) é aplicada ao armazenamento e acesso de dados via soluções de cloud computing, eliminando a necessidade de armazenamento local ao prover um acesso ininterrupto e remoto a recursos de memória virtualizados.
+
+[GABARITO]
+C

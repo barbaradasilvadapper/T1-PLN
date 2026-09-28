@@ -1,0 +1,18 @@
+ID: 69-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O PL/SQL do Oracle 19G disponibiliza para analistas e desenvolvedores duas funções de error-reporting que podem ser utilizadas nos códigos PL/SQL em tratamento de exceções. Os nomes dessas duas funções são
+
+[ALTERNATIVAS]
+(A) SQLError e SQLException.
+(B) SQLCode e SQLErrm.
+(C) SQLRestric e SQLErr.
+(D) SQLBlock e SQLFail.
+(E) SQLTry e SQLCatch.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 88-050
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A fim de realizar análise forense nos discos rígidos de PCCrime sem modificar o conteúdo dos discos periciados, a perita criminal Ester, da Polícia Científica do Amapá (PCA), utilizou a versão livre do Live CD produzido pela empresa e-fense com ferramentas forenses embutidas. Logo, Ester usou o Live CD
+
+[ALTERNATIVAS]
+(A) Helix.
+(B) Pentoo.
+(C) Operator.
+(D) Kali Linux.
+(E) BackTrack.
+
+[GABARITO]
+A

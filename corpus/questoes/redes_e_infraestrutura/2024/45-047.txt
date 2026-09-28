@@ -1,0 +1,18 @@
+ID: 45-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A arquitetura de segurança do modelo OSI é definida na Recomendação X.800 da International Telecommunication Union (ITU-T), que estabelece os serviços e mecanismos de segurança disponíveis em cada uma das camadas OSI. Os serviços de confidencialidade da conexão e do fluxo de tráfego são ofertados nas camadas:
+
+[ALTERNATIVAS]
+(A) 2 e 7;
+(B) 1 e 3;
+(C) 3 e 6;
+(D) 4 e 7;
+(E) 5 e 7.
+
+[GABARITO]
+B

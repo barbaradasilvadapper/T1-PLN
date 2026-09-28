@@ -1,0 +1,18 @@
+ID: 87-068
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um dos diagramas comportamentais definidos na UML 2.5.1 é o Diagrama de Máquina de Estados. Em um Diagrama de Máquina de Estados, os(as):
+
+[ALTERNATIVAS]
+(A) transições entre estados geram eventos;
+(B) estados podem ser utilizados para descrever o cenário de um Caso de Uso;
+(C) transições internas entre estados podem ser descritas em diagramas de Casos de Uso;
+(D) comportamentos associados com um estado podem ser expressos por meio de Diagramas de Atividades;
+(E) estados são comportamentos especificados como sequenciamentos de unidades subordinadas, usando um modelo de controle e fluxo de dados.
+
+[GABARITO]
+D

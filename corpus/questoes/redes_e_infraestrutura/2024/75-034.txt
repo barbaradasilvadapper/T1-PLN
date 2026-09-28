@@ -1,0 +1,18 @@
+ID: 75-034
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+As mais recentes versões dos sistemas operacionais da Microsoft passaram a instalar automaticamente ferramentas para proteção contra malware. A ferramenta antivírus da Microsoft disponível no Windows 10 e no Windows 11 é o
+
+[ALTERNATIVAS]
+(A) Copilot.
+(B) Regedit.
+(C) Netstat.
+(D) Defender.
+(E) TaskMgr.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 38-049
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O administrador de redes de um órgão público implementou uma ferramenta para registrar os eventos (logs) críticos de seus sistemas e ativos, coletando-os e gerenciando-os de forma centralizada. A ferramenta é baseada no padrão Syslog, em conformidade com a RFC 5424 (The Syslog Protocol). Considerando as especificações técnicas da RFC 5424 para o protocolo Syslog, a ferramenta para registro de logs atende o requisito:
+
+[ALTERNATIVAS]
+(A) arquitetura em 2 camadas: conteúdo e aplicação;
+(B) entrega confiável de mensagens baseada no protocolo de transporte TCP;
+(C) envio de mensagens Syslog dos dispositivos (originator) para mais de um coletor;
+(D) originator, relay e collector não podendo operar no mesmo servidor por questão de segurança;
+(E) as mensagens Syslog são informativas, não possuindo níveis diferentes de severidade.
+
+[GABARITO]
+C

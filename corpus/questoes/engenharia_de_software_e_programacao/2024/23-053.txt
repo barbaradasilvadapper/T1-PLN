@@ -1,0 +1,17 @@
+ID: 23-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um cenário de rápido crescimento tecnológico e demandas cada vez mais complexas, os frameworks de arquitetura surgem como resposta à necessidade de padronização e organização no desenvolvimento de sistemas distribuídos, visando facilitar a escalabilidade, a interoperabilidade e a manutenção em ambientes heterogêneos e dinâmicos. Assinale a opção que indica características de um framework de arquitetura.
+
+[ALTERNATIVAS]
+(A) Os frameworks de arquitetura são estruturas conceituais ou um conjunto de estruturas, para desenvolvimento, implementação e manutenção de uma arquitetura.
+(B) Esses frameworks ampliam a complexidade do desenvolvimento incremental da arquitetura e descrevem convenções e práticas de arquitetura em comunidades e domínios de aplicação.
+(C) Esses frameworks obrigatoriamente incluem descrições de aspectos de interesse e escopo da arquitetura a ser desenvolvida.
+(D) Os frameworks de arquitetura podem ser usados em contexto específico de processos que facilitam a comunicação entre projetos.
+
+[GABARITO]
+A

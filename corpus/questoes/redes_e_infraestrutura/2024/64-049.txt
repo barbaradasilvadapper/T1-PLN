@@ -1,0 +1,18 @@
+ID: 64-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O OpenSSH implementa o Secure Shell ou o protocolo SSH em sistemas GNU/Linux. O protocolo SSH permite que os sistemas se comuniquem de maneira criptografada e segura em uma rede insegura. A respeito do serviço de acesso remoto com SSH em sistemas GNU/Linux, analise os itens a seguir: I. O arquivo de configuração principal do servidor SSH é o /etc/ssh/sshd.conf II. Com o parâmetro PermitRootLogin definido como without-password, os usuários têm permissão para fazer login diretamente como usuário root apenas utilizando autenticação baseada em chaves, mas não em senha. III. O SSH garante a segurança da comunicação por meio da criptografia de chaves públicas. As chaves públicas são armazenadas no arquivo /etc/ssh/ssh_known_hosts e no arquivo ~/.ssh/known_hosts de cada usuário no cliente SSH.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

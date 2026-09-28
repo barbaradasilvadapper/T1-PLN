@@ -1,0 +1,18 @@
+ID: 88-041
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A norma NBR ISO/IEC 27701:2019 fornece orientações para gestão da privacidade da informação dentro do contexto da organização. De acordo com esta norma, é recomendado que a organização
+
+[ALTERNATIVAS]
+(A) disponibilize regularmente informação na forma que permita a identificação dos titulares dos dados pessoais.
+(B) assegure que os arquivos temporários criados como um resultado de tratamento de dados pessoais sejam guardados e auditáveis.
+(C) assegure que o conteúdo de mídia física contendo dados pessoais que esteja deixando as instalações da organização seja acessível a qualquer pessoa.
+(D) limite a coleta de dados pessoais a um mínimo que seja relevante, proporcional e necessário para os propósitos identificados.
+(E) utilize dados pessoais reais, precisos, completos e atualizados nos procedimentos de teste e homologação dos sistemas de software.
+
+[GABARITO]
+D

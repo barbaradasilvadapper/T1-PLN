@@ -1,0 +1,18 @@
+ID: 14-043
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A capacidade de sistemas informatizados se comunicarem com outros sistemas, por meio do compartilhamento de dados chamase interoperabilidade. O padrão de interoperabilidade que define o conjunto mínimo de premissas, políticas e especificações técnicas que regulamentam a utilização da Tecnologia de Informação e Comunicação no Poder Executivo Federal e que estabelece as condições de interação com os demais Poderes e esferas de governo e com a sociedade em geral se chama
+
+[ALTERNATIVAS]
+(A) open data.
+(B) sougov.
+(C) eping.
+(D) inda.
+(E) lgpd.
+
+[GABARITO]
+C

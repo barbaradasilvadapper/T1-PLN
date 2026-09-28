@@ -1,0 +1,18 @@
+ID: 06-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe os seguintes fragmentos de um documento XML. Fragmento 1: <table> <tr> <td>Fruta</td> <td>Quantidade</td> </tr> </table> Fragmento 2: <table> <name>Manga</name> <quantidade>10</quantidade> </table> Ambos os fragmentos possuem o elemento <table> . Para evitar conflito entre os nomes dos elementos no mesmo documento XML, deve-se usar um:
+
+[ALTERNATIVAS]
+(A) XSLT;
+(B) Parser;
+(C) Tag;
+(D) Comments;
+(E) Namespace.
+
+[GABARITO]
+E

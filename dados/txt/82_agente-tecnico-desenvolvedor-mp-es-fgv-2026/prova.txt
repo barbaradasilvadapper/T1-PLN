@@ -1,0 +1,1903 @@
+C ONCURSO P ÚBLICO
+M INISTÉRIO P ÚBLICO DO E STADO
+DO E SPÍRITO S ANTO
+SUA PROVA
+Além deste caderno de questões contendo
+60 (sessenta) questões objetivas e 2 (duas)
+questões discursivas, você receberá do fiscal de sala o
+cartão de respostas e a folha de textos definitivos.
+As questões objetivas têm 5 (cinco) opções de
+resposta (A, B, C, D e E) e somente uma delas está
+correta.
+TEMPO
+
+4 (quatro) horas e 30 (trinta) minutos é o
+período disponível para a realização da prova, já
+incluído o tempo para a marcação da folha de
+respostas e o preenchimento da folha de textos
+definitivos.
+
+3 (três) horas após o início da prova, é possível
+retirar-se da sala, sem levar o caderno de questões
+nem qualquer tipo de anotação de suas respostas.
+ 30 (trinta) minutos antes do término do período
+de prova, é possível retirar-se da sala, levando o
+caderno de questões.
+NÃO SERÁ PERMITIDO
+
+Qualquer tipo de comunicação entre os candidatos
+durante a aplicação da prova.
+
+Usar o sanitário ao término da prova, após deixar
+a sala.
+
+Anotar informações relativas às respostas em
+qualquer outro meio que não seja este caderno de
+questões.
+NÍVEL SUPERIOR – MANHÃ
+P ROVA O BJETIVA E D ISCURSIVA
+T IPO 1
+INFORMAÇÕES GERAIS
+
+Verifique se este caderno de questões está completo e
+sem falhas de impressão. Caso contrário, notifique
+imediatamente o fiscal da sala, para que sejam
+tomadas as devidas providências.
+
+No cartão de respostas e na folha de textos definitivos,
+confira seus dados pessoais, especialmente nome,
+número de inscrição e documento de identidade, e leia
+atentamente as instruções para preenchê-lo.
+
+Use somente caneta esferográfica, fabricada em
+material transparente, com tinta preta ou azul.
+
+Assine seu nome apenas no espaço reservado na folha
+de respostas e na folha de textos definitivos.
+
+Confira o tipo do seu caderno de questões. Caso tenha
+recebido caderno de questões com tipo diferente do
+impresso em seu cartão de respostas ou em sua folha
+de
+textos
+definitivos,
+o
+fiscal
+deve
+ser
+obrigatoriamente informado para o devido registro
+na ata da sala.
+
+O preenchimento das respostas é de sua
+responsabilidade e não será permitida a substituição do
+cartão de respostas ou da folha de textos definitivos em
+caso de erro cometido por você.
+
+Para fins de avaliação, serão levadas em consideração
+apenas as marcações realizadas no cartão de respostas
+e na folha de textos definitivos.
+
+Os candidatos serão submetidos ao sistema de
+detecção de metais quando do ingresso e da saída de
+sanitários durante a realização das provas.
+Boa prova!
+A GENTE T ÉCNICO - D ESENVOLVEDOR
+
+
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+Conhecimentos Básicos
+Língua Portuguesa
+1
+“Consideramos estas verdades como evidentes por si: que todos os
+homens são criados iguais; que são dotados pelo seu Criador de
+certos direitos inalienáveis; que entre esses direitos estão a vida, a
+liberdade e a procura da felicidade.”
+Thomas Jefferson, Declaração de Independência dos EUA. (1776)
+Sobre a significação e a estruturação desse segmento, assinale a
+afirmativa correta.
+(A) Os três direitos citados ao final do texto são todos os direitos
+inalienáveis dos homens.
+(B) O fato de a forma verbal “Consideramos” estar no plural indica
+que são vários os autores do texto.
+(C) O termo “estas verdades” se refere a algo dito anteriormente,
+que não está registrado neste segmento.
+(D) Ao afirmar que “todos os homens são criados iguais”, o texto
+indica que todos os homens têm os mesmos direitos.
+(E) Ao dizer que as verdades citadas são “evidentes por si”, o autor
+do texto indica que elas necessitam de demonstração.
+2
+“O direito de voto para eleger representantes é o direito básico
+pelo qual os demais são protegidos. Retirar esse direito equivale a
+reduzir a pessoa à escravidão, pois escravidão consiste em estar
+sujeito à vontade de outrem.”
+Thomas Paine. Dissertação sobre os Primeiros Princípios do Governo. (1795)
+Sobre a significação ou a estruturação desse fragmento textual,
+assinale a afirmativa correta.
+(A) O termo “para eleger representantes” poderia ser
+adequadamente substituído por “para a eleição de
+representantes”.
+(B) Ao dizer que o direito de voto é “o direito básico”, o autor
+indica que a democracia é o melhor dos regimes.
+(C) O termo “os demais” se refere a todas as demais pessoas.
+(D) O termo “são protegidos” poderia ser passado para a voz ativa
+com a forma “pelo qual se protegiam”.
+(E) A parte final do texto mostra o entendimento pessoal que o
+autor do texto dá à palavra “escravidão”.
+3
+“As leis são como as teias de aranha: as simples mosquinhas e as
+pequenas borboletas se prendem nelas, enquanto as grandes
+varejeiras malfazejas as rompem e passam através.”
+Sobre esse fragmento textual, assinale a afirmativa correta.
+(A) A condenação expressa no texto se utiliza de linguagem lógica.
+(B) O autor condena certas leis que não se dirigem a reais
+problemas da sociedade.
+(C) O fragmento textual acima condena os privilégios de uma
+classe social sobre outras.
+(D) No segmento “se prendem nelas”, o pronome pessoal “elas”
+se refere às “simples mosquinhas”.
+(E) Segundo o texto, as leis são como teias de aranha porque
+servem para prender todos os que cometem crimes.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+4
+As frases a seguir têm as leis como tema; assinale a frase que
+mostra uma visão positiva das leis.
+(A) Em meio às armas, calam-se as leis.
+(B) Existem leis, mas não quem as proveja.
+(C) O mais corrupto dos Estados tem o maior número de leis.
+(D) A quem poderá ser aprazível uma cidade, se não lhe agradam
+as leis?
+(E) A lei é a razão humana, enquanto governa todos os povos da
+Terra.
+5
+Leia o texto a seguir.
+“Não devemos fazer da lei um espantalho / Armado para assustar
+a aves de rapina, / Mas deixado sempre estático, de modo que com
+o hábito / Ele não seja mais o terror delas, e sim o seu poleiro.”
+Shakespeare, William. Medida por Medida (Ato 2, Cena 1).
+A afirmação correta sobre as leis, que está implícita no texto, é que
+elas devem
+(A) proteger a todos.
+(B) modificar-se conforme as circunstâncias.
+(C) funcionar, devido ao medo que provocam.
+(D) ser amplamente divulgadas entre os cidadãos.
+(E) ajudar a todos em sua tarefa de obter alimentação.
+6
+Uma das marcas de um bom texto é a utilização de palavras em
+seu sentido adequado; assinale a opção em que a palavra
+sublinhada está adequadamente empregada.
+(A) As leis cumpridas são difíceis de entender.
+(B) É uma autoridade eminente e por isso ninguém o respeita.
+(C) A lei tem dois e apenas dois fundamentos: a equidade e a
+utilidade.
+(D) As leis são sempre úteis aos que possuem posses e nocivas aos
+que nada têm.
+(E) Quando vou a um país, não examino se tem boas leis, mas se
+as que lá existem são executadas.
+7
+Assinale a opção que indica a frase que está rigorosamente dentro
+dos modelos da norma culta.
+(A) Todos os convidados vestiam trajes à rigor.
+(B) Os policiais estavam cara a cara com os delinquentes.
+(C) Os promotores ficaram receiosos ante seus adversários.
+(D) As festas beneficientes nem sempre produzem dinheiro.
+(E) Entreguei a Constituição as advogadas para que ficassem bem-
+informadas.
+8
+As opções a seguir mostram duas formas corretas de uma mesma
+frase, à exceção de uma. Assinale-a.
+(A) Voltamos de Alagoas. / Voltamos das Alagoas.
+(B) Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure
+o Juiz.
+(C) Houve um acidente grave durante o julgamento. / Houve um
+incidente grave durante o julgamento.
+(D) A Constituição foi criada a 13 de junho de 1888. / A
+Constituição foi criada em 13 de junho de 1888.
+(E) À exceção de Bernardo, todos estiveram presentes. / Com
+exceção de Bernardo, todos estiveram presentes.
+
+TIPO 1 – PÁGINA 3
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+9
+Leia o segmento a seguir.
+“Agora que expliquei o título, passo a escrever o livro. Antes disso,
+porém, digamos os motivos que me põem a pena na mão. Vivo só,
+com um criado. A casa em que moro é própria; fi-la construir de
+propósito, levado de um desejo tão particular, que me vexa
+imprimi-lo, mas vá lá.
+Um dia, há bastantes anos, lembrou-me reproduzir no Engenho
+Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o
+mesmo aspecto e economia daquela outra, que desapareceu.”
+Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899.
+Sobre a estruturação ou a significação desse texto, assinale a
+afirmativa incorreta.
+(A) O segmento inicial “Agora que expliquei o título” se refere a
+algo já dito anteriormente.
+(B) O pronome “isso”, na expressão “Antes disso” se refere à ação
+de explicar o título do livro.
+(C) O pronome relativo “que” no segmento “que me põem a pena
+na mão” se refere ao substantivo “motivos”.
+(D) A frase “Vivo só, com um criado” mudaria de sentido se
+retirássemos a vírgula.
+(E) O pronome indefinido “outra” e o pronome relativo “que” no
+segmento “daquela outra, que desapareceu” mostram o
+mesmo antecedente.
+10
+Os segmentos textuais a seguir foram retirados do romance Dom
+Casmurro.
+Assinale aquele que exemplifica o modo descritivo de organização
+discursiva.
+(A) Agora que expliquei o título, passo a escrever o livro.
+(B) Fiquei tão alegre com esta ideia, que ainda agora me treme a
+pena na mão.
+(C) Ia entrar na sala de visitas, quando ouvi proferir o meu nome
+e escondi-me atrás da porta.
+(D) Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos
+ministros e acabou recitando-me versos.
+(E) Não consultes dicionários. Casmurro não está aqui no sentido
+que eles lhe dão, mas no que lhe pôs o vulgo de homem calado
+e metido consigo.
+Raciocínio Lógico-matemático
+11
+Um sistema de criptografia atribuiu valores numéricos às letras do
+alfabeto. Cada letra recebeu um único valor. Letras distintas têm
+valores distintos.
+Nesse sistema:
+ a soma das letras da palavra NARA é 19;
+ a soma das letras da palavra MARIA é 25;
+ a soma das letras da palavra MAIARA é 27;
+ a soma das letras da palavra MARIANA é 31.
+Com base nessas informações, é correto afirmar que a valor
+atribuído a R foi
+(A) 10.
+(B) 11.
+(C) 12.
+(D) 13.
+(E) 14.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+12
+A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado
+de duas formas diferentes.
+Na Figura 1, o menor lado de B está encostado no maior lado de A,
+de modo que o maior lado de B, na sua parte inferior, está
+perfeitamente alinhado com o menor lado de A, na sua parte
+inferior, formando uma figura em L cujo perímetro é 32 cm.
+Na Figura 2, o maior lado de B está encostado no maior lado de A,
+de modo que o menor lado de B, na sua parte inferior, está
+perfeitamente alinhado com o menor lado de A, na sua parte
+inferior, formando uma nova figura cujo perímetro é 26 cm.
+No retângulo B, a diferença entre as medidas do maior lado e do
+menor lado vale
+(A) 7,5 cm.
+(B) 6,0 cm.
+(C) 4,5 cm.
+(D) 3,0 cm.
+(E) 1,5 cm.
+13
+Em um jogo, sorteiam-se ao acaso, sucessivamente e sem
+reposição, números do conjunto {1,2,3,4,5,6,7,8}. Cada jogador
+recebe uma cartela com 6 números distintos desse conjunto. Duas
+cartelas quaisquer nunca têm exatamente os mesmos 6 números.
+A quantidade máxima de cartelas distintas que se pode ter nesse
+jogo é
+(A) 28.
+(B) 36.
+(C) 42.
+(D) 48.
+(E) 56.
+14
+O "grau" do álcool doméstico indica a concentração de etanol
+presente na mistura com água. No Brasil, essa medida é expressa
+em INPM. Por exemplo, o álcool 46 INPM possui, a cada 100
+gramas de produto, 46 gramas de etanol e 54 gramas de água e
+outros componentes.
+Misturando-se 200g de álcool 46 INPM com 300 gramas de álcool
+70 INPM, produz-se 500g de álcool com concentração INPM igual
+a
+(A) 59,4.
+(B) 59,6.
+(C) 59,8.
+(D) 60,2.
+(E) 60,4.
+
+TIPO 1 – PÁGINA 4
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+15
+Considere a proposição P dada por:
+“Pelo menos um livro da minha biblioteca é sobre Matemática e
+nenhum dos discos da minha discoteca é importado.”
+Assinale a opção que contém a negação de P.
+(A) Pelo menos um livro da minha biblioteca não é sobre
+Matemática e algum disco da minha discoteca é importado.
+(B) Pelo menos um livro da minha biblioteca não é sobre
+Matemática ou algum disco da minha discoteca é importado.
+(C) Pelo menos um livro da minha biblioteca não é sobre
+Matemática e todos os discos da minha discoteca são
+importados.
+(D) Nenhum livro da minha biblioteca é sobre Matemática ou
+algum disco da minha discoteca é importado.
+(E) Nenhum livro da minha biblioteca é sobre Matemática e algum
+disco da minha discoteca é importado.
+Legislação e Código de Ética do MPES
+16
+João, servidor do Ministério Público do Estado do Espírito Santo,
+foi promovido e passou a ocupar uma classe distinta daquela que
+ocupava, o que levou ao seu enquadramento na nova situação da
+carreira.
+À luz dessa constatação, é correto afirmar que João
+(A) alcançou o vigésimo nível da classe anterior.
+(B) passou a ocupar o nível inicial da classe atual.
+(C) preencheu os requisitos da promoção por merecimento.
+(D) foi promovido em razão da existência de vaga na nova classe.
+(E) obteve o padrão temporal mínimo de 2 (dois) anos na classe
+anterior.
+17
+Determinada estrutura orgânica do Ministério Público do Estado
+do Espírito Santo entendeu que seria necessária a revisão de uma
+meta do Plano Estratégico (PE) da Instituição.
+Ao analisar os balizamentos estabelecidos pela Portaria nº 8.565/2017,
+a referida estrutura concluiu, corretamente, que
+(A) a revisão somente é admitida em relação aos indicadores, não
+em relação às metas.
+(B) a Assessoria de Gestão Estratégica deve exarar manifestação
+técnica sobre a proposta.
+(C) o PE é caracterizado pela estabilidade e permanência, sendo
+incompatível com o instituto da revisão.
+(D) a revisão somente é admitida em relação aos indicadores e às
+ações estratégicas, não em relação às metas.
+(E) o início do processo de revisão deve ser autorizado na reunião
+de gestão estratégica, cabendo a deliberação final e
+irrecorrível à plenária.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+18
+O Ministério Público do Estado do Espírito Santo, pelo órgão de
+execução com atribuição, pretende realizar operações de
+classificação e avaliação de dados pessoais de alguns investigados
+em procedimentos de investigação criminal que tramitam no
+âmbito da Instituição.
+Ao decidir pela realização dessas atividades, o órgão de execução
+concluiu, corretamente, que
+(A) a atividade desenvolvida configura tratamento da informação,
+logo, por tal razão, é exigida a observância da Lei Geral de
+Proteção de Dados Pessoais.
+(B) o tratamento da informação, nas circunstâncias indicadas,
+pressupõe prévia autorização judicial, como é exigido pela Lei
+Geral de Proteção de Dados Pessoais.
+(C) a atividade desenvolvida somente atrairia a aplicação da Lei
+Geral de Proteção de Dados Pessoais se houvesse tratamento
+de dados pessoais, o que não é o caso.
+(D) a Lei Geral de Proteção de Dados Pessoais é aplicada
+indistintamente a qualquer atividade que tenha por objeto
+dados pessoais, independente da sua natureza.
+(E) o tratamento de dados pessoais é realizado no âmbito de uma
+atividade de investigação de infração penal, o que afasta a
+incidência da Lei Geral de Proteção de Dados Pessoais.
+19
+Ana, servidora ocupante de cargo em comissão no âmbito do
+Ministério Público do Estado do Espírito Santo (MPES), foi
+informada sobre uma reunião que seria realizada pelo conselho
+responsável pela gestão do Fundo Estadual de Reparação de
+Interesses Difusos Lesados, que teria uma pauta de grande
+relevância para a atuação finalística da Instituição.
+Ao delinear as medidas de apoio que tinha o munus de adotar na
+referida reunião, Ana partiu da premissa correta de que o Fundo
+(A) conta com a atuação de representante do MPES em seu
+conselho, apesar de integrar a estrutura do Poder Executivo.
+(B) integra a estrutura do MPES, sendo que o seu conselho conta
+com a participação de membros da Instituição, do Poder
+Executivo e de associações.
+(C) é estrutura autônoma e independente, cuja atuação é
+fiscalizada pelo MPES, que participa das reuniões do seu
+conselho sem ter direito a voto.
+(D) é parte integrante do Fundo Especial do MPES, sendo que os
+seus recursos estão finalisticamente comprometidos com a
+defesa de interesses difusos e coletivos.
+(E) conta com representantes dos três poderes e instituições
+constitucionalmente
+autônomas,
+bem
+como
+com
+representantes da sociedade civil organizada, sendo presidido
+pelo Procurador-Geral de Justiça.
+
+TIPO 1 – PÁGINA 5
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+20
+No primeiro mês do exercício financeiro X, Inês, que atua em um
+setor de controle interno do Ministério Público do Estado do
+Espírito Santo (MPES), recebeu a informação de que a Instituição
+recebera recursos previstos na lei orçamentária anual (LOA)
+aprovada pela Assembleia Legislativa.
+Sobre a situação descrita, à luz da Lei Complementar Estadual
+nº 95/1997, assinale a afirmativa correta.
+(A) Os recursos foram postos à disposição em duodécimo.
+(B) A LOA foi aprovada a partir de projeto de lei apresentado pelo
+MPES.
+(C) Os recursos foram depositados no Fundo de Despesas
+Correntes do MPES.
+(D) Os recursos recebidos estão vinculados a despesas e a cotas
+definidas na programação financeira.
+(E) Os recursos foram solicitados à Secretaria de Estado de
+Fazenda mediante comprovação das despesas a serem
+realizadas.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+Conhecimentos Específicos
+21
+O desenvolvimento web moderno exige domínio das tecnologias
+HTML5 e CSS3, que trabalham de forma complementar para
+estruturar e estilizar páginas.
+Enquanto o HTML define a semântica e a estrutura do conteúdo, o
+CSS3 introduz recursos avançados de layout, como Flexbox e Grid,
+além de seletores sofisticados e propriedades de transformação e
+transição.
+Considere o seguinte trecho de código:
+<style>
+.container {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.item:nth-child(2n) {
+background-color: lightblue;
+}
+</style>
+<div class="container">
+<div class="item">A</div>
+<div class="item">B</div>
+<div class="item">C</div>
+<div class="item">D</div>
+</div>
+Considerando o comportamento padrão dos navegadores
+modernos compatíveis com as especificações do W3C, sobre o
+código apresentado, assinale a afirmativa correta.
+(A) A propriedade align-items: center alinha os itens
+horizontalmente ao centro do eixo principal do contêiner
+flexível.
+(B) O seletor .item:nth-child(2n) aplicará a cor de fundo lightblue
+apenas aos itens "A" e "C", pois eles ocupam as posições
+ímpares dentro do contêiner.
+(C) O seletor .item:nth-child(2n) aplicará a cor de fundo lightblue
+aos itens "B" e "D", pois corresponde aos elementos filhos
+cujas posições são múltiplas de 2.
+(D) Para que o Flexbox funcione corretamente, seria obrigatório
+declarar também a propriedade flex-direction: row, caso
+contrário os itens seriam empilhados verticalmente por
+padrão.
+(E) A propriedade justify-content: space-between distribui os itens
+com espaçamento igual entre eles e também nas
+extremidades do contêiner, deixando margens laterais iguais
+aos espaços internos.
+
+TIPO 1 – PÁGINA 6
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+22
+O Spring é um dos frameworks mais consolidados no ecossistema
+Java para o desenvolvimento de aplicações corporativas.
+Por meio de conceitos como Inversão de Controle (IoC) e Injeção
+de Dependências (DI), o Spring promove o baixo acoplamento
+entre componentes, enquanto o Spring Boot simplifica a
+configuração e a inicialização de projetos por meio de convenções
+e autoconfiguração.
+Considere o seguinte trecho de código utilizando Spring Boot:
+@RestController
+@RequestMapping("/produtos")
+public class ProdutoController {
+@Autowired
+private ProdutoService produtoService;
+@GetMapping("/{id}")
+public ResponseEntity<Produto> buscarPorId(@PathVariable
+Long id) {
+Produto produto = produtoService.buscarPorId(id);
+return ResponseEntity.ok(produto);
+}
+@PostMapping
+public ResponseEntity<Produto> salvar(@RequestBody Produto
+produto) {
+Produto salvo = produtoService.salvar(produto);
+return
+ResponseEntity.status(HttpStatus.CREATED).body(salvo);
+}
+}
+Sobre o código apresentado, considerando os conceitos do Spring
+Framework e o comportamento padrão do Spring Boot, assinale a
+afirmativa correta.
+(A) A anotação @PathVariable no método buscarPorId captura
+parâmetros enviados no corpo da requisição HTTP,
+funcionando de forma idêntica à anotação @RequestBody.
+(B) A anotação @PostMapping configura o método salvar para
+responder a requisições do tipo HTTP GET, sendo apenas um
+alias sintático para @GetMapping com semântica de criação.
+(C) A anotação @Autowired realiza a instanciação manual do
+objeto ProdutoService, exigindo que o desenvolvedor
+implemente explicitamente o padrão de projeto Factory para
+que a injeção funcione.
+(D) A anotação @RestController é equivalente à combinação das
+anotações @Controller e @ResponseBody, fazendo com que
+os métodos da classe retornem os dados diretamente no corpo
+da resposta HTTP, por padrão em formato JSON.
+(E) A anotação @RequestMapping("/produtos") aplicada à classe
+exige que cada método declare novamente o caminho
+completo/produtos em suas respectivas anotações de
+mapeamento, caso contrário os endpoints não serão
+registrados.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+23
+Uma equipe mantém uma aplicação web estruturada segundo o
+modelo MVC (Modelo-Visão-Controlador). Após sucessivas
+evoluções, os controladores passaram a concentrar validações de
+negócio, cálculos, verificação de permissões e decisões sobre
+transições de estado.
+Como consequência, regras semelhantes começaram a ser
+repetidas em diferentes controladores, e mudanças em uma
+mesma política funcional passaram a exigir alterações em vários
+pontos do sistema. Em uma revisão arquitetural, decidiu-se
+promover uma refatoração para reduzir esse problema, mantendo
+a separação de responsabilidades e favorecendo a reusabilidade.
+De acordo com o modelo MVC, assinale a opção que apresenta a
+medida mais adequada.
+(A) Manter as regras nos controladores, mas reorganizar os
+métodos por caso de uso, a fim de tornar a manutenção mais
+previsível.
+(B) Transferir as regras repetidas para as visões, de modo que cada
+interface trate localmente as decisões necessárias ao seu fluxo
+específico.
+(C) Concentrar validações e decisões de estado em um único
+controlador central, para eliminar divergências entre os
+demais controladores.
+(D) Restringir os modelos à representação de dados e deslocar
+para os controladores as regras remanescentes,
+uniformizando o padrão já adotado.
+(E) Transferir a lógica de negócio e gestão de estado para a
+camada de modelo, usando abstrações para evitar a
+duplicação e delegando apenas a coordenação do fluxo aos
+controladores.
+24
+Uma organização iniciou a modernização de seu sistema
+corporativo. A aplicação, antes monolítica, foi gradualmente
+dividida em serviços independentes para atender módulos como
+autenticação, faturamento e catálogo. Durante a transição, parte
+da integração entre sistemas legados permaneceu baseada em
+contratos formais descritos em XML, enquanto os novos serviços
+passaram a expor APIs HTTP com troca de mensagens em JSON.
+Com base nesse cenário, avalie as afirmativas a seguir.
+I. A coexistência, no mesmo ambiente, de serviços que utilizam
+contratos formais em XML e de APIs HTTP com JSON é
+compatível com um processo de transição arquitetural, não
+sendo suficiente, por si só, para descaracterizar uma adoção
+de microsserviços.
+II. Em uma arquitetura de microsserviços, a divisão do sistema
+em vários serviços garante baixo acoplamento e
+independência de evolução, mesmo que todos compartilhem
+o mesmo banco de dados e dependam de mudanças
+coordenadas no esquema relacional.
+III. Os microsserviços podem ser compreendidos como uma
+abordagem específica de arquitetura orientada a serviços, de
+modo que nem toda solução orientada a serviços caracteriza,
+necessariamente, uma arquitetura de microsserviços.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+TIPO 1 – PÁGINA 7
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+25
+A plataforma .NET oferece diferentes modelos de programação
+para construção de aplicações, incluindo abordagens orientadas a
+serviços, padrões arquiteturais tradicionais e modelos baseados
+em páginas.
+Entre essas abordagens, algumas priorizam a separação estrita de
+responsabilidades, enquanto outras favorecem maior coesão
+entre interface e lógica.
+Nesse contexto, uma das principais características do modelo
+Razor Pages no ecossistema .NET reside no fato de que o Razor
+Pages
+(A) segue, rigidamente, a separação em camadas proposta pelo
+padrão MVC, exigindo a definição explícita de controllers para
+cada requisição.
+(B) baseia-se em consultas declarativas com LINQ como
+mecanismo central de organização da lógica de aplicação e
+navegação entre páginas.
+(C) implementa, de forma obrigatória, o padrão de APIs RESTful,
+sendo utilizado exclusivamente para exposição de serviços e
+manipulação de dados via HTTP.
+(D) restringe a interação com outras camadas da aplicação,
+limitando seu uso à renderização estática de conteúdo sem
+acesso a serviços ou dados dinâmicos.
+(E) adota uma abordagem orientada a páginas, na qual cada
+unidade de interface encapsula sua lógica associada,
+reduzindo a necessidade de separação explícita em controllers.
+26
+Considerando as boas práticas de arquitetura de APIs REST, avalie
+as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a
+falsa.
+( ) Em APIs REST, a semântica do método HTTP integra o contrato
+da operação, de modo que a leitura de um recurso não deve
+ser modelada com método cujo significado indique alteração
+de estado.
+( ) A criação de novos recursos em uma coleção pode ser
+realizada por meio de requisição PUT dirigida ao endpoint
+correspondente à coleção, com retorno de um novo
+identificador gerado pelo servidor.
+( ) Em APIs REST, a utilização de um código HTTP uniforme para
+respostas de êxito e de falha não compromete a semântica da
+interação, desde que o corpo da mensagem descreva
+adequadamente o resultado da requisição.
+As afirmativas são, respectivamente,
+(A) V – V – V.
+(B) V – V – F.
+(C) V – F – F.
+(D) F – V – F.
+(E) F – F – V.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+27
+Uma organização mantém integrações corporativas baseadas em
+serviços SOAP/XML, consumidos por aplicações internas e
+externas a partir de contrato formal previamente publicado.
+Em uma atualização do sistema provedor, a equipe pretende
+alterar a estrutura da mensagem de resposta, com renomeação de
+alguns elementos e mudança de tipos de dados, sem adotar uma
+estratégia de versionamento compatível, sob o argumento de que
+o endpoint e o protocolo de transporte permanecerão inalterados.
+Com base nesse cenário, analise as afirmativas a seguir.
+I. A renomeação de elementos na mensagem de resposta não
+compromete a compatibilidade da integração, porque os
+consumidores podem consultar o WSDL atualizado, que define
+o contrato de comunicação do serviço, e passar a interpretar
+os novos nomes corretamente.
+II. Em arquiteturas baseadas em SOAP, a interoperabilidade
+entre consumidor e provedor depende também da aderência
+das mensagens ao contrato formal do serviço, e não apenas da
+possibilidade de troca de documentos XML entre as partes.
+III. A manutenção do mesmo endpoint e do mesmo protocolo de
+transporte não é suficiente, por si só, para preservar a
+compatibilidade da integração, quando a resposta do serviço
+deixa de corresponder à estrutura contratualmente esperada
+pelos consumidores.
+Está correto o que se afirma em
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+28
+Um estudante de segurança da informação realizou uma avaliação
+de segurança de uma aplicação web em ambiente de testes, e
+acessou a aplicação por meio de um navegador, inserindo o
+seguinte código em um campo de entrada de dados:
+<script>alert('teste')</script>
+Ao submeter a requisição, a aplicação retornou uma resposta que
+resultou na exibição de um alerta no navegador, evidenciando a
+execução do script inserido.
+A técnica empregada caracteriza um tipo de análise de software
+conhecido como
+(A) análise dinâmica de software, baseada na interação com a
+aplicação em execução e na avaliação de seu comportamento,
+em tempo de execução.
+(B) análise estática de código, pois o comportamento da aplicação
+foi avaliado sem a necessidade de execução.
+(C) revisão de código manual, com foco na identificação de
+vulnerabilidades diretamente no código-fonte.
+(D) uso de linters, para identificação de falhas sintáticas e más
+práticas de programação.
+(E) teste unitário, voltado à validação de componentes isolados do
+sistema.
+
+TIPO 1 – PÁGINA 8
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+29
+Durante o desenvolvimento de um sistema, foi adotado o
+SonarQube para apoiar a qualidade do código, permitindo a
+análise automática do código-fonte e a geração de relatórios com
+métricas e apontamentos sobre possíveis problemas.
+Com base nesse contexto, analise as afirmativas a seguir.
+I. O SonarQube realiza análise estática do código, sendo capaz
+de identificar vulnerabilidades, bugs e más práticas sem a
+necessidade de executar o software.
+II. O SonarQube executa o sistema em ambientes de integração
+contínua para identificar vulnerabilidades que dependem do
+comportamento em tempo de execução, ampliando a
+cobertura da análise de segurança.
+III. O uso do SonarQube auxilia na padronização da qualidade do
+código, mas não substitui completamente a revisão manual
+realizada por desenvolvedores.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+30
+As primeiras abordagens no processo de desenvolvimento de
+software estavam fortemente centradas na funcionalidade e no
+desempenho, com pouca preocupação com a legibilidade e a
+manutenção do código. Com o avanço das práticas de engenharia
+de software, especialmente a partir da adoção da programação
+estruturada e, posteriormente, da programação orientada a
+objetos, passou-se a valorizar a organização, a modularização e a
+clareza do código.
+Com isso, surgiram princípios e práticas voltados à melhoria da
+qualidade interna do software, como o Clean Code, que tem como
+objetivo tornar o código mais compreensível, coeso e de fácil
+manutenção.
+Com base nesse contexto, analise as afirmativas a seguir.
+I. As funções devem concentrar o maior número possível de
+operações, a fim de evitar fragmentação do código e melhorar
+a eficiência.
+II. A escrita de código limpo prioriza a legibilidade e a facilidade
+de manutenção, considerando que o código será
+frequentemente lido por outros desenvolvedores.
+III. O uso de nomes significativos para variáveis e funções
+contribui para a compreensão do código, reduzindo a
+necessidade de comentários explicativos.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+31
+Uma equipe de desenvolvimento de software passou a usar uma
+ferramenta integrada à IDE, que analisa o código-fonte sem
+executá-lo, identificando problemas como variáveis não utilizadas,
+inconsistências de formatação e desvios de padrão de
+nomenclatura.
+Com base nesse contexto, essa ferramenta é classificada como
+(A) Linter.
+(B) Ferramenta de teste funcional.
+(C) Ferramenta de análise dinâmica.
+(D) Ferramenta de teste automatizado.
+(E) Ferramenta de análise geral voltada às métricas de qualidade
+do código.
+32
+Um Engenheiro de Testes acaba de receber uma demanda para
+conduzir um teste de sistema com sua equipe.
+Sobre esse tipo de teste, avalie as afirmativas a seguir e assinale
+(V) para a verdadeira e (F) para a falsa.
+( ) Deve ser conduzido antes dos testes de integração e
+conduzido, preferencialmente, por uma equipe de testes.
+( ) Tem como objetivo confrontar o software em funcionamento
+com seus requisitos funcionais e não funcionais, sendo
+executado em um ambiente muito semelhante ao de
+produção.
+( ) Pode ser dividido em fases alfa (em ambiente de
+desenvolvimento) e beta (em ambiente que emula a
+produção) e realizado integralmente pela equipe de testes.
+As afirmativas são, respectivamente,
+(A) V – V – V.
+(B) V – F – F.
+(C) F – V – F.
+(D) F – V – V.
+(E) F – F – V.
+33
+Um Analista de Testes precisa validar diversas funcionalidades de
+um sistema de forma isolada. A quantidade de cenários e de
+combinações de entrada faz com que o número de testes seja
+muito alto.
+Para conduzir essa tarefa, ele poderá fazer uso de ferramentas de
+automação de testes, porém é muito importante que ele saiba
+diferenciar quais as características de cada uma para utilizá-las do
+modo correto.
+Relacione as ferramentas de teste listadas a seguir às suas
+respectivas características.
+1. Selenium
+2. Cypress
+( ) É mais flexível e multiplataforma.
+( ) Não usa Webdriver.
+( ) É executado fora do browser.
+( ) É mais usado para testes de front-end.
+Assinale a opção que apresenta a relação correta, na ordem
+apresentada.
+(A) 2, 2, 2 e 1.
+(B) 1, 1, 2 e 1.
+(C) 1, 2, 1 e 1.
+(D) 1, 2, 1 e 2.
+(E) 2, 1, 1 e 2.
+
+TIPO 1 – PÁGINA 9
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+34
+As metodologias de desenvolvimento de software evoluíram de
+abordagens rígidas e sequenciais, como o modelo em cascata, para
+modelos iterativos e incrementais, que favorecem adaptação às
+mudanças e à redução de riscos. Com as práticas ágeis, passaram
+a priorizar ciclos curtos, feedback contínuo e a maior integração
+entre desenvolvimento e validação.
+Nesse contexto, surgem metodologias que colocam os testes no
+centro do desenvolvimento, não apenas para verificação, mas
+como guia para construção do software, melhorando qualidade e
+alinhamento com o negócio. Em uma delas, usam-se
+especificações em linguagem natural, permitindo um
+entendimento comum entre clientes, analistas e desenvolvedores,
+surgindo, também, a chamada living documentation, que se
+mantém atualizada por ser executável como testes
+automatizados.
+Assinale a opção que indica a metodologia em questão.
+(A) TDD (Test Driven Development)
+(B) BDD (Behavior Driven Development)
+(C) DDT (Data Driven Development)
+(D) RUP (Rational Unifed Process)
+(E) UCD (User-Centered Design)
+35
+Diagramas UML são um valioso recurso para documentar as
+funcionalidades e a dinâmica das interações em um sistema a ser
+projetado.
+Assinale a opção que presenta o diagrama UML mais indicado para
+representar as interações externas com o sistema e as
+funcionalidades percebidas pelos usuários.
+(A) Diagrama de Estado.
+(B) Diagrama de Classes.
+(C) Diagrama de Sequência.
+(D) Diagrama de Caso de Uso.
+(E) Diagrama de Componentes.
+36
+Ao projetar um sistema, o cliente apresentou uma lista de
+requisitos a serem implementados.
+Relacione os requisitos à classificação como Funcionais (RF) ou
+Não Funcionais (RNF).
+1. Requisito Funcional (RF)
+2. Requisito Não Funcional (RNF)
+( ) emitir relatórios diários de indicadores de performance.
+( ) armazenar dados temporais estritamente sob o padrão da ISO
+8601.
+( ) adaptar a interface dinamicamente para dispositivos móveis e
+desktops.
+Assinale a opção que indica a relação correta, na ordem
+apresentada.
+(A) 1, 1 e 2.
+(B) 1, 2 e 2.
+(C) 1, 1 e 1.
+(D) 2, 1 e 1.
+(E) 2, 2 e 2.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+37
+O CMMI é um conjunto de melhores práticas projetado para
+orientar as organizações na melhoria de seus processos de
+engenharia de software e sistemas.
+Ele funciona como um mapa para transformar processos caóticos
+ou imaturos em processos disciplinados, previsíveis e de alta
+qualidade, avaliando e elevando a maturidade de uma organização
+em níveis (1 a 5).
+O nível de maturidade CMMI, em que já há um foco no controle de
+projetos, os processos básicos são planejados e monitorados, e há
+uma gestão de requisitos eficiente é o nível apresentado na opção
+(A) inicial.
+(B) definido.
+(C) otimização.
+(D) gerenciado.
+(E) quantitativamente gerenciado.
+38
+No contexto da elaboração de documentos técnicos na área de
+Tecnologia da Informação, analise as afirmativas a seguir.
+I. O Parecer Técnico é o instrumento adequado quando se exige
+de um Analista de TI uma análise de conformidade das
+funcionalidades entregues frente ao Termo de Referência,
+visando subsidiar a decisão de pagamento de uma fatura
+contratual.
+II. O Laudo Técnico é o documento recomendado para o registro
+de constatações objetivas resultantes de um exame pericial ou
+de uma auditoria de segurança em sistemas.
+III. O Laudo Técnico possui natureza predominantemente
+opinativa e conclusiva, enquanto o Parecer Técnico possui
+natureza essencialmente descritiva e fática.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+39
+No que tange à elaboração de laudos técnicos, assinale a
+afirmativa correta.
+(A) A seção de identificação do laudo técnico é facultativa,
+podendo ser dispensada quando o documento se destinar ao
+uso interno da organização.
+(B) A seção de conclusão pode conter opiniões de caráter
+subjetivo, ainda que não estejam fundamentadas nas
+evidências obtidas durante a análise técnica.
+(C) A metodologia deve explicitar os procedimentos, as técnicas,
+e as normas usados, de modo a permitir a reprodutibilidade e
+a verificação dos resultados apresentados.
+(D) O laudo técnico caracteriza-se predominantemente por seu
+caráter opinativo, baseado na interpretação do profissional
+responsável.
+(E) O escopo do laudo técnico deve ser definido ao final do
+documento, após a análise dos dados, a fim de refletir com
+maior precisão os resultados obtidos.
+
+TIPO 1 – PÁGINA 10
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+40
+Em relação à Legislação e aos aspectos éticos na área de
+Tecnologia da Informação, assinale a afirmativa correta.
+(A) Um analista de TI que copia documentos estratégicos da
+organização para dispositivo pessoal durante uma atividade de
+manutenção, ainda que sem intenção de obter vantagem,
+incorre em violação do sigilo profissional e da responsabilidade
+técnica.
+(B) A Responsabilidade Técnica limita-se à garantia de que os
+sistemas estejam disponíveis, não abrangendo as falhas de
+configuração que resultem em acessos indevidos.
+(C) O profissional de TI pode compartilhar dados internos da
+organização, desde que não haja identificação direta dos
+titulares das informações.
+(D) O dever de sigilo profissional cessa após o desligamento do
+colaborador, exceto se houver cláusula contratual específica
+de não divulgação.
+(E) A Ética Profissional em TI foca na eficiência técnica dos
+algoritmos, sendo as questões de privacidade de
+responsabilidade do setor jurídico.
+41
+Um agente técnico-estatístico na área de Tecnologia da
+Informação está elaborando um relatório para avaliar o
+desempenho de um sistema corporativo de gestão de serviços
+digitais. Para isso, ele está usando dados oficiais de bases
+institucionais, como registros de chamados, tempo de resposta,
+disponibilidade do sistema e índices de satisfação dos usuários.
+Com base na utilização de estatísticas oficiais e na construção de
+indicadores de desempenho em ambientes de TI na Administração
+Pública, assinale a afirmativa correta.
+(A) Os indicadores de desempenho em TI devem ser utilizados
+apenas para fins operacionais, não sendo adequados para
+avaliação estratégica de serviços públicos digitais.
+(B) Os indicadores de desempenho permitem avaliar a eficiência e
+a qualidade dos serviços de TI, apoiando a tomada de decisão
+e a melhoria contínua dos sistemas.
+(C) Os indicadores estatísticos em TI não podem ser usados para
+comparações entre diferentes períodos, devido à variabilidade
+dos sistemas tecnológicos.
+(D) Os relatórios estatísticos na área de TI devem apresentar
+exclusivamente dados técnicos, sem interpretação ou análise
+gerencial.
+(E) A utilização de dados institucionais limita a criação de novos
+indicadores de desempenho em ambientes de TI.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+42
+No que tange às contratações de bens e serviços de Tecnologia da
+Informação (TI), conforme as disposições da Lei nº 14.133/2021,
+analise as afirmativas a seguir.
+I. Nas contratações de TI, a Administração poderá definir o
+objeto da licitação com base exclusiva em marca ou modelo
+específico, desde que isso facilite a padronização tecnológica
+da organização.
+II. O Diálogo Competitivo é uma modalidade de licitação que
+pode ser aplicada em projetos de TI que envolvam inovação
+tecnológica ou quando a Administração não consegue definir,
+com precisão suficiente, as especificações técnicas do objeto.
+III. A contratação de soluções de TI deverá priorizar, sempre que
+possível, especificações baseadas em desempenho ou
+requisitos funcionais, evitando restrições indevidas à
+competitividade.
+Está correto o que se afirma em
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II, III.
+43
+No contexto da gestão e fiscalização de contratos administrativos
+previstos na Lei nº 14.133/2021, analise as afirmativas a seguir e
+assinale (V) para a verdadeira e (F) para a falsa.
+( ) As contratações públicas deverão submeter-se a duas linhas de
+defesa, estruturadas para promover práticas contínuas e
+permanentes de gestão de riscos e controle preventivo na
+administração pública.
+( ) Na fiscalização contratual poderão ser considerados critérios
+como oportunidade, materialidade, relevância e risco.
+( ) A execução do contrato deverá ser acompanhada e fiscalizada
+por apenas um fiscal de contrato, responsável por todas as
+atividades de controle da execução contratual.
+As afirmativas são, respectivamente,
+(A) F – V – F.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+(E) F – F – V.
+
+TIPO 1 – PÁGINA 11
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+44
+O protocolo WebSocket, padronizado pela RFC 6455, permite a
+comunicação bidirecional e persistente entre cliente e servidor
+sobre uma única conexão TCP, sendo amplamente usado em
+aplicações que exigem troca de dados em tempo real, como chats,
+dashboards de monitoramento e plataformas de negociação
+financeira.
+Considere o seguinte trecho de código JavaScript executado no
+lado do cliente:
+const
+socket
+=
+WebSocket("ws://servidor.exemplo.com/chat");
+new
+socket.onopen = function (event) {
+console.log("Conexão estabelecida");
+socket.send("Olá, servidor!");
+};
+socket.onmessage = function (event) {
+console.log("Mensagem recebida: " + event.data);
+};
+socket.onclose = function (event) {
+console.log("Conexão encerrada: " + event.code);
+};
+Sobre o código apresentado e o funcionamento do protocolo,
+considerando as especificações do protocolo WebSocket (RFC
+6455) e o comportamento padrão da API WebSocket nos
+navegadores modernos, assinale a afirmativa correta.
+(A) O WebSocket utiliza o protocolo HTTP durante toda a
+comunicação, de modo que cada chamada ao método send()
+resulta em uma nova requisição HTTP independente enviada
+ao servidor.
+(B) A conexão WebSocket é iniciada por meio de um handshake
+HTTP com o cabeçalho Upgrade, e, uma vez estabelecida, a
+comunicação ocorre sobre uma conexão TCP persistente e
+bidirecional, sem a necessidade de novas requisições HTTP.
+(C) O evento onmessage é disparado uma única vez por conexão,
+capturando todas as mensagens do servidor em um único
+objeto de resposta acumulada, de forma semelhante a uma
+resposta HTTP convencional.
+(D) O protocolo WebSocket opera exclusivamente sobre o
+protocolo UDP, o que garante a baixa latência na comunicação,
+mas impede a detecção de desconexões pelo evento onclose.
+(E) O método send() só pode ser invocado após o recebimento da
+primeira mensagem do servidor pelo evento onmessage, pois
+o canal de envio do cliente permanece bloqueado até essa
+confirmação.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+45
+As Single Page Applications (SPAs) representam um paradigma de
+desenvolvimento web no qual a aplicação é carregada uma única
+vez no navegador, e as atualizações de conteúdo ocorrem
+dinamicamente por meio de requisições assíncronas e
+manipulação do DOM, sem a necessidade de recarregamento
+completo da página. Frameworks como Angular, React e Vue.js
+popularizaram essa abordagem, que se apoia fortemente em APIs
+do navegador, roteamento do lado do cliente e comunicação com
+o servidor via APIs REST ou GraphQL.
+Considere o seguinte cenário:
+Uma equipe de desenvolvimento está construindo uma SPA
+utilizando um framework JavaScript moderno. A aplicação possui
+múltiplas rotas (/home, /produtos, /contato) e consome dados de
+uma API REST. Ao navegar entre as rotas, o usuário percebe que a
+URL do navegador é atualizada, porém a página não é recarregada.
+Considerando os conceitos, as características e o funcionamento
+das Single Page Applications, assinale a afirmativa correta.
+(A) A navegação entre rotas em uma SPA provoca, a cada
+mudança de URL, uma nova requisição HTTP ao servidor web
+para obter o documento HTML correspondente à rota
+acessada, da mesma forma que ocorre em aplicações
+tradicionais multipágina (MPA).
+(B) O roteamento do lado do cliente em uma SPA utiliza APIs do
+navegador, como a History API (pushState e replaceState),
+para atualizar a URL exibida na barra de endereços sem
+disparar uma requisição de página ao servidor, enquanto o
+JavaScript se encarrega de renderizar o conteúdo
+correspondente à nova rota.
+(C) Em uma SPA, o Search Engine Optimization (SEO) é
+naturalmente superior ao de aplicações multipágina, pois todo
+o conteúdo da aplicação já está presente no HTML inicial
+carregado pelo navegador, facilitando a indexação pelos
+mecanismos de busca.
+(D) As Single Page Applications dispensam completamente a
+comunicação com o servidor após o carregamento inicial, pois
+todos os dados necessários para o funcionamento da aplicação
+são embutidos no JavaScript durante o processo de build.
+(E) O roteamento do lado do cliente em uma SPA é realizado
+exclusivamente por meio de redirecionamentos HTTP com
+códigos de status 301 ou 302, cabendo ao servidor decidir qual
+componente deve ser renderizado a cada mudança de rota.
+
+TIPO 1 – PÁGINA 12
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+46
+O AngularJS desenvolvido e mantido pelo Google, foi um dos
+primeiros frameworks JavaScript a popularizar o padrão MVC
+(Model-View-Controller) no desenvolvimento de aplicações web
+do lado do cliente. Entre seus principais recursos estão o two-way
+data binding, o sistema de diretivas, a injeção de dependências e
+o uso de escopos ($scope), que revolucionaram a forma como
+interfaces dinâmicas eram construídas na época de seu
+lançamento.
+Considere o seguinte trecho de código utilizando AngularJS:
+<div ng-app="minhaApp" ng-controller="MeuController">
+<input type="text" ng-model="nome">
+<p>Olá, {{ nome }}!</p>
+<button ng-click="limpar()">Limpar</button>
+</div>
+<script>
+var app = angular.module('minhaApp', []);
+app.controller('MeuController', function ($scope) {
+$scope.nome = 'Mundo';
+$scope.limpar = function () {
+$scope.nome = '';
+};
+});
+</script>
+Sobre o código apresentado, considerando os conceitos e o
+comportamento padrão do AngularJS, assinale a afirmativa
+correta.
+(A) A diretiva ng-model estabelece um vínculo unidirecional (one-
+way data binding) entre o campo de entrada e a variável nome,
+de modo que alterações feitas pelo usuário no campo de texto
+não serão refletidas automaticamente na expressão {{ nome }}
+exibida no parágrafo.
+(B) A diretiva ng-model estabelece um vínculo bidirecional (two-
+way data binding) entre o campo de entrada e a variável nome
+no $scope, de modo que qualquer alteração no campo de texto
+é refletida automaticamente na expressão {{ nome }}, e vice-
+versa, sem necessidade de manipulação direta do DOM.
+(C) A expressão {{ nome }} no parágrafo é avaliada uma única vez
+durante o carregamento inicial da página, permanecendo com
+o valor 'Mundo' de forma estática, independentemente de
+alterações realizadas pelo usuário no campo de texto.
+(D) A diretiva ng-controller é responsável por compilar o módulo
+da aplicação, substituindo a função da diretiva ng-app, de
+modo que ambas as diretivas são intercambiáveis e possuem
+a mesma finalidade.
+(E) O método limpar(), ao ser invocado pelo clique no botão, exige
+uma chamada explícita a $scope.$apply() para que a interface
+seja atualizada, pois eventos disparados por ng-click não
+acionam automaticamente o ciclo de digest do AngularJS.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+47
+A Java Persistence API (JPA) é uma especificação do Jakarta EE
+(anteriormente Java EE) que define um modelo padrão para o
+mapeamento objeto-relacional (ORM) em aplicações Java.
+Por meio de anotações como @Entity, @Table, @Id e
+@OneToMany, a JPA permite que o desenvolvedor manipule
+registros do banco de dados como objetos Java, abstraindo grande
+parte da complexidade do SQL e delegando a implementação
+concreta a providers como Hibernate, EclipseLink e OpenJPA.
+Considere o seguinte trecho de código utilizando JPA:
+@Entity
+@Table(name = "clientes")
+public class Cliente {
+@Id
+@GeneratedValue(strategy = GenerationType.IDENTITY)
+private Long id;
+@Column(name = "nome_completo", nullable = false, length =
+150)
+private String nome;
+@OneToMany(mappedBy = "cliente", fetch = FetchType.LAZY,
+cascade = CascadeType.ALL)
+private List<Pedido> pedidos;
+// getters e setters omitidos
+}
+Sobre o código apresentado, considerando as especificações da
+JPA e o comportamento padrão dos providers de persistência,
+assinale a afirmativa correta.
+(A) A
+anotação
+@GeneratedValue(strategy
+=
+GenerationType.IDENTITY) indica que o valor da chave
+primária será gerado automaticamente pelo banco de dados
+por meio de uma coluna auto-incremento, cabendo ao próprio
+banco — e não à aplicação — atribuir o valor do id no
+momento da inserção.
+(B) A anotação @Column(nullable = false) é responsável por criar,
+em tempo de execução, uma validação no nível da aplicação
+Java que lança uma exceção antes de qualquer interação com
+o banco de dados, tornando desnecessária a definição da
+constraint NOT NULL na coluna correspondente da tabela.
+(C) A estratégia FetchType.LAZY no relacionamento @OneToMany
+faz com que a lista de pedidos seja carregada integralmente
+junto com a entidade Cliente no momento da consulta inicial,
+antecipando todos os dados relacionados em uma única
+operação SQL.
+(D) A propriedade cascade = CascadeType.ALL indica que as
+operações de persistência realizadas na entidade Cliente serão
+propagadas apenas para a operação de remoção (REMOVE)
+dos pedidos associados, sem afetar operações como PERSIST e
+MERGE.
+(E) A anotação mappedBy = "cliente" indica que a entidade Cliente
+é a proprietária (owning side) do relacionamento, sendo
+responsável por manter a chave estrangeira em sua própria
+tabela no banco de dados.
+
+TIPO 1 – PÁGINA 13
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+48
+O JSON (JavaScript Object Notation) é um formato leve de
+intercâmbio de dados, baseado em um subconjunto da sintaxe do
+JavaScript. Sua estrutura simples, composta por pares chave-valor
+e coleções ordenadas, aliada à independência de linguagem de
+programação, tornou-o o formato padrão para comunicação entre
+sistemas em APIs REST, arquivos de configuração e
+armazenamento de dados semiestruturados.
+Considere os seguintes trechos no formato JSON:
+Trecho I:
+{
+"nome": "Maria Silva",
+"idade": 34,
+"ativo": true,
+"telefones": [
+{"tipo": "celular", "numero": "11999998888"},
+{"tipo": "comercial", "numero": "1133334444"}
+],
+"conjuge": null
+}
+Trecho II:
+{
+nome: "João Santos",
+"idade": 28,
+"ativo": true
+}
+Considerando a especificação oficial do formato JSON (RFC 8259)
+e os trechos apresentados, assinale a afirmativa correta.
+(A) Ambos os trechos representam documentos JSON válidos, pois
+a especificação permite que as chaves dos objetos sejam
+declaradas tanto com aspas duplas quanto sem aspas, desde
+que não contenham espaços.
+(B) O Trecho I é um documento JSON válido, enquanto o Trecho II
+é inválido, pois a especificação exige que todas as chaves de
+objetos sejam obrigatoriamente strings delimitadas por aspas
+duplas.
+(C) O valor null atribuído à chave "conjuge" no Trecho I torna o
+documento inválido, pois a especificação JSON não reconhece
+null como um tipo de dado permitido.
+(D) O array "telefones" no Trecho I é inválido, pois a especificação
+JSON não permite que arrays contenham objetos como
+elementos — apenas valores primitivos como strings, números
+e booleanos são aceitos em arrays.
+(E) O valor true atribuído à chave "ativo" em ambos os trechos é
+interpretado pelo JSON como a string "true", pois a
+especificação não possui um tipo de dado booleano nativo,
+representando valores lógicos exclusivamente como texto.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+49
+O JDBC (Java Database Connectivity) é uma API padrão da
+plataforma Java que define um conjunto de interfaces e classes
+para estabelecer conexões com bancos de dados relacionais,
+executar comandos SQL e processar os resultados obtidos. Por
+meio de drivers específicos fornecidos pelos fabricantes de bancos
+de dados, o JDBC permite que a aplicação Java interaja com
+diferentes SGBDs de forma padronizada, usando componentes
+como Connection, Statement, PreparedStatement e ResultSet.
+Considere o seguinte trecho de código Java utilizando a API JDBC:
+String url = "jdbc:mysql://localhost:3306/loja";
+String sql = "SELECT nome, preco FROM produtos WHERE categoria
+= ?";
+try (Connection conn = DriverManager.getConnection(url,
+"usuario", "senha");
+PreparedStatement pstmt = conn.prepareStatement(sql)) {
+pstmt.setString(1, "Eletrônicos");
+ResultSet rs = pstmt.executeQuery();
+while (rs.next()) {
+String nome = rs.getString("nome");
+double preco = rs.getDouble("preco");
+System.out.println(nome + " - R$ " + preco);
+}
+} catch (SQLException e) {
+e.printStackTrace();
+}
+Considerando a API JDBC e o comportamento padrão do código
+apresentado, assinale a afirmativa correta.
+(A) O uso de PreparedStatement com parâmetros representados
+por ? permite que o valor seja inserido na consulta SQL de
+forma parametrizada, contribuindo para a prevenção de
+ataques de SQL Injection, pois o driver JDBC trata o parâmetro
+como dado e não como parte da estrutura do comando SQL.
+(B) A interface PreparedStatement e a interface Statement são
+funcionalmente idênticas, diferenciando-se apenas pela
+sintaxe de escrita da consulta, sem qualquer impacto em
+desempenho ou segurança da aplicação.
+(C) O método pstmt.setString(1, "Eletrônicos") substitui o
+primeiro ? da consulta pelo valor informado, sendo que a
+numeração dos parâmetros no PreparedStatement inicia-se
+em 0, seguindo a mesma convenção de índice de arrays em
+Java.
+(D) O bloco try-with-resources utilizado no código exige que o
+desenvolvedor implemente manualmente os métodos close()
+de Connection e PreparedStatement dentro de um bloco
+finally, pois o fechamento automático de recursos não se
+aplica a objetos JDBC.
+(E) O método executeQuery() do PreparedStatement é
+responsável tanto por executar consultas SQL quanto por
+comandos de modificação de dados como INSERT, UPDATE e
+DELETE, sendo o único método de execução disponível na
+interface PreparedStatement.
+
+TIPO 1 – PÁGINA 14
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+50
+O desenvolvimento de aplicações para dispositivos móveis envolve
+a escolha de abordagens e plataformas que impactem
+diretamente o desempenho, o custo de manutenção e a
+experiência do usuário. Entre as principais estratégias estão o
+desenvolvimento nativo, o desenvolvimento híbrido e o
+desenvolvimento multiplataforma (cross-platform), cada uma com
+características, vantagens e limitações que devem ser avaliadas
+conforme
+os
+requisitos
+do
+projeto.
+Uma equipe de desenvolvimento está avaliando as diferentes
+abordagens para construir uma aplicação móvel que precisará
+acessar recursos do dispositivo, como câmera, GPS e notificações
+push, e deverá funcionar tanto em Android quanto em iOS.
+Durante o planejamento, surgiram dúvidas sobre as diferenças
+entre desenvolvimento nativo, híbrido e multiplataforma (cross-
+platform).
+Considerando os conceitos, as características e as tecnologias
+associadas ao desenvolvimento de aplicações para dispositivos
+móveis, assinale a afirmativa correta.
+(A) No desenvolvimento nativo, a aplicação é construída com as
+linguagens e ferramentas oficiais de cada plataforma — como
+Kotlin ou Java com Android Studio para Android, e Swift ou
+Objective-C com Xcode para iOS —, o que proporciona acesso
+direto e completo às APIs e aos recursos de hardware do
+dispositivo, além de melhor desempenho em tempo de
+execução.
+(B) O desenvolvimento híbrido, utilizado por frameworks como
+React Native e Flutter, gera código nativo específico para cada
+plataforma a partir de uma única base de código, dispensando
+completamente o uso de tecnologias web como HTML, CSS e
+JavaScript.
+(C) Aplicações desenvolvidas com abordagem multiplataforma
+(cross-platform) são incapazes de acessar recursos nativos do
+dispositivo, como câmera, GPS e sensores biométricos, sendo
+adequadas exclusivamente para aplicações que exibem
+conteúdo estático sem interação com o hardware.
+(D) O desenvolvimento nativo exige que uma única base de código
+seja compartilhada entre Android e iOS, sendo essa a principal
+vantagem dessa abordagem, pois reduz drasticamente o custo
+e o tempo de desenvolvimento ao eliminar a necessidade de
+equipes especializadas por plataforma.
+(E) As Progressive Web Apps (PWAs) são consideradas aplicações
+nativas, pois são obrigatoriamente distribuídas pelas lojas
+oficiais (Google Play Store e Apple App Store) e possuem acesso
+irrestrito a todos os recursos de hardware do dispositivo, sem
+qualquer limitação imposta pelo navegador.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+51
+O Java 8 representou uma das atualizações mais significativas da
+plataforma Java, introduzindo recursos de programação funcional
+como expressões lambda, a API de Streams, interfaces funcionais,
+a classe Optional e métodos default em interfaces. Esses recursos
+modernizaram a linguagem, permitindo um código mais conciso,
+expressivo e adequado ao processamento declarativo de coleções
+de dados.
+Considere o seguinte trecho de código utilizando recursos do Java
+8:
+List<String> nomes = Arrays.asList("Ana", "Carlos", "Beatriz",
+"Daniel", "Amanda");
+List<String> resultado = nomes.stream()
+.filter(nome -> nome.startsWith("A"))
+.map(String::toUpperCase)
+.sorted()
+.collect(Collectors.toList());
+System.out.println(resultado);
+Considerando os recursos introduzidos pelo Java 8 e o
+comportamento padrão do código apresentado, sobre o código
+apresentado, assinale a afirmativa correta.
+(A) A saída no console será [AMANDA, ANA], pois o método filter
+seleciona apenas os nomes que começam com a letra "A", o
+método map converte cada nome para letras maiúsculas
+utilizando uma referência de método (method reference), e o
+método sorted ordena os elementos em ordem alfabética
+antes da coleta final.
+(B) A expressão nome -> nome.startsWith("A") passada ao
+método filter é uma classe anônima instanciada em tempo de
+compilação, pois o Java 8 não suporta funções como valores —
+toda expressão lambda é convertida em uma classe anônima
+convencional que implementa a interface Runnable.
+(C) O método map(String::toUpperCase) realiza a filtragem dos
+elementos da stream, removendo os nomes que já estão em
+letras maiúsculas e mantendo apenas os que possuem letras
+minúsculas, sem alterar o conteúdo dos elementos restantes.
+(D) A operação collect(Collectors.toList()) é uma operação
+intermediária que retorna uma nova stream contendo os
+elementos coletados, permitindo o encadeamento de
+operações adicionais de filter e map após a sua invocação.
+(E) O método stream() aplicado à lista cria uma cópia profunda
+(deep copy) de todos os elementos, de modo que qualquer
+modificação realizada durante o pipeline de operações altera
+permanentemente a lista original nomes.
+
+TIPO 1 – PÁGINA 15
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+52
+O PHP (PHP: Hypertext Preprocessor) é uma linguagem de
+programação amplamente usada no desenvolvimento web do lado
+do servidor.
+Com suporte a múltiplos paradigmas — incluindo programação
+procedural e orientada a objetos —, o PHP oferece recursos como
+tipagem dinâmica, arrays associativos, funções de manipulação de
+strings, integração nativa com bancos de dados e, a partir da
+versão 7, melhorias significativas de desempenho e sistema de
+tipos, como declarações de tipo escalar e o operador null
+coalescing.
+Considere o trecho de código PHP, a seguir.
+<?php
+function calcularDesconto(?float $preco, float $percentual = 10):
+float {
+$preco = $preco ?? 100.00;
+$desconto = $preco * ($percentual / 100);
+return $preco - $desconto;
+}
+echo calcularDesconto(200.00) . "\n";
+// Linha 1
+echo calcularDesconto(null, 25) . "\n"; // Linha 2
+echo calcularDesconto(null) . "\n";
+// Linha 3
+Considerando os recursos da linguagem PHP (versão 7 ou superior)
+e o comportamento padrão do código apresentado, assinale a
+afirmativa correta.
+(A) A Linha 1 exibirá o valor 180, pois o parâmetro $preco recebe
+200.00 e o parâmetro $percentual assume o valor padrão 10,
+resultando em um desconto de 10% aplicado sobre 200.
+(B) A Linha 2 gerará um erro fatal (TypeError), pois o PHP não
+permite que o valor null seja passado como argumento para
+parâmetros do tipo float, mesmo quando o tipo é precedido
+pelo operador ?.
+(C) O operador ?? (null coalescing) na expressão $preco ?? 100.00
+compara se o valor de $preco é igual a zero e, em caso
+afirmativo, substitui-o por 100.00, funcionando de forma
+idêntica ao operador de comparação ==.
+(D) A Linha 3 exibirá o valor 100, pois como $preco recebe null, o
+operador ?? o substitui por 100.00, e em seguida o parâmetro
+$percentual também será null por não ter sido informado,
+resultando em desconto zero.
+(E) A declaração ?float no parâmetro $preco indica que o
+parâmetro aceita exclusivamente valores do tipo string que
+possam ser convertidos para float em tempo de execução, não
+tendo qualquer relação com o valor null.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+53
+O Zend Framework é um framework PHP orientado a objetos que
+segue o padrão de arquitetura MVC (Model-View-Controller) e
+adota princípios como baixo acoplamento, reusabilidade e
+convenção sobre configuração.
+A partir de 2019, o projeto migrou para a comunidade open source
+sob o nome Laminas Project, mantendo a mesma arquitetura e os
+mesmos conceitos fundamentais. Entre seus principais
+componentes estão o sistema de módulos, o Service Manager
+(gerenciador de serviços baseado em injeção de dependências), o
+Event Manager e o sistema de rotas.
+Considere o seguinte trecho de código representando um
+controller em uma aplicação baseada no Zend Framework
+(ZF2/ZF3):
+<?php
+namespace Application\Controller;
+use Zend\Mvc\Controller\AbstractActionController;
+use Zend\View\Model\ViewModel;
+class ProdutoController extends AbstractActionController
+{
+private $produtoService;
+public function __construct(ProdutoService $produtoService)
+{
+$this->produtoService = $produtoService;
+}
+public function listarAction()
+{
+$produtos = $this->produtoService->buscarTodos();
+return new ViewModel([
+'produtos' => $produtos,
+]);
+}
+}
+
+TIPO 1 – PÁGINA 16
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+Considerando a arquitetura e os conceitos do Zend Framework
+(versões 2 e 3), e o funcionamento do framework, assinale a
+afirmativa correta.
+(A) A classe ProdutoController estende AbstractActionController,
+cujos métodos de ação seguem a convenção de nomenclatura
+com o sufixo Action (como listarAction). O framework utiliza
+essa convenção para mapear as rotas às ações
+correspondentes, de modo que o método listarAction será
+invocado quando a rota configurada apontar para a ação listar.
+(B) O objeto ViewModel retornado pelo método listarAction é
+responsável por executar as consultas SQL diretamente no
+banco de dados e armazenar os resultados, funcionando
+simultaneamente como camada de acesso a dados e como
+camada de apresentação.
+(C) A injeção de dependência de ProdutoService pelo construtor
+do controller é realizada automaticamente pelo PHP por meio
+do mecanismo nativo de autoload da linguagem, sem
+necessidade de configuração adicional no Service Manager do
+Zend Framework.
+(D) No Zend Framework, os controllers devem estender
+obrigatoriamente a classe AbstractRestfulController, pois o
+framework foi projetado exclusivamente para a construção de
+APIs RESTful, não suportando a renderização de páginas HTML
+por meio de views.
+(E) O array associativo ['produtos' => $produtos] passado ao
+ViewModel é utilizado exclusivamente para definir os
+cabeçalhos HTTP da resposta, sendo inacessível na camada de
+view (template) da aplicação.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+54
+O Drupal é um sistema de gerenciamento de conteúdo (CMS) de
+código aberto, desenvolvido em PHP, amplamente utilizado na
+construção de portais institucionais, sites governamentais e
+plataformas de conteúdo de grande escala. Sua arquitetura
+modular, baseada em um núcleo (core) extensível por módulos
+contribuídos e customizados, permite alto grau de personalização.
+Entre seus conceitos fundamentais estão os tipos de conteúdo
+(content types), a taxonomia, os blocos, as views, o sistema de
+permissões e papéis (roles) e o mecanismo de hooks e eventos
+para extensão de funcionalidades.
+Considere o seguinte cenário:
+Uma equipe de desenvolvimento está utilizando o Drupal (versão
+9 ou superior) para construir um portal institucional de um órgão
+público. O portal deverá publicar notícias, organizar conteúdos por
+categorias temáticas, controlar o acesso de diferentes perfis de
+usuários (editor, revisor e administrador) e exibir listagens
+dinâmicas de conteúdo filtradas por data e categoria.
+Considerando a arquitetura, os conceitos e os recursos do
+ambiente Drupal, assinale a afirmativa correta.
+(A) Os tipos de conteúdo (content types) no Drupal permitem
+definir estruturas personalizadas de dados — como "Notícia",
+"Evento" ou "Documento" — compostas por campos
+configuráveis (texto, imagem, data, referência a taxonomia,
+entre outros), e cada tipo de conteúdo pode possuir sua
+própria configuração de exibição e formulário de edição.
+(B) O sistema de taxonomia do Drupal funciona exclusivamente
+como mecanismo de navegação visual (menus), não sendo
+possível utilizá-lo para categorizar, filtrar ou agrupar
+conteúdos em listagens dinâmicas geradas pelo módulo Views.
+(C) O sistema de permissões do Drupal opera exclusivamente no
+nível global da aplicação, atribuindo acesso total ou nenhum
+acesso ao painel administrativo, sem possibilidade de
+configurar permissões granulares por funcionalidade, tipo de
+conteúdo ou papel (role) de usuário.
+(D) O módulo Views, presente no núcleo do Drupal a partir da
+versão 8, é utilizado exclusivamente para a criação de
+formulários de entrada de dados, não sendo capaz de gerar
+listagens, tabelas ou grades de conteúdo com filtros e
+ordenação.
+(E) No Drupal, toda a customização de funcionalidades deve ser
+realizada por meio de edição direta dos arquivos do núcleo
+(core), pois o sistema não dispõe de um mecanismo de
+módulos contribuídos ou customizados que permita estender
+o comportamento padrão sem alterar o código-fonte original.
+
+TIPO 1 – PÁGINA 17
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+55
+A arquitetura REST (Representational State Transfer), proposta por
+Roy Fielding, define um conjunto de restrições arquiteturais para
+o projeto de serviços web escaláveis, baseados no protocolo HTTP.
+Os serviços RESTful utilizam os métodos HTTP (GET, POST, PUT,
+PATCH, DELETE) como verbos de operação, URIs como
+identificadores de recursos, e códigos de status HTTP para
+comunicar o resultado das operações, promovendo
+interoperabilidade, desacoplamento entre cliente e servidor e
+navegabilidade entre recursos.
+Considere que uma equipe de desenvolvimento está projetando
+uma API RESTful para um sistema de gerenciamento de tarefas. A
+API deverá permitir as operações de criação, leitura, atualização
+completa, atualização parcial e exclusão de tarefas. A equipe
+definiu o recurso tarefa e precisa mapear corretamente os
+métodos HTTP, as URIs e os códigos de status de resposta.
+Considerando as restrições arquiteturais REST e as boas práticas
+de projeto de APIs RESTful, assinale a afirmativa correta.
+(A) O método HTTP POST /tarefas/15 é o método correto para
+recuperar uma tarefa específica, pois o POST é o único método
+HTTP capaz de transportar identificadores na URI e retornar
+dados no corpo da resposta.
+(B) O método HTTP GET /tarefas/15 é utilizado para recuperar a
+representação da tarefa com identificador 15, e a resposta
+bem-sucedida deve retornar o código de status 200 OK com os
+dados do recurso no corpo da resposta. O método GET é
+considerado seguro (safe) e idempotente, pois não altera o
+estado do recurso no servidor.
+(C) O método HTTP PUT /tarefas/15 é utilizado para aplicar
+modificações parciais em campos específicos da tarefa,
+enviando no corpo da requisição apenas os atributos que
+devem ser alterados, sem necessidade de enviar a
+representação completa do recurso.
+(D) O método HTTP DELETE /tarefas sem identificador específico é
+a forma recomendada pela arquitetura REST para excluir uma
+única tarefa, cabendo ao servidor identificar automaticamente
+qual recurso deve ser removido com base no conteúdo do
+cabeçalho User-Agent.
+(E) Na arquitetura REST, os serviços devem obrigatoriamente
+manter o estado da sessão do cliente no servidor (stateful)
+entre requisições consecutivas, armazenando informações
+como autenticação e contexto de navegação em variáveis de
+sessão no lado do servidor.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+56
+Uma equipe de desenvolvimento integrou ao pipeline de
+DevSecOps uma ferramenta de análise de código-fonte capaz de
+identificar vulnerabilidades de segurança sem executar a
+aplicação.
+Durante a análise, a ferramenta identificou o seguinte trecho de
+código PHP como potencialmente vulnerável:
+<?php
+$usuario = $_GET['user'];
+$query = "SELECT * FROM usuarios WHERE nome = '$usuario'";
+$resultado = mysqli_query($conexao, $query);
+?>
+Considerando o cenário apresentado, assinale a opção que
+descreve corretamente a atuação da ferramenta utilizada.
+(A) A ferramenta executa a aplicação em tempo de execução para
+identificar falhas relacionadas ao uso de entradas do usuário.
+(B) A ferramenta realiza análise dinâmica, enviando entradas
+maliciosas para verificar como o sistema responde às
+instruções construídas.
+(C) A ferramenta identifica padrões inseguros no código-fonte,
+como o uso direto de entradas externas na construção de
+instruções, sem necessidade de execução.
+(D) A ferramenta monitora o comportamento da aplicação em
+execução, analisando como entradas do usuário afetam os
+registros de log.
+(E) A ferramenta realiza testes automatizados explorando
+possíveis falhas decorrentes do uso de entradas do usuário na
+aplicação.
+57
+Uma consultoria foi contratada para auditar a infraestrutura de
+integração de uma sociedade empresária que adota arquiteturas
+orientadas a serviços. Durante a análise, o auditor encontrou as
+seguintes descrições em um documento da equipe técnica:
+- "usamos um diretório para que novos sistemas consigam localizar
+automaticamente os serviços disponíveis";
+- "cada serviço expõe sua especificação em um documento que
+outros sistemas leem para saber como invocá-lo".
+Considerando os padrões adotados em uma arquitetura SOA, as
+duas
+funcionalidades
+descritas
+são
+desempenhadas,
+respectivamente, por
+(A) UDDI e WSDL.
+(B) WSDL e UDDI.
+(C) UDDI e SOAP.
+(D) SOAP e WSDL.
+(E) WSDL e SOAP.
+
+TIPO 1 – PÁGINA 18
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+58
+Uma organização migrou sua aplicação de um modelo monolítico
+para uma arquitetura distribuída. O novo ambiente conta com um
+componente A, que atua como ponto de entrada das requisições
+dos clientes web e as encaminha ao componente B, responsável
+por processar transações, validar regras de negócio e coordenar o
+acesso ao banco de dados.
+Considerando as características técnicas típicas de cada
+componente, assinale a afirmativa correta.
+(A) O componente A é tipicamente responsável pela entrega de
+conteúdo estático e pela terminação SSL, enquanto B
+tipicamente hospeda e executa a lógica de negócio da
+aplicação.
+(B) O componente A tipicamente gerencia transações ACID e pool
+de conexões com o banco de dados, enquanto B tipicamente
+atua como proxy reverso para balanceamento de carga.
+(C) O componente B tipicamente processa páginas dinâmicas e
+gera conteúdo estático, enquanto A tipicamente coordena a
+comunicação entre componentes distribuídos.
+(D) O componente A tipicamente executa lógica de negócio da
+aplicação em um ambiente de runtime, enquanto B
+tipicamente gerencia exclusivamente a entrega de conteúdo
+estático.
+(E) O componente B tipicamente implementa filas de mensageria
+para comunicação assíncrona, enquanto A tipicamente traduz
+mensagens entre protocolos de rede distintos.
+59
+Durante a revisão de uma arquitetura, um arquiteto de software
+analisa duas abordagens para estruturação de uma aplicação
+corporativa:
+
+a Proposta A usa uma abordagem em que todo o
+processamento de regras de negócio e acesso a dados ocorre
+no lado do servidor, e o lado do cliente recebe apenas páginas
+renderizadas;
+ a Proposta B adota um modelo em que parte significativa da
+lógica de negócio é executada diretamente no navegador do
+usuário, com o servidor funcionando basicamente como uma
+camada de persistência e serviços.
+Sobre a classificação dessas propostas quanto à arquitetura de três
+camadas, assinale a afirmativa correta.
+(A) A Proposta A é incompatível com a arquitetura de três
+camadas, pois exige que toda a lógica resida no cliente.
+(B) A Proposta B é compatível com a arquitetura de três camadas,
+pois distribui corretamente a lógica entre apresentação e
+negócio.
+(C) A Proposta A é compatível com a arquitetura de três camadas,
+e a Proposta B aproxima-se de uma arquitetura em que a
+separação entre camadas de apresentação e lógica de negócio
+é comprometida.
+(D) A Proposta A viola a arquitetura de três camadas, pois mantém
+a lógica de negócio no servidor web em vez do servidor de
+aplicações.
+(E) A Proposta B atende aos princípios da arquitetura de três
+camadas, uma vez que o servidor de persistência e serviços
+constitui a camada de dados.
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+60
+Em uma arquitetura de aplicação web com frontend e backend
+desacoplados, a comunicação entre as camadas é realizada
+exclusivamente por requisições HTTP a uma API RESTful.
+Devido a requisitos de segurança e experiência do usuário, a
+equipe de desenvolvimento precisa garantir que falhas críticas no
+processamento do servidor (erros da classe 5xx) não exponham
+informações técnicas do ambiente ou páginas padrão do servidor
+web.
+Com base nesse contexto, avalie as afirmativas a seguir.
+I. Uma possível solução é configurar o servidor web como proxy
+reverso para interceptar respostas de erro 5xx provenientes do
+backend e retornar, em seu lugar, uma resposta padronizada
+ao cliente.
+II. O frontend pode ser o responsável por capturar o código de
+status da resposta HTTP e decidir a forma de apresentação da
+falha, garantindo que a aplicação cliente mantenha o controle
+do fluxo de navegação.
+III. O tratamento de erros deve ser delegado integralmente ao
+servidor web, para que o desacoplamento entre as camadas
+seja preservado e o frontend permaneça agnóstico às falhas
+ocorridas no backend.
+Está correto o que se afirma em
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) I e III, apenas.
+
+TIPO 1 – PÁGINA 19
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+Prova Discursiva
+1
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+
+TIPO 1 – PÁGINA 20
+O Ministério Público do Estado do Espírito Santo (MPES) está modernizando o módulo de cadastro do Painel de Acompanhamento Processual,
+que deverá ser responsivo (abordagem mobile-first) e seguir boas práticas de desenvolvimento front-end com HTML5, CSS3, Bootstrap e
+JavaScript (ES6+).
+Durante revisão técnica, foi localizado o seguinte trecho de código:
+<html>
+<head>
+<title>Cadastro de Movimentação</title>
+</head>
+<body>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="col-md-12">
+<input type="text" id="email" style="width:300px;">
+<button onclick="salvar()">Salvar</button>
+</div>
+</div>
+</div>
+</div>
+<script>
+function salvar() {
+var v = document.getElementById('email').value;
+if (v == '') alert('Informe o e-mail');
+}
+</script>
+</body>
+</html>
+Considerando o cenário de modernização do sistema e o trecho de código apresentado, elabore um texto dissertativo no qual você atue
+como desenvolvedor responsável pela manutenção e melhoria de código front-end.
+Em sua resposta, para cada um dos eixos a seguir, identifique e corrija pelo menos uma não conformidade técnica presente no código:
+a. HTML5 (estrutura do documento e boas práticas semânticas);
+b. CSS3 (incluindo princípios de responsividade);
+c. Bootstrap (uso adequado do sistema de grid e dos componentes); e
+d. JavaScript (boas práticas de ES6+, validação e manipulação do DOM).
+Para cada eixo, explique por que a situação identificada configura uma não conformidade e indique a respectiva correção, fundamentando
+sua resposta nas boas práticas de desenvolvimento front-end e de qualidade de código.
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+
+TIPO 1 – PÁGINA 21
+1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+2
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+
+TIPO 1 – PÁGINA 22
+Uma equipe mantém um sistema web de cadastro de clientes estruturado em arquitetura de três camadas, composta por uma aplicação
+front-end, uma API HTTP e um banco de dados relacional.
+De acordo com a documentação técnica do sistema, a API deve seguir o estilo REST, expondo recursos por meio de URLs, utilizando os
+métodos HTTP compatíveis com cada operação realizada e retornando as representações dos dados em formato JSON.
+Durante uma auditoria técnica, foram identificados os seguintes achados relacionados à implementação da API:
+● os endpoints de clientes estão definidos como /clientes/cadastrar/clientes/atualizar e /clientes/{id}, utilizando o método POST para
+operações de cadastro, atualização e exclusão, com o envio dos dados no corpo da requisição quando necessário;
+● os endpoints de consulta de clientes utilizam o método GET, com filtros enviados como parâmetros na URL e retornam listas
+paginadas em formato JSON;
+● os endpoints de cadastro de clientes validam os dados recebidos antes da persistência e retornam respostas em JSON contendo
+mensagens associadas aos campos inválidos; e
+● nos endpoints de cadastro de clientes, quando um dado obrigatório do formulário é enviado em formato inválido, a API retorna
+uma resposta com código de status 200, cujo corpo em JSON informa que a operação não foi concluída e apresenta uma mensagem
+de erro.
+Com base nos achados apresentados, responda aos itens a seguir:
+a. Identifique quais dos achados estão em desacordo com o estilo arquitetural REST adotado pela API;
+b. Para cada não conformidade identificada, explique por que ela viola os princípios do REST; e
+c. Apresente os ajustes tecnicamente adequados para corrigir as não conformidades apontadas, considerando uma API que se
+comunica em JSON.
+
+MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+AGENTE TÉCNICO - DESENVOLVEDOR - MANHÃ
+
+TIPO 1 – PÁGINA 23
+1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Realização

@@ -1,0 +1,18 @@
+ID: 73-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao analisar uma conexão HTTP não persistente, constatou-se o acesso ao endereço http://www.highschool.edu/departamentos/home.index. Uma das etapas da transferência dessa página do servidor para o cliente está corretamente descrita na seguinte alternativa:
+
+[ALTERNATIVAS]
+(A) cliente HTTP envia uma mensagem de download HTTP ao servidor por meio do socket do servidor. Essa mensagem inclui o nome de caminho /departamentos/home.index;
+(B) processo servidor HTTP ordena ao TCP que encerre a conexão TCP. Mas, na realidade, o TCP só a encerrará quando tiver certeza de que o cliente recebeu a mensagem de resposta intacta;
+(C) processo cliente HTTP inicia uma conexão TCP para o servidor www.highschool.edu na porta número 90, que é o número de porta default para o HTTP. Associados à conexão UDP, haverá um socket no cliente e um socket no servidor;
+(D) cliente TCP recebe a mensagem de resposta e a conexão TCP é encerrada. A mensagem indica que o objeto encapsulado é um arquivo HTTP. O cliente extrai o arquivo da mensagem de resposta, analisa o arquivo HTML e encontra referências aos objetos JPEG;
+(E) processo servidor HTML solicita a mensagem de requisição por meio de seu socket, extrai o objeto /departamentos/home.index de seu armazenamento (RAM ou disco), encapsula-o em uma mensagem de resposta HTML e a envia ao cliente HTTP.
+
+[GABARITO]
+B

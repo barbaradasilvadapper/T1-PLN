@@ -1,0 +1,18 @@
+ID: 28-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No PostgreSQL, para fazer o backup de um banco de dados, deve-se utilizar a ferramenta:
+
+[ALTERNATIVAS]
+(A) psql;
+(B) pg_dump;
+(C) pg_restore;
+(D) pgAdmin;
+(E) Createdb.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 14-044
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+XSLT 2.0 é uma linguagem baseada em folhas de estilo capazes de transformar documentos XML em outros documentos XML. Os modelos de dados usados pelo XSLT 2.0 são
+
+[ALTERNATIVAS]
+(A) CSS, XML e JSON.
+(B) XHTML 5.0 e SVG 3.0.
+(C) SQL, NewSQL e NoSQL.
+(D) XPath 2.0 e XQuery 1.0.
+(E) CSS 2.0 e XMLSchema 1.0.
+
+[GABARITO]
+D

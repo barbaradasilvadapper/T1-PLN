@@ -1,0 +1,18 @@
+ID: 17-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Júlia é a administradora do banco de dados da empresa KASA, onde será implantado o novo sistema estratégico da empresa, para fornecimento de relatórios gerenciais em tempo real. No sistema antigo, o perfil GERENTE permitia acesso aos dados operacionais, para que eles fossem tratados em planilhas, mas agora os relatórios serão gerados a partir de visualizações específicas, diretamente na nova ferramenta. Para impedir o acesso aos dados operacionais e permitir o acesso às novas visualizações, Júlia utilizou, respectivamente, os comandos:
+
+[ALTERNATIVAS]
+(A) Drop e Create;
+(B) Delete e Insert;
+(C) Rollback e Commit;
+(D) Revoke e Grant;
+(E) Alter e Use.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 56-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Durante a implementação de uma infraestrutura de rede altamente segura para uma organização governamental, o analista Zoroastro se depara com um grande desafio. A complexidade do projeto exige uma compreensão profunda da Arquitetura TCP/IP, especialmente no que tange à otimização do tráfego e à segurança dos dados. Nesse contexto, é correto afirmar, acerca da função do protocolo ICMP (Internet Control Message Protocol) escolhida por Zoroastro, que ele:
+
+[ALTERNATIVAS]
+(A) é primariamente utilizado para a transmissão de dados em tempo real, como chamadas de voz e vídeo;
+(B) é responsável pela retransmissão de pacotes perdidos durante a transmissão de dados;
+(C) é usado para a alocação dinâmica de endereços IP dentro de uma rede;
+(D) permite a fragmentação e remontagem de pacotes de dados para eficiência no roteamento;
+(E) é utilizado para diagnóstico e geração de mensagens de erro na rede.
+
+[GABARITO]
+E

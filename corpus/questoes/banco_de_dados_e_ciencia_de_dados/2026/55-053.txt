@@ -1,0 +1,18 @@
+ID: 55-053
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No desenvolvimento de soluções de Business Intelligence, a modelagem dimensional é amplamente utilizada para organizar os dados de forma a facilitar a análise e a performance de consultas. Sobre os conceitos e as componentes dessa técnica de modelagem, analise as afirmativas a seguir. I. As tabelas fato são projetadas para armazenar métricas quantitativas resultantes de processos ou eventos de negócio. II. As tabelas dimensão fornecem o contexto necessário para os fatos, contendo atributos descritivos. III. A modelagem dimensional baseia-se na normalização extensiva de suas tabelas como princípio de organização dos dados.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

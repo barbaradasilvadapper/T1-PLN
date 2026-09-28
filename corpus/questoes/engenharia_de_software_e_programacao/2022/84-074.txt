@@ -1,0 +1,18 @@
+ID: 84-074
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código a seguir em linguagem de programação Java: Ao executar esse programa em um terminal, será escrito na saída padrão:
+
+[ALTERNATIVAS]
+(A) x = 2
+(B) x = 3
+(C) x = 4
+(D) x = 5
+(E) x = 6 FGV
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 40-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Dado o endereço IPv4: 10.2.3.4/25, o endereço de broadcast nesta rede é:
+
+[ALTERNATIVAS]
+(A) 10.2.3.0;
+(B) 10.2.3.127;
+(C) 10.2.3.198;
+(D) 10.2.3.255;
+(E) 10.2.3.256.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 28-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo IPSec pode ser usado em dois modos distintos: de transporte e túnel. Uma característica desse protocolo é que no modo:
+
+[ALTERNATIVAS]
+(A) transporte, o cabeçalho IPSec é inserido antes do cabeçalho IP;
+(B) transporte, o cabeçalho IP é mantido inalterado;
+(C) transporte, o cabeçalho IPSec substitui o cabeçalho IP;
+(D) túnel, o cabeçalho IPSec substitui o cabeçalho IP;
+(E) túnel, o cabeçalho IP é completamente novo.
+
+[GABARITO]
+E

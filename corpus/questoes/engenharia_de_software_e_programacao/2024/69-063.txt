@@ -1,0 +1,18 @@
+ID: 69-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação aos testes de software, avalie as afirmativas a seguir e assinale V para a afirmativa verdadeira e F para a falsa. ( ) Testes unitários são aqueles que testam os métodos de uma classe de produção, são feitos de forma automatizada, podem ser executados pressionando um botão e não exigem necessariamente nenhum conhecimento do sistema em geral. ( ) Testes funcionais validam o sistema de software em relação aos requisitos/especificações funcionais, se concentram na simulação do uso real do software e podem ser automatizados como testes de aceitação, por meio de ferramentas como Selenium. ( ) Testes de integração garantem, de modo independente e determinístico, que os componentes em análise realmente produzem o comportamento esperado quando se executa a verificação de partes maiores do sistema que dependem de recursos externos, e, quando envolverem acesso à banco de dados precisam garantir o seu estado somente após sua execução.
+
+[ALTERNATIVAS]
+(A) F – F – F.
+(B) V – F – F.
+(C) V – V – F.
+(D) F – V – V.
+(E) V – V – V.
+
+[GABARITO]
+C

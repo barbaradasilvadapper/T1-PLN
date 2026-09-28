@@ -1,0 +1,18 @@
+ID: 86-064
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A respeito da técnica de mapeamento de processo As-IS, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Demonstra a situação atual dos processos organizacionais.
+(B) Busca indicadores para aperfeiçoamento de processos.
+(C) Implementa uma modelagem técnica de processo.
+(D) Coloca em prática um modelo de processo.
+(E) Redesenha o processo.
+
+[GABARITO]
+A

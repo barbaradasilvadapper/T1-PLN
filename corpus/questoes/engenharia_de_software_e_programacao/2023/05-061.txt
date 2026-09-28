@@ -1,0 +1,18 @@
+ID: 05-061
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Ana está implementando um sistema de comércio eletrônico e agora está definindo a operação de pagamento para a compra, podendo aceitar cartão de crédito, PIX ou boleto. Como a ação de pagamento envolve apenas a conciliação do valor final da compra, mas segundo diferentes meios de pagamento, Ana, com o objetivo de organizar seu código, permitiu a escolha do meio de pagamento por intermédio do padrão:
+
+[ALTERNATIVAS]
+(A) State;
+(B) Interpreter;
+(C) Prototype;
+(D) Memento;
+(E) Strategy.
+
+[GABARITO]
+E

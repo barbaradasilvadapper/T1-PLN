@@ -1,0 +1,18 @@
+ID: 45-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Para incrementar o processo de autenticação em seus sistemas, um órgão está adotando uma solução de multifator de autenticação. Esse tipo de autenticação é implementado em camadas, utilizando vários fatores de autenticação. O fator de posse do usuário, ou seja, aquilo que ele tem, pode ser implementado com:
+
+[ALTERNATIVAS]
+(A) senha complexa;
+(B) single sign-on (SSO);
+(C) pergunta pessoal;
+(D) senhas de uso único (One-Time Password – OTP);
+(E) biometria.
+
+[GABARITO]
+D

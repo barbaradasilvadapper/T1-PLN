@@ -1,0 +1,18 @@
+ID: 42-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma empresa aplicando a norma NIST SP 800-61 para tratamento e gerência de respostas a incidentes, precisa definir as regras para priorizar o tratamento do incidente. De acordo com essa norma, um dos fatores de relevância para determinar essa prioridade diz respeito ao tamanho do incidente e o tipo de recursos que ele afeta, influenciando na quantidade de tempo e recursos que deverão ser gastos no restabelecimento ao normal, por conta desse incidente. Esse fator é
+
+[ALTERNATIVAS]
+(A) a sinalização de incidentes.
+(B) a recuperabilidade do incidente.
+(C) a preparação contra os incidentes.
+(D) o impacto da informação envolvida.
+(E) a funcionalidade envolvida no incidente.
+
+[GABARITO]
+B

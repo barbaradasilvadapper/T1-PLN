@@ -1,0 +1,18 @@
+ID: 16-038
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A virtualização permite a execução de múltiplos sistemas operacionais em um mesmo hardware físico, otimizando o uso dos recursos computacionais. Com a evolução dessa tecnologia, surgiram abordagens mais eficientes, como a virtualização baseada em contêineres, que permite a execução de aplicações de forma isolada e portátil em diferentes ambientes computacionais. Considerando o uso da tecnologia Docker no contexto da virtualização por contêineres, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Os dados armazenados em contêineres Docker são automaticamente mantidos, independentemente de qualquer configuração adicional, mesmo após o encerramento do contêiner.
+(B) A tecnologia Docker permite executar aplicações em contêineres que compartilham o kernel do sistema operacional do host, tornando sua execução mais leve que máquinas virtuais.
+(C) O uso de mecanismos de armazenamento de dados compartilhados elimina o isolamento entre contêineres, fazendo com que passem a funcionar como uma única unidade.
+(D) Os contêineres Docker não permitem o compartilhamento de dados entre si, em razão do isolamento proporcionado pelo sistema operacional.
+(E) Os bind mounts são gerenciados pelo Docker de forma independente da estrutura de diretórios do sistema hospedeiro.
+
+[GABARITO]
+B

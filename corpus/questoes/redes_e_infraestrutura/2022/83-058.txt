@@ -1,0 +1,18 @@
+ID: 83-058
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A infraestrutura recomendada para instalar o Rancher em um cluster Kubernetes K3 de alta disponibilidade é
+
+[ALTERNATIVAS]
+(A) dois nós Linux, normalmente máquina virtual, e um banco de dados externo do tipo NoSQL.
+(B) um cluster com Linux com menos dois nós ou quatro nós se Windows Server normalmente máquinas virtuais; com pelos menos 64 GB de memória RAM no provedor de infraestrutura e um banco de dados externo do tipo NoSQL.
+(C) um cluster com Linux de dois nós normalmente máquinas virtuais; com pelos menos 48 GB de memória RAM no provedor de infraestrutura.
+(D) dois nós Linux, normalmente máquinas virtuais; um banco de dados externo do tipo relacional, um balanceador de carga e um registro DNS.
+(E) quatro nós Windows Server, normalmente máquinas virtuais; um banco de dados externo do tipo relacional, um balanceador de carga entre os quatro nós e dois registros DNS como redundância.
+
+[GABARITO]
+D

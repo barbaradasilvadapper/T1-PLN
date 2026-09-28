@@ -1,0 +1,18 @@
+ID: 18-044
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+anteriormente, analise o comando SQL a seguir. delete from Competidor where (select sum(1) from Disputa d where d.azul = Nome) < (select sum(1) from Disputa d where d.verde = Nome) O número de linhas removidas na execução do comando acima é:
+
+[ALTERNATIVAS]
+(A) 6;
+(B) 4;
+(C) 2;
+(D) 1;
+(E) 0.
+
+[GABARITO]
+D

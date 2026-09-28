@@ -1,0 +1,18 @@
+ID: 39-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Segundo o algoritmo adotado pelo Sistema de Pagamentos Brasileiro (SPB), transações do tipo DOC ou TED utilizam arquivos XML criptografados no modo simétrico, as quais são enviadas para o receptor em pacotes que incluem o wrap, ou encapsulamento, da chave simétrica com a chave pública do receptor e assinatura com a chave privada do emissor. Chaves do tipo 3DES eram utilizadas para a criptografia simétrica, mas foram descobertas fragilidades. Para substituir o 3DES, sem perda de funcionalidade e de forma mais segura, pode ser utilizado o algoritmo:
+
+[ALTERNATIVAS]
+(A) RSA;
+(B) AES;
+(C) DES;
+(D) SHA-256;
+(E) DSA.
+
+[GABARITO]
+B

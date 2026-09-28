@@ -1,0 +1,18 @@
+ID: 55-060
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considerando os modelos de serviço em computação em nuvem — também denominados modelos de entrega de nuvem ou modelos de entrega de serviços em nuvem —, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Um provedor de nuvem pode oferecer serviços conforme os modelos IaaS, PaaS ou SaaS, os quais possuem escopos exclusivos e não relacionados entre si.
+(B) O modelo IaaS oferece um serviço pronto para uso, cuja configuração não é facultada ao consumidor.
+(C) O consumidor de nuvem em um modelo PaaS possui acesso integral aos recursos de TI.
+(D) O modelo SaaS permite a oferta de um serviço reutilizável.
+(E) Em ambos os modelos, PaaS e SaaS, o provedor de nuvem fornece acesso à infraestrutura física aos consumidores.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 56-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+William está trabalhando com a base de dados de uma clínica, onde estão presentes as entidades descritas a seguir. Paciente (Id: Integer PK, Nome: Varchar(50)) Medico (Id: Integer PK, Nome: Varchar(50)) Atendimento (Id: Integer PK, IdPaciente: Integer FK(Paciente), IdMedico: Integer FK(Medico), Data: Date) Para que William obtenha os nomes dos pacientes que foram tratados por todos os médicos, a instrução SQL a ser utilizada é:
+
+[ALTERNATIVAS]
+(A) select p.nome from paciente p, atendimento a where a.idpaciente = p.id and a.idmedico = all (select id from medico);
+(B) select p.nome from paciente p where not exists ( select id from medico m where id not in ( select idmedico from atendimento where idpaciente = p.id));
+(C) select p.nome from paciente p where exists ( select idmedico from atendimento where idpaciente = p.id);
+(D) select p.nome from paciente p, atendimento a where a.idpaciente=p.id group by p.nome having count(*) = (select count(*) from medico);
+(E) select p.nome from paciente p, atendimento a where a.idpaciente = p.id and a.idmedico = any (select id from medico);
+
+[GABARITO]
+B

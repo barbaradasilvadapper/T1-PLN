@@ -1,0 +1,18 @@
+ID: 68-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Sobre a biblioteca de Javascript React, assinale a afirmativa incorreta.
+
+[ALTERNATIVAS]
+(A) React permite que a interface do usuário seja construída por meio de componentes reutilizáveis
+(B) React manipula os objetos DOM reais do navegador diretamente, melhorando o desempenho das atualizações na interface do usuário.
+(C) React Props são como argumentos de função em JavaScript e atributos em HTML
+(D) JSX facilita a escrita e a adição de HTML no React
+(E) o React renderiza HTML para a página da web usando uma função chamada createRoot() e seu método render()
+
+[GABARITO]
+B

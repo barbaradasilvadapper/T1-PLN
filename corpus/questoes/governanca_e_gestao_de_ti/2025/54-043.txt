@@ -1,0 +1,18 @@
+ID: 54-043
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+ITIL visa garantir uma gestão eficaz de processos e uma boa experiência para os clientes. As dimensões de gerenciamento de serviços do ITL são importantes para a entrega de valor ao cliente e para a gestão de serviços de TI. Relacione as quatro dimensões elencadas a seguir às suas respectivas aplicações. 1. Organizações e pessoas. 2. Informação e tecnologias. 3. Parceiros e fornecedores. 4. Fluxos de valor e processos. ( ) Essa dimensão trata do modo como as informações são trocadas entre diferentes serviços e componentes. A arquitetura de informação dos serviços precisa ser bem compreendida e continuamente otimizada, levando em consideração critérios como disponibilidade, confiabilidade, acessibilidade, pontualidade, precisão e relevância das informações fornecidas aos usuários e trocadas entre serviços. ( ) Essa dimensão é aplicável tanto ao ITIL service value system (SVS), quanto a produtos e serviços específicos. Em ambos os contextos, ela define as atividades, controles e procedimentos necessários para atingir os objetivos acordados. ( ) Essa dimensão trata do modo como as relações entre organizações podem envolver vários níveis de integração e formalidade. Ela pode variar de contratos formais com clara separação de responsabilidades, até parcerias flexíveis nas quais as partes compartilham objetivos e riscos e colaboram para alcançar os resultados desejados. ( ) Essa dimensão abrange funções e responsabilidades, organização formal estruturas, cultura e pessoal e competências necessários, todos relacionados à criação, entrega, e melhoria de um serviço. A relação correta, na ordem apresentada, é:
+
+[ALTERNATIVAS]
+(A) 3 – 4 – 1 – 2.
+(B) 2 – 4 – 3 – 1.
+(C) 3 – 2 – 4 – 1.
+(D) 4 – 1 – 2 – 3.
+(E) 1 – 3 – 4 – 2.
+
+[GABARITO]
+B

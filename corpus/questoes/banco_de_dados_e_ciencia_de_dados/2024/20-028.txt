@@ -1,0 +1,18 @@
+ID: 20-028
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe o seguinte trecho de um script SQL: START TRANSACTION; INSERT INTO tabA(coluna1) VALUES(1); Para que o resultado da execução do comando INSERT, no MySQL, seja persistido no banco de dados, o script apresentado deve terminar com o comando:
+
+[ALTERNATIVAS]
+(A) SET
+(B) BEGIN
+(C) COMMIT
+(D) ROLLBACK
+(E) SAVEPOINT
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 16-059
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O sistema e-Gampes (Sistema de Gestão de Autos) do MPES é a principal ferramenta de gestão de autos finalísticos. Ele digitalizou o fluxo de trabalho extrajudicial (inquéritos civis, notícias de fato), eliminando o uso de papel e proporcionando agilidade, segurança e transparência na tramitação. Nele é possível cadastrar, alterar e excluir autos, executar relatórios analíticos e listar os autos cadastrados em uma consulta simples. Com base na Análise de Pontos de Função (APF), as funcionalidades citadas acima serão contadas, respectivamente, como
+
+[ALTERNATIVAS]
+(A) Entrada Externa, Saída Externa e Consulta Externa.
+(B) Saída Externa, Consulta Externa e Arquivo de Interface Externo.
+(C) Saída Externa, Saída Externa e Consulta Externa.
+(D) Arquivo Lógico Interno, Consulta Externa e Entrada Externa.
+(E) Entrada Externa, Saída Externa e Saída Externa.
+
+[GABARITO]
+A

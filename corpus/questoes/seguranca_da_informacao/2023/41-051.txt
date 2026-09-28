@@ -1,0 +1,18 @@
+ID: 41-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Laura, especialista em segurança da informação, foi contratada para palestrar sobre criptografia. Dentre os tópicos mais importantes, Laura afirma que alguns dos componentes básicos da criptografia simétrica são:
+
+[ALTERNATIVAS]
+(A) chave pública, assinatura digital e chave secreta;
+(B) dados cifrados de saída, chave pública e algoritmo de cifração;
+(C) assinatura digital, algoritmo de decifração e dados cifrados de saída;
+(D) dados originais de entrada, chave secreta e algoritmo de cifração;
+(E) dados originais de entrada, assinatura digital e algoritmo de decifração.
+
+[GABARITO]
+D

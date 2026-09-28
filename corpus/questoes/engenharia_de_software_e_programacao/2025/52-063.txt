@@ -1,0 +1,18 @@
+ID: 52-063
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Scrum é um framework leve baseado em empirismo que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos. Sobre o Scrum, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) No início da Sprint, é realizada uma reunião para planejar o novo ciclo, cabendo à equipe determinar quanto trabalho acredita ser capaz de executar durante a Sprint. ( ) Criar e comunicar claramente os itens do Product Backlog é uma tarefa do Scrum Master. ( ) Os membros de um time Scrum são autogerenciáveis, decidindo internamente quem faz o quê, quando e como.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) F – F – V.
+(C) V – F – F.
+(D) V – V – V.
+(E) F – V – F.
+
+[GABARITO]
+A

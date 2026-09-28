@@ -1,0 +1,18 @@
+ID: 92-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+José é administrador de um servidor web Apache e percebeu que os visitantes podem visualizar a lista de diretórios disponíveis ao acessar a URL raiz do site. Com base nesse contexto, a diretiva do Apache que deve ser configurada para desativar a exibição dos diretórios é:
+
+[ALTERNATIVAS]
+(A) Options +Indexes
+(B) Options -Indexes
+(C) DisableIndexes ON
+(D) DisableIndexes OFF
+(E) DenyIndexes FGV
+
+[GABARITO]
+B

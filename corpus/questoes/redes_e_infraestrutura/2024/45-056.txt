@@ -1,0 +1,18 @@
+ID: 45-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao conectar uma máquina a uma rede, foram observadas as seguintes etapas no processo de configuração automática de endereço IP via DHCP: I. o cliente DHCP envia a primeira mensagem dentro de um pacote UDP para a porta 67; II. o servidor DHCP que recebe essa mensagem responde ao cliente com uma mensagem, transmitida por difusão para todos os nós presentes na sub-rede, utilizando o endereço IP de transmissão 255.255.255.255; III. o cliente DHCP recém-conectado escolhe uma dentre uma ou mais ofertas recebidas do servidor e responde com uma mensagem, repetindo os parâmetros de configuração oferecidos; IV. para finalizar, o servidor responde à mensagem de requisição DHCP do cliente, confirmando os parâmetros requisitados. Com base na descrição acima, a alternativa que identifica corretamente as mensagens citadas, respectivamente, nos itens I e III é:
+
+[ALTERNATIVAS]
+(A) DHCPACK e DHCPREQUEST;
+(B) DHCPACK e DHCPCHOOSE;
+(C) DHCPDHELLO e DHCPOFFER;
+(D) DHCPDISCOVER e DHCPCHOOSE;
+(E) DHCPDISCOVER e DHCPREQUEST.
+
+[GABARITO]
+E

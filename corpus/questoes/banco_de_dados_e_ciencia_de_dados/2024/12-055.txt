@@ -1,0 +1,18 @@
+ID: 12-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um banco de dados projetado para apoiar a tarefa de alocação automática de analistas para os processos recém inseridos no sistema. O modelo relacional especificado e implementado restringe a alocação de processos apenas a analistas disponíveis no departamento. Caso haja tentativa de inserção de nome fora da lista de valores já registrados, a transação não será completada, ou seja, nenhum valor será inserido. Selecione a alternativa que contém duas propriedades de transação aplicáveis ao cenário acima.
+
+[ALTERNATIVAS]
+(A) Atomicidade e Consistência.
+(B) Consistência e Durabilidade.
+(C) Durabilidade e Segurança.
+(D) Isolamento e Segurança.
+(E) Isolamento e Consistência.
+
+[GABARITO]
+A

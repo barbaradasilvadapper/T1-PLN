@@ -1,0 +1,18 @@
+ID: 71-079
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A abordagem de privacidade desde a concepção (Privacy by Design), criada na década de 90 por Ann Cavoukian, enfatiza a importância de considerar a privacidade desde o início de um projeto. Ela enuncia segurança da informação de forma explícita e se diferencia da privacidade por padrão (Privacy by default), que corresponde a apenas um dos princípios que norteiam a abordagem. Com relação à Privacy by Design e o princípio de Privacy by default, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) A Privacy by Design representa um conjunto de boas práticas que visam garantir a privacidade e proteção dos titulares e suas informações desde a concepção e durante o início do ciclo de vida do projeto, sistema, serviço, produto ou processo. ( ) A Privacy by Default busca garantir que dados pessoais sejam protegidos automaticamente com grau básico de privacidade, sem qualquer ação por parte do titular, pois ela já estará embutida no sistema, por padrão nos sistemas de TI ou práticas de negócio ( ) Em atendimento à Lei Geral de Proteção de Dados Pessoais (LGPD) as instituições, públicas e privadas, devem adotar metodologias de implementação de medidas proativas, como Privacy by Design e, como consequência, adotar práticas de proteção de dados pessoais como padrão dos sistemas de TI ou práticas de negócio, conforme o princípio Privacy by Default.
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) F – V – V.
+(C) V – V – V.
+(D) F – F – V.
+(E) F – F – F.
+
+[GABARITO]
+D

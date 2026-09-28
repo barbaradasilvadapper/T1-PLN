@@ -1,0 +1,18 @@
+ID: 36-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O analista Mário está utilizando a Biblioteca ITIL para melhorar a prestação de serviços de tecnologia da informação do MPU, começando pelo atendimento ao usuário. De acordo com a Biblioteca ITIL versão 4, para que haja um ponto de comunicação entre o provedor de serviço e todos os seus usuários, deve-se implementar um service:
+
+[ALTERNATIVAS]
+(A) desk;
+(B) request;
+(C) portfolio;
+(D) value system (SVS);
+(E) level agreement (SLA).
+
+[GABARITO]
+A

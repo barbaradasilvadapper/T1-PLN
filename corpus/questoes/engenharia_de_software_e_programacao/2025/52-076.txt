@@ -1,0 +1,18 @@
+ID: 52-076
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte trecho de código Python utilizado por um analista de dados em um projeto de análise de churn de clientes: --import pandas as pd import numpy as np df = pd.read_csv("clientes.csv") df["tempo_contrato"].fillna(df["tempo_contrato"].median(), inplace=True) df["idade_faixa"] = pd.cut(df["idade"], bins=[0, 25, 40, 60, np.inf], labels=["Jovem", "Adulto", "Meia-idade", "Idoso"]) df["score_normalizado"] = (df["score_credito"] - df["score_credito"].mean()) / df["score_credito"].std() df_churn = df[df["churn"] == 1].groupby("idade_faixa")["tempo_contrato"].mean() --- Com base no código acima, e nos conceitos de Pandas e análise de dados, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o código utiliza fillna() para substituir valores ausentes por zero, o que pode enviesar a distribuição dos dados.
+(B) a função cut() cria intervalos categóricos baseados na variável score_credito e substitui valores ausentes por “desconhecido”.
+(C) a normalização do score de crédito transforma os dados em uma escala entre 0 e 1, facilitando a aplicação de algoritmos de machine learning.
+(D) o agrupamento final calcula a média do tempo de contrato por faixa etária, considerando apenas os clientes que cancelaram o serviço.
+(E) o método groupby() não pode ser utilizado após filtragem condicional com colchetes, sendo necessário aplicar query() previamente.
+
+[GABARITO]
+D

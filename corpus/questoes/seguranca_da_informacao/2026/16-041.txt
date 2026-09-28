@@ -1,0 +1,18 @@
+ID: 16-041
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O OWASP Top 10:2025 apresenta as principais categorias de riscos de segurança em aplicações web, incluindo falhas relacionadas à manipulação inadequada de entradas fornecidas pelo usuário. Uma aplicação web, hospedada no endereço http://www.eth0123.com, permite acesso a informações jornalísticas por meio do seguinte endereço: http://www.eth0123.com/acesso.php?arq=jornal Durante uma análise de segurança, verificou-se que o parâmetro “arq” é utilizado pela aplicação para carregar conteúdos armazenados no servidor. Em razão de falha na validação de entradas fornecidas pelo usuário, foi possível manipular o endereço de acesso conforme apresentado a seguir, permitindo visualizar o conteúdo de um arquivo sensível do sistema: http://www.eth0123.com/acesso.php?arq=../../etc/passwd Assinale a opção que apresenta a técnica de exploração utilizada nesse cenário.
+
+[ALTERNATIVAS]
+(A) SQL Injection
+(B) LFI – Local File Inclusion
+(C) XSS – Cross-Site Scripting
+(D) RFI – Remote File Inclusion
+(E) FPD – Full Path Disclosure
+
+[GABARITO]
+B

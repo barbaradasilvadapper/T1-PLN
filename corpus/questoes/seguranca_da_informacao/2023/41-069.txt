@@ -1,0 +1,18 @@
+ID: 41-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A sala de servidores tem um grande valor para o TJSE. Para iniciar o processo de avaliação de riscos da sala, o analista de Segurança da Informação Pedro solicitou uma lista dos servidores físicos e das máquinas virtuais instaladas com os respectivos sistemas e serviços em produção, além dos processos de negócio associados. De acordo com a ABNT NBR ISO/IEC 27005:2019, para executar a primeira etapa da identificação de risco, aquela que antecede todas as demais etapas, Pedro irá utilizar a lista fornecida para identificar os(as):
+
+[ALTERNATIVAS]
+(A) ativos;
+(B) ameaças;
+(C) consequências;
+(D) vulnerabilidades;
+(E) controles existentes.
+
+[GABARITO]
+A

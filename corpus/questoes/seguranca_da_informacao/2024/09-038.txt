@@ -1,0 +1,18 @@
+ID: 09-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Lei nº 12.965, de 23 de abril de 2014, estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil. Ao tratar da proteção aos registros, aos dados pessoais e às comunicações privadas, tal diploma legal positiva sanções específicas para o descumprimento do que prescreve. A respeito disso, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) as sanções só podem ser aplicadas isoladamente, exceto quando o caso reclamar a mais grave que, então, poderá ser cumulada com outras.
+(B) a previsão de advertência contempla duas faces: uma repressiva e outra corretiva, na medida em que se indica prazo para adoção de medidas de regularização.
+(C) a censura deve ser imposta à pessoa natural, proprietária do provedor, quando este burlar a proibição de coleta de dados pessoais anteriormente aplicada.
+(D) na previsão de multa, o quanto é fixado em 10% (dez por cento) do faturamento do grupo econômico no Brasil, extraído da média dos últimos três exercícios, excluídos os tributos.
+(E) a Lei nº 12.965, de 23 de abril de 2014, possui um vácuo legislativo com relação a empresas estrangeiras, porque não traz regramento sancionatório para suas condutas infringentes.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 13-077
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista José está implementando um frontend web utilizando React. Em determinada tela do frontend, José precisa que o componente A seja renderizado pelo navegador em um nó do Document Object Model (DOM) que se encontra fora da hierarquia normal de renderização. Sabendo que o React oferece uma função que cumpre o propósito de orientar a renderização de componentes em partes inesperadas do DOM, José optou por utilizar essa função. Para orientar a renderização do componente A no nó desejado, o analista José utilizou a seguinte função do React:
+
+[ALTERNATIVAS]
+(A) flushSync;
+(B) preRender;
+(C) createPortal;
+(D) preinitModule;
+(E) preloadModule.
+
+[GABARITO]
+C

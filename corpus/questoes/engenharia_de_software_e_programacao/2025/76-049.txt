@@ -1,0 +1,18 @@
+ID: 76-049
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Sistemas está revisando um código que trata de licitações. Existe uma classe base Licitacao com um método iniciar(). Uma subclasse LicitacaoPresencial sobrescreve o método iniciar() com sucesso. No entanto, outra subclasse, LicitacaoEletronica, sobrescreve o método iniciar() mas, em certas condições, lança uma exceção de Processo Inválido que não está presente na assinatura do método da classe base Licitacao. O seguinte princípio SOLID está sendo violado pela classe LicitacaoEletronica, quebrando a expectativa de que um objeto da subclasse possa ser substituído por um objeto da superclasse sem alterar a corretude do programa:
+
+[ALTERNATIVAS]
+(A) Princípio da Responsabilidade Única (SRP).
+(B) Princípio do Aberto/Fechado (OCP).
+(C) Princípio da Substituição de Liskov (LSP).
+(D) Princípio da Segregação de Interfaces (ISP).
+(E) Princípio da Inversão de Dependência (DIP).
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 36-060
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Durante a navegação na Internet, Karen identificou que as páginas solicitadas não encontravam, corretamente, o servidor do site, objeto de sua busca. Ela concluiu que sua aplicação enviava, corretamente, o endereço para que fosse buscado, porém o endereço IP correto não estava retornando para sua aplicação. Em uma pesquisa rápida do problema, Karen descobriu que, no processo de pesquisa pelo IP correto no DNS, o problema estava na pesquisa recursiva contra um conjunto de resolvedores de DNS que rodava no(s):
+
+[ALTERNATIVAS]
+(A) resolvedor stub;
+(B) gethostbyname;
+(C) servidor de domínio superior;
+(D) registrantes;
+(E) resolvedor local.
+
+[GABARITO]
+E

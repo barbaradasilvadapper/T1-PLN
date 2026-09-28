@@ -1,0 +1,18 @@
+ID: 76-073
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Sistemas está revisando a estratégia de testes do projeto e observa a utilização de dois métodos ágeis, TDD e BDD. A principal diferença de foco entre eles reside no fato de que
+
+[ALTERNATIVAS]
+(A) o TDD foca nos Testes de Integração, enquanto o BDD foca nos Testes de Unidade.
+(B) o TDD foca na validação do sistema através de Testes de Aceitação, enquanto o BDD foca na cobertura de código.
+(C) o TDD usa o framework JUnit 5, e o BDD usa exclusivamente o framework Mockito.
+(D) o TDD é usado apenas em projetos XP, e o BDD, apenas em projetos Scrum.
+(E) o TDD é uma disciplina de desenvolvimento focada em detalhes técnicos, enquanto o BDD é uma abordagem de comunicação focada em comportamentos de negócio.
+
+[GABARITO]
+E

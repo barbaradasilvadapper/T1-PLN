@@ -1,0 +1,18 @@
+ID: 35-064
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O switching de rótulos multiprotocolo (MPLS, Multiprotocol Label Switching) é um protocolo projetado para levar pacotes de dados para seus destinos de forma rápida e eficiente. O "Label switching" no MPLS se refere
+
+[ALTERNATIVAS]
+(A) a comutação de células que utiliza etiquetas para encaminhar pequenas células de dados em redes de alta velocidade.
+(B) a comutação de pacotes que utiliza etiquetas para encaminhar quadros de dados em redes de longa distância.
+(C) ao fato de que os roteadores do sistema formam um caminho comutado por rótulos (LSP), que é um caminho predeterminado que roteia o tráfego dentro da rede.
+(D) um caminho dedicado era estabelecido entre os pontos de comunicação, que promove a rede por meio da comutação de circuitos.
+(E) A comutação de etiquetas pode referir-se ao uso de etiquetas VLAN (Virtual LAN) para segmentar e gerenciar o tráfego em Redes de Comutação de Circuitos.
+
+[GABARITO]
+C

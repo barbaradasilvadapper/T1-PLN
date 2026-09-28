@@ -1,0 +1,18 @@
+ID: 60-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Edgar, DBA de uma multinacional, recebeu um e-mail do usuário A. Nele, o usuário informava que, ao executar uma transação em um registro na tabela de pessoal, obtinha valores incorretos. Pouco tempo depois, recebeu um e-mail do usuário B, no qual este relatava acessar o mesmo registro do usuário A e informava que, às vezes, os dados ficavam incorretos. Edgar identificou que as duas transações acessavam os mesmos itens do banco de dados e tinham problemas em suas serializações, o que tornava o valor do item incorreto. Edgar identificou um problema chamado:
+
+[ALTERNATIVAS]
+(A) atualização perdida;
+(B) atualização temporária;
+(C) resumo incorreto;
+(D) leitura não repetitiva;
+(E) leitura suja.
+
+[GABARITO]
+A

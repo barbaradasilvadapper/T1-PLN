@@ -1,0 +1,18 @@
+ID: 21-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+As técnicas de aprendizado supervisionado estão baseadas na determinação de modelos capazes de otimizar o mapeamento entre entradas e saídas de um conjunto de dados. Por vezes, o processo de treinamento pode gerar modelos muito complexos que “aprendem” o ruído existente nos conjuntos de dados, caracterizando o fenômeno de sobreajuste ou overfitting. Um método que pode ajudar a mitigar a ocorrência do overfitting consiste em I. dividir o conjunto de dados em k partes; II. utilizar uma das partes para teste e as outras k-1 para treinamento; III. repetir o processo para cada uma das k partes do conjunto de dados; e IV. avaliar a média das métricas de performance para o modelo. O método acima é chamado de
+
+[ALTERNATIVAS]
+(A) k vizinhos mais próximos (k nearest neighbors ou k-NN).
+(B) retropropagação (backpropagation).
+(C) validação cruzada (cross-validation).
+(D) regularização Lasso (Lasso regularization).
+(E) comitê de modelos (model ensembling).
+
+[GABARITO]
+C

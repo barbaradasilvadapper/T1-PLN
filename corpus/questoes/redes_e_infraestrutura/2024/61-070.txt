@@ -1,0 +1,18 @@
+ID: 61-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto de arquiteturas de aplicações, cada abordagem tem características próprias que determinam seu uso em diferentes cenários. Associe corretamente os tipos de arquitetura com suas respectivas características e exemplos de aplicação. I. Cliente/Servidor II. N Camadas III. Arquitetura Orientada a Serviços (SOA) IV. Distribuída V. Peer-to-Peer (P2P) Características: ( ) Estrutura composta por diferentes camadas, como apresentação, lógica de negócios e dados, facilitando a manutenção e a escalabilidade, especialmente em sistemas web. ( ) Utiliza uma centralização de recursos, onde o servidor responde às requisições dos clientes conectados, sendo comum em sistemas de gestão empresarial. ( ) Arquitetura voltada à integração e reutilização de serviços, promovendo interoperabilidade entre sistemas legados e novos, muito usada em corporações. ( ) Os nós da rede agem tanto como cliente quanto como servidor, sendo comum em redes de compartilhamento de arquivos e aplicações descentralizadas. ( ) Componentes espalhados geograficamente interagem entre si, possibilitando a execução de tarefas de forma distribuída, como ocorre em soluções de computação em nuvem. A sequência correta da lista de caraterísticas é
+
+[ALTERNATIVAS]
+(A) II – I – III – V – IV
+(B) I – III – II – V – IV
+(C) IV – II – V – III – I
+(D) V – III – I – IV – II
+(E) II – V – IV – I – III
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 55-046
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Java Spring Boot (Spring Boot) é uma ferramenta open source que simplifica e acelera o desenvolvimento de aplicações web e microsserviços baseados no Spring Framework. Nesse cenário, assinale a afirmativa que descreve corretamente uma característica do Spring Boot.
+
+[ALTERNATIVAS]
+(A) Prioriza configuração baseada em XML.
+(B) Não permite a utilização de anotações @Profile em conjunto com @Component ou @Configuration.
+(C) Não provê suporte à Kotlin.
+(D) Fornece configurações padrão para Java Util Logging e Log4j2, mas não para Logback.
+(E) Em termos de internacionalização, por padrão, procura pela presença de um pacote de recursos chamado messages na raiz do classpath.
+
+[GABARITO]
+E

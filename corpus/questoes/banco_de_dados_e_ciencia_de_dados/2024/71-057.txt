@@ -1,0 +1,18 @@
+ID: 71-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O PostgreSQL v15 oferece amplo suporte a tipos geométricos. A representação do tipo geográfico closed path e o tamanho alocado para o armazenamento de dados são, respectivamente,
+
+[ALTERNATIVAS]
+(A) (x,y) e 8 bytes.
+(B) {ABC} e 16 bytes.
+(C) ((x1,y1),(x2,y2)) e 32 bytes
+(D) ((x1,y1),...) e 16+16n bytes.
+(E) ((x1,y1),(x2,y2),...) e 32+32n bytes.
+
+[GABARITO]
+D

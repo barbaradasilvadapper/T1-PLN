@@ -1,0 +1,18 @@
+ID: 64-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A quantidade de algarismos disponíveis em um dado sistema de numeração é chamada de base. A base serve para contarmos grandezas maiores, indicando a noção de agrupamento. O endereçamento IPv6 utiliza a base 16, ou hexadecimal, para representação dos seus endereços. Um exemplo de endereço IPv6 seria 2001:bce4:5641:3412:341:45ae:fe32:65. Fazendo a conversão para decimal, de cada parte desse endereço, separadamente, teríamos o equivalente a
+
+[ALTERNATIVAS]
+(A) 8193 48356 22081 13330 833 17838 65074 101
+(B) 8193 48356 22081 13330 833 17839 65074 100
+(C) 8192 48356 21825 13329 849 17838 65034 101
+(D) 8192 48340 22081 13329 849 17839 65034 100
+(E) 8193 48340 21825 13329 833 17839 65034 101
+
+[GABARITO]
+A

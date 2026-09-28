@@ -1,0 +1,18 @@
+ID: 36-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Amanda trabalha em uma empresa de desenvolvimento de aplicações que faz uso de Docker na elaboração de seus projetos. Ela identificou alguns erros na aplicação e precisará executar alguns comandos para corrigir o problema. Inicialmente deverá listar os dockers em execução. Após isso, deverá executar alguns comandos em um Docker listado e reiniciá-lo. A alternativa que indica os comandos Docker a serem executados por Amanda na ordem correta é:
+
+[ALTERNATIVAS]
+(A) ps, exec, stop, start;
+(B) ps, pull, pause, init;
+(C) network, ls, exec, restart;
+(D) ls, pull, stop, restart;
+(E) ps, exec, pause, start.
+
+[GABARITO]
+A

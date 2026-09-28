@@ -1,0 +1,18 @@
+ID: 69-075
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Na administração de sistemas uma das principais tarefas é reinstalar e atualizar todos os programas do computador de uma só vez. Com relação a instalação, configuração e administração de sistemas operacionais, analise os itens a seguir: I. Diversas soluções de software installers (como Ninite, AllMyApps, Chocolatey e Npackd) trazem ao usuário a possibilidade de escolha dentre uma lista de aplicativos de software populares, que após a seleção, podem ser instalados automaticamente, proporcionando instalação e atualização para as últimas versões. II. As ferramentas de disk Imaging software (como Clonezilla, FOG, Ghost Solution Suite, Acronis, Zinstall e Active@Disk Image) são empregadas para gerar “imagem”, ou cópias exatas, de um dispositivo de visualização. III. A ferramenta Sysprep (System Preparation) é parte da imagem do Windows e é usada para preparar uma instalação para clonagem, removendo informações exclusivas do sistema, como o identificador de segurança (SID), e permitindo que ele seja implantado em vários computadores.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e II, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

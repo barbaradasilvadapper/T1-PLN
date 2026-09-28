@@ -1,0 +1,18 @@
+ID: 06-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A análise orientada a objetos utiliza diagramas da UML para representar os diversos elementos de um projeto de software. Ana está modelando um sistema para Web, na arquitetura MVC, e agora precisa descrever o fluxo de mensagens entre os componentes View, Controller e DAO, segundo a cronologia com a qual ocorrem, para um processo de consulta aos dados na base e apresentação na interface de usuário. Para que possa desenhar corretamente o processo, Ana irá utilizar o diagrama de:
+
+[ALTERNATIVAS]
+(A) classes;
+(B) componentes;
+(C) estados;
+(D) implantação;
+(E) sequência.
+
+[GABARITO]
+E

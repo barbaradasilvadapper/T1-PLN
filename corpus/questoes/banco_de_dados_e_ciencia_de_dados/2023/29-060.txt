@@ -1,0 +1,18 @@
+ID: 29-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de administração de banco de dados relacional, para melhorar o desempenho das consultas aos dados, é uma prática recomendada:
+
+[ALTERNATIVAS]
+(A) dividir as tabelas em várias partições menores para distribuir os dados;
+(B) remover todos os índices da tabela para reduzir a sobrecarga de acesso;
+(C) desnormalizar todas as tabelas para reduzir o número de relacionamentos;
+(D) adicionar índices adequados às colunas usadas em condições de filtro e junções;
+(E) aumentar o número de colunas em cada tabela para evitar a necessidade de junções.
+
+[GABARITO]
+D

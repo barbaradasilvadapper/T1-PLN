@@ -1,0 +1,18 @@
+ID: 62-073
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um analista estava acessando uma página de Internet Banking autêntica, e realizou normalmente sua autenticação, recebendo um cookie de sessão. Em paralelo a isso, também estava verificando sua caixa de correio eletrônico, e clicou em um link suspeito que recebeu em um email. Mais tarde, ao verificar seu extrato bancário, percebeu inúmeras operações que ele não realizou. Ao fazer contato com seu banco, o mesmo informou que as operações foram realizadas a partir do usuário autenticado do cliente. Com base nessas informações, assinale a opção que apresenta o ataque sofrido.
+
+[ALTERNATIVAS]
+(A) SQL Injection.
+(B) CSRF.
+(C) XSS.
+(D) Spoofing.
+(E) DDoS.
+
+[GABARITO]
+B

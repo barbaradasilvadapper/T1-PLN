@@ -1,0 +1,18 @@
+ID: 76-059
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Product Owner da Assembleia Legislativa, pressionado pelo prazo de fim de ano, sugere que, para o próximo projeto, as Sprints de quatro semanas sejam reduzidas para uma semana, a fim de acelerar o desenvolvimento. A principal desvantagem de reduzir drasticamente a duração de uma Sprint em um ambiente complexo e com alta burocracia, como um órgão público é
+
+[ALTERNATIVAS]
+(A) o aumento do Velocity da equipe devido ao foco intensificado.
+(B) a diminuição da frequência de inspeção e adaptação, reduzindo o feedback do Product Owner.
+(C) o Sprint Backlog ser forçado a incluir mais itens técnicos do que itens funcionais.
+(D) a facilitação da negociação do scope creep durante o Sprint.
+(E) o Overhead de reuniões de Planning, Review e Retrospective em relação ao tempo produtivo.
+
+[GABARITO]
+E

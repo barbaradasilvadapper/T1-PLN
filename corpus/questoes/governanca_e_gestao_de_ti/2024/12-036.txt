@@ -1,0 +1,18 @@
+ID: 12-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Com base nos conceitos referentes ao Gerenciamento de Processos de Negócio (BPM), analise as afirmativas a seguir. I. O BPMS (Business Process Management System) é um conjunto de símbolos que representam os fluxos dos processos da empresa de forma padronizada para facilitar seu entendimento. II. O BPM é um ciclo contínuo para projetar, modelar, simular, executar, monitorar e melhorar os processos de negócio da organização, automatizados ou não, para alcançar resultados consistentes e alinhados com os objetivos estratégicos da organização. III. O BPMN (Business Process Modeling and Notation) é um software que facilita a implementação de práticas de BPM em todas as suas etapas, mapeando, automatizando, executando e monitorando os processos da empresa.
+
+[ALTERNATIVAS]
+(A) II e III, apenas.
+(B) II, apenas.
+(C) I, II e III.
+(D) III, apenas.
+(E) I e II, apenas.
+
+[GABARITO]
+B

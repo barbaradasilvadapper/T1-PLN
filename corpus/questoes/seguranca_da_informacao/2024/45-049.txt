@@ -1,0 +1,18 @@
+ID: 45-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um órgão precisa enviar informações rotineiras para seus usuários por e-mail. Para que os e-mails enviados não sejam caracterizados como SPAM, é necessário que:
+
+[ALTERNATIVAS]
+(A) impeçam a coleta do endereço eletrônico, apresentando cabeçalho incompleto com o campo do remetente vazio;
+(B) contenham caracteres especiais no lugar de algumas letras para validar o domínio do e-mail enviado;
+(C) não permitam a identificação do órgão, o que exige que o campo assunto inclua termos vagos e genéricos, a fim de impedir um ataque de e-mail spoofing;
+(D) sejam usadas listas de divulgação de terceiros ou de fornecedores de mala direta para garantir a validação dos e-mails destinatários;
+(E) sejam usados como contato com o cliente apenas com sua prévia autorização.
+
+[GABARITO]
+E

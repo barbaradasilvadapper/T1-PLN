@@ -1,0 +1,18 @@
+ID: 29-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João é um administrador de banco de dados MySQL e precisa realizar o backup lógico completo do banco de dados "tjse_db". Para isso, João deverá utilizar o comando:
+
+[ALTERNATIVAS]
+(A) backup -u root -p tjse_db > backup.sql
+(B) mybackup -u root -p tjse_db > backup.sql
+(C) mysqldump -u root -p tjse_db > backup.sql
+(D) dump database -u root -p tjse_db > backup.sql
+(E) select * from tjse_db into outfile backup.sql
+
+[GABARITO]
+C

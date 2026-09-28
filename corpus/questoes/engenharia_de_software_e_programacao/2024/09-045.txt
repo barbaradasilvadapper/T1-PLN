@@ -1,0 +1,18 @@
+ID: 09-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma empresa de comércio eletrônico decidiu integrar seus sistemas de pagamento usando uma arquitetura orientada a serviços e web services como a tecnologia de integração. A ação correta na implementação dessa solução para garantir baixo acoplamento e alta interoperabilidade entre os sistemas seria
+
+[ALTERNATIVAS]
+(A) usar RESTful Web Services, que permitem a comunicação entre os sistemas de forma leve e independente de plataforma, promovendo maior flexibilidade e baixo acoplamento entre os serviços.
+(B) implementar serviços SOAP sem definição de contratos formais para aumentar a flexibilidade da comunicação entre o sistema de pagamento e os provedores.
+(C) utilizar interoperabilidade de rede entre os serviços de pagamento e os provedores, pois isso assegura baixo acoplamento e que as mudanças em um dos serviços se reflitam diretamente no outro, evitando inconsistências.
+(D) definir um modelo de arquitetura monolítica com todos os provedores de pagamento integrados diretamente ao sistema, eliminando a necessidade de comunicação via Web Services e, assim, melhorando o desempenho.
+(E) empregar Web Services com RPC (Remote Procedure Call) e WDSL para garantir que a chamada dos métodos seja feita diretamente entre o sistema de pagamento e os provedores, simplificando a integração.
+
+[GABARITO]
+A

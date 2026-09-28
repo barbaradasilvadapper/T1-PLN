@@ -1,0 +1,18 @@
+ID: 10-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João está encarregado de criar uma tabela em PostgreSQL para gerenciar informações sobre funcionários e seus supervisores, com base na seguinte representação lógica da entidade “Funcionario”: Para tanto, João deverá criar o “autorrelacionamento” entre funcionários e seus supervisores, considerando que nem todo funcionário possui supervisor. Para isso, João deverá utilizar o seguinte script SQL:
+
+[ALTERNATIVAS]
+(A) CREATE TABLE Funcionario ( idSupervisor INT, FOREIGN KEY (idSupervisor) REFERENCES Funcionario (idFuncionario));
+(B) CREATE TABLE Funcionario ( idSupervisor INT, FOREIGN KEY (idFuncionario) REFERENCES Funcionario (idSupervisor));
+(C) CREATE TABLE Funcionario ( idSupervisor SERIAL, FOREIGN KEY (idSupervisor) REFERENCES Funcionario (idFuncionario));
+(D) CREATE TABLE Funcionario ( idSupervisor SERIAL, FOREIGN KEY (idFuncionario) REFERENCES Funcionario (idSupervisor));
+(E) CREATE TABLE Funcionario ( idSupervisor INT NOT NULL, FOREIGN KEY (idSupervisor) REFERENCES Funcionario (idFuncionario));
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 10-023
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Zudinha está engajada na tarefa de otimizar um sistema operacional para aprimorar seu desempenho global. Com o intuito de alcançar esse objetivo, ela opta pela implementação de estratégias de multiprocessamento. Apoiada em seu profundo conhecimento sobre multiprocessamento simétrico (SMP) e assimétrico (AMP), Zudinha elabora uma proposta que prevê a alocação equânime de cargas de trabalho entre os processadores disponíveis no sistema. Considerando a abordagem de Zudinha, o multiprocessamento utilizado é o:
+
+[ALTERNATIVAS]
+(A) assimétrico, pois distribui tarefas de forma desigual entre os processadores;
+(B) simétrico, pois divide tarefas igualmente entre todos os processadores;
+(C) assimétrico, pois utiliza um processador mestre para controlar os processadores escravos;
+(D) simétrico, pois utiliza um único processador para todas as tarefas;
+(E) assimétrico, pois promove a utilização de múltiplos processadores operando de forma cooperativa, sem designar um processador mestre.
+
+[GABARITO]
+B

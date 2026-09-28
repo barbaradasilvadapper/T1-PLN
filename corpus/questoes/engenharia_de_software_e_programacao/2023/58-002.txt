@@ -1,0 +1,18 @@
+ID: 58-002
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Java a seguir, exibido com um trecho omitido. import java.util.ArrayList; public class Main { public static void main(String[] args) { ArrayList<Integer> x = new ArrayList<Integer>(); x.add(100); x.add(200); x.add(300); x.forEach( -------------------- ); } } Quando executado, esse código deve exibir as linhas a seguir. 100 200 300 Assinale a expressão lambda que deve substituir o trecho tracejado para produzir esse resultado.
+
+[ALTERNATIVAS]
+(A) def f(n) -> { System.out.println(n); }
+(B) (n) -> { System.out.println(n); }
+(C) f(n) { System.out.println(n); }
+(D) n >> { System.out.println(n); }
+(E) f(n) >> { System.out.println(n); }
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 73-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Fabrício, delegado de polícia, solicitou a intervenção de um especialista em informática para investigar um incidente ocorrido em uma empresa, no qual João, um ex-funcionário, acessou indevidamente o sistema da empresa, que continha dados confidenciais. Durante essa invasão, João procedeu à modificação dos preços dos produtos, reduzindo-os a valores insignificantes, e distribuiu essas informações para milhares de indivíduos, ocasionando uma interrupção temporária no funcionamento do sistema. Após uma minuciosa análise da situação, o perito elaborou um relatório abrangente para o delegado Fabrício, no qual apontou os objetivos fundamentais de segurança que foram violados. A alternativa que lista os objetivos fundamentais de segurança que foram violados, na ordem em que as respectivas violações aparecem no texto acima, é:
+
+[ALTERNATIVAS]
+(A) não repúdio, integridade e disponibilidade;
+(B) disponibilidade, integridade e confidencialidade;
+(C) confidencialidade, Integridade e disponibilidade;
+(D) não repúdio, disponibilidade e confidencialidade;
+(E) confidencialidade, disponibilidade e não repúdio.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 16-043
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A Normalização é uma técnica aplicada ao projeto lógico para evitar anomalias de atualização e redundância. Em consequência, foram feitas algumas adaptações na estrutura de dados para atender aos critérios das diferentes Formas Normais. Uma tabela é considerada como estando na Primeira Forma Normal (1FN) quando
+
+[ALTERNATIVAS]
+(A) a tabela possui um índice único criado sobre a chave primária.
+(B) não existem dependências transitivas entre atributos não chave.
+(C) existe pelo menos uma chave estrangeira vinculada a outra tabela normalizada.
+(D) todos os seus atributos possuem apenas valores atômicos e não existem grupos repetitivos.
+(E) não existem dependências parciais, ou seja, todos os atributos dependem da chave primária total.
+
+[GABARITO]
+D

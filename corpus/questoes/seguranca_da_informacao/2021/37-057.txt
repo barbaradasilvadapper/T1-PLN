@@ -1,0 +1,18 @@
+ID: 37-057
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao seguranca da informacao banestes
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Lei Geral de Proteção de Dados Pessoais (LGPD) em vigor no Brasil tem por fundamento o respeito à privacidade e a autodeterminação informativa. Segundo a legislação brasileira, a pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais é denominada:
+
+[ALTERNATIVAS]
+(A) controlador;
+(B) operador;
+(C) titular;
+(D) encarregado;
+(E) programador.
+
+[GABARITO]
+A

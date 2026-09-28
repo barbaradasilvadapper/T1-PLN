@@ -1,0 +1,18 @@
+ID: 73-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma universidade está atualizando sua infraestrutura de rede para melhorar a segurança e a autenticação dos usuários. Eles decidiram implementar o protocolo 802.1X para controlar o acesso à rede local (LAN) em todo o campus. Durante uma reunião de planejamento, a equipe de TI da universidade analisa várias afirmações sobre o protocolo 802.1X para garantir que todos entendam como ele funciona. Acerca do 802.1X, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) uma porta não controlada permite a troca de PDUs entre o solicitante e os outros AS, independentemente do estado de autenticação do solicitante;
+(B) para um IBSS, não há qualquer AP. Para um IBSS, o 802.11i provê uma solução mais complexa, que envolve autenticação par a par entre estação e servidor;
+(C) a estrutura do 802.1X, com um protocolo de autenticação de camada superior, ajusta-se muito bem à arquitetura BSS, que inclui apenas uma estação sem fio e um AP;
+(D) usa o conceito de portas controladas e não controladas. Portas são entidades lógicas definidas dentro do autenticador e referem-se a conexões lógicas de rede;
+(E) para uma WLAN, o autenticador (o AP) pode ter duas portas físicas ou mais, sendo uma a que o conecta ao DS e uma para comunicação sem fio dentro de seu BSS, entre outras possíveis.
+
+[GABARITO]
+A

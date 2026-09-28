@@ -1,0 +1,18 @@
+ID: 38-031
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Kátia é uma web designer contratada para fazer uma página web para o Tribunal de Justiça. Ela fará uso do protocolo HTTP, pois este é um protocolo da camada de aplicação, o qual executa sob o TCP e associado à web. As operações nesse protocolo são chamadas de métodos. Kátia, então, testa o envio da página pelo servidor, cria uma coleção de páginas web em um servidor remoto e instrui o servidor a enviar de volta a solicitação. Para implementar a página web, Kátia deve usar, respectivamente, os métodos:
+
+[ALTERNATIVAS]
+(A) POST, HEAD, DELETE;
+(B) GET, CONNECT, TRACE;
+(C) PUT, CONNECT, OPTIONS;
+(D) POST, HEAD, OPTIONS;
+(E) GET, PUT, TRACE. Branca – Página 8 Tipo 1
+
+[GABARITO]
+E

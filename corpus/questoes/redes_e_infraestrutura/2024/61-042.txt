@@ -1,0 +1,18 @@
+ID: 61-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Protocolo de Transferência de Arquivos (FTP) é um dos métodos amplamente utilizados para transferir arquivos entre dispositivos em uma rede. O protocolo FTP apresenta diversas características listadas a seguir, exceto uma. Assinale-a.
+
+[ALTERNATIVAS]
+(A) Implementar o modelo cliente-servidor.
+(B) Inserir endereços IP no corpo do pacote para uso do receptor.
+(C) Oferecer confidencialidade no envio de informações.
+(D) Ser derivado do protocolo HTTPS.
+(E) Utilizar duas portas para estabelecer a comunicação.
+
+[GABARITO]
+D

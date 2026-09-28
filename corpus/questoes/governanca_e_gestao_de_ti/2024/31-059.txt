@@ -1,0 +1,18 @@
+ID: 31-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A Resolução CNJ nº 468, de 15 de julho de 2022, trata das diretrizes para as contratações de Solução de Tecnologia da Informação e Comunicação pelos órgãos submetidos ao controle administrativo e financeiro do Conselho Nacional de Justiça. Com relação a essa resolução, julgue as afirmativas a seguir. I. As contratações de STIC devem apresentar as seguintes fases: planejamento da contratação, seleção do fornecedor e gestão do contrato. II. Nas contratações, via de regra, deve-se adotar a métrica homem-hora para aferição de esforço. III. Na contratação por inexigibilidade, é facultativa a execução da fase de planejamento da contratação de STIC.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) I, II e III.
+(E) II e III, apenas.
+
+[GABARITO]
+A

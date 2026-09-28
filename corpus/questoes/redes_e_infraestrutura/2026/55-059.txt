@@ -1,0 +1,18 @@
+ID: 55-059
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação aos fundamentos, características e arquitetura da computação em nuvem, assinale (V) para afirmativa verdadeira e (F) para falsa. ( ) A resiliência na computação em nuvem pode abranger a disponibilidade de recursos em uma única nuvem ou entre múltiplas nuvens. ( ) A arquitetura de computação em nuvem não contempla virtualização, pois os recursos são fisicamente dedicados a cada usuário. ( ) A elasticidade é uma característica da computação em nuvem que permite o redimensionamento dos recursos de TI na nuvem conforme a demanda.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) F – F – V.
+(C) V – F – V.
+(D) F – V – V.
+(E) V – F – F.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 65-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um formulário para cadastro de usuários segue o guia de estilo da Web Content Accessibility Guidelines (WCAG). Assinale a implementação que está mais alinhada às diretrizes desse guia e aos princípios de usabilidade.
+
+[ALTERNATIVAS]
+(A) Utilizar cores vibrantes nos botões de ação, sem considerar contraste mas incluir indicativos textuais para ação.
+(B) Empregar apenas ícones sem rótulos textuais nos botões, presumindo que a interpretação visual será universal.
+(C) Implementar mensagens de erro para falhas de validação de campos, sem especificar o erro mas apenas como corrigi-lo.
+(D) Omitir a implementação de atalhos de teclado, deixando apenas para usuários avançados que venham a ler anotações no manual, considerando que todos os usuários preferem navegar utilizando o mouse.
+(E) Assegurar que os campos de formulário tenham rótulos claramente associados e mensagens de erro específicas que guiam o usuário na correção de entradas inválidas.
+
+[GABARITO]
+E

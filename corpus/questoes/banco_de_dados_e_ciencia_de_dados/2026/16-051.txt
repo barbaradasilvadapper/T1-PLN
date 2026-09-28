@@ -1,0 +1,18 @@
+ID: 16-051
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um cientista de dados foi incumbido de analisar o desempenho de estudantes em um exame nacional, com o objetivo de investigar possíveis desigualdades educacionais. Para isso, pretende comparar as distribuições de notas considerando simultaneamente o nível socioeconômico (baixo, médio e alto) e a região geográfica (Norte, Nordeste, Sul, Sudeste e Centro-Oeste). Sabe-se que a análise deve preservar a comparabilidade entre os grupos, permitindo identificar padrões estruturais de forma clara e consistente entre os subconjuntos de dados. Considerando o uso da biblioteca ggplot2 na linguagem R, assinale a opção que apresenta a abordagem mais adequada para atender ao objetivo proposto.
+
+[ALTERNATIVAS]
+(A) Utilizar facet_wrap (~ regiao + nivel_socioeconomico), pois essa função organiza automaticamente os painéis, garantindo flexibilidade na disposição gráfica, ainda que sem controle explícito da estrutura bidimensional.
+(B) Utilizar facet_grid (regiao ~ nivel_socioeconomico), pois essa abordagem organiza os dados em uma matriz bidimensional fixa, favorecendo a comparação sistemática entre linhas e colunas.
+(C) Utilizar group_by (regiao, nivel_socioeconomico) seguido de summarise, gerando gráficos independentes para cada grupo, o que amplia o detalhamento analítico, ainda que reduza a comparabilidade visual.
+(D) Utilizar geom_density com sobreposição de todas as categorias em um único painel, maximizando a densidade informacional e facilitando a identificação de padrões globais.
+(E) Utilizar coord_flip, pois a inversão dos eixos melhora a legibilidade das categorias e permite comparação direta entre todas as variáveis simultaneamente.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 58-015
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No âmbito da arquitetura do Hibernate, assinale o objeto que estabelece uma conexão física com um banco de dados e é projetado para ser instanciado a cada vez que seja necessária uma interação com o mesmo.
+
+[ALTERNATIVAS]
+(A) Criteria object.
+(B) Query object.
+(C) Session object.
+(D) SessionFactory object.
+(E) Transaction object.
+
+[GABARITO]
+C

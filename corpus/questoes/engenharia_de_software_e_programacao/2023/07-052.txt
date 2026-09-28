@@ -1,0 +1,18 @@
+ID: 07-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o comando a seguir no contexto de uma página Web. document.getElementById("xpto").style.display = "none"; Além do caso exemplificado, a propriedade display de um elemento HTML aceita vários outros valores. Dentre eles, estão:
+
+[ALTERNATIVAS]
+(A) “block” e “inline”;
+(B) “header” e “footer”;
+(C) “left” e “right”;
+(D) “paragraph” e “span”;
+(E) “up” e “down”.
+
+[GABARITO]
+A

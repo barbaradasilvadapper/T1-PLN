@@ -1,0 +1,18 @@
+ID: 56-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um sistema operacional, diversos algoritmos de alocação de memória são empregados para gerenciar eficientemente o espaço de memória disponível. Nesse contexto, o algoritmo de alocação de memória que soluciona o problema da fragmentação externa, ao escolher o menor espaço adequado para a alocação, é o:
+
+[ALTERNATIVAS]
+(A) First Fit;
+(B) Best Fit;
+(C) Worst Fit;
+(D) Next Fit;
+(E) Quick Fit.
+
+[GABARITO]
+B

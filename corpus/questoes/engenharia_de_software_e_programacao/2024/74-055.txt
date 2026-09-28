@@ -1,0 +1,18 @@
+ID: 74-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Test-Driven Development (TDD) é uma abordagem de desenvolvimento de software onde os testes são escritos antes do código que implementa a funcionalidade. Assinale a afirmativa que melhor descreve o princípio fundamental do Test-Driven Development (TDD).
+
+[ALTERNATIVAS]
+(A) Escrever código de produção antes de criar testes para garantir que o código funcione conforme o esperado.
+(B) Desenvolver um conjunto de testes abrangentes apenas após a conclusão do desenvolvimento do código.
+(C) Criar e executar testes automatizados antes de escrever o código de produção para garantir que o código atenda aos requisitos.
+(D) Escrever código de produção e testes simultaneamente sem um processo definido para assegurar a funcionalidade.
+(E) Utilizar testes manuais para verificar o funcionamento do código antes de publicá-lo.
+
+[GABARITO]
+C

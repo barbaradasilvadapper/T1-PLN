@@ -1,0 +1,18 @@
+ID: 78-064
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A modelagem de processos de negócio é uma prática essencial para compreender e aprimorar as operações de uma organização. Dentro desse contexto, os modelos AS-IS desempenham um papel fundamental ao representar o estado atual dos processos, permitindo uma análise detalhada e a identificação de oportunidades de melhoria. O principal objetivo de um modelo AS-IS na modelagem de processos de negócio é
+
+[ALTERNATIVAS]
+(A) monitorar continuamente o processo após melhorias.
+(B) analisar os indicadores de desempenho do processo.
+(C) identificar falhas e ineficiências no processo atual.
+(D) descrever o estado futuro desejado do processo.
+(E) implementar melhorias no processo.
+
+[GABARITO]
+C

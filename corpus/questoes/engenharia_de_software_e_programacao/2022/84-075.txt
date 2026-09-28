@@ -1,0 +1,18 @@
+ID: 84-075
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O JavaScript Object Notation (JSON) é um formato de intercâmbio de dados baseado em texto. De acordo com a gramática JSON, especificada na RFC 8259, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) um array é representado como colchetes em torno de zero ou mais elementos.
+(B) uma string começa e termina com crases.
+(C) nomes literais devem ser utilizados em caixa alta.
+(D) um número é representado na base 16 usando símbolos alfanuméricos.
+(E) um objeto é representado como um par de parênteses em torno de zero ou mais pares nome/valor.
+
+[GABARITO]
+A

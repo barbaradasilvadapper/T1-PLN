@@ -1,0 +1,18 @@
+ID: 61-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um empreendimento de sistemas de informação vai trabalhar com metodologias que sejam compatíveis com práticas e cultura DevOps, visando aumentar a sua capacidade de distribuir aplicativos e serviços de forma mais rápida. Para isso, ela vai aplicar as fases do ciclo de vida DevOps, sendo que vai se focar mais na fase que exige que os desenvolvedores incorporem o seu código em um repositório compartilhado, com check-in e compilação diários, permitindo detectar problemas de forma imediata, garantindo que o código principal seja sempre viável e pronto para a produção. Nesse caso, essa fase é identificada como sendo a de
+
+[ALTERNATIVAS]
+(A) feedback contínuo.
+(B) integração contínua.
+(C) introdução contínua.
+(D) monitoramento contínuo.
+(E) operações contínuas.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 26-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de suporte de sistemas senado federal
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Há uma aplicação no Computador 2 que deseja acessar um serviço disponível na rede do Firewall A, porém a porta de comunicação TCP necessária não é conhecida pela aplicação. Nesse sentido, assinale a opção que descreve corretamente um mecanismo que resolve este problema.
+
+[ALTERNATIVAS]
+(A) A aplicação pode mandar uma requisição SYN na rede solicitando a porta necessária para o roteador.
+(B) O administrador pode configurar o protocolo 802.1x para que a aplicação faça requisições ao servidor de acesso e descubra a porta necessária.
+(C) O administrador pode configurar um registro de DNS do tipo SRV que descreve os servidores e portas disponíveis para o serviço. Se isso for feito, a aplicação pode consumir esses dados via requisições ao servidor de DNS.
+(D) A aplicação pode enviar um pacote para o endereço de broadcast da rede solicitando que o servidor responda com o número da porta configurada.
+(E) A aplicação pode enviar uma solicitação na porta 993 ao Firewall utilizando o protocolo WOL para descobrir a porta.
+
+[GABARITO]
+C

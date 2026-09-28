@@ -1,0 +1,18 @@
+ID: 56-006
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Maurício é o líder técnico do Time de Tecnologia da Informação (TTI) de uma organização que está iniciando o uso do estilo de Desenvolvimento Orientado a Testes (TDD). De forma a nivelar o conhecimento e obedecendo ao estilo TDD, Maurício orientou que os(as):
+
+[ALTERNATIVAS]
+(A) testes comecem por uma operação complexa;
+(B) casos de teste menores dispensem a escrita de asserções;
+(C) testes de recursos complexos, como acesso a dados, sejam especificados como testes de integração;
+(D) coleções de objetos sejam implementadas sem coleções e, após testadas, sejam reescritas para funcionar com coleções;
+(E) os desenvolvedores registrem nos comentários da ferramenta de versionamento os testes que foram criados, já que a execução de um teste afeta a execução de outro.
+
+[GABARITO]
+D

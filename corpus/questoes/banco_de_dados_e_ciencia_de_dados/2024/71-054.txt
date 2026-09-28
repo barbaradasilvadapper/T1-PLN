@@ -1,0 +1,18 @@
+ID: 71-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+As propriedades ACID são essenciais no contexto do processamento de transações em bancos dados relacionais. As propriedades que correspondem as letras C e D são, respectivamente,
+
+[ALTERNATIVAS]
+(A) completude e desacoplamento
+(B) coordenação e deslocamento.
+(C) commit e delete.
+(D) cooperação e distribuição.
+(E) consistência e durabilidade.
+
+[GABARITO]
+E

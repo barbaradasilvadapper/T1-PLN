@@ -1,0 +1,18 @@
+ID: 65-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Assinale a ação mais apropriada para realizar uma análise de requisitos de usabilidade eficaz.
+
+[ALTERNATIVAS]
+(A) Limitar a análise aos requisitos funcionais do sistema para acelerar o desenvolvimento.
+(B) Consultar apenas a equipe de desenvolvimento para definir os requisitos de usabilidade, evitando influências externas.
+(C) Realizar testes de usabilidade apenas nas fases finais de desenvolvimento para ajustes finos.
+(D) Envolver usuários finais e stakeholders no processo de definição de requisitos desde o início do projeto.
+(E) Ignorar as diferenças culturais e de idioma dos usuários finais, focando unicamente na funcionalidade.
+
+[GABARITO]
+D

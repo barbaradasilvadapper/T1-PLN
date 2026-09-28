@@ -1,0 +1,18 @@
+ID: 72-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte código em JavaScript: const array = ["T", "R", "F", 1] array.splice(0, 0, '>') console.log(array.filter(v=>!!v)) Ao ser executado, o código acima exibirá na saída do console:
+
+[ALTERNATIVAS]
+(A) um erro de violação de constante;
+(B) o array [">", "T", "R", "F", 1];
+(C) o array ["T", "R", "F", 1];
+(D) um erro de sintaxe;
+(E) o array [].
+
+[GABARITO]
+B

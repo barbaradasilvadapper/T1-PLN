@@ -1,0 +1,18 @@
+ID: 58-034
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do padrão WCAG 2.1, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) WCAG 2.1 é uma atualização do WCAG 2.0 que remove muitos dos critérios de sucesso anteriores para simplificar o padrão.
+(B) WCAG 2.1 foca exclusivamente na acessibilidade para usuários com deficiência visual, ignorando outras deficiências.
+(C) A conformidade com WCAG 2.1 é opcional e não é reconhecida internacionalmente como um padrão de acessibilidade.
+(D) WCAG 2.1 introduz novos critérios de sucesso, ampliando a abordagem do WCAG 2.0 para incluir considerações sobre dispositivos móveis e usuários com deficiências cognitivas.
+(E) O padrão WCAG 2.1 sugere que a semântica do HTML seja ignorada em favor de soluções baseadas em JavaScript para melhorar a acessibilidade.
+
+[GABARITO]
+D

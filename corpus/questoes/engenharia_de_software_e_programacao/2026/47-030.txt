@@ -1,0 +1,18 @@
+ID: 47-030
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um ambiente de microsserviços, uma aplicação expõe a métrica: http_requests_total{job="api", instance="10.0.0.5:8080", method="GET", code="500"} A equipe deseja calcular, no Prometheus, a taxa média por segundo de crescimento dessa métrica ao longo dos últimos 5 minutos, suavizada ao longo da janela de tempo completa, para alimentar um painel de erro no Grafana. Assinale a opção que apresenta a expressão em PromQL conceitualmente mais adequada para esse objetivo.
+
+[ALTERNATIVAS]
+(A) delta(http_requests_total[5m])
+(B) rate(http_requests_total[5m])
+(C) irate(http_requests_total[5m])
+(D) avg_over_time(http_requests_total[5m])
+(E) count_over_time(http_requests_total[5m])
+
+[GABARITO]
+B

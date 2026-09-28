@@ -1,0 +1,18 @@
+ID: 45-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A fim de tratar os riscos técnicos identificados nos ativos, a equipe de segurança do órgão SICRIT está implementando um processo para gestão das vulnerabilidades técnicas de acordo com a ABNT NBR ISO/IEC 27002:2022. Para realizar a identificação das vulnerabilidades, a equipe de segurança deve seguir a orientação de:
+
+[ALTERNATIVAS]
+(A) analisar e verificar relatórios para determinar qual atividade de resposta e remediação é necessária;
+(B) identificar os riscos associados e as ações a serem tomadas após a identificação da vulnerabilidade;
+(C) testar e avaliar as atualizações antes de serem instaladas para assegurar que sejam eficazes;
+(D) blindar sistemas vulneráveis contra ataques por meio da implantação de filtros de tráfego adequados;
+(E) definir e estabelecer os cargos e responsabilidades associados ao processo de avaliação de risco de vulnerabilidade.
+
+[GABARITO]
+E

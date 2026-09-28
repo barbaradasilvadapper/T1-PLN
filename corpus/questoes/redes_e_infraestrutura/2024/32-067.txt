@@ -1,0 +1,18 @@
+ID: 32-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considere a seguinte mensagem SIP do tipo INVITE recebida pelo servidor VoIP do TCE-PA: INVITE auditor07@voip.tce.pa From: Carlos <sip:auxiliar34@voip.tce.pa> To: Maria <sip:auditor07@voip.tce.pa> Call-ID: 20240811@voip.tce.pa Analise as afirmativas a seguir com relação a essa mensagem SIP INVITE: I. A SIP URI do usuário que está realizando a chamada é Carlos. II. Os usuários de origem e destino estão registrados no mesmo domínio. III. O número do telefone que está sendo chamado é 2024-0811.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas
+(E) II e III, apenas.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 58-018
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O HTTP/2 é uma revisão importante do protocolo de rede HTTP amplamente utilizado pela World Wide Web. Sobre o HTTP/2, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Permite multiplexar várias solicitações de recursos dentro de uma mesma conexão TCP.
+(B) Usa os esquemas de URI nos formatos "h2p://" e "h2ps://" em detrimento do "http://" e "https://".
+(C) É uma especificação alternativa que modifica, aprimora e obsoleta a sintaxe do HTTP/1.
+(D) Opera por padrão sobre a porta 88 e não mais na porta 80 conforme versões anteriores deste protocolo.
+(E) Aumenta a latência na web ao impedir a compactação de cabeçalhos HTTP para manter a retrocompatibilidade.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 07-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A empresa desenvolvedora de softwares BravoSoft foi certificada por uma comissão avaliadora do Programa de Melhoria de Processo de Software Brasileiro (MPS.BR). A comissão avaliadora concluiu que a BravoSoft executa os processos de forma previsível, isto é, dentro de limites definidos de modo a atingir os resultados esperados, mas que ainda faltam propostas de melhoria para os processos, baseadas em análise estatística. Sendo assim, a BravoSoft foi certificada no nível de maturidade do MPS.BR:
+
+[ALTERNATIVAS]
+(A) D - Definido;
+(B) F - Gerenciado;
+(C) C - Totalmente Definido;
+(D) E - Parcialmente Definido;
+(E) B - Gerenciado Quantitativamente.
+
+[GABARITO]
+E

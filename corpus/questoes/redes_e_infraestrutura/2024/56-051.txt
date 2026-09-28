@@ -1,0 +1,18 @@
+ID: 56-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto de sistemas computacionais, uma interrupção (IRQ - Interrupt Request) é um sinal enviado a um processador, indicando um evento que precisa de atenção imediata. Com base nessa definição, é correto afirmar, em relação ao funcionamento das interrupções, que:
+
+[ALTERNATIVAS]
+(A) uma IRQ pode ser gerada exclusivamente por dispositivos externos ao processador, como teclados e mouses, e nunca por software;
+(B) todas as IRQs têm a mesma prioridade, sendo tratadas na ordem exata em que são recebidas pelo processador, independentemente de sua fonte ou importância;
+(C) uma vez que uma IRQ é recebida, o processador imediatamente interrompe qualquer tarefa que esteja executando, sem salvar o estado atual da tarefa interrompida;
+(D) as IRQs são desnecessárias em sistemas operacionais modernos, pois eles possuem mecanismos alternativos que substituem a necessidade de interrupções;
+(E) as IRQs permitem que o processador seja alertado sobre eventos importantes, pausando temporariamente a execução do programa atual para tratar o evento, e, em seguida, restaurando o estado anterior do programa e continuando a execução de onde havia parado.
+
+[GABARITO]
+E

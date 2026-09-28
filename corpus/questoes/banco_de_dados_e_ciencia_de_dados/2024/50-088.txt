@@ -1,0 +1,18 @@
+ID: 50-088
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Algumas importantes bibliotecas de programação em Python desempenham papel crucial no desenvolvimento de soluções eficientes para uma variedade de problemas em Ciência de Dados e Aprendizado de Máquina. O objetivo principal da biblioteca Pandas no contexto da ciência de dados e análise de dados é
+
+[ALTERNATIVAS]
+(A) facilitar a manipulação e análise de dados estruturados pela disponibilização de opções de estruturas de dados.
+(B) fornecer ferramentas para processamento de linguagem natural e textos.
+(C) oferecer uma interface de alto nível para construção e treinamento de modelos de redes neurais.
+(D) prover funcionalidades para manipulação de datas e horas de forma eficiente.
+(E) realizar cálculos numéricos eficientes e manipulação de arrays multidimensionais.
+
+[GABARITO]
+A

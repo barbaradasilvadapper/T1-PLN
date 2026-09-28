@@ -1,0 +1,18 @@
+ID: 07-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A normalização de esquemas de bancos de dados é feita a partir das dependências funcionais existentes entre as colunas de uma tabela. Além disso, é possível combinar dependências e derivar novas dependências a partir de axiomas preestabelecidos. Considerando uma tabela hipotética, com colunas X, Y e Z, o axioma da transitividade é definido como segue:
+
+[ALTERNATIVAS]
+(A) Se X → Y e X → Z então Z → XY;
+(B) Se X → Y e Y → Z então X → Z;
+(C) Se X → Y então XZ → YZ;
+(D) Se X → Y então X → XY;
+(E) Se XY → Z então X → Z.
+
+[GABARITO]
+B

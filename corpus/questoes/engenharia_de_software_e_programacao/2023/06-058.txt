@@ -1,0 +1,18 @@
+ID: 06-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Laura precisa modelar o processo de negócio do seu setor, explicitando o fluxo de trabalho (workflow), visando sua automatização via desenvolvimento de um Sistema de Informação. Para isso, o diagrama comportamental da UML que Laura deve usar é o(a):
+
+[ALTERNATIVAS]
+(A) Use Case;
+(B) Atividade;
+(C) Comunicação;
+(D) Sequência;
+(E) Máquina de Estado.
+
+[GABARITO]
+B

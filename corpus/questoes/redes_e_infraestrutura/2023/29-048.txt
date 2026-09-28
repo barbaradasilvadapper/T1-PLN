@@ -1,0 +1,18 @@
+ID: 29-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Para o pleno funcionamento de serviços importantes como telefonia IP, FTP, DNS e outros, é fundamental a característica de alguns protocolos da camada de transporte. Baseado nessas informações, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) para se referir ao pacote na camada de transporte, no TCP é chamado datagrama, e para o UDP é segmento;
+(B) o UDP oferece à aplicação solicitante um serviço orientado para conexão;
+(C) o UDP e o TCP fornecem verificação de integridade ao incluir campos de detecção de erros nos cabeçalhos de seus segmentos;
+(D) o TCP não fornece os serviços de entrega de dados processo a processo e verificação de erros;
+(E) o TCP fornece transferência confiável de dados, mas não fornece controle de congestionamento.
+
+[GABARITO]
+C

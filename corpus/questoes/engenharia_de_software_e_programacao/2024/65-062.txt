@@ -1,0 +1,18 @@
+ID: 65-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma empresa de tecnologia está planejando utilizar a análise por pontos de função para estimar o esforço e os custos envolvidos. Sobre a implementação dessa técnica de estimativa, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A contagem de pontos de função IFPUG é mais adequada para projetos de manutenção, pois considera apenas os ajustes diretos em funcionalidades existentes.
+(B) A Nesma oferece uma abordagem alternativa que não diferencia projetos de desenvolvimento e de manutenção, tratando todos os esforços de software igualmente.
+(C) A análise por pontos de função, independente da metodologia escolhida, não pode ser aplicada em projetos que utilizam metodologias ágeis devido à sua rigidez estrutural.
+(D) A metodologia IFPUG para contagem de pontos de função em projetos de manutenção considera três tipos de funções: consultas internas, consultas externas e arquivos de interface interna.
+(E) O uso de deflatores é uma prática recomendada pela Nesma para aumentar a precisão da contagem de pontos de função em projetos de desenvolvimento, ajustando o tamanho funcional do software em função da complexidade técnica.
+
+[GABARITO]
+B

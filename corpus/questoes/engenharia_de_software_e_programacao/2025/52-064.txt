@@ -1,0 +1,18 @@
+ID: 52-064
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Sobre metodologias de desenvolvimento de software ágeis, relacione as listadas a seguir às respectivas caracterizações. 1. Scrum 2. Kanban ( ) A sua principal ferramenta é um quadro que é dividido em colunas, cada uma representando um estágio de desenvolvimento dos elementos de funcionalidade do software. ( ) Os seus principais artefatos incluem o backlog do produto e o backlog do sprint. ( ) O trabalho é distribuído em ciclos chamados sprints, com duração de 3 a 4 semanas, nos quais a equipe se adapta às necessidades e desafios que surgem, garantindo flexibilidade no processo. ( ) Promove a reflexão sobre o processo e a realização de ajustes, para aumentar a eficiência e a qualidade do trabalho entregue. A associação correta, segundo a ordem apresentada, é:
+
+[ALTERNATIVAS]
+(A) 2 – 1 – 2 – 1.
+(B) 1 – 1 – 2 – 2.
+(C) 2 – 2 – 1 – 2.
+(D) 1 – 2 – 1 – 2.
+(E) 2 – 1 – 1 – 2.
+
+[GABARITO]
+E

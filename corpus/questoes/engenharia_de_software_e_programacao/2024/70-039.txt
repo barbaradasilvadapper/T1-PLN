@@ -1,0 +1,18 @@
+ID: 70-039
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No HTML5, o elemento especificamente projetado para definir uma área dentro de um documento web que pode ser utilizada para desenhar gráficos bitmap, utilizando linguagens de script como o JavaScript é
+
+[ALTERNATIVAS]
+(A) <figure>
+(B) <canvas>
+(C) <picture>
+(D) <svg>
+(E) <data>
+
+[GABARITO]
+B

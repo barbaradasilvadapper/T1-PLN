@@ -1,0 +1,18 @@
+ID: 81-066
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A organização internacional OWASP (Open Web Application Security Project) é focada em segurança de aplicações para web. Dentre os OWASP Top 10 Riscos de Segurança de Aplicações Web apresentados no ranking provisório de 2025, destacam-se: A01:2025 - Broken Access Control; A02:2025 - Security Misconfiguration; A03:2025 - Software Supply Chain Failures; e, A04:2025 - Cryptographic Failures. Destaca-se que a versão vigente é o OWASP Top Ten 2021, na qual verificamos dentre as primeiras posições os riscos de A01 Broken Access Control e A05 Security Misconfiguration. Como demonstrado, o Broken Access Control figura com um importante risco de segurança de aplicações para web e significa que deve ser estabelecida uma política de
+
+[ALTERNATIVAS]
+(A) monitoramento que ajudem a detectar, escalar e responder a violações ativa de registro.
+(B) controle de acesso que imponha restrições aos usuários para inviabilizar ações fora das permissões pretendidas, o que busca minimizar o risco de falhas que levem à divulgação não autorizada, modificação ou destruição de todos os dados.
+(C) confirmação da identidade do usuário, por meio de autenticação e gerenciamento de sessões para proteção contra ataques
+(D) configuração de segurança de aplicação repetível, os sistemas correm maior risco.
+(E) integridade de software e dados que estão relacionadas a código e infraestrutura que não protegem contra violações de integridade.
+
+[GABARITO]
+B

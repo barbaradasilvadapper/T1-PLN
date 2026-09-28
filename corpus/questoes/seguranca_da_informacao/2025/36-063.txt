@@ -1,0 +1,18 @@
+ID: 36-063
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma multinacional está implementando um banco de dados distribuído com a intenção de disponibilizar o acesso às suas filiais. Após o sistema entrar em produção, foi identificado um percurso dos dados que violam a política de segurança da empresa. Tal fato permite a redução da classificação por meios impróprios, de forma que uma informação que possui um grau de sigilo maior consegue ser tramitada por um caminho com nível de classificação mais baixo. A multinacional precisou tomar, como medida, o controle:
+
+[ALTERNATIVAS]
+(A) de acesso;
+(B) de inferência;
+(C) da atribuição do nível de segurança;
+(D) da concessão de privilégios;
+(E) de fluxo.
+
+[GABARITO]
+E

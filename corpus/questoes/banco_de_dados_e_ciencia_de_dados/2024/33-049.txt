@@ -1,0 +1,18 @@
+ID: 33-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Ana identificou que, em seu banco de dados, ocorria muita demora na execução de algumas transações específicas, que chegavam até a falhar algumas vezes. Ao efetuar uma análise, viu que não havia controle nas transações ocorridas. Como forma de garantir seus schedules estritos, Ana implementou um bloqueio em 2 fases rigoroso. Esse bloqueio implementado por Ana fará com que:
+
+[ALTERNATIVAS]
+(A) uma transação bloqueie todos os itens que ela acessa antes que a transação inicie a execução;
+(B) seja executado um downgrade do bloqueio ao se emitir uma operação read_lock(X), mesmo com a transação ainda em execução;
+(C) uma transação T não libere nenhum de seus bloqueios exclusivos (gravação) até depois de confirmar ou abortar;
+(D) seja gerado um rótulo de tempo, que será usado para garantir a serialização das transações;
+(E) uma transação T não libere nenhum de seus bloqueios (exclusivo ou compartilhado) até depois de confirmar ou abortar.
+
+[GABARITO]
+E

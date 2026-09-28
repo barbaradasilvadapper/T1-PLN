@@ -1,0 +1,18 @@
+ID: 01-041
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere um banco de dados que contém uma tabela com os atributos CPF, Nome, RG e Endereço, com milhões de registros. Sabe-se que cada pessoa tem seus próprios CPF e RG e um único nome, embora possa haver homônimos. Sendo assim, a dependência funcional que NÃO existe entre os atributos dessa tabela é:
+
+[ALTERNATIVAS]
+(A) CPF → Nome
+(B) CPF → RG
+(C) Endereço → CPF
+(D) RG → Endereço
+(E) RG → Nome
+
+[GABARITO]
+C

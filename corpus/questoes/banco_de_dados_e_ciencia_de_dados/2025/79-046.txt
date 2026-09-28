@@ -1,0 +1,18 @@
+ID: 79-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista Otávio está avaliando a solução de Business Intelligence do MPU desenvolvida por uma empresa contratada. Ao observar o banco de dados implementado, Otávio verificou que havia um esquema estrela, e que os dados armazenados estavam desnormalizados e alimentavam um cubo de dados para serem acessados e analisados via ferramenta OLAP. A partir do observado, Otávio concluiu que o banco de dados era um:
+
+[ALTERNATIVAS]
+(A) ETL;
+(B) ODS;
+(C) Data Mart;
+(D) Dashboad;
+(E) Repositório de Metadados.
+
+[GABARITO]
+C

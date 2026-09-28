@@ -1,0 +1,18 @@
+ID: 36-066
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma empresa de segurança observou que os pacotes transmitidos começaram a não chegar em seus destinos. Suas mensagens eram cifradas com o RSA e estavam sendo direcionadas para uma outra máquina intrusa. O responsável pela segurança foi informado e conseguiu invadir a máquina do destino dos pacotes e identificou que os pacotes sofriam ataques de temporização, ou seja, tentava identificar a variação de tempo em implementações da exponenciação modular (como no RSA). Para dificultar o ataque, foi utilizada a técnica de multiplicar o texto cifrado por um número aleatório antes de realizar a exponenciação. Em seu relatório, o responsável pela segurança descreveu a técnica usada como:
+
+[ALTERNATIVAS]
+(A) tempo de exponenciação constante;
+(B) atraso aleatório;
+(C) análise eletromagnética simples;
+(D) ofuscação;
+(E) análise de potência simples.
+
+[GABARITO]
+D

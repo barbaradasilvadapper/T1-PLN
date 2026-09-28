@@ -1,0 +1,18 @@
+ID: 88-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto da linguagem PHP, analise as afirmativas a seguir. I. Os comandos print e echo podem ser usados para produzir saída de dados (ouput). II. Todos os comandos de saída retornam o valor zero. III. Todos os comandos de saída podem receber múltiplos argumentos de entrada. Está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) II, apenas.
+(B) I, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

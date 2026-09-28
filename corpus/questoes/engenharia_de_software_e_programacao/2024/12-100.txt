@@ -1,0 +1,18 @@
+ID: 12-100
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O GIT é uma ferramenta importante, amplamente utilizada no desenvolvimento de códigos de computador. Com seu uso, múltiplos desenvolvedores podem participar de um projeto simultaneamente, editando e criando arquivos sem o risco de que suas alterações conflitem de formas inesperadas. Em relação ao GIT, avalie as afirmativas a seguir. I. Ao fazer modificações que visem apenas a otimização da velocidade de execução e utilização da memória do código base da aplicação, o commit deve ser realizado simultaneamente nos diversos branches ativos. II. Mudanças salvas com o comando git stash podem ser reaplicadas em branches diferentes daquelas em que foram geradas. III. O comando git log, sem argumentos, lista os commits realizados no repositório.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) II e III, apenas.
+(E) I e III, apenas.
+
+[GABARITO]
+D

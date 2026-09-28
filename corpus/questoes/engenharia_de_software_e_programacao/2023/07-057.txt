@@ -1,0 +1,18 @@
+ID: 07-057
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Luiz está implementando um novo site governamental e se preocupa em aplicar os princípios de acessibilidade definidos pela W3C e pelo governo federal. Um princípio adotado por Luiz, diretamente relacionado ao acesso por pessoas com daltonismo, é o(a):
+
+[ALTERNATIVAS]
+(A) de evitar alinhamento justificado para blocos de texto, de forma a manter espaços constantes entre as palavras;
+(B) utilização de alto contraste nas cores, sendo recomendada uma taxa mínima de 4,5:1;
+(C) transcrição escrita dos áudios, permitindo a compreensão de conteúdo audiovisual;
+(D) uso de fontes grandes ou com tamanho personalizável, onde o nível de ampliação pode ser escolhido;
+(E) navegação por teclado, diminuindo a dependência do uso de mouse como dispositivo de entrada.
+
+[GABARITO]
+B

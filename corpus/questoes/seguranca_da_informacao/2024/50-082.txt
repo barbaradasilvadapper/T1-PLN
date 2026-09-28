@@ -1,0 +1,18 @@
+ID: 50-082
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em relação às tecnologias de segurança de rede e protocolos de comunicação segura, analise as afirmações abaixo: I. VPN (Virtual Private Network) e VPN-SSL (Virtual Private Network - Secure Sockets Layer) são tecnologias que permitem a criação de conexões seguras e criptografadas através de redes públicas, mas VPN-SSL especificamente utiliza o protocolo SSL; II. SSL (Secure Sockets Layer) é um protocolo criptográfico projetado exclusivamente para navegação web não funcionando com VPNs; III. A renegociação segura durante o handshake no protocolo TLS é um processo que permite que as partes já conectadas concordem em novos parâmetros de segurança sem necessidade de encerrar a conexão existente.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

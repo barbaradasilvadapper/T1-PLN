@@ -1,0 +1,18 @@
+ID: 45-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Na análise de um roteador, foi identificado que estava ocorrendo um grande atraso no tempo para examinar o cabeçalho do pacote e determinar para onde direcioná-lo. É correto afirmar que está ocorrendo um atraso de:
+
+[ALTERNATIVAS]
+(A) fila;
+(B) propagação;
+(C) transmissão;
+(D) processamento;
+(E) encapsulamento.
+
+[GABARITO]
+D

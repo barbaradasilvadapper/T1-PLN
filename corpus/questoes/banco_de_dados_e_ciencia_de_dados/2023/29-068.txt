@@ -1,0 +1,18 @@
+ID: 29-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Durante a Mineração dos Dados sobre a tramitação dos processos eletrônicos do TJSE, o analista Pedro não estava chegando a resultados compreensíveis e resolveu verificar se havia anomalias nos dados. Para isso, o analista Pedro empregou a técnica:
+
+[ALTERNATIVAS]
+(A) clusterização;
+(B) detecção de outlier;
+(C) regras de associação;
+(D) análise de regressão;
+(E) normalização de dados.
+
+[GABARITO]
+B

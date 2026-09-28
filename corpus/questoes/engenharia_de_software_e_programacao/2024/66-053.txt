@@ -1,0 +1,18 @@
+ID: 66-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Temos uma aplicação Spring Boot, utilizando Gradle e o H2. Assinale a opção que descreve, corretamente, os passos para migrar esta aplicação para usar o Maven com MySQL.
+
+[ALTERNATIVAS]
+(A) 1 - Remover todas as configurações do Gradle 2 - Adicionar dependência do MySQL no build.gradle 3 - Alterar as configurações do MySQL
+(B) 1 - Manter o arquivo build.gradle e renomeá-lo para pom.xml 2 - Atualizar as configurações do MySQL 3 - Criar o esquema do banco de dados manualmente
+(C) 1 - Converter o build.gradle para pom.xml 2 - Adicionar a dependência do MySQL no pom.xml 3 - Atualizar o application.properties para o MySQL
+(D) 1 - Criar um novo projeto usando o npm (Node Package Manager) com configurações para Maven e MySQL. 2 - Copiar o código fonte do projeto antigo para o novo 3 - Reconfigurar o application.properties para o MySQL.
+(E) 1 - Adicionar a dependência do MySQL no pom.xml 2 - Remover a dependência do H2 do pom.xml 3 - Adicionar as configurações do MySQL no pom.xml
+
+[GABARITO]
+C

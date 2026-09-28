@@ -1,0 +1,18 @@
+ID: 17-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Sobre a utilização de views, em bancos de dados como MySQL, SQL Server, analise as afirmativas a seguir. I. Views servem para construir e armazenar o conteúdo de consultas complexas de uso frequente. II. Os principais SGBD não permitem o uso de operações de update/delete sobre views. III. Em geral, as views não podem ser referenciadas na cláusula FROM em outras consultas SQL. Está correto somente o que se afirma em:
+
+[ALTERNATIVAS]
+(A) I;
+(B) II;
+(C) III;
+(D) I e II;
+(E) II e III.
+
+[GABARITO]
+A

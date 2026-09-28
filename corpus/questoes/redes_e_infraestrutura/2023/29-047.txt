@@ -1,0 +1,18 @@
+ID: 29-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Carlos foi contratado para substituir a tecnologia de armazenamento atual que usa a técnica de stripping e não aplica o conceito de redundância. Na tecnologia futura, indicada para substituir a atual, os dados são divididos entre todos os discos menos um, que servirá exclusivamente para inserir os elementos de paridade, e o tamanho dos blocos a serem armazenados é grande, indicado para casos de arquivos grandes. As tecnologias de armazenamento atual e futura que Carlos deverá substituir são, respectivamente:
+
+[ALTERNATIVAS]
+(A) RAID 0 e RAID 5;
+(B) RAID 2 e RAID 4;
+(C) RAID 1 e RAID 2;
+(D) RAID 2 e RAID 5;
+(E) RAID 0 e RAID 4.
+
+[GABARITO]
+E

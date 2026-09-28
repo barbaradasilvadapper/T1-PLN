@@ -1,0 +1,18 @@
+ID: 48-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Marcos desenvolveu um novo frontend para a aplicação TCEDigital, a fim de modernizar a experiência do usuário. O backend da TCEDigital é exposto por meio de uma Application Programming Interface (API) web. O novo frontend desenvolvido por Marcos utiliza a API web do backend já existente e não exige a desativação do frontend antigo, com ambos coexistindo ao mesmo tempo. À luz da arquitetura hexagonal, Marcos adicionou à TCEDigital um(a):
+
+[ALTERNATIVAS]
+(A) aplicação;
+(B) porta primária;
+(C) porta secundária;
+(D) adaptador primário;
+(E) adaptador secundário.
+
+[GABARITO]
+D

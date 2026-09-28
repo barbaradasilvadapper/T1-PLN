@@ -1,0 +1,18 @@
+ID: 34-070
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Para implementar auditoria detalhada de acesso a dados sensíveis em Oracle Database visando conformidade regulatória, o tipo de auditoria que permite rastrear acessos específicos a linhas baseado em condições detalhadas é
+
+[ALTERNATIVAS]
+(A) Standard Database Auditing.
+(B) SYS Auditing.
+(C) Value-Based Auditing.
+(D) Mandatory Auditing.
+(E) Fine-Grained Auditing (FGA).
+
+[GABARITO]
+E

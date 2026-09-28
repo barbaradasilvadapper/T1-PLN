@@ -1,0 +1,18 @@
+ID: 50-086
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Indique a opção que descreve corretamente a autenticação em múltiplos fatores.
+
+[ALTERNATIVAS]
+(A) Determinar as permissões de acesso dos usuários baseadas em seus papéis dentro da organização.
+(B) Registrar todas as tentativas de acesso ao sistema para revisão futura pela equipe de segurança.
+(C) Minimizar o risco de acesso não autorizado ao exigir que os usuários forneçam múltiplas formas de verificação de identidade.
+(D) Definir claramente as permissões de acesso para diferentes grupos de usuários, como desenvolvedores e gerentes de projeto.
+(E) Permitir que a equipe de segurança monitore e revise as atividades de acesso dos usuários regularmente.
+
+[GABARITO]
+C

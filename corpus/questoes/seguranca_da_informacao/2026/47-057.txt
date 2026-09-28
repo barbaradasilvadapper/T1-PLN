@@ -1,0 +1,18 @@
+ID: 47-057
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A integridade da identidade digital e a autenticidade de documentos em ambientes de rede dependem de uma arquitetura estruturada conhecida como Infraestrutura de Chaves Públicas (PKI – Public Key Infrastructure). Graças ao uso de certificados digitais e a uma hierarquia de confiança, é possível garantir que uma chave pública pertence, de fato, à entidade que a apresenta, evitando ataques de personificação. Com relação aos componentes desse ecossistema e o seu funcionamento, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O certificado X.509 armazena, primordialmente, a chave simétrica do usuário, funcionando como um repositório público para simplificar a decifragem de informações.
+(B) A Autoridade de Registro (AR) é a entidade responsável por assinar digitalmente o certificado final, substituindo a necessidade de uma Autoridade Certificadora (AC) em redes locais.
+(C) A Autoridade Certificadora (AC) utiliza a sua própria chave pública para realizar a assinatura digital dos certificados dos usuários, garantindo que o conteúdo do documento seja criptografado e ilegível para terceiros.
+(D) As Listas de Revogação de Certificados (Certificate Revocation List – CRL) armazenam todas as chaves privadas que já foram utilizadas em uma PKI, permitindo que qualquer usuário recupere sua chave em caso de perda.
+(E) A confiança em um certificado digital baseia-se em uma "cadeia de confiança", onde a validade do certificado de um site é atestada pela assinatura digital de uma Autoridade Certificadora (AC) reconhecida pelo sistema ou navegador.
+
+[GABARITO]
+E

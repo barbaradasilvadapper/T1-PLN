@@ -1,0 +1,18 @@
+ID: 58-030
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte código em Swift: var nome = "João" let closure = { [nome] in print("Olá \(nome)")} nome = "Maria" closure() Assinale a opção que indica a saída do terminal após a execução do código acima.
+
+[ALTERNATIVAS]
+(A) A saída do código será "Olá " (uma saída vazia sem o nome).
+(B) A saída do código será "Olá João Maria".
+(C) A saída do código será "Olá João".
+(D) A saída do código será "Olá Maria".
+(E) O código retornará um erro.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 55-037
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Durante o planejamento da integração entre os sistemas de um órgão público, a equipe discutiu o uso de serviços baseados em SOAP (Simple Object Access Protocol) e em REST (Representational State Transfer). Na ocasião, foram apresentadas as seguintes afirmações: I. Em arquiteturas REST, a restrição de ausência de estado na comunicação entre cliente e servidor tende a favorecer a escalabilidade, pois cada requisição deve conter as informações necessárias ao seu processamento. II. Em SOAP, a adoção do HTTP (Hypertext Transfer Protocol) implica que todas as operações sejam idempotentes, independentemente do método utilizado. III. Em soluções baseadas em SOAP, o uso de WSDL (Web Services Description Language) pode contribuir para uma descrição formal do serviço, o que favorece a interoperabilidade contratual entre aplicações.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 94-072
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista João implementou o PStream, um fluxo de tratamento de dados em tempo real, através do Apache Kafka. O PStream é alimentado pela captura em tempo real das alterações feitas em uma base de dados relacional. Para configurar esta captura de dados relacionais para o PStream, João recorreu aos mecanismos do Apache Kafka para integração com outros sistemas. Esses mecanismos de integração utilizados por João para integrar o Apache Kafka com outros sistemas são baseados na Application Programming Interface (API) do Apache Kafka:
+
+[ALTERNATIVAS]
+(A) Admin;
+(B) Connect;
+(C) Streams;
+(D) Producer;
+(E) Consumer.
+
+[GABARITO]
+B

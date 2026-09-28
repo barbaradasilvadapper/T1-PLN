@@ -1,0 +1,18 @@
+ID: 81-065
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O certificado digital é um documento eletrônico que identifica uma pessoa, uma empresa, um site ou um servidor. Este documento é emitido por uma Autoridade Certificadora, que é a entidade responsável por emitir, distribuir, renovar, revogar e gerenciar os certificados digitais. Com relação ao uso de certificados digitais, analise os itens a seguir: I. No Brasil o modelo adotado é o de certificação com raiz única, sendo que o Instituto Nacional de Tecnologia da Informação (ITI), além de desempenhar o papel de Autoridade Certificadora Raiz (AC-Raiz) também tem a função de credenciar e descredenciar os demais participantes da cadeia, supervisionar e auditar os processos. II. A Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) é uma cadeia hierárquica de confiança que viabiliza a emissão de certificados digitais para a identificação virtual, sendo que um certificado emitido por qualquer autoridade certificadora ICP- Brasil deva funcionar em qualquer sistema, inclusive nos sites e serviços de entidades de organização profissional. III. No âmbito da ICP-Brasil é necessário um certificado digital, dos tipos diferentes A1 ou A3, emitido por uma autoridade certificadora credenciada junto à ICP-Brasil, com prazo indeterminado de validade após iniciar seu prazo de criação do certificado digital, para que determinado documento digital seja validado.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

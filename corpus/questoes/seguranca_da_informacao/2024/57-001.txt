@@ -1,0 +1,18 @@
+ID: 57-001
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Infraestrutura de Chaves Públicas Brasileira – ICP-Brasil é uma cadeia hierárquica de confiança que viabiliza a emissão de certificados digitais para identificação virtual de cidadãos e de empresas. Sobre a hierarquia da ICP-Brasil, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) a Autoridade Certificadora do Tempo (ACT) tem a responsabilidade geral pelo fornecimento do Carimbo do Tempo, que é o conjunto de atributos fornecidos pela parte confiável do tempo que, associado a uma assinatura digital, confere prova da sua existência em determinado período de tempo;
+(B) o Prestador de Serviço de Suporte (PSS) é responsável pela interface entre o usuário e a Autoridade Certificadora (AC), tendo por objetivo o recebimento, a validação e o encaminhamento de solicitações de emissão ou revogação de certificados digitais;
+(C) uma Autoridade Certificadora (AC) é uma entidade pública, subordinada à hierarquia da ICP-Brasil, responsável por emitir, distribuir, renovar, revogar e gerenciar certificados digitais;
+(D) a Autoridade de Registro (AR) verifica se as ACs estão atuando em conformidade com as diretrizes e normas técnicas estabelecidas pelo Comitê Gestor da ICP-Brasil;
+(E) os Prestadores de Serviço Biométrico (PSBios) gerenciam bancos de dados biométricos e emitem certificados digitais.
+
+[GABARITO]
+A

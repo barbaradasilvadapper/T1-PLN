@@ -1,0 +1,18 @@
+ID: 59-045
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação ao dispositivo de rede do tipo switch, analise as afirmativas a seguir. I. O switch é um dispositivo que trabalha na camada 2 do modelo OSI. II. O switch mantém uma tabela dinâmica com os endereços físicos (MAC) das máquinas conectadas a cada porta. III. O switch multicamada agrega funcionalidades típicas de dispositivos da camada 3, como, por exemplo, NAT (Network Address Translation).
+
+[ALTERNATIVAS]
+(A) somente I;
+(B) somente II;
+(C) somente I e II;
+(D) somente I e III;
+(E) I, II e III.
+
+[GABARITO]
+E

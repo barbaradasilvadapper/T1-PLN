@@ -1,0 +1,18 @@
+ID: 50-085
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Analise as afirmativas a seguir sobre criptografia assimétrica e simétrica, certificados digitais e assinaturas digitais: I. A criptografia simétrica utiliza a mesma chave para cifrar e decifrar uma mensagem, desde que a chave seja compartilhada de maneira segura entre as partes. II. Certificados digitais são utilizados para vincular apenas a chave privada a uma identidade, permitindo que terceiros confiem na autenticidade da chave. III. Assinaturas digitais utilizam a criptografia assimétrica para garantir a integridade e autenticidade de uma mensagem, mas não a confidencialidade do conteúdo.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 30-030
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A administradora de rede Claudia recebeu um bloco de endereços IP no formato CIDR para uma nova sub-rede. O bloco de endereços CIDR atribuído é 192.168.10.0/24. Claudia precisa dividir esse bloco de endereços em quatro sub-redes menores para atender às necessidades específicas da organização. Considerando que se precise ocupar todo o bloco de endereços e que a quantidade de endereços IP deve ser igual, os novos prefixos CIDR de cada sub-rede resultante após a subdivisão serão:
+
+[ALTERNATIVAS]
+(A) 192.168.10.0/26, 192.168.10.64/26, 192.168.10.128/26 e 192.168.10.192/26;
+(B) 192.168.10.0/27, 192.168.10.32/27, 192.168.10.64/27 e 192.168.10.96/27;
+(C) 192.168.10.0/28, 192.168.10.16/28, 192.168.10.32/28 e 192.168.10.48/28;
+(D) 192.168.10.0/29, 192.168.10.8/29, 192.168.10.16/29 e 192.168.10.24/29;
+(E) 192.168.10.0/30, 192.168.10.4/30, 192.168.10.8/30 e 192.168.10.12/30.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 50-071
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Roberto está desenvolvendo uma aplicação web usando React, e decidiu utilizar o Bootstrap para que a aplicação seja responsiva. Analise o trecho do código a seguir como parte da aplicação: Marque a opção que aponta problemas para a implementação correta deste projeto.
+
+[ALTERNATIVAS]
+(A) O código não necessita da importação do React pois a exportação já vai incorporar no projeto o React.
+(B) É necessário acrescentar a importação do CSS do Bootstrap.
+(C) O uso de classes como "container", "text-center", e "btn btnprimary" precisa ser mudado pois não funciona no React.
+(D) O Bootstrap não pode ser utilizado em projetos React devido a incompatibilidades entre as bibliotecas.
+(E) A tag `<div>` utilizada não é suportada pelo HTML5.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 66-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Armazéns de dados (ou data warehouses) são bases de dados que se mostram como uma interessante opção em processos de tomada de decisão. Elas armazenam grandes volumes de dados históricos e agregados para apoiar a tomada de decisões estratégicas e operacionais da organização. Assinale a opção que apresenta uma característica correta de um data warehouse.
+
+[ALTERNATIVAS]
+(A) Adequam-se a sistemas OLTP (On Line Transaction Processing).
+(B) Apresentam como característica a dimensão temporal.
+(C) Armazenam especificamente dados de natureza transacional.
+(D) Orientam seu conteúdo à aplicação.
+(E) Possuem dados de natureza volátil.
+
+[GABARITO]
+B

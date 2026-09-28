@@ -1,0 +1,18 @@
+ID: 77-075
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Programação está iniciando a Engenharia de Requisitos para um novo sistema que deve se integrar com o Sistema de Controle Interno (SCI) de outro órgão. Em vez de entrevistar os usuários finais do SCI, o analista foca em levantar e estudar o Manual de Integração de Sistemas, a Especificação da API REST e os contratos de serviço definidos. Assinale a técnica de Elicitação de Requisitos que está sendo utilizada, e qual é sua principal vantagem neste cenário de integração
+
+[ALTERNATIVAS]
+(A) Brainstorming; Geração rápida de soluções técnicas.
+(B) Prototipação Rápida; Clarificação da interface do usuário com base na especificação.
+(C) Observação de Campo; Entendimento do workflow real.
+(D) Análise de Documentos; Obter requisitos de interface e regras de negócio formalmente definidas.
+(E) Entrevista Não-Estruturada; Descoberta de requisitos não documentados.
+
+[GABARITO]
+D

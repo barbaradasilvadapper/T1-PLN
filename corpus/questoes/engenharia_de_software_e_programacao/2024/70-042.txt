@@ -1,0 +1,18 @@
+ID: 70-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A automação de testes desempenha um papel fundamental em pipelines de Integração Contínua (CI) e Entrega Contínua (CD), ao permitir que equipes de desenvolvimento detectem e corrijam problemas rapidamente, mantendo a qualidade do software em níveis adequados. Uma característica importante da automação de testes CI/CD é a capacidade de executar testes automaticamente a cada novo commit no repositório, garantindo que alterações recentes não quebrem funcionalidades existentes. Com base nesse contexto, assinale a opção que descreve corretamente a importância da automação de testes em ambientes CI/CD.
+
+[ALTERNATIVAS]
+(A) A automação de testes em CI/CD é opcional, visto que testes manuais podem ser eficientemente agendados para cobrir todas as mudanças de código.
+(B) A principal vantagem da automação de testes em CI/CD é reduzir o custo dos testes ao eliminar a necessidade de ferramentas de automação.
+(C) A automação de testes em CI/CD permite a execução frequente de testes, ajudando a identificar e corrigir defeitos rapidamente, o que é essencial para manter a qualidade do software.
+(D) Em ambientes de CI/CD, a automação de testes é usada apenas para testes de performance e carga, enquanto testes funcionais devem ser realizados manualmente.
+(E) A automação de testes em CI/CD foca exclusivamente em testes de segurança, deixando outros tipos de testes para serem executados em ambientes de teste dedicados.
+
+[GABARITO]
+C

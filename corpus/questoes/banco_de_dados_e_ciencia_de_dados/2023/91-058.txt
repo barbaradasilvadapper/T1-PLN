@@ -1,0 +1,18 @@
+ID: 91-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O custo total da execução de uma consulta SQL inclui diversos componentes de custos. Em relação ao tema, analise as afirmativas a seguir: I. Custo de acesso ao armazenamento secundário é aquele que considera os custos de transferência (leitura e escritas) de blocos de dados entre o armazenamento de disco secundário e os buffers da memória principal. II. Custo de operação é o custo de realização de operações na memória em registros dentro do buffer de dados durante a execução da consulta. III. Custo de uso da memória é o custo de envio de consulta e seus resultados do local do banco de dados até o local ou equipamento onde foi originada a consulta. Está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I apenas.
+(B) II apenas.
+(C) I e III, apenas
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

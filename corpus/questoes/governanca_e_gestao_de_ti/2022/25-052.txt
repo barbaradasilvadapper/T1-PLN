@@ -1,0 +1,18 @@
+ID: 25-052
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Segundo o ITIL versão 4, a prática que define metas claras e baseadas no negócio para o desempenho dos serviços, permitindo que a entrega de um serviço seja devidamente avaliada, monitorada e gerenciada com relação a essas metas, é o gerenciamento de:
+
+[ALTERNATIVAS]
+(A) capacidade de serviço;
+(B) configuração de serviço;
+(C) continuidade de serviço;
+(D) desempenho de serviço;
+(E) nível de serviço.
+
+[GABARITO]
+E

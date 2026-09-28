@@ -1,0 +1,18 @@
+ID: 41-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O TJSE utiliza máquinas virtuais, e, para cumprir bem o seu papel, os hipervisores devem se sair bem em três dimensões, que são:
+
+[ALTERNATIVAS]
+(A) segurança, fidelidade e eficiência;
+(B) segurança, fidelidade e resiliência;
+(C) fidelidade, eficácia e confidencialidade;
+(D) confidencialidade, resiliência e eficiência;
+(E) resiliência, confidencialidade e segurança.
+
+[GABARITO]
+A

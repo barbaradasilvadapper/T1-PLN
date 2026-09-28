@@ -1,0 +1,18 @@
+ID: 83-039
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Analise o código a seguir escrito em shell script: Ao executar esse programa em um terminal será escrito na saída padrão:
+
+[ALTERNATIVAS]
+(A) www.website_trt.com.br
+(B) www.website_trt.cxm.br
+(C) website
+(D) http://www.website_trt
+(E) http://www.website_trt.com.br FGV
+
+[GABARITO]
+B

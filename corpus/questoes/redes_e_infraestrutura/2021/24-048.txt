@@ -1,0 +1,18 @@
+ID: 24-048
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A gerente de redes Renata é responsável pelo planejamento, instalação, operação, monitoramento e controle dos sistemas de hardware e software que constituem a rede corporativa da empresa onde trabalha. Para gerenciar a rede, Renata faz uso do modelo FCAPS (Fault, Configuration, Accounting, Performance, Security), o qual é derivado da recomendação M.3400 do ITU (International Telecommunication Union). As premissas do modelo FCAPS a serem atendidas pela empresa são: - exigir a necessidade de captura e exibição dos pacotes ou estatísticas sobre os pacotes; - gerar gráficos de desempenho ao longo do tempo para ajudar a detectar tendências; - rodar algoritmos de programação linear para ajudar o gerente a aperfeiçoar a arquitetura da rede. Com o objetivo de aderir às premissas do modelo FCAPS, Renata deve usar, respectivamente, as ferramentas de:
+
+[ALTERNATIVAS]
+(A) engenharia de tráfego, roteamento, configuração;
+(B) analisador de protocolo, monitoramento de desempenho, planejamento;
+(C) analisador de fluxo, descoberta de redes, analisador de pacotes;
+(D) teste da camada física, analisador de pacotes, monitoramento de desempenho;
+(E) planejamento, engenharia de tráfego, analisador de pacotes.
+
+[GABARITO]
+B

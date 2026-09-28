@@ -1,0 +1,18 @@
+ID: 21-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando o ciclo de vida de um projeto, analise as afirmativas a seguir. I. No ciclo de vida preditivo, o esforço de planejamento ocorre nas fases intermediárias do projeto. É a abordagem mais tradicional e se trata de processos sequenciais. II. No ciclo de vida iterativo é permitido, de tempos em tempos, algum tipo de retorno por parte das principais partes interessadas engajadas no projeto. A equipe do projeto recebe feedbacks sobre os trabalhos ainda não finalizados, com o objetivo de melhorar o que está sendo produzido. III. O ciclo de vida ágil é formado pela junção dos ciclos de vida preditivo e incremental. As atividades são planejadas somente no início do projeto e as versões incompletas são entregues, de tempos em tempos, para que sejam avaliadas pelo cliente.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 88-052
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O perito José foi incumbido de extrair os dados referentes às mensagens de Short Message Service (SMS) transmitidas e recebidas pelo aplicativo Mensagens de um dispositivo iOS. Para tanto, José desbloqueou o acesso aos arquivos internos do iOS e copiou a pasta SMS localizada em
+
+[ALTERNATIVAS]
+(A) /private/var/logs.
+(B) /private/var/root/Media.
+(C) /private/var/mobile/Media.
+(D) /private/var/mobile/Library.
+(E) /private/var/mobile/Applications.
+
+[GABARITO]
+D

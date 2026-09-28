@@ -1,0 +1,18 @@
+ID: 61-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma aplicação de e-commerce possui a seguinte classe Pedido, que cria diretamente uma instância de ServicoDePagamento e ServicoDeNotificacao para processar pagamentos e enviar notificações ao cliente: Este código viola o Princípio da Inversão de Dependência (DIP). Para seguir corretamente o DIP, deve-se refatorar o código
+
+[ALTERNATIVAS]
+(A) removendo a dependência de ServicoDePagamento e movendo a lógica de pagamento diretamente para a classe Pedido.
+(B) usando um padrão Singleton para ServicoDePagamento e ServicoDeNotificacao, garantindo que as instâncias sejam compartilhadas entre diferentes classes.
+(C) introduzindo interfaces IPagamento e INotificacao, e injetando-as via construtor na classe Pedido, permitindo a inversão de dependências para abstrações em vez de implementações concretas.
+(D) alterando o código para usar herança, fazendo com que Pedido herde de uma classe abstrata que define os métodos de pagamento e notificação.
+(E) criando uma fábrica (Factory) que cria instâncias de ServicoDePagamento e ServicoDeNotificacao e as injeta na classe Pedido.
+
+[GABARITO]
+C

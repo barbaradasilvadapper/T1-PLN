@@ -1,0 +1,18 @@
+ID: 52-070
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O termo NoSQL, abreviação de “Not Only SQL” (não apenas SQL), refere-se a uma classe de bancos de dados que abandonam o paradigma relacional. Embora os bancos relacionais sejam excelentes em muitos casos, eles não atendem todas as necessidades. À medida que os requisitos de dados e consultas mudam, os bancos de dados relacionais podem falhar, levando à necessidade de bancos de dados mais apropriados, como os NoSQL. Entre eles, há um tipo especialmente indicado para situações com numerosas e complexas relações entre os dados, sobretudo nas conexões muitos-para-muitos, em que sua modelagem se torna mais intuitiva. Com base no relato, é correto afirmar que o tipo em questão é orientado a:
+
+[ALTERNATIVAS]
+(A) chave-valor.
+(B) grafos.
+(C) documentos.
+(D) colunas.
+(E) séries temporais.
+
+[GABARITO]
+B

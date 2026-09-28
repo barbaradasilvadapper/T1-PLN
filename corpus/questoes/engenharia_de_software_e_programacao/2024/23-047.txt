@@ -1,0 +1,17 @@
+ID: 23-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Durante uma entrevista para uma posição de desenvolvimento de software, o entrevistador deseja avaliar seu conhecimento sobre alguns princípios básicos e sua habilidade em reconhecer linguagens de programação que incorporam esses conceitos. Assinale a opção que indica a linguagem que tem, como características, o encapsulamento, a herança, o polimorfismo e a abstração.
+
+[ALTERNATIVAS]
+(A) Python, JavaScript e JQuery.
+(B) NodeJS, HTML 5 e C#.
+(C) C#, JQuery e CSS3.
+(D) C#, Java, Python.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 55-041
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em uma aplicação corporativa de um tribunal, os usuários acessam o sistema por meio de navegadores instalados em suas estações de trabalho. As regras de negócio, o controle de acesso e a comunicação com o banco de dados são centralizados em servidores da instituição. As estações dos usuários apenas enviam requisições, recebem respostas e exibem as telas da aplicação, sem executar localmente as principais rotinas de processamento. A arquitetura da aplicação descrita é caracterizada como
+
+[ALTERNATIVAS]
+(A) arquitetura ponto a ponto.
+(B) arquitetura monolítica embarcada.
+(C) arquitetura orientada a eventos.
+(D) arquitetura serverless.
+(E) arquitetura cliente-servidor.
+
+[GABARITO]
+E

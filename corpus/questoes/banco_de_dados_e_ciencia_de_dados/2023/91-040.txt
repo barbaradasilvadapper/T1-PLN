@@ -1,0 +1,18 @@
+ID: 91-040
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Analise o código a seguir, escrito em linguagem Java e com anotações do Hibernate 6.1. Considere que os métodos de acesso get e set foram omitidos da especificação das classes abaixo para efeitos de brevidade. Sobre o modelo de banco de dados decorrente deste mapeamento objeto-relacional, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) o atributo nome da tabela Pessoa será do tipo VARCHAR.
+(B) o atributo salario da tabela Professor não poderá ser nulo.
+(C) o atributo id da tabela Aluno será uma chave primária.
+(D) o atributo diurno da tabela Pessoa poderá ter só 2 valores.
+(E) o atributo cpf da tabela Pessoa poderá ter 11 caracteres.
+
+[GABARITO]
+C

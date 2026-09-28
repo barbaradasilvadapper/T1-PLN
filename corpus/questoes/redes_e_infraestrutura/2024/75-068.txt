@@ -1,0 +1,18 @@
+ID: 75-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Avalie o fragmento de texto a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa. H.323 é uma especificação abrangente que se refere a muitos outros documentos da União Internacional de Telecomunicações (ITU). Este protocolo descreve a arquitetura completa e a operação de um sistema de videoconferência em uma rede de pacotes. A estrutura do H.323 inclui a especificação de I. terminais de videoconferência. II. gateways entre uma rede H.323 e outras redes de voz e vídeo. III. unidades de controle multiponto, que são usadas para conferências multiponto e incluem uma unidade de controle chamada controlador de um ponto e uma ou mais unidades de mixagem de mídia chamadas processadores multiponto. Está correto apenas o que se apresenta em
+
+[ALTERNATIVAS]
+(A) I e III.
+(B) III.
+(C) I e II.
+(D) I.
+(E) II e III.
+
+[GABARITO]
+C

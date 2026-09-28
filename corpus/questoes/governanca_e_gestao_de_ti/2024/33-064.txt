@@ -1,0 +1,18 @@
+ID: 33-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Os princípios de governança do COBIT 2019® descrevem os principais requisitos de um sistema de governança para informações e tecnologia da organização. O princípio “sistema de governança dinâmico” determina que um sistema de governança deve:
+
+[ALTERNATIVAS]
+(A) atender às necessidades das partes interessadas;
+(B) distinguir claramente entre as atividades e estruturas de governança e gestão;
+(C) ser construído a partir de vários componentes, que podem ser de diferentes tipos e que trabalham juntos;
+(D) ser capaz de considerar os impactos da alteração de um ou mais fatores de desenho no sistema de governança;
+(E) ser adaptado para as necessidades da organização usando um conjunto de fatores de desenho como parâmetros para adaptar e priorizar os componentes do sistema de governança.
+
+[GABARITO]
+D

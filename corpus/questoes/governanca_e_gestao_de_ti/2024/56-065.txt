@@ -1,0 +1,18 @@
+ID: 56-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Maiara, gerente de TI, proferiu uma palestra sobre o plano diretor de TIC para os diretores e gerentes da empresa em que trabalha. Ao ser questionada sobre a elaboração do plano, a gerente de TI respondeu que acontece em fases e com a participação de papéis distintos. Acerca desses papéis, é correto afirmar que o(a):
+
+[ALTERNATIVAS]
+(A) comitê gestor de TI atuará como aprovador, monitorará o desempenho de TI e direcionará os investimentos para alcançar os objetivos estratégicos;
+(B) autoridade máxima atuará como apoiadora, tomadora de decisões, publicadora, priorizadora de ações e definidora de diretrizes, isto é, será a responsável pelo PDTI;
+(C) equipe de elaboração será responsável pela obtenção, organização e compilação de informações que comporão o PDTI, composto exclusivamente por pessoas de TI;
+(D) comitê gestor de TI atuará como priorizador de ações, monitorará o desempenho de TI e direcionará os investimentos para alcançar os objetivos estratégicos;
+(E) autoridade máxima atuará como apoiadora, aprovadora, tomadora de decisões, publicadora, definidora de diretrizes e direcionará os investimentos para alcançar os objetivos estratégicos.
+
+[GABARITO]
+D

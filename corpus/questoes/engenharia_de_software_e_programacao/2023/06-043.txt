@@ -1,0 +1,18 @@
+ID: 06-043
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto da linguagem C#, considere o código a seguir. using System; namespace TESTE { class CLA { static void Main(string[] args) { for (int i = 0; i < 5; i++) {} Console.WriteLine(i); } } } A execução desse script provoca:
+
+[ALTERNATIVAS]
+(A) a exibição do valor 5;
+(B) a exibição do valor 6;
+(C) a exibição dos números 0,1,2,3,4;
+(D) um erro de compilação;
+(E) um erro de execução de variável sem valor atribuído.
+
+[GABARITO]
+D

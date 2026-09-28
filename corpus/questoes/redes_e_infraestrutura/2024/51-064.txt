@@ -1,0 +1,18 @@
+ID: 51-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em uma cidade inteligente, diversos dispositivos conectados, como sensores de trânsito, câmeras de segurança e medidores de energia, trocam informações entre si para otimizar o uso de recursos e melhorar a qualidade de vida dos cidadãos. Esse conceito é conhecido como
+
+[ALTERNATIVAS]
+(A) Computação em Nuvem.
+(B) Big Data.
+(C) Inteligência Artificial.
+(D) Internet das Coisas (IoT).
+(E) Realidade Aumentada.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 75-032
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um importante procedimento de segurança da informação, que é a garantia da integridade e autenticidade dos documentos trocados pela Internet, pode ser obtido com o uso de certificados digitais. Avalie as seguintes afirmativas sobre o uso de certificados digitais: I. Certificados digitais podem ser usados para gerar assinaturas digitais em documentos. II. Certificados digitais aumentam o desempenho e a velocidade de transferência de informações na Internet. III. Um certificado digital, uma vez emitido, não pode ser revogado antes do fim de sua validade.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+A

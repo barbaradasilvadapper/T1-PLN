@@ -1,0 +1,18 @@
+ID: 94-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Num ambiente Flyway, a linha de comando (command line) permite, dentre outros, o uso dos comandos:
+
+[ALTERNATIVAS]
+(A) Apply, Check, Include;
+(B) Baseline, Clean, Migrate;
+(C) Clear, Define, Exec;
+(D) Info, Quit, Start;
+(E) Load, Schema, View.
+
+[GABARITO]
+B

@@ -1,0 +1,17 @@
+ID: 23-077
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um administrador de sistemas necessita instalar o sistema operacional CentOS (versão 7) em uma máquina que atuará como servidor de banco de dados da Secretaria de Saúde. O utilitário de instalação a ser executado pelo administrador chama-se
+
+[ALTERNATIVAS]
+(A) rattlesnake.
+(B) anaconda.
+(C) cobra.
+(D) snake.
+
+[GABARITO]
+B

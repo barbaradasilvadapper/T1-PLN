@@ -1,0 +1,18 @@
+ID: 34-066
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma rede corporativa implementou SD-WAN para conectar 40 filiais usando múltiplos links (MPLS, Internet e LTE). A principal característica que diferencia SD-WAN de soluções WAN tradicionais é
+
+[ALTERNATIVAS]
+(A) dependência exclusiva de links MPLS para garantir QoS.
+(B) limitação a dois links por localidade
+(C) impossibilidade de usar múltiplos transportes simultaneamente.
+(D) ausência de criptografia entre sites remotos.
+(E) roteamento dinâmico baseado em políticas, performance de aplicações e estado dos links
+
+[GABARITO]
+E

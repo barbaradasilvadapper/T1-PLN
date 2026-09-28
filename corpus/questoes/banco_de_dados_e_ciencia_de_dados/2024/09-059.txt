@@ -1,0 +1,18 @@
+ID: 09-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em arquiteturas modernas de Data Warehousing, o processo de ETL é fundamental para preparar os dados de forma eficiente para a tomada de decisões estratégicas. Ele é como uma ponte entre os sistemas e o Data Warehouse. Nesse contexto, o principal objetivo do processo de ETL em uma solução de Data Warehousing é
+
+[ALTERNATIVAS]
+(A) criar visualizações e dashboards interativos para serem analisados em tempo real.
+(B) realizar análises estatísticas complexas nos dados, aplicando técnicas de modelagem preditiva para descobrir insights ocultos.
+(C) desenvolver e treinar modelos de machine learning, facilitando a previsão de tendências.
+(D) extrair dados de diversas fontes, transformá-los em um formato padronizado e consistente e carregá-los no Data Warehouse.
+(E) gerenciar o acesso e a segurança dos dados armazenados no Data Warehouse, garantindo assim que as informações estejam protegidas contra acessos não autorizados.
+
+[GABARITO]
+D

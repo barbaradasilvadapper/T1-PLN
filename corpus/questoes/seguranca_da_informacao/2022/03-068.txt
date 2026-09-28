@@ -1,0 +1,18 @@
+ID: 03-068
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Ao solicitar a concessão de crédito ao Banco Dínamo, Veridiana foi surpreendida com o oferecimento de taxa de juros muito acima daquela praticada pelo mercado. Inconformada ao descobrir que o cálculo fora feito unicamente com base em tratamento automatizado de seus dados pessoais, requereu à instituição financeira o acesso a tais dados, bem como às informações a respeito dos critérios e procedimentos utilizados para a tomada da decisão. No relatório apresentado pelo banco, verificou que boa parte dos dados pessoais coletados se referiam, em verdade, a uma sua homônima, que apresentava péssimos índices de crédito. A esse respeito, assinale a opção que indica o princípio da Lei Geral de Proteção de Dados Pessoais (Lei nº.13.709/2018) que teria sido violado pela instituição financeira.
+
+[ALTERNATIVAS]
+(A) finalidade.
+(B) não discriminação.
+(C) segurança.
+(D) adequação.
+(E) qualidade dos dados.
+
+[GABARITO]
+E

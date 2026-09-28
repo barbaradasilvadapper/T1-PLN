@@ -1,0 +1,18 @@
+ID: 75-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A integração do sistema ORACLE com a linguagem de programação R foi resultado da adesão da empresa ao R Consortium R/Database. A integração do R com Oracle Database e Oracle Autonomous Database, promovida por R API (Application Programming Interface) é denominada:
+
+[ALTERNATIVAS]
+(A) Oracle Exadata
+(B) Oracle Database API for R (ODAPI4R)
+(C) Oracle Hyperion
+(D) Oracle API for R (OAPI4R)
+(E) Oracle Machine Learning for R (OML4R)
+
+[GABARITO]
+E

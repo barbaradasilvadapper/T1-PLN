@@ -1,0 +1,18 @@
+ID: 16-045
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No desenvolvimento de sistemas de banco de dados robustos, os gatilhos (triggers) funcionam como mecanismos automatizados para garantir a integridade semântica e manter trilhas de auditoria. Na programação desses gatilhos, as variáveis de transição (geralmente chamadas de OLD e NEW) permitem ao desenvolvedor acessar diferentes estados de uma tupla (linha) no momento do disparo. Considerando um gatilho disparado por uma instrução delete, assinale a opção que indica a disponibilidade e o conteúdo dessas variáveis.
+
+[ALTERNATIVAS]
+(A) Apenas a variável NEW está disponível, contendo os valores nulos.
+(B) Ambas as variáveis estão disponíveis e possuem os mesmos valores.
+(C) Nenhuma das variáveis está disponível em operações de exclusão.
+(D) Apenas a variável OLD está disponível, contendo os dados do registro que será removido.
+(E) Ambas as variáveis estão disponíveis, mas a OLD contém valores nulos e a NEW contém os dados removidos.
+
+[GABARITO]
+D

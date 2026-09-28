@@ -1,0 +1,18 @@
+ID: 90-032
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No Windows, o usuário de nome Fulano criou uma pasta denominada Seguros no seu desktop, na qual armazenou arquivos variados. No contexto do aplicativo Explorador de Arquivos do Windows, assinale o endereço que corresponde à referida pasta.
+
+[ALTERNATIVAS]
+(A) C:\Users\ Fulano \Desktop\Seguros
+(B) C:\Fulano\Desktop\Seguros
+(C) C:\Desktop\Fulano\Seguros
+(D) C:\Users\ Fulano \Seguros
+(E) C:\Fulano \Seguros
+
+[GABARITO]
+A

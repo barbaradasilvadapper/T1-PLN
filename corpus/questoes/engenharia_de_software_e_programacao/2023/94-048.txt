@@ -1,0 +1,18 @@
+ID: 94-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com referência aos comandos include e require num script PHP, é correto afirmar que os dois comandos:
+
+[ALTERNATIVAS]
+(A) diferem na utilização, pois somente o comando include permite trechos em JavaScript;
+(B) diferem na utilização, pois somente o comando require permite trechos em JavaScript;
+(C) diferem no comportamento apenas quando referenciam arquivos erroneamente;
+(D) são idênticos em todos os aspectos;
+(E) têm funções completamente distintas.
+
+[GABARITO]
+C

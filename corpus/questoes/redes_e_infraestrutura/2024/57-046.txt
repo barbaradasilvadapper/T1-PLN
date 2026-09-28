@@ -1,0 +1,18 @@
+ID: 57-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Foi configurado o Snort com a seguinte regra: Alert tcp $BINARIO any - > $HEXA any\ (msg: “SCAN SYN FIN” flags: SF, 12;\ reference: arachnids, 198: classtype: attempted Analisando a regra acima, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) está sendo especificada a porta 12 como origem;
+(B) está sendo especificada a porta 198 como destino;
+(C) está sendo verificado apenas se os bits SYN e FIN estão com valor 1;
+(D) a “\” é reservada no Snort e está sendo usada para escrever instruções em uma única linha;
+(E) os nomes $BINARIO e $HEXA são nomes de variáveis predefinidos para especificar tipos de arquivos.
+
+[GABARITO]
+C

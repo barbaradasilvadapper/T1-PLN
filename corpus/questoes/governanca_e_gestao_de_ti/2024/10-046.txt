@@ -1,0 +1,18 @@
+ID: 10-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O patrocinador de um projeto de alta complexidade determinou ao gerente que, além das áreas de conhecimento em gerenciamento de projetos, previstas no PMBOK 6ª Edição, empregue áreas de conhecimento adicionais, que são exigidas em virtude das necessidades específicas do projeto. Nesse cenário, e de acordo como PMBOK 6ª edição, o gerente do projeto deve:
+
+[ALTERNATIVAS]
+(A) acatar a determinação do patrocinador, mas informar que não há necessidade, pois as áreas de conhecimento previstas são muito abrangentes;
+(B) acatar a determinação do patrocinador, pois as necessidades de um projeto específico podem exigir uma ou mais áreas de conhecimento adicionais;
+(C) não aceitar a determinação do patrocinador e informar que todas as 10 áreas de conhecimento em gerenciamento de projetos devem ser utilizadas, sem supressões ou adições;
+(D) não aceitar a determinação do patrocinador, pois as áreas de conhecimento somente podem ser suprimidas, desde que em projetos mais simples e nunca adicionadas;
+(E) acatar a determinação do patrocinador, pois as áreas de conhecimento em gerenciamento de projetos são somente uma referência e poucos projetos as utilizam.
+
+[GABARITO]
+B

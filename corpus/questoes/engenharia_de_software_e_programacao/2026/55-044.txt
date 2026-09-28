@@ -1,0 +1,18 @@
+ID: 55-044
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um projeto de integração entre sistemas de um tribunal, uma equipe técnica decidiu disponibilizar funcionalidades de consulta e atualização de informações por meio de uma API RESTful, utilizando o formato JSON para a troca de dados entre aplicações Nesse contexto, assinale a opção que apresenta corretamente uma característica de uma API RESTful e uma característica do formato JSON.
+
+[ALTERNATIVAS]
+(A) A API RESTful organiza a comunicação em torno de recursos identificados por URI; o JSON representa dados em formato textual, com estruturas como objetos, arrays e pares chavevalor.
+(B) A API RESTful organiza a comunicação em torno de recursos identificados por URI; o JSON é um protocolo de transporte responsável pelo envio das requisições entre cliente e servidor.
+(C) A API RESTful exige, obrigatoriamente, a manutenção de estado da sessão no servidor; o JSON representa dados em formato textual, com estruturas como objetos, arrays e pares chave-valor.
+(D) A API RESTful utiliza métodos HTTP, como GET, POST, PUT e DELETE, para manipular recursos; o JSON é um formato binário utilizado exclusivamente para compactação de arquivos.
+(E) A API RESTful depende necessariamente de WSDL para descrever suas operações; o JSON é independente de linguagem de programação e pode ser interpretado por diferentes plataformas.
+
+[GABARITO]
+A

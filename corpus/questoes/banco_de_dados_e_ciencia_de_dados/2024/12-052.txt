@@ -1,0 +1,18 @@
+ID: 12-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A elaboração de um relatório técnico requer a compilação de dados referentes a ocorrências registradas por comarca e por tipificação. Selecione a opção que contém a cláusula SQL que viabiliza a contagem de registros que atendem aos critérios citados.
+
+[ALTERNATIVAS]
+(A) COUNT
+(B) GROUP BY
+(C) JOIN
+(D) OVER
+(E) WHERE
+
+[GABARITO]
+B

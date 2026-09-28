@@ -1,0 +1,18 @@
+ID: 62-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A alta disponibilidade refere-se à capacidade de um sistema de permanecer operacional e acessível, mesmo diante de falhas de hardware ou software. Existem várias abordagens e mecanismos que podem ser implementados para garantir que um sistema continue a funcionar de forma eficaz, mesmo se ocorrerem erros. Um exemplo destas abordagens e mecanismos é a replicação de dados. Em uma das abordagens de replicação de dados, os clientes enviam gravações para vários nós, que aceitam gravações diretamente. A leitura também ocorre a partir de vários nós, permitindo a detecção e correção de dados desatualizados. Isso traz flexibilidade e resistência a falhas, embora a lógica de operação seja mais complexa e envolva a necessidade de resolver conflitos devido a gravações simultâneas. O método de replicação de dados discutido é o
+
+[ALTERNATIVAS]
+(A) multi-líder.
+(B) sem líder.
+(C) de líder indireto.
+(D) de líder único.
+(E) espelho completo.
+
+[GABARITO]
+B

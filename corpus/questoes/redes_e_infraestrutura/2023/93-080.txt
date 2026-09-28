@@ -1,0 +1,18 @@
+ID: 93-080
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Sobre os Modelos de Domínio aplicáveis aos sistemas Windows Server (versões: 2022, 2019, 2016, 2012 R2 e 2012), analise as afirmações a seguir. I. Afetam o modelo de design de domínio selecionado tanto as funcionalidades disponíveis na rede a ser alocada para o AD DS (Active Directory Domain Services) quanto a quantidade de usuários da organização. II. As políticas de bloqueio de conta e senha refinadas do Windows Server não afetam o modelo de design de domínio único. III. No modelo de domínio único todos os controladores de domínio podem ser catálogos globais e no modelo de domínio regional geograficamente baseado pode ser realizada a organização de acordo com a conectividade WAN de rede.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) III, apenas.
+
+[GABARITO]
+C

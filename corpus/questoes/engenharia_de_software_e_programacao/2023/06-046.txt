@@ -1,0 +1,18 @@
+ID: 06-046
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do JavaScript, analise a função a seguir. function f(t) { return t.replace("A","X").slice(1, 10).trim(); } A expressão f(" ABCDEF AE AAA ") retorna:
+
+[ALTERNATIVAS]
+(A) ABCDEF AE AAA
+(B) ABCDEFAEAAA
+(C) ABCDEFXE
+(D) XBCDEF AE
+(E) XBCDEF XE
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 81-045
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Programação Orientada a Objetos - POO (ou Object Oriented Programming OOP), é uma maneira de organizar código em um conjunto as seções com dados e comportamentos relacionados. Destaca-se que o Python é uma linguagem de programação interpretada, interativa e orientada a objetos. Dos benefícios de utilizar Python na aplicação na Engenharia de Dados, podem ser identificados: Reutilização de código; Modularidade; Abstração; Flexibilidade; Segurança; e, Maior produtividade. Abaixo aponte a descrição que representa os benefícios de utilizar Python na aplicação na Engenharia de Dados, com fundamento nos princípios de orientação a objetos é
+
+[ALTERNATIVAS]
+(A) Flexibilidade, pois o encapsulamento possibilita representar objetos complexos de forma mais simples e fácil de entender, tornando o código mais legível e compreensível para outros desenvolvedores.
+(B) Reutilização de código, pois por meio da abstração podemos criar novas classes com base em outras já existentes
+(C) Modularidade, ao utilizar o encapsulamento.
+(D) Segurança, pois a abstração e a interdependência funcional tornam o código uma prática produtiva para a equipe.
+(E) Maior produtividade, pela interação entre os objetos poder ser limitada quanto a dados internos de um objeto devido ao Polimorfismo.
+
+[GABARITO]
+C

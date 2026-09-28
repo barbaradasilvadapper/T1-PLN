@@ -1,0 +1,18 @@
+ID: 82-037
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O CMMI é um conjunto de melhores práticas projetado para orientar as organizações na melhoria de seus processos de engenharia de software e sistemas. Ele funciona como um mapa para transformar processos caóticos ou imaturos em processos disciplinados, previsíveis e de alta qualidade, avaliando e elevando a maturidade de uma organização em níveis (1 a 5). O nível de maturidade CMMI, em que já há um foco no controle de projetos, os processos básicos são planejados e monitorados, e há uma gestão de requisitos eficiente é o nível apresentado na opção
+
+[ALTERNATIVAS]
+(A) inicial.
+(B) definido.
+(C) otimização.
+(D) gerenciado.
+(E) quantitativamente gerenciado.
+
+[GABARITO]
+D

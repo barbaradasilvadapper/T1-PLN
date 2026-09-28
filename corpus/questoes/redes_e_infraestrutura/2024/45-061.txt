@@ -1,0 +1,18 @@
+ID: 45-061
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao analisar a estrutura de DNS de uma determinada empresa, foi identificado que a organização possui hospedeiros acessíveis publicamente na Internet, como servidores Web e servidores de correio. Esses hospedeiros devem fornecer registros DNS publicamente acessíveis que mapeiem os nomes dos hospedeiros para endereços IP. A classe de servidor DNS responsável por essas funções é o servidor DNS:
+
+[ALTERNATIVAS]
+(A) raiz;
+(B) recursivo;
+(C) autoritativo;
+(D) de alto nível;
+(E) encaminhamento.
+
+[GABARITO]
+C

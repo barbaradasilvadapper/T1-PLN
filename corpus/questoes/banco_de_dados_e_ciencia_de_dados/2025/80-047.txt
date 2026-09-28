@@ -1,0 +1,18 @@
+ID: 80-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O Sistema Gerenciador de Bancos de Dados (SGBD) Oracle 21c oferece diversos tipos de índices. Índices são estruturas opcionais, associadas a uma tabela ou cluster de tabelas que podem acelerar o acesso aos dados. Com relação aos índices desse SGBD, analise as afirmativas a seguir. I. Índices podem ser exclusivos ou não exclusivos. Índices exclusivos garantem que nenhuma das duas linhas de uma tabela tenha valores duplicados na coluna ou mais colunaschave. Já Índices não exclusivos permitem valores duplicados na coluna ou nas colunas indexadas. II. Índices de árvores B são o tipo de índice padrão do Oracle. Esse tipo possui diversos subtipos, por exemplo, índices de chave inversa, índices descendentes e índices de junção de clusteres de tabelas. III. Existem índices que não usam estruturas de árvore B, por exemplo, índices de junção de bitmap e bitmap, índices baseados em funções e índices de domínio de aplicação.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) I e III, apenas.
+
+[GABARITO]
+E

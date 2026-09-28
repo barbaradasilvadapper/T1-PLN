@@ -1,0 +1,18 @@
+ID: 09-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Sobre as técnicas de integração e ingestão de dados ETL (Extract, Transform, Load) e ELT (Extract, Load, Transform), assinale a opção incorreta.
+
+[ALTERNATIVAS]
+(A) Em ETL, os dados são transformados antes de serem carregados no sistema de destino.
+(B) ETL é mais adequado para sistemas de data warehouse tradicionais, onde a transformação de dados ocorre antes do carregamento.
+(C) ELT aproveita a capacidade de processamento do sistema de destino, transformando os dados após o carregamento.
+(D) ELT é mais eficiente em cenários onde o volume de dados é pequeno e o processamento pode ser feito fora do sistema de destino.
+(E) ETL pode ser mais lento em comparação ao ELT quando o sistema de destino tem alta capacidade de processamento.
+
+[GABARITO]
+D

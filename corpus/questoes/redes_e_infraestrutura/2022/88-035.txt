@@ -1,0 +1,18 @@
+ID: 88-035
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Sobre elementos de interconexão de redes de computadores, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) gateways não reconhecem quadros, pacotes ou cabeçalhos, somente volts.
+(B) bridges são adequadas para interligar redes que utilizam diferentes protocolos de transporte orientados a conexões.
+(C) switches operam na camada de rede e sua função é fazer o encaminhamento dos pacotes entre duas redes.
+(D) hubs começam a encaminhar quadros tão logo recebem o campo de cabeçalho de destino, mas antes de chegar o restante do quadro.
+(E) roteadores examinam os endereços nos pacotes IP e efetuam o roteamento com base nesses endereços.
+
+[GABARITO]
+E

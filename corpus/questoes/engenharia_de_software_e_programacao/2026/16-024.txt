@@ -1,0 +1,18 @@
+ID: 16-024
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma equipe mantém uma aplicação web estruturada segundo o modelo MVC (Modelo-Visão-Controlador). Após sucessivas evoluções, os controladores passaram a concentrar validações de negócio, cálculos, verificação de permissões e decisões sobre transições de estado. Como consequência, regras semelhantes começaram a ser repetidas em diferentes controladores, e mudanças em uma mesma política funcional passaram a exigir alterações em vários pontos do sistema. Em uma revisão arquitetural, decidiu-se promover uma refatoração para reduzir esse problema mantendo a separação de responsabilidades e favorecendo a reusabilidade. Nesse contexto, de acordo com o modelo MVC, assinale a opção que apresenta a medida mais adequada.
+
+[ALTERNATIVAS]
+(A) Transferir as regras repetidas para as visões, de modo que cada interface trate localmente as decisões necessárias ao seu fluxo específico.
+(B) Manter as regras nos controladores, mas reorganizar os métodos por caso de uso, a fim de tornar a manutenção mais previsível.
+(C) Transferir a lógica de negócio e gestão de estado para a camada de modelo, usando abstrações para evitar a duplicação e delegando a coordenação do fluxo aos controladores.
+(D) Concentrar validações e decisões de estado em um único controlador central, para eliminar divergências entre os demais controladores.
+(E) Restringir os modelos à representação de dados e deslocar para os controladores as regras remanescentes, uniformizando o padrão já adotado.
+
+[GABARITO]
+C

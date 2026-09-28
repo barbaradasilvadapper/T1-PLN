@@ -1,0 +1,18 @@
+ID: 56-030
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Para acelerar a busca sobre uma lista de mensagens, Beatriz adotou uma tabela de dispersão, na qual o e-mail do emissor é quem define o hash. N: INTEIRO V: VETOR [0..N-1] de LISTA<MENSAGEM> Algoritmo Adicionar (M: MENSAGEM) H <- 0 Para i de 0 até Tamanho (M.email) - 1 H <- H + Ord (M.email[i]) Fim Para H <- H Mod N V[H].Incluir(M) Fim Algoritmo O hash é dado pelo resto da divisão entre a soma dos códigos ASCII do email e o tamanho do vetor de listas. Para que Beatriz obtenha a melhor distribuição das mensagens nas listas:
+
+[ALTERNATIVAS]
+(A) o valor dos códigos ASCII, obtidos pela função Ord, deve ser multiplicado por N;
+(B) a soma dos códigos ASCII deve ser feita do final para o início do campo email de M;
+(C) o número N deve ser primo;
+(D) a mensagem M deve ser incluída na lista da posição N – H do vetor V;
+(E) o número N precisa ser par.
+
+[GABARITO]
+C

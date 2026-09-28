@@ -1,0 +1,18 @@
+ID: 69-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A Information Technology Infrastructure Library (ITIL, ou Biblioteca de Infraestrutura de Tecnologia da Informação) é uma ferramenta de gestão de TI que auxilia as organizações a alcançarem a eficácia e eficiência nos seus serviços, por meio de uma estrutura prática e flexível para o gerenciamento de serviços. Com relação a ITIL (4ª versão), analise os itens a seguir. I. As práticas da ITIL podem ser adotadas e adaptadas para todos os tipos de organização e serviços. II. A ITIL 4 tem como estrutura principal o Service Value System (SVS, ou Sistema de Valor de Serviço), que tem como principal característica possibilitar a criação e a cocriação de valor. III. A ITIL compila melhores práticas estabelecendo cinco dimensões do gerenciamento de serviço, a partir das quais cada componente do SVS deve ser considerado.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) III, apenas.
+
+[GABARITO]
+B

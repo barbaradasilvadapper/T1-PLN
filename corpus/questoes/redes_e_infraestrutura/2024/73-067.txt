@@ -1,0 +1,18 @@
+ID: 73-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Carlos está configurando o modo rootless do Docker em um servidor Linux. Carlos sabe que, para operar no modo rootless, o Docker exige a presença de determinados utilitários do sistema operacional que possibilitam o uso de múltiplos identificadores de usuário e de grupo no namespace de um usuário. Logo, antes de configurar o modo rootless do Docker no servidor Linux, Carlos verificou a presença dos utilitários:
+
+[ALTERNATIVAS]
+(A) subuid e subgid;
+(B) subuid e newgidmap;
+(C) newuidmap e subgid;
+(D) newuidmap e subuid;
+(E) newuidmap e newgidmap.
+
+[GABARITO]
+E

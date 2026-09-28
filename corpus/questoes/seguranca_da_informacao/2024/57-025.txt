@@ -1,0 +1,18 @@
+ID: 57-025
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Durante a implementação de uma solução de e-mail corporativo baseada na nuvem, o analista Daniel enfrenta um desafio de segurança complexo. Ele precisa garantir que apenas os funcionários autorizados possam acessar seus e-mails, tanto internamente quanto externamente, de forma segura e eficiente, sem comprometer a facilidade de uso ou a segurança dos dados. Considerando os mecanismos de autenticação e autorização modernos, a abordagem que ele deve adotar para atender a esses requisitos é:
+
+[ALTERNATIVAS]
+(A) implementar autenticação baseada em OAuth, pois ela permite que os aplicativos de terceiros acessem os e-mails dos usuários sem exigir suas credenciais diretamente, utilizando tokens de acesso;
+(B) utilizar autenticação básica com nome de usuário e senha, por ser uma abordagem simples e direta, fácil de implementar e usar;
+(C) adotar SAML (Security Assertion Markup Language) para autenticação e autorização, permitindo que os funcionários usem um único conjunto de credenciais para acessar vários serviços, incluindo e-mail;
+(D) implementar um sistema de autenticação multifator (MFA) sem nenhuma outra forma de autenticação ou autorização, confiando singularmente na posse de dispositivos físicos pelos usuários;
+(E) recorrer exclusivamente ao uso de certificados digitais para autenticação, assegurando que apenas dispositivos com os certificados corretos possam acessar os e-mails.
+
+[GABARITO]
+A

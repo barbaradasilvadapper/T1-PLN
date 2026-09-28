@@ -1,0 +1,18 @@
+ID: 48-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista José criou a função CalcObjs em JavaScript. A CalcObjs recebe uma coleção de objetos e realiza determinado cálculo em cada objeto da coleção. No caso de existirem objetos repetidos, a CalcObjs considera apenas a primeira ocorrência do objeto na coleção. A fim de rastrear os objetos já processados, José utilizou uma estrutura de dados disponível no JavaScript, do tipo keyed collection, cujos valores são únicos entre si e passíveis de remoção pelo coletor de lixo. Para rastrear os objetos processados, José utilizou a estrutura de dados do JavaScript:
+
+[ALTERNATIVAS]
+(A) Map;
+(B) Symbol;
+(C) WeakSet;
+(D) SharedArrayBuffer;
+(E) Uint8ClampedArray.
+
+[GABARITO]
+C

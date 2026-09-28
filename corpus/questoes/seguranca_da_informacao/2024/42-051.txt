@@ -1,0 +1,18 @@
+ID: 42-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma empresa de dados computacionais precisa instalar um sistema de detecção de intrusos (IDS) que funciona verificando trechos de código, guardados em um banco de dados, que são usados para comparar com trechos de pacotes recebidos e possibilitam detectar e impedir variantes de malwares ou vírus de infectar todo a rede da empresa. Esse tipo de IDS é o de detecção baseado em
+
+[ALTERNATIVAS]
+(A) anomalias.
+(B) assinaturas.
+(C) protocolos.
+(D) reputação.
+(E) comportamento.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 62-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Considerando a necessidade da EPE em proteger suas informações, seus sistemas, seus servidores estações de trabalho contra diversas ameaças, ela irá revisar e implementar as melhores práticas de segurança. Para garantir uma defesa robusta contra ameaças cibernéticas, a EPE deve implementar nos servidores e estações de trabalho
+
+[ALTERNATIVAS]
+(A) um firewall, e confiar apenas em redes seguras para acesso externo.
+(B) um sistema de detecção e resposta de endpoint (EDR), para monitorar e responder a atividades maliciosas em tempo real.
+(C) um Proxy, e confiar em que ele sozinho proteja contra todos os tipos de ameaças.
+(D) apenas antivírus e antispam para proteção contra malware e e-mails indesejados.
+(E) uma VLAN, para garantir que todas as comunicações de rede sejam seguras.
+
+[GABARITO]
+B

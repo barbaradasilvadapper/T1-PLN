@@ -1,0 +1,18 @@
+ID: 05-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código a seguir. <!DOCTYPE html> <html> <body> <p id="e2"><span id="e1"></p> <script> let a = 12; let b = 8; let c = a+b; try { let xpto = eval("(a+b)*c"); document.getElementById("e1").innerHTML = xpto; } catch(err) { document.getElementById("e1").innerHTML = undefined; } finally { document.getElementById("e1").innerHTML = "O resultado é ... " + document.getElementById("e1").innerHTML; } </script> </body> </html> Quando carregada, essa página exibe:
+
+[ALTERNATIVAS]
+(A) O resultado é ... 400
+(B) O resultado é ... abc*+
+(C) O resultado é ... false
+(D) O resultado é ... true
+(E) O resultado é ... undefined
+
+[GABARITO]
+A

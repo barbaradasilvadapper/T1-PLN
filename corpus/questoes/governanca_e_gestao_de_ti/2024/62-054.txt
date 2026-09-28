@@ -1,0 +1,18 @@
+ID: 62-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O ITIL V4 introduziu um conjunto de práticas de gerenciamento de serviços que substituiu os processos do ITIL V3, proporcionando uma abordagem mais holística e flexível para a gestão de serviços. Tais práticas estão divididas em três categorias principais: Práticas de Gerenciamento Geral, Práticas de Gerenciamento de Serviço e Práticas de Gerenciamento Técnico. Assinale a opção que apresenta uma prática de gerenciamento de serviços.
+
+[ALTERNATIVAS]
+(A) Gestão de estratégia.
+(B) Medição e relatório.
+(C) Gestão de riscos
+(D) Gerenciamento de implantação.
+(E) Análise do negócio.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 58-021
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Márcia está usando os métodos utilitários do módulo Júpiter do framework JUnit 5 para criar testes automatizados. Para verificar as condições de teste quanto à igualdade entre dois objetos, Márcia gostaria de usar um único método utilitário que comparasse dois parâmetros fornecidos do tipo objeto e que esses objetos sejam considerados iguais, caso ambos sejam nulos. Assinale a opção que indica o método que Márcia deve usar.
+
+[ALTERNATIVAS]
+(A) assertEquals().
+(B) assertIdentical().
+(C) assertNull().
+(D) assertThrowsExactly().
+(E) assertTrue().
+
+[GABARITO]
+A

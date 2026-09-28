@@ -1,0 +1,18 @@
+ID: 56-012
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Joaquim precisou ordenar um array com N elementos. Para economizar tempo, Joaquim optou por usar um algoritmo já disponível na biblioteca de ordenação. A biblioteca contém as implementações originais dos algoritmos Quicksort, Selection Sort, Insertion Sort, Merge Sort e Heap Sort. O analista escolheu o algoritmo que, no pior caso, apresenta uma relação quadrática entre a quantidade de operações necessárias para a ordenação e o número de elementos do array. No caso médio, a quantidade de operações necessárias se aproxima de N multiplicado por um logaritmo de N. Joaquim escolheu o algoritmo de ordenação:
+
+[ALTERNATIVAS]
+(A) Quicksort;
+(B) Heap Sort;
+(C) Merge Sort;
+(D) Insertion Sort;
+(E) Selection Sort.
+
+[GABARITO]
+A

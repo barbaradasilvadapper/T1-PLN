@@ -1,0 +1,18 @@
+ID: 20-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No processamento de transações em bancos de dados, é fundamental garantir que uma transação não sofra interferências de outras transações executadas simultaneamente. Para isso, o resultado parcial de uma transação não deve ser acessado por outra transação, até a sua efetivação. Nesse sentido, deve ser assegurada a propriedade de transação conhecida como:
+
+[ALTERNATIVAS]
+(A) atomicidade;
+(B) consistência;
+(C) isolamento;
+(D) durabilidade;
+(E) normalização.
+
+[GABARITO]
+C

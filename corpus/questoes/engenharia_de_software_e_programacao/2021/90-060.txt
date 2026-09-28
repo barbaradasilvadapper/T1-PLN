@@ -1,0 +1,18 @@
+ID: 90-060
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto da UML, assinale o item que é enfatizado pelo Diagrama de Transição de Estados.
+
+[ALTERNATIVAS]
+(A) A dinâmica dos casos de usos.
+(B) A ordem temporal das mensagens.
+(C) O fluxo de controle de uma atividade para outra.
+(D) O estado de mudança de um sistema orientado por eventos.
+(E) A organização estrutural de objetos que enviam e recebem mensagens. Μ1 Redação Leia os textos motivadores a seguir, que exploram a existência e a aplicação de leis no Brasil.
+
+[GABARITO]
+D

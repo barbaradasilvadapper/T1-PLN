@@ -1,0 +1,18 @@
+ID: 05-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A divisão em camadas da arquitetura MVC permitiu o uso de diversos padrões de projeto de forma simples, e, com toda a padronização obtida, aliada a ferramentais como injeção de dependências e inversão de controle, ocorreu o surgimento de diversos frameworks, voltados para as diferentes camadas da arquitetura. Para a camada Model, um padrão essencial é o:
+
+[ALTERNATIVAS]
+(A) Front Controller;
+(B) Observer;
+(C) DAO;
+(D) Facade;
+(E) Composite.
+
+[GABARITO]
+C

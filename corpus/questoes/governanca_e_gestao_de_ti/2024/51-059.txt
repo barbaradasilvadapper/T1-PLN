@@ -1,0 +1,18 @@
+ID: 51-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+No contexto do PMBOK, um guia de práticas para o gerenciamento de projetos, um dos cinco grupos de processos se destaca por incluir atividades destinadas a acompanhar e medir o progresso do projeto, garantindo que as metas sejam cumpridas de acordo com o planejado. O texto se refere ao grupo de processos de
+
+[ALTERNATIVAS]
+(A) iniciação.
+(B) planejamento.
+(C) execução.
+(D) monitoramento e controle.
+(E) encerramento.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 82-028
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um estudante de segurança da informação realizou uma avaliação de segurança de uma aplicação web em ambiente de testes, e acessou a aplicação por meio de um navegador, inserindo o seguinte código em um campo de entrada de dados: <script>alert('teste')</script> Ao submeter a requisição, a aplicação retornou uma resposta que resultou na exibição de um alerta no navegador, evidenciando a execução do script inserido. A técnica empregada caracteriza um tipo de análise de software conhecido como
+
+[ALTERNATIVAS]
+(A) análise dinâmica de software, baseada na interação com a aplicação em execução e na avaliação de seu comportamento, em tempo de execução.
+(B) análise estática de código, pois o comportamento da aplicação foi avaliado sem a necessidade de execução.
+(C) revisão de código manual, com foco na identificação de vulnerabilidades diretamente no código-fonte.
+(D) uso de linters, para identificação de falhas sintáticas e más práticas de programação.
+(E) teste unitário, voltado à validação de componentes isolados do sistema.
+
+[GABARITO]
+A

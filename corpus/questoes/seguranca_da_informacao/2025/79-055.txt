@@ -1,0 +1,18 @@
+ID: 79-055
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O MPF processa milhares de requisições diárias e está preocupado com ataques cibernéticos, como varreduras de porta, ataques de negação de serviço (DoS) e a disseminação de malware. Para proteger sua infraestrutura, o MPF decide implementar um sistema IDS que: • detecte ataques conhecidos rapidamente; • reconheça padrões de tráfego anormais que possam indicar novos tipos de ataques; e • minimize alarmes falsos que possam sobrecarregar a equipe de resposta. O tipo mais adequado para atender essas necessidades é um sistema IDS:
+
+[ALTERNATIVAS]
+(A) baseado em anomalias;
+(B) baseado em assinaturas;
+(C) com implementação de controle de acesso baseado em identidade;
+(D) que combine assinaturas e detecção baseada em anomalias;
+(E) baseado em assinaturas, configurado para ignorar alarmes de anomalias.
+
+[GABARITO]
+D

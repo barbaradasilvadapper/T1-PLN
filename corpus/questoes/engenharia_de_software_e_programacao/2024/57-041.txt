@@ -1,0 +1,18 @@
+ID: 57-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere uma árvore que contém todo e qualquer nó em um grafo, mais formalmente, uma spanning tree de um grafo G = (N, E) e um grafo G' = (N, E') tal que E' é um subconjunto de E, G' é conectado, G' não contém nenhum ciclo e G' contém todos os nós originais em G. Se cada enlace tiver um custo associado e o custo de uma árvore for a soma dos custos dos enlaces, é correto afirmar que uma árvore cujo custo seja o mínimo entre todas as spanning trees é denominada:
+
+[ALTERNATIVAS]
+(A) spanning tree mínima;
+(B) spanning tree máxima;
+(C) spanning tree de diâmetro mínimo;
+(D) spanning tree de diâmetro máximo;
+(E) spanning tree geradora de caminho máximo.
+
+[GABARITO]
+A

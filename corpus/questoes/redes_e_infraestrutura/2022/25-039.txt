@@ -1,0 +1,18 @@
+ID: 25-039
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um órgão público possui algumas unidades distantes geograficamente umas das outras e está pesquisando soluções que sejam confiáveis e que suportem criptografia para conectar as unidades entre si. Sobre as tecnologias MPLS (Multi-Protocol Label Switching) e SD- WAN (Software-Defined Wide Area Network), é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) as duas tecnologias podem coexistir numa mesma rede;
+(B) o desempenho da aplicação é sempre previsível na tecnologia SD-WAN;
+(C) a tecnologia MPLS opera na camada de transporte da arquitetura TCP/IP;
+(D) a tecnologia SD-WAN consegue usar criptografia ponta a ponta, mas o MPLS não suporta;
+(E) em relação ao tráfego de dados, o MPLS distribui os dados por diversos caminhos, e a SD-WAN utiliza sempre o mesmo caminho.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 09-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um projeto de software utilizando orientação a objetos, foi implementado o seguinte código em Java: Com base no princípio de Substituição de Liskov (L), que faz parte dos princípios SOLID, em relação à implementação do método emitirSom, assinale a opção correta.
+
+[ALTERNATIVAS]
+(A) A classe Cachorro não pode sobrescrever o método emitirSom, pois isso viola o princípio da Substituição de Liskov.
+(B) O princípio da Substituição de Liskov é violado porque a classe Cachorro altera o comportamento do método emitirSom herdado de Animal.
+(C) O código está de acordo com o princípio da Substituição de Liskov, já que a classe Cachorro pode ser usada no lugar da classe Animal sem comprometer a corretude do programa.
+(D) O princípio da Substituição de Liskov exige que o método emitirSom de Cachorro seja exatamente igual ao de Animal.
+(E) A implementação fere o princípio da Substituição de Liskov porque o método sobrescrito deve lançar uma exceção quando chamado.
+
+[GABARITO]
+C

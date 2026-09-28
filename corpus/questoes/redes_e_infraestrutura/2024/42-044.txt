@@ -1,0 +1,18 @@
+ID: 42-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O gerenciamento de redes envolve o conjunto de práticas, ferramentas e processos utilizados para monitorar, controlar e otimizar o desempenho de uma rede de computadores. Ele abrange diversas áreas, como a detecção e solução de falhas, controle de tráfego, segurança e a configuração de dispositivos de rede. O objetivo é garantir que a rede opere de forma eficiente, segura e com alta disponibilidade, minimizando interrupções e otimizando a comunicação entre dispositivos e usuários. Sobre o gerenciamento de redes de computadores, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) a comunicação entre o sistema de gerenciamento de rede (NMS) e os agentes usa a porta reservada TCP 121.
+(B) o padrão SMNP define qual o problema em um ponto da rede.
+(C) o protocolo RMON permite o gerenciamento proativo da rede.
+(D) RMON deve ser utilizada em redes baseadas no protocolo UDP.
+(E) Traps são notificações de eventos solicitados pelo sistema de gerenciamento.
+
+[GABARITO]
+C

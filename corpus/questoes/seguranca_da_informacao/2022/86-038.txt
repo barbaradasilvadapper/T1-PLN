@@ -1,0 +1,18 @@
+ID: 86-038
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Sobre os tipos de dados abordados pela Lei Geral de Proteção de Dados Pessoais (LGPD) em vigor no Brasil, analise as afirmativas a seguir. I. O número de telefone e o endereço de IP de acesso à Internet são considerados dados pessoais. II. Dados de adolescentes podem ser coletados e repassados a terceiros sem o consentimento dos pais, desde que sejam pseudonimizados. III. Dados biométricos são classificados como públicos e não estão sujeitos à LGPD.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

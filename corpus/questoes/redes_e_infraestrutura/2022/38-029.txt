@@ -1,0 +1,18 @@
+ID: 38-029
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O administrador de rede local do Tribunal de Justiça (TJ) está executando um processo licitatório de forma a obter uma consultoria sobre a arquitetura da sua rede. O objetivo do certame é identificar os problemas existentes na arquitetura em uso e o modelo utilizado. A consultoria notou que o modelo da arquitetura não consegue descrever outra pilha de protocolo senão a existente, não faz distinção entre as camadas físicas e de enlace de dados, e não diferencia claramente os conceitos de serviço, interface e protocolo. A consultoria identificou que o modelo de rede do TJ é o:
+
+[ALTERNATIVAS]
+(A) TCP/IP;
+(B) OSI;
+(C) bluetooh;
+(D) X.25;
+(E) UDP/IP.
+
+[GABARITO]
+A

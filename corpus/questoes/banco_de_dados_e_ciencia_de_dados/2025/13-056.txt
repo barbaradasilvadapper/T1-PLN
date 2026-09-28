@@ -1,0 +1,18 @@
+ID: 13-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No processo de realizar análises nos dados armazenados em um banco de dados relacional, o perito Charles está implementando diversas consultas SQL. Ele precisa acessar o resultado dessas consultas diversas vezes, como se fosse uma tabela, em um ciclo de refinamento analítico contínuo. Em um banco de dados relacional, para criar uma tabela virtual que represente o resultado de uma consulta SQL, Charles deve implementar um(a):
+
+[ALTERNATIVAS]
+(A) VIEW;
+(B) TRIGGER;
+(C) DOMAIN;
+(D) SEQUENCE;
+(E) FUNCTION.
+
+[GABARITO]
+A

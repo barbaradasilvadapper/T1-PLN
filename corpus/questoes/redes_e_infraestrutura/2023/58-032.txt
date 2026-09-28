@@ -1,0 +1,18 @@
+ID: 58-032
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considere um contêiner Docker de ID ‘123abc456def’ em execução em sua máquina local. Assinale a opção que apresenta o comando apropriado para acessar o terminal interno desse contêiner para executar comandos diretamente dentro dele.
+
+[ALTERNATIVAS]
+(A) ‘docker run -it 123abc456def /bin/bash’
+(B) ‘docker exec -it 123abc456def /bin/sh’
+(C) ‘docker attach 123abc456def’
+(D) ‘docker start -it 123abc456def’
+(E) ‘docker container -it 123abc456def’
+
+[GABARITO]
+B

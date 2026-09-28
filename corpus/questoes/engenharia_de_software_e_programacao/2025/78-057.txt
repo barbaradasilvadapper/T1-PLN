@@ -1,0 +1,18 @@
+ID: 78-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No desenvolvimento de software, a arquitetura de aplicações web é a estrutura e organização de um sistema web, que define como os componentes interagem entre si. Dentre diversos arranjos, o padrão de arquitetura hexagonal (também conhecido como padrão de portas e adaptadores) objetiva
+
+[ALTERNATIVAS]
+(A) implementar bloqueio tecnológico de armazenamentos de dados.
+(B) criar arquiteturas fracamente acopladas nas quais os componentes do aplicativo possam ser testados de forma independente, sem dependências de armazenamentos de dados ou interfaces de usuário.
+(C) alterar a pilha de tecnologia ao longo do tempo, ampliado impacto na lógica de negócios.
+(D) estabelecer arquitetura fortemente acoplada.
+(E) usar adaptadores para realizar trocas técnicas com componentes internos e usar interfaces chamadas portas para promover a comunicação do aplicativo com esses componentes.
+
+[GABARITO]
+B

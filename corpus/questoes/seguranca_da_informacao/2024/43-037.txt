@@ -1,0 +1,18 @@
+ID: 43-037
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um órgão implementou sua Equipe de Tratamento e Resposta de Incidentes de Segurança Cibernética (ETIR) utilizando a sua equipe de Tecnologia da Informação (TI) com atuação primordialmente reativa e não exclusiva. As atividades reativas da ETIR terão prioridade sobre as outras determinadas pelos setores específicos de seus membros. A ETIR participará do processo de tomada de decisão sobre quais medidas deverão ser adotadas e poderá recomendar os procedimentos a serem executados ou as medidas de recuperação durante um ataque. Quanto ao modelo de implementação de ETIR e sua autonomia, o órgão optou, respectivamente, por:
+
+[ALTERNATIVAS]
+(A) modelo centralizado na equipe de TI e autonomia completa;
+(B) modelo descentralizado com equipe multidisciplinar e autonomia completa;
+(C) modelo descentralizado com equipe multidisciplinar e autonomia compartilhada;
+(D) modelo utilizando a equipe de TI e autonomia compartilhada;
+(E) modelo utilizando a equipe de TI e autonomia completa.
+
+[GABARITO]
+D

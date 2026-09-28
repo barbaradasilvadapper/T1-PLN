@@ -1,0 +1,18 @@
+ID: 06-070
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A equipe de sistemas do TJAP precisa analisar o papel das camadas de persistência em bancos de dados e como elas contribuem para o desenvolvimento dos sistemas. Para tanto, com a intenção de ajudar nesse processo de análise, as camadas de persistência:
+
+[ALTERNATIVAS]
+(A) são exclusivas para bancos de dados NoSQL, utilizando bibliotecas como HBase e Cassandra;
+(B) proporcionam interfaces que permitem a leitura, gravação e manipulação dos dados armazenados, como JDBC e ADO.NET;
+(C) são responsáveis pela interface gráfica dos sistemas de bancos de dados, usando bibliotecas como Hibernate e Entity Framework;
+(D) gerenciam a persistência de dados no armazenamento e as bibliotecas SQLite e MongoDB são exemplos dessa abordagem;
+(E) focam exclusivamente a otimização de consultas SQL, e bibliotecas como LINQ e Django ORM são amplamente utilizadas nesse contexto.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 11-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A mineração de dados está inserida no processo de descoberta de conhecimento em bases de dados, empregando diversas técnicas e métodos na execução de diferentes tarefas. Selecione a opção que contém apenas tarefas de mineração de dados.
+
+[ALTERNATIVAS]
+(A) Árvore de Decisão e Análise de Associação.
+(B) Classificação e Análise de Associação.
+(C) Classificação e Redes Neurais.
+(D) Floresta Aleatória e k Vizinhos mais Próximos.
+(E) Regressão e k-Médias.
+
+[GABARITO]
+B

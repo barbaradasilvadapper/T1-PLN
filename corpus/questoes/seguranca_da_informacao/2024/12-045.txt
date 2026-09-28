@@ -1,0 +1,18 @@
+ID: 12-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O TCE-PA deseja fortalecer (hardening) a segurança de suas estações de trabalho para proteger contra diversas ameaças. As ações que devem ser tomadas pelo tribunal incluem
+
+[ALTERNATIVAS]
+(A) implementar hardening e ignorar a aplicação de patches.
+(B) usar apenas antivírus e firewall.
+(C) aplicar políticas de senhas fortes e monitorar vulnerabilidades em serviços.
+(D) desativar o IPS e focar apenas em hardening.
+(E) evitar a implementação de políticas de senhas e confiar somente em firewalls.
+
+[GABARITO]
+C

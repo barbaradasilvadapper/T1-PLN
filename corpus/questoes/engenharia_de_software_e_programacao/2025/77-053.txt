@@ -1,0 +1,18 @@
+ID: 77-053
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Durante o Processo de Engenharia de Requisitos para o novo sistema de gestão de documentos, o Analista de Sistemas identificou que dois stakeholders importantes têm requisitos conflitantes sobre a funcionalidade de arquivamento. Um exige arquivamento imediato e o outro exige retenção por 90 dias. A fase do Processo de Engenharia de Requisitos é responsável por resolver essas inconsistências e conflitos entre requisitos e stakeholders é
+
+[ALTERNATIVAS]
+(A) Elicitação.
+(B) Especificação.
+(C) Análise e Negociação.
+(D) Validação.
+(E) Gerenciamento.
+
+[GABARITO]
+C

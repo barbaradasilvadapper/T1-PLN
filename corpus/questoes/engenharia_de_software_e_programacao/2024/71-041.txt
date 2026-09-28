@@ -1,0 +1,18 @@
+ID: 71-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+DevOps é a fusão das primeiras letras de duas funções distintas dentro da TI: desenvolvedores (responsáveis por escrever software) e a equipe de operações (responsável por manter a infraestrutura na qual o software é desenvolvido e implantado). Já o DevSecOps, é uma combinação das primeiras letras de “desenvolvimento”, “segurança” e “operações”. A esse respeito, analise os itens a seguir. I. DevSecOps é uma extensão da mudança cultural em direção ao DevOps, incorporando todos dentro da organização, incluindo partes interessadas nos negócios, segurança, arquitetos, proprietários de produtos e engenheiros de desenvolvimento e de operações. II. DevOps é a colaboração de pessoal e processos de desenvolvimento e operações para formar uma única equipe de entrega ágil composta por partes interessadas, clientes, engenheiros e testadores. Essa equipe trabalha em conjunto para fornecer software e infraestrutura em ritmo acelerado por meio de um pipeline automatizado de CI/CD. III. É natural supor que o DevSecOps una engenheiros de requisitos, de dados e de redes com DevOps em uma única equipe. No entanto, a segurança é criada por um grupo multidisciplinar de indivíduos externos à organização, cada um com uma função específica, testar falhas e explorar vulnerabilidades em sistemas e bancos de dados.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) III, apenas.
+(C) I, II e III.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

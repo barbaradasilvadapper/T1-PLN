@@ -1,0 +1,18 @@
+ID: 19-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Dentre os cinco elementos que apoiam a transformação da demanda em valor no Sistema de Valor de Serviço (SVS) do ITIL v.4, o componente Governança tem como propriedade que:
+
+[ALTERNATIVAS]
+(A) deve ser o único componente a ser excluído da aplicação dos princípios orientadores e da melhoria contínua do SVS devido às suas particularidades orientadoras;
+(B) a alta administração deve adotar os princípios orientadores da ITIL ou definir seu próprio conjunto genérico de princípios e comunicá-los em toda a organização;
+(C) a alta administração deve ter visibilidade dos resultados das atividades de melhoria contínua e da medição do valor para a organização e as suas partes interessadas;
+(D) a governança e a gestão em níveis específicos são continuamente melhoradas para atender às expectativas das partes interessadas e ao mesmo tempo criar valor;
+(E) é crucial assegurar que a alta administração da organização, indiretamente ou através de delegação de responsabilidade, mantenha a supervisão do SVS.
+
+[GABARITO]
+C

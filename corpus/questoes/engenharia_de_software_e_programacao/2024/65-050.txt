@@ -1,0 +1,18 @@
+ID: 65-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Sobre as Metodologias de Desenvolvimento de Software e o Processo Unificado, analise as afirmativas a seguir. I. O Processo Unificado é uma metodologia de desenvolvimento de software que se destaca por ser iterativa e incremental com entregas sucessivas e refinadas do projeto. II. A análise orientada a objeto não é considerada uma metodologia de desenvolvimento de software. III. No Processo Unificado, artefatos como casos de uso e diagramas de classe podem ser compartilhados entre diferentes fases, como a concepção e a elaboração.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II, III.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 77-041
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A Assembleia Legislativa gera uma enorme quantidade de dados diariamente, incluindo registros de votação, transcrições de sessões e interações nas redes sociais. O volume desses dados é tão grande, e a velocidade de sua geração tão alta, que as ferramentas tradicionais de banco de dados não são suficientes para processá-los e armazená-los. No contexto de Big Data, assinale a característica se refere à imensa quantidade de dados gerados, que ultrapassa a capacidade de processamento de sistemas convencionais.
+
+[ALTERNATIVAS]
+(A) Volume.
+(B) Velocity.
+(C) Veracity.
+(D) Variety.
+(E) Value.
+
+[GABARITO]
+A

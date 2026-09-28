@@ -1,0 +1,18 @@
+ID: 62-071
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Ao enviar informações sensíveis para outros colegas de sua diretoria, o analista Amon optou por utilizar um algoritmo de criptografia. Nesse contexto, analise as afirmativas a seguir. I. Se optar por usar um algoritmo assimétrico, o analista Amon deverá compartilhar sua chave pública com seus colegas, e utilizar sua chave privada para criptografar os dados. II. Se o analista Amon pretender maior velocidade de processamento, deverá optar por algoritmos simétricos, como o AES. III. Ao optar por uma criptografia assimétrica, o analista Amon deve usar uma criptografia simétrica para realizar o envio/compartilhamento da chave.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) I e III, apenas.
+
+[GABARITO]
+B

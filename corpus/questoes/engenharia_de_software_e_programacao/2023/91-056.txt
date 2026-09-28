@@ -1,0 +1,18 @@
+ID: 91-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Seggundo o eMAG - Modelo de Acessibilidade em Governo Eletrônico, Versão 3.1, o processo para desenvolver um sítio acessível é realizado em três passos. Em relação ao tema, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) Seguir os padrões Web: Para criar um ambiente online efetivamente acessível é necessário, primeiramente, que o código esteja dentro dos padrões Web internacionais definidos pelo W3C, devendo estar em conformidade com as normas HTML, XML, XHTML e CSS, seguindo as regras de formatação sintática. Além disso, é importante que o código seja semanticamente correto, cada elemento seja utilizado de acordo com um significado apropriado, valor e propósito. ( ) Seguir as diretrizes ou recomendações de acessibilidade: As diretrizes explicam como tornar o conteúdo Web acessível a todas as pessoas, destinando-se aos criadores de conteúdo Web ou mídias sociais e aos programadores de ferramentas para criação de conteúdo. Sendo que a principal documentação nessa área é a WAI (Web Accessibility Initiative), desenvolvida pelo consórcio W3C a partir da criação do WCAG (Web Content Accessibility Guidelines), contendo as recomendações de acessibilidade para conteúdo Web. ( ) Realizar avaliações de usabilidade, navegabilidade e compatibilidade: Após a construção do ambiente online de acordo com os padrões Web e as diretrizes de acessibilidade, é necessário testá-lo para garantir sua acessibilidade. No caso dos padrões Web, não se recomenda o uso validadores automáticos. Em relação às diretrizes de acessibilidade, é necessário realizar, inicialmente, uma validação manual que ajudam a determinar se um sítio respeitou ou não as recomendações de usabilidade e navegabilidade, gerando um relatório de erros. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – F – F.
+(C) V – F – V.
+(D) F – V – V.
+(E) F – V – F.
+
+[GABARITO]
+B

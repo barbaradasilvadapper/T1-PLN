@@ -1,0 +1,18 @@
+ID: 76-066
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Muitos princípios ágeis, especialmente o Kanban, são fortemente influenciados pelo pensamento Lean Enxuto, que busca otimizar o fluxo de valor. Assinale a opção que apresenta um exemplo de desperdício no desenvolvimento de software que o Kanban e o Lean buscam ativamente minimizar.
+
+[ALTERNATIVAS]
+(A) Reuniões diárias de Daily Scrum de 15 minutos.
+(B) Integração contínua do código a cada poucas horas.
+(C) Trabalho parcialmente concluído com itens que permanecem na coluna Em Teste ou Em Desenvolvimento por longos períodos.
+(D) O código-fonte que possui alta Coesão e baixo Acoplamento.
+(E) O processo de Pair Programming para garantir qualidade.
+
+[GABARITO]
+C

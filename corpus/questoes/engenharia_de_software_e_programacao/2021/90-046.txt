@@ -1,0 +1,18 @@
+ID: 90-046
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere a classe System.IO.File no ambiente C#. Assinale a opção que contém apenas métodos válidos para essa classe.
+
+[ALTERNATIVAS]
+(A) Delete; Erase.
+(B) Exists; Count.
+(C) Encrypt; Uncrypt.
+(D) OpenReadWrite; Open.
+(E) ReadLines; OpenWrite. Μ1
+
+[GABARITO]
+E

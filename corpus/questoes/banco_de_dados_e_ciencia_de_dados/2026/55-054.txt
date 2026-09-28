@@ -1,0 +1,18 @@
+ID: 55-054
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Letícia é analista de sistemas do Tribunal de Justiça e elabora análises e relatórios sobre os processos de sua região. No desempenho de suas atribuições, realiza operações em OLAP (Online Analytical Processing). Em uma dessas análises, utilizando um cubo de dados com as dimensões processos, tempo e cidade, ela deverá realizar as seguintes operações: I. detalhar a quantidade de processos de ano para trimestre; II. filtrar os processos, considerando apenas os de natureza criminal; e III. rotacionar a visualização dos dados, trocando linhas por colunas. A sequência de operações que Letícia deverá realizar é, respectivamente,
+
+[ALTERNATIVAS]
+(A) Drill-down, Dice e Pivot.
+(B) Slice, Roll-Up e Drill-down.
+(C) Drill-down, Slice e Pivot.
+(D) Drill-down, Pivot e Dice.
+(E) Slice, Roll-up e Dice.
+
+[GABARITO]
+C

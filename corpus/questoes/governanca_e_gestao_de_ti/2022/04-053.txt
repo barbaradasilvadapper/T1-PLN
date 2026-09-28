@@ -1,0 +1,18 @@
+ID: 04-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A equipe de desenvolvimento (ED) de um órgão da administração pública gerencia, implementa, entrega e faz manutenção de novas soluções de software para uso dos diversos setores do órgão. A ED, alinhada ao Framework COBIT ® 2019, definiu e segue um acordo de nível de serviço específico para atender demandas de correções e de melhorias das soluções de software entregues. Sendo assim, a prática do objetivo de governança e gestão do Framework COBIT ® 2019 utilizada pela ED é o:
+
+[ALTERNATIVAS]
+(A) APO03 - Arquitetura corporativa gerenciada (Managed Enterprise Architecture);
+(B) APO04 - Inovação gerenciada (Managed Innovation);
+(C) APO05 - Portfólio gerenciado (Managed Portfolio);
+(D) APO08 –Relacionamentos gerenciados (Managed Relationships);
+(E) APO09 - Contratos de serviços gerenciados (Managed Service Agreements).
+
+[GABARITO]
+E

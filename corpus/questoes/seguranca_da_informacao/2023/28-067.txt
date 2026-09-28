@@ -1,0 +1,18 @@
+ID: 28-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A analista Débora administra um servidor de autenticação Keycloak. Foi solicitado a Débora configurar o Keycloak de forma que a autenticação seja delegada a um provedor de OpenID Connect externo. Débora sabe que a solicitação é exequível, pois é suportada nativamente pelo Keycloak através do recurso:
+
+[ALTERNATIVAS]
+(A) script mapper;
+(B) token mapper;
+(C) user federation;
+(D) identity brokering;
+(E) service provider interface.
+
+[GABARITO]
+D

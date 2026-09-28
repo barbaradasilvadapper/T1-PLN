@@ -1,0 +1,18 @@
+ID: 80-044
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Paulo instalou e configurou completa e corretamente o Keras na sua máquina local. Os comandos Python 3 que ele deve utilizar para verificar a versão instalada são
+
+[ALTERNATIVAS]
+(A) import keras print(keras.__version__)
+(B) import keras print(keras.version)
+(C) import keras print(keras,id)
+(D) import keras import gpu print(keras.id)
+(E) import os import keras import gpu print(keras.id.version)
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 52-045
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em um procedimento de análise forense de sistemas, foi solicitada a análise de dados armazenados em notebook apreendido em operação oficial de busca e apreensão. A respeito do processo, analise as seguintes informações descritivas, documentadas sequencialmente: I. No momento da operação, o computador estava desligado e foi armazenado de forma adequada após a retirada da bateria, tendo sido, posteriormente, realizada a cópia completa do disco do equipamento, conforme registro cronológico de toda a movimentação; II. O processo de análise foi realizado no disco original, uma vez que a cópia obtida por duplicação “mídia para arquivoimagem” havia sido adequadamente armazenada no cofre, para preservação dos dados e da autenticidade; III. A perícia foi realizada a pedido da autoridade competente, por servidora concursada plantonista, que é uma profissional experiente e capacitada, com formação de nível médio e portadora de Certificação em Computação Forense de instituição de elevada credibilidade. Está correto o procedimento descrito em:
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

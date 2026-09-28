@@ -1,0 +1,18 @@
+ID: 12-084
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma das principais facilidades da programação orientada a objetos é a possibilidade de sobrecarregar funções. Considere que existe uma função chamada calcularArea apresentada com o seu protótipo em pseudocódigo no formato: tipo_retorno nome_Função (tipo_Argumento1 nome_Argumento1, …, tipo_ArgumentoN nome_ArgumentoN) O protótipo da função calcularArea é: float calcularArea (Quadrado quadrado1) Assinale a opção que apresenta um exemplo de sobrecarga da função calcularArea.
+
+[ALTERNATIVAS]
+(A) Class Circulo implements Quadrado
+(B) Class Quadrado extends Poligono
+(C) float calcularAreaCirculo (float raio)
+(D) inteiro calcularArea (Quadrado quadrado1)
+(E) float calcularArea (Circulo circulo1)
+
+[GABARITO]
+E

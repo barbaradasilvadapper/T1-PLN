@@ -1,0 +1,18 @@
+ID: 95-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O volume de informações digitais heterogêneas sobre processos judiciais está crescendo diariamente, especialmente quando correlações com bases de dados de outros contextos são criadas. Observe o seguinte exemplo de representação gráfica de uma pequena amostra do dataset ProcessosJudiciais, contendo nós, arestas e propriedades, armazenado em um banco de dados massivo. Para armazenar o dataset ProcessosJudiciais exemplificado, é necessário utilizar um banco de dados:
+
+[ALTERNATIVAS]
+(A) ágil;
+(B) de grafos;
+(C) chave-valor;
+(D) orientado a objeto;
+(E) orientado a documentos.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 84-043
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe a declaração abaixo no contexto de páginas Web. <div class="jumbotron"> <h1>Teste</h1> <p>Frase inicial...</p> </div> Assinale o framework usualmente associado à classe utilizada.
+
+[ALTERNATIVAS]
+(A) Angular Material.
+(B) Bootstrap.
+(C) CSS.
+(D) JSON.
+(E) SpringBoot.
+
+[GABARITO]
+B

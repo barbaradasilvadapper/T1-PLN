@@ -1,0 +1,18 @@
+ID: 77-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um módulo de relatórios da Assembleia foi projetado de modo que, sempre que um novo formato de relatório é necessário, o código da classe GeradorDeRelatorio precisa ser modificado para incluir a nova lógica de exportação. Assinale o princípio SOLID está sendo violado por esse design, e a técnica ideal de design seria ideal para corrigi-lo
+
+[ALTERNATIVAS]
+(A) Dependency Inversion Principle; Correção: Padrão Adapter.
+(B) Single Responsibility Principle; Correção: Padrão Singleton.
+(C) Open-Closed Principle; Correção: Padrão Strategy ou Decorator.
+(D) Liskov Substitution Principle; Correção: Herança.
+(E) Interface Segregation Principle; Correção: Facade.
+
+[GABARITO]
+C

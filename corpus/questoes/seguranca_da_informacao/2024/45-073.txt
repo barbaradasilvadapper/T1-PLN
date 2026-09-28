@@ -1,0 +1,18 @@
+ID: 45-073
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O TRF1 realiza o tratamento de dados pessoais dos usuários dos serviços jurisdicionais, em especial, os dados registrados nos processos tramitados no sistema de processo judicial eletrônico (PJe). Caso um incidente de segurança comprometa a disponibilidade do sistema PJe, a Autoridade Nacional de Proteção de Dados deverá ser comunicada:
+
+[ALTERNATIVAS]
+(A) em até três dias, após confirmada a indisponibilidade do sistema;
+(B) imediatamente, pois o sistema armazena um grande volume de dados pessoais;
+(C) imediatamente, se a ocorrência de violação de dados pessoais for confirmada;
+(D) em até três dias úteis, se a ocorrência de violação de dados pessoais for confirmada e acarretar risco ou dano relevante aos titulares;
+(E) em até três dias úteis, se a ocorrência de violação de dados pessoais for confirmada e o titular requerer a confirmação da existência de tratamento.
+
+[GABARITO]
+D

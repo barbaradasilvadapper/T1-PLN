@@ -1,0 +1,18 @@
+ID: 58-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No contexto da criptografia simétrica e assimétrica, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A criptografia assimétrica utiliza um par de chaves: uma chave pública e uma chave privada. ( ) O protocolo TLS usa uma combinação de criptografia simétrica e assimétrica para fornecer confidencialidade, integridade e autenticidade nas comunicações pela Internet. ( ) A criptografia assimétrica é geralmente mais rápida que a criptografia simétrica, sendo frequentemente utilizada para cifrar grandes volumes de dados. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) F – V – F.
+(B) F – V – V.
+(C) V – F – F.
+(D) V – V – F.
+(E) F – F – V.
+
+[GABARITO]
+D

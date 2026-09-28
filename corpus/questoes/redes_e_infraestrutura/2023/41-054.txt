@@ -1,0 +1,18 @@
+ID: 41-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Alexandre, gerente de TI da empresa X, recebeu a demanda de desenvolver um projeto que combine a distribuição de dados em tiras, e não com palavras individuais com paridade, e que não requerem drives sincronizados. Além disso, que distribua os bits de paridade uniformemente por todos os drives, por alternância circular. Baseado nas informações acima, é correto afirmar que Alexandre deve utilizar:
+
+[ALTERNATIVAS]
+(A) RAID 0;
+(B) RAID 10;
+(C) RAID 5;
+(D) RAID 2;
+(E) RAID 4.
+
+[GABARITO]
+C

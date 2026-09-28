@@ -1,0 +1,18 @@
+ID: 57-015
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A Comissão de Valores Mobiliários (CVM) está com um processo licitatório para a aquisição de um Exadata (máquina para uso exclusivo de banco de dados Oracle). Como requisito de segurança, os dados devem estar em uma máquina exclusiva para a CVM. Outro tópico do edital é que a responsabilidade pela infraestrutura continuará com a Oracle, com a CVM no controle do equipamento. Ao término do processo, a CVM fará um contrato de modelo de implantação de nuvem do tipo:
+
+[ALTERNATIVAS]
+(A) pública;
+(B) privada;
+(C) comunitária;
+(D) híbrida;
+(E) infraestrutura como serviço.
+
+[GABARITO]
+B

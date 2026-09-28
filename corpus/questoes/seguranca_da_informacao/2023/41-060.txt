@@ -1,0 +1,18 @@
+ID: 41-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A primeira etapa em um ataque de negação de serviço distribuído (DDoS - Distributed Denial of Service) é o atacante infectar diversas máquinas com software zumbi que, por fim, serão usadas para executar o ataque. No processo denominado varredura, o atacante primeiro procura uma série de máquinas vulneráveis e as infecta. Na estratégia de varredura do tipo topológica:
+
+[ALTERNATIVAS]
+(A) se um host puder ser infectado por trás de um firewall, esse host então procurará alvos em sua própria rede local;
+(B) o atacante compila uma longa lista de máquinas vulneráveis em potencial;
+(C) o atacante usa informações contidas em uma máquina vítima infectada para encontrar mais hosts a serem varridos;
+(D) cada host comprometido sonda endereços aleatórios no espaço de endereços de IP usando uma semente diferente;
+(E) o atacante verifica os serviços que não requerem credenciais, por exemplo, leitura de banners e respostas para informações da versão, para perpetuar a varredura.
+
+[GABARITO]
+C

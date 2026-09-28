@@ -1,0 +1,18 @@
+ID: 02-062
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+João é um cientista de dados que iniciou o processo de estudo dos dados de sua empresa com o objetivo de identificar um diferencial competitivo diante de seus concorrentes. Como resultado, João decidiu implementar um Big Data e hospedá-lo em um ambiente de nuvem. Diante das possibilidades dos serviços, considerando os requisitos de escalabilidade e elasticidade, em caso de aumento de demanda pontual, aliados à tecnologia de Big Data, a alternativa que melhor descreve o tipo de serviço em nuvem a ser contratado por João é:
+
+[ALTERNATIVAS]
+(A) infraestrutura como serviço (IaaS), que consiste na entrega de funções de computação, incluindo hardware, redes, armazenamento e espaço de Datacenter com base em um modelo de aluguel;
+(B) plataforma como serviço (PaaS), que oferece um conjunto consistente de serviços que garantem que os desenvolvedores tenham um modo integrado para a criação de aplicativos em nuvem;
+(C) software como serviço (SaaS), que consiste em um aplicativo de negócios criado e hospedado por um provedor em um modelo de múltiplos usuários;
+(D) dados como serviço (DaaS), que é um serviço independente de plataforma que permite conexão à nuvem para armazenar e recuperar informações;
+(E) infraestrutura como código (IaC), que consiste em uma abordagem baseada na agilidade para entregar uma infraestrutura de forma muito mais rápida, com uma codificação objetiva e simples.
+
+[GABARITO]
+D

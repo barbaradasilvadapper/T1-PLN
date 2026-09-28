@@ -1,0 +1,18 @@
+ID: 07-041
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A política de escalonamento é a base da gerência do processador. Ryu é analista de sistemas e sabe que as características de cada Sistema Operacional (SO) determinam quais são os principais aspectos para a implementação de uma política de escalonamento adequada. Brevemente Ryu adotará, em seu projeto de SO, o critério de escalonamento que representa o número de processos executados em um determinado intervalo de tempo. Em seu projeto de SO, Ryu deve utilizar o critério de escalonamento:
+
+[ALTERNATIVAS]
+(A) throughput;
+(B) tempo de espera;
+(C) tempo de turnaround;
+(D) tempo de processador;
+(E) utilização do processador.
+
+[GABARITO]
+A

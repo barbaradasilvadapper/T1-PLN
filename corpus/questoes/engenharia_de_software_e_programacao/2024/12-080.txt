@@ -1,0 +1,18 @@
+ID: 12-080
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação aos conceitos da programação orientada a objetos, avalie as afirmativas a seguir. I. Herança e polimorfismo são pilares da programação orientada a objeto. II. Uma classe contém os atributos (dados ou propriedades) do objeto e as funções (métodos) que podem ser executadas por ele. III. Um objeto é uma instância de uma classe.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

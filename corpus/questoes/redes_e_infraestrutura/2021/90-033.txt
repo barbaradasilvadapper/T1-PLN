@@ -1,0 +1,18 @@
+ID: 90-033
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto do Windows 10, assinale a opção que contém um nome de arquivo inválido.
+
+[ALTERNATIVAS]
+(A) [novo
+(B) (novo)
+(C) muito*novo
+(D) muito_novo
+(E) muito-novo
+
+[GABARITO]
+C

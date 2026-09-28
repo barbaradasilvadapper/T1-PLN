@@ -1,0 +1,18 @@
+ID: 09-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Durante o processo de engenharia de requisitos em um projeto de desenvolvimento de software para um sistema bancário, o analista de requisitos identificou que era necessário que a função de saldo de conta passasse a ser realizada em tempo real. Para isso, ele utilizou uma entrevista com o gerente do projeto e uma sessão de brainstorming com a equipe de desenvolvimento. Nesse contexto, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) o requisito identificado é funcional, pois descreve uma funcionalidade específica do sistema que o usuário deve ser capaz de executar.
+(B) o requisito identificado é não funcional, pois está relacionado ao desempenho do sistema ao apresentar informações em tempo real.
+(C) a entrevista com o gerente do projeto é um exemplo de técnica de prototipação, uma vez que visa a construção de um modelo para validar os requisitos.
+(D) a sessão de brainstorming com a equipe de desenvolvimento é uma técnica inadequada para elicitação de requisitos, pois deve-se usar apenas entrevistas formais com os usuários finais.
+(E) o processo de engenharia de requisitos geralmente ocorre após a fase de implementação do software, pois é necessário ter o software em funcionamento para capturar as necessidades dos usuários.
+
+[GABARITO]
+B

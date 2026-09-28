@@ -1,0 +1,18 @@
+ID: 22-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao inteligencia da informacao dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma urna contém 3 bolas vermelhas e 4 bolas azuis indistinguíveis, exceto pela cor. Três bolas serão retiradas dessa urna, sucessivamente e sem reposição. Seja X a variável aleatória que representa a quantidade de bolas azuis retiradas da urna. O valor esperado de X é
+
+[ALTERNATIVAS]
+(A) 2,7
+(B) 2,1
+(C) 1,7
+(D) 1,3
+(E) 0,9
+
+[GABARITO]
+C

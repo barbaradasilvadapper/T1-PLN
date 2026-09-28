@@ -1,0 +1,18 @@
+ID: 01-037
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere a propriedade de Isolamento das transações ACID nos sistemas gerenciadores de bancos de dados. Um mecanismo usualmente empregado para garantir a integridade dos dados em operações concorrentes atua por meio de operações de:
+
+[ALTERNATIVAS]
+(A) Cache;
+(B) Commit;
+(C) Lock;
+(D) Logging;
+(E) SyncPoint.
+
+[GABARITO]
+C

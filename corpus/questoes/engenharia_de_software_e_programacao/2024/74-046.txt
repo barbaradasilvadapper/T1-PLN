@@ -1,0 +1,18 @@
+ID: 74-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Azure é a plataforma de nuvem da Microsoft. Ela oferece uma vasta gama de serviços para suportar o desenvolvimento, gerenciamento e operação de aplicativos. Nesse contexto temos o Azure DevOps, um conjunto de ferramentas e serviços que facilita a automação do ciclo de vida de desenvolvimento de software e promove práticas de DevOps, aumentando a eficiência, colaboração e qualidade dos projetos de software. Assinale a opção que melhor descreve a função do Azure Pipelines no Azure DevOps.
+
+[ALTERNATIVAS]
+(A) Gerenciamento de repositórios de código-fonte e controle de versão.
+(B) Criação de relatórios e dashboards para monitoramento de projetos.
+(C) Implementação de políticas de segurança para controle de acesso aos recursos do Azure.
+(D) Automatização de processos de build, teste e deploy de aplicações.
+(E) Monitoramento e gerenciamento de logs e métricas de desempenho de aplicações em produção.
+
+[GABARITO]
+D

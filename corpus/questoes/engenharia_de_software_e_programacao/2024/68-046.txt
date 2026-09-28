@@ -1,0 +1,18 @@
+ID: 68-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A existência de diferentes modelos de processos de software busca organizar e dar método à atividade de construção de um software. A complexidade de um software é dependente de diversos fatores. Entretanto, requisitos de software são dinâmicos – demandando, por conseguinte, que suas mudanças se reflitam de alguma forma ao longo do processo de desenvolvimento. Diferentes abordagens propostas na literatura procuram combinar a necessidade de organização do processo em si e a absorção dessas adaptações referentes aos requisitos. Assinale a que indica um modelo de processo de desenvolvimento classificado como especializado.
+
+[ALTERNATIVAS]
+(A) Concorrente.
+(B) Espiral.
+(C) Métodos formais.
+(D) Modelo V.
+(E) Prototipação.
+
+[GABARITO]
+C

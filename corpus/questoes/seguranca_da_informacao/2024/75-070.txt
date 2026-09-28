@@ -1,0 +1,18 @@
+ID: 75-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A política de resposta a incidentes descreve as ações necessárias relacionadas à comunicação, resposta e tratamento de incidentes de segurança da informação. Avalie se as afirmativas a seguir, destinadas a se obter uma política eficaz de resposta a incidentes, estão corretas. I. É um conjunto de procedimentos e processos que a empresa estabelece para detectar e responder a vulnerabilidades de segurança e incidentes. II. O objetivo principal é minimizar o impacto do incidente, conter a ameaça e restabelecer as operações normais tão rápido quanto possível. III. Estabelece uma abordagem estruturada e sistemática para lidar com incidentes de segurança. IV. Um plano de resposta bem documentado e testado é essencial. Estão corretas as afirmativas
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) III e IV, apenas.
+(C) I, II e III, apenas.
+(D) II, III e IV, apenas.
+(E) I, II, III e IV.
+
+[GABARITO]
+E

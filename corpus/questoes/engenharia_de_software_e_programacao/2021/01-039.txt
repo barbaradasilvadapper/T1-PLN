@@ -1,0 +1,18 @@
+ID: 01-039
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o comando JavaScript a seguir. document.getElementById('demo').innerHTML = Date() Numa página web na qual esse código seja aplicado, o elemento que é compatível com a estrutura do comando para receber a data corrente é:
+
+[ALTERNATIVAS]
+(A) <p "demo">H</p>
+(B) <p class="demo">H</p>
+(C) <p id="demo">H</p>
+(D) <p js="demo">H</p>
+(E) <p onclick="demo">H</p>
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 24-057
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No Linux, a função fork cria um novo processo, referido como filho, pela duplicação do processo que inicia a operação, referido como pai, de tal forma que: I. O processo filho herda o PID do processo pai. II. Pai e filho rodam (run) em espaços de memória diferentes. III. O filho herda todos os sinais de tempo do pai, no estado em que se encontram na execução da função fork. IV. Em caso de sucesso, a função fork retorna zero no processo pai. O número de afirmativas corretas é:
+
+[ALTERNATIVAS]
+(A) zero;
+(B) uma;
+(C) duas;
+(D) três;
+(E) quatro.
+
+[GABARITO]
+B

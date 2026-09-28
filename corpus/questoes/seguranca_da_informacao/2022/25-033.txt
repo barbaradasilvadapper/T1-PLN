@@ -1,0 +1,18 @@
+ID: 25-033
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Lucas é um trader profissional que trabalha em uma corretora de valores. Ele efetua muitas operações durante o período em que a bolsa negocia seus ativos. Após fazer uma revisão em suas operações do dia, não validou, como sendo efetuadas por ele, algumas das operações que obtiveram prejuízo. Lucas, então, entrou em contato com a corretora e esta demonstrou, a partir de registros de auditoria e garantia de identidade, que as operações em questão realmente foram executadas por ele. Para que a corretora prove que foi Lucas quem realmente executou as operações, ela deve fazer uso do conceito de segurança chamado:
+
+[ALTERNATIVAS]
+(A) confidencialidade;
+(B) autenticidade;
+(C) integridade;
+(D) disponibilidade;
+(E) irretratabilidade.
+
+[GABARITO]
+E

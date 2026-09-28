@@ -1,0 +1,18 @@
+ID: 27-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Defensoria Pública do Estado do Rio Grande do Sul (DPE/RS) está trocando os cabos Ethernet categoria 5 da rede interna por fibra óptica, de forma a melhorar o throughput. Durante a definição do modelo de fibra usado, levaram-se em conta os tipos de fontes de luz possíveis. Uma delas é o LED (diodo emissor de luz) e a outra, o laser semicondutor. Ele tem propriedades que definem sua utilização. A DPE/RS definiu fazer uso de fibra com laser semicondutor como fonte de luz. Comparando as duas fontes de luz, as características que definiram a escolha da DPE/RS foram:
+
+[ALTERNATIVAS]
+(A) possuir uma taxa de dados mais baixa e um custo baixo;
+(B) trabalhar com fibra multimodo ou monomodo e possuir vida útil menor;
+(C) ser mais sensíveis à temperatura e trabalhar em uma distância mais curta;
+(D) trabalhar apenas com fibra multimodo e possuir uma vida útil longa;
+(E) trabalhar com alta taxa de dados e possuir uma vida útil longa.
+
+[GABARITO]
+B

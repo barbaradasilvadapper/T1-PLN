@@ -1,0 +1,18 @@
+ID: 92-038
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Acerca dos sistemas de numeração, assinale a opção que corresponde ao valor hexadecimal para o número decimal 4096.
+
+[ALTERNATIVAS]
+(A) F100
+(B) F0
+(C) 1F0
+(D) 1000
+(E) FFF FGV
+
+[GABARITO]
+D

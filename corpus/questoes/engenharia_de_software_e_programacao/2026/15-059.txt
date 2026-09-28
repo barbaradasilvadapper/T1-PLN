@@ -1,0 +1,18 @@
+ID: 15-059
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O departamento de Informática da ALEGO que atende o setor financeiro enfrenta dificuldades em estimar custos e prazos porque não utiliza uma métrica padronizada de tamanho funcional. Para melhorar a previsibilidade e a comparabilidade entre projetos, a diretoria avalia adotar a Análise de Pontos de Função (APF) e busca entender, de forma geral, como essa métrica pode apoiar o planejamento e a gestão de desenvolvimento.
+
+[ALTERNATIVAS]
+(A) A APF considera apenas as funcionalidades visíveis para o usuário final, considerando também as funcionalidades internas do sistema.
+(B) Uma contagem de pontos de função ajustados é realizada apenas para projetos de desenvolvimento, não sendo necessária em projetos de melhoria.
+(C) A complexidade das funções do tipo transação é determinada exclusivamente pela quantidade de dados processados, sem considerar a estrutura do sistema.
+(D) A contribuição de Arquivos Lógicos Internos (ALI) e Arquivos de Interface Externa (AIE) é padronizada por organizações como o IFPUG, permitindo comparações consistentes entre diferentes sistemas.
+(E) A estimativa de custos em projetos de software utilizando APF é totalmente independente das taxas de produtividade da equipe de desenvolvimento.
+
+[GABARITO]
+D

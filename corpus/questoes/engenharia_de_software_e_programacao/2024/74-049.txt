@@ -1,0 +1,18 @@
+ID: 74-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Testar um software é um aspecto fundamental do desenvolvimento de software que visa garantir que o produto final atenda às expectativas e requisitos dos usuários e funcione de maneira correta e confiável, ou seja, é uma forma de garantir a qualidade do software. Existem várias categorias de testes de software, sendo uma das principais os testes de unidade ou testes unitários. O objetivo principal dos testes de unidade em desenvolvimento de software é
+
+[ALTERNATIVAS]
+(A) testar a interação entre diferentes módulos ou componentes do sistema para garantir que funcionem juntos corretamente.
+(B) verificar a conformidade do software com os requisitos do usuário e as especificações do projeto.
+(C) garantir que o software atenda aos critérios de desempenho e escalabilidade sob carga simulada.
+(D) validar o comportamento de partes individuais do códigofonte isoladamente para assegurar que cada unidade funciona conforme o esperado.
+(E) avaliar a experiência do usuário e a usabilidade do software durante o uso real.
+
+[GABARITO]
+D

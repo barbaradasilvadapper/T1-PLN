@@ -1,0 +1,18 @@
+ID: 86-055
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Quando há o comprometimento de um certificado digital antes do fim de sua validade, ele deve ser revogado pela autoridade certificadora que o emitiu. A forma dessa revogação ser implementada e divulgada para os usuários finais é por meio do(a)
+
+[ALTERNATIVAS]
+(A) invalidação da chave privada do usuário, o que torna impossível o uso do respectivo certificado digital.
+(B) uso do protocolo OCSP, em que um usuário pode obter o status de revogação de um dado certificado digital.
+(C) alteração da data de validade do certificado digital, de modo que ele expire imediatamente.
+(D) emissão de uma lista única contendo os certificados digitais revogados de todas as autoridades certificadoras.
+(E) anulação da assinatura digital do certificado digital, o que torna esse certificado inválido.
+
+[GABARITO]
+B

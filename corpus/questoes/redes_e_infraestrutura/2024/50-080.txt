@@ -1,0 +1,18 @@
+ID: 50-080
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Sistema de Nomes de Domínios (DNS) é uma aplicação cliente/servidor que associa cada host na Internet com um nome de domínio exclusivo facilmente identificável. Sobre DNS, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) existem dois tipos de registros DNS: registros de consultas e registros de respostas.
+(B) na resolução iterativa, o cliente transmite sua solicitação a um servidor que, no final do processo, retorna uma resposta.
+(C) um FQDN é um nome de domínio que não inclui todos os níveis existentes entre o host e o nó raiz.
+(D) o DNS usa os serviços de UDP para mensagens menores que 1024 bytes, caso contrário é usado o TCP.
+(E) o DNS pode ser representado por uma estrutura hierárquica de árvore invertida, com o nó raiz na parte superior e um máximo de 128 níveis.
+
+[GABARITO]
+E

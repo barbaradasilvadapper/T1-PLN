@@ -1,0 +1,18 @@
+ID: 79-060
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Carla preparou o disco FDisk para operar com um sistema Linux. Ela escolheu formatar o FDisk com um sistema de arquivos disponível nativamente no kernel do Linux, sem descartar soluções mais antigas. O sistema de arquivos escolhido por Carla apresenta certos benefícios ao ser usado em memórias flash, pois emprega a técnica copy-on-write, tanto para dados quanto para metadados. Sendo assim, Carla formatou o FDisk com o sistema de arquivos:
+
+[ALTERNATIVAS]
+(A) F2FS;
+(B) EXT2;
+(C) EXT3;
+(D) EXT4;
+(E) BTRFS.
+
+[GABARITO]
+E

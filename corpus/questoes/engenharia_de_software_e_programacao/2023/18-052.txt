@@ -1,0 +1,18 @@
+ID: 18-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise, no código JavaScript exibido a seguir, a função f que recebe um array como parâmetro. É dado que a função Math.trunc retorna a parte inteira de um número. function f(x) { i = 0; for (i=0; i < Math.trunc(x.length/2); i++) { a = x[i]; x[i] = x[x.length -i -1]; x[x.length -i -1] = a; } return x; } A complexidade do algoritmo é da ordem:
+
+[ALTERNATIVAS]
+(A) Log (N)
+(B) N Log(N)
+(C) N/2
+(D) N
+(E) N 2
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 36-074
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Mário trabalha em uma empresa que está elaborando seu plano de gerenciamento de riscos. Com o objetivo de estabelecer o valor de cada ativo na organização, ela precisa inicialmente identificar seus riscos em um nível de detalhamento adequado. Baseando-se na norma ABNT NBR ISO/IEC 27005:2019, sabe-se que os ativos são divididos em primários e de suporte. Para facilitar o processo de identificação, Mário iniciou seu documento de ativos primários pelo:
+
+[ALTERNATIVAS]
+(A) equipamento automático de processamento de dados, incluindo os itens necessários para sua operação independente;
+(B) software para o gerenciamento de bases de dados e software de gerenciamento de fluxo de trabalho;
+(C) pessoal de produção/manutenção e desenvolvedores;
+(D) processo que contém procedimentos secretos e processos envolvendo tecnologia proprietária;
+(E) meio físico e a infraestrutura, pontes (“relays”) passivas ou ativas e interface de comunicação.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 29-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe o seguinte script de concessão de privilégios em MySQL a seguir. CREATE DATABASE db; CREATE TABLE db.t1 (c INT); INSERT INTO db.t1 VALUES ROW (1); CREATE TABLE db.t2 (c INT); INSERT INTO db.t2 VALUES ROW (1); CREATE USER u1; GRANT SELECT, UPDATE ON db.t1 TO u1; CREATE USER u2; GRANT ALL PRIVILEGES ON db.t2 TO u2; CREATE USER u3; GRANT SELECT, INSERT, UPDATE ON db.* TO u3 WITH GRANT OPTION; REVOKE INSERT ON db.t2 FROM u2; Após a execução do script apresentado, é correto afirmar que o(s) usuário(s):
+
+[ALTERNATIVAS]
+(A) u2 poderá executar a instrução DELETE FROM db.t1;
+(B) u3 poderá conceder o privilégio de INSERT para o usuário u1;
+(C) u2 poderá conceder o privilégio de DELETE para o usuário u1;
+(D) u1 e u3 poderão executar a instrução UPDATE db.t2 SET c=2;
+(E) u2 poderá executar a instrução INSERT INTO db.t2 VALUES ROW (2);
+
+[GABARITO]
+B

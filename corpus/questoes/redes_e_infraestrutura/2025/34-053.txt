@@ -1,0 +1,18 @@
+ID: 34-053
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em sistemas de telefonia IP e videoconferência, o protocolo responsável pelo transporte de dados de mídia em tempo real (áudio e vídeo), fornecendo timestamps e números de sequência, é o
+
+[ALTERNATIVAS]
+(A) SIP
+(B) H. 323
+(C) RTP
+(D) RTCP
+(E) MGCP
+
+[GABARITO]
+C

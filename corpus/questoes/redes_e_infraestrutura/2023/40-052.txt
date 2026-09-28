@@ -1,0 +1,18 @@
+ID: 40-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Itamar foi designado para fazer a instalação de uma fibra óptica no Tribunal de Justiça, durante a noite. Ele e sua equipe foram até o local e verificaram que precisariam passar cabos de fibra por uma tubulação. Estavam escritos no cabo as siglas CFOI e SM. Itamar explicou a sua equipe que as siglas significam, respectivamente:
+
+[ALTERNATIVAS]
+(A) cabo com baixa emissão de fumaça e multimodo;
+(B) cabo de fibra óptica de acesso e multimodo;
+(C) cabo óptico aéreo dielétrico autossustentável e monomodo;
+(D) cabo de fibra óptica para uso interno e monomodo;
+(E) cabo com alta emissão de fumaça e monomodo.
+
+[GABARITO]
+D

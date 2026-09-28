@@ -1,0 +1,18 @@
+ID: 47-044
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto da gestão de serviços de Tecnologia da Informação (TI), os diferentes tipos de backup apresentam características específicas quanto à forma de armazenamento e ao processo de restauração. Sobre o tema, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O backup diferencial armazena apenas as alterações realizadas desde o último backup, independentemente de sua natureza.
+(B) O backup completo (full) permite a restauração mais rápida dos dados e dispensa a adoção de estratégias de contingência.
+(C) O backup diferencial apresenta como principal vantagem a maior rapidez em sua execução quando comparado aos demais tipos de backup.
+(D) O backup incremental armazena apenas os dados modificados desde o último backup completo ou incremental, exigindo a utilização de todos os incrementos para a restauração dos dados.
+(E) O backup incremental armazena apenas as alterações realizadas desde o último backup completo e, por exigir poucos conjuntos de dados, garante a restauração mais rápida entre todos os tipos de backup.
+
+[GABARITO]
+D

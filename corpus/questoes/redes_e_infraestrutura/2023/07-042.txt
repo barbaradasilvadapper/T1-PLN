@@ -1,0 +1,18 @@
+ID: 07-042
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ken é engenheiro de hardware de uma grande empresa e está em um projeto para melhorar a performance dos computadores. No tocante à hierarquia de memória, Ken precisa fazer uma comparação entre as memórias SRAM (Static Random Access Memory, ou RAM estática) e DRAM (Dynamic Random Access Memory, ou RAM dinâmica) a fim de confirmar alguns pontos significativos de cada uma delas. Sobre as memórias observadas por Ken, o ponto significativo correto é:
+
+[ALTERNATIVAS]
+(A) as memórias SRAM ocupam menos espaço físico que as memórias DRAM, devido à menor quantidade de componentes requeridos para armazenar cada bit;
+(B) as SRAM ocupam cerca de 1/4 da área das DRAM, o que se torna uma vantagem apreciável em termos de economia de espaço;
+(C) as memórias DRAM carregam um custo maior de fabricação que as SRAM devido ao maior número de componentes (transistores) por bit que apresentam;
+(D) ainda que, nas SRAM, haja o acréscimo de custo para introdução do circuito de recarregamento, esse acréscimo é bem menor que a economia de componentes, especialmente em memórias com grande capacidade de armazenamento;
+(E) as memórias SRAM não necessitam de recarga (refresh) para manter o valor de 1 bit armazenado, enquanto as memórias DRAM sim.
+
+[GABARITO]
+E

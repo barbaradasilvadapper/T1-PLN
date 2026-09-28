@@ -1,0 +1,18 @@
+ID: 88-043
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os sistemas de arquivos determinam como as informações são guardadas e acessadas nos dispositivos de armazenamento. Em relação aos sistemas de arquivos, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) EXT2 é um sistema de arquivos de journaling que normalmente é utilizado pelo núcleo do Linux.
+(B) NTFS não estabelece um limite de caracteres para o tamanho máximo do nome dos arquivos.
+(C) FAT32 trabalha com clusters maiores e é mais veloz que o seu antecessor, o FAT16.
+(D) HFS é um sistema de arquivos proprietário desenvolvido pela Microsoft projetado para uso em mídia somente leitura.
+(E) ReiserFS usa árvores balanceadas para tornar o processo de busca de arquivos mais eficiente.
+
+[GABARITO]
+E

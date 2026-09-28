@@ -1,0 +1,18 @@
+ID: 87-042
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto de estruturas de dados, considere uma lista encadeada L, não ordenada, contendo N elementos. A complexidade do algoritmo de inserção nessa lista é:
+
+[ALTERNATIVAS]
+(A) log N;
+(B) N;
+(C) N log N;
+(D) N 2;
+(E) 1.
+
+[GABARITO]
+B

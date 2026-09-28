@@ -1,0 +1,18 @@
+ID: 68-031
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma empresa deseja construir uma aplicação para usuários de impressão 3D, como venda de impressoras e filamentos. A interface com o usuário precisa permitir que ele navegue entre diferentes produtos. Assinale a opção que descreve corretamente a aplicação de metodologias de engenharia de software no desenvolvimento deste projeto.
+
+[ALTERNATIVAS]
+(A) A aplicação de metodologias ágeis por meio de pontos de função por meio de FDD (Feature Driven Development). A codificação deve utilizar TDD (Test Driven Development).
+(B) O modelo FDD, proporcionará estimativas precisas, enquanto a aplicação de TDD reduzirá custos significativamente.
+(C) Utilizando Scrum e Pontos de Função o desenvolvimento ágil será eficiente e o uso de TDD, junto com a implementação de SOA, simplificará a integração com serviços externos, otimizando o projeto.
+(D) A integração de Kanbam e Pontos de Função é um ponto chave para aplicação da metodologia ágil.
+(E) Implementar Scrum e TDD resultará em uma metodologia ágil robusta, permitindo estimativas precisas e desenvolvimento eficiente, enquanto a integração de SOA otimizará o acesso a serviços externos.
+
+[GABARITO]
+E

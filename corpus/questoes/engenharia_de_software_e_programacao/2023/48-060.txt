@@ -1,0 +1,18 @@
+ID: 48-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Jacó implementou a aplicação TCERestAPI utilizando Java com Spring Boot. A TCERestAPI é apta para o deploy em servidores de aplicação Java preexistentes, mas também suporta a execução standalone do Spring Boot. Para viabilizar ambas as formas de execução da TCERestAPI, Jacó precisou modificar a classe principal da aplicação, fazendo com que ela estendesse diretamente determinada classe do Spring Boot. Jacó fez com que a classe principal da TCERestAPI estendesse a classe do Spring Boot:
+
+[ALTERNATIVAS]
+(A) SpringBootStarterTomcat;
+(B) SpringBootServletInitializer;
+(C) SpringBootStarterUndertow;
+(D) ServletContextInitializerBeans;
+(E) SpringServletContainerInitializer.
+
+[GABARITO]
+B

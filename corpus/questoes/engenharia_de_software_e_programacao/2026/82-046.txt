@@ -1,0 +1,18 @@
+ID: 82-046
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O AngularJS desenvolvido e mantido pelo Google, foi um dos primeiros frameworks JavaScript a popularizar o padrão MVC (Model-View-Controller) no desenvolvimento de aplicações web do lado do cliente. Entre seus principais recursos estão o two-way data binding, o sistema de diretivas, a injeção de dependências e o uso de escopos ($scope), que revolucionaram a forma como interfaces dinâmicas eram construídas na época de seu lançamento. Considere o seguinte trecho de código utilizando AngularJS: <div ng-app="minhaApp" ng-controller="MeuController"> <input type="text" ng-model="nome"> <p>Olá, {{ nome }}!</p> <button ng-click="limpar()">Limpar</button> </div> <script> var app = angular.module('minhaApp', []); app.controller('MeuController', function ($scope) { $scope.nome = 'Mundo'; $scope.limpar = function () { $scope.nome = ''; }; }); </script> Sobre o código apresentado, considerando os conceitos e o comportamento padrão do AngularJS, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A diretiva ng-model estabelece um vínculo unidirecional (oneway data binding) entre o campo de entrada e a variável nome, de modo que alterações feitas pelo usuário no campo de texto não serão refletidas automaticamente na expressão {{ nome }} exibida no parágrafo.
+(B) A diretiva ng-model estabelece um vínculo bidirecional (twoway data binding) entre o campo de entrada e a variável nome no $scope, de modo que qualquer alteração no campo de texto é refletida automaticamente na expressão {{ nome }}, e viceversa, sem necessidade de manipulação direta do DOM.
+(C) A expressão {{ nome }} no parágrafo é avaliada uma única vez durante o carregamento inicial da página, permanecendo com o valor 'Mundo' de forma estática, independentemente de alterações realizadas pelo usuário no campo de texto.
+(D) A diretiva ng-controller é responsável por compilar o módulo da aplicação, substituindo a função da diretiva ng-app, de modo que ambas as diretivas são intercambiáveis e possuem a mesma finalidade.
+(E) O método limpar(), ao ser invocado pelo clique no botão, exige uma chamada explícita a $scope.$apply() para que a interface seja atualizada, pois eventos disparados por ng-click não acionam automaticamente o ciclo de digest do AngularJS.
+
+[GABARITO]
+B

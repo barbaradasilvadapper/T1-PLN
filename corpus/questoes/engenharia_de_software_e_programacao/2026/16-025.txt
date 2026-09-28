@@ -1,0 +1,18 @@
+ID: 16-025
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma organização iniciou a modernização de seu sistema corporativo. A aplicação, antes monolítica, foi gradualmente dividida em serviços independentes para atender módulos como autenticação, faturamento e catálogo. Durante a transição, parte da integração entre sistemas legados permaneceu baseada em contratos formais descritos em XML, enquanto os novos serviços passaram a expor APIs HTTP com troca de mensagens em JSON. Com base nesse cenário, avalie as afirmativas a seguir. I. A coexistência, no mesmo ambiente, de serviços que utilizam contratos formais em XML e de APIs HTTP com JSON é compatível com um processo de transição arquitetural, não sendo suficiente, por si só, para descaracterizar uma adoção de microsserviços. II. Em uma arquitetura de microsserviços, a divisão do sistema em vários serviços garante baixo acoplamento e independência de evolução, mesmo que todos compartilhem o mesmo banco de dados e dependam de mudanças coordenadas no esquema relacional. III. Os microsserviços podem ser compreendidos como uma abordagem específica de arquitetura orientada a serviços, de modo que nem toda solução orientada a serviços caracteriza, necessariamente, uma arquitetura de microsserviços.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

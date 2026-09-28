@@ -1,0 +1,18 @@
+ID: 69-073
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+As tecnologias Standard Object Access Protocol (SOAP) e Representational State Transfer (REST) representam duas maneiras diferentes de conectar aplicativos e definem como as Application Programming Interface (APIs, ou interfaces de programação de aplicações) são criadas, possibilitando a comunicação dos dados entre aplicações web. Considerando as diferenças entre as tecnologias SOAP e REST, pode ser identificado que
+
+[ALTERNATIVAS]
+(A) SOAP é um protocolo, que oferece implementação mais rígida, e REST é um conjunto de diretrizes, que oferece uma implementação flexível.
+(B) APIs REST são mais pesadas que implementações SOAP, entretanto, são ideais para contextos mais modernos.
+(C) Os serviços web SOAP oferecem segurança integrada e transações em conformidade que atendem a muitas necessidades empresariais, resultando em sistemas leves.
+(D) REST é um conjunto de padronizações que oferece uma implementação rígida.
+(E) SOAP é um protocolo com requisitos flexíveis e dinâmicos, com implementação mais leve que o REST.
+
+[GABARITO]
+A

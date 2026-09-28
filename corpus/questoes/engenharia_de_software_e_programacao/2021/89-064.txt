@@ -1,0 +1,18 @@
+ID: 89-064
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista da tecnologia da informacao funsaude ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Assinale o código C# que está corretamente construído para produzir o termo “Ford” na saída.
+
+[ALTERNATIVAS]
+(A) using System; namespace MyApplication { class Program { static void Main(string() args) { string() carros = {"Audi", "Ford", "Mini"}; Console.WriteLine(carros[2]); }}}
+(B) using System; { class Program static void Main(string[] args) { string[] carros = ["Audi", "Ford", "Mini"]; Console.WriteLine(carros[1]); }}} {
+(C) namespace MyApplication { class Program static void Main(string() args) { string() carros = {"Audi", "Ford", "Mini"}; Console.WriteLine(carros[2]); }}} {
+(D) using System; namespace MyApplication { class Program { static void Main(string[] args) { string[] carros = ("Audi", "Ford", "Mini"); Console.WriteLine(carros[1]); }}}
+(E) using System; namespace MyApplication { class Program { static void Main(string[] args) { string[] carros = {"Audi", "Ford", "Mini"}; Console.WriteLine(carros[1]); }}}
+
+[GABARITO]
+E

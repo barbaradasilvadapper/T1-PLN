@@ -1,0 +1,18 @@
+ID: 30-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um especialista em segurança identificou um ataque que emprega códigos inseridos em um site comprometido para explorar vulnerabilidades em navegadores, visando a atacar um sistema cliente quando o site é visitado. É correto afirmar que foi(ram) empregado(s):
+
+[ALTERNATIVAS]
+(A) flooders;
+(B) keyloggers;
+(C) downloaders;
+(D) vírus de macro;
+(E) drive-by-download.
+
+[GABARITO]
+E

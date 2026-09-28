@@ -1,0 +1,18 @@
+ID: 45-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Como forma de aumentar a segurança em sua rede local, o Tribunal Regional Federal da 1ª Região (TRF1) implementou um modelo de mapeamento de ataques baseado no framework MITRE ATT&CK. Esse modelo é dividido em alguns passos, que vão desde o entendimento do ataque até a comparação de resultados de análise. Dentro desse modelo, o pessoal de segurança do TRF1 está fazendo uma pesquisa no site attack.mitre.org na expectativa de que esse modelo já tenha sido mapeado. A equipe de segurança encontra-se na etapa de:
+
+[ALTERNATIVAS]
+(A) entender o ataque;
+(B) encontrar o comportamento;
+(C) pesquisa do comportamento;
+(D) tradução do comportamento em uma tática;
+(E) determinar qual técnica se aplica a um comportamento.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 31-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Assinale a afirmativa correta a respeito de servidores de aplicações web, de DNS e de diretórios.
+
+[ALTERNATIVAS]
+(A) O IIS permite a criação de proxy reverso para gerar regra de reescrita de entrada de solicitações HTTP, porém não permite o mesmo para regras de saída.
+(B) Em um servidor Windows, o conteúdo de uma zona DNS pode ser armazenado em um arquivo ou no AD DS (Active Directory Domain Services).
+(C) NJS é um subconjunto da linguagem JavaScript concebido para estender a funcionalidade de aplicações como Microsoft Active Directory e Windows DNS Server.
+(D) O mod_deflate é o filtro do Apache HTTP Server responsável por alterar o conjunto de caracteres das respostas antes de enviá-las ao cliente.
+(E) No Windows, quando o servidor DNS armazena a zona em um arquivo, todas as cópias da zona são graváveis, inclusive as referentes às zonas secundárias.
+
+[GABARITO]
+B

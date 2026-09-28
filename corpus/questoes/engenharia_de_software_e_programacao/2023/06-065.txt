@@ -1,0 +1,18 @@
+ID: 06-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O paradigma funcional, evidenciado na linguagem LISP, criada em 1958, voltou com muita força atualmente, sendo incluído em diversas linguagens, como o Java. Considere o trecho de código apresentado a seguir. List<String> lista = Arrays.asList("UM","DOIS","TRES"); for(int i=0; i<lista.size(); i++){ System.out.println(lista.get(i)); } Para utilizar o paradigma funcional, o loop para apresentação dos valores deve ser reescrito da seguinte forma:
+
+[ALTERNATIVAS]
+(A) for(String s: lista){ System.out.println(s); }
+(B) for (Iterator<String> it = lista.iterator(); it.hasNext();) { System.out.println(it.next()); }
+(C) lista.forEach(s -> { System.out.println(s); });
+(D) Iterator<String> it = lista.iterator(); while(it.hasNext()) { System.out.println(it.next()); }
+(E) for(var s: lista){ System.out.println(s); }
+
+[GABARITO]
+C

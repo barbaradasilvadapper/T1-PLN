@@ -1,0 +1,18 @@
+ID: 83-042
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+De acordo com o OWASP, uma aplicação web fica vulnerável a ataques de Injeção quando
+
+[ALTERNATIVAS]
+(A) ocorre uso intenso de expressões regulares em operações de validação dados.
+(B) se impõe o menor nível de privilégio para aplicação conectar a bancos de dados ou outros sistemas de suporte.
+(C) ferramentas de mapeamento objeto-relacional são adotadas para reduzir a impedância da programação.
+(D) se utiliza a cláusula LIMIT para especificar o número de linhas que devem ser retornadas no resultado de uma consulta SQL.
+(E) consultas SQL são concatenadas diretamente com os dados fornecidos pelos usuários por meio de formulários web.
+
+[GABARITO]
+E

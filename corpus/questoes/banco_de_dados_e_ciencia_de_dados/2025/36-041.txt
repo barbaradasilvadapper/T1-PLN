@@ -1,0 +1,18 @@
+ID: 36-041
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O analista Juca precisa criar um esquema no banco de dados processos e atribuir direitos para o perfil ad1 . Para isso, com o perfil dadosadm , Juca definiu os seguintes passos: 1. criar o esquema processos ; e 2. atribuir ao perfil ad1 o direito de apagar os registros das tabelas do esquema processos , criados por dadosadm , podendo usar alguma condição. No PostgreSQL, para implementar os passos definidos, Juca deve executar os comandos:
+
+[ALTERNATIVAS]
+(A) CREATE SCHEMA processos; CREATE PRIVILEGES FOR ROLE dadosadm IN SCHEMA processos GRANT TRUNCATE ON TABLES TO ad1;
+(B) SET SCHEMA processos; SET DEFAULT PRIVILEGES FOR ROLE dadosadm IN SCHEMA processos GRANT USAGE ON TABLES TO ad1;
+(C) INSERT SCHEMA processos GRANTED BY dadosadm; GRANT UPDATE FOR ROLE dadosadm IN SCHEMA processos;
+(D) CREATE SCHEMA processos AUTHORIZATION dadosadm; ALTER DEFAULT PRIVILEGES FOR ROLE dadosadm IN SCHEMA processos GRANT DELETE ON TABLES TO ad1;
+(E) BEGIN SCHEMA processos; SET PRIVILEGES FOR ROLE dadosadm IN SCHEMA processos REVOKE TRUNCATE ON TABLES TO ad1;
+
+[GABARITO]
+D

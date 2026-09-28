@@ -1,0 +1,18 @@
+ID: 30-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Ao elaborar um plano de continuidade do negócio, um analista deve observar algumas exigências. Em relação às exigências pertinentes, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) cada usuário de informação da organização precisa ter conhecimento de todo o plano de continuidade do negócio;
+(B) a análise de impacto nos negócios deve identificar as atividades que não suportam o fornecimento de produtos e serviços;
+(C) o plano deve conter os papéis e as responsabilidades de cada usuário, os recursos necessários para a sua execução e as empresas que possuem os melhores preços;
+(D) a análise de impacto nos negócios exige uma forte participação das áreas de negócio da organização, pois seus executivos são quem tem a responsabilidade de indicar o tempo máximo de indisponibilidade de cada uma;
+(E) a organização deve definir, implementar e manter um processo formal ou informal para a análise de impacto nos negócios que especifique os critérios para que essas informações sejam confidenciais e mantenham-se atualizadas.
+
+[GABARITO]
+D

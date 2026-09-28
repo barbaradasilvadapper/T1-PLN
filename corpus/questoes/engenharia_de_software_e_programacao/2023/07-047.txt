@@ -1,0 +1,18 @@
+ID: 07-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código JavaScript nas duas questões a seguir. function numeros(L, N) { x1 = 0; x2 = L.length-1; while (x1 < x2) { if (L[x2] >= N) { x2 = x2 - 1; } else if (L[x1] + L[x2] != N) { x1 = x1 + 1; } else if (L[x1] + L[x2] == N) { return true; } else { return false; } } return false; } O parâmetro L deve ter como valor um array com números inteiros, maiores que zero, dispostos em ordem crescente. De acordo com o número de elementos no array fornecido como parâmetro para função numeros, apresentada anteriormente, a complexidade do algoritmo utilizado é:
+
+[ALTERNATIVAS]
+(A) O(1);
+(B) O(log N);
+(C) O(N log N);
+(D) O(N);
+(E) O(N 2 ).
+
+[GABARITO]
+D

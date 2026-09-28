@@ -1,0 +1,18 @@
+ID: 07-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Maria está desenvolvendo a funcionalidade C de uma aplicação, utilizando os padrões de projeto Gang of Four (GoF). Existem vários algoritmos, conhecidos e disponíveis, capazes de implementar a funcionalidade C. A aplicação deve deixar o usuário escolher qual algoritmo usar. Sendo assim, Maria decidiu aplicar na funcionalidade C o padrão GoF comportamental que modela algoritmos similares como objetos independentes, porém, passíveis de troca em tempo de execução. Maria decidiu aplicar o padrão GoF:
+
+[ALTERNATIVAS]
+(A) Visitor;
+(B) Strategy;
+(C) Mediator;
+(D) Interpreter;
+(E) Template Method.
+
+[GABARITO]
+B

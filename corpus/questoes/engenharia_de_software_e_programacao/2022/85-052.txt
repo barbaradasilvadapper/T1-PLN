@@ -1,0 +1,18 @@
+ID: 85-052
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Carlos é uma parte interessada em uma aplicação Web e solicitou à equipe de desenvolvimento uma funcionalidade capaz de emitir relatórios com cabeçalhos padronizados. Assim, os cabeçalhos devem ter cor de fundo, paleta de cores e tipografia, seguindo o padrão adotado em outros documentos emitidos pelo departamento responsável pela aplicação. A solicitação de Carlos refere-se a um requisito:
+
+[ALTERNATIVAS]
+(A) funcional regulador;
+(B) não funcional organizacional;
+(C) funcional do processo operacional;
+(D) não funcional de usabilidade;
+(E) funcional de desenvolvimento.
+
+[GABARITO]
+B

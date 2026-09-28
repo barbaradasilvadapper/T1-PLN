@@ -1,0 +1,18 @@
+ID: 39-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A DPE/RS contratou a empresa AuthSW para implantar um sistema usando o protocolo RADIUS. Nesse sistema, deve ser assegurado que:
+
+[ALTERNATIVAS]
+(A) o Access-Request enviado pelo cliente contenha o endereço IP do cliente;
+(B) o servidor envie um Access-Reject quando receber Access- Request de um cliente inválido;
+(C) o Access-Reject enviado ao cliente contenha uma mensagem de texto;
+(D) o servidor envie um Access-Challenge ao cliente após receber um Access-Request;
+(E) o campo Identifier do Access-Accept seja igual ao do Access- Request que o originou.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 43-027
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um projetista de rede, ao justificar a adoção de fibras ópticas em um determinado projeto, expôs algumas características desse meio de transmissão. Em relação a essas características, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o meio de transmissão gera um pulso elétrico quando a luz incide sobre ele;
+(B) a luz é refratada de volta para a sílica para ângulos de incidência acima de um certo valor crítico;
+(C) um sistema de transmissão óptico tem dois componenteschave: a fonte de luz e o meio de transmissão;
+(D) a atenuação de luz através do vidro depende da largura de onda da luz. Ela é definida como a razão da potência do sinal de entrada elevado à perda;
+(E) um sistema de transmissão de dados bidirecional se forma através da conexão entre uma fonte de luz em uma ponta de uma fibra óptica e um detector na outra.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 92-042
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Assinale a opção que representa o comando mais adequado para conceder permissão de execução às permissões existentes do arquivo “teste.sh” em um ambiente Linux.
+
+[ALTERNATIVAS]
+(A) chmod +x teste.sh
+(B) chmod 644 teste.sh
+(C) chmod +e teste.sh
+(D) chmod 664 teste.sh
+(E) chmod -c teste.sh
+
+[GABARITO]
+A

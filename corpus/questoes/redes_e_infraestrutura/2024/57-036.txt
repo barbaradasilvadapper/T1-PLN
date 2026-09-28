@@ -1,0 +1,18 @@
+ID: 57-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Renata está buscando uma solução para seu negócio de Tecnologia da Informação de forma a ter informações rápidas, de fácil atualização, alta disponibilidade e principalmente muita segurança. Após um estudo de mercado, ela entendeu que o Active Directory pode oferecer todos esses atributos. Com o objetivo de permitir o acesso com segurança usando apenas um conjunto de credenciais, Renata está habilitando o single sign on. Para essa habilitação, Renata deverá atuar no seguinte elemento do Active Directory:
+
+[ALTERNATIVAS]
+(A) Active Directory Domain Services (ADDS);
+(B) Active Diretory Certificate Services (ADCS);
+(C) Active Directory Federation Services (ADFS);
+(D) Active Directory Lightweight Directry Services (ADLDS);
+(E) Active Directory Rights Management Services (ADRMS).
+
+[GABARITO]
+C

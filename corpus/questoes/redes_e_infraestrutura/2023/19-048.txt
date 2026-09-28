@@ -1,0 +1,18 @@
+ID: 19-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+João notou que seu notebook, que utiliza o Windows 10, ficou lento, e está tentando descobrir os processos correntemente ativos e o uso de recursos como disco e rede. Um aplicativo padrão do Windows que seria útil e adequado nessa situação seria o:
+
+[ALTERNATIVAS]
+(A) Diagnóstico de Memória;
+(B) Editor do Registro;
+(C) Explorador de Arquivos;
+(D) Gerenciador de Tarefas;
+(E) Visualizador XPS.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 79-065
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Carlos está recuperando dados de um arquivo hive do registro do Windows, que está danificado. A fim de otimizar as chances de recuperação de dados legíveis do hive, Carlos decidiu recuperar o arquivo por blocos, tomando como base o tamanho de bloco padrão de um hive do registro do Windows. O analista Carlos tomou como base o tamanho de bloco, em bytes, igual a:
+
+[ALTERNATIVAS]
+(A) 8;
+(B) 64;
+(C) 512;
+(D) 1024;
+(E) 4096.
+
+[GABARITO]
+E

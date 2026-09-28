@@ -1,0 +1,18 @@
+ID: 43-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Pedro trabalha em uma empresa onde o desenvolvimento dos processos é acompanhado de forma gráfica, por meio de cartões coloridos, que indicam o nível de urgência ou completude de cada tarefa. A empresa de Pedro utiliza a metodologia:
+
+[ALTERNATIVAS]
+(A) Extreme Programming;
+(B) Rational Unified Process;
+(C) Scrum;
+(D) Cascade Development;
+(E) Kanban.
+
+[GABARITO]
+E

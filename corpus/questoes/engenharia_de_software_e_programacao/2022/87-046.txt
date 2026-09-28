@@ -1,0 +1,18 @@
+ID: 87-046
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Sobre elementos block-level (nível de bloco) e elementos inline (em linha) no HTML, analise as afirmativas a seguir. I. Um elemento block-level sempre começa numa nova linha. II. <p> é um elemento inline. III. <div> é um elemento block-level. Está correto somente o que se afirma em:
+
+[ALTERNATIVAS]
+(A) I;
+(B) II;
+(C) I e II;
+(D) I e III;
+(E) II e III.
+
+[GABARITO]
+D

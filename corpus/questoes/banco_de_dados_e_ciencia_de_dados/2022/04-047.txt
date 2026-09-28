@@ -1,0 +1,18 @@
+ID: 04-047
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto do Oracle, analise o comando a seguir e as afirmativas a respeito das consequências desse mesmo comando. create global temporary table temp ( a int not null primary key, b varchar(20) not null ); I. Dados introduzidos numa sessão (em inglês, session) são removidos no fim da sessão. II. Dados inseridos numa sessão podem ser acessados somente pela própria sessão. III. Ao término de uma transação por meio de um comando commit, os dados são automaticamente removidos da tabela. Está correto somente o que se afirma em:
+
+[ALTERNATIVAS]
+(A) I;
+(B) II;
+(C) I e II;
+(D) I e III;
+(E) II e III.
+
+[GABARITO]
+C

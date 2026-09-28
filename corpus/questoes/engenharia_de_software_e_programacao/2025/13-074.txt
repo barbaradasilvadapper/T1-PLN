@@ -1,0 +1,18 @@
+ID: 13-074
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Ana está implementando um sistema seguindo os princípios SOLID. No módulo A do sistema, Ana aplicou o princípio SOLID que estabelece o seguinte: se uma propriedade q(x) for demonstrável para todos os objetos x do tipo T, então ela também deve ser demonstrável para todos os objetos y do tipo S, onde S é um subtipo de T. O princípio aplicado por Ana no módulo A está diretamente relacionado à seguinte letra do acrônimo SOLID:
+
+[ALTERNATIVAS]
+(A) S;
+(B) O;
+(C) L;
+(D) I;
+(E) D.
+
+[GABARITO]
+C

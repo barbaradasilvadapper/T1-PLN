@@ -1,0 +1,18 @@
+ID: 60-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João, administrador do banco de dados (DBA) do Tribunal de Justiça de Mato Grosso do Sul (TJMS), é responsável pela implementação da política de segurança do Tribunal. A ele cabem as tarefas de efetuar o controle de acesso às informações e atribuir permissões a quem for necessário. Tiago é técnico do TJMS. Embora insista em ter acesso à tabela pagamento, ele só precisa dos dados de parte dessa tabela, incluindo: nome, matrícula e função. Como forma de implementar a política de segurança e manter o acesso de Tiago, João poderá:
+
+[ALTERNATIVAS]
+(A) criar uma conta para o técnico, atribuir uma role pra ele e adicionar a permissão de select a role para a tabela pagamento;
+(B) criar uma visão por meio de uma consulta que seleciona apenas as tuplas necessárias para o técnico executar seu trabalho;
+(C) atribuir para Tiago as mesmas permissões existentes do usuário João, de modo que Tiago tenha acesso aos dados necessários;
+(D) atribuir a permissão de selecionar qualquer tabela dentro da base de dados, liberando o acesso à tabela pagamento para Tiago efetuar seu trabalho;
+(E) usar uma visão que será criada a partir de uma consulta à tabela pagamento que seleciona as colunas necessárias ao trabalho do técnico.
+
+[GABARITO]
+E

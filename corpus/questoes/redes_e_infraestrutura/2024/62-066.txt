@@ -1,0 +1,18 @@
+ID: 62-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Embora a computação em nuvem proporcione diversas vantagens, ela também apresenta desafios peculiares. No que diz respeito à precificação, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O modelo de precificação fixo mensal é a opção mais segura, por garantir a disponibilidade do serviço e evitar surpresas no orçamento.
+(B) O modelo de precificação em que os recursos são ajustados automaticamente é o ideal para qualquer carga de trabalho.
+(C) O modelo de precificação impacta diretamente a escalabilidade do sistema.
+(D) O modelo de precificação não afeta diretamente o desempenho das aplicações em nuvem, apenas o custo total ao final do período.
+(E) O modelo de precificação baseado em consumo pode garantir custos previsíveis, independentemente da variação na demanda por recursos.
+
+[GABARITO]
+C

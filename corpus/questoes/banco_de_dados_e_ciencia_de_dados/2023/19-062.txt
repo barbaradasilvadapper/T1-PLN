@@ -1,0 +1,18 @@
+ID: 19-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Uma das etapas mais importantes do processo de Mineração de Dados é o pré-processamento dos dados das fontes que, normalmente, apresentam diversos tipos de heterogeneidade. A operação de pré-processamento que transforma dados quantitativos (contínuos) em dados qualitativos, ou seja, atributos numéricos em atributos discretos ou nominais com um número finito de intervalos, obtendo uma partição não sobreposta de um domínio contínuo, é a:
+
+[ALTERNATIVAS]
+(A) Redução;
+(B) Imputação;
+(C) Overfitting;
+(D) Discretização;
+(E) Undersampling.
+
+[GABARITO]
+D

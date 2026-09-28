@@ -1,0 +1,18 @@
+ID: 12-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em processamento de linguagem natural (Natural Language Processing - NLP), é fundamental que sejam utilizadas técnicas para representar palavras numericamente como vetores. As representações numéricas são importantes para capturar relações semânticas entre as palavras, permitindo, por exemplo, processamentos para a detecção de similaridades entre palavras e o desenvolvimento de chatbots. Entre as técnicas de NLP para a representação numérica de palavras destacam-se as seguintes:
+
+[ALTERNATIVAS]
+(A) word2vec e GloVe.
+(B) stemming e lemmatization.
+(C) segmentation e efficient embedding.
+(D) seq2seq e symbolic representation.
+(E) text-to-speech (TTS) e part-of-speech (POS).
+
+[GABARITO]
+A

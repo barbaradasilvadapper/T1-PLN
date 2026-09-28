@@ -1,0 +1,18 @@
+ID: 78-063
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um framework é uma estrutura predefinida que reúne ferramentas, diretrizes e práticas para facilitar a execução de tarefas ou a gestão de processos Relacione os frameworks de testes de software com suas respectivas características. 1. JUnit 2. Mockito 3. Selenium 4. Jest ( ) Se concentra principalmente em testar interações entre objetos e dependências externas, em vez de testar unidades individuais de código. ( ) É uma estrutura de teste JavaScript projetada para garantir a exatidão de qualquer base de código JavaScript. ( ) Se concentra principalmente em testar unidades individuais de código, como métodos ou classes, isoladamente. ( ) Automatiza teste de aplicativos da web em navegadores. Assinale a opção que indica a relação correta na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 3 – 2 – 4.
+(B) 4 – 1 – 3 – 2.
+(C) 2 – 4 – 1 – 3.
+(D) 3 – 2 – 4 – 1.
+(E) 4 – 2 – 1 – 3.
+
+[GABARITO]
+C

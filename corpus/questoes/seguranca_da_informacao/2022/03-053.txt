@@ -1,0 +1,18 @@
+ID: 03-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os executivos responsáveis por uma empresa decidiram, recentemente, migrar toda sua força de trabalho para o modelo de home-office. Para facilitar essa migração, os serviços de diretório de identidades e armazenamento de arquivos foram migrados para provedores de serviços externos (nuvem pública), em que os usuários têm acesso diretamente aos serviços, sem necessidade de estar na rede da empresa. Nesse sentido, assinale a opção que indica a ação efetiva para prover visibilidade sobre o uso dos serviços externos; controle sobre os cumprimentos das políticas de segurança da informação; e proteção contra vazamento de identidades.
+
+[ALTERNATIVAS]
+(A) Implementar uma ferramenta de DLP no firewall da empresa e uma ferramenta de controle de contas com acesso privilegiado.
+(B) Implementar uma ferramenta de CASB, uma ferramenta de controle de contas com acesso privilegiado e uma ferramenta de login centralizado (SSO) com uso de um segundo fator de autenticação.
+(C) Implementar uma ferramenta de controle de configurações, implementar monitoramento na VPN corporativa.
+(D) Implementar política solicitando que os usuários criptografem os dados antes de utilizarem os serviços externos.
+(E) Implementar uma ferramenta de antivírus com sandboxing em todas as estações da rede da empresa.
+
+[GABARITO]
+B

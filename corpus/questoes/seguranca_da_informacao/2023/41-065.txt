@@ -1,0 +1,18 @@
+ID: 41-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Lara é uma servidora do Tribunal de Justiça de Sergipe e trabalha na divisão de segurança da informação. Foi solicitado pela chefia que ela fizesse um relatório com possíveis ataques, ativos e passivos, oriundos da utilização da Web e uma possível solução. Além disso, ficou para ser definido qual protocolo seria implementado de forma a garantir a segurança. O SSL foi a sugestão da divisão de segurança. De forma a ratificar no relatório o uso do SSL, uma das características do protocolo observadas por Lara é:
+
+[ALTERNATIVAS]
+(A) ser projetado para utilizar UDP para oferecer um serviço seguro e confiável de ponta a ponta;
+(B) oferecer serviços básicos de segurança para vários protocolos de camada superior e inferior;
+(C) o conceito de conexão, que é uma associação entre cliente e um servidor;
+(D) a capacidade de haver uma conexão segura entre qualquer par de partes;
+(E) o serviço de confidencialidade e integridade de mensagem para as conexões.
+
+[GABARITO]
+E

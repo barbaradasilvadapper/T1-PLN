@@ -1,0 +1,18 @@
+ID: 63-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Desenvolvimento seguro é um conjunto de práticas que visam incorporar a segurança em todas as fases do ciclo de vida do desenvolvimento de software. As técnicas de análise de segurança de aplicações desempenham um papel crucial na identificação e mitigação de vulnerabilidades. Assinale a opção que indica a técnica usada para analisar o códigofonte de uma aplicação em busca de vulnerabilidades, sem executar essa aplicação.
+
+[ALTERNATIVAS]
+(A) DAST (Dynamic Application Security Testing).
+(B) SAST (Static Application Security Testing).
+(C) IAST (Interactive Application Security Testing).
+(D) Black Box Testing.
+(E) Fuzz Testing.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 64-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Cada endereço IP versão 4 (IPv4) tem comprimento de 32 bits, equivalente a 4 bytes. Esses endereços são escritos em notação decimal separada por pontos, na qual cada byte do endereço é escrito em sua forma decimal. Considere um computador com endereço IPv4 193.32.216.9 e máscara de rede igual a 255.255.248.0. Assinale a opção que indica o endereço de broadcast da sub-rede a qual esse computador pertence.
+
+[ALTERNATIVAS]
+(A) 193.32.216. 255
+(B) 193.32.219. 255
+(C) 193.32.223. 255
+(D) 193.32.248. 255
+(E) 193.32.255. 255
+
+[GABARITO]
+C

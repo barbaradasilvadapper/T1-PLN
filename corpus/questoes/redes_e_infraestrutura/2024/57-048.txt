@@ -1,0 +1,18 @@
+ID: 57-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No que se refere ao funcionamento do protocolo SIP, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o chamador, para estabelecer uma sessão, cria uma conexão TCP com o chamado e envia uma mensagem INVITE sobre ela, ou então envia a mensagem INVITE em um pacote UDP;
+(B) os números de telefones no SIP são representados como URLs que utilizam o esquema SIP. Os URLs do SIP também podem conter endereços IPv4 e endereços IPv6, mas não números de telefone reais;
+(C) ele é um protocolo de texto modelado sobre o HTTP. Uma parte envia uma mensagem em texto binário que consiste em nome do método na primeira linha, seguido por linhas adicionais contendo cabeçalhos para passar parâmetros;
+(D) o método OPTIONS se relaciona com a habilidade do SIP de localizar um usuário que está longe de casa e se conectar a ele. Essa mensagem é enviada a um servidor de localização do SIP que controla a localização de cada usuário;
+(E) o método REGISTER é usado para consultar uma máquina sobre seus próprios recursos. Em geral, ele é usado antes de uma sessão ser iniciada, a fim de descobrir se essa máquina é capaz de se comunicar usando voz sobre IP ou se está sendo utilizado qualquer outro tipo de sessão.
+
+[GABARITO]
+A

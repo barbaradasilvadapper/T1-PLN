@@ -1,0 +1,18 @@
+ID: 52-059
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com o avanço da virtualização e a busca por maior eficiência no uso de recursos computacionais, os containers se tornaram uma alternativa leve e portátil às tradicionais máquinas virtuais. Essa tecnologia permite a criação de ambientes isolados para execução de aplicações, com vantagens significativas em desempenho, escalabilidade e portabilidade. Considerando essas características, analise as afirmativas a seguir. I. Containers compartilham o kernel do sistema operacional do host, isolando aplicações em ambientes independentes, com consumo reduzido de recursos em comparação às máquinas virtuais tradicionais. II. Diferentemente dos containers, as máquinas virtuais incluem um sistema operacional completo, exigindo maior capacidade de hardware para iniciar e operar, mesmo que a aplicação executada seja simples. III. O uso de containers é restrito a sistemas operacionais baseados em Linux, não sendo possível sua execução em ambientes Windows, mesmo com o uso de ferramentas como Docker.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

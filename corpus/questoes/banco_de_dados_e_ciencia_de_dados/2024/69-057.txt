@@ -1,0 +1,18 @@
+ID: 69-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O Oracle 19G possui três declarações básicas de controle de transações conhecidas como
+
+[ALTERNATIVAS]
+(A) do, redo e undo.
+(B) confirm, do e abort.
+(C) checkpoint, do e save.
+(D) checkpoint, commit e undo.
+(E) commit, rollback e savepoint.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 81-058
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+As práticas dos métodos ágeis são orientadas pelos princípios estabelecidos no Manifesto Ágil, que corresponde a uma iniciativa de desenvolvedores de software que estavam cansados dos métodos improdutivos e das regras corporativas rígidas que tornavam o processo de trabalho na tecnologia burocrático e previsível. Dentre os métodos ágeis destaca-se o Scrum, que possui dentre suas cerimônias específicas a
+
+[ALTERNATIVAS]
+(A) divisão do trabalho em grandes tarefas e inserção dos estados de trabalho em relatório de planejamento.
+(B) reunião de revisão da Sprint.
+(C) reunião semanal da equipe para alinhar as tarefas.
+(D) demonstração para o cliente dos sprints e backlogs.
+(E) Identificação dos desperdícios para, em seguida, eliminá-los ou minimizá-los.
+
+[GABARITO]
+B

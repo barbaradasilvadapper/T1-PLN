@@ -1,0 +1,18 @@
+ID: 36-061
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Amanda está mudando a arquitetura do banco de dados da empresa onde trabalha de forma a torná-lo distribuído. Para melhorar a flexibilidade e ocultar detalhes de implementação de usuários finais, ela está fazendo uso de algumas formas de transparência de dados. Com intenção de melhoria da performance nas consultas executadas, Amanda tem trabalhado na fragmentação horizontal:
+
+[ALTERNATIVAS]
+(A) copiando os mesmos objetos de dados em vários nós da rede;
+(B) distribuindo, por vários nós da rede, algumas tabelas em um subconjunto de linhas;
+(C) permitindo que o comando para uma tarefa seja emitido independentemente da localização dos dados;
+(D) permitindo que uma transação seja distribuída entre os nós da rede;
+(E) distribuindo pelos nós da rede um subconjunto de colunas de algumas tabelas existentes.
+
+[GABARITO]
+B

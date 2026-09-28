@@ -1,0 +1,18 @@
+ID: 93-077
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Com relação a ITIL 4, assinale V para a afirmativa verdadeira e F para a falsa. ( ) O Sistema de valor de serviço (SVS) representa como os componentes e atividades da organização trabalham juntos para criar valor por meio de serviços habilitados para TI. ( ) O modelo de quatro dimensões fornece orientação sobre os vários aspectos relacionados à gestão de serviços de TI. ( ) As quatro dimensões de gestão de serviços são os aspectos relevantes para a gestão de serviços que devem ser considerados ao planejar e fornecer serviços de qualidade.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – V – V.
+(C) V – F – F.
+(D) F – V – V.
+(E) V – F – V.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 25-027
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto do aplicativo pg_dump no PostgreSQL, analise as afirmativas a seguir. I. O acionamento do pg_dump deve ser feito no servidor onde o PostgreSQL está instalado. II. Na recuperação do backup, o banco de dados não pode existir, uma vez que é totalmente recriado. III. As informações a respeito de roles e tablespaces do banco de dados não são incluídas no backup.
+
+[ALTERNATIVAS]
+(A) II;
+(B) III;
+(C) I e II;
+(D) I e III;
+(E) II e III.
+
+[GABARITO]
+B

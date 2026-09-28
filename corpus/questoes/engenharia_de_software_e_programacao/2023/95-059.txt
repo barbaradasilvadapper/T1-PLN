@@ -1,0 +1,18 @@
+ID: 95-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O desenvolvedor Luís implementou a interface Java ProcessoAB. O ProcessoAB mapeia a conversão de objetos da classe ProcessoA em objetos da classe ProcessoB através da ferramenta MapStruct. O atributo “nome” do ProcessoA corresponde ao atributo “titulo” do ProcessoB. A fim de orientar o correto mapeamento entre atributos de nomes diferentes, Luís recorreu à anotação Java do MapStruct que torna explícitos os nomes dos atributos mapeados. Luís recorreu à anotação do MapStruct:
+
+[ALTERNATIVAS]
+(A) Mapper;
+(B) Mapping;
+(C) AfterMapping;
+(D) MapperConfig;
+(E) BeanMapping.
+
+[GABARITO]
+B

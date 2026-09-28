@@ -1,0 +1,18 @@
+ID: 91-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+As tecnologias de armazenamento NAS, DAS e SAN são frequentemente utilizadas em datacenters e infraestruturas de TI. Sobre essas tecnologias, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) SAN e NAS podem ser equipados com vários hard disks ao passo que DAS é restrito a apenas um HD de alta capacidade.
+(B) NAS transfere os dados em nível de bloco entre servidores e dispositivos de armazenamento.
+(C) DAS possui seu próprio sistema operacional, por isso não depende de um computador para funcionar.
+(D) NAS e DAS são sistemas de armazenamento conectados a redes locais e baseados em memória flash.
+(E) SAN pode usar protocolos como iSCSI ou Fibre Channel para o transporte de dados.
+
+[GABARITO]
+E

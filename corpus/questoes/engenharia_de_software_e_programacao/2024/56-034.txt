@@ -1,0 +1,18 @@
+ID: 56-034
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Ao configurar o design de uma página, Roberto usou o código CSS a seguir, em uma tag style, fazendo com que um menu de navegação lateral fique ao lado da área de conteúdo. aside {float: left; width: 30%} main {float: left; width: 70%} O resultado em tablets e desktops foi bom, mas o acesso pelo celular apresentou alguns problemas de usabilidade, sendo mais adequado que o menu ficasse acima do conteúdo. Para utilizar o design indicado em telas menores, garantindo a responsividade da página, Roberto acrescentou ao código CSS:
+
+[ALTERNATIVAS]
+(A) @media screen and (max-width: 600px) { aside, main {width: 100%} }
+(B) @media handheld { aside, main {width: 50%} }
+(C) @media screen and (max-width: 600px) { aside, main {position: absolute} }
+(D) @media screen and (min-width: 768px) { aside, main {width: 100%} }
+(E) @media (max-width: 480px) { aside, main {width: 50%} }
+
+[GABARITO]
+A

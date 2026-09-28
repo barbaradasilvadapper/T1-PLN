@@ -1,0 +1,18 @@
+ID: 15-052
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alego
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um gerente de Tecnologia da Informação da ALEGO coordena o desenvolvimento de um sistema corporativo e estabelece uma estratégia estruturada de testes ao longo de todo o ciclo de desenvolvimento, assegurando a aplicação de diferentes tipos de testes em fases distintas, com o objetivo de garantir a qualidade, a confiabilidade e a estabilidade do software antes de sua implantação em ambiente produtivo. Relacione os tipos de testes e suas respectivas definições. 1 - Teste de caixa Preta 2 - Teste de Usabilidade 3 – Teste de Acessibilidade 4 – Teste Funcional ( ) método que avalia a facilidade de uso e a experiência do usuário com um software, identificando como os usuários interagem com a interface e se conseguem cumprir suas tarefas de forma eficiente e satisfatória. ( ) verifica se as funcionalidades do software se comportam de acordo com as especificações definidas, avaliando se os requisitos funcionais foram implementados corretamente. ( ) teste de software que avalia o comportamento e as funcionalidades do sistema sem acessar seu código-fonte, focando nas saídas geradas a partir de entradas específicas. ( ) processo que avalia se um software é utilizável por pessoas com diferentes deficiências, garantindo que todos os usuários possam acessar e interagir com o conteúdo digital de forma igualitária. Assinale a opção que indica a relação correta na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 2 – 4 – 1 – 3.
+(B) 3 – 2 – 4 – 1.
+(C) 2 – 4 – 3 – 1.
+(D) 4 – 2 – 1 – 3.
+(E) 1 – 3 – 2 – 1.
+
+[GABARITO]
+A

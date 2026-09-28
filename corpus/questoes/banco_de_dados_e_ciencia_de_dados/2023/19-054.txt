@@ -1,0 +1,18 @@
+ID: 19-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas banco de dados tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João está enfrentando problemas com os resultados que envolvem comparações e/ou ordenação de dados quando há acentos, letras maiúsculas e minúsculas nos dados. Como o banco de dados contém termos no idioma português, João deveria adotar em seus bancos de dados SQL Server o default de collation (agrupamento, na interface em português):
+
+[ALTERNATIVAS]
+(A) Latin1_General_CA_AI;
+(B) Latin1_General_CA_AN;
+(C) Latin1_General_CI_AI;
+(D) Latin1_General_CI_AS;
+(E) Latin1_General_CN_AN.
+
+[GABARITO]
+C

@@ -1,0 +1,17 @@
+ID: 23-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+HTML5 e CSS3 desempenham um papel fundamental no desenvolvimento web contemporâneo, fornecendo uma extensa variedade de recursos que permitem a criação de páginas web atrativas visualmente, adaptáveis a diferentes dispositivos e enriquecidas semanticamente. Com relação as linguagens de marcação, assinale (V) para a afirmativa verdadeira e (F) para falsa. ( ) O CSS3 suporta elementos multimídia integrados, como áudio e vídeo, sem a necessidade de plugins externos. ( ) HTML5 e CSS3 são fundamentais para criar websites responsivos, que se adaptam automaticamente a diferentes dispositivos e tamanhos de tela, proporcionando uma melhor experiência de usuário em smartphones, tablets e desktops. ( ) O HTML5 e o CSS3 são as linguagens de marcação e de estilo mais recentes para desenvolvimento web ( ) O HTML 5 oferece flexibilidade e controle mais precisos sobre o posicionamento e o design dos elementos em uma página web.
+
+[ALTERNATIVAS]
+(A) F – F – F – V.
+(B) V – V – V – V.
+(C) F – V – V – F.
+(D) V – V – V – F.
+
+[GABARITO]
+C

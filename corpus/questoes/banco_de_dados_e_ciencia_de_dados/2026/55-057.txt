@@ -1,0 +1,18 @@
+ID: 55-057
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um Tribunal de Justiça identificou degradação de desempenho em consultas que filtram registros por múltiplas colunas combinadas por operadores lógicos AND na cláusula WHERE. A equipe de administração de banco de dados (DBA) decide criar um índice composto (multi-column index) para otimizar essas operações. Considerando o funcionamento de índices compostos baseados em árvores balanceadas (B-Tree), em sistemas gerenciadores de bancos de dados relacionais, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A ordem das colunas na definição do índice não interfere em sua eficiência, uma vez que o otimizador de consultas reordena os predicados automaticamente para garantir o uso do índice.
+(B) A utilização do índice composto é otimizada quando os predicados da consulta seguem a ordem de definição das colunas no índice, respeitando a regra do prefixo à esquerda (leftmost prefix).
+(C) Um índice composto só pode ser utilizado pelo motor de execução se todas as colunas que o compõem forem obrigatoriamente referenciadas na cláusula de filtragem da consulta.
+(D) A criação de índices compostos em colunas com baixa seletividade garante, de forma determinística, a substituição do escaneamento sequencial de tabela (table scan) pelo escaneamento de índice (index scan).
+(E) Índices compostos tornam-se desnecessários em sistemas modernos que implementam técnicas como index skip scan, sendo a ordem das colunas irrelevante para o desempenho das consultas.
+
+[GABARITO]
+B

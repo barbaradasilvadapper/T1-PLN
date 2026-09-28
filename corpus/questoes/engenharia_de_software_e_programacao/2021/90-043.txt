@@ -1,0 +1,18 @@
+ID: 90-043
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o trecho de código CSS3 a seguir. p { color: red; text-align: center; } Assinale o efeito causado por essa declaração.
+
+[ALTERNATIVAS]
+(A) Estilizar todos os elementos <p>.
+(B) Definir uma classe CSS intitulada p.
+(C) Definir uma variável CSS intitulada p.
+(D) Estilizar todos os elementos com id=p.
+(E) Um erro, pois falta definir o seletor da regra.
+
+[GABARITO]
+A

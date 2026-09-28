@@ -1,0 +1,17 @@
+ID: 23-057
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Assim como idiomas moldam a maneira como pensamos e nos comunicamos, as linguagens de programação são as ferramentas que permitem dar vida às nossas ideias no mundo digital, transformando lógica e criatividade em código executável. Sobre linguagens de programação, analise os itens a seguir. I – JavaScript é uma linguagem de programação de alto nível, compilada e multi-paradigma. II – A linguagem Java é conhecida pela sua portabilidade, o que significa que os programas escritos em Java podem ser executados em diferentes tipos de dispositivos sem necessidade de modificação. III - A linguagem C# é semelhante em muitos aspectos ao Java e ao C++, o que facilita a transição para desenvolvedores familiarizados com essas linguagens.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I, II e III.
+(C) II e III, apenas.
+(D) I e III, apenas.
+
+[GABARITO]
+C

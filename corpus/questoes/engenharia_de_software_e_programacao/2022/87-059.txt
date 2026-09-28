@@ -1,0 +1,18 @@
+ID: 87-059
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do Oracle, os termos BY RANGE BY HASH BY LIST podem ser utilizados em declarações a respeito da criação de:
+
+[ALTERNATIVAS]
+(A) Clustered indexes;
+(B) Clustered tables;
+(C) Indexed tables;
+(D) Nested tables;
+(E) Partitioned tables.
+
+[GABARITO]
+E

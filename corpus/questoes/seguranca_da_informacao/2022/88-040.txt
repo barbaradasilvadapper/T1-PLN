@@ -1,0 +1,18 @@
+ID: 88-040
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: perito criminal ciencia da computacao analista de sistema sead ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), a Autoridade Nacional de Proteção de Dados é responsável por
+
+[ALTERNATIVAS]
+(A) realizar o tratamento de dados pessoais sensíveis em nome do controlador.
+(B) obter o consentimento do titular para transferência internacional de dados pessoais.
+(C) tomar as decisões referentes a anonimização e tratamento dos dados pessoais.
+(D) atuar como canal de comunicação entre os titulares de dados pessoais sensíveis.
+(E) zelar, implementar e fiscalizar o cumprimento da LGPD em todo o território nacional.
+
+[GABARITO]
+E

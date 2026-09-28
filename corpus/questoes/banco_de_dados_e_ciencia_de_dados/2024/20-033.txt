@@ -1,0 +1,18 @@
+ID: 20-033
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João pretende enriquecer a documentação do banco de dados registrando o propósito das tabelas e as descrições de suas colunas. Isso é crucial para facilitar a compreensão e a manutenção do seu esquema. Para tanto, o comando em Oracle que ele deverá usar para alcançar seu objetivo, em relação à tabela “Processo”, é:
+
+[ALTERNATIVAS]
+(A) DESCRIBE Processo IS ‘Esta tabela armazena informações sobre processos judiciais.’;
+(B) SHOW TABLE Processo IS ‘Esta tabela armazena informações sobre processos judiciais.’;
+(C) ALTER TABLE Processo (‘Esta tabela armazena informações sobre processos judiciais.’);
+(D) COMMENT ON TABLE Processo IS ‘Esta tabela armazena informações sobre processos judiciais.’;
+(E) INSERT INTO Processo VALUES (‘Propósito’, ‘Esta tabela armazena informações sobre processos judiciais.’);
+
+[GABARITO]
+D

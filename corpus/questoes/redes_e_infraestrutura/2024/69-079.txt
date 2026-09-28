@@ -1,0 +1,18 @@
+ID: 69-079
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O método de Storage (armazenamento) de dados Redundant Array of Independent Disks (RAID)
+
+[ALTERNATIVAS]
+(A) emprega uma matriz de discos dependentes para proporcionar nível de desempenho, tolerância a falhas e redundância.
+(B) agrupa dois ou mais hard disk drives (HDD) ou solid-state drives (SSD) em arranjos para trabalho em série, para formar uma única unidade física.
+(C) utiliza protocolos como o SMB/CIFS (Server Message Block/Common Internet File System), AFP (Apple Filing Protocol) e o NFS (Network File System) que permitem que qualquer servidor ou computador armazenem e compartilhem arquivos através de uma rede TCP/IP.
+(D) distribui os dados de modo que permita o acesso simultâneo a partir das várias unidades de disco, melhorando assim o desempenho de entrada e saída (E/S).
+(E) níveis 2 e 3 utilizam uma técnica de acesso em série.
+
+[GABARITO]
+D

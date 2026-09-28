@@ -1,0 +1,18 @@
+ID: 79-059
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista José está definindo um array redundante de discos independentes (RAID), utilizando 4 discos. Para escolher o nível de RAID a ser aplicado ao array, José estabeleceu as seguintes condições: espaço utilizável de no mínimo 50% com 4 discos e espaço utilizável maior que 60% ao acrescentar mais um disco. Diante dessas condições, José deve escolher o nível de RAID:
+
+[ALTERNATIVAS]
+(A) 1;
+(B) 5;
+(C) 6;
+(D) 0+1;
+(E) 1+0.
+
+[GABARITO]
+B

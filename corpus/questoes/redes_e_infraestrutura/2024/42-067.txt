@@ -1,0 +1,18 @@
+ID: 42-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um administrador de ambiente de nuvem baseado no Microsoft Azure vai instalar uma ferramenta que é um terminal interativo, autenticado e acessível por navegadores, usado para o gerenciamento de recursos do Azure, permitindo maior flexibilidade de controle. Essa ferramenta do Azure é o
+
+[ALTERNATIVAS]
+(A) Cloud Explorer.
+(B) Cloud Shell.
+(C) Portal Azure.
+(D) PowerShell Unix.
+(E) Resource Manager CLI.
+
+[GABARITO]
+B

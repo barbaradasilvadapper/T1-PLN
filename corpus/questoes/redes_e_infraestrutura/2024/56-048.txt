@@ -1,0 +1,18 @@
+ID: 56-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Considerando as técnicas avançadas de gerenciamento de memória e operações de entrada/saída (I/O), o analista Pedro é desafiado a otimizar o desempenho do sistema operacional de uma organização. A estratégia correta, escolhida por Pedro, que se alinha com os princípios apresentados para melhorar simultaneamente o gerenciamento de memória e a eficiência de I/O, sem comprometer o desempenho geral do sistema, é:
+
+[ALTERNATIVAS]
+(A) aumentar a frequência de operações de swapping para maximizar a disponibilidade de memória física;
+(B) implementar um esquema de alocação de memória fixa, dedicando partes específicas da memória para I/O exclusivo;
+(C) utilizar intensivamente o spooling de dispositivos de I/O para simular operações de E/S assíncronas em dispositivos que originalmente requerem operações síncronas;
+(D) integrar técnicas de memória virtual com paginação sob demanda, otimizando o uso da memória e o acesso a dispositivos de I/O;
+(E) priorizar o uso de interrupções de hardware para todas as operações de I/O, minimizando o uso de polling.
+
+[GABARITO]
+D

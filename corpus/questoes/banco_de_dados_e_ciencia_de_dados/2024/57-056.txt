@@ -1,0 +1,18 @@
+ID: 57-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Durante uma manutenção de rotina, a equipe de banco de dados Oracle da Comissão de Valores Mobiliários identificou que uma tablespace de sistema estava com um crescimento descontrolado. Ao refinar a pesquisa, observou que os registros de auditoria ainda estavam com a sua tablespace default. Conforme a documentação de melhores práticas da Oracle, é recomendado que seja criada uma tablespace específica para os dados de auditoria e que estes sejam removidos da tablespace:
+
+[ALTERNATIVAS]
+(A) system;
+(B) users;
+(C) temp;
+(D) sysaux;
+(E) undo.
+
+[GABARITO]
+D

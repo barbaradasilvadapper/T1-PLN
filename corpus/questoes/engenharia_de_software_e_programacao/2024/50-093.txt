@@ -1,0 +1,18 @@
+ID: 50-093
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Keras é uma API de aprendizagem profunda escrita em Python. Sobre o Keras é incorreto afirmar que
+
+[ALTERNATIVAS]
+(A) as principais estruturas de dados são layers e models.
+(B) ele foi integrado ao TensorFlow como sua API de alto nível padrão.
+(C) ele utiliza tensores para representar os dados de entrada, saída e os parâmetros do modelo.
+(D) ele é restrito a arquiteturas específicas de redes neurais.
+(E) qualquer modelo do Keras pode ser instanciado como um módulo do PyTorch.
+
+[GABARITO]
+D

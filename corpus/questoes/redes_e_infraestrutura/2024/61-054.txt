@@ -1,0 +1,18 @@
+ID: 61-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em um ambiente de rede de computadores, no qual se deseja trabalhar com virtualização, há a necessidade de se instalar no hardware físico um software para abstrair os recursos da máquina, visando disponibilizar esse ambiente virtual. Esse tipo de software é o
+
+[ALTERNATIVAS]
+(A) automatizador.
+(B) controlador.
+(C) hipervisor.
+(D) manipulador.
+(E) radiador.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 06-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Observe os dados do seguinte documento XML. <?xml version="1.0" encoding="UTF-8" ?> <root> <Pessoa> <Hospede> <Nome>Ana</Nome> <Acompanhantes>Bia</Acompanhantes> <Acompanhantes>Maitê</Acompanhantes> </Hospede> </Pessoa> </root> Os dados no formato JSON correspondente é:
+
+[ALTERNATIVAS]
+(A) {"Pessoa":{"Hospede":[{"Nome":"Thomas"},{"Nome": "Ana","Acompanhantes":["Bia","Maitê"]}]}}
+(B) <"Pessoa":<"Hospede":[{"Nome":"Thomas"};{"Nome": "Ana";"Acompanhantes":["Bia";"Maitê"]}]/>/>
+(C) ["Pessoa":["Hospede":[["Nome":"Thomas"],["Nome": "Ana","Acompanhantes":["Bia","Maitê"]]]]]
+(D) {"Pessoa"{"Hospede"[{"Nome";"Thomas"},{"Nome"; "Ana","Acompanhantes"("Bia";"Maitê")}]}}
+(E) <"Pessoa"{"Hospede":[{"Nome";"Thomas"},{"Nome": "Ana","Acompanhantes":("Bia";"Maitê")}]}/>
+
+[GABARITO]
+A

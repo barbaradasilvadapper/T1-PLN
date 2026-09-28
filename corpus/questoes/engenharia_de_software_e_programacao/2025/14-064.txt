@@ -1,0 +1,18 @@
+ID: 14-064
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código PHP a seguir <!DOCTYPE html> <html> <body> <pre> <?php $b = 5.34; $c = 0; $f = "hello"; $g = ""; $i = NULL; $b = (int) $b; $c = (float) $c; $f = (bool) $f; $g = (string) $g; $i = (bool) $i; var_dump($b); var_dump($c); var_dump($f); var_dump($g); var_dump($i); ?> </pre> </body> </html> Ao executar o código em um navegador, as saídas são respectivamente
+
+[ALTERNATIVAS]
+(A) bool(true) bool(false) bool(true) bool(false) bool(true)
+(B) float(5) int(0) bool(true) string(0) "" bool(true)
+(C) int(5) float(0) bool(true) string(0) "" bool(false)
+(D) float(5.4) int(0) bool(true) string(NULL) "" bool(true)
+(E) float(5.4) int(0) bool(false) string(“”) bool(false)
+
+[GABARITO]
+C

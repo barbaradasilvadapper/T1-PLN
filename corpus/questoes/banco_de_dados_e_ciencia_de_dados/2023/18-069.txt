@@ -1,0 +1,18 @@
+ID: 18-069
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João, administrador de banco de dados, deverá projetar um banco de dados Oracle de registro de alunos que contenha várias tabelas para armazenar informações acadêmicas: • • A tabela “Aluno” armazena informações sobre alunos. A tabela “Notas_Aluno” armazena informações sobre as notas do aluno. Ambas as tabelas têm uma coluna chamada “Aluno_ID”. A coluna “Aluno_ID” na tabela “Aluno” é uma chave primária. • • João deverá criar a chave estrangeira na coluna “aluno_ID” da tabela “Notas_Aluno” para relacionar-se com a coluna “aluno_ID” da tabela “Aluno”. Para isso, João deverá utilizar o seguinte comando:
+
+[ALTERNATIVAS]
+(A) CREATE TABLE notas_aluno (aluno_ID NUMBER(12), media_notas NUMBER(4,3), CONSTRAINT aluno_ID_fk REFERENCES aluno(aluno_ID));
+(B) CREATE TABLE notas_aluno (aluno_ID NUMBER(12), media_notas NUMBER(4,3), CONSTRAINT FOREIGN KEY (aluno_ID) REFERENCES aluno (aluno_ID));
+(C) CREATE TABLE notas_aluno (aluno_ID NUMBER(12), media_notas NUMBER(4,3), aluno_ID_fk FOREIGN KEY (aluno_ID) REFERENCES aluno(aluno_ID));
+(D) CREATE TABLE notas_aluno (aluno_ID NUMBER(12), media_notas NUMBER(4,3), CONSTRAINT aluno_ID_fk FOREIGN KEY (aluno_ID) REFERENCES aluno(aluno_ID));
+(E) CREATE TABLE notas_aluno (aluno_ID NUMBER(12), media_notas NUMBER(4,3), CONSTRAINT aluno_ID_fk REFERENCES (aluno_ID) FOREIGN KEY aluno(aluno_ID));
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 75-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação ao Data Warehousing e ao Business Intelligence, avalie as afirmativas a seguir e assinale V para a afirmativa verdadeira e F para a falsa. ( ) Eles têm como meta construir e manter o ambiente técnico e os processos técnicos e de negócios necessários para fornecer dados integrados em apoio às funções operacionais, requisitos de conformidade e atividades de inteligência de negócios. ( ) Ambos visam apoiar e permitir análises de negócios e tomadas de decisões mais eficazes por parte dos trabalhadores do conhecimento. ( ) O Data Warehousing concentra-se em permitir um contexto de negócios histórico e integrado em dados operacionais, aplicando regras de negócios e mantendo relacionamentos de dados de negócios apropriados. O armazenamento de dados também inclui processos que interagem com repositórios de metadados.
+
+[ALTERNATIVAS]
+(A) F – F – F.
+(B) F – F – V.
+(C) F – V – V.
+(D) V – F – V.
+(E) V – V – V.
+
+[GABARITO]
+E

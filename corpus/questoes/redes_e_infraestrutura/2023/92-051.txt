@@ -1,0 +1,18 @@
+ID: 92-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+As taxas de transmissão das redes Ethernet, Fast Ethernet e Gigabit Ethernet são, respectivamente,
+
+[ALTERNATIVAS]
+(A) 100 Mbps; 1 Gbps; 10 Gbps.
+(B) 100 Gbps; 1 Gbps; 100 Gbps.
+(C) 10 Mbps; 100 Mbps; 1 Gbps.
+(D) 1 Gbps; 10 Gbps; 100 Gbps.
+(E) 10 Mbps; 10 Gbps; 10 Gbps.
+
+[GABARITO]
+C

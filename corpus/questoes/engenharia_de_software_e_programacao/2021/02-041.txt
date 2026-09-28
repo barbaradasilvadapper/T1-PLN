@@ -1,0 +1,18 @@
+ID: 02-041
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do CSS, considere os seguintes seletores. h1, xxxx .xxxx, #d345 #xxxx xxxx:hover A lista que indica corretamente a natureza do objeto correspondente ao símbolo “xxxx” em cada linha, respectivamente, é:
+
+[ALTERNATIVAS]
+(A) classe xxxx / tag <xxxx> / classe xxxx / classe xxxx
+(B) classe xxxx / classe xxxx / classe xxxx / tag<xxxx>
+(C) tag <xxxx> / classe xxxx / id “xxxx” / tag <xxxx>
+(D) tag <xxxx> / classe xxxx / id “xxxx” / classe xxxx
+(E) tag <xxxx> / tag <xxxx> / classe xxxx / id “xxxx”
+
+[GABARITO]
+C

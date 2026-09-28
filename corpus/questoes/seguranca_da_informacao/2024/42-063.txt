@@ -1,0 +1,18 @@
+ID: 42-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma equipe de desenvolvimento de sistemas está trabalhando na estrutura de segurança de um ambiente de nuvem. No momento, está sendo desenvolvido todo ferramental da parte de controle de acesso. Nesse caso, uma ferramenta útil para esse controle de acesso na nuvem é o
+
+[ALTERNATIVAS]
+(A) Aplicador de Acesso.
+(B) Aplicador de Cybersegurança.
+(C) Gerenciador de Riscos.
+(D) Múltiplo Fator de Autenticação.
+(E) Protetor Abrangente de Acesso.
+
+[GABARITO]
+D

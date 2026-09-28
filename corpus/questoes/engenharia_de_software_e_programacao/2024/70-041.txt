@@ -1,0 +1,18 @@
+ID: 70-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere a seguinte representação em JSON enviada de um dispositivo IoT para um servidor, a fim de reportar as leituras de temperatura e umidade de um Data Center: { "sensorId": "ABC123", "data": [ { "medida": "Temperatura", "valor": 25.6, "unidade": "C" }, { "medida": "Umidade", "valor": 67.8, "unidade": "%" } ], "timestamp": "2024-03-05T10:10:00Z" } Com base no código acima, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) O dispositivo ABC123 está enviando somente os dados de Temperatura.
+(B) O dispositivo ABC123 está enviando somente os dados de Umidade.
+(C) O JSON está em um formato inválido.
+(D) Os dados de Temperatura e Umidade estão declarados como string.
+(E) O JSON mostra que a leitura foi feita em 5 de março de 2024 às 10:10 no horário Zulu (UTC), no formato ISSO 8601.
+
+[GABARITO]
+E

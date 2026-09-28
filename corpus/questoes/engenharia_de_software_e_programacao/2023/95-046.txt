@@ -1,0 +1,18 @@
+ID: 95-046
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o trecho de código a seguir, usado para recuperar o valor de um cookie. $cookie_name = "usuario"; if(!isset($_COOKIE[$cookie_name])) { echo "Cookie '" . $cookie_name . "' ausente!<br>"; } else { echo "Cookie '" . $cookie_name . "' OK!<br>"; echo "Valor: " . $_COOKIE[$cookie_name]; } Esse é um código:
+
+[ALTERNATIVAS]
+(A) Angular;
+(B) Django;
+(C) JavaScript;
+(D) jQuery;
+(E) PHP.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 59-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em contraste com as redes conectadas fisicamente, as redes sem fio são ruidosas e pouco confiáveis. Um dos padrões mais famosos para redes sem fio é o IEEE 802.11. Dentre as características das redes que usam o protocolo IEEE 802.11, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o protocolo IEEE 802.11 tenta resolver os problemas das estações expostas, ocultas ou transparentes;
+(B) em ambientes abertos e sem obstáculos, quanto maior a frequência do sinal, menor a atenuação do sinal;
+(C) o IEEE 802.11, para o acesso ao meio, procura detectar as colisões, escutando o canal durante as transmissões;
+(D) a probabilidade de um quadro trafegar por essas redes com sucesso aumenta com o aumento do tamanho do quadro;
+(E) o IEEE 802.11, para o acesso ao meio, procura evitar as colisões, enviando quadros de aviso antes das transmissões.
+
+[GABARITO]
+E

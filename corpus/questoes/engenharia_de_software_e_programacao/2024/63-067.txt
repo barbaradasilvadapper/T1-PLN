@@ -1,0 +1,18 @@
+ID: 63-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Com relação ao algoritmo de garbage collection (coleta de lixo) chamado mark-sweep (ou mark-and-sweep), analise as afirmativas a seguir. I. Na fase de marcar (mark), o coletor percorre o grafo de objetos e marca todos aqueles que são alcançáveis. II. Na fase de varrer (sweep), a memória ocupada pelos objetos marcados (na fase de marcação) é liberada. III. Os objetos marcados (na fase de marcação) são realocados.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+A

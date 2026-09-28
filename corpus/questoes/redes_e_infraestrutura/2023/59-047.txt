@@ -1,0 +1,18 @@
+ID: 59-047
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em relação às características das fibras ópticas e dos sinais transportados por elas, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) as fibras ópticas são fabricadas com materiais com alta condutividade e permeabilidade elétrica;
+(B) as fibras são adequadas para transmissão de longa distância, pois podem apresentar atenuações abaixo de 1 dB/km;
+(C) a frequência da portadora do sinal luminoso para comunicações é da ordem de gigahertz (GHz);
+(D) as fibras devem ser manuseadas com cuidado, pois conduzem corrente em seus núcleos, podendo dar choques elétricos;
+(E) os cabos do tipo OPGW (Optical Ground Wire) possuem uma melhoria no aterramento do sinal pelo núcleo da fibra.
+
+[GABARITO]
+B

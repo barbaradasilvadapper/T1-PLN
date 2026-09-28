@@ -1,0 +1,18 @@
+ID: 16-027
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando boas práticas de arquitetura de APIs REST, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em APIs REST, a semântica do método HTTP integra o contrato da operação, de modo que a leitura de um recurso não deve ser modelada com método cujo significado indique alteração de estado. ( ) A criação de novos recursos em uma coleção pode ser realizada por meio de requisição PUT dirigida ao endpoint correspondente à coleção, com retorno de um novo identificador gerado pelo servidor. ( ) Em APIs REST, a utilização de um código HTTP uniforme para respostas de êxito e de falha não compromete a semântica da interação, desde que o corpo da mensagem descreva adequadamente o resultado da requisição. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – V – V.
+(B) V – V – F.
+(C) V – F – F.
+(D) F – V – F.
+(E) F – F – V.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 71-080
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os CIS Controls v8, editados pelo Center for Internet Security, oferecem práticas recomendadas de segurança cibernética prescritivas, priorizadas e simplificadas. Um dos aperfeiçoamentos trazidos pela oitava versão foi
+
+[ALTERNATIVAS]
+(A) combinação e consolidação dos controles CIS por quem gerencia os dispositivos, em vez de organizar-se por atividades.
+(B) importante foco para os dispositivos físicos, limites fixos e discretas ilhas de implementação de segurança.
+(C) controles foram aprimorados para acompanhar os sistemas e softwares modernos e o ecossistema cibernético em constante mudança, incluindo os serviços de nuvem e tecnologias móveis.
+(D) revisão da terminologia e inclusão do agrupamento de subcontroles (anteriormente denominados “medidas de segurança” ou safeguards).
+(E) aumento do número de controles de 18 para 20.
+
+[GABARITO]
+C

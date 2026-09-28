@@ -1,0 +1,18 @@
+ID: 32-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma estação é considerada parte de uma rede local (LAN – Local Area Network) se pertencer fisicamente a ela. O critério de participação é geográfico. Muitas vezes precisamos de uma conexão virtual entre duas estações pertencentes a duas LANs físicas diferentes. Assim, utilizamos uma VLAN (Virtual Local Area Network), uma rede local virtual como uma rede local configurada por software em vez de meio físico. Para fornecer o suporte de configuração e funcionamento de uma VLAN (Virtual Local Area Network) foi definido o Padrão IEEE 802.1q. Do exposto as seguintes afirmativas estão corretas, à exceção de uma. Assinale-a.
+
+[ALTERNATIVAS]
+(A) As VLANs permitem reduzir problemas de controle de tráfego broadcast (por exemplo, tráfego gerado pelo protocolo ARP - Address Resolution Protocol), uma vez que o alcance dos quadros de difusão fica restrito a domínios reduzidos.
+(B) O padrão IEEE 802.1q introduziu campos de identificação nos quadros Ethernet. Essa informação extra pode ser utilizada no roteamento dos quadros, e serão usados pelos switches (comutadores) para encaminhar ou filtrar o tráfego recebido.
+(C) O padrão IEEE 802.1q introduziu campos de identificação nos quadros Ethernet. Dentre os campos introduzidos, podemos citar VLAN Identifier (bits que identificam a que VLAN o quadro pertence).
+(D) Algumas características podem ser usadas para agrupar estações em uma VLAN. Os fabricantes usam apenas características como números das portas e endereços IP ponto-a-ponto.
+(E) As VLANs trazem benefícios no gerenciamento da rede. Podemos citar a segurança, pois o meio de cada rede virtual permanece isolado das demais estações que estão fora da VLAN em questão, impedindo assim, que os dados trafegados nela fiquem expostos.
+
+[GABARITO]
+D

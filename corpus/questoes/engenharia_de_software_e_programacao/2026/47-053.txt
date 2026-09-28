@@ -1,0 +1,18 @@
+ID: 47-053
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma equipe de desenvolvimento decidiu aprimorar a segurança de suas aplicações e passou a adotar práticas de Secure SDLC integradas ao pipeline de DevSecOps. Como parte dessa iniciativa, a equipe incorporou ao processo de integração contínua (CI) a ferramenta de análise estática de segurança Checkmarx. Com o uso dessa ferramenta, diversos alertas passaram a ser gerados durante o desenvolvimento, indicando possíveis vulnerabilidades relacionadas ao uso de entradas externas diretamente na construção de instruções, inclusive em trechos de código que ainda não haviam sido executados. Considerando o cenário apresentado, assinale a opção que melhor descreve a atuação dessa ferramenta de análise estática no contexto de um SDLC seguro.
+
+[ALTERNATIVAS]
+(A) Executa a aplicação para identificar falhas relacionadas ao uso de entradas do usuário, com base no comportamento observado em tempo de execução.
+(B) Realiza análise por meio do envio de entradas manipuladas, avaliando como o sistema responde às instruções construídas durante sua execução.
+(C) Identifica padrões inseguros no código-fonte, como o uso direto de entradas externas na construção de instruções, sem necessidade de execução, podendo gerar alertas que exigem validação quanto à sua efetiva explorabilidade.
+(D) Acompanha o comportamento da aplicação em execução, correlacionando entradas do usuário com eventos registrados para identificar possíveis incidentes de segurança.
+(E) Realiza testes automatizados com foco na exploração de falhas, simulando interações reais com a aplicação em ambiente de execução.
+
+[GABARITO]
+C

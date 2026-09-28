@@ -1,0 +1,18 @@
+ID: 74-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Aprendizado de Máquina (Machine Learning) é uma subárea da inteligência artificial (IA) que se concentra em desenvolver algoritmos e modelos que permitem que os sistemas aprendam e façam previsões ou decisões baseadas em dados. O Aprendizado de Máquina pode ser dividido em aprendizado supervisionado, aprendizado não supervisionado e aprendizado por reforço. No contexto de aprendizado de máquina supervisionado, das técnicas a seguir, a mais apropriada para lidar com um problema de regressão no qual o objetivo é prever um valor numérico contínuo é
+
+[ALTERNATIVAS]
+(A) a Regressão Linear.
+(B) a Regressão Logística.
+(C) o K-Nearest Neighbors (KNN) para classificação.
+(D) a Support Vector Machine (SVM) com kernel linear para classificação.
+(E) a Árvore de Decisão para classificação.
+
+[GABARITO]
+A

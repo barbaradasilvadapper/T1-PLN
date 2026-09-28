@@ -1,0 +1,18 @@
+ID: 28-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Paulo, analista de sistemas da empresa X, fez a especificação para interligar as LANs dos setores financeiro e jurídico da empresa. Ele definiu que a interligação deve utilizar um equipamento que atue na camada de rede do modelo OSI. Assim, a empresa deve adquirir um:
+
+[ALTERNATIVAS]
+(A) gateway;
+(B) hub;
+(C) repetidor;
+(D) switch;
+(E) roteador.
+
+[GABARITO]
+E

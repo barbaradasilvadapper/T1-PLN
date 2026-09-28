@@ -1,0 +1,18 @@
+ID: 11-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os protocolos FTPS e SFTP são variações do protocolo FTP, com ênfase na segurança. Sobre esses protocolos, analise as afirmativas a seguir. I. Em geral, o FTPS é mais fácil de configurar do que o SFTP, especialmente em relação à gestão de firewalls e portas. II. O SFTP pode enfrentar desafios com NAT devido à necessidade de abrir múltiplas portas para a conexão de dados e controle. III. O FTPS emprega certificados SSL para garantir a segurança, enquanto o SFTP trabalha com SSH.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

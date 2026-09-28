@@ -1,0 +1,18 @@
+ID: 61-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere que todos os candidatos que responderam questões tenham suas respostas registradas na tabela A execução da consulta SQL especificada produz como resultado o número de inscrição e nome dos candidatos que responderam a
+
+[ALTERNATIVAS]
+(A) alguma questão.
+(B) exatamente uma questão.
+(C) nenhuma questão.
+(D) questões corretas.
+(E) todas as questões.
+
+[GABARITO]
+C

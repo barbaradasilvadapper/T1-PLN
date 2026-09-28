@@ -1,0 +1,18 @@
+ID: 69-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Com relação a Gestão de Projetos, analise os itens a seguir: I. O gerenciamento de projetos, para o resultado final, envolve a seguinte série de atividades fundamentais: planejamento, execução, monitoramento e controle e encerramento. II. Dentre as metodologias para a gestão de projetos podem ser identificados métodos clássicos, como cascata (ou waterfall), e metodologias ágeis, como scrum. III. Como parte essencial da engenharia de software o gerenciamento de projetos de software precisa garantir as restrições de cronograma e de orçamento da organização, entretanto, nem mesmo o bom gerenciamento consegue garantir o sucesso do projeto.
+
+[ALTERNATIVAS]
+(A) II apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 83-057
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação ao Ansible da Red Hat, analise os itens a seguir. I. É uma ferramenta de automação que permite configurar sistemas, implantar softwares e orquestrar tarefas avançadas de TI, tais como implantações contínuas ou atualizações contínuas com tempo de inatividade zero. II. Ele é centralizado e pode se conectar facilmente com Kerberos, LDAP e outros sistemas de gerenciamento de autenticação descentralizada. III. Sua exposição à segurança é bastante reduzida pois usa a ferramenta OpenSSH para efetuar login remoto com o protocolo SSH. Está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) I e III, apenas.
+
+[GABARITO]
+E

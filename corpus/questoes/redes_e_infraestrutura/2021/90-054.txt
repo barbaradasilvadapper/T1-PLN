@@ -1,0 +1,18 @@
+ID: 90-054
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista especializado analista de sistemas imbel
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Windows 10 oferece vários utilitários que podem ser invocados por meio da linha de comando. Assinale a opção que indica a principal função do utilitário ping.
+
+[ALTERNATIVAS]
+(A) Configurar o Firewall.
+(B) Finalizar um processo.
+(C) Configurar impressoras.
+(D) Alterar o registro do Windows.
+(E) Verificar a conectividade entre computadores.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 61-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O método Karhunen-Loeve é amplamente utilizado na modelagem e solução de problemas específicos de aprendizado de máquina. O objetivo geral desse algoritmo em um conjunto de dados é
+
+[ALTERNATIVAS]
+(A) criar agrupamentos hierárquicos de dados.
+(B) detectar conceitos drift.
+(C) gerar classificadores ensemble.
+(D) produzir regras de associação.
+(E) reduzir sua dimensionalidade.
+
+[GABARITO]
+E

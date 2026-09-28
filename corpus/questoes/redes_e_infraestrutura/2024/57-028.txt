@@ -1,0 +1,18 @@
+ID: 57-028
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Andrew, um analista, foi contratado por uma empresa de contabilidade de médio porte, com 50 funcionários, para solucionar problemas com seu sistema de e-mail baseado em servidor local. Devido ao crescimento da empresa e ao aumento do volume de comunicações, o sistema se tornou insuficiente, apresentando falta de espaço de armazenamento, dificuldades de acesso remoto e vulnerabilidades de segurança. Para modernizar sua infraestrutura de comunicação, a empresa optou por migrar para uma solução de hospedagem de e-mail na nuvem. Nesse contexto, o objetivo de Andrew ao escolher a solução de hospedagem de e-mail na nuvem foi:
+
+[ALTERNATIVAS]
+(A) impedir a possibilidade de recuperação de dados em caso de desastres;
+(B) implementar redundância integrada, o que permitiu a restauração rápida e eficiente dos dados perdidos;
+(C) instituir protocolos de backups manuais regulares, apesar da infraestrutura de nuvem já em uso;
+(D) prolongar deliberadamente o processo de recuperação de dados para testar a resiliência organizacional;
+(E) restringir o acesso aos dados recuperados a locais específicos, visando a aumentar a segurança pós-recuperação.
+
+[GABARITO]
+B

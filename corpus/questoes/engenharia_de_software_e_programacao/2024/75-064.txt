@@ -1,0 +1,18 @@
+ID: 75-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Algumas das características da linguagem de programação orientada a objetos são as listadas a seguir, à exceção de uma. Assinale-a.
+
+[ALTERNATIVAS]
+(A) Os programas são decompostos em objetos.
+(B) O foco é mais em um dado do que no procedimento.
+(C) Objetos podem comunicar com os demais por meio de métodos.
+(D) Dados podem ser protegidos por funções externas.
+(E) POO segue uma abordagem de cima para baixo.
+
+[GABARITO]
+E

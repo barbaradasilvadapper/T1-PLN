@@ -1,0 +1,18 @@
+ID: 14-054
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os testes de software são essenciais para garantir a qualidade dos códigos gerados. Inicialmente o programador desenvolveu o seguinte código de produção a ser testado: CODIGO-01.py def celsius_to_fahrenheit(celsius): return (celsius * 9/5) + 32 Posteriormente, o programador desenvolveu o código de teste empregando a linguagem Python import unittest class TestTemperatureConversion(unittest.TestCase): def test_celsius_to_fahrenheit(self): self.assertEqual(celsius_to_fahrenheit(0), 32) self.assertEqual(celsius_to_fahrenheit(25), 77) if __name__ == '__main__': unittest.main() A abordagem do teste utilizado pelo programador se refere a um
+
+[ALTERNATIVAS]
+(A) BDD (Behavior-Driven Development).
+(B) TDD (Testdriven development).
+(C) Teste de usabilidade.
+(D) Teste de integração.
+(E) Teste Unitário.
+
+[GABARITO]
+E

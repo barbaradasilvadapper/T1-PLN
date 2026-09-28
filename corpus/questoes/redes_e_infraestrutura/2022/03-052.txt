@@ -1,0 +1,18 @@
+ID: 03-052
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de sistemas senado federal
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Nos últimos anos, a adoção de ambientes em nuvem cresceu expressivamente. Modelos de serviço em nuvem facilitam a criação de soluções tecnológicas modernas de maneiras diferentes. A seguir, estão listadas algumas características de um desses modelos. I. O provedor de nuvem fica responsável pelo gerenciamento da infraestrutura de servidores, sistemas operacionais, atualizações e outras tarefas administrativas. II. Acessível pela internet por meio do navegador web. III. Permite equipes de desenvolvimento colaborarem em todo o ciclo de vida de um aplicativo, incluindo codificação, integração, teste, entrega, implantação e feedback. As características descritas referem-se a
+
+[ALTERNATIVAS]
+(A) IAC.
+(B) TaaS.
+(C) SaaS.
+(D) IaaS.
+(E) PaaS.
+
+[GABARITO]
+E

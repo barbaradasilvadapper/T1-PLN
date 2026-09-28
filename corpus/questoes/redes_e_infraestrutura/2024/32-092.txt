@@ -1,0 +1,18 @@
+ID: 32-092
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa possui uma aplicação comercial disponível na internet. Essa aplicação opera 24 horas por dia e está hospedada em um provedor que possui infraestrutura de virtualização da VMWare. Em um determinado dia, o servidor onde estava sendo executada a máquina virtual responsável pela aplicação desta empresa sofreu uma sobrecarga de energia e parou de funcionar repentinamente. Uma funcionalidade da infraestrutura de virtualização da VMWare permitiu que esta aplicação fosse rapidamente reiniciada em outro servidor. Diante do exposto, a funcionalidade VMWare que permitiu que essa máquina virtual fosse reiniciada em outro servidor nas condições apresentadas foi
+
+[ALTERNATIVAS]
+(A) VMWare vMotion
+(B) VMWare DRS (Distributed Resourse Scheduler)
+(C) VMWare HA (High Availability)
+(D) VMWare HotSwap
+(E) ESXi (Elastic Sky X Integrated)
+
+[GABARITO]
+C

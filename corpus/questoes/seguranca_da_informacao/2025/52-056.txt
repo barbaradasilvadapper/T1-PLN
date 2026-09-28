@@ -1,0 +1,18 @@
+ID: 52-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Para proteger dados sensíveis contra acessos não autorizados utilizam-se mecanismos de autenticação, criptografia e certificação digital, entre outras técnicas. Com relação à segurança da informação, analise as afirmativas a seguir. I. A autenticação multifator eleva a segurança de sistemas ao exigir a combinação de dois ou mais fatores de autenticação distintos, como algo que o usuário sabe, algo que possui e algo que é. II. Na criptografia simétrica, cada parte da comunicação usa um par de chaves diferentes - uma pública e uma privada - para criptografar e descriptografar mensagens. III. A certificação digital utiliza uma estrutura chamada Infraestrutura de Chaves Públicas (PKI) e serve para associar uma identidade a uma chave pública, por meio de uma Autoridade Certificadora (CA).
+
+[ALTERNATIVAS]
+(A) I e II, apenas.
+(B) I e III, apenas.
+(C) II e III, apenas.
+(D) II, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

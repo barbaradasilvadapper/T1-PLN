@@ -1,0 +1,18 @@
+ID: 59-080
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Com base na Instrução Normativa nº 4, de 11 de setembro de 2014 (MPOG/SLTI), que dispõe sobre o processo de contratação de Soluções de Tecnologia da Informação pelos órgãos integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP) do Poder Executivo Federal. A Área de Tecnologia da Informação de um órgão federal desempenha várias funções no processo de contratação de Soluções de Tecnologia da Informação. Pode-se verificar que são atribuições da Área de Tecnologia da Informação na segunda fase da contratação, conhecida como Seleção do Fornecedor: I. apoiar o pregoeiro na análise e julgamento das propostas apresentadas pelos licitantes; II. encaminhar o Plano de Fiscalização à área de Licitação, que estabelece o processo de fiscalização do contrato de Soluções de Tecnologia da Informação; III. elaborar o Projeto Básico ou Termo de Referência de Soluções de Tecnologia da Informação. Está correto somente o que se afirma em:
+
+[ALTERNATIVAS]
+(A) I;
+(B) II;
+(C) I e II;
+(D) I e III;
+(E) II e III.
+
+[GABARITO]
+A

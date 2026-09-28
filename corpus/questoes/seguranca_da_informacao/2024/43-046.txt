@@ -1,0 +1,18 @@
+ID: 43-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Com o intuito de melhorar a segurança para usuários que trabalham remotamente e evitar a exposição de senhas privilegiadas na Internet, o Tribunal de Justiça do Mato Grosso do Sul (TJMS) está contratando uma solução de gerenciamento de acesso privilegiado (PAM). O TJMS adquiriu uma solução com a funcionalidade de cofre de senhas, que:
+
+[ALTERNATIVAS]
+(A) oferece um fluxo de aprovação para um administrador ter acesso a uma credencial;
+(B) oferece um serviço de acesso compartilhado por dois administradores simultaneamente;
+(C) realiza acesso privilegiado a sistemas sem a necessidade de revelar as senhas;
+(D) oferece um gerenciador de senhas para armazenar as chaves privadas, senhas e credenciais de contas privilegiadas;
+(E) permite a avaliação do comportamento dos administradores e efetua a detecção de possíveis desvios de conduta.
+
+[GABARITO]
+D

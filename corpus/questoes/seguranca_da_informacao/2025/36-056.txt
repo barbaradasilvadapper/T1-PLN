@@ -1,0 +1,18 @@
+ID: 36-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Lara é analista de segurança e está trabalhando em uma aplicação de detecção de cor da pele que seja capaz de identificar características faciais em indivíduos. Após muitos testes, Lara identificou uma brecha de segurança que usa a esteganografia para a ocultação de informações dentro de mídias digitais, adaptando o processo de incorporação às características específicas da mídia de cobertura. Tal fato dificulta a descoberta de um ataque via ocultação da informação. A brecha de segurança descoberta por Lara faz uso da esteganografia:
+
+[ALTERNATIVAS]
+(A) social;
+(B) em mídia de streaming;
+(C) adaptativa;
+(D) física;
+(E) em sistemas IoT (Internet das coisas).
+
+[GABARITO]
+C

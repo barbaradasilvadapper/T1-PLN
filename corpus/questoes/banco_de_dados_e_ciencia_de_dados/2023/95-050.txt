@@ -1,0 +1,18 @@
+ID: 95-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Tabelas do tipo Indexed-organized tables no Oracle têm uma correspondência de organização e funcionalidade com:
+
+[ALTERNATIVAS]
+(A) Clusterized indexes, no SQL Server;
+(B) HEAP tables, no MySQL;
+(C) Memory tables, no MySQL;
+(D) Partition tables, no SQL Server;
+(E) Table Clusters, no Oracle.
+
+[GABARITO]
+A

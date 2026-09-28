@@ -1,0 +1,18 @@
+ID: 93-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo Rapid Spanning Tree Protocol (RSTP) IEEE 802.1w pode ser visto mais como uma evolução do IEEE 802.1d. Com relação aos protocolos supracitados, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). I. Na configuração de formatos da BPDU do 802.1d, o identificador do protocolo é codificado no octeto 3 e possui o valor 0000 0001. II. O algoritmo do protocolo 802.1w é do tipo distribuído que seleciona uma bridge para ser a raiz de uma estrutura do tipo árvore, e atribui Port Rolles para as portas individuais em cada Bridge de uma LAN. III. A operação do RSTP prevê recuperação rápida após a ocorrência de falhas em Bridges, Bridge Ports ou LANs.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) V – V – F.
+(C) V – F – F.
+(D) F – V – V.
+(E) F – V – F.
+
+[GABARITO]
+D

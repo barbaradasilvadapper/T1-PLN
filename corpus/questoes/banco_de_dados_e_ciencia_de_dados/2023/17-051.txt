@@ -1,0 +1,18 @@
+ID: 17-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao banco de dados dpe rs
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Na criação de um banco de dados no SQL Server há um importante parâmetro a ser definido, denominado Agrupamento (Collation, em inglês), cuja escolha tem impacto, principalmente, nas:
+
+[ALTERNATIVAS]
+(A) ações de autenticação de usuários;
+(B) operações de backup do banco de dados;
+(C) operações de comparação e ordenamento de dados;
+(D) operações de login/logout;
+(E) strings de conexão com instâncias remotas.
+
+[GABARITO]
+C

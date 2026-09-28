@@ -1,0 +1,18 @@
+ID: 84-062
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area administrativa tecnologia da informacao trt 16
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação aos tipos de backup suportados pelo SQL Server 2016, analise as afirmativas a seguir. I. Um backup incremental de transações inclui todos os registros de log dos quais não foi feito backup de dados anteriores. II. Um backup de logs registra apenas as extensões de dados que foram alteradas nos grupos de arquivos desde o último backup, conhecido como base para o backup diferencial. III. Os backups de banco de dados completos representam todo o banco de dados quando o backup foi concluído.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+C

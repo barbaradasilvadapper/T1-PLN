@@ -1,0 +1,18 @@
+ID: 48-078
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João precisa criar um modelo interpretável de previsão de cancelamento de serviços com base em dados de cliente, demográficos e de tipo de serviço. Para tanto, João deve considerar que o problema é tabular, com vários atributos e regras de escolha complexas. No contexto de técnicas de classificação, o tipo de algoritmo que João deverá utilizar é:
+
+[ALTERNATIVAS]
+(A) naive bayes;
+(B) árvore de decisão;
+(C) k-vizinhos mais próximos;
+(D) rede neural convolucional;
+(E) máquina de vetores de suporte.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 38-038
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os analistas de segurança da informação estão pesquisando como mitigar riscos e monitorar ameaças que podem surgir no futuro. No modelo de ameaças STRIDE, a ameaça que tenta violar o princípio da confidencialidade é:
+
+[ALTERNATIVAS]
+(A) spoofing;
+(B) tampering;
+(C) repudiation;
+(D) information disclosure;
+(E) elevation of privilege. Branca – Página 9 Tipo 1
+
+[GABARITO]
+D

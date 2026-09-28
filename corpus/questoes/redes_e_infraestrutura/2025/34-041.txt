@@ -1,0 +1,18 @@
+ID: 34-041
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No modelo de referência TCP/IP, as camadas são organizadas de forma hierárquica para facilitar a comunicação entre sistemas. A camada responsável pela segmentação dos dados, controle de fluxo e estabelecimento de conexões fim-a-fim é denominada:
+
+[ALTERNATIVAS]
+(A) Camada de Aplicação.
+(B) Camada de Transporte.
+(C) Camada de Internet.
+(D) Camada de Acesso à Rede.
+(E) Camada de Sessão.
+
+[GABARITO]
+B

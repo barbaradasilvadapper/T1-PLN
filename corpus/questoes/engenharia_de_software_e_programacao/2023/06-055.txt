@@ -1,0 +1,18 @@
+ID: 06-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Um documento XML é estruturado como uma árvore rotulada ordenada. Cada nó da árvore é um elemento XML. O elemento mais alto da árvore por onde se inicia a formação do documento XML é o:
+
+[ALTERNATIVAS]
+(A) sibling;
+(B) schema;
+(C) attribute;
+(D) leaf node;
+(E) root node.
+
+[GABARITO]
+E

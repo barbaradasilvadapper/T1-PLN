@@ -1,0 +1,18 @@
+ID: 42-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma empresa, aplicando a ABNT NBR ISO/IEC 27002: 2022, viu-se diante da aplicação do controle organizacional, no item de preparação e planejamento de gerenciamento de incidentes de segurança da informação. Segundo essa norma, o propósito desse item é garantir
+
+[ALTERNATIVAS]
+(A) conformidade da política de segurança com os requisitos legais, estatutários, regulatórios e contratuais relacionados a situação.
+(B) implantação de uma política de segurança da informação que é operada de acordo com a política organizacional
+(C) gerenciamento de evidências consistentes e eficazes relacionado aos incidentes de segurança da informação, para ações disciplinares.
+(D) proteção das informações e outros ativos associados no momento em que uma falha na segurança de informação ocorrer.
+(E) rapidez, eficácia, consistência e respostas ordenadas aos incidentes de Segurança da Informação, incluindo comunicação nos eventos.
+
+[GABARITO]
+E

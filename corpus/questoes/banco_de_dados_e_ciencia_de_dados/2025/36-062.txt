@@ -1,0 +1,18 @@
+ID: 36-062
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A equipe de banco de dados (BD) do Ministério Público da União (MPU) identificou uma falha não catastrófica no seu sistema, de forma que mantinha o BD em um estado não consistente. Para se recuperar da falha, a equipe identificou que antes as atualizações eram gravadas no log ou no buffer da memória principal e somente eram gravadas no banco após a confirmação da transação. Ao desfazer as operações confirmadas, baseadas no log, a falta de consistência foi removida. A técnica de recuperação utilizada pela equipe foi o algoritmo:
+
+[ALTERNATIVAS]
+(A) NO-UNDO/REDO;
+(B) UNDO/REDO;
+(C) UNDO/NO-REDO;
+(D) logging write-ahead;
+(E) steal/no-force.
+
+[GABARITO]
+A

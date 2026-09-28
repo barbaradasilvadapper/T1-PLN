@@ -1,0 +1,18 @@
+ID: 47-037
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Gestão de Identidades e Acesso (IAM – Identity and Access Management) é considerada um dos pilares da segurança da informação e da governança de TI. Com base nesse contexto, analise as afirmativas a seguir. I. Modelos de controle de acesso baseados em papéis (RBAC) e em atributos (ABAC) são utilizados em IAM para definir e restringir permissões de acesso a sistemas e dados organizacionais. II. A autenticação multifatorial (MFA) pode ser dispensada para contas administrativas em ambientes críticos, uma vez que o uso de múltiplos fatores pode comprometer a agilidade da resposta a incidentes de infraestrutura. III. Os princípios de menor privilégio e de segregação de funções são considerados boas práticas de segurança da informação, contribuindo para a redução de riscos de acesso indevido ou abuso de privilégios.
+
+[ALTERNATIVAS]
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

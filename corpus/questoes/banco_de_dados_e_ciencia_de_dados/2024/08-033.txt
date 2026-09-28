@@ -1,0 +1,18 @@
+ID: 08-033
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento manha cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O resultado da aplicação de um algoritmo de Aprendizado de Máquina é um modelo que será usado para realizar predições. Quanto melhor o modelo gerado, mais precisas serão as predições. A precisão ou a acurácia de um modelo de Aprendizado de Máquina é medida por meio do método:
+
+[ALTERNATIVAS]
+(A) regressão;
+(B) treino e teste;
+(C) matriz de confusão;
+(D) aprendizagem por reforço;
+(E) bagging (Bootstrap Aggregating).
+
+[GABARITO]
+B

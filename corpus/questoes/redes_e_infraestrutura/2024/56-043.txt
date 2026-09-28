@@ -1,0 +1,18 @@
+ID: 56-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A arquitetura de um computador define seu conjunto de instruções, modos de endereçamento e tipos de dados, enquanto a organização refere-se aos aspectos operacionais concretos do sistema. Com base nessa distinção, analise as afirmações a seguir sobre um hipotético computador X. I. O computador X utiliza uma arquitetura de conjunto de instruções complexas (CISC) que permite uma ampla variedade de modos de endereçamento. II. A organização do computador X inclui um pipeline de instruções de cinco estágios para aumentar a taxa de execução de instruções. III. A organização do computador X é otimizada para computação em nuvem, utilizando uma matriz de processadores para processamento paralelo. Com base nessas afirmações, a opção que descreve uma característica que é estritamente parte da organização do computador X é:
+
+[ALTERNATIVAS]
+(A) suporte a uma ampla variedade de modos de endereçamento;
+(B) utilização de uma arquitetura CISC;
+(C) suporte a operações de ponto flutuante no conjunto de instruções;
+(D) implementação de um pipeline de instruções de cinco estágios;
+(E) otimização para computação em nuvem através de processamento paralelo.
+
+[GABARITO]
+D

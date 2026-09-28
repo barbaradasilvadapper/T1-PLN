@@ -1,0 +1,18 @@
+ID: 14-058
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Engenharia de Requisitos garante que o produto final atenda às necessidades dos usuários e stakeholders, correspondendo a uma disciplina fundamental no desenvolvimento de software, focada na definição, documentação e manutenção dos requisitos de um sistema. Existem dois tipos fundamentais de requisitos: os Requisitos Funcionais e os Requisitos Não Funcionais. Com relação aos requisitos, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Requisitos Funcionais permitem que as equipes de projeto compreendam o que precisa ser implementado e validado, servindo como orientação clara para o desenvolvimento e teste do sistema. ( ) Os Requisitos Funcionais geralmente têm um grau de criticidade maior do que os Requisitos Não Funcionais isolados. ( ) Enquanto os Requisitos Não Funcionais especificam o modo como essas funções devem ser executadas, os Requisitos Funcionais delineiam as ações que um sistema de software deve realizar.
+
+[ALTERNATIVAS]
+(A) F – V – F.
+(B) V – V – F.
+(C) F – F – F.
+(D) V – F – V.
+(E) F – V – V.
+
+[GABARITO]
+D

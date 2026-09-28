@@ -1,0 +1,18 @@
+ID: 57-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A Comissão de Valores Mobiliários iniciou um processo licitatório para a implantação de um sistema de callcenter. A empresa X foi a vencedora e, conforme edital publicado, deverá seguir o modelo ITIL v4 na implementação do serviço. De forma a seguir a cadeia de valor preconizada no ITIL, a empresa elaborou um conjunto de atividades interconectadas para a entrega do serviço. Durante uma reunião de acompanhamento, a empresa identificou problemas em seu conjunto de atividades e, com isso, concluiu que não poderia entregar o serviço em funcionamento na data prevista. Tal fato poderia acarretar perda de timing de mercado. Com o objetivo de adequar o conjunto de atividades e manter a entrega no prazo, a empresa X deverá atuar na atividade de:
+
+[ALTERNATIVAS]
+(A) engajamento;
+(B) desenho e transição;
+(C) obtenção e construção;
+(D) entrega e suporte;
+(E) planejamento.
+
+[GABARITO]
+B

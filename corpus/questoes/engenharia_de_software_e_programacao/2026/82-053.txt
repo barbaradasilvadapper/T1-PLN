@@ -1,0 +1,18 @@
+ID: 82-053
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Zend Framework é um framework PHP orientado a objetos que segue o padrão de arquitetura MVC (Model-View-Controller) e adota princípios como baixo acoplamento, reusabilidade e convenção sobre configuração. A partir de 2019, o projeto migrou para a comunidade open source sob o nome Laminas Project, mantendo a mesma arquitetura e os mesmos conceitos fundamentais. Entre seus principais componentes estão o sistema de módulos, o Service Manager (gerenciador de serviços baseado em injeção de dependências), o Event Manager e o sistema de rotas. Considere o seguinte trecho de código representando um controller em uma aplicação baseada no Zend Framework (ZF2/ZF3): <?php namespace Application\Controller; use Zend\Mvc\Controller\AbstractActionController; use Zend\View\Model\ViewModel; class ProdutoController extends AbstractActionController { private $produtoService; public function __construct(ProdutoService $produtoService) { $this->produtoService = $produtoService; } public function listarAction() { $produtos = $this->produtoService->buscarTodos(); return new ViewModel([ 'produtos' => $produtos, ]); } } Considerando a arquitetura e os conceitos do Zend Framework (versões 2 e 3), e o funcionamento do framework, assinale a
+
+[ALTERNATIVAS]
+(A) A classe ProdutoController estende AbstractActionController, cujos métodos de ação seguem a convenção de nomenclatura com o sufixo Action (como listarAction). O framework utiliza essa convenção para mapear as rotas às ações correspondentes, de modo que o método listarAction será invocado quando a rota configurada apontar para a ação listar.
+(B) O objeto ViewModel retornado pelo método listarAction é responsável por executar as consultas SQL diretamente no banco de dados e armazenar os resultados, funcionando simultaneamente como camada de acesso a dados e como camada de apresentação.
+(C) A injeção de dependência de ProdutoService pelo construtor do controller é realizada automaticamente pelo PHP por meio do mecanismo nativo de autoload da linguagem, sem necessidade de configuração adicional no Service Manager do Zend Framework.
+(D) No Zend Framework, os controllers devem estender obrigatoriamente a classe AbstractRestfulController, pois o framework foi projetado exclusivamente para a construção de APIs RESTful, não suportando a renderização de páginas HTML por meio de views.
+(E) O array associativo ['produtos' => $produtos] passado ao ViewModel é utilizado exclusivamente para definir os cabeçalhos HTTP da resposta, sendo inacessível na camada de view (template) da aplicação.
+
+[GABARITO]
+A

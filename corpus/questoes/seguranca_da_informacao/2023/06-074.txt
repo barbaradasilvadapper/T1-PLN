@@ -1,0 +1,18 @@
+ID: 06-074
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O analista João administra o servidor de autenticação Keycloak do TJAP. A aplicação TJApp está registrada como um client OpenID Connect do Keycloak, sob o nome tjapp-client. João recebeu a solicitação de habilitar em tjapp-client o recurso que permite a própria aplicação cliente, TJApp, obter um token de acesso de forma autônoma, sem envolver nenhum usuário final. João habilitou em tjapp-client o recurso:
+
+[ALTERNATIVAS]
+(A) direct grants;
+(B) client adapters;
+(C) token mappers;
+(D) identity brokers;
+(E) service accounts.
+
+[GABARITO]
+E

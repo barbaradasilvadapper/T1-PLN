@@ -1,0 +1,18 @@
+ID: 34-064
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um hospital está implantando rede wireless para dispositivos médicos em áreas críticas. Sobre os padrões IEEE 802.11ac e 802.11ax, analise: I. O 802.11ax (Wi-Fi 6) utiliza OFDMA para melhor eficiência espectral em ambientes de alta densidade. II. O 802.11ac opera em 2,4 GHz e 5 GHz, enquanto 802.11ax opera em 5 GHz e 6 GHz. III. O 802.11ax implementa Target Wake Time (TWT) para melhor gerenciamento de energia em dispositivos IoT.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e III, apenas.
+(C) II e III, apenas.
+(D) I, II e III.
+(E) II, apenas.
+
+[GABARITO]
+B

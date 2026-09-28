@@ -1,0 +1,18 @@
+ID: 51-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O Processamento de Linguagem Natural (PLN) é uma subárea da inteligência artificial focada em permitir que máquinas compreendam, interpretem, gerem e respondam à linguagem humana de maneira natural e significativa. O objetivo do PLN é fazer com que sistemas computacionais realizem tarefas que envolvem a linguagem humana, como leitura, escrita e interpretação de forma semelhante à forma como os humanos processam o idioma. Em Processamento de Linguagem Natural (PLN), a tokenização
+
+[ALTERNATIVAS]
+(A) é a técnica que remove todas as palavras de um texto que não são substantivos, para focar apenas em entidades.
+(B) consiste em dividir o texto em unidades menores, como palavras ou subpalavras, para facilitar o processamento do texto por modelos de PLN.
+(C) é o processo de sintetizar novas palavras com base em um modelo probabilístico, permitindo a expansão do vocabulário.
+(D) é a técnica que converte palavras em números aleatórios para evitar vieses durante a análise textual.
+(E) é o processo de combinar palavras em frases inteiras para entender o contexto completo de um texto.
+
+[GABARITO]
+B

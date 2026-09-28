@@ -1,0 +1,18 @@
+ID: 43-026
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao examinar o funcionamento do servidor de correio eletrônico e os protocolos empregados na transmissão de mensagens, é correto afirmar que o SMTP:
+
+[ALTERNATIVAS]
+(A) é um protocolo de recuperação de informações;
+(B) utiliza conexões não persistentes ao transferir arquivos;
+(C) restringe o corpo, e não apenas o cabeçalho, de todas as mensagens de correio ao simples formato ASCII de 8 bits;
+(D) permite, em geral, o diálogo direto entre o agente de usuário do remetente e o servidor do correio do destinatário;
+(E) é utilizado, também, para transferir correspondência do agente de usuário remetente para o servidor de correio remetente.
+
+[GABARITO]
+E

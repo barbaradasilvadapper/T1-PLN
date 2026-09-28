@@ -1,0 +1,18 @@
+ID: 87-055
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um analista obteve acesso a um terminal Linux para realizar o teste de um sistema, mas não tem certeza se o computador tem acesso à Internet, o que será necessário para o teste. A forma mais simples de o analista verificar a conectividade do computador à Internet é:
+
+[ALTERNATIVAS]
+(A) nc -vzu 127.0.0.1 80;
+(B) mtr 192.168.0.1;
+(C) ping 1.1.1.1;
+(D) nmap -A 127.0.0.1;
+(E) telnet 10.0.0.255 22.
+
+[GABARITO]
+C

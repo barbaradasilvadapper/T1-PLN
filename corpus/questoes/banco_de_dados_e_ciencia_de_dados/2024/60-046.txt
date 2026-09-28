@@ -1,0 +1,18 @@
+ID: 60-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Davi está trabalhando na indexação do novo banco de dados do Tribunal de Justiça de Mato Grosso do Sul (TJMS). O desempenho de seleções e junções depende em grande parte dos índices ou esquemas de hashing existentes. Contudo, os índices causam overhead nas operações de inclusão, exclusão e atualização, devendo eles ser bem justificados. Davi identificou que existem muitas consultas de intervalo e que a recuperação de intervalo por uma chave composta auxilia na geração de relatórios. Com base nas características do banco de dados, Davi pôde decidir:
+
+[ALTERNATIVAS]
+(A) se um atributo deve ser indexado;
+(B) que atributo ou atributos indexar;
+(C) se um índice agrupado deve ser montado;
+(D) se um índice de hash deve ser usado em um índice de árvore;
+(E) se o hashing dinâmico deve ser usado para o arquivo.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 74-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Large Language Models (LLMs) são um tipo de modelo IA projetado para lidar com tarefas de processamento de linguagem natural (PLN) em uma escala muito grande. Esses modelos são treinados com enormes quantidades de dados textuais e são capazes de entender e gerar texto em linguagem natural de forma altamente sofisticada. Em relação aos Large Language Models (LLMs), como o GPT, a abordagem mais relevante para melhorar a capacidade do modelo de gerar respostas coerentes e contextualmente apropriadas em conversas prolongadas, entre as listadas, é
+
+[ALTERNATIVAS]
+(A) aumentar o número de parâmetros do modelo.
+(B) utilizar a técnica de fine-tuning em um grande conjunto de dados não rotulados.
+(C) implementar um mecanismo de atenção (Attention Mechanism).
+(D) aplicar a tokenização BPE (Byte Pair Encoding) ao texto de entrada.
+(E) aumentar a frequência de palavras raras no conjunto de treinamento.
+
+[GABARITO]
+C

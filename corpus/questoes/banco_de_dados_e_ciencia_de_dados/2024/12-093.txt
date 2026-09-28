@@ -1,0 +1,18 @@
+ID: 12-093
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A descoberta de conhecimento em base de dados é caracteriza como um processo composto por várias etapas operacionais: o pré-processamento, a mineração de dados e o pósprocessamento. Das listadas a seguir, assinale a que é uma tarefa da etapa de mineração de dados.
+
+[ALTERNATIVAS]
+(A) seleção de dados (ou redução de dados).
+(B) limpeza de dados.
+(C) codificação de dados.
+(D) descoberta de associações.
+(E) enriquecimento de dados.
+
+[GABARITO]
+D

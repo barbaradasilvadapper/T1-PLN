@@ -1,0 +1,18 @@
+ID: 02-036
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere a lista duplamente encadeada exibida a seguir. (1, 3, 0, “Verde”) (2, 4, 3, “Azul”) (3, 2, 1, “Amarelo”) (4, 0, 2, “Vermelho”) Cada elemento pertencente à lista é representado por uma quádrupla, com o seguinte formato: (<id>, <id do anterior>, <id do seguinte>, <conteúdo>). A ordem do conteúdo dos componentes, segundo a instância da lista apresentada, é:
+
+[ALTERNATIVAS]
+(A) Amarelo, Verde, Azul, Vermelho;
+(B) Azul, Verde, Vermelho, Amarelo;
+(C) Verde, Vermelho, Amarelo, Azul;
+(D) Vermelho, Amarelo, Azul, Verde;
+(E) Vermelho, Azul, Amarelo, Verde.
+
+[GABARITO]
+E

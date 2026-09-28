@@ -1,0 +1,18 @@
+ID: 28-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma equipe de TI está desenvolvendo um projeto de QoS onde as garantias de QoS para novos fluxos podem ser ajustadas escolhendo-se uma rota diferente para o fluxo que tenha capacidade em excesso. A equipe de TI utilizou a técnica:
+
+[ALTERNATIVAS]
+(A) flutuação;
+(B) roteamento por QoS;
+(C) roteamento hierárquico;
+(D) detecção aleatória prematura;
+(E) enfileiramento ordenado com rodízio de filas.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 78-044
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os pods do kubernets são a base da modernização de aplicativos e permitem que se desenvolvam aplicativos rapidamente. Com relação aos pods, analise os itens a seguir. I. Um Pod representa uma coleção de imagens de aplicativos e volumes que podem ser executados em um mesmo ambiente de produção. II. Pods, e não os contêineres, são o menor artefato implementável em um cluster Kubernetes. Ou seja, todas as imagens em um Pod estão em uma mesma máquina. Cada imagem dentro de um Pod é executada em seu próprio cgroup, no entanto, compartilham uma série de namespaces do Linux. III. Os aplicativos em execução no mesmo Pod compartilham o mesmo endereço IP, o mesmo conjunto de portas (namespace de rede), têm o mesmo nome de hostname (namespace UTS) e podem se comunicar usando canais de comunicação entre processos nativos em filas de mensagens do System V IPC ou POSIX (namespace IPC). No entanto, os aplicativos em diferentes Pods são isolados uns dos outros; possuem diferentes endereços IP e hostnames distintos. Está correto o que se afirma em:
+
+[ALTERNATIVAS]
+(A) II e III, apenas.
+(B) I e II, apenas.
+(C) III, apenas.
+(D) II, apenas.
+(E) I, apenas.
+
+[GABARITO]
+C

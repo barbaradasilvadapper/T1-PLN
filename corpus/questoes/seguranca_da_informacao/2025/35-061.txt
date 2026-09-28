@@ -1,0 +1,18 @@
+ID: 35-061
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O protocolo RADIUS (Remote Authentication Dial-In User Service) fornece autenticação, autorização e contabilização (AAA) para usuários que se conectam a uma rede. Com relação ao serviço e ao protocolo RADIUS, analise os itens a seguir. I. O servidor RADIUS baseia sua operação no protocolo de datagrama do usuário (User Datagram Protocol, UDP) e opera nas portas números 1812 e 1813. II. Realiza autenticação pois autoriza dispositivos ou usuários, permitindo que eles usem serviços específicos na rede. III. Representa uma solução escalável que se integra à maioria dos sistemas de segurança, como protocolo ponto a ponto (PPP), protocolo de autenticação de senha (PAP) ou login UNIX.
+
+[ALTERNATIVAS]
+(A) II, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 56-005
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A Equipe de Desenvolvimento de Soluções de Software (EDSS) recebeu a demanda de desenvolvimento de um software complexo e, por isso, pretende utilizar a abordagem Domain Driven Design (DDD). Com foco no modelo de domínio principal, a EDSS assumirá que:
+
+[ALTERNATIVAS]
+(A) a lógica da aplicação deve considerar o modo de persistência de objetos nos repositórios;
+(B) as entidades serão definidas pelos atributos que as descrevem;
+(C) os analistas de negócio e de requisitos serão os responsáveis pela definição da Linguagem Ubíqua;
+(D) os objetos do domínio serão modelados com responsabilidades do próprio armazenamento, mas não da própria exibição;
+(E) uma operação deve ser adicionada ao modelo como uma interface autônoma, declarada como um serviço, quando não for uma reponsabilidade natural de uma Entidade ou de um Objeto de Valor.
+
+[GABARITO]
+E

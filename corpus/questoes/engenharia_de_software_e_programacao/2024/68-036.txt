@@ -1,0 +1,18 @@
+ID: 68-036
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Os arquitetos de um projeto precisam decidir entre usar JavaScript puro ou JQuery no cliente. Assinale a opção que compara corretamente as características de cada um.
+
+[ALTERNATIVAS]
+(A) O jQuery pode ser mais acessível para iniciantes devido à sua sintaxe simplificada, além disso o JavaScript já é obsoleto frente ao JQuery.
+(B) O JavaScript puro, embora menos mais performático, tem uma diferença de desempenho que pode ser insignificante em pequenas interações. No entanto, o jQuery é a unica forma para garantir compatibilidade entre diferentes navegadores.
+(C) O jQuery simplifica muitas tarefas comuns de JavaScript, como manipulação de DOM e eventos, com uma sintaxe mais curta e fácil de entender. No entanto, animações complexas só podem ser feitas com JavaScript
+(D) O uso de JavaScript elimina a dependência de bibliotecas externas pois todas as suas funcionalidades fazem parte da linguagem reduzindo a complexidade do projeto. Porém o jQuery sempre adiciona mais complexidade do que simplificação.
+(E) Aprender JavaScript puro pode ser mais vantajoso a longo prazo, pois aprofunda o entendimento da linguagem, mas com o jQuery, geralmente é possível escrever menos código para alcançar os mesmos objetivos.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 56-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD) impõe às pessoas jurídicas de direito público obrigações de transparência ativa. Um conjunto de informações previstos na LGPD, para o qual deve ser dada publicidade, inclui:
+
+[ALTERNATIVAS]
+(A) e-mail funcional, além de primeiro e último nome do controlador, do operador e do encarregado;
+(B) nome e cargo do encarregado, juntamente com telefone e e-mail específico para orientação e esclarecimento de dúvidas;
+(C) nome completo e matrícula do controlador, juntamente com e-mail funcional para orientação e esclarecimento de dúvidas;
+(D) e-mail e telefone, para ligações gratuitas, da pessoa jurídica de direito público ou privado responsável pelos agentes de tratamento;
+(E) CNPJ do operador, quando pessoa jurídica de direito público ou privado, além de e-mail específico para pleito de direitos por parte da pessoa natural.
+
+[GABARITO]
+B

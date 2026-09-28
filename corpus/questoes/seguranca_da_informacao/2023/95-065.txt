@@ -1,0 +1,18 @@
+ID: 95-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O analista Kléber desenvolveu o web service JusRest, que é protegido por autenticação OAuth2 através do client JusClient, registrado no servidor Keycloak do TJRN. Sendo o JusRest um web service, o administrador do Keycloak desabilitou os fluxos de autenticação OAuth2 para o JusClient. Dessa forma, para consumir o JusRest, o usuário deve fornecer um token já emitido. Para simplificar a integração com o Keycloak, Kléber utilizou no JusRest um adaptador de client do Keycloak. A fim de refletir a configuração do JusClient, Kléber ativou no adaptador a opção que desabilita a tentativa de autenticação do usuário, esperando que seja fornecido um token preexistente. Logo, Kléber ativou no adaptador Keycloak do JusRest a opção:
+
+[ALTERNATIVAS]
+(A) bearer-only;
+(B) expose-token;
+(C) enable-basic-auth;
+(D) verify-token-audience;
+(E) disable-trust-manager.
+
+[GABARITO]
+A

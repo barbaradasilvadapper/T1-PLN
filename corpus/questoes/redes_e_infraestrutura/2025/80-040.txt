@@ -1,0 +1,18 @@
+ID: 80-040
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os discos rígidos fornecem a maior parte da memória secundária em que os sistemas de arquivos são mantidos. Analise as afirmativas a seguir sobre as características que tornam os discos convenientes para o fim citado. I. Um disco rígido pode ser regravado inúmeras vezes durante sua vida útil; é possível que o sistema operacional leia um ou mais blocos do disco, modifique-os e grave-os de volta no mesmo local. II. Um disco permite acesso direto a qualquer bloco, é simples acessar arquivos sequencial ou randomicamente, a permutação de um arquivo para outro requer apenas a movimentação dos cabeçotes e a espera pela rotação do disco. III. Para melhorar a eficiência de operações de entrada e saída (E/S), as transferências entre memória e disco são executadas em blocos; cada bloco tem um ou mais setores cujo tamanho pode variar de 32 a 4.096 bytes.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) III, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III, apenas.
+
+[GABARITO]
+E

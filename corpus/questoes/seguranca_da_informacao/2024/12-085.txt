@@ -1,0 +1,18 @@
+ID: 12-085
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A fundação OWASP lista alguns dos principais riscos inerentes às aplicações web. Relacione os riscos a seguir com os exemplos de vulnerabilidades. ( ) Broken Access Control ( ) Injection ( ) Cryptographic Failures ( ) Identification and Authentication Failures 1. Permitir ataques por força bruta ou outros ataques automatizados. 2. Permitir ações que necessitem de login sem que o login tenha sido feito. 3. Transmitir senhas em claro. 4. Utilizar dados inseridos pelo usuário sem validação. A relação correta, na ordem dada, é
+
+[ALTERNATIVAS]
+(A) 2 – 4 – 3 – 1.
+(B) 2 – 1 – 4 – 3.
+(C) 3 – 2 – 1 – 4.
+(D) 3 – 2 – 4 – 1.
+(E) 1 – 4 – 3 – 2.
+
+[GABARITO]
+A

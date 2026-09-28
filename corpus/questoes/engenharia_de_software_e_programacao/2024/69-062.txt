@@ -1,0 +1,18 @@
+ID: 69-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Software Engineering Body of Knowledge (SWEBOK), do Institute of Electrical and Electronics Engineers (IEEE), é um guia com conteúdo que reúne as diretrizes e conceitos que regem a Engenharia de Software. Com relação ao SWEBOK v3, analise os itens a seguir: I. O SWEBOK apresenta uma divisão da Engenharia de Software em tópicos e subtópicos que dão uma boa visão geral da área, tendo o guia uma breve explicação para cada uma das divisões e apontamentos para as referências específicas mais relevantes para o aprofundamento teórico. II. Desde seu lançamento em 2004, o SWEBOK vem sendo reconhecido no mundo todo como a padronização ideal dos ensinamentos que formavam engenheiros de Software realmente capacitados, abrangendo Knowledge areas (KA) como: Requisitos de Software; Projeto de Software; Construção de Software; Teste de Software; e, Manutenção de Software. III. O SWEBOK contém a compilação de práticas de engenharia de Software consolidadas, na academia e na indústria, e pode servir como material de referência e consulta, além de indicar áreas de especialização que são mais importantes dentro da engenharia de Software.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) II, apenas.
+
+[GABARITO]
+A

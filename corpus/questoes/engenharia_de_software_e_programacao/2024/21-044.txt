@@ -1,0 +1,18 @@
+ID: 21-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Fluxo, feedback e aprendizado contínuo, as Três Maneiras, são princípios básicos a partir dos quais são derivados todos os comportamentos e padrões observados no universo DevOps. Isso posto, assinale a opção que apresenta duas práticas da maneira fluxo.
+
+[ALTERNATIVAS]
+(A) Empregar telemetria para antecipar problemas e automatizar releases de baixo risco.
+(B) Integrar desenvolvimento guiado por hipóteses e injetar aprendizado no trabalho diário.
+(C) Investir na criação de aprendizado organizacional e implementar testes automatizados, rápidos e confiáveis.
+(D) Integrar testes A/B ao trabalho diário e converter descobertas locais em melhorias globais.
+(E) Criar a base do pipeline de implementação e praticar integração contínua.
+
+[GABARITO]
+E

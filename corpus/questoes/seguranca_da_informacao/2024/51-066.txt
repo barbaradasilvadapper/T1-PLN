@@ -1,0 +1,18 @@
+ID: 51-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A ISO/IEC 27002 é uma norma que complementa a ISO/IEC 27001 e descreve as melhores práticas para implementar controles de segurança da informação. Ela oferece orientações sobre como aplicar esses controles, mas de forma não prescritiva. Em relação à abordagem da ISO/IEC 27002, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) fornece uma lista rígida e obrigatória de controles a serem seguidos pelas empresas para obter a certificação ISO/IEC 27001.
+(B) apresenta diretrizes para a implementação de controles, permitindo flexibilidade de acordo com as necessidades específicas da organização.
+(C) define um conjunto de requisitos legais que as empresas devem cumprir para proteger dados pessoais.
+(D) especifica processos detalhados de auditoria interna para verificar a conformidade com a segurança da informação.
+(E) foca exclusivamente na criação de políticas de segurança para prevenir ataques cibernéticos.
+
+[GABARITO]
+B

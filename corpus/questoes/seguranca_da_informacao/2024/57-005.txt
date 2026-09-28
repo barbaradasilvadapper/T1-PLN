@@ -1,0 +1,18 @@
+ID: 57-005
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A equipe de Tecnologia da Informação (TI) de um órgão realizou o processo de hardening nos ativos da organização para minimizar a possibilidade de acessos não autorizados, garantir a disponibilidade do serviço e assegurar a integridade dos dados, mantendo os sistemas estáveis e fidedignos. Uma boa prática de hardening, baseada em IPV4, adotada pela equipe de TI é:
+
+[ALTERNATIVAS]
+(A) utilizar usuário comum para todos os administradores do ativo para reduzir a quantidade de usuários no sistema, visando a reduzir o acesso indevido e manter a confidencialidade;
+(B) manter o registro dos usuários sem suas respectivas permissões para preservar a confidencialidade;
+(C) manter a porta padrão do serviço, garantindo o seu acesso, a fim de preservar a integridade e disponibilidade do ativo;
+(D) desabilitar os protocolos de descoberta de vizinhança para impedir a inundação da rede com mensagens desnecessárias, mantendo a disponibilidade;
+(E) ativar serviços não utilizados para usá-los como honey pot no ambiente de produção, garantindo a disponibilidade do serviço principal.
+
+[GABARITO]
+D

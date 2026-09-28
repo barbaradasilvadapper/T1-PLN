@@ -1,0 +1,18 @@
+ID: 76-075
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Após a conclusão dos Testes Unitários, o Analista de Sistemas precisa verificar se o novo módulo de autenticação consegue se comunicar com sucesso com o banco de dados de usuários e com o serviço externo de autorização (API). O tipo de teste que se concentra em verificar as interfaces e interações entre diferentes módulos do sistema, incluindo suas dependências reais (como banco de dados, arquivos ou APIs externas), é o
+
+[ALTERNATIVAS]
+(A) Teste Unitário
+(B) Smoke Test
+(C) Teste de Integração
+(D) Teste de Regressão
+(E) White-Box Test
+
+[GABARITO]
+C

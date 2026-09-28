@@ -1,0 +1,18 @@
+ID: 33-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma das vantagens de serviços providos na nuvem é a possibilidade de utilizar recursos físicos e virtuais compartilhados entre vários consumidores, os quais podem ser atribuídos e retirados dinamicamente de acordo com a demanda do consumidor. De acordo com o NIST SP 800-145, a característica essencial da computação em nuvem descrita é:
+
+[ALTERNATIVAS]
+(A) measured service;
+(B) rapid elasticity;
+(C) broad network Access;
+(D) on-demand self-service;
+(E) resource pooling.
+
+[GABARITO]
+E

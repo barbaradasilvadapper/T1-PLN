@@ -1,0 +1,18 @@
+ID: 31-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A última versão do sistema operacional Windows foi lançada em 2021. Batizada de Windows 11, ela apresenta diversos avanços quando comparada à sua versão anterior, o Windows 10. Entre tais avanços destaca-se
+
+[ALTERNATIVAS]
+(A) a especificação de requisitos mínimos de hardware para que todas as proteções de segurança nativas possam ser usadas.
+(B) o suporte para arquitetura ARM 32.
+(C) o sistema de armazenamento unificado WinFS para a busca e organização de dados e arquivos, em substituição ao NTFS.
+(D) a tecnologia plug-and-play, que permite a instalação de placas PCI sem a necessidade de configuração manual de jumpers.
+(E) o suporte para a arquitetura PowerPC.
+
+[GABARITO]
+A

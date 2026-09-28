@@ -1,0 +1,18 @@
+ID: 77-070
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Para um novo módulo de acompanhamento dos processos da Assembleia, há grande incerteza sobre a usabilidade e o design da interface. O Analista alocado no projeto decide construir rapidamente uma simulação da interface, focando na aparência e na navegação. O principal objetivo de utilizar a Prototipação como técnica de Elicitação de Requisitos é:
+
+[ALTERNATIVAS]
+(A) Gerar o código de produção final do sistema de forma limpa e ágil.
+(B) Obter feedback rápido e concreto do usuário sobre a interface e as interações, reduzindo a ambiguidade dos requisitos de interface.
+(C) Validar a arquitetura de banco de dados e os serviços backend.
+(D) Formalizar o documento de Especificação de Requisitos de Software com a descrição estendida dos requisitos funcionais do sistema.
+(E) Gerar o histórico completo de commits para a auditoria com base nos resultados da simulação.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 66-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um projeto de web design moderno que explora as funcionalidades do HTML e CSS mais recentes, analise o trecho a seguir. <head> <style> .artigo { Background-color: #f0f0f0; Padding: 20px; Max-width: 300px; Margin: 20px auto; } .artigo header h1 { Color: #333; Text-shadow: 0 5 px 10px rgda(26, 6, 59, 0.5); } </style> </head> <body> <article class=”artigo”> <header> <h1>Tendências em Tecnologia</h1> </header> </article> </body> Assinale a descrição que melhor representa a aparência e a estrutura do trecho acima.
+
+[ALTERNATIVAS]
+(A) Um artigo com fundo cinza claro e conteúdo centralizado. Sombra sutil ao redor do artigo, parágrafos em tamanho regular ou data de publicação em itálico centralizada no rodapé, conforme o código não define esses elementos ou estilos.
+(B) O artigo com texto alinhado à esquerda, sem formatação especial além do texto em itálico para a data de publicação. Não há aplicação de sombras ou bordas arredondadas, conforme especificado no CSS3.
+(C) O artigo apresenta interatividade com elementos que mudam ao passar do mouse, incluindo animações no título e parágrafos, apesar do código CSS3 fornecido não especificar tais efeitos.
+(D) A visualização do artigo é inconsistente entre diferentes navegadores, destacando somente o título, com seções e rodapé potencialmente não renderizados devido a problemas de compatibilidade.
+(E) A página mostra o artigo com formatação padrão do navegador, sugerindo que o arquivo CSS3 não foi corretamente vinculado ou carregado.
+
+[GABARITO]
+A

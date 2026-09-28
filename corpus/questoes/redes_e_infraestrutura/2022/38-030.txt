@@ -1,0 +1,18 @@
+ID: 38-030
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A empresa Velote X foi contratada para mensurar o tráfego e identificar a rede local do Tribunal de Justiça. Na verificação das informações, a contratada identificou um serviço de dados de longo alcance de alta velocidade oferecido por operadoras de longa distância, o qual é projetado para dados. Ela também identificou uma interface de hardware especial usada para conectar computadores à rede, que a rede opera a velocidades superiores a 1 Mbit/s e restringe cada pacote para conter até 9.188 bytes de dados. A conclusão chegada pela contratada é a de que a rede é uma wan do tipo:
+
+[ALTERNATIVAS]
+(A) ATM (Assynchronous Transfer Mode);
+(B) frame relay;
+(C) SMDS (Switched Multimegabit Data Service);
+(D) X.25;
+(E) ISDN (Integrated Services Digital Network).
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 32-097
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O armazenamento de dados é fundamental ao funcionamento dos sistemas computacionais modernos, permitindo que pessoas e as organizações gerenciem e preservem informações vitais. Correlacione as tecnologias associadas ao armazenamento de dados a seguir com suas respectivas características. 1. Direct Attached Storage (DAS) 2. Storage Area Network (SAN) 3. Network Attached Storages (NAS) 4. Redundant Array of Independent Disks (RAID) ( ) Armazenamento diretamente conectado a um servidor ou computador, sem rede intermediária, oferecendo alta velocidade e simplicidade. ( ) Tecnologia que combina múltiplos discos em uma unidade lógica para melhorar desempenho e/ou redundância dos dados. ( ) Dispositivo de armazenamento conectado à rede de computadores, permitindo o compartilhamento de arquivos entre múltiplos usuários e dispositivos. ( ) Rede de dados dedicada à conexão de servidores e dispositivos de armazenamento de alto padrão, proporcionando alta performance e centralização dos dados. Assinale a opção que indica a relação correta, na ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 2 – 3 – 4.
+(B) 4 – 2 – 3 – 1.
+(C) 1 – 4 – 3 – 2.
+(D) 2 – 3 – 1 – 4.
+(E) 4 – 1 – 3 – 2.
+
+[GABARITO]
+C

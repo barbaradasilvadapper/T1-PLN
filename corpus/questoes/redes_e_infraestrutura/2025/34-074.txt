@@ -1,0 +1,18 @@
+ID: 34-074
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um engenheiro está implementando SDN com controlador OpenFlow em datacenter. Sobre o funcionamento de flow tables no OpenFlow, analise as seguintes afirmativas: I. Flow entries contêm match fields, priority, counters, instructions, actions e timeouts. II. Quando pacote não corresponde a entrada (table-miss), a ação pode ser configurada como drop, send to controller ou forward para outra table. III. Flow entries com maior valor de priority são processadas primeiro durante matching.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e III, apenas.
+(C) II e III, apenas.
+(D) I e II, apenas.
+(E) I, apenas.
+
+[GABARITO]
+A

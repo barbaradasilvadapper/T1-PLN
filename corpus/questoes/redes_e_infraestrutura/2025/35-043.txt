@@ -1,0 +1,18 @@
+ID: 35-043
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O IPv6 possui uma variedade de tipos de endereços para otimizar a comunicação em redes. Os tipos válidos de endereços IPv6 são
+
+[ALTERNATIVAS]
+(A) unicast e policast, apenas.
+(B) monocast e omnicast, apenas.
+(C) anycast, unicast e multicast, apenas.
+(D) unicast, omnicast e broadcast apenas.
+(E) multicast, omnicast e anycast, apenas.
+
+[GABARITO]
+C

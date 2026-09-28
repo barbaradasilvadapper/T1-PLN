@@ -1,0 +1,18 @@
+ID: 92-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O acesso remoto SSH permite conexões seguras e criptografadas entre sistemas, permitindo aos usuários controlar e administrar remotamente servidores e dispositivos de rede de forma eficiente e confiável. Assinale a opção que indica a finalidade do arquivo “known_hosts” no contexto do SSH.
+
+[ALTERNATIVAS]
+(A) Armazenar as chaves públicas dos servidores remotos que o cliente SSH acessou.
+(B) Registrar os usuários permitidos a se conectar ao servidor ssh
+(C) Armazenamento dos logs de atividades realizadas através do SSH.
+(D) Manter uma lista dos servidores SSH disponíveis em uma rede local.
+(E) Armazenar as chaves privadas do servidor local.
+
+[GABARITO]
+A

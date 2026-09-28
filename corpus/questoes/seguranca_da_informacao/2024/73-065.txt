@@ -1,0 +1,18 @@
+ID: 73-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em uma empresa de TI, a equipe de segurança da informação está conduzindo uma investigação sobre uma série de incidentes que afetaram sua rede nos últimos meses. Eles descobriram que um tipo particular de malware tem sido especialmente desafiador de detectar e mitigar. Durante a análise, a equipe descobriu que o vírus muda a cada infecção e reescreve a si mesmo completamente a cada iteração, o que aumenta a dificuldade de detecção. Esse vírus, que também é capaz de mudar seu comportamento e sua aparência, é classificado, de acordo com sua estratégia de ocultação, como:
+
+[ALTERNATIVAS]
+(A) cifrado;
+(B) camuflado;
+(C) polimórfico;
+(D) metamórfico;
+(E) infectante de arquivo ou de boot.
+
+[GABARITO]
+D

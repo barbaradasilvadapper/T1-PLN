@@ -1,0 +1,18 @@
+ID: 13-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O gestor de qualidade do MPU solicitou à analista de Business Intelligence Maria um Dashboard para monitorar o desempenho da tramitação dos processos ao longo do tempo. O programador Pedro havia implementado o banco de dados MongoProc, no MongoDB, para armazenar os dados do sistema de tramitação de processos judiciais. Então, Maria solicitou a ele a consulta ao MongoProc para alimentar as tabelas: fato_proc (quantidade), dim_data, dim_estado . Pedro respondeu que não poderia fornecer apenas uma consulta, pois seria necessário transformar os dados NoSQL em relacional. Para implementar a solução, Maria poderá utilizar apenas as ferramentas disponíveis no MPU: MongoDB, PostgreSQL, MySQL, Flyway, Pentaho, QlikView e MicroStrategy. Para transformar os dados NoSQL visando a alimentar as tabelas e construir o Dashboard, Maria deve:
+
+[ALTERNATIVAS]
+(A) minerar os documentos armazenados no MongoProc para encontrar padrões e exibir no Tableau;
+(B) modelar multidimensionalmente os dados NoSQL para compor um Data Lake visando a apresentar os dados no Flyway;
+(C) carregar um repositório de metadados com a descrição da estrutura flexível do MongoProc e transformar a estrutura rígida do PostgreSQL;
+(D) transformar a estrutura NoSQL do MongoProc em SQL do MySQL e criar um Data Mart no GraphDB para ser consultado via QlikView;
+(E) implementar um ETL no Pentaho extraindo dados do MongoProc para armazenar em um Data Mart no PostgreSQL e implementar um Dashboard no MicroStrategy.
+
+[GABARITO]
+E

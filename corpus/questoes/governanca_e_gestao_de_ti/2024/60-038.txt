@@ -1,0 +1,18 @@
+ID: 60-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Amanda trabalha em uma prestadora de serviços de Tecnologia da Informação (TI). Com o objetivo de avaliar se o serviço prestado facilitará a criação de valor para os clientes, ela deverá verificar se o serviço deve apoiar o desempenho do consumidor ou remover restrições do consumidor. Outro fator a ser avaliado é se o serviço é adequado ao uso, cumprindo todas as condições definidas e acordadas. Segundo o ITIL V4 utilizado pela empresa de Amanda, os conceitos a serem avaliados por ela deverão ser:
+
+[ALTERNATIVAS]
+(A) resultados e garantias;
+(B) custo e risco;
+(C) resultados e custo;
+(D) risco e utilidade;
+(E) utilidade e garantia.
+
+[GABARITO]
+E

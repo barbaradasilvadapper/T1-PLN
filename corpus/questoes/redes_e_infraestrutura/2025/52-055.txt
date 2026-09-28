@@ -1,0 +1,18 @@
+ID: 52-055
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O gestor de informática de uma empresa precisa armazenar os Logs de acesso à internet dos funcionários de sua empresa pelo período mínimo de 3 (três) anos, considerando 365 dias por ano. Ele verificou que a taxa de envio de logs ao sistema de armazenamento de dados era de 100 Kbps (cem kilobits por segundo). Além disso, há a possibilidade de os logs serem armazenados por meio de técnicas de compressão de dados que permitem uma redução do tamanho total armazenado de 30%. Considerando que 1 KB = 1000 bytes, 1 MB = 1000 KB, 1 GB = 1000 MB e 1TB = 1000 GB, assinale a opção que apresenta a menor capacidade de armazenamento capaz de comportar esses logs, no período determinado, utilizando a técnica de compressão informada.
+
+[ALTERNATIVAS]
+(A) 500 GB.
+(B) 1 TB.
+(C) 2 TB.
+(D) 5 TB.
+(E) 10 TB.
+
+[GABARITO]
+B

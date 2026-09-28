@@ -1,0 +1,18 @@
+ID: 35-050
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um analista necessita fazer um backup completo no MS SQL Server 2022. O procedimento armazenado que auxiliará o analista a estimar o tamanho de um backup de banco de dados do tipo completo é o
+
+[ALTERNATIVAS]
+(A) sp_showsize.
+(B) sp_dump_bkp.
+(C) sp_db_spaces.
+(D) sp_spaceused.
+(E) sp_updatstats.
+
+[GABARITO]
+D

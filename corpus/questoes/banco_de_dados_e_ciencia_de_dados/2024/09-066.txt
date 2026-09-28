@@ -1,0 +1,18 @@
+ID: 09-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Sobre bancos de dados NoSQL, assinale a opção correta.
+
+[ALTERNATIVAS]
+(A) Bancos de dados NoSQL seguem estritamente as propriedades ACID.
+(B) Os bancos de dados NoSQL utilizam sempre o modelo relacional de dados.
+(C) Bancos de dados NoSQL são adequados para sistemas que exigem alta disponibilidade e escalabilidade horizontal.
+(D) Em um banco de dados NoSQL, os dados são sempre armazenados em forma de grafos.
+(E) Bancos de dados NoSQL são melhores para sistemas como ERPs e CRMs.
+
+[GABARITO]
+C

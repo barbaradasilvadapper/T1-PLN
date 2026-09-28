@@ -1,0 +1,18 @@
+ID: 36-054
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Departamento de Infraestrutura do Ministério Público da União (MPU) fará uma reestruturação na rede local de alguns departamentos. O departamento de gestão de dados tem 30 servidores públicos que acessam duas redes independentes, uma para o acesso às bases de dados e outra para o trâmite de documentos, e tem 30 hosts, cada um com duas interfaces de rede para o acesso a cada rede independentemente. Para que todos os hosts sejam completamente atendidos com acesso a ambas as redes e com o mínimo de perda de endereços IP, o departamento de infraestrutura deverá configurar a máscara de sub-rede para ambas as redes como sendo:
+
+[ALTERNATIVAS]
+(A) 255.255.255.240 e 255.255.255.192;
+(B) 255.255.255.224 e 255.255.255.224;
+(C) 255.255.255.192 e 255.255.255.240;
+(D) 255.255.255.128 e 255.255.255.248;
+(E) 255.255.255.0 e 255.255.255.252.
+
+[GABARITO]
+B

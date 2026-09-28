@@ -1,0 +1,18 @@
+ID: 92-050
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Assinale a opção que indica um protocolo utilizado em aplicações de correio eletrônico que permite ao usuário acessar suas mensagens sem a necessidade de realizar o download das mensagens do servidor.
+
+[ALTERNATIVAS]
+(A) SMTP – Simple Mail Transfer Protocol.
+(B) TCP – Transmision Control Protocol.
+(C) IP – Internet Protocol.
+(D) POP3 – Post Office Protocol – versão 3.
+(E) IMAP – Internet Message Access Protocol
+
+[GABARITO]
+E

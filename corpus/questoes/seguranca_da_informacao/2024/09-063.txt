@@ -1,0 +1,18 @@
+ID: 09-063
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A OWASP Top 10 é uma lista amplamente reconhecida das vulnerabilidades mais críticas em aplicações web, criada pela Open Web Application Security Project (OWASP). Atualizada periodicamente, a lista destaca as principais falhas de segurança que podem ser exploradas por atacantes. Com foco em orientar desenvolvedores e equipes de segurança, a OWASP Top 10 serve como uma referência essencial para proteger aplicações web e melhorar as práticas de desenvolvimento seguro. Em sua versão OWASP Top 10:2021, identificamos como uma categoria de vulnerabilidade
+
+[ALTERNATIVAS]
+(A) a falsificação de solicitação do lado do servidor.
+(B) a proteção da cadeia de suprimentos de software.
+(C) a proteção do ambiente de engenharia.
+(D) o treinamento operacional.
+(E) o uso de recursos de linguagens e frameworks.
+
+[GABARITO]
+A

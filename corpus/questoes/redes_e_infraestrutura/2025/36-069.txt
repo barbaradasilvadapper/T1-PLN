@@ -1,0 +1,18 @@
+ID: 36-069
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Aline é gestora de infraestrutura em uma multinacional e observou um crescimento nas quantidades de chamados ao seu departamento relatando lentidão no envio das mensagens. Após algumas verificações, ela identificou que as mensagens não faziam o controle de congestionamento no nível da camada de transporte, nesse caso, no cabeçalho TCP, de forma que o bit que faz esse controle não estava sendo selecionado da maneira correta e o transmissor não recebia a solicitação de redução de velocidade. Aline resolveu o problema reparando a inserção no cabeçalho do bit:
+
+[ALTERNATIVAS]
+(A) ACK;
+(B) URG;
+(C) PSH;
+(D) RST;
+(E) ECE.
+
+[GABARITO]
+E

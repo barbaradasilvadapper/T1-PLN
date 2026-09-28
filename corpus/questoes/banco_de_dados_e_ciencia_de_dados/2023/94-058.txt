@@ -1,0 +1,18 @@
+ID: 94-058
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considerando a tabela T da figura 1, analise a execução do comando SQL a seguir. SELECT * FROM T t1 LEFT JOIN T t2 ON t1.A = t2.A and t1.B = t2.B and t1.C = t2.C Além da linha de títulos, o número de linhas produzidas pela execução desse comando é:
+
+[ALTERNATIVAS]
+(A) 0;
+(B) 4;
+(C) 10;
+(D) 13;
+(E) 16.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 77-067
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O setor de integração da Assembleia Legislativa utiliza documentos XML para a troca de informações estruturadas com órgãos externos. Um Analista de Programação recebe um documento XML que cumpre todas as regras sintáticas fundamentais como: tags aninhadas corretamente, apenas um elemento raiz, fechamento correto de tags, etc., mas que não segue a estrutura definida no dicionário de dados compartilhado. Neste cenário, o documento XML é classificado como:
+
+[ALTERNATIVAS]
+(A) Não-XML, pois a validação é um requisito obrigatório.
+(B) XML Válido, mas não bem-formado.
+(C) XML Bem-Formado, mas não Válido.
+(D) XML Sintaticamente Correto e Semanticamente Válido.
+(E) XML Inconsistente e mal-estruturado.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 39-067
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Aline, analista de TI de uma empresa, deve fazer um relatório apresentando vantagens e desvantagens do LDAP. Em seu relatório, Aline escreve que o LDAP é:
+
+[ALTERNATIVAS]
+(A) dependente de uma plataforma específica;
+(B) seguro, por utilizar encriptação na comunicação;
+(C) pouco amparado pela indústria devido à falta de um padrão;
+(D) flexível, podendo ser usado com aplicações distribuídas;
+(E) proprietário, sendo necessária a aquisição de licenças para uso.
+
+[GABARITO]
+D

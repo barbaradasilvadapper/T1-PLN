@@ -1,0 +1,18 @@
+ID: 16-035
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Leia o trecho a seguir. As metodologias de desenvolvimento de software evoluíram de abordagens rígidas e sequenciais, como o modelo em cascata, para modelos iterativos e incrementais, que favorecem as mudanças e a redução de riscos. Com as práticas ágeis, passaram a priorizar ciclos curtos, feedback contínuo e maior integração entre desenvolvimento e validação. Nesse contexto, surgem metodologias que colocam os testes no centro do desenvolvimento, não apenas para verificação, mas como guia para construção do software, melhorando qualidade e alinhamento com o negócio. Em uma delas, utilizam-se especificações em linguagem natural, o que permite o entendimento entre clientes, analistas e desenvolvedores; surge também a chamada living documentation, que se mantém atualizada por ser executável como testes automatizados. Assinale a opção que indica a metodologia em questão.
+
+[ALTERNATIVAS]
+(A) TDD (Test Driven Development).
+(B) BDD (Behavior Driven Development).
+(C) DDT (Data Driven Development).
+(D) RUP (Rational Unifed Process).
+(E) UCD (User-Centered Design).
+
+[GABARITO]
+B

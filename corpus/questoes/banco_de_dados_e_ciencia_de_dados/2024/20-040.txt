@@ -1,0 +1,18 @@
+ID: 20-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João está analisando o plano de execução de uma consulta SQL complexa e percebe que o seu desempenho é insatisfatório. Após uma análise detalhada, ele identifica que a consulta está usando, na cláusula “WHERE”, uma função em uma coluna da tabela, o que está afetando negativamente a sua execução. Com a intenção de melhorar o desempenho da consulta, João deverá:
+
+[ALTERNATIVAS]
+(A) utilizar um índice bitmap para a coluna em questão;
+(B) criar um índice convencional na coluna afetada pela função;
+(C) aumentar a alocação de memória para o SGA (System Global Area);
+(D) implementar um índice baseado em função (Function-Based Index) na coluna que utiliza a função;
+(E) utilizar o Oracle Performance Analyzer para resolver o problema de gargalo de desempenho apresentado.
+
+[GABARITO]
+D

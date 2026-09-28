@@ -1,0 +1,18 @@
+ID: 56-018
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Ana precisou implementar rapidamente uma função hash denominada AHash. A AHash deve determinar um valor numérico entre 0 e 5 para uma chave de entrada. Ana optou por implementar em AHash o método de hashing denominado Método da Divisão. Para compatibilizar possíveis chaves alfanuméricas com o Método da Divisão, Ana implementou um dicionário que atribui a cada caracter um valor numérico. Internamente, a AHash utiliza como chave o produto dos números correspondentes aos caracteres da chave original. Sabendo que os caracteres C, V e M correspondem, respectivamente, aos números 67, 86 e 77, a AHash retornará para a chave “CVM”:
+
+[ALTERNATIVAS]
+(A) 0;
+(B) 1;
+(C) 2;
+(D) 3;
+(E) 4.
+
+[GABARITO]
+E

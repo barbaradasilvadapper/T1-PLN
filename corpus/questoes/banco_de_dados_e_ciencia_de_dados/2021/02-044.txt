@@ -1,0 +1,18 @@
+ID: 02-044
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere um projeto de banco de dados no qual há uma tabela T com colunas a, b, c, d. Sabe-se que, para essa tabela, são verificadas as seguintes dependências funcionais: a → b a → c a → d b → c c → a Com relação às restrições de integridade decorrentes do processo de normalização da tabela T, as constraints incluídas no comando create table devem ser equivalentes a:
+
+[ALTERNATIVAS]
+(A) constraint c1 unique (a)
+(B) constraint c1 unique (a, b)
+(C) constraint c1 unique (a, b, c)
+(D) constraint c1 unique (a, b, c, d)
+(E) constraint c1 unique (a) constraint c2 unique (b) constraint c3 unique (c)
+
+[GABARITO]
+E

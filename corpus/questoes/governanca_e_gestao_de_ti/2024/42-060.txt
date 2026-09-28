@@ -1,0 +1,18 @@
+ID: 42-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+No ITIL v4, várias práticas estão relacionadas à avaliação e mitigação de riscos. No entanto, uma delas está diretamente focada em garantir que as mudanças nos serviços de TI sejam avaliadas e implementadas de maneira controlada, com um foco claro na mitigação de riscos associados a modificações. A prática que tem como um de seus objetivos principais a mitigação de riscos ao realizar mudanças nos serviços é
+
+[ALTERNATIVAS]
+(A) a Gestão de Incidentes, focada em restaurar o serviço o mais rápido possível sem considerar diretamente os riscos de mudanças.
+(B) a Gestão de Mudanças, que avalia os riscos associados a modificações nos serviços e busca minimizar impactos negativos.
+(C) a Gestão de Nível de Serviço, que monitora o desempenho do serviço sem focar na mitigação de riscos.
+(D) a Central de Serviços, que trata das solicitações dos usuários sem impacto direto no gerenciamento de riscos.
+(E) o Monitoramento e Gerenciamento de Eventos, que registra eventos, mas não avalia diretamente os riscos associados às mudanças.
+
+[GABARITO]
+B

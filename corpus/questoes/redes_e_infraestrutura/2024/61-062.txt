@@ -1,0 +1,18 @@
+ID: 61-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Memórias cache são componentes importantes em arquiteturas de computadores, projetadas para aumentar a velocidade de acesso aos dados frequentemente utilizados pela CPU. Sobre os princípios e elementos de projeto de memórias cache, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) a cache considera que a memória principal é organizada em blocos de tamanho variável em função do tipo de dado acessado.
+(B) a unidade de gerenciamento de memória (MMU – Memory Management Unit) traduz endereços da memória principal para a memória cache, e vice-versa.
+(C) na política de escrita write through, operações de escrita refletem-se apenas nas linhas da cache.
+(D) o mapeamento direto em caches dispensa a aplicação de algoritmos de substituição de blocos.
+(E) um bloco da memória principal pode ser carregado em qualquer linha da cache no mapeamento associativo por conjuntos.
+
+[GABARITO]
+D

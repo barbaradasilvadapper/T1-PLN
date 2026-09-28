@@ -1,0 +1,18 @@
+ID: 78-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma das ferramentas amplamente utilizadas para controlar e testar a segurança de Web Services é o SoapUI. Com relação aos tipos de testes oferecidos pela ferramenta, analise os itens a seguir. I. Os testes do tipo to-be oferecem como vantagem a possibilidade de criação de código e testes antes da criação dos serviços web reais. os desenvolvedores podem criar testes para operações que ainda não foram implementadas enquanto desenvolvem o aplicativo. II. Os testes do tipo load permitem que os desenvolvedores avaliem os serviços web de forma rápida e fácil usando diferentes estratégias para verificar se as funcionalidades não quebram sob cargas de trabalho distintas. III. Os testes do tipo as-is permitem que os desenvolvedores melhorem a eficiência, segurança contra ciberataques e a usabilidade dos serviços web. Está correto, o que se afirma em
+
+[ALTERNATIVAS]
+(A) I e III, apenas.
+(B) I e II, apenas.
+(C) III, apenas.
+(D) II, apenas.
+(E) I, apenas.
+
+[GABARITO]
+D

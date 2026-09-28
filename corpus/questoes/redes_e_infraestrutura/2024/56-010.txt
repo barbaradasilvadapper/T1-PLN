@@ -1,0 +1,18 @@
+ID: 56-010
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Ricardo adquiriu de um provedor as soluções de nuvem A, B e C, para a CVM. Os serviços da solução A replicam dados diretamente na solução B. A solução C não possui conectividade com as demais soluções. Todas as soluções atendem exclusivamente à CVM, porém as soluções A e C operam na Internet, enquanto a solução B opera na Intranet. Em relação ao modelo de implantação da arquitetura de nuvem, as soluções:
+
+[ALTERNATIVAS]
+(A) A, B e C são nuvens privadas;
+(B) A, B e C formam uma multicloud;
+(C) A, B e C formam uma nuvem híbrida;
+(D) A e C são nuvens públicas, enquanto B é nuvem privada;
+(E) A e B formam uma nuvem híbrida, enquanto C é nuvem privada.
+
+[GABARITO]
+A

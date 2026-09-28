@@ -1,0 +1,18 @@
+ID: 93-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Com relação aos métodos de extração em dados em data warehouses nos ambientes Oracle, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). I. Existem dois tipos de extração lógica: extração completa e extração incremental. II. Existem dois seguintes métodos de extração física: extração on-line e extração off-line. III. Existem três métodos de extração virtual: extração por timestamp, extração por particionamento e extração por triggers.
+
+[ALTERNATIVAS]
+(A) V – V – F.
+(B) V – F – V.
+(C) V – F – F.
+(D) F – V – V.
+(E) F – V – F.
+
+[GABARITO]
+A

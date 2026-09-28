@@ -1,0 +1,18 @@
+ID: 89-066
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista da tecnologia da informacao funsaude ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No conjunto de Ferramentas Administrativas do Windows 10, a Limpeza de Disco permite a remoção de arquivos tipicamente temporários, que podem ser removidos sem prejuízo para o funcionamento do sistema. Assinale o exemplo de arquivos que pode ser removido pela ferramenta citada no drive C.
+
+[ALTERNATIVAS]
+(A) Áreas de cache criadas pelos navegadores de Internet.
+(B) Arquivos da Lixeira.
+(C) Arquivos da pasta Downloads do computador.
+(D) Arquivos duplicados.
+(E) Cookies de Internet.
+
+[GABARITO]
+B

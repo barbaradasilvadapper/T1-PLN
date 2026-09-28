@@ -1,0 +1,18 @@
+ID: 12-077
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Você, como Analista de Sistemas do TCE-PA, provavelmente fará uso da Análise de Pontos de Função (APF) caso deseje medir o esforço para desenvolver ou proporcionar uma base objetiva para a contratação de desenvolvimento de software. Nesse contexto, assinale a opção que não corresponde a uma característica de pontos de função.
+
+[ALTERNATIVAS]
+(A) Medem o tamanho do software com base na funcionalidade solicitada e fornecida ao usuário final.
+(B) Têm como principal métrica a Complexidade Ciclomática das funcionalidades.
+(C) São uma medida de tamanho lógico, em oposição a uma medida de tamanho físico, como linhas de código ou objetos.
+(D) São compostos por entradas, saídas, consultas, dados internos e dados de interface externa.
+(E) São derivados de requisitos e são aplicáveis para medição durante todo o ciclo de vida de desenvolvimento.
+
+[GABARITO]
+B

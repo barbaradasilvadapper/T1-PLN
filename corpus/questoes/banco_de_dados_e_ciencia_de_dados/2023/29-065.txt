@@ -1,0 +1,18 @@
+ID: 29-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O TJSE está construindo um ambiente analítico de dados por meio do desenvolvimento de um Data Warehouse. Para isso, solicitou ao analista de infraestrutura Juca a disponibilização de um banco de dados, acessível apenas pelos desenvolvedores, para armazenar temporariamente os dados que estão sendo extraídos das fontes e transformados para serem carregados no ambiente de consultas analíticas. Para isso, Juca deverá disponibilizar um(a):
+
+[ALTERNATIVAS]
+(A) ETL;
+(B) OLAP;
+(C) Stage Area;
+(D) Cubo de Dados;
+(E) Repositório de Metadados.
+
+[GABARITO]
+C

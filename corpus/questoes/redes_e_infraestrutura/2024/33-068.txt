@@ -1,0 +1,18 @@
+ID: 33-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+André acessou o serviço de correio eletrônico do TRF1 por meio de seu dispositivo móvel conectado a uma rede sem fio disponível no aeroporto. Durante o período de utilização dessa rede sem fio, o tráfego de rede foi monitorado e as credenciais de acesso de André foram capturadas. O comportamento irregular dessa conta de correio eletrônico foi observado pela equipe de suporte técnico, que a bloqueou preventivamente. A conduta de André possibilitou a exploração da:
+
+[ALTERNATIVAS]
+(A) ameaça tráfego sensível desprotegido;
+(B) ameaça armazenamento desprotegido;
+(C) ameaça serviços desnecessários habilitados;
+(D) vulnerabilidade uso incorreto de dispositivo;
+(E) vulnerabilidade conexões de rede pública desprotegida.
+
+[GABARITO]
+E

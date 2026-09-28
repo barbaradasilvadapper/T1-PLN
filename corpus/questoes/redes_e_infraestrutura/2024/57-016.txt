@@ -1,0 +1,18 @@
+ID: 57-016
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Texto 1 Um órgão público contratou uma solução de computação em nuvem que fica hospedada em seu datacenter para uso exclusivo do órgão. A gerência do hardware é realizada pela empresa contratada. A equipe do órgão é responsável pela gerência do Sistema Gerenciador de Banco de Dados (SGBD) utilizado e pelas tarefas de criação e gestão das bases de dados. Internamente será ofertado o provisionamento de bancos de dados para sistemas corporativos dos clientes internos do órgão. Considerando a situação descrita no texto 1, o tipo de serviço em nuvem ofertado pelo órgão público aos seus clientes internos é o:
+
+[ALTERNATIVAS]
+(A) IaaS;
+(B) DaaS;
+(C) SaaS;
+(D) PaaS;
+(E) NaaS.
+
+[GABARITO]
+D

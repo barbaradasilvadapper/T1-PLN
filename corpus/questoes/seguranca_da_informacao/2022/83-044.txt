@@ -1,0 +1,18 @@
+ID: 83-044
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A norma ABNT NBR 27001:2013 especifica os requisitos para estabelecer, implementar, manter e melhorar continuamente um sistema de gestão da segurança da informação dentro do contexto da organização. De acordo com essa norma, a organização deve definir e aplicar um processo de avaliação de riscos de segurança da informação que
+
+[ALTERNATIVAS]
+(A) assegure a materialização dos riscos de segurança.
+(B) incluam os critérios de aceitação do risco.
+(C) proíba a distinção do grau de criticidade para tratar o risco.
+(D) desabone aqueles que identificam os responsáveis dos riscos.
+(E) produza resultados padronizados e incomparáveis.
+
+[GABARITO]
+B

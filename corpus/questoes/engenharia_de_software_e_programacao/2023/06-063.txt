@@ -1,0 +1,18 @@
+ID: 06-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Breno está criando um serviço REST, que será disponibilizado por meio de um aplicativo Spring Boot. Como ele já conhece o padrão do REST, criou um método de inclusão no controlador, tendo como parâmetro uma entidade do tipo gerenciado pelo serviço. Para que o parâmetro receba corretamente os dados fornecidos pela requisição, no formato JSON, Breno irá utilizar nesse parâmetro a anotação:
+
+[ALTERNATIVAS]
+(A) PostMapping;
+(B) RestController;
+(C) GetMapping;
+(D) RequestBody;
+(E) PathParam.
+
+[GABARITO]
+D

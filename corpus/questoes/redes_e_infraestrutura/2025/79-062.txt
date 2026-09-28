@@ -1,0 +1,18 @@
+ID: 79-062
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista João está implementando a comunicação entre dois sistemas digitais do MPU. O analista concluiu que a melhor técnica para a comutação entre os dois sistemas é aquela baseada em células. João sabe que a técnica escolhida tem características consideradas como desvantagens, sendo uma delas o fato de a comutação de células:
+
+[ALTERNATIVAS]
+(A) não garantir a ordem de chegada dos dados;
+(B) não ser capaz de dividir os dados em pacotes de tamanho fixo;
+(C) exigir largura de banda constante durante toda a transmissão dos dados;
+(D) exigir o estabelecimento de uma conexão fim a fim, antes da transmissão dos dados;
+(E) apresentar latência considerável, devido ao processamento inerentemente complexo no transmissor e no receptor.
+
+[GABARITO]
+A

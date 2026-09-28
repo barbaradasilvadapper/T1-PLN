@@ -1,0 +1,18 @@
+ID: 27-063
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em virtude de uma nova demanda solicitada pela Defensoria Pública do Estado do Rio Grande do Sul (DPE/RS), o Departamento de Infraestrutura deverá configurar uma rede sem fio para uso pelos servidores de acordo com a política de segurança implementada. A rede poderá ser utilizada com dispositivos fornecidos pela DPE/RS ou dispositivos próprios. O Departamento de Infraestrutura implementará as diretrizes de configuração para sistemas operacionais e aplicações criadas pelo Departamento de Segurança. Um dos controles de segurança aplicados pelo Departamento de Infraestrutura para a rede sem fio da DPE/RS é:
+
+[ALTERNATIVAS]
+(A) evitar o bloqueio automático em caso de não utilização do dispositivo;
+(B) utilizar o recurso do autocompletar para lembrar de usuários e senhas;
+(C) desabilitar a proteção SSL, pois a conexão não possui um nível de segurança que atende à política da DPE/RS;
+(D) a não alteração da configuração de dispositivos como bluetooth e câmera nos dispositivos móveis corporativos;
+(E) implementar e impor restrições sobre quais dispositivos poderão se sincronizar e sobre o uso do armazenamento baseado na nuvem.
+
+[GABARITO]
+E

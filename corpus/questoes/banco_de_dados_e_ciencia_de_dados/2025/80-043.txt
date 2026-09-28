@@ -1,0 +1,18 @@
+ID: 80-043
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A estagiária Mirella sabe que scikitlearn versão 1.6.1 oferece diversos algoritmos de aprendizado não supervisionado. No entanto, ela desconhece quais são os métodos de clusterização disponíveis no módulo sklearn.cluster. Assinale a opção que contém apenas os nomes dos métodos de clusterização disponíveis no módulo.
+
+[ALTERNATIVAS]
+(A) Hdbscan e regressão logística.
+(B) Mean-shift e naive bayes.
+(C) Perceptron e optics.
+(D) Birch e k-means.
+(E) Dbscan e lasso.
+
+[GABARITO]
+D

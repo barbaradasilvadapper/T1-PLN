@@ -1,0 +1,18 @@
+ID: 78-046
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Python abaixo Ao executar o código, os valores impressos são
+
+[ALTERNATIVAS]
+(A) R1 = 3000.0 e R2 = 9000.0.
+(B) R1 = 6000.0 e R2 = 9000.0.
+(C) R1 = 6000.0 e R2 = 18000.0.
+(D) R1 = 12000.0 e R2 = 36000.0.
+(E) R1 = 50000.0 e R2 = 150000.0.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 91-033
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de sistemas alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A análise de pontos de função é uma técnica de medição das funcionalidades fornecidas por um sistema de informação do ponto de vista do usuário. De acordo com a IFPUG (International Function Point Users Group), um grupo de dados ou informações de controle, identificável pelo usuário, logicamente relacionado e mantido dentro da fronteira do sistema sendo contado é classificado como
+
+[ALTERNATIVAS]
+(A) uma saída externa (SE).
+(B) uma entrada externa (EE).
+(C) uma consulta externa (CE).
+(D) um arquivo lógico interno (ALI).
+(E) um arquivo de interface externa (AIE).
+
+[GABARITO]
+D

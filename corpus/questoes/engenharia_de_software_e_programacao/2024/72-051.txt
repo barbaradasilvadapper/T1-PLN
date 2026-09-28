@@ -1,0 +1,18 @@
+ID: 72-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O sistema TRF1Web possui um módulo orientado a eventos, chamado TRF1Sync. No TRF1Sync, há um objeto central que implementa um loop síncrono, responsável por receber eventos de indicação. Ao receber um evento, o objeto central dispara a operação associada mediante um objeto manipulador de evento. Esse comportamento do TRF1Sync é resultado direto da aplicação do seguinte padrão da Pattern-Oriented Software Architecture:
+
+[ALTERNATIVAS]
+(A) reactor;
+(B) proactor;
+(C) interceptor;
+(D) objeto ativo;
+(E) objeto monitor.
+
+[GABARITO]
+A

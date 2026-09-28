@@ -1,0 +1,18 @@
+ID: 76-071
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No projeto de gestão orçamentária, seguindo o Domain Driven Design (DDD), a entidade RequisicaoOrcamentaria contém uma coleção de itens detalhados (ItemOrcamento). Para garantir a integridade transacional e a consistência das regras de negócio, o acesso e a manipulação de qualquer ItemOrcamento só podem ocorrer através da entidade RequisicaoOrcamentaria. Em termos de DDD, a entidade RequisicaoOrcamentaria é classificada como o
+
+[ALTERNATIVAS]
+(A) Value Object
+(B) Service Layer
+(C) Repository
+(D) Bounded Context
+(E) Aggregate Root
+
+[GABARITO]
+E

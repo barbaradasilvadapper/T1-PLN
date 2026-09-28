@@ -1,0 +1,18 @@
+ID: 77-044
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Programador está trabalhando na interface do novo sistema de acompanhamento de proposições, onde diversos elementos interativos como tabs e menus dropdown customizados são implementados usando apenas elementos genéricos <div> e <span>. Para garantir que esses componentes sejam operáveis e compreensíveis por usuários de leitores de tela, o uso de marcação semântica é insuficiente. O papel e o principal objetivo do conjunto de atributos do tipo Accessible Rich Internet Applications neste contexto é
+
+[ALTERNATIVAS]
+(A) garantir que a layout da página se adapte corretamente a diferentes tamanhos de tela.
+(B) validar a conformidade do backend com as diretrizes do WCAG 2.1.
+(C) fornecer metadados e semântica adicional a elementos dinâmicos e customizados de interface para tecnologias assistivas.
+(D) bloquear ataques de injeção de script XSS no frontend, utilizando atributos de segurança.
+(E) otimizar a velocidade de carregamento da página, reduzindo a complexidade do Document Object Model
+
+[GABARITO]
+C

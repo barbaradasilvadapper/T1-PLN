@@ -1,0 +1,18 @@
+ID: 25-054
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Ana precisa implantar o pod LogPod no cluster de Kubernetes KCluster do TJDFT de forma que todos os nós elegíveis do KCluster executem uma cópia do LogPod. Para que o KCluster apresente uma cópia do LogPod em cada nó elegível, de forma automática, Ana deve implantar o LogPod utilizando o recurso do Kubernetes:
+
+[ALTERNATIVAS]
+(A) ReplicationController;
+(B) ReplicaSet;
+(C) StatefulSet;
+(D) DaemonSet;
+(E) EndpointSlice.
+
+[GABARITO]
+D

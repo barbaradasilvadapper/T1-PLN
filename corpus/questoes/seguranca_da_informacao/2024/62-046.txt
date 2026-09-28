@@ -1,0 +1,18 @@
+ID: 62-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O protocolo IPSEC (Internet Protocol Security) é amplamente utilizado para proteger comunicações IP com autenticação e criptografia. O protocolo IPSEC pode operar em dois modos principais: modo transporte e modo túnel. Compreender a diferença entre esses modos é crucial para a implementação eficaz de segurança nas comunicações. Nesse sentido, assinale a opção que apresenta a principal diferença entre eles.
+
+[ALTERNATIVAS]
+(A) O modo transporte encapsula o pacote IP inteiro, enquanto o modo túnel protege apenas o payload.
+(B) O modo transporte não suporta criptografia, enquanto o modo túnel suporta.
+(C) O modo túnel fornece confidencialidade e integridade, enquanto o modo transporte fornece apenas integridade.
+(D) O modo túnel utiliza AH e ESP para garantir integridade e confidencialidade, enquanto o modo transporte utiliza apenas AH.
+(E) O modo transporte protege apenas o payload do pacote IP, enquanto o modo túnel encapsula o pacote IP inteiro.
+
+[GABARITO]
+E

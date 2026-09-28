@@ -1,0 +1,18 @@
+ID: 34-075
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um cluster PostgreSQL de 8TB apresenta degradação de performance com planos de execução subótimos. Para otimizar o planejador de consultas, o conjunto de ações mais apropriado é
+
+[ALTERNATIVAS]
+(A) desabilitar uso de índices globalmente com enable_indexscan=off.
+(B) executar VACUUM FULL diariamente em todas as tabelas durante horário comercial.
+(C) ajustar random_page_cost considerando storage tipo, configurar effective_cache_size, work_mem, aumentar default_statistics_target para colunas críticas e executar ANALYZE regularmente.
+(D) converter tabelas para UNLOGGED desconsiderando durabilidade.
+(E) desabilitar autovacuum e executar VACUUM manualmente mensalmente.
+
+[GABARITO]
+C

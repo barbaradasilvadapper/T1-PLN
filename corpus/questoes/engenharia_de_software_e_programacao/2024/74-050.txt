@@ -1,0 +1,18 @@
+ID: 74-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Outra categoria importante dos testes de software são os testes de integração. O propósito dos testes de integração em desenvolvimento de software é
+
+[ALTERNATIVAS]
+(A) avaliar o desempenho do software em termos de tempo de resposta e escalabilidade sob condições de carga pesada.
+(B) verificar a conformidade do software com os requisitos e especificações do usuário, geralmente com foco no sistema como um todo.
+(C) garantir que cada componente ou módulo do software funcione corretamente quando testado isoladamente.
+(D) testar a interação entre diferentes módulos ou componentes do sistema para assegurar que eles funcionam corretamente em conjunto.
+(E) validar a interface do usuário e a usabilidade do software durante a execução real pelo usuário final.
+
+[GABARITO]
+D

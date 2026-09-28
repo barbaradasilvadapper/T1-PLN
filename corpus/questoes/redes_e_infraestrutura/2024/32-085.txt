@@ -1,0 +1,18 @@
+ID: 32-085
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Netcat (nc) é uma ferramenta poderosa que permite ler e escrever dados por meio de redes de computadores utilizando a pilha de protocolos TCP/IP. Considere o pequeno programa a seguir utilizando essa ferramenta. #!/bin/bash nc 192.168.1.1 4343 Assinale a opção que apresenta a correta função desse programa.
+
+[ALTERNATIVAS]
+(A) Recebe conexão do IP 192.168.1.1 por meio do processo número 4343.
+(B) Realiza conexão com o IP 192.168.1.1 na porta UDP 4343.
+(C) Recebe conexão do IP 192.168.1.1 na porta TCP 4343.
+(D) Realiza conexão com o IP 192.168.1.1 na porta TCP 4343.
+(E) Recebe conexão do IP 192.168.1.1 na porta UDP 4343.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 57-010
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um sistema de gestão de segurança da informação (SGSI) deve contemplar os requisitos de segurança necessários para assegurar a confidencialidade, integridade e disponibilidade da informação gerada pela organização. É necessário estabelecer o escopo e limites para a abrangência do SGSI. Um aspecto que deve ser considerado na determinação do escopo do SGSI é (são):
+
+[ALTERNATIVAS]
+(A) a liderança e o comprometimento da Alta Direção com o SGSI;
+(B) a promoção da melhoria contínua do SGSI;
+(C) os critérios para aceitação dos riscos a serem tratados pelo SGSI;
+(D) as questões internas e externas que afetam o alcance dos resultados do SGSI;
+(E) os recursos para o alcance dos objetivos do SGSI.
+
+[GABARITO]
+D

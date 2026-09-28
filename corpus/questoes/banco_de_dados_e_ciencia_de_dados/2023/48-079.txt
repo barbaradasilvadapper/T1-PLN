@@ -1,0 +1,18 @@
+ID: 48-079
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O TCE SP está implementando um Data Warehouse utilizando uma abordagem incremental, ou seja, constrói um Data Mart para um setor e depois para outro setor, compartilhando Dimensões. A ferramenta de projeto, que representa as áreas do negócio e as dimensões associadas, utilizada para apoiar a implementação de modelos dimensionais de áreas de negócio distintos compartilhando dimensões padronizadas em um Data Warehouse Corporativo é o(a):
+
+[ALTERNATIVAS]
+(A) Data Lake;
+(B) Pipeline de dados;
+(C) Regras de Associação;
+(D) Matriz de Barramento;
+(E) Processamento distribuído.
+
+[GABARITO]
+D

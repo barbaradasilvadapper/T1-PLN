@@ -1,0 +1,18 @@
+ID: 62-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A virtualização é a tecnologia que permite a criação de versões virtuais de recursos físicos, como servidores e redes, aumentando a eficiência e a utilização dos recursos. Assinale a opção que apresenta a tecnologia que empacota uma aplicação e todas as suas dependências, permitindo a execução consistente em diferentes ambientes, compartilhando o kernel do sistema operacional do host, propiciando maior eficiência e leveza.
+
+[ALTERNATIVAS]
+(A) Máquina Virtual.
+(B) Kebernetes.
+(C) Container.
+(D) Hipervisor.
+(E) Docker.
+
+[GABARITO]
+C

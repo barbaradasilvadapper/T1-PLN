@@ -1,0 +1,18 @@
+ID: 59-078
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O COBIT 4.1 é um framework de Governança de TI que oferece padrões de boas práticas através de um modelo de Domínios, Processos e Atividades. Com relação ao Modelo de Maturidade do COBIT 4.1, analise os itens a seguir: I. No nível 1, Inicial/Ad hoc, os processos seguem um caminho padrão. II. No nível 3, Processo Definido, os processos são documentados e comunicados. III. No nível 4, Gerenciado e Mensurável, os processos são monitorados e medidos.
+
+[ALTERNATIVAS]
+(A) somente I;
+(B) somente II;
+(C) somente I e III;
+(D) somente II e III;
+(E) I, II e III.
+
+[GABARITO]
+D

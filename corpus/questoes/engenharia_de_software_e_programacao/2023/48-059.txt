@@ -1,0 +1,18 @@
+ID: 48-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Ana está desenvolvendo a interface gráfica da aplicação web TCEDash, utilizando React com componentes funcionais. Ana precisa que o componente TelaUm, do TCEDash, execute determinada sequência de instruções a cada nova renderização. Porém, a sequência de instruções deve ser garantidamente executada antes de o navegador web atualizar visualmente a tela. Para garantir a execução antes da atualização visual da tela, Ana deve implementar a sequência de instruções dentro do hook do React:
+
+[ALTERNATIVAS]
+(A) useEffect;
+(B) useTransition;
+(C) useLayoutEffect;
+(D) useDeferredValue;
+(E) useImperativeHandle.
+
+[GABARITO]
+C

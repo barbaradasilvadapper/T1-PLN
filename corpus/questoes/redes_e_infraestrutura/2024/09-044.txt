@@ -1,0 +1,18 @@
+ID: 09-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa multinacional está implantando diferentes tipos de redes para melhorar a comunicação e o compartilhamento de informações entre seus funcionários, parceiros e clientes. Cada tipo de rede tem finalidades e características distintas, como o nível de acesso e o público-alvo. Com base nos conceitos de Internet, extranet, intranet e portal, assinale a opção que descreve corretamente o uso dessas redes em um ambiente corporativo.
+
+[ALTERNATIVAS]
+(A) A intranet é uma rede pública global que conecta milhões de computadores ao redor do mundo, permitindo a comunicação e o compartilhamento de informações sem restrições.
+(B) A extranet permite que organizações compartilhem informações internamente, sendo acessível apenas por funcionários dentro da rede corporativa.
+(C) O portal corporativo interno é uma página da web acessada publicamente, centralizando informações e serviços para usuários externos, como clientes e fornecedores.
+(D) A Internet é uma rede restrita, acessível apenas a usuários autorizados, projetada para compartilhar informações dentro de uma organização.
+(E) A extranet é uma rede que utiliza tecnologias da Internet para permitir o acesso controlado a informações e serviços de uma organização, tanto para usuários internos quanto para parceiros externos autorizados.
+
+[GABARITO]
+E

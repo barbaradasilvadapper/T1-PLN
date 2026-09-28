@@ -1,0 +1,18 @@
+ID: 34-065
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Sobre o protocolo BGP (Border Gateway Protocol), utilizado para roteamento inter-domínio na Internet, é correto afirmar que o BGP
+
+[ALTERNATIVAS]
+(A) utiliza UDP porta 179 para estabelecer sessões.
+(B) é classificado como protocolo IGP de estado de enlace.
+(C) estabelece sessões TCP na porta 179 e utiliza algoritmo path vector.
+(D) atualiza tabelas de roteamento automaticamente a cada 30 segundos.
+(E) usa hop count como métrica principal de roteamento.
+
+[GABARITO]
+C

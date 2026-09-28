@@ -1,0 +1,18 @@
+ID: 20-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+João, administrador de Banco de Dados MySQL, precisa realizar, periodicamente, o backup lógico completo do banco de dados "tjms_db". Para completar a tarefa, João deverá executar o comando:
+
+[ALTERNATIVAS]
+(A) backup -u root -p tjms_db > backup.sql;
+(B) mydump -u root -p tjms_db > backup.sql;
+(C) mybackup -u root -p tjms_db > backup.sql;
+(D) mysqldump -u root -p tjms_db > backup.sql;
+(E) select * from tjms_db into outfile backup.sql;
+
+[GABARITO]
+D

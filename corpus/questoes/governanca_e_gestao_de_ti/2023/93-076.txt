@@ -1,0 +1,18 @@
+ID: 93-076
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O ITIL 4 é um framework de gerenciamento de serviços de TI que fornece uma abordagem holística para o gerenciamento de serviços de TI. Com relação aos princípios do ITIL 4, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Colaboração de valor: tudo que é feito deve entregar valor ao negócio. ( ) Comece onde você está: tome em conta a situação atual e evolua progressivamente. ( ) Progresso iterativo com feedback: abrace a mudança e aprenda com o feedback. As afirmativas são respectivamente,
+
+[ALTERNATIVAS]
+(A) F – V – V.
+(B) V – F – V.
+(C) V – V – F.
+(D) V – V – V.
+(E) F – F – V.
+
+[GABARITO]
+A

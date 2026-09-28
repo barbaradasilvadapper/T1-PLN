@@ -1,0 +1,18 @@
+ID: 94-078
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+João, funcionário da PGM de Niterói, instalou intencionalmente um bot na rede interna da Procuradoria. A partir do controle obtido, instalou um malware que capturava as mensagens trafegadas na rede interna para decifrá-las. Após uma semana, o setor de segurança da informação identificou os códigos maliciosos e concluiu que estes faziam uma criptoanálise baseada em análise estatística. De forma a dificultar a criptoanálise executada por João, a Procuradoria deve:
+
+[ALTERNATIVAS]
+(A) investigar a rede, de forma a diminuir a disponibilidade da informação trafegada, dificultando seu acesso pelo malware inserido na rede interna da Procuradoria;
+(B) atribuir uma maior atenção à irretratabilidade, contribuindo para um melhor nível de auditoria sofrido pelos funcionários da Procuradoria, causando maior temor quanto à instalação de qualquer malware na rede interna;
+(C) efetuar a instalação de antivírus baseados em assinatura e modificar o modo de operação do algoritmo para ECB (Eletronic codebook), de forma a evitar que novos ataques venham a ocorrer na rede interna da Procuradoria;
+(D) revisar o "Termo de Uso" ou "Termo de Serviço", o qual define as regras de uso dos recursos computacionais, os direitos e as responsabilidades de quem os utiliza e as situações que são consideradas abusivas;
+(E) buscar algoritmos que elevem o nível de confusão, aumentando a complexidade do relacionamento estatístico do texto cifrado com a chave, e de difusão, de forma que cada dígito do texto claro afete o valor de muitos do texto cifrado.
+
+[GABARITO]
+E

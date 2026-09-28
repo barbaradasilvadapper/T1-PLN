@@ -1,0 +1,18 @@
+ID: 62-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma das principais características da computação em nuvem é a abstração dos recursos de hardware para o usuário. Nesse contexto, sobre os conceitos de elasticidade e escalabilidade, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Escalabilidade é o aumento de capacidade de processamento, enquanto elasticidade está relacionada ao armazenamento de dados.
+(B) Escalabilidade é utilizada para planejamento estratégico de longo prazo, enquanto elasticidade se aplica a ajustes de recursos em tempo real.
+(C) Elasticidade lida com o crescimento gradual e planejado do sistema, enquanto escalabilidade se ajusta às flutuações da demanda.
+(D) Elasticidade e escalabilidade são abordagens de curto prazo, com o objetivo de ajustar recursos aos picos de demanda.
+(E) Um sistema de computação em nuvem escalável horizontalmente será necessariamente elástico.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 18-075
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Tribunal de Justiça do Amapá (TJAP) identificou que não havia um documento de Política para Segurança da Informação e resolveu elaborá-lo. Para atender esse objetivo, fez uso da Norma 27002:2013, que orienta a organização a definir uma política de segurança que seja aprovada pela direção. Para a elaboração do documento, a norma orienta que sejam contemplados requisitos oriundos da(s):
+
+[ALTERNATIVAS]
+(A) normas da família 27000, atribuição de responsabilidades gerais e específicas para o gerenciamento da segurança;
+(B) definições de segurança da informação, objetivos e princípios para orientar todas as atividades de segurança;
+(C) definição do controle de acesso, segurança física e do ambiente e proteção contra malware;
+(D) transferência de informação, segurança nas comunicações, proteção e privacidade da informação de identificação pessoal;
+(E) estratégia de negócios, regulamentações, legislação e contratos e ambiente de ameaça da segurança da informação, atual e futuro.
+
+[GABARITO]
+E

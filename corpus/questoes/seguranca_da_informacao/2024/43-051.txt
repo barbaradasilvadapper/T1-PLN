@@ -1,0 +1,18 @@
+ID: 43-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O setor de pagamento da empresa XIMLINTO Ltda foi criptografado após a ação de um grupo hacker denominado Fancy Bear. Para remover a criptografia, o grupo está solicitando um pagamento em bitcoins para uma conta em um país do leste europeu. Durante a auditoria no sistema, foi identificado que um dos maiores diretores da empresa, fanático por motos e carros, acessou um link malicioso com uma oferta imperdível de compra de insumos para moto e carro com 50% de desconto de dentro de um dos computadores da empresa. Nessa situação, os tipos de ataque utilizados pelo grupo Fancy Bear foram:
+
+[ALTERNATIVAS]
+(A) adware e backdoor;
+(B) ransomware e phishing;
+(C) força bruta e trojan;
+(D) malware e engenharia social;
+(E) ransomware e spear phising.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 20-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de atualização imediata, o banco de dados pode ser atualizado por algumas operações de uma transação antes que ela alcance seu ponto de confirmação. Dessa forma, durante a recuperação de um banco de dados após uma falha de transação, é necessário desfazer as operações não confirmadas e refazer as operações confirmadas para manter a integridade dos dados. Para tanto, o algoritmo de recuperação do banco de dados que deverá ser aplicado é:
+
+[ALTERNATIVAS]
+(A) UNDO/REDO;
+(B) UNDO/NO-REDO;
+(C) NO-UNDO/REDO;
+(D) ROLLBACK/COMMIT;
+(E) COMMIT/ROLLBACK.
+
+[GABARITO]
+A

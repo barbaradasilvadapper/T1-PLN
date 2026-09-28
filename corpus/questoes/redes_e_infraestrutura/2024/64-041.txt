@@ -1,0 +1,18 @@
+ID: 64-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O modelo OSI da ISO é uma referência para interconexão de sistemas abertos. Em relação às camadas desse modelo, analise as afirmações a seguir e assinale (V) para verdadeira e (F) para a falsa. ( ) A camada de enlace de dados gerencia o circuito físico de transmissão na camada subjacente, transformando-o em um circuito livre de erros de transmissão. São exemplos de protocolos dessa camada o CSMA, PPP e HDLC. ( ) A camada de rede determina o próximo computador para qual a mensagem deve ser enviada. São exemplos de protocolos dessa camada o IP, ARP e SNMP. ( ) A camada de transporte lida com ligações nos terminais, como os procedimentos para entrada e saída da rede. O TCP e o UDP são exemplos de protocolos dessa camada.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) F – F – V.
+(C) V – V – V.
+(D) V – V – F.
+(E) V – F – F.
+
+[GABARITO]
+A

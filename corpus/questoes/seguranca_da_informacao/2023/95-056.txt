@@ -1,0 +1,18 @@
+ID: 95-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O COLABORA é um sistema que apoia atividades da gestão de recursos humanos de uma empresa e, por isso, mantém alguns dados sensíveis sobre pessoas. O COLABORA faz uso do módulo pgcrypto do PostgreSQL para criptografar colunas que armazenam os dados sensíveis. Com base no OWASP Top Tem, a solução de criptografia adotada pelo COLABORA apresenta uma vulnerabilidade categorizada como:
+
+[ALTERNATIVAS]
+(A) A01:2021 – Data Exposure;
+(B) A02:2021 – Cryptographic Failures;
+(C) A03:2021 – Broken or Risky Crypto Algorithm;
+(D) A05:2021 – Security Misconfiguration;
+(E) A08:2021 – Software and Data Integrity Failures.
+
+[GABARITO]
+B

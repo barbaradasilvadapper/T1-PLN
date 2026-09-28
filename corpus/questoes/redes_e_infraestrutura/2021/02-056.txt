@@ -1,0 +1,18 @@
+ID: 02-056
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de desenvolvimento de sistemas de um tribunal de contas está guiando a implantação de um Webservice REST. A implantação será dividida nos seguintes grupos distintos de containers Docker: - Grupo A: responsável pela execução da aplicação do Webservice REST - Grupo B: responsável pela execução do Sistema Gerenciador de Banco de Dados utilizado pelo Webservice REST Os Grupos A e B terão seu próprio contexto de armazenamento e rede a serem orquestrados por um cluster de Kubernetes. Para que a conexão de rede entre os containers dos Grupos A e B seja bem-sucedida pelo orquestrador, independentemente dos endereços IP a eles atribuídos, deverá ser configurado um novo:
+
+[ALTERNATIVAS]
+(A) pod;
+(B) replicaSet;
+(C) service;
+(D) ingress;
+(E) statefulSet.
+
+[GABARITO]
+C

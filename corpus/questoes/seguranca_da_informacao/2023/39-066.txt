@@ -1,0 +1,18 @@
+ID: 39-066
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A rede interna da DPE/RS sofreu o ataque de um malware. Ao fazer a análise do ataque, Luís, analista de segurança da informação, verificou que o malware replicava a si mesmo automaticamente com o objetivo de infectar os outros computadores da rede. O malware que originou esse ataque é um:
+
+[ALTERNATIVAS]
+(A) Vírus;
+(B) Worm;
+(C) Spyware;
+(D) Ransomware;
+(E) Keylogger.
+
+[GABARITO]
+B

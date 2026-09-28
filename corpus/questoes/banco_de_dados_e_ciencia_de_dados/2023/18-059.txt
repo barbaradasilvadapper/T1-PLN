@@ -1,0 +1,18 @@
+ID: 18-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O componente arquitetural de um ambiente de Data Warehouse usado para armazenar temporariamente os dados durante a sua transformação é o(a):
+
+[ALTERNATIVAS]
+(A) log;
+(B) data mining;
+(C) stage area;
+(D) repositório de metadados;
+(E) cubo de dados.
+
+[GABARITO]
+C

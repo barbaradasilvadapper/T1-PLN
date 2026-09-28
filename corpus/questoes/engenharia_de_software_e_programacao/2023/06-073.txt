@@ -1,0 +1,18 @@
+ID: 06-073
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A analista Joelma está desenvolvendo o web service tjapRest utilizando o Spring Boot. Determinadas operações de tjapRest devem ser executadas assincronamente. Para implementar as operações assíncronas de forma simples e direta, Joelma recorreu a duas anotações padrões do Spring. A primeira anotação habilita o suporte do Spring à execução de métodos assíncronos. A segunda anotação marca determinado método como um candidato à execução assíncrona. Joelma recorreu às anotações do Spring:
+
+[ALTERNATIVAS]
+(A) @EnableAsync e @Async;
+(B) @AsyncConfigurer e @Async;
+(C) @EnableAsync e @Asynchronous;
+(D) @AsyncConfigurer e @EnableAsync;
+(E) @AsyncConfigurer e @Asynchronous.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 95-060
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A equipe de análise e desenvolvimento de sistemas do TJRN está implementando uma nova Application Programming Interface (API) com o apoio de ferramentas Swagger. Para explorar a especificação da API de forma visual, a equipe utiliza a ferramenta Swagger, que é capaz de gerar, no próprio navegador web, a documentação visual da API, diretamente do documento de especificação. No entanto, a ferramenta utilizada não permite alterar o documento de especificação. Para explorar visualmente a especificação da API, a equipe utiliza a ferramenta Swagger:
+
+[ALTERNATIVAS]
+(A) UI;
+(B) Core;
+(C) Parser;
+(D) Codegen;
+(E) Inspector.
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 72-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O analista Paulo foi designado gerente de um projeto no TRF1 e, desde o início de suas atividades, teve grandes conflitos com o patrocinador. Devido ao pouco prazo para a execução do contrato e à posição superior do patrocinador, e com intuito de manter com este um bom relacionamento, Paulo tem buscado resolver o conflito. Nesse cenário, tendo como base o Modelo de Conflito previsto no PMBOK 7ª edição, a maneira mais apropriada de Paulo resolver o conflito é:
+
+[ALTERNATIVAS]
+(A) impondo;
+(B) conciliando;
+(C) colaborando;
+(D) afastando e evitando;
+(E) estabilizando e acomodando.
+
+[GABARITO]
+E

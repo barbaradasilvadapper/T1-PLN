@@ -1,0 +1,18 @@
+ID: 14-047
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Método Kanban é uma metodologia de desenvolvimento ágil. Com relação ao Kanban, analise os itens a seguir. I. O método foi projetado para maximizar o impacto inicial das mudanças e reduzir a resistência à adoção das mudanças organizações. Adotar o método deve mudar a cultura da organização e ajudar a torná-la mais madura. II. Quando os analistas implementam o Kanban pela primeira vez eles estão procurando otimizar a criação dos novos processos, alterar a cultura organizacional e substituir os processos existentes por outros que podem fornecer melhorias econômicas dramáticas. III. O Kanban acelera a obtenção dos altos níveis de maturidade organizacional e capacidade em áreas de processo de alta maturidade fundamentais tais como Análise Causal e Resolução e Inovação Organizacional e Implantação. Está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) II e III, apenas.
+(B) I e III, apenas.
+(C) I e II, apenas.
+(D) III, apenas.
+(E) II, apenas.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 56-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Durante a análise de um sistema computacional avançado, o analista Clementino identifica uma falha crítica de desempenho que pode ser atribuída à arquitetura do computador. Ele observa que a falha está relacionada à forma como os diferentes componentes do sistema interagem entre si, afetando diretamente a eficiência do processamento de dados. Com base nos seus conhecimentos sobre a organização e funcionamento dos componentes principais de um computador, sistemas de memória, sistemas de armazenamento e periféricos de entrada e saída, é correto afirmar que a causa raiz do problema identificado por Clementino é o(a):
+
+[ALTERNATIVAS]
+(A) aumento da frequência do processador além do suportado pela placa-mãe, causando superaquecimento e falhas esporádicas no sistema;
+(B) incompatibilidade entre o tipo de memória RAM utilizada e a velocidade máxima suportada pelo controlador de memória do processador, resultando em gargalos de desempenho;
+(C) uso, no SSD, de um sistema de arquivos ineficiente, que não está otimizado para as operações de leitura e escrita aleatórias, reduzindo a velocidade geral do sistema;
+(D) falha na configuração do DMA (Direct Memory Access) para os periféricos de entrada e saída, causando um uso excessivo da CPU para operações de E/S, o que diminui a eficiência do processamento de dados;
+(E) implementação de um algoritmo de criptografia muito complexo que exige capacidade computacional além do que o hardware atual pode fornecer, resultando em atrasos significativos no processamento de dados.
+
+[GABARITO]
+D

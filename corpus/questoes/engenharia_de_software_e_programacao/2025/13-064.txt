@@ -1,0 +1,18 @@
+ID: 13-064
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Durante um processo de contagem de pontos de função de uma aplicação, as telas do sistema foram utilizadas como subsídios. As Figuras 1 e 2 apresentam as telas para cadastro de clientes. Figura 1 Figura 2 Com base na Análise de Pontos de Função, o cadastro apresentado nas Figuras 1 e 2 deve ser contado como:
+
+[ALTERNATIVAS]
+(A) uma Entrada Externa e um Arquivo Lógico Interno;
+(B) uma Entrada Externa e dois Arquivos Lógicos Internos;
+(C) duas Entradas Externas e um Arquivo Lógico Interno;
+(D) duas Entradas Externas e dois Arquivos Lógicos Internos;
+(E) uma Entrada Externa e três Arquivos Lógicos Internos.
+
+[GABARITO]
+A

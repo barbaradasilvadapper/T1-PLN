@@ -1,0 +1,18 @@
+ID: 10-028
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere a seguinte função na linguagem Java: public static int funcao(int x, int y) { if (y == 0) return x; else return funcao(y, x % y); } O retorno da chamada funcao(49, 72) é:
+
+[ALTERNATIVAS]
+(A) 1;
+(B) 2;
+(C) 3;
+(D) 7;
+(E) 9.
+
+[GABARITO]
+A

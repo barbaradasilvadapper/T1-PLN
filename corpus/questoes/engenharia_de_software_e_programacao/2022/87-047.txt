@@ -1,0 +1,18 @@
+ID: 87-047
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código Python a seguir. def xpto(L): return (L[::-1]) A expressão xpto([1,2,3]) retorna:
+
+[ALTERNATIVAS]
+(A) []
+(B) [1]
+(C) [3]
+(D) [1, 2, 3]
+(E) [3, 2, 1]
+
+[GABARITO]
+E

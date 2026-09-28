@@ -1,0 +1,18 @@
+ID: 93-086
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+As práticas de Hardening buscam aprimorar a infraestrutura para enfrentar tentativas de ataques, mapeando ameaças, mitigando riscos e adotando ações corretivas. Com relação ao aprimoramento da segurança da informação, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Na autenticação, é desejável a utilização de senhas com verificação em duas etapas ou duplo fator, com duas escolhas entre: Algo que o usuário sabe!, Algo que o usuário é! e Algo que o usuário possui!. ( ) Na autorização de acesso, cada usuário deve ter permissão para acessar o equipamento de acordo com o seu trabalho e grupo de privilégios, sendo facultado o acesso aos usuários à senha de administrador, para uso eventual. ( ) No acesso, é desejável que se habilite a função Port Knocking nos equipamentos, que implementa método para abrir portas externamente em um firewall, gerando tentativas de conexão em portas fechadas em uma sequência aleatória que, quando reconhecida, resulta na alteração dinâmica das regras do firewall para permitir que a máquina que enviou as tentativas de conexão seja conectada à porta específica.
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) V – V – V.
+(C) F – F – F.
+(D) F – F – V.
+(E) F – V – V.
+
+[GABARITO]
+A

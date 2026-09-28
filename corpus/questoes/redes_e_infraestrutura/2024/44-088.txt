@@ -1,0 +1,18 @@
+ID: 44-088
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de seguranca tce pa
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um administrador de rede deseja instalar um servidor Syslog na rede de sua empresa. Esse servidor será protegido por um dispositivo de segurança do tipo firewall. Durante a configuração desse servidor, o administrador de rede optou por utilizar o protocolo sem necessidade de conexão dentre os protocolos TCP e UDP disponíveis. Com relação ao assunto, avalie as afirmativas a seguir: I. O firewall deverá permitir que os pacotes do tipo UDP com porta de destinado 514 acessem o servidor Syslog. II. O protocolo Syslog possui níveis de severidade de mensagens, que vão de 0 (Emergency) a 7 (Debug). III. O servidor Syslog poderá armazenar mensagens de diversos ativos de rede da empresa.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

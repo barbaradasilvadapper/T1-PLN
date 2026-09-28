@@ -1,0 +1,18 @@
+ID: 92-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Na linguagem de programação HTML 5, o atributo que pode ser incluído no elemento <input> para indicar que o usuário não pode editar o conteúdo deste elemento é:
+
+[ALTERNATIVAS]
+(A) autocomplete=“off”.
+(B) placeholder.
+(C) readonly.
+(D) required.
+(E) size=“0”.
+
+[GABARITO]
+C

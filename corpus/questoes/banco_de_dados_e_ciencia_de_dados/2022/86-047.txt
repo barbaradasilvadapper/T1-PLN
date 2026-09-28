@@ -1,0 +1,18 @@
+ID: 86-047
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere uma tabela T de um banco de dados relacional formada pelas colunas A, B, C e D. ]Sabe-se que as dependências funcionais A → B C → A C → D D → C se verificam para qualquer instância de T. Assinale a declaração de constraints do tipo UNIQUE que deve ser empregada na criação da tabela T de modo que o esquema relacional atenda aos requisitos da Forma Normal Boyce-Codd.
+
+[ALTERNATIVAS]
+(A) CONSTRAINT ... UNIQUE (A, C)
+(B) CONSTRAINT ... UNIQUE (A, C, D)
+(C) CONSTRAINT ... UNIQUE (A, D)
+(D) CONSTRAINT ... UNIQUE (C) CONSTRAINT ... UNIQUE (D)
+(E) CONSTRAINT ... UNIQUE (A) CONSTRAINT ... UNIQUE (C). CONSTRAINT ... UNIQUE (D).
+
+[GABARITO]
+E

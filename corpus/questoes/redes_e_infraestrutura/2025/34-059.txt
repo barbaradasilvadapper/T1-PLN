@@ -1,0 +1,18 @@
+ID: 34-059
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo Ethernet utiliza o método CSMA/CD para controle de acesso ao meio em redes half-duplex. A sigla CD (Collision Detection) refere-se ao mecanismo de
+
+[ALTERNATIVAS]
+(A) criptografia de dados.
+(B) compressão de frames.
+(C) detecção de colisões durante transmissão.
+(D) duplicação de pacotes.
+(E) controle de erros.
+
+[GABARITO]
+C

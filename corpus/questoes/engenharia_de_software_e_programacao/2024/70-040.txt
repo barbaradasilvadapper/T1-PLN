@@ -1,0 +1,18 @@
+ID: 70-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o seguinte trecho de código ainda desenvolvimento Node.js: const express = require('express'); const app = express(); app.get('/users', (req, res) => { }); app.post('/users', (req, res) => { }); app.put('/users/:id', (req, res) => { }); app.delete('/users/:id', (req, res) => { }); app.listen(3000, () => { em console.log('Servidor ON’ ); }); Com base no código acima, assinale a afirmativa incorreta.
+
+[ALTERNATIVAS]
+(A) O trecho de código demonstra a estrutura inicial para a criação de uma API RESTful com Node.js e Express, mas necessita da implementação detalhada das funcionalidades específicas dentro de cada rota.
+(B) O servidor está configurado para ouvir na porta 3000, indicando que as requisições devem ser enviadas para essa porta.
+(C) O código estabelece as rotas básicas para a implementação de um CRUD de usuários em uma aplicação Express, mas ainda não implementou a lógica de negócios para cada operação.
+(D) O trecho de código ilustra a implementação de um sistema de autenticação de usuários, com rotas específicas para login e logout.
+(E) O uso de parâmetros de rota, como em '/users/:id' para as operações PUT e DELETE, indica a intenção de manipular usuários específicos, embora a implementação ainda esteja pendente.
+
+[GABARITO]
+C

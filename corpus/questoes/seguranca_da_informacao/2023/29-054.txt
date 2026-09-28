@@ -1,0 +1,18 @@
+ID: 29-054
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Dentre os métodos mais eficazes utilizados para fornecer segurança da informação, incluem-se a criptografia, a esteganografia e as funções hash. A técnica da esteganografia pode ser descrita como um(a):
+
+[ALTERNATIVAS]
+(A) categoria de algoritmo criptográfico simétrico;
+(B) técnica para decifrar o texto cifrado sem qualquer conhecimento da mensagem original e do algoritmo criptográfico utilizado;
+(C) método utilizado por malwares, transportando códigos escondidos em imagens ou outros tipos de arquivos;
+(D) forma de análise de desempenho dos algoritmos criptográficos;
+(E) método utilizado para esconder a existência da mensagem.
+
+[GABARITO]
+E

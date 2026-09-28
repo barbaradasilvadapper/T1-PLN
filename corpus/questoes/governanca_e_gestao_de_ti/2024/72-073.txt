@@ -1,0 +1,18 @@
+ID: 72-073
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+As contratações de soluções de tecnologia da informação e comunicação (STIC) serão precedidas de planos de contratações de STIC. O plano de contratações de STIC preverá o(a):
+
+[ALTERNATIVAS]
+(A) adequada caracterização da equipe de contratação;
+(B) metodologia de trabalho para a implantação da solução;
+(C) indicação dos recursos orçamentários para seu pagamento;
+(D) alinhamento estratégico com o plano de transformação digital;
+(E) fundamentação legal que permita a contratação do bem ou serviço.
+
+[GABARITO]
+C

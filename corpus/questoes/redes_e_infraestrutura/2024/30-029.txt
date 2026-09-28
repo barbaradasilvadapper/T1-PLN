@@ -1,0 +1,18 @@
+ID: 30-029
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista João está em processo de análise de alternativas para integrar a rede de algumas localidades remotas do Tribunal de Justiça. Durante sua análise da tecnologia e arquitetura de SD-WAN, João descobriu que ela:
+
+[ALTERNATIVAS]
+(A) assim como o MPLS, requer que o acesso das localidades que precisam se integrar pertençam à mesma operadora;
+(B) usa uma função de controle descentralizado para direcionar o tráfego de forma inteligente por meio da WAN;
+(C) pode reduzir os custos de conectividade ao permitir o uso de conexões de internet de menor custo, como banda larga, em vez de depender exclusivamente de links dedicados;
+(D) tem como principal função o isolamento de tráfego, garantindo que o tráfego de aplicativos críticos seja priorizado e protegido contra interferências de outros tipos de tráfego;
+(E) utiliza protocolos complexos, razão pela qual as alterações da topologia da rede convergem mais lentamente.
+
+[GABARITO]
+C

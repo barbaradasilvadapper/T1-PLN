@@ -1,0 +1,18 @@
+ID: 01-055
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o código C# a seguir. using System; namespace MinhaProva { class Exemplo { static void Main(string[] args) { Pessoa Ex = new Pessoa(); Ex.Nome = "Joana"; Console.WriteLine(Ex.Nome); } } } A implementação correta da classe referida no código acima é:
+
+[ALTERNATIVAS]
+(A) namespace MinhaProva { class Exemplo { get { return nome; } set { nome = value; } } } }
+(B) namespace MinhaProva { class Pessoa { get { return nome; } set { nome = value; } } } }
+(C) namespace MinhaProva { class Pessoa { get return nome; set nome = value; } } } }
+(D) namespace MinhaProva { class Pessoa { get() { return nome; } set(string value) { nome = value; } } } }
+(E) namespace MinhaProva { class Pessoa { public get string { return nome; } public set string { nome = value; } } } }
+
+[GABARITO]
+B

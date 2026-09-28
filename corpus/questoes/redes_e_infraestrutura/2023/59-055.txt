@@ -1,0 +1,18 @@
+ID: 59-055
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O administrador de rede de uma empresa deseja realizar a autenticação de dispositivos conectados em um comutador de rede (Switch), elemento da camada enlace de dados do modelo OSI, com auxílio de um servidor de autenticação. O protocolo adequado a esse tipo de operação é:
+
+[ALTERNATIVAS]
+(A) IEEE 802.1q;
+(B) IEEE 802.1p;
+(C) IEEE 802.1x;
+(D) IEEE 802.11b;
+(E) IEEE 802.15.
+
+[GABARITO]
+C

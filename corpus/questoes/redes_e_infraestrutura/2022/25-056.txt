@@ -1,0 +1,18 @@
+ID: 25-056
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A analista Sara modificou alguns arquivos do container Docker TJSiteContainer que se encontra em execução. Para criar uma imagem Docker a partir do estado atual de TJSiteContainer, a fim de persistirem as modificações efetuadas em seus arquivos, Sara deve utilizar o comando:
+
+[ALTERNATIVAS]
+(A) docker create
+(B) docker diff
+(C) docker export
+(D) docker image save
+(E) docker commit
+
+[GABARITO]
+E

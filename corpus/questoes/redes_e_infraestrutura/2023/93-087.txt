@@ -1,0 +1,18 @@
+ID: 93-087
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Serviços mal configurados podem ser utilizados em ataques distribuídos de negação de serviços (DDoS) por amplificação. Avalie se, nesse caso, as seguintes ações podem ser implementadas contra ataques de amplificação. I. Correção das configurações de Servidores DNS recursivos abertos, pois eles aceitam consultas recursivas de modo indiscriminado, de qualquer rede da Internet, na porta 53, utilizando protocolo UTP. II. Correção das configurações de Serviço NetBIOS (137/UDP) desabilitando o recurso chamado NetBIOS sobre TCP/IP (ou NetBIOS over TCP/IP) se ele for desnecessário aos usuários da rede, ou se for imprescindível que se estabeleça limite de acesso a esse serviço apenas para usuários da rede. III. Correção das configurações de Serviço SSDP (Simple Service Discovery Protocol), pois o atacante pode enviar uma requisição forjando o MAC ADRESS da vítima e o servidor com SSDP/UPnP retorna uma resposta exagerada.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II.
+(E) II e III.
+
+[GABARITO]
+B

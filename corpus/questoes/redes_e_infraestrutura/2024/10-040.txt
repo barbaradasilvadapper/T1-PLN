@@ -1,0 +1,18 @@
+ID: 10-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista José administra o Docker Swarm do TJMS. José adicionou ao Swarm um novo elemento, do tipo declarativo, que especifica uma determinada imagem de container e os comandos que devem ser executados ao instanciar a imagem. José adicionou ao Swarm um novo:
+
+[ALTERNATIVAS]
+(A) env;
+(B) task;
+(C) node;
+(D) replica;
+(E) service.
+
+[GABARITO]
+E

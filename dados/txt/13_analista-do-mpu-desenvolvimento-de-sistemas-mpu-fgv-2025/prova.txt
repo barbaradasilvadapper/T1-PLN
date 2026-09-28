@@ -1,0 +1,1847 @@
+SUA PROVA
+Além deste caderno de provas contendo 80 questões
+objetivas e uma redação, você receberá do fiscal de
+sala:
+•
+uma folha de respostas das questões objetivas
+•
+um caderno de textos
+transcrição da redação
+definitivos
+para
+a
+TEMPO
+•
+4 horas e 30 minutos é o período disponível
+para a realização da prova, já incluído o tempo
+para a marcação das alternativas na folha de
+respostas da prova objetiva e para a transcrição
+da redação para o caderno de textos definitivos
+•
+3 horas após o início da prova, é possível
+retirar-se da sala, sem levar o caderno de provas
+• 30 minutos antes do término do período de
+prova, é possível retirar-se da sala levando o
+caderno de provas
+NÃO SERÁ PERMITIDO
+•
+Qualquer tipo de comunicação entre os candidatos
+durante a aplicação da prova
+•
+Usar o sanitário ao término da prova, após deixar
+a sala
+•
+Anotar informações relativas às respostas em
+qualquer outro meio que não seja este caderno de
+provas
+•
+Assinar ou rubricar o caderno de textos definitivos
+nem fazer qualquer marca que identifique o
+candidato, sob pena de anulação e automática
+eliminação do concurso
+MINISTÉRIO PÚBLICO
+DA UNIÃO
+MANHÃ
+INFORMAÇÕES GERAIS
+•
+As questões objetivas têm cinco alternativas de
+resposta (A, B, C, D, E) e somente uma delas está
+correta
+•
+Verifique se este caderno de provas está completo e
+sem falhas de impressão. Caso contrário, notifique
+imediatamente o fiscal da sala, para que sejam
+tomadas as devidas providências
+•
+Na folha de respostas das questões objetivas e no
+caderno de textos definitivos da questão discursiva,
+confira seus dados pessoais, especialmente nome,
+número de inscrição e documento de identidade, e
+leia atentamente as instruções para preenchimento
+•
+Use somente caneta esferográfica, fabricada em
+material transparente, com tinta preta ou azul
+•
+Assine seu nome apenas nos espaços reservados
+na folha de respostas e no caderno de textos
+definitivos
+•
+Confira o cargo, a cor e o tipo do seu caderno de
+provas. Caso tenha recebido caderno de provas com
+cargo, cor ou tipo diferente do impresso em sua folha
+de respostas e/ou em seu caderno de textos
+definitivos, o fiscal deve ser obrigatoriamente
+informado para o devido registro na ata da sala
+•
+O preenchimento da folha de respostas e do caderno
+de textos definitivos é de sua responsabilidade e, em
+caso de erro, não será permitida a sua substituição
+•
+Para fins de avaliação, serão levadas em consideração
+apenas as marcações realizadas na folha de respostas
+e as transcrições no caderno de textos definitivos
+•
+Os candidatos serão submetidos ao sistema de
+detecção de metais quando do ingresso e da saída de
+sanitários durante a realização das provas
+Boa sorte!
+A06 - A NALISTA DO MPU - D ESENVOLVIMENTO DE
+S ISTEMAS
+P ROVA O BJETIVA E P ROVA D ISCURSIVA – N ÍVEL S UPERIOR
+T IPO 1 – B RANCA
+
+
+
+Ministério Público da União
+PROVA OBJETIVA
+MÓDULO I
+Língua Portuguesa
+1
+Leia o texto abaixo:
+“O problema em matéria de audição vem do fato de que o
+cérebro é um órgão muito rápido e que se pensa muito mais
+depressa do que se fala. Assim que escutamos uma pessoa,
+solicitamos ao cérebro que trabalhe muito mais lentamente em
+comparação com sua capacidade. Entretanto, não chegamos
+realmente a reduzir a velocidade do cérebro; enquanto
+registramos as palavras transmitidas pelo emissor, o cérebro
+continua a tratar as centenas de palavras e a fazer associações de
+ideias. Em outros termos, quando escutamos, nos resta algum
+tempo livre para pensar. É o emprego desse tempo livre que
+torna a escuta boa ou má”.
+Levando em consideração que o conteúdo temático do texto é de
+difícil acesso pelo leitor comum, o processo utilizado para tornar
+esse conteúdo mais claro foi:
+(A) indicar a estruturação do texto no início da leitura;
+(B) acrescentar exemplos práticos ao texto;
+(C) reformular as informações já dadas;
+(D) utilizar sinônimos mais comuns para termos difíceis;
+(E) repetir informações com os mesmos termos.
+2
+Todas as frases abaixo contêm pleonasmos, ou seja, repetições
+desnecessárias de palavras, que foram modificadas na reescritura
+dessas frases.
+A frase em que o processo de reescrituração NÃO elimina o
+pleonasmo original é:
+(A) Tenho o desejo de rever de novo o filme O Protetor 2 / Tenho
+o desejo de ver de novo o filme O Protetor 2;
+(B) Segundo ele, ele crê que esse vocábulo é um neologismo / Ele
+crê que esse vocábulo é um neologismo;
+(C) Os alunos dessa turma mutuamente se ajudam / Os alunos
+dessa turma se ajudam;
+(D) Os exterminadores de insetos eliminaram completamente as
+pulgas dos cães / Os exterminadores eliminaram
+completamente as pulgas dos cães;
+(E) Analisaram a situação e depois, em seguida, propuseram
+soluções / Analisaram a situação; em seguida propuseram
+soluções.
+3
+Observe a seguinte frase:
+“Ele ficou esgotado porque correu muito”.
+A maneira de reescrevê-la que modifica o seu sentido original é:
+(A) Se ele correu muito, ficou esgotado;
+(B) Ele sentiu-se esgotado por ter corrido muito;
+(C) Já que correu muito, sentiu-se esgotado;
+(D) Porque correu muito, ficou esgotado;
+(E) Seu esgotamento ocorreu por ter corrido muito.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+4
+Todas as frases abaixo empregaram processos para evitar-se a
+repetição de termos idênticos.
+A frase em que o processo usado foi a utilização de um termo de
+sentido mais geral (hiperônimo) é:
+(A) Meus alunos estudaram bastante e, por isso, eles merecem
+uma recompensa;
+(B) Entrou na avenida batendo tambor, mas o instrumento não
+resistiu por muito tempo;
+(C) Arrumando os discos, decidi vender aqueles que eu não
+escuto mais;
+(D) O proprietário do imóvel reuniu os inquilinos e, após alguns
+minutos, esse grande orador nos convenceu do aumento;
+(E) Traga suas fotografias para que eu as possa ver; as minhas
+fotos eu mostro depois.
+5
+Em todas as frases abaixo, há termos de ligação sublinhados.
+A frase em que esse termo se refere à estrutura do texto e não a
+fatos reais é:
+(A) Cheguei atrasado ao trabalho e, por causa disso, fui multado
+em 10% dos meus vencimentos;
+(B) À proporção que leio o livro, mais me apaixono pela figura
+humana de Van Gogh;
+(C) Logo após o relato de sua doença, o personagem
+interrompeu a narrativa por vários dias;
+(D) Os estudantes ficaram tão chateados com os resultados da
+prova, que decidiram fazer uma greve;
+(E) Os alunos leram os livros encomendados pelo mestre, mas
+alguns deles não apreciaram a tarefa.
+6
+Em todas as frases abaixo, as orações adjetivas sublinhadas foram
+substituídas por termos de sentido equivalente.
+A única substituição que mostra um termo equivalente de
+sentido diferente do que se mostra na oração sublinhada é:
+(A) O secretário tem um caráter que muda frequentemente /
+instável;
+(B) Ele mostra um tipo de risada que se comunica facilmente /
+estridente;
+(C) Era um político que sabia tirar partido das circunstâncias /
+esperto;
+(D) Era um homem que mantinha sua palavra / honrado;
+(E) Eles tinham prestado ajuda a uma população que morria de
+fome / faminta.
+7
+As frases abaixo mostram uma palavra sublinhada para a qual se
+apresenta um substituto entre parênteses.
+A frase em que o novo termo assinala uma progressão
+ascendente de significação é:
+(A) Picasso era um pintor talentoso (genial);
+(B) Um conflito (diferença) opõe patrões e empregados;
+(C) Foram feitos progressos notáveis (apreciáveis);
+(D) O conferencista falava de forma polida (delicada);
+(E) Seus termos foram grosseiros (vulgares).
+Tipo 1 – Branca – Página 3
+
+Ministério Público da União
+8
+A definição de um vocábulo deve respeitar a natureza do
+vocábulo.
+Entre as definições abaixo, aquela que procede desse modo,
+tornando-se uma definição válida, é:
+(A) refutação: destruir por argumentos sólidos as afirmações de
+outrem;
+(B) molestar: quando se provoca violência a alguém;
+(C) indolente: deixar de trabalhar, ficar passivo;
+(D) sucintamente: expressar-se em poucas palavras;
+(E) correto: aquele que age com correção.
+9
+Observe o seguinte texto:
+“Nem sempre os ditados populares dão aulas positivas; como
+dizia Millôr Fernandes, ‘Devagar se vai ao longe, mas quando se
+chega lá, não se encontra mais ninguém’”.
+Nesse texto, a citação tem a função de:
+(A) participar a descoberta de um texto que traz prazer;
+(B) fazer progredir culturalmente um texto;
+(C) dar a conhecer uma opinião diversa da do autor;
+(D) indicar algo que apoia a ideia do texto;
+(E) fornecer um exemplo típico do estilo de um autor.
+10
+Observe a seguinte frase: “Dá-lhes o dinheiro necessário!”.
+A única frase abaixo em que houve uma forma adequada de
+apassivação dessa frase é:
+(A) Que lhes seja dado o dinheiro necessário;
+(B) Dá-se-lhes o dinheiro necessário;
+(C) O dinheiro necessário lhes será dado;
+(D) Tem-lhes dado o dinheiro necessário;
+(E) O dinheiro necessário lhes teria sido dado.
+11
+Todas as frases abaixo mostram solicitações ou conselhos de
+forma direta ou indireta.
+A frase que mostra uma forma indireta é:
+(A) Você aceita uma sobremesa?
+(B) Proíbo você de continuar com essa história;
+(C) Aconselho a todos a leitura de Guimarães Rosa;
+(D) Eu te peço para comprares a casa;
+(E) Se seu pai venceu na vida, ele trabalhou muito!
+12
+Na frase “Infelizmente, meu amigo se esqueceu de dar o aviso da
+entrevista para o pobre Marcelo”, cruzam-se duas funções de
+linguagem, que são:
+(A) referencial e fática;
+(B) conativa e metalinguística;
+(C) metalinguística e referencial;
+(D) emotiva e conativa;
+(E) fática e emotiva.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+13
+A frase abaixo que mostra uma forma verbal inaceitável em
+relação à norma culta da língua portuguesa é:
+(A) Se você requerer o diploma, ele lhe será dado;
+(B) Se você dispuser de dinheiro, tudo fica mais fácil;
+(C) Se você vir o filme, vai ficar contente;
+(D) Se você intervier na discussão, ela termina;
+(E) Se você dizer a verdade, será melhor para todos.
+14
+Compare as duas frases abaixo:
+- Dê-me aquela caixa.
+- Me dá aquela caixa.
+A segunda frase mostra o seguinte efeito em relação à primeira:
+(A) atenuação do valor de formalidade;
+(B) ênfase na ideia de ordem;
+(C) supressão da polidez;
+(D) suavização da ideia de pedido;
+(E) realce da ideia de tempo presente.
+15
+Observe a seguinte frase:
+“Não cheguei a assistir o início do show no final de ano”.
+A frase abaixo em que o verbo “assistir” é empregado no mesmo
+sentido que mostra na frase acima é:
+(A) Não assiste a você o dever de estar presente;
+(B) O professor deve assistir a todos os alunos;
+(C) O avô sempre foi assistido por todos os netos;
+(D) Não se pode assistir parado a uma agressão dessas;
+(E) O médico lhe assistiu nos últimos momentos.
+Tipo 1 – Branca – Página 4
+
+Ministério Público da União
+Noções de Sustentabilidade
+16
+A Constituição Federal trouxe um rico capítulo dispondo sobre a
+proteção ao meio ambiente para as presentes e futuras gerações,
+estabelecendo que todos têm direito a um meio ambiente
+ecologicamente equilibrado.
+Em relação aos princípios, normas e regras estabelecidos no Art.
+225 da Constituição Federal sobre Meio Ambiente, é correto
+afirmar que:
+(A) será inferior à dos combustíveis fósseis e de hidrelétricas o
+regime fiscal para os biocombustíveis, tecnologias de baixo
+carbono e para o hidrogênio verde para garantir diferenciais
+competitivos, especialmente em relação às contribuições
+parafiscais;
+(B) são consideradas cruéis as práticas desportivas que utilizem
+animais, ainda que sejam manifestações culturais registradas
+como bens de natureza imaterial integrantes do patrimônio
+cultural brasileiro e que assegurem o bem-estar dos animais
+envolvidos;
+(C) são patrimônio nacional os biomas da floresta amazônica
+brasileira, da mata atlântica, caatinga, pampas sulinos, serra
+do mar e o pantanal mato-grossense, e sua utilização far-se-á
+na forma de lei complementar, inclusive quanto ao uso dos
+recursos naturais;
+(D) incumbe ao poder público e à coletividade o dever de
+preservar e manter os processos ecológicos essenciais
+naturais e promover o manejo ecológico das espécies
+endêmicas e exóticas dos ecossistemas;
+(E) incumbe ao poder público definir os espaços territoriais e
+seus componentes a serem especialmente protegidos, sendo
+a alteração e a supressão permitidas apenas por meio de lei,
+vedada qualquer utilização que comprometa a integridade
+dos atributos que justificam sua proteção.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+17
+A Agenda Ambiental na Administração Pública (A3P) é um
+programa do Ministério do Meio Ambiente e Mudança do Clima
+que objetiva estimular as instituições públicas do país a
+implementarem práticas de sustentabilidade. O programa se
+destina às instituições públicas das três esferas (federal, estadual
+e municipal) e dos três poderes da República (executivo,
+legislativo e judiciário).
+Nesse contexto, é correto afirmar que:
+(A) essa agenda é de adesão compulsória e possibilita que a
+instituição parceira, por meio de organizações sociais,
+promova a preservação e conservação do meio ambiente, ao
+mesmo tempo em que otimiza a utilização dos recursos
+públicos em detrimento de outras áreas;
+(B) o programa está estruturado em seis eixos temáticos: uso
+racional dos recursos naturais e bens públicos; gestão de
+resíduos gerados; qualidade de vida no ambiente de trabalho;
+sensibilização e capacitação dos servidores; compras públicas
+sustentáveis; e construções sustentáveis;
+(C) o acesso a esse serviço, não reconhecido pela Unesco, ocorre
+por meio de assinatura do Termo de Adesão à A3P, que
+possui duração de cinco anos, sendo que, ao término da
+vigência da adesão, não é possível realizar nova adesão, de
+modo que ela está limitada a um único período;
+(D) o Ministério Público, durante os cinco anos de vigência da
+adesão, acompanhará as ações implementadas pelo órgão
+parceiro, prestando o assessoramento técnico necessário
+para o atingimento dos objetivos pactuados em plano de
+trabalho e corrigindo eventuais falhas;
+(E) os usuários serão atendidos consoante seu grau de prioridade
+e preferência, obedecidas as diretrizes de eficiência,
+celeridade, urbanidade e ética, de forma remota, inexistindo
+a possibilidade de atendimento presencial nesse programa.
+Tipo 1 – Branca – Página 5
+
+Ministério Público da União
+18
+As mudanças climáticas estão cada vez mais presentes em
+eventos recentes como as enchentes do Rio Grande do Sul ou os
+incêndios em Los Angeles. Nesse contexto, a partir da Convenção
+das Nações Unidas sobre Mudanças Climáticas, que procura
+estabilizar as concentrações de gases de efeito estufa, cada país
+está estabelecendo sua própria política pública interna. No Brasil,
+trata-se da Política Nacional sobre Mudança do Clima - PNMC
+(Lei nº 12.187/2009).
+Sobre a Lei nº 12.187/2009, é correto afirmar que a PNMC:
+(A) busca a promoção e o desenvolvimento nacional de
+pesquisas científico-tecnológicas, bem como a difusão de
+tecnologias, processos e práticas orientados a mitigar a
+mudança do clima por meio de sumidouros de gases de efeito
+estufa implantados pelo poder público, adotando as medidas
+de
+adaptação
+possíveis,
+independentemente
+de
+vulnerabilidades e do setor produtivo;
+(B) e as ações dela decorrentes, executadas sob a
+responsabilidade dos entes políticos e dos órgãos da
+administração pública, observarão os princípios da
+precaução, da prevenção, da participação cidadã, do
+desenvolvimento sustentável e o das responsabilidades
+comuns, porém diferenciadas, este último no âmbito
+internacional;
+(C) tem por finalidade o desenvolvimento econômico com a
+possível proteção do sistema climático, com redução das
+emissões naturais de gases de efeito estufa em relação às
+suas
+diferentes
+fontes,
+independentemente
+de
+fortalecimento das remoções antrópicas por sumidouros de
+gases de efeito estufa no território nacional;
+(D) estabelece que a adaptação necessária do contexto
+socioeconômico deverá ser sustentável, independentemente
+das comunidades afetadas, buscando segurança energética a
+partir de combustíveis fósseis e complementariedade de
+energias renováveis, de modo a compatibilizar e otimizar a
+produção do país em mesma proporção gradativamente;
+(E) tem como diretriz os compromissos assumidos pelo Brasil no
+Protocolo de Quioto para obter as ações de mitigação da
+mudança do clima em detrimento do desenvolvimento
+sustentável, com as medidas de adaptação para equalização
+dos efeitos adversos das mudanças e estabilidade do sistema
+ambiental e econômico.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+19
+A divisão de atribuições e as modalidades de cooperação entre os
+entes federativos foram regulamentadas por meio da Lei
+Complementar (LC) nº 140/2011, que estabeleceu importantes
+novas regras. Com efeito, o federalismo cooperativo finalmente
+tem, nos instrumentos de cooperação e colaboração,
+ferramentas relevantes para a proteção ambiental no país.
+Diante do exposto, é correto afirmar que:
+(A) o ente federativo poderá delegar, mediante convênio, a
+execução de ações administrativas, desde que o ente
+destinatário da delegação disponha de órgão ambiental
+capacitado a executar as ações administrativas a serem
+delegadas e de conselho de meio ambiente;
+(B) a LC nº 140/2011 não reconhece os fundos privados e outros
+instrumentos econômicos como formas de cooperação, para
+fins específicos dessa política pública, mas apenas os fundos
+públicos, embora ela preveja instrumentos como convênios,
+acordos de cooperação e consórcios públicos;
+(C) a cooperação entre os entes federados implica a autorização
+legal para que qualquer um deles lavre auto de infração
+ambiental e instaure processo administrativo em face de
+empreendimentos licenciados e, concomitantemente, apure
+as penalidades cabíveis de forma ampla e indistinta;
+(D) a atuação subsidiária consiste em ação do ente da federação
+que se substitui ao ente federativo original e a atuação
+supletiva consiste na ação do ente federado que visa a
+auxiliar no desempenho das atribuições comuns, quando
+solicitado pelo ente federativo original;
+(E) os instrumentos de cooperação são hierarquizados, sendo as
+duas formas de delegação (de atribuições de execução de
+ações) prioritárias nessa política ambiental, e as demais
+formas, como consórcios, participações públicas, audiências
+públicas e fundos públicos, instrumentos ordinários de
+cooperação previstos nessa legislação.
+Tipo 1 – Branca – Página 6
+
+Ministério Público da União
+20
+Os espaços especialmente protegidos, além do Código Florestal,
+possuem o Sistema Nacional de Unidades de Conservação (SNUC)
+como uma política pública das mais relevantes para essa
+finalidade. A divisão de Unidades de Conservação de Proteção
+Integral e de Uso Sustentável é construída a partir de uma lógica
+e perspectiva dos atributos que são necessários conservar.
+Desse modo, analise as afirmativas a seguir, considerando V para
+a(s) verdadeira(s) e F para a(s) falsa(s).
+I. Embora as unidades de proteção integral tenham como
+objetivo básico a manutenção dos ecossistemas livres de
+alterações causadas por interferência humana, admitindo,
+como regra, apenas o uso indireto dos seus atributos
+naturais, podem, conforme o caso, ser de uso direto, como,
+por exemplo, o monumento natural.
+II. A criação de unidades de conservação é feita por ato do
+poder público, precedida de estudos técnicos e de consulta
+pública, que permitam identificar a localização, a dimensão e
+os limites mais adequados para a unidade, sendo que o
+subsolo e o espaço aéreo, sempre que influírem na
+estabilidade do ecossistema, integram os limites da unidade.
+III. A área das unidades de conservação pode ser considerada
+tanto área rural quanto área urbana, conforme o caso, mas
+sua zona de amortecimento é, em regra, área urbana, sendo
+que sua redução de limites pode ser feita por ato do poder
+público, publicado em Diário Oficial, devidamente motivado,
+quando necessário.
+A sequência correta é:
+(A) V, V, V;
+(B) F, F, F;
+(C) V, F, V;
+(D) V, V, F;
+(E) F, V, V.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+Noções de Direitos Humanos e
+Fundamentais e de Acessibilidade
+21
+Por ser tema de legítimo interesse internacional, a proteção dos
+direitos humanos não é reduzida ao domínio reservado do
+Estado, ou seja, não se restringe à competência nacional
+exclusiva ou à jurisdição doméstica exclusiva. Contudo, há
+especificidades no tratamento dos tratados internacionais de
+proteção dos direitos humanos no ordenamento jurídico
+brasileiro, que ocorrem de acordo com as regras previstas na
+Constituição Federal de 1988.
+Sobre o tema, analise as afirmativas a seguir, à luz da
+Constituição Federal e da doutrina majoritária.
+I. Compete privativamente ao presidente da República
+promulgar um ato internacional, depois de devidamente
+ratificado, para que este seja incorporado à legislação
+interna.
+II. No Direito brasileiro vigora um sistema misto, pois, a partir da
+Emenda Constitucional nº 45/2004, a Constituição Federal
+passou a contar com um rito especial para aprovação dos
+tratados internacionais que versam sobre direitos humanos.
+III. Os tratados internacionais sobre direitos humanos que forem
+aprovados por dois quintos dos votos dos membros de cada
+Casa do Congresso Nacional, em dois turnos de votação,
+serão equivalentes às emendas constitucionais.
+IV. Nas hipóteses de grave violação de direitos humanos, o
+procurador-geral da República, com a finalidade de assegurar
+o cumprimento de obrigações decorrentes de tratados
+internacionais de direitos humanos dos quais o Brasil seja
+parte, poderá suscitar, perante o Supremo Tribunal Federal,
+em qualquer fase do inquérito ou processo, incidente de
+deslocamento de competência para a Justiça Federal.
+Está correto o que se afirma em:
+(A) I e IV, apenas;
+(B) III e IV, apenas;
+(C) I, II e III, apenas;
+(D) I, II e IV, apenas;
+(E) I, II, III e IV.
+Tipo 1 – Branca – Página 7
+
+Ministério Público da União
+22
+Determinado estado brasileiro, ao criar lei que dispõe sobre a
+prioridade de vaga em escola pública para pessoas com
+deficiência, estabeleceu: (a) o conceito de pessoas com
+deficiência como aquelas que necessitam de assistência especial,
+decorrentes de problemas visuais, auditivos, mentais, motores,
+ou má formação congênita; (b) a caracterização do impedimento
+de longo prazo exclusivamente por laudo médico; e (c) a exclusão
+de escolas sem infraestrutura adequada do propósito de ensino
+inclusivo para pessoas com deficiência.
+Considerando a situação hipotética relatada, analise os itens a
+seguir de acordo com o Estatuto da Pessoa com Deficiência e
+demais legislações pertinentes, em conformidade com a
+jurisprudência do Supremo Tribunal Federal.
+I. A verificação da deficiência restrita a laudo médico-hospitalar
+contraria o Estatuto da Pessoa com Deficiência, segundo o
+qual a avaliação da deficiência, quando necessária, será
+biopsicossocial, realizada por equipe multiprofissional e
+interdisciplinar.
+II. O Estatuto da Pessoa com Deficiência define pessoa com
+deficiência como aquela que tem impedimento de natureza
+física ou intelectual, o qual, em interação com uma ou mais
+barreiras, pode obstruir sua participação na sociedade em
+igualdade de condições com as demais pessoas.
+III. Há possibilidade de o Estado trazer um conceito distinto e
+mais restrito de pessoa com deficiência com o fim de
+assegurar prioridade para vagas em escolas públicas próximas
+à residência.
+IV. Havendo uma conceituação constitucional para pessoa com
+deficiência, não cabe à lei estadual restringi-la, reduzindo o
+grupo de destinatários da proteção.
+V. Sobre a não obrigatoriedade do recebimento de estudantes
+com deficiência em instituições de ensino consideradas
+despreparadas, a lei pode excluir peremptoriamente tais
+unidades de ensino do dever de prestar a educação inclusiva.
+Está correto o que se afirma em:
+(A) I e III, apenas;
+(B) I e IV, apenas;
+(C) II e IV, apenas;
+(D) I, II, III e IV, apenas;
+(E) I, II, III, IV e V.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+23
+Na exposição de motivos que acompanhou a proposta legislativa
+da Lei nº 12.990/2014, que regulamenta a reserva de 20% das
+vagas oferecidas em concursos públicos federais para candidatos
+negros, constou que o seu objetivo era o de regulamentar o
+Art. 39 do Estatuto da Igualdade Racial (Lei nº 12.288/2010). O
+Estatuto determina ações capazes de proporcionar um
+tratamento mais isonômico entre as populações negra e branca.
+Sobre o tema, é correto afirmar que:
+(A) a Lei nº 12.990/2014 não estabelece regras que visam a
+instituir mecanismos compensatórios que se traduzem em
+ações afirmativas a serem implementadas pelo poder público,
+embora prescreva normas destinadas a assegurar às pessoas
+negras a reserva de 20% das vagas em concursos públicos;
+(B) o Estatuto da Igualdade Racial conceitua como desigualdade
+racial toda distinção, exclusão, restrição ou preferência
+baseada em raça, cor, ascendência ou origem nacional ou
+étnica que tenha por objeto anular ou restringir o
+reconhecimento, gozo ou exercício, em igualdade de
+condições, de direitos humanos e liberdades fundamentais
+nos campos político, econômico, social, cultural ou em
+qualquer outro campo da vida pública ou privada;
+(C) classificam-se como ações afirmativas apenas os programas e
+medidas especiais adotados pela iniciativa privada para a
+correção das desigualdades raciais e para a promoção da
+igualdade de oportunidades; já os programas adotados pelo
+Estado são classificados como políticas públicas;
+(D) o Estatuto da Igualdade Racial estabelece que o poder público
+promoverá ações que assegurem a igualdade de
+oportunidades no mercado de trabalho para a população
+negra, inclusive mediante a implementação de medidas
+visando à promoção da igualdade nas contratações do setor
+público e ao incentivo à adoção de medidas similares nas
+empresas e organizações privadas;
+(E) o Poder Executivo federal, de acordo com o que estabelece o
+Estatuto da Igualdade Racial, deverá implementar critérios
+para provimento de cargos em comissão e funções de
+confiança destinados a ampliar a participação de negros,
+buscando reproduzir a estrutura da distribuição étnica
+nacional ou, quando for o caso, estadual, observados os
+dados demográficos oficiais.
+Tipo 1 – Branca – Página 8
+
+Ministério Público da União
+24
+No dia 8 de março de 2023, foi publicado o Decreto nº 11.430, que
+dispõe sobre ações de equidade entre mulheres e homens no
+ambiente de trabalho como critério de desempate em licitações,
+criando uma cota para mulheres, neste caso, vítimas de violência,
+em contratos da Administração Pública federal. No Supremo
+Tribunal Federal, tramitam Ações Diretas de Inconstitucionalidade
+(ADIs) contra leis estaduais que estabelecem percentuais para o
+ingresso de mulheres na Polícia Militar e no Corpo de Bombeiros
+por concurso público.
+Num panorama geral, no que se refere à inserção das mulheres
+no mercado de trabalho, é correto afirmar que:
+(A) o Estado Democrático de Direito brasileiro, ao reconhecer, na
+Constituição Federal e nas leis, a igualdade formal entre
+homens e mulheres, potencializa a igualdade material, que é
+aquela prevista em lei ao dispor que todos são iguais perante
+a lei;
+(B) critérios diferenciados em concursos públicos para o ingresso
+em cargos e funções públicas não são admitidos, ainda que se
+fale em exigências específicas relacionadas à natureza do
+cargo;
+(C) o Poder Legislativo pode erigir condição de admissão no
+sentido de estabelecer percentuais para o ingresso de
+mulheres em concursos públicos, já que a Constituição
+Federal prevê que os cargos públicos são acessíveis “na forma
+da lei”;
+(D) a Constituição Federal proíbe, especificamente no que diz
+respeito às relações de trabalho, a diferenciação de critério
+de admissão por motivo de sexo, preceito extensível à
+admissão no serviço público por expressa disposição
+constitucional;
+(E) as normas delegam à Administração um espaço de
+discricionariedade que permite restrições à participação das
+mulheres nos certames sem que isso configure violação a
+dispositivos constitucionais pelas leis estaduais.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+25
+A Convenção Americana de Direitos Humanos, também
+denominada Pacto de São José da Costa Rica, é o instrumento
+mais importante de efetivação dos direitos humanos do sistema
+interamericano. O documento instituiu o denominado Sistema
+Interamericano de Direitos Humanos (SIDH), composto por dois
+órgãos principais: a Comissão Interamericana de Direitos
+Humanos (CIDH) e a Corte Interamericana de Direitos Humanos
+(Corte IDH).
+Acerca dos mecanismos de implementação do Pacto de São José
+da Costa Rica, é correto afirmar que:
+(A) o Estado signatário do Pacto de São José da Costa Rica pode
+ratificar a Convenção Americana de Direitos Humanos e não
+reconhecer a jurisdição contenciosa da Corte Internacional de
+Direitos Humanos, já que tal reconhecimento é cláusula
+facultativa da Convenção;
+(B) o Brasil é Estado-Parte da Convenção desde 1992 e, em 2002,
+reconheceu a competência contenciosa da Corte
+Interamericana de Direitos Humanos;
+(C) o reconhecimento da jurisdição contenciosa da Corte
+Internacional de Direitos Humanos é obrigatório e feito por
+declaração específica para todo e qualquer caso, e não
+somente para determinado caso específico;
+(D) a Corte Interamericana de Direitos Humanos é composta por
+nove juízes, cuja escolha é feita pelos Estados-Parte da
+Convenção, em sessão da Assembleia Geral da OEA, de uma
+lista de candidatos propostos pelos mesmos Estados;
+(E) as vítimas, assim como os Estados-Parte, podem submeter
+casos diretamente à Corte, sem que haja necessidade de
+apresentar suas alegações à Comissão Interamericana de
+Direitos Humanos.
+Noções de Administração Pública
+26
+Em uma fundação, a avaliação de desempenho dos gestores
+contempla os seguintes quesitos: capacidade de desenvolver
+rede de relacionamentos e troca de informações com instituições
+externas relevantes; capacidade de obter e analisar informações
+relevantes sobre a organização e o ambiente externo; e
+capacidade de adaptar a equipe a processos de mudança.
+Esses quesitos da avaliação de desempenho dos gestores estão
+relacionados, respectivamente, aos seguintes papéis do
+administrador:
+(A) porta-voz; monitor; líder;
+(B) ligação; monitor; símbolo;
+(C) símbolo; empreendedor; líder;
+(D) ligação; monitor; solucionador de conflitos;
+(E) ligação; empreendedor; solucionador de conflitos.
+Tipo 1 – Branca – Página 9
+
+Ministério Público da União
+27
+André é o gestor responsável por conduzir melhorias no processo
+de contas a pagar da organização em que trabalha. Já foram
+levantados os diversos problemas e identificadas suas causas.
+Agora, André quer estabelecer a ordem de prioridade das ações
+de melhoria no processo, considerando: os impactos dos
+diferentes problemas sobre as pessoas e os resultados; o
+potencial de agravamento dos diferentes problemas caso não
+sejam resolvidos; e a urgência na solução de cada problema.
+Para auxiliá-lo nessa tarefa, André deve fazer uso da seguinte
+ferramenta:
+(A) 5W2H;
+(B) matriz GUT;
+(C) diagrama de Gantt;
+(D) diagrama de Pareto;
+(E) diagrama de Ishikawa.
+28
+Júlia foi promovida e assumiu recentemente a liderança da
+equipe em que trabalha há cinco anos. A promoção não foi muito
+bem aceita pelos demais membros da equipe, que julgam que ela
+não seria a pessoa com o perfil mais adequado para a função.
+Júlia está preocupada com a situação, porque sabe que terá
+pouca autonomia para reconhecer ou punir os membros da
+equipe. A equipe é composta por seis profissionais experientes e
+bem capacitados que apresentam forte motivação para o
+desempenho de suas atribuições. Apoiando-se na teoria da
+liderança situacional de Hersey e Blanchard, Júlia avalia que a
+equipe se encontra no nível de prontidão “4”.
+Considerando que essa avaliação está correta, a teoria da
+liderança situacional de Hersey e Blanchard aponta que, nessas
+condições, o estilo mais eficaz de liderança é o:
+(A) diretivo;
+(B) realizador;
+(C) persuasivo;
+(D) participativo;
+(E) delegador.
+29
+Uma determinada organização pública da área de saúde tem sua
+estrutura dividida por funções, contemplando, assim, um
+departamento de apoio administrativo, um departamento de
+ensino e pesquisa e um departamento de atenção à saúde.
+Esse tipo de departamentalização tem como vantagem e
+desvantagem, respectivamente:
+(A) facilitar o atendimento das necessidades do usuário em suas
+particularidades; gerar sobreposições;
+(B) obter maior proveito de especializações e economia de
+escala, mesmo diante de conflitos; reduzir a visão integral;
+(C) otimizar uso de recursos humanos, financeiros e materiais
+com prazos limitados; causar alta rotatividade em
+contratações temporárias;
+(D) permitir a instalação de unidades próximas aos usuários,
+matérias-primas e canais de escoamento; ocasionar
+duplicidades e aumentos de custos;
+(E) promover a descentralização e facilitar controles e inovação;
+apresentar custos administrativos elevados e baixa sinergia
+entre departamentos.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+30
+Teotônio, procurador da República do Ministério Público Federal,
+é incumbido de averiguar se Mervaldo, pessoa de interesse em
+investigação criminal, responde a inquérito civil por ato de
+improbidade administrativa perante o Ministério Público do Rio
+de Janeiro.
+Nesse caso, à luz da Resolução CNMP nº 276/2023, visando à
+obtenção de subsídios para a tomada de decisão, Teotônio
+poderá:
+(A) consultar a Base de Dados do Ministério Público, que
+retornará informações gerais que constem de processos em
+qualquer unidade do Ministério Público, sigilosos ou não;
+(B) consultar a Base de Dados do Ministério Público, que
+retornará informações gerais que constem de processos em
+qualquer unidade do Ministério Público, desde que não
+sigilosos;
+(C) consultar o Catálogo de Dados do Ministério Público, que
+retornará informações gerais que constem de processos em
+qualquer unidade do Ministério Público, desde que não
+sigilosos;
+(D) requisitar as informações por ofício eletrônico pela Rede
+Nacional de Inovação Digital do Ministério Público, a fim de
+que a unidade consultada autorize a disponibilização das
+informações gerais que constem de processos ali existentes,
+sigilosos ou não;
+(E) requisitar as informações pela Plataforma MP Digital, mas,
+como o processo tramita perante unidade diversa da sua, o
+compartilhamento dependerá de aprovação do Comitê
+Gestor do MP Digital, observada a legislação de regência,
+especialmente a Lei Geral de Proteção de Dados.
+Tipo 1 – Branca – Página 10
+
+Ministério Público da União
+MÓDULO II
+Legislação Institucional
+31
+João, membro do Ministério Público Federal, foi promovido ao
+cargo de subprocurador-geral da República. Pedro, que o
+assessorava na classe imediatamente anterior da carreira e
+almejava continuar a fazê-lo, analisou os órgãos jurisdicionais
+juntos aos quais João poderia vir a atuar, com destaque para o
+Supremo Tribunal Federal (STF), o Superior Tribunal de Justiça
+(STJ) e o Tribunal Superior Eleitoral (TSE).
+Ao fim de sua análise, Pedro concluiu, corretamente, à luz da Lei
+Complementar nº 75/1993, que a atuação de João:
+(A) somente pode ocorrer perante o STJ, o que se dá ao ser
+empossado no órgão do qual será titular;
+(B) pode ocorrer perante os órgãos jurisdicionais indicados,
+sendo vedado que ocorra perante outros;
+(C) pode ocorrer perante órgãos jurisdicionais diversos dos
+indicados por autorização do Conselho Superior;
+(D) somente pode ocorrer por delegação do procurador-geral da
+República perante os órgãos jurisdicionais indicados;
+(E) não pode ocorrer perante o STF, o que é privativo do
+procurador-geral da República ou do seu substituto imediato.
+32
+Pedro, servidor ocupante de cargo de provimento em comissão
+em um dos ramos do Ministério Público da União, foi conivente
+com certa infração ao código de ética e de conduta da instituição,
+infração esta que teria sido praticada por Maria, servidora
+ocupante de cargo de provimento efetivo.
+À luz da sistemática estabelecida no referido código, é correto
+afirmar que:
+(A) Pedro não está sujeito à disciplina do código;
+(B) a conduta de Pedro não afronta uma vedação estabelecida no
+código;
+(C) compete à Comissão Permanente de Ética, observado o
+devido processo legal, aplicar eventual sanção disciplinar a
+Pedro e a Maria;
+(D) compete à Comissão Permanente de Ética, observado o
+devido processo legal, aplicar eventual sanção ética a Pedro e
+a Maria, com recurso ao procurador-geral da República;
+(E) compete à Comissão Permanente de Ética dar ciência à
+autoridade administrativa competente se verificar indícios de
+irregularidade administrativa nas condutas de Pedro e Maria.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+33
+O diretório nacional do partido político Alfa, com representação
+no Congresso Nacional, encaminhou petição ao Ministério
+Público Federal (MPF) noticiando que o governador do estado
+Beta expedira determinação ao seu secretariado no sentido de
+que fosse descumprida a Lei Federal nº X. Em razão da recusa à
+execução do que foi estatuído nesse diploma normativo, Alfa
+almejava que fosse ajuizada representação para que a União
+interviesse em Beta.
+Nessa situação, à luz da sistemática vigente, é correto afirmar
+que:
+(A) a representação deve ser ajuizada pelo membro do MPF ao
+qual a petição for distribuída;
+(B) o MPF não pode exercer a consultoria de Alfa; logo, não pode
+ingressar com a representação almejada;
+(C) a representação, observados os requisitos exigidos, pode vir a
+ser ajuizada por subprocurador-geral da República;
+(D) o ajuizamento da representação é de competência privativa
+do procurador-geral da República, que não pode delegá-la;
+(E) o ajuizamento da representação é de competência do
+procurador-geral da República, que somente pode delegá-la
+ao vice-procurador-geral da República.
+34
+Após regular aprovação em concurso público de provas e títulos,
+Maria tomou posse em cargo de provimento efetivo no âmbito
+do Ministério Público da União. Pouco tempo depois, decidiu que
+a melhor opção para o seu desenvolvimento pessoal seria obter
+uma remoção para o Conselho Nacional do Ministério Público.
+Após analisar a sistemática estabelecida na Lei nº 13.316/2016,
+Maria concluiu, corretamente, que a referida remoção:
+(A) é expressamente vedada;
+(B) pode ocorrer a partir de livre decisão do procurador-geral da
+República, para atender à conveniência e oportunidade da
+administração;
+(C) pressupõe a manifestação de vontade de Maria e o
+preenchimento dos requisitos estabelecidos no edital que
+disciplina a remoção;
+(D) pode ocorrer a partir de decisão do procurador-geral da
+República, exigindo-se que o servidor tenha permanecido na
+unidade em que foi lotado pelo prazo mínimo de um ano;
+(E) pode ocorrer apenas na modalidade de permuta, em que um
+servidor lotado no Conselho Nacional do Ministério Público
+anua em se movimentar para o Ministério Público da União.
+Tipo 1 – Branca – Página 11
+
+Ministério Público da União
+35
+Joana, servidora da área de integridade do Ministério Público do
+Trabalho (MPT), questionou o seu superior hierárquico em
+relação aos alicerces estruturais do plano de integridade da
+instituição, mais especificamente em relação à competência para
+editá-lo e à definição da respectiva estratégia de comunicação.
+Foi corretamente esclarecido a Joana, considerando a sistemática
+estabelecida na Portaria PGR/MPU nº 247/2023, que:
+(A) tanto o plano de integridade como a estratégia de
+comunicação serão elaborados pelo MPT;
+(B) tanto o plano de integridade como a estratégia de
+comunicação serão elaborados pelo Comitê de Integridade do
+MPU;
+(C) tanto o plano de integridade como a estratégia de
+comunicação são estabelecidos pelo procurador-geral da
+República, não pelo MPT;
+(D) o plano de integridade deve ser editado pelo procurador-geral
+da República, cabendo ao MPT definir a estratégia de
+comunicação do âmbito da instituição;
+(E) o plano de integridade pode ser editado pelo MPT caso haja
+delegação do procurador-geral da República; já a estratégia
+de comunicação é uniforme em todo o MPU.
+Noções de Direito Administrativo
+36
+O Poder Executivo Federal promoveu, de ofício, o deslocamento
+de cargo de provimento efetivo ocupado, no âmbito do quadro
+geral de pessoal, para outro órgão do mesmo Poder, com prévia
+apreciação do órgão central do Sistema de Pessoal Civil da
+Administração Federal (SIPEC). A medida foi adotada para
+ajustamento de lotação e da força de trabalho às necessidades
+dos serviços.
+Nessa situação, é correto afirmar que ocorreu uma:
+(A) redistribuição;
+(B) remoção;
+(C) readaptação;
+(D) reversão;
+(E) substituição.
+37
+A autoridade administrativa federal competente, no intuito de
+eliminar situação contenciosa na aplicação do direito público,
+resolveu celebrar compromisso com os interessados, observando
+as formalidades previstas na Lei de Introdução às Normas do
+Direito Brasileiro.
+A respeito do compromisso em questão, é correto afirmar que:
+(A) pode conferir desoneração permanente de dever ou
+condicionamento de direito reconhecidos por orientação
+geral;
+(B) deve prever com clareza as obrigações das partes, o prazo
+para seu cumprimento e as sanções aplicáveis em caso de
+descumprimento;
+(C) deve produzir automaticamente efeitos retroativos, por
+expressa determinação legal;
+(D) tem como pressuposto a existência de razões de relevante
+interesse particular ou geral;
+(E) exige a prévia realização de consulta pública, dispensada a
+oitiva do órgão jurídico.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+38
+Determinado órgão da Administração Pública promoveu licitação
+para a contratação de serviços de engenharia com vistas à
+reforma de sua sede. Na etapa de julgamento, duas propostas
+foram idênticas conforme os critérios previstos em edital.
+Dentre os critérios de desempate entre duas ou mais propostas
+adotados pela Lei Federal nº 14.133/2021, é correto apontar:
+(A) o desenvolvimento pelo licitante de programa de integridade,
+conforme orientações dos órgãos de controle;
+(B) a contratação, pelo licitante, de mulheres vítimas de violência
+doméstica;
+(C) a utilização, pelo licitante, de bens reciclados, recicláveis ou
+biodegradáveis;
+(D) a contratação, pelo licitante, de oriundos ou egressos do
+sistema prisional;
+(E) a utilização, pelo licitante, de bens manufaturados e serviços
+originários de Estados Partes do Mercado Comum do Sul
+(Mercosul).
+39
+Adalgisa ajuizou ação de indenização por danos morais em face
+da concessionária de serviço público que realiza a coleta e o
+tratamento de esgoto em sua cidade. Na inicial, Adalgisa afirmou
+morar nas redondezas de uma estação de tratamento de esgoto
+operada pela ré, que emitiria um mau odor causador de profunda
+violação à sua dignidade humana.
+Os elementos de prova produzidos ao longo do processo
+demonstraram que, de fato, a atividade exercida pela estação de
+tratamento de esgoto descumpria as normas de regência e
+causava a emissão de odores fétidos que atingiam a região em
+que residia Adalgisa, gerando nesta desconforto, frustração,
+desespero e problemas de saúde, principalmente respiratórios.
+Nessa situação, é possível afirmar que:
+(A) a responsabilidade da concessionária de serviço público por
+danos a terceiros exige a demonstração de dolo ou culpa,
+sendo possível a inversão do ônus da prova ope judicis;
+(B) a responsabilidade da concessionária de serviço público e do
+poder concedente é solidária, sendo facultado a Adalgisa
+exigir o pagamento de quaisquer deles na fase de
+cumprimento de sentença;
+(C) a responsabilidade civil da concessionária de serviço público é
+objetiva, não havendo necessidade de demonstração de
+culpa ou dolo de seus agentes;
+(D) a responsabilidade da concessionária de serviço público por
+danos a terceiros exige a demonstração de dolo ou culpa,
+assegurada a inversão do ônus da prova ope legis;
+(E) a responsabilidade civil da concessionária de serviço público é
+baseada na teoria do risco integral, não havendo necessidade
+de demonstração do nexo causal entre conduta e resultado
+danoso.
+Tipo 1 – Branca – Página 12
+
+Ministério Público da União
+40
+Bertoldo, servidor público federal, praticou conduta escandalosa
+na repartição e insubordinação grave em serviço, pois, instado
+pelo seu superior ao cumprimento de certa tarefa inserida nas
+suas atribuições, respondeu aos gritos que não iria obedecer a
+ordem, deu um soco no rosto de seu superior e atirou o monitor
+de seu computador contra a parede. Foi ajuizada ação penal em
+face de Bertoldo, no bojo da qual foi instaurado incidente de
+insanidade mental.
+Os laudos médicos constataram a enfermidade psíquica de
+Bertoldo, indicando que o acusado era, ao tempo da ação,
+inteiramente incapaz de entender o caráter ilícito do fato ou de
+determinar-se de acordo com esse entendimento. Com base
+nisso, o juízo criminal proferiu sentença absolutória imprópria,
+com imposição de medida de segurança.
+Nessa situação, é correto afirmar que, no processo administrativo
+disciplinar instaurado em desfavor de Bertoldo pelos mesmos
+fatos:
+(A) é possível a aplicação de pena de demissão, dado o caráter
+subjetivo das infrações disciplinares e a independência entre
+as instâncias criminal e administrativa;
+(B) é obrigatória a aplicação de pena de demissão, dado o caráter
+objetivo das infrações disciplinares e a independência entre
+as instâncias criminal e administrativa;
+(C) é obrigatória a aplicação de pena de suspensão, dado o
+caráter objetivo das infrações disciplinares e a independência
+entre as instâncias criminal e administrativa;
+(D) é possível a aplicação de pena de suspensão, dado o caráter
+subjetivo das infrações disciplinares e a independência entre
+as instâncias criminal e administrativa;
+(E) descabe a fixação de sanção administrativa, impondo-se à
+Administração Pública o dever de avaliar a eventual
+concessão de licença para tratamento de saúde ou de
+aposentadoria por invalidez.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+Conhecimentos Específicos
+41
+A analista de processos de negócio Ana está modelando as
+entradas e saídas de dados de diversas atividades dos processos
+do MPU com a notação BPMN, que permite uma comunicação
+padronizada entre os participantes dos processos. Para isso, Ana
+está utilizando associação de dados (Data Association) com a
+seguinte representação.
+Como consequência, os diagramas estão ficando muito grandes e
+visualmente poluídos, o que impacta a sua comunicação.
+No BPMN, para representar as mesmas relações de entrada e
+saída das atividades limpando o diagrama e reduzindo a poluição
+visual, Ana deve usar a notação:
+(A)
+(B)
+(C)
+(D)
+(E)
+Tipo 1 – Branca – Página 13
+
+Ministério Público da União
+42
+Joana, gestora de processos de negócio, é responsável por
+otimizar os processos do MPU. Com base no CBOK 4.0, na
+primeira fase do seu trabalho, Joana definiu a seguinte tarefa:
+• identificar interfaces entre processos em que o trabalho ou a
+informação passam de um departamento para outro, o que
+pode gerar atrasos na execução do processo, além de
+distorções ou perdas de informações.
+Para executar essa tarefa, Joana deve identificar:
+(A) as atividades manuais, para transformá-las em atividades
+automáticas, visando a otimizar e agilizar a execução das
+tarefas;
+(B) os repositórios de processos de negócio, para catalogar as
+tarefas manuais e repetitivas dos departamentos;
+(C) handoffs utilizando swim lanes, para modelar as interfaces
+entre os departamentos;
+(D) as atividades atômicas, limitando as transferências de
+informação entre departamentos quando possível;
+(E) Key Performance Indicator (KPI), para avaliar as tarefas que
+mais atrasam, causam distorções e perdas de informações.
+43
+João é analista de banco de dados do MPU e precisa analisar as
+consultas que estão impactando o desempenho do banco de
+dados BDProc no PostgreSQL. Para isso, ele decidiu escrever as
+consultas SQL como expressões da álgebra relacional. Observe a
+consulta SQL a seguir.
+SELECT processo_id
+FROM Processos
+WHERE autor = “Maria” AND situacao = “Ativo”
+Na álgebra relacional, a expressão correspondente que João deve
+escrever é:
+(A) 𝜋 autor, situacao (𝜎 processo_id=(Processos, “Maria”, “Ativo”) )
+(B) 𝜋 processo_id (𝜎 autor = “Maria” ∧ situacao = “Ativo” (Processos) )
+(C) 𝜎 processo_id(Processos) (𝜋 autor = “Maria”, situacao = “Ativo”) )
+(D) 𝜎 (autor = “Maria” ∩ situacao = “Ativo”, processo_id (Processos) )
+(E) (autor = “Maria” ∪ situacao = “Ativo”) ⋈ ( 𝜋 processo_id
+(Processos))
+44
+A álgebra relacional é uma linguagem de consulta formal,
+composta por diversas operações sobre conjuntos de dados, que
+fornece uma base teórica sólida para a otimização de consultas
+SQL em bancos de dados relacionais.
+A operação “seleção” da álgebra relacional é realizada pela
+cláusula SQL:
+(A) WHERE
+(B) SELECT
+(C) EXISTS
+(D) LIMIT
+(E) HAVING
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+45
+João está aprendendo banco de dados orientado a documento.
+Para começar, João buscou a correspondência com a sua área de
+conhecimento, que é a álgebra relacional e o banco de dados
+relacional.
+Em seu estudo, João identificou que uma relação (relation) da
+álgebra relacional corresponde, no MySQL e no MongoDB,
+respectivamente, a:
+(A) column e field;
+(B) row e document;
+(C) table e collection;
+(D) tuple e attribute;
+(E) foreign key e hierarchy.
+46
+A analista de Business Intelligence Maria implementou um
+Dashboard sobre os processos judiciais do MPU por Estado no
+PowerBI. O usuário João solicitou a Maria que, ao clicar na
+entidade “Estado”, fosse aberta uma nova página com gráficos
+exibindo informações com detalhes sobre o “Estado”
+selecionado. Com a nova página contendo informações apenas
+do Estado selecionado, João poderia avançar em seu trabalho.
+No PowerBI, para implementar a solicitação de João, Maria deve:
+(A) utilizar um slicer hierárquico para filtrar o relatório por
+“Estado” abrindo uma nova página;
+(B) criar grupos de visuais no relatório que podem ser exibidos
+ou ocultados de acordo com a seleção da entidade “Estado”;
+(C) criar um relatório paginado com parâmetros que filtrem pela
+entidade “Estado” em uma nova página;
+(D) implementar um visual, como o TreeMap, que permite a
+realização da operação drilldown sobre a entidade “Estado”;
+(E) criar uma página destino com visuais sobre o “Estado”
+selecionado, configurando a operação drillthrough no
+relatório de origem.
+Tipo 1 – Branca – Página 14
+
+Ministério Público da União
+47
+O gestor de qualidade do MPU solicitou à analista de Business
+Intelligence Maria um Dashboard para monitorar o desempenho
+da tramitação dos processos ao longo do tempo.
+O programador Pedro havia implementado o banco de dados
+MongoProc, no MongoDB, para armazenar os dados do sistema
+de tramitação de processos judiciais. Então, Maria solicitou a ele
+a consulta ao MongoProc para alimentar as tabelas: fato_proc
+(quantidade), dim_data, dim_estado . Pedro respondeu que
+não poderia fornecer apenas uma consulta, pois seria necessário
+transformar os dados NoSQL em relacional. Para implementar a
+solução, Maria poderá utilizar apenas as ferramentas disponíveis
+no MPU: MongoDB, PostgreSQL, MySQL, Flyway, Pentaho,
+QlikView e MicroStrategy.
+Para transformar os dados NoSQL visando a alimentar as tabelas
+e construir o Dashboard, Maria deve:
+(A) minerar os documentos armazenados no MongoProc para
+encontrar padrões e exibir no Tableau;
+(B) modelar multidimensionalmente os dados NoSQL para
+compor um Data Lake visando a apresentar os dados no
+Flyway;
+(C) carregar um repositório de metadados com a descrição da
+estrutura flexível do MongoProc e transformar a estrutura
+rígida do PostgreSQL;
+(D) transformar a estrutura NoSQL do MongoProc em SQL do
+MySQL e criar um Data Mart no GraphDB para ser consultado
+via QlikView;
+(E) implementar um ETL no Pentaho extraindo dados do
+MongoProc para armazenar em um Data Mart no PostgreSQL
+e implementar um Dashboard no MicroStrategy.
+48
+Observe o resultado da execução dos seguintes comandos do
+MongoDB Shell.
+> use MPU2025
+> switched to db MPU2025
+> db.getCollectionNames();
+< [ 'Processos' ]
+> db["Processos"].find();
+<{
+_id: '676850ada9ec96543d3001c2',
+processo_numero: '0001',
+situacao: 'Ativo',
+partes: {
+autor: ['Maria'],
+reu: [
+'Pedro',
+'Ivo"'
+]
+},
+}
+{
+_id: '67685117a9ec96543d3001c5',
+processo_numero: '0002',
+partes: {
+autor: ['Maria'],
+reu: ['Joana']
+},
+}
+Para listar apenas os processos que possuem dois réus, deve-se
+executar o comando:
+(A) 'Processos'.filter(toArray({reu=2}));
+(B) db.collection.count({"partes.reu",2});
+(C) MPU2025.Processos.dataSize("partes.reu"$2);
+(D) db["Processos"].find({"partes.reu":{$size:2}});
+(E) db.Processos.countDocuments({"partes.reu":"2"});
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+49
+O analista João está analisando os dados de diversas fontes,
+carregando-os em um banco de dados relacional. Durante as
+cargas, diversas tabelas foram criadas, e agora João precisa fazer
+uma limpeza no seu banco de dados.
+Para remover uma tabela do banco de dados, João deve utilizar o
+comando:
+(A) DROP;
+(B) ALTER;
+(C) DELETE;
+(D) UPDATE;
+(E) TRUNCATE.
+50
+A gestora de dados Maria observou que diversos sistemas do
+MPU utilizam cadastros com as mesmas entidades, como:
+PROMOTOR, JUIZ, ESTADO, FUNCIONÁRIO. Além disso, Maria
+observou que cada sistema implementa suas próprias tabelas de
+cadastro. Diante disso, Maria decidiu implantar a governança de
+dados corporativa no MPU, iniciando pela gestão dos dados
+críticos que são compartilhados pelos sistemas de informação,
+visando a assegurar um uso consistente com a versão mais
+precisa, oportuna e relevante das entidades essenciais do MPU, e
+a reduzir os riscos de redundância de dados.
+De acordo com o DAMA/DMBOK 2ª edição, Maria deve começar
+pela Área de Conhecimento:
+(A) Metadata;
+(B) Qualidade de Dados;
+(C) Arquitetura de Dados;
+(D) Dados Mestres e de Referência;
+(E) Integração e Interoperabilidade de Dados.
+51
+As operações em vetores e matrizes é uma importante tarefa no
+desenvolvimento de Sistemas de Informação, especialmente os
+que manipulam dados. Observe o seguinte código Python.
+import numpy as np
+arr = np.array([1, 2, 3])
+y = arr.copy()
+arr[0] = 4
+x = arr.view()
+print(arr, x, y)
+print(x.base, y.base, arr.shape)
+O resultado da execução do código apresentado é:
+(A) [4 2 3] [4 2 3] [1 2 3]
+None None (3,1)
+(B) [4 2 3] [1 2 3] [1 2 3]
+[1 2 3] None (3,2)
+(C) [1 2 3] [1 2 3] [4 2 3]
+[4 2 3] [1 2 3] (3,0)
+(D) [1 2 3] [4 2 3] [1 2 3]
+[4 2 3] None (3,3)
+(E) [4 2 3] [4 2 3] [1 2 3]
+[4 2 3] None (3,)
+Tipo 1 – Branca – Página 15
+
+Ministério Público da União
+52
+A visualização de dados nos Sistemas de Informação apoia
+diversas análises de dados. Observe o seguinte gráfico pizza
+gerado por um código Python, utilizando a biblioteca
+matplotlib.pyplot.
+SP
+RJ
+MS
+DF
+MG
+No Python, com a biblioteca matplotlib.pyplot, para destacar
+fatias da pizza, afastando-as do centro, deve-se usar o parâmetro:
+(A) axis
+(B) explode
+(C) scatter
+(D) startangle
+(E) width marker
+53
+O diretor operacional João, do setor de digitalização de
+processos, escala diariamente vários funcionários de diversos
+setores para compor a força-tarefa da transformação digital do
+MPU. Para dar visibilidade ao andamento do trabalho, João
+solicitou ao analista de BI Nilo a elaboração de um Dashboard
+para responder a seguinte pergunta analítica:
+• Qual é a quantidade de pessoal alocado por dia em um
+determinado período por setor?
+Para isso, Nilo deve modelar um fato:
+(A) aditivo;
+(B) derivado;
+(C) ausente;
+(D) semiaditivo;
+(E) conformado (conformed).
+54
+A analista de Business Intelligence Lúcia está elaborando o
+modelo multidimensional do Data Mart Processos Judiciais
+(DMProcJ). Durante sua análise, ela observou que o número do
+processo judicial ( num_processo ) não é uma métrica, mas sim
+um atributo importante, pois representa o menor grão do
+DMProcJ e pode ser usado para navegar até o sistema
+transacional de origem para analisar outras informações de um
+processo específico.
+Para modelar o atributo num_processo , Lúcia deve implementar
+um(a):
+(A) fato não aditivo;
+(B) dimensão ponte;
+(C) operação drill across;
+(D) dimensão degenerada;
+(E) data mart dependente.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+55
+O analista de Business Intelligence Luiz está desenvolvendo uma
+solução aplicando técnicas de mineração de dados na base de
+dados de processos judiciais do MPU para descobrir padrões que
+mostrem resultados como o exemplificado a seguir.
+{Roubo, Antecedentes Criminais, RJ, 2024} ➔ {Pena > 5
+anos} [Suporte = 50%, Confiança = 80%]
+Para descobrir esse tipo de padrão, com antecedente e
+consequente, Luiz deve minerar:
+(A) clusters;
+(B) outliers;
+(C) anomalias;
+(D) regressões;
+(E) regras de associação.
+56
+No processo de realizar análises nos dados armazenados em um
+banco de dados relacional, o perito Charles está implementando
+diversas consultas SQL. Ele precisa acessar o resultado dessas
+consultas diversas vezes, como se fosse uma tabela, em um ciclo
+de refinamento analítico contínuo.
+Em um banco de dados relacional, para criar uma tabela virtual
+que represente o resultado de uma consulta SQL, Charles deve
+implementar um(a):
+(A) VIEW;
+(B) TRIGGER;
+(C) DOMAIN;
+(D) SEQUENCE;
+(E) FUNCTION.
+57
+O gestor de pessoal do MPU Antônio precisa da lista dos
+funcionários contendo diversos dados pessoais. Para agir de
+acordo com a LGPD, Antônio solicitou ao analista José que
+realizasse um tratamento no cadastro de pessoal para que o dado
+perdesse a possibilidade de associação, direta ou indireta, ao
+indivíduo.
+Para atender Antônio, José deve realizar nos dados a ação de:
+(A) difusão;
+(B) bloqueio;
+(C) indexação;
+(D) classificação;
+(E) anonimização.
+Tipo 1 – Branca – Página 16
+
+Ministério Público da União
+58
+Observe o modelo de dados, que utiliza a Notação Crow's Foot
+(Pé de Galinha), onde PK representa a Chave Primária:
+Após a normalização, no PostgreSQL, para implementar o modelo
+de dados físico com as integridades referenciais, deve-se
+executar o seguinte script SQL:
+(A) CREATE TABLE Processo (
+ProcessoID SERIAL PRIMARY KEY,
+NomeProcesso VARCHAR(100));
+CREATE TABLE Parte (
+ParteID SERIAL PRIMARY KEY,
+NomeParte VARCHAR(100));
+CREATE TABLE ProcessoParte (
+ProcessoID INTEGER REFERENCES Processo(ProcessoID),
+ParteID INTEGER REFERENCES Parte(ParteID),
+PRIMARY KEY (ProcessoID, ParteID));
+(B) CREATE TABLE Processo (
+ProcessoID SERIAL UNIQUE,
+NomeProcesso VARCHAR(100));
+CREATE TABLE Parte (
+ParteID SERIAL UNIQUE,
+NomeParte VARCHAR(100));
+CREATE TABLE ProcessoParte (
+ProcessoID SERIAL UNIQUE,
+ParteID SERIAL UNIQUE );
+(C) CREATE TABLE Processo (
+ProcessoID SERIAL NOT NULL,
+NomeProcesso VARCHAR(100));
+CREATE TABLE Parte (
+ParteID SERIAL NOT NULL,
+NomeParte VARCHAR(100));
+CREATE TABLE ProcessoParte (
+UNIQUE (ProcessoID, ParteID));
+(D) CREATE TABLE ProcessoParte (
+ProcessoID FOREIGN KEY,
+ParteID FOREIGN KEY,
+NomeParte VARCHAR(100),
+NomeProcesso VARCHAR(100));
+(E) CREATE TABLE ProcessoParte (
+FOREIGN KEY(ProcessoID NOT NULL,ParteID NOT NULL),
+NomeParte VARCHAR(100),
+NomeProcesso VARCHAR(100));
+59
+O administrador de banco de dados Pedro criou o papel
+dadosadm para cadastrar os funcionários do MPU que
+desempenham a função de Administrador de Dados usando o
+seguinte comando SQL no PostgreSQL:
+CREATE ROLE dadosadm WITH LOGIN PASSWORD 'admin';
+Para que o papel dadosadm possa alterar a estrutura, bem como
+adicionar e remover linhas e colunas da tabela processo com
+controle total, Pedro deve usar o seguinte comando SQL:
+(A) GRANT SELECT, INSERT, UPDATE, DELETE, TRUNCATE
+ON processo TO dadosadm;
+(B) REVOKE SELECT, INSERT, UPDATE, DELETE, TRUNCATE
+ON processo FROM dadosadm;
+DEFAULT PRIVILEGES ON processo GRANT
+SELECT, INSERT, UPDATE, DELETE, TRUNCATE ON
+TABLES TO dadosadm;
+(D) SET TRANSACTION READ WRITE ON processo TO
+dadosadm;
+(E) ALTER TABLE processo OWNER TO dadosadm;
+(C) ALTER
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+60
+Observe os registros incluídos na tabela Processo pelo seguinte
+script SQL:
+INSERT INTO Processo (processoID, descricao)
+VALUES (1, 'Tributário');
+INSERT INTO Processo (processoID, descricao)
+VALUES (2, 'Divórcio');
+INSERT INTO Processo (processoID, descricao)
+VALUES (3, 'Trabalhista');
+SELECT * FROM PROCESSO;
+Para consultar apenas os Processos ( Processo ) que possuem o
+termo “ trabalhista ” no campo descrição ( descricao ),
+deve-se complementar a consulta com a cláusula WHERE e a
+seguinte condição:
+(A) descricao = 'trabalhista';
+(B) descricao ilike 'trabalhista';
+(C) '_trabalhista_' != descricao;
+(D) '%trabalhista%' IN descricao;
+(E) POSITION('trabalhista' IN descricao);
+61
+O analista Paulo precisa analisar e descobrir padrões nas relações
+entre as diversas entidades nos processos judiciais do MPU, como
+promotores, juízes, autores, réus, secretários e advogados. Para
+isso, Paulo vai utilizar um banco de dados NoSQL para armazenar
+essa rede social judiciária que chamou de SocialJud.
+Para implementar o SocialJud, Paulo deve usar um banco de
+dados:
+(A) colunar;
+(B) chave-valor;
+(C) orientado a documento;
+(D) orientado a grafos com nós e arestas;
+(E) matricial com dimensões hierárquicas.
+62
+Observe a transação SQL a seguir.
+BEGIN;
+INSERT INTO Parte (ParteID, NomeParte)
+VALUES (1, 'Mariana Souza');
+SAVEPOINT insercao;
+INSERT INTO Parte (ParteID, NomeParte)
+VALUES (2, 'Joca Silva');
+SAVEPOINT insercao;
+INSERT INTO Parte (ParteID, NomeParte)
+VALUES (3, 'Luiz Almeira');
+ROLLBACK TO SAVEPOINT insercao;
+RELEASE SAVEPOINT insercao;
+ROLLBACK TO SAVEPOINT insercao;
+SELECT * FROM Parte;
+COMMIT;
+No PostgreSQL, após a execução da transação SQL, o(s) registro(s)
+da tabela Parte é(são):
+(A) (1, 'Mariana Souza')
+(B) (2, 'Joca Silva')
+(C) (3, 'Luiz Almeira')
+(D) (1, 'Mariana Souza')
+(2, 'Joca Silva')
+(E) (2, 'Joca Silva')
+(3, 'Luiz Almeira')
+Tipo 1 – Branca – Página 17
+
+Ministério Público da União
+63
+Maria utilizou a notação BPMN para modelar o processo de
+negócio do departamento DEPTO1 da organização ORG_A,
+conforme figura abaixo.
+Considerando a notação BPMN, é correto afirmar que:
+(A) o fluxo F5 é uma junção e leva à execução de um subprocesso
+de baixa complexidade;
+(B) a sequência de gateways G1 e G2 garante a execução
+exclusiva do subprocesso B;
+(C) o fluxo F1 é executado em paralelo ao fluxo F3, assim como
+são paralelos os fluxos F2 e F4;
+(D) o fluxo pelo gateway G2 está condicionado ao término da
+execução do subprocesso A;
+(E) o gateway G2 é exclusivo e conflita na bifurcação e união de
+caminhos alternativos.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+64
+Durante um processo de contagem de pontos de função de uma
+aplicação, as telas do sistema foram utilizadas como subsídios. As
+Figuras 1 e 2 apresentam as telas para cadastro de clientes.
+Figura 1
+Figura 2
+Com base na Análise de Pontos de Função, o cadastro
+apresentado nas Figuras 1 e 2 deve ser contado como:
+(A) uma Entrada Externa e um Arquivo Lógico Interno;
+(B) uma Entrada Externa e dois Arquivos Lógicos Internos;
+(C) duas Entradas Externas e um Arquivo Lógico Interno;
+(D) duas Entradas Externas e dois Arquivos Lógicos Internos;
+(E) uma Entrada Externa e três Arquivos Lógicos Internos.
+Tipo 1 – Branca – Página 18
+
+Ministério Público da União
+65
+Ministerio_WEB é uma aplicação Web desenvolvida em
+multicamadas que utiliza o padrão arquitetural REST, cujo
+backend tem por base uma Application Programming Interface
+(API) e cujo frontend foi desenvolvido em React.JS. Foi
+padronizado que todas as funcionalidades para pesquisa de
+dados devem entregar os resultados aos usuários por meio de
+componente estruturado em tabela. É relevante para os usuários
+que cada apresentação de tabela respeite o limite de 15 registros
+por tela. O backend, por sua vez, fornece serviços de entrega de
+conjuntos de dados que resultam de pesquisas com a opção de
+parametrização da quantidade de registros a serem
+disponibilizados ao utilizador do endpoint.
+Considerando que Ministerio_WEB precisa ser medido funcional
+e não funcionalmente, optou-se pelo uso do SNAP (Software
+Non-Functional Assessment Process) para dimensionamento não
+funcional.
+Pela perspectiva da medição não funcional utilizando o SNAP, as
+funcionalidades para pesquisa de dados utilizadas no
+Ministerio_WEB estão aderentes, respectivamente, à categoria:
+(A) Projeto de Interface, subcategoria Múltiplos Métodos de
+Saída;
+(B) Operações Lógicas e Matemáticas, subcategoria Formatação
+de Dados;
+(C) Operações de Dados, subcategoria Movimentações de Dados
+Internos;
+(D) Ambiente Técnico, subcategoria Software Baseado em
+Componentes;
+(E) Tecnologia de Banco de Dados, subcategoria Entregar Valor
+Agregado aos Usuários por Configuração de Dados.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+66
+A ORG_A é uma organização que anualmente conduz um
+processo seletivo interno para cargos de gerência. Concorrem aos
+cargos aqueles funcionários que cumprem um rol de requisitos
+definido em norma interna. A ORG_A já possui um software para
+gestão de funcionários e deseja estendê-lo com uma inovação
+para apoiar os processos seletivos.
+O representante do cliente explicou que os funcionários que
+cumprem os requisitos para um cargo devem ser
+automaticamente selecionados pelo sistema, e seus nomes
+devem ser exibidos em tela em ordem crescente de data de
+admissão, um dado relevante para os usuários e para o processo
+de seleção. Deve ser disponibilizada a opção para que os usuários
+do sistema possam alterar a ordenação dos nomes dos
+funcionários, arrastando e soltando na posição desejada. O
+sistema deve salvar a nova ordenação após a solicitação do
+usuário. A alteração da ordenação pode ser refeita a qualquer
+tempo, mas o sistema deve armazenar o histórico das listas
+anteriores. As listas de funcionários podem ser impressas em
+tela. Opcionalmente, as listas podem ser exportadas para os
+formatos PDF, JSON e XML para interoperabilidade com outros
+sistemas da ORG_A.
+Considerando a solicitação do cliente à luz da engenharia de
+requisitos, para a inovação solicitada identificam-se:
+(A) três requisitos funcionais e um requisito não funcional de
+produto;
+(B) quatro requisitos funcionais, um requisito não funcional de
+usabilidade e um requisito não funcional de
+desenvolvimento;
+(C) cinco requisitos funcionais e um requisito não funcional
+organizacional;
+(D) seis requisitos funcionais, um requisito não funcional de
+desempenho e um requisito não funcional de
+manutenibilidade;
+(E) sete requisitos funcionais, um requisito não funcional
+operacional e um requisito não funcional externo.
+Tipo 1 – Branca – Página 19
+
+Ministério Público da União
+67
+Observe o diagrama abaixo modelado em UML 2.5.1.
+Semanticamente, o diagrama indica que:
+(A) a associação de dependência entre as classes A e B é binária
+com duas extremidades nomeadas;
+(B) a extremidade b da associação entre as classes A e B pode ser
+representada por um atributo da classe A;
+(C) o valor 5 do atributo a4 da classe A é atribuído a todas as
+instâncias da classe, tornando-se o valor fixo da propriedade;
+(D) a agregação composta entre as classes B e C exige que um
+objeto parte seja incluído em no mínimo um objeto composto
+por vez;
+(E) na associação entre as classes A e B, a extremidade a é de
+propriedade da classe A e a extremidade b é de propriedade
+da classe B.
+68
+Um órgão público está desenvolvendo um sistema Web para
+apoiar a prestação de serviços aos cidadãos. Objetivando tornar o
+sistema mais acessível para pessoas com deficiência, a equipe
+técnica está seguindo as Diretrizes de Acessibilidade para
+Conteúdo Web (WCAG - Web Content Accessibility Guidelines).
+Um dos cuidados da equipe técnica está relacionado à diretriz
+que trata da ação de facilitar a operação das funcionalidades
+pelos usuários, por meio de várias entradas além do teclado.
+Considerando o WCAG, a equipe técnica deve:
+(A) viabilizar a submissão de formulários automaticamente
+quando o componente que faz a submissão ganhar o foco;
+(B) dar fluidez ao preenchimento de dados em formulários,
+submetendo automaticamente dados selecionados em uma
+lista;
+(C) substituir componentes do tipo botão por links de dados para
+submissão de formulários, facilitando o uso por leitores de
+tela;
+(D) definir uma correspondência entre os nomes dos
+componentes da interface do usuário e seus rótulos (labels),
+possivelmente colocando o texto do rótulo no início do nome;
+(E) evitar o uso de ícones próximos aos rótulos (labels) e campos
+de entrada de dados, já que a iconografia carrega conceitos
+culturais que diferem em cada região.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+69
+O framework COBIT 2019 faz uma distinção clara entre
+governança e gestão. O domínio BAI – Build, Acquire and
+Implement (Construir, Adquirir e Implementar) trata da definição,
+aquisição e implementação de soluções de Informação e
+Tecnologia (I&T) e sua integração em processos de negócios.
+Uma prática de gerenciamento aderente aos objetivos de
+gerenciamento do domínio BAI pode ser executada pela(s)
+atividade(s):
+(A) compreender a visão, direção e estratégia da organização,
+bem como seu contexto e desafios atuais;
+(B) estabelecer uma função responsável por gerenciar atividades
+que dão suporte aos objetivos de gerenciamento de dados;
+(C) desenvolver e manter procedimentos operacionais e
+atividades relacionadas para dar suporte a todos os serviços
+prestados;
+(D) criar um plano de inovação que inclua grau de tolerância a
+riscos, com orçamento proposto para iniciativas de inovação
+e objetivos de inovação;
+(E) especificar e priorizar informações, requisitos funcionais e
+técnicos, com base na experiência do usuário e nos requisitos
+confirmados das partes interessadas.
+70
+O Time de Desenvolvimento de Software (TDevS) de uma
+organização está utilizando testes automatizados em seus
+projetos.
+Ao utilizar testes automatizados, o TDevS:
+(A) está focando a eficácia da usabilidade com testes
+exploratórios de caixa-preta;
+(B) busca redução do retrabalho para execução dos testes não
+funcionais de interface com o usuário;
+(C) tem aplicado testes de integração para verificação antecipada
+dos caminhos e condições lógicas codificadas;
+(D) visa a aumentar a agilidade do time, já que os testes são
+codificados uma vez e não precisam ser alterados ao longo do
+ciclo de vida do projeto;
+(E) deseja garantir a estabilidade das mudanças por meio da
+incorporação dos testes de integração no processo de
+integração contínua.
+Tipo 1 – Branca – Página 20
+
+Ministério Público da União
+71
+Após um estudo aprofundado sobre a sistemática de gestão de
+processos e do sistema digital que a apoia – o SisGEPRO 1.0 –, a
+Equipe de Soluções Técnicas (EST) identificou que há conceitos do
+negócio que não são compreendidos por algumas das partes
+envolvidas na sustentação do sistema, levando a erros de
+codificação. Assim, dada a complexidade do negócio e a
+obsolescência do SisGEPRO 1.0, a EST recomendou o
+desenvolvimento de uma nova versão do sistema – o SisGEPRO
+2.0 – aplicando a abordagem Domain-Driven Design (DDD).
+Em conformidade com o DDD, o arquiteto de software, após a
+modelagem dos conceitos do domínio, irá:
+(A) organizar um repositório (Repository) para que outras
+camadas tenham acesso à lógica necessária para acesso a
+objetos;
+(B) definir o modelo de domínio (Domain Model) acoplado às
+necessidades de armazenamento de objetos e suas
+referências;
+(C) codificar uma fábrica (Factory) para definir a estratégia de
+criação e armazenamento de objetos do domínio;
+(D) especificar agregados (Aggregates) para garantir a
+consistência das mudanças em objetos num modelo com
+associações complexas;
+(E) projetar serviços (Services) para atender a ações que se
+refiram a Entidades ou Objetos de valor específicos.
+72
+O analista Carlos gerencia o GitLab do MPU. Carlos adicionou o
+job microservico_A ao pipeline do projeto A, inserindo no arquivo
+.gitlab-ci.yml do projeto o seguinte conteúdo:
+microservico_A:
+trigger:
+include:
+- remote:
+'https://gitlab.mpu/grupoA/projetoC/-
+/raw/main/.gitlab-ci.yml'
+- project: 'grupoA/projetoB’
+ref: 'main'
+file: 'microservico_b.yml'
+Considere que os arquivos referenciados são válidos e acessíveis.
+Com essa configuração, ao ser executado, o job microservico_A
+irá disparar, ao todo:
+(A) um novo pipeline do tipo parent-child;
+(B) um novo pipeline do tipo multi-project;
+(C) dois novos pipelines do tipo parent-child;
+(D) dois novos pipelines do tipo multi-project;
+(E) dois novos pipelines dos tipos parent-child e multi-project,
+respectivamente.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+73
+O analista Lucas está instalando no MPU a ferramenta Rancher,
+com o objetivo de facilitar o gerenciamento de contêineres. A fim
+de escolher a distribuição do Kubernetes que o Rancher irá
+operar, Lucas estabeleceu as seguintes condições: a distribuição
+escolhida deve ser compatível com o Rancher, não deve
+depender de nuvens externas e não deve depender do Docker
+como runtime de contêineres.
+Diante dessas condições, o analista deve escolher, entre as
+distribuições do Kubernetes:
+(A) EKS e K3s;
+(B) RKE2 e K3s;
+(C) RKE1 e K3s;
+(D) RKE1 e EKS;
+(E) RKE1 e RKE2.
+74
+A analista Ana está implementando um sistema seguindo os
+princípios SOLID. No módulo A do sistema, Ana aplicou o
+princípio SOLID que estabelece o seguinte: se uma propriedade
+q(x) for demonstrável para todos os objetos x do tipo T, então ela
+também deve ser demonstrável para todos os objetos y do tipo S,
+onde S é um subtipo de T.
+O princípio aplicado por Ana no módulo A está diretamente
+relacionado à seguinte letra do acrônimo SOLID:
+(A) S;
+(B) O;
+(C) L;
+(D) I;
+(E) D.
+75
+Considere o código HTML a seguir.
+<div id="composicao" posicao="0">
+<p posicao="1"> MPF </p><br/>
+<p posicao="2"> MPT </p><br/>
+<p posicao="3"> MPM </p><br/>
+<p posicao="4"> MPDFT </p><br/>
+</div>
+E o respectivo código CSS:
+div {
+display: flex;
+flex-direction: row-reverse;
+}
+p[posicao]::after {
+content: "|";
+}
+#composicao p::before {
+content: attr(posicao);
+}
+Após renderizar o código acima, um navegador web padrão exibe
+a linha:
+(A) MPF |MPT |MPM |MPDFT
+(B) 0| MPF | MPT | MPM | MPDFT |
+(C) 4 MPDFT |3 MPM|2 MPT|1 MPF |
+(D) 4| MPDFT 3| MPM 2| MPT 1| MPF
+(E) 0| 0 MPDFT |0 MPM|0 MPT|0 MPF |
+Tipo 1 – Branca – Página 21
+
+Ministério Público da União
+76
+Considere o código em Java a seguir.
+package com.mpu.questao;
+public sealed class MPU {}
+final class MPF extends MPU {}
+sealed class MPM extends MPU {}
+final class MPDFT extends MPU {}
+non-sealed class MPT extends MPU {}
+O código acima possui um erro, pois a classe:
+(A) MPU, sendo sealed, omitiu a cláusula permits;
+(B) MPF, sendo final, não pode estender a classe MPU, que é
+sealed;
+(C) MPM, sendo sealed, não definiu nenhuma subclasse
+permitida;
+(D) MPT, sendo non-sealed, não pode estender a classe MPU,
+que é sealed;
+(E) MPDFT, sendo final, não pode ser declarada após a classe
+MPM, de escopo protected.
+77
+O analista José está implementando um frontend web utilizando
+React. Em determinada tela do frontend, José precisa que o
+componente A seja renderizado pelo navegador em um nó do
+Document Object Model (DOM) que se encontra fora da
+hierarquia normal de renderização. Sabendo que o React oferece
+uma função que cumpre o propósito de orientar a renderização
+de componentes em partes inesperadas do DOM, José optou por
+utilizar essa função.
+Para orientar a renderização do componente A no nó desejado, o
+analista José utilizou a seguinte função do React:
+(A) flushSync;
+(B) preRender;
+(C) createPortal;
+(D) preinitModule;
+(E) preloadModule.
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+78
+A analista Flávia implementou, ao longo do último ano, o
+aplicativo móvel MPUPlay, tanto para Android quanto para iOS,
+utilizando, em cada plataforma, a linguagem de programação
+oficialmente recomendada, à época, pelo fabricante, para o
+desenvolvimento de aplicações móveis nativas.
+Considerando as fabricantes do Android e do iOS como o Google
+e a Apple, respectivamente, Flávia implementou o MPUPlay por
+meio das linguagens:
+(A) Java e Swift;
+(B) Java e Kotlin;
+(C) Kotlin e Swift;
+(D) Java e Objective-C;
+(E) Kotlin e Objective-C.
+79
+O analista Tiago foi incumbido de implementar, em determinado
+setor do MPU, dois controles previstos na NBR ISO/IEC 27001:
+o controle de trabalho remoto e o controle de mídia de
+armazenamento. A fim de harmonizar essa implementação com
+outras determinações do MPU que podem ser aplicáveis ao
+escopo de determinado controle, o analista deve ter em mente
+qual é o tipo de controle que está sendo implementado, à luz da
+norma.
+À luz da NBR ISO/IEC 27001, os controles sendo implementados
+por Tiago pertencem, respectivamente, às categorias:
+(A) pessoal e físico;
+(B) tecnológico e físico;
+(C) tecnológico e pessoal;
+(D) tecnológico e organizacional;
+(E) organizacional e tecnológico.
+80
+A analista Daniela está implementando o módulo de autenticação
+de um sistema, com base no protocolo OpenID Connect (OIDC).
+Na rotina de verificação da autenticação, Daniela deve avaliar se
+o ID Token, retornado pelo servidor OIDC, foi emitido em um
+horário considerado válido.
+Para avaliar o horário de emissão do token, Daniela deve extrair
+do ID Token o valor do atributo:
+(A) jti;
+(B) iat;
+(C) tid;
+(D) rat;
+(E) exp.
+Tipo 1 – Branca – Página 22
+
+Ministério Público da União
+PROVA DISCURSIVA
+Valor: 40 pontos.
+1
+5
+10
+15
+20
+25
+30
+A06 - Analista do MPU - Desenvolvimento de Sistemas
+Tipo 1 – Branca – Página 23
+O futuro do planeta Terra está se voltando para os demais planetas do sistema solar. Um assessor do novo presidente americano diz ter a
+intenção de chegar a Marte em pouco tempo, preocupação que também mostra a China. Ocorre, porém, que essas conquistas custam
+milhões e milhões de dólares, que poderiam ser empregados para a solução de problemas terrenos. Afinal de contas, as conquistas
+espaciais são um bom investimento, ou não? Que ganho poderíamos ter com elas?
+Diga o que pensa a respeito do tema, elaborando um texto dissertativo-argumentativo, em linguagem culta, com no mínimo 20 e no
+máximo 30 linhas.
+RASCUNHO
+
+Realização

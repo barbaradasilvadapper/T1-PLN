@@ -1,0 +1,18 @@
+ID: 74-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de bancos de dados NoSQL, assinale a opção que descreve corretamente o conceito de "orientação a agregados" e sua importância.
+
+[ALTERNATIVAS]
+(A) Orientação a agregados refere-se à técnica de normalizar dados em várias tabelas pequenas para evitar redundâncias e melhorar a consistência dos dados.
+(B) Orientação a agregados é um conceito exclusivo de bancos de dados relacionais, onde os dados são agrupados em índices para acelerar as consultas.
+(C) Orientação a agregados significa que os dados são agrupados em documentos ou coleções autossuficientes, otimizando o acesso e a manipulação de dados relacionados em um único local.
+(D) Orientação a agregados implica que os dados são particionados automaticamente em diferentes servidores para melhorar o desempenho de leitura e escrita.
+(E) Orientação a agregados refere-se à criação de visualizações agregadas para sumarizar grandes volumes de dados e melhorar o desempenho das consultas.
+
+[GABARITO]
+C

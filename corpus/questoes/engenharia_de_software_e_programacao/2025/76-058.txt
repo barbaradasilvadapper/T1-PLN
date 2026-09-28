@@ -1,0 +1,18 @@
+ID: 76-058
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No projeto do sistema de gestão de recursos, a equipe utiliza uma ferramenta de análise de qualidade para monitorar a Cobertura de Teste do código. Uma métrica comum utilizada é a Cobertura de Decisão (Decision Coverage), também conhecida como Cobertura de Ramificação (Branch Coverage). O principal foco da métrica Cobertura de Decisão na avaliação da qualidade do código-fonte é
+
+[ALTERNATIVAS]
+(A) assegurar que 100% das linhas de código sejam executadas pelo menos uma vez.
+(B) assegurar que todos os caminhos lógicos possíveis de todas as estruturas condicionais tenham sido exercitados pelos testes.
+(C) medir a quantidade de funcionalidades do sistema que foram mapeadas para um teste de aceitação.
+(D) determinar a porcentagem de classes que possuem todos os seus métodos testados.
+(E) avaliar a eficiência do código em tempo de execução, ou seja, o desempenho do sistema.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 43-029
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Camila, analista do TJMS, foi incumbida de conceber uma solução de IoT capaz de otimizar o consumo de energia e estabelecer rotinas alinhadas com as operações do Tribunal. Camila recomendou a adoção de um protocolo que opera mediante a criação de pontos repetidores, permitindo, por exemplo, que uma tomada inteligente atue como um amplificador de sinal. O protocolo de comunicação sugerido foi:
+
+[ALTERNATIVAS]
+(A) wi-fi;
+(B) itead;
+(C) zigbee;
+(D) ewelink;
+(E) arduíno.
+
+[GABARITO]
+C

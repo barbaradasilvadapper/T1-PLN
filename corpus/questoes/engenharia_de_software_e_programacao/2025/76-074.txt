@@ -1,0 +1,18 @@
+ID: 76-074
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Sistemas está debatendo a substituição de um sistema de integração baseado em RPC por uma API RESTful. A principal mudança filosófica e de design ao migrar para REST é a mudança de foco da execução de métodos ou funções no servidor para a manipulação de
+
+[ALTERNATIVAS]
+(A) sessões de backend e cookies de segurança.
+(B) recursos identificados por URIs e a utilização uniforme de verbos HTTP.
+(C) eventos e mensageria assíncrona.
+(D) dados estruturados apenas no formato XML.
+(E) conexões de banco de dados diretamente pelo cliente.
+
+[GABARITO]
+B

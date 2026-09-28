@@ -1,0 +1,18 @@
+ID: 43-030
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao examinar um datagrama IPv6, verificou-se a presença do cabeçalho de extensão denominado "tamanho". O datagrama que incorpora essa extensão de cabeçalho é denominado:
+
+[ALTERNATIVAS]
+(A) diffserv;
+(B) jumbograma;
+(C) fragmentation;
+(D) content-length;
+(E) datagrama de controle.
+
+[GABARITO]
+B

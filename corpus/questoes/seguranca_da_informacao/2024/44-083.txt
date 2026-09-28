@@ -1,0 +1,18 @@
+ID: 44-083
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de seguranca tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Guia de Aperfeiçoamento da Segurança Cibernética para Infraestrutura Crítica publicado pelo NIST provê uma orientação geral para a melhoria da governança de segurança cibernética para organizações que compõem a rede de infraestruturas críticas do país, como geração e distribuição de energia, distribuição de água entre outras. Esse Guia estabelece níveis de implementação da estrutura de gestão da segurança cibernética, criando uma contextualização geral de como determinada organização trata o risco de segurança cibernética e os seus processos atualmente instalados para o gerenciamento desse risco. Nesse contexto, é correto afirmar que
+
+[ALTERNATIVAS]
+(A) no nível 1 (Parcial), as práticas de gerenciamento de risco já estão consolidadas.
+(B) no nível 2 (Risco Informado), a organização ainda não possui processos estabelecidos para gerenciamento de risco.
+(C) no nível 3 (Reproduzível), as políticas de gerenciamento de risco estão aprovadas e publicadas como Política.
+(D) no nível 4 (Adaptável), a empresa ignora os relatos de novas ameaças, construindo sua própria base de ameaças mais completa.
+(E) no nível 5 (Consolidada), a empresa já se antecipa aos novos riscos, tendo inclusive capacidade de resistir aos Zero Day Attacks.
+
+[GABARITO]
+C

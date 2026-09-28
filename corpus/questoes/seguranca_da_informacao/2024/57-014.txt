@@ -1,0 +1,18 @@
+ID: 57-014
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Wallace pertence a um Blue Team da Comissão de Valores Mobiliários (CVM) e tem a função de proteger as infraestruturas, tecnologias e aplicações corporativas. Deve ainda ter a prontidão necessária para prevenir, identificar, conter, mitigar e responder a qualquer tentativa de acesso indevido ou ataque cibernético. Como forma de testar sua equipe, Wallace simulou um ataque de negação de serviço distribuído (DDoS) no DNS por meio de DNS Replay. Para executar essa simulação, Wallace fez uso da ferramenta:
+
+[ALTERNATIVAS]
+(A) drool;
+(B) manuka;
+(C) dyninst;
+(D) eztools;
+(E) sooty.
+
+[GABARITO]
+A

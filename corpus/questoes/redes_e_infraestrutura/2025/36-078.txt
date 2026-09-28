@@ -1,0 +1,18 @@
+ID: 36-078
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu suporte e infraestrutura mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Suzana estava monitorando a rede local de onde trabalha e constatou que houve um comprometimento da segurança. Ela identificou o atacante e notou que ele modificou algumas configurações e modos de funcionamento dos equipamentos de sua rede local. Uma das modificações foi aumentar o domínio de colisão para o equipamento inteiro, em contraste com o que ocorria antes quando cada porta representava seu domínio de colisão. Outra modificação foi deixar todas as portas operando na mesma velocidade, sendo que, anteriormente, cada porta poderia enviar quadros a uma velocidade diferente. Em seu feedback para a chefia, Suzana informou, corretamente, que:
+
+[ALTERNATIVAS]
+(A) o gateway de aplicação da rede local passou a operar como roteador;
+(B) o roteador da rede local foi afetado e passou a operar como HUB;
+(C) o switch da rede local foi afetado e passou a operar como um repetidor;
+(D) o HUB da rede local foi afetado e passou a operar como um repetidor;
+(E) o gateway de transporte foi afetado e passou a operar como um switch.
+
+[GABARITO]
+C

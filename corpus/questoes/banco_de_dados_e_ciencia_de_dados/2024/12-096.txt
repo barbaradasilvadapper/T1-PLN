@@ -1,0 +1,18 @@
+ID: 12-096
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Sobre banco de dado NoSQL orientado a grafos, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). I. Se compararmos com um banco de dados relacional, os nós de um grafo correspondem às colunas de uma tabela. II. As operações de junção nesse tipo de banco são frequentemente mais eficientes do que em bancos de dados relacionais, pois utilizam chaves estrangeiras para realizar o relacionamento entre os nós. III. Diferentemente dos outros tipos de banco de dados NoSQL, bancos orientados a grafos não são próprios para se trabalhar com um grande volume de dados. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – F – F.
+(B) F – V – F.
+(C) F – F – V.
+(D) V – F – V.
+(E) F – F – F.
+
+[GABARITO]
+E

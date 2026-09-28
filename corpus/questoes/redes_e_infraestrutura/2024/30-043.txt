@@ -1,0 +1,18 @@
+ID: 30-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A empresa K está montando uma network attached storages (NAS) como sistema de armazenamento voltado para conexões em redes locais. O NAS não precisa de um computador hospedeiro para funcionar, possui sistema operacional próprio e funciona como uma unidade de armazenamento em rede autônoma. Após a montagem dessa NAS, a empresa K poderá usar:
+
+[ALTERNATIVAS]
+(A) a rede de armazenamento para aplicações corporativas;
+(B) espaço de armazenamento para todos os pontos autorizados da rede após conectados os computadores da empresa a uma rede local;
+(C) unificação dos recursos de armazenamento numa infraestrutura de dados através de uma rede exclusiva;
+(D) capacidade de armazenamento para alguma aplicação de um sistema computacional, dependendo de um servidor para acesso;
+(E) as informações armazenadas disponíveis para acesso direto de seu computador host, facilitando o gerenciamento.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 07-043
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A rotina do Sistema Operacional (SO) que tem como principal função implementar os critérios da política de escalonamento é:
+
+[ALTERNATIVAS]
+(A) dispatcher;
+(B) preempção;
+(C) tempo de resposta;
+(D) processamento batch;
+(E) escalonador (scheduler).
+
+[GABARITO]
+E

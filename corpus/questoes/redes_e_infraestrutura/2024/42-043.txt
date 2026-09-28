@@ -1,0 +1,18 @@
+ID: 42-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O modelo OSI (Open Systems Interconnection) foi criado com o propósito de servir como referência para a comunicação entre diferentes tecnologias, promovendo a compatibilidade e a eficiência no tráfego de informações entre dispositivos em uma rede. Nesse modelo, a camada de sessão é responsável por
+
+[ALTERNATIVAS]
+(A) determinar as rotas de pacotes entre origem e destino.
+(B) estabelecer controle de fluxo entre emissor e receptor.
+(C) executar protocolos necessários para os usuários.
+(D) gerenciar serviços como controle de diálogo e sincronização.
+(E) transformar um canal em uma linha sem erros de transmissão.
+
+[GABARITO]
+D

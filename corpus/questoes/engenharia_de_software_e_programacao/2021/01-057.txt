@@ -1,0 +1,18 @@
+ID: 01-057
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Uma mudança no processo de abertura de contas de um banco gerou a necessidade de desenvolvimento de novas funcionalidades na aplicação web destinada aos novos clientes. Assim, foi definido que, para pedido de abertura de conta por meio da aplicação web, o novo cliente deve fazer o upload de um conjunto de documentos em formato digital. Marta é a responsável pela triagem de pedidos de novas contas e utiliza um sistema informatizado de uso interno do banco para conferir todos os documentos enviados digitalmente. No contexto de engenharia de requisitos, a conferência de documentos realizada por Marta, por meio do sistema informatizado de uso interno do banco, representa um requisito:
+
+[ALTERNATIVAS]
+(A) analítico;
+(B) funcional;
+(C) de proteção;
+(D) de produto;
+(E) de confiança.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 50-068
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce go
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Na programação estruturada, os laços de repetição são fundamentais para executar uma determinada sequência de instruções várias vezes, facilitando a automação de tarefas repetitivas. Dois dos laços mais comuns são os comandos "for" e "while", cada um com suas características específicas. Assinale a opção que descreve corretamente as diferenças entre os laços "for" e "while" na programação estruturada.
+
+[ALTERNATIVAS]
+(A) O laço "for" é adequado para situações em que o número de iterações é conhecido antecipadamente, enquanto o laço "while" atende situações em que o número de iterações é desconhecido e depende de uma condição.
+(B) O laço "for" é usado quando se deseja percorrer uma coleção de elementos, como uma lista ou um array, enquanto o laço "while" é aplicado em situações em que é necessário repetir uma ação até que uma condição específica seja atendida.
+(C) O laço "for" é uma opção mais flexível, pois permite a declaração e inicialização de variáveis de controle dentro da própria estrutura do laço, enquanto o laço "while" exige que essas variáveis sejam definidas antes do laço.
+(D) O laço "while" é mais propenso a causar loops infinitos se a condição de parada não for adequadamente definida, enquanto o laço "for" oferece controle sobre o número de iterações devido à sua estrutura mais definida.
+(E) O laço "while" é mais eficiente em termos de desempenho do que o laço "for", pois avalia a condição de parada apenas no início de cada iteração, enquanto o laço "for" precisa avaliar a condição a cada iteração.
+
+[GABARITO]
+A

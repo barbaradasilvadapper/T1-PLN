@@ -1,0 +1,18 @@
+ID: 13-079
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O analista Tiago foi incumbido de implementar, em determinado setor do MPU, dois controles previstos na NBR ISO/IEC 27001: o controle de trabalho remoto e o controle de mídia de armazenamento. A fim de harmonizar essa implementação com outras determinações do MPU que podem ser aplicáveis ao escopo de determinado controle, o analista deve ter em mente qual é o tipo de controle que está sendo implementado, à luz da norma. À luz da NBR ISO/IEC 27001, os controles sendo implementados por Tiago pertencem, respectivamente, às categorias:
+
+[ALTERNATIVAS]
+(A) pessoal e físico;
+(B) tecnológico e físico;
+(C) tecnológico e pessoal;
+(D) tecnológico e organizacional;
+(E) organizacional e tecnológico.
+
+[GABARITO]
+A

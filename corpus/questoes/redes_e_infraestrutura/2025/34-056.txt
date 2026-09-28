@@ -1,0 +1,18 @@
+ID: 34-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo Spanning Tree (STP) é fundamental em topologias de rede com switches redundantes. A função principal do STP em redes comutadas é
+
+[ALTERNATIVAS]
+(A) aumentar a largura de banda disponível.
+(B) distribuir carga entre múltiplos caminhos ativos.
+(C) implementar VLANs automaticamente.
+(D) criptografar o tráfego entre switches.
+(E) prevenir loops de camada 2 através do bloqueio de portas redundantes.
+
+[GABARITO]
+E

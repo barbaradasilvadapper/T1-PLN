@@ -1,0 +1,18 @@
+ID: 40-046
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A arquitetura do TCP/IP é composta de quatro camadas, são elas:
+
+[ALTERNATIVAS]
+(A) Interface com a rede, Internet (Rede), Transporte e Aplicação;
+(B) Interface com a rede, Apresentação, Transporte e Internet (Rede);
+(C) Física, Enlace, Internet (Rede) e Transporte;
+(D) Física, Rede, Transporte e Aplicação;
+(E) Interface com a rede, Sessão, Transporte e Apresentação.
+
+[GABARITO]
+A

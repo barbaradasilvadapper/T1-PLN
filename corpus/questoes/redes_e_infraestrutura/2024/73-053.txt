@@ -1,0 +1,18 @@
+ID: 73-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma determinada máquina recebeu uma mensagem 425 de um servidor FTP. A mensagem citada é:
+
+[ALTERNATIVAS]
+(A) “ocorre erro ao escrever o arquivo”;
+(B) “nome de usuário OK, senha requisitada”;
+(C) “não é possível abrir a conexão de dados”;
+(D) “conexão fechada, transferência cancelada”;
+(E) “conexão de dados já aberta, iniciando transferência”.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 94-071
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A analista Carla implementou uma solução algorítmica que classifica os novos processos submetidos à PGM de Niterói em níveis de indício de fraude. Para atingir este objetivo, Carla se baseou no algoritmo de machine learning para classificação que atribui, necessariamente, um valor no intervalo numérico de 0 a 1 para cada entrada. Carla utilizou como base o algoritmo de machine learning:
+
+[ALTERNATIVAS]
+(A) Regressão Linear;
+(B) Árvore de Decisão;
+(C) Regressão Logística;
+(D) Floresta Randômica;
+(E) Máquina de Vetores de Suporte.
+
+[GABARITO]
+C

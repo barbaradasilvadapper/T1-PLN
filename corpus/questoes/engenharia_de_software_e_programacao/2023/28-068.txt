@@ -1,0 +1,18 @@
+ID: 28-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+JSON é um formato de texto autodescritivo utilizado para armazenar e transportar dados escritos em pares chave-valor. Para escrever um par chave-valor JSON, deve-se usar o formato:
+
+[ALTERNATIVAS]
+(A) nome;Maria
+(B) (nome:"Maria")
+(C) {nome:Maria}
+(D) [nome:'Maria']
+(E) "nome":"Maria"
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 87-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um usuário de um computador com sistema operacional Windows 10 instalou uma nova unidade de disco, que formatou usando o sistema de arquivos FAT32, pois ouviu dizer que conseguiria transferir os arquivos mais rapidamente dessa forma. Considerando a escolha desse usuário, um recurso do sistema que ficará indisponível na unidade de disco instalada é:
+
+[ALTERNATIVAS]
+(A) registro da data de última modificação dos arquivos;
+(B) desfragmentação do disco;
+(C) execução de arquivos de programas de 64 bits;
+(D) controle de permissões de acesso aos arquivos;
+(E) transferência de arquivos maiores que 1GB.
+
+[GABARITO]
+D

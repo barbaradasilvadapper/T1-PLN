@@ -1,0 +1,18 @@
+ID: 25-041
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma instituição pretende instalar uma rede Wi-Fi nas suas dependências e está analisando os padrões disponíveis no mercado. O responsável pela análise descobriu que cada geração de redes sem fio Wi-Fi possui características intrínsecas da tecnologia adotada. Em função das características dos novos celulares que foram distribuídos para os colaboradores, a instituição decidiu instalar a rede Wi-Fi baseada no padrão 802.11ax que:
+
+[ALTERNATIVAS]
+(A) opera somente na faixa de 5 GHz;
+(B) também é conhecido como Wi-Fi de 5ª geração;
+(C) é incompatível com os outros padrões de Wi-Fi;
+(D) pode operar por meio de um canal de 320 MHz;
+(E) pode operar usando modulação de amplitude de quadratura QAM-1024.
+
+[GABARITO]
+E

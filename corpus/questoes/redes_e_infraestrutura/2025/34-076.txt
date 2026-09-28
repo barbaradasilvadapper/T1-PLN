@@ -1,0 +1,18 @@
+ID: 34-076
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um centro de convenções precisa suportar 3.000 usuários simultâneos em área densa usando 802.11ax. Sobre deployment de alta densidade wireless, analise as seguintes afirmativas: I. Desabilitar taxas legacy (1, 2, 5.5, 11 Mbps) aumenta eficiência do airtime. II. Utilizar canais de 160 MHz em 5 GHz maximiza throughput em ambientes densos. III. BSS Coloring reduz interferência co-canal melhorando reuso espacial.
+
+[ALTERNATIVAS]
+(A) I e III, apenas.
+(B) I e II, apenas.
+(C) II e III, apenas.
+(D) I, II e III.
+(E) III, apenas.
+
+[GABARITO]
+A

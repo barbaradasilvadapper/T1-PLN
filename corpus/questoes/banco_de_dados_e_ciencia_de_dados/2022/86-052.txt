@@ -1,0 +1,18 @@
+ID: 86-052
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A respeito de índices clusterizados em tabelas de bancos de dados relacionais, analise as afirmativas a seguir. I. Separam completamente as chaves e os registros da tabela indexada. II. Podem resultar em ganhos significativos de performance na execução de consultas que acessam registros associados a um certo valor, como os itens de uma ordem de compra, por exemplo. III. São raramente utilizados, porque demandam mais espaço de armazenagem.
+
+[ALTERNATIVAS]
+(A) I, II e III.
+(B) I e II, somente.
+(C) I e III, somente.
+(D) II e III, somente.
+(E) II, somente. Segurança da Informação, Segurança de Datacenter, Segurança de Dispositivos, Disponibilidade
+
+[GABARITO]
+E

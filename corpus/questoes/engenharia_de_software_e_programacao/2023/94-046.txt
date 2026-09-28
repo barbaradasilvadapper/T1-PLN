@@ -1,0 +1,18 @@
+ID: 94-046
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere uma página Web que exibe somente um botão. Quando essa página é carregada, ou o botão é clicado, a data corrente é exibida. O trecho de um script que implementa corretamente essa lógica é:
+
+[ALTERNATIVAS]
+(A) <html> <body> <button onclick, onload="XPTO()">Clique <script> function XPTO() {alert();} </script> </body> </html>
+(B) <html> <body> <button onclick="XPTO()">Clique <script> function XPTO() {alert(Date());} </script> </body> </html>
+(C) <html> <body> <button onload, onclick="XPTO()">Clique <script> function onload XPTO() {alert();} </script> </body> </html>
+(D) <html> <body onload="XPTO()"> <button onclick="XPTO()">Clique <script> function XPTO() {alert(Date());} </script> </body> </html>
+(E) <html> <body onload="XPTO()" <button onclick="XPTO()">Clique > <script> function onload XPTO(Date()) {} </script> </body> </html>
+
+[GABARITO]
+D

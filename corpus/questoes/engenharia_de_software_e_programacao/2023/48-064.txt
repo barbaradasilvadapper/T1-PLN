@@ -1,0 +1,18 @@
+ID: 48-064
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Kléber gerencia os pipelines do Gitlab CI/CD do TCE SP. No pipeline do projeto TCEMóvel, o job D precisa dos artefatos que foram gerados pelos jobs A e B. Para minimizar o tempo gasto com a transferência de artefatos, Kléber modificou a seção do .gitlab-ci.yml que define o job D, adicionando os nomes dos jobs A e B à subseção que especifica de quais jobs devem ser obtidos artefatos. Na definição do job D, Kléber modificou a subseção:
+
+[ALTERNATIVAS]
+(A) needs;
+(B) inherit;
+(C) extends;
+(D) artifacts;
+(E) dependencies.
+
+[GABARITO]
+E

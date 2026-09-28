@@ -1,0 +1,18 @@
+ID: 70-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Assinale a opção que apresenta o comando utilizado em sistemas Linux para verificar os registros de logs de forma contínua e em tempo real.
+
+[ALTERNATIVAS]
+(A) tail -f
+(B) grep -r
+(C) ls -l
+(D) cat /var/log
+(E) ps -ax
+
+[GABARITO]
+A

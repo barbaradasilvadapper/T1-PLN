@@ -1,0 +1,18 @@
+ID: 21-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Considerando o cronograma de um projeto, analise as afirmativas a seguir. I. O caminho crítico é a sequência de atividades de um diagrama de rede que não permite atrasos. Ou seja, se uma atividade desse caminho atrasar, o projeto também atrasará. II. Com a determinação de datas de início e término mais cedo e de início e término mais tarde de cada atividade, desconsiderando qualquer tipo de limitação de outros recursos envolvidos, é possível identificar o caminho crítico de um projeto. III. A folga livre significa quanto tempo uma atividade pode atrasar sem que haja impacto no término do projeto.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e II, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

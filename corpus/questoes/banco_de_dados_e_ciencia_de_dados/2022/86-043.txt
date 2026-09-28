@@ -1,0 +1,18 @@
+ID: 86-043
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Na criação e manutenção de bancos de dados Oracle, a escolha do conjunto de caracteres (Character Set) requer atenção, especialmente pelo caráter internacional de muitas instalações. Assinale a opção que apresenta o conjunto que abrange múltiplos padrões de codificação, sendo a escolha default quando usado o Oracle Universal Installer.
+
+[ALTERNATIVAS]
+(A) AL32UTF8
+(B) JA16SJIS
+(C) UNICODE_OR
+(D) UFT-16
+(E) WE8DEC
+
+[GABARITO]
+A

@@ -1,0 +1,18 @@
+ID: 07-068
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj se
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O time de desenvolvimento de sistemas (TDS) tem utilizado o Swagger conjugado ao desenvolvimento de API Restful. Utilizando o Swagger:
+
+[ALTERNATIVAS]
+(A) as requisições PUT requerem autorização além da autenticação;
+(B) o grupo de testes pode testar os serviços da API sem a camada de frontend;
+(C) está dispensada a autenticação à API pois não há riscos de injeção de código;
+(D) as respostas aos serviços com conteúdos JSON não são exibidas, embora sejam exibidos os códigos de retorno;
+(E) os códigos de retorno de erro devem obrigatoriamente ser definidos e os códigos de sucesso são opcionais.
+
+[GABARITO]
+B

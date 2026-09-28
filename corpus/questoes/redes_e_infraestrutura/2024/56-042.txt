@@ -1,0 +1,18 @@
+ID: 56-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em um sistema de gerenciamento de recursos de uma grande corporação de tecnologia, o analista Hop precisa resolver um problema de Starvation que afeta a distribuição equitativa de recursos computacionais entre vários processos críticos. Após uma análise profunda, Hop identifica que o algoritmo de escalonamento atual prioriza processos com requisitos de recursos mais altos, deixando processos com requisitos menores em espera indefinida. Para resolver esse problema, Hop propõe uma solução inovadora que reestrutura a lógica de alocação de recursos, garantindo que todos os processos recebam uma fatia justa de tempo de CPU, sem comprometer a eficiência global do sistema. Para resolver o problema de Starvation, Hop adotou a seguinte abordagem:
+
+[ALTERNATIVAS]
+(A) implementação de um algoritmo de escalonamento Round-Robin, que distribui o tempo de CPU igualmente entre todos os processos, independentemente de seus requisitos de recursos;
+(B) criação de um sistema de prioridades dinâmicas, onde os processos que esperam há mais tempo têm sua prioridade aumentada gradualmente até que sejam atendidos;
+(C) adoção do algoritmo de escalonamento First-Come, First-Served (FCFS), garantindo que todos os processos sejam atendidos pela ordem de chegada, sem priorização baseada em requisitos de recursos;
+(D) desenvolvimento de um mecanismo de feedback que ajusta a alocação de recursos em tempo real, baseado na análise de uso de CPU e na previsão de demanda futura;
+(E) introdução de um sistema de cotas de recursos, onde cada processo recebe uma cota fixa, que pode ser ajustada manualmente conforme a necessidade.
+
+[GABARITO]
+A

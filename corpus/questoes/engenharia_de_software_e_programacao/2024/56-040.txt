@@ -1,0 +1,18 @@
+ID: 56-040
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A fase de testes de software em processos ágeis se caracteriza pela elaboração dos testes antes da implementação do código, permitindo a execução do teste enquanto o código está sendo escrito. A característica do XP que tem como fundamento esse conceito de teste é o:
+
+[ALTERNATIVAS]
+(A) desenvolvimento de testes incrementais a partir de cenários;
+(B) envolvimento dos usuários no desenvolvimento de testes e validação;
+(C) desenvolvimento de test-first;
+(D) uso de frameworks de testes automatizados;
+(E) uso de workflows em testes. ± Arquitetura de Computadores, Sistemas Operacionais e Redes
+
+[GABARITO]
+C

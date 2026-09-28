@@ -1,0 +1,18 @@
+ID: 02-045
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto da implementação de bancos de dados, o acrônimo ACID denota o conjunto de propriedades que devem ser observadas por sistemas transacionais. Essas quatro propriedades são:
+
+[ALTERNATIVAS]
+(A) Amorfabilidade, Concorrência, Integridade e Durabilidade;
+(B) Atomicidade, Consistência, Isolamento e Durabilidade;
+(C) Atualização, Coesão, Inserção e Deleção;
+(D) Auditabilidade, Conformidade, Independência e Distribuição;
+(E) Automação, Concorrência, Integridade e Distribuição.
+
+[GABARITO]
+B

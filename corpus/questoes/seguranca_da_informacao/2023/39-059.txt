@@ -1,0 +1,18 @@
+ID: 39-059
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A coordenadora de TI Carla decidiu implementar um duplo fator de autenticação de acesso à sala de servidores da DPE/RS. Os dois fatores de autenticação distintos que Carla deve escolher são:
+
+[ALTERNATIVAS]
+(A) escaneamento de íris e leitura de digital;
+(B) senha e código via SMS;
+(C) tag NFC e aplicativo de TOTP;
+(D) PIN e resposta de pergunta secreta;
+(E) token USB e notificação push.
+
+[GABARITO]
+B

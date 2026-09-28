@@ -1,0 +1,18 @@
+ID: 42-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma agência de MarketPlace está utilizando os serviços disponíveis do Google Cloud. No caso, os administradores do ambiente de nuvem inserido no Google Cloud apagaram um projeto que foi criado e se encontrava ativo. O método da API usado para essa ação foi o
+
+[ALTERNATIVAS]
+(A) projects.clean
+(B) projects.delete
+(C) projects.erase
+(D) projects.fade
+(E) projects.kill
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 93-090
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: consultor tecnico legislativo informatica camara de sao paulo sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Sobre as abordagens definidas no PMBOK 7, analise os itens a seguir. I. A abordagem híbrida (hybrid approach) resulta em um resultado final não ágil, a partir da combinação de dois ou mais elementos ágeis e não ágeis. II. A abordagem preditiva (predictive approach) determina somente nas fases finais o escopo, o tempo e o custo do projeto. III. A abordagem de desenvolvimento incremental (incremental approach) adota uma execução adaptável na qual a entrega é produzida sucessivamente , enquanto na abordagem iterativa (iterative approach) ocorre uma implementação inicial simplificada, e que segue pela elaboração progressiva com decréscimos contínuos na complexidade da implementação de funcionalidades.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+A

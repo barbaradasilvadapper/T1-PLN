@@ -1,0 +1,18 @@
+ID: 11-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario desenvolvimento de sistemas tj rr
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+PostgreSQL 16 suporta tanto Views (Visões) quanto Materialized Views (Visões Materializadas). Considere as seguintes afirmações relacionadas a esses conceitos. I. Tanto uma Materialized View como uma View são apenas cópias virtuais, sem que haja um armazenamento físico dos dados (resultados da consulta). II. O comando REFRESH MATERIALIZED VIEW nome_da_visao_materializada; substitui completamente o conteúdo da Materialized View, descartando os dados antigos. III. A utilização da cláusula WITH NO DATA, no comando de criação de uma Materialized View, faz com que sua estrutura seja criada, mas sem preenchê-la, isto é, sem popular com dados no momento da criação.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 83-038
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+João decidiu implementar um sistema RAID por meio de um conjunto de dois discos rígidos e utilizando a técnica de striping para distribuição de dados através de ambos os discos e sem espelhamento. Esse nível de RAID é o
+
+[ALTERNATIVAS]
+(A) RAID 0.
+(B) RAID 1.
+(C) RAID 10.
+(D) RAID 50.
+(E) RAID 100.
+
+[GABARITO]
+A

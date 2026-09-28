@@ -1,0 +1,18 @@
+ID: 39-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Renata é responsável por estabelecer a rotina de backups de um banco de imagens. Inicialmente, Renata determinou que seriam feitos backups completos do banco de imagens aos domingos e que seriam feitos backups parciais do tipo diferencial ou incremental, diariamente, exceto no domingo. Em um domingo, o backup completo apresentava 52 GB de tamanho. Ao longo da semana, os aumentos diários no banco de imagens foram de 4 GB, 1 GB, 3 GB, 2 GB, 1 GB, 2 GB e 2 GB. Com isso, os espaços alocados por Renata para os backups completo e parcial são, respectivamente:
+
+[ALTERNATIVAS]
+(A) 65 GB e 51 GB com tipo incremental;
+(B) 65 GB e 51 GB com tipo diferencial;
+(C) 67 GB e 13 GB com tipo incremental;
+(D) 67 GB e 13 GB com tipo diferencial;
+(E) 67 GB e 66 GB com tipo diferencial.
+
+[GABARITO]
+C

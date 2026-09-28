@@ -1,0 +1,18 @@
+ID: 35-051
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Durante a instalação do Oracle23ai, o administrador deve escolher o charset a ser utilizado pelo SGBD. Com relação ao charset, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Alterar o charset após um banco de dados ser criado é muito caro em termos de tempo e consumo de recursos. Tais operações podem exigir a conversão de todos os dados de caracteres exportando todo o banco de dados e importando-o de volta. ( ) Oracle não usa o charset em dados armazenados do tipos número (FLOAT, INT, NUMERIC e DOUBLE) e data (DATE, DATETIME, TIMESTAMP, TIME). Usa o charset apenas recursos que envolvam literais, tais como em nomes de tabelas, nomes de colunas e variáveis PL/SQL e nos código-fonte SQL e PL/SQL, incluindo literais de texto incorporados nos códigos. ( ) O charset padrão dos bancos de dados é o AL64UTF8 do tipo unicode. Trata-se de uma codificação byte único que consome pouco tempo de CPU para processamento de textos em comparação o charset WE8MSWIN1252 de múltiplos bytes.
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) V – F – F.
+(C) F – V – V.
+(D) F – F – V.
+(E) F – V – F.
+
+[GABARITO]
+B

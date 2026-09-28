@@ -1,0 +1,18 @@
+ID: 34-048
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em topologias WAN, a conexão LAN-to-LAN permite interligar redes locais geograficamente distribuídas. A principal característica que diferencia LAN-to-LAN de acesso remoto individual é
+
+[ALTERNATIVAS]
+(A) uso exclusivo de MPLS.
+(B) conectividade permanente entre redes inteiras.
+(C) limitação a duas localidades apenas.
+(D) impossibilidade de usar Internet.
+(E) suporte apenas para tráfego de voz.
+
+[GABARITO]
+B

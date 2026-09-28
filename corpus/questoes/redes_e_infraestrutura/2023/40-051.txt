@@ -1,0 +1,18 @@
+ID: 40-051
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+À luz das características dos principais protocolos de rede TCP/IP, o Protocolo de Mensagens de Controle da Internet (ICMP) é utilizado para:
+
+[ALTERNATIVAS]
+(A) traduzir o endereço web para um dado nome de host;
+(B) determinar a rota apropriada para um datagrama;
+(C) determinar o endereço do hardware de um dado nome de host;
+(D) comunicar informações de camada de rede entre si, por hospedeiros e roteadores para comunicação de erros;
+(E) determinar o endereço IP de um dado nome de host.
+
+[GABARITO]
+D

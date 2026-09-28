@@ -1,0 +1,18 @@
+ID: 66-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A partir da análise do seguinte diagrama de classes da UML é correto auferir que
+
+[ALTERNATIVAS]
+(A) a classe B atua como classe associativa entre as classes A e C.
+(B) o relacionamento entre as classes A e B é do tipo associação qualificada.
+(C) o relacionamento entre B e C é representado por uma dependência estereotipada.
+(D) os objetos da classe B herdam as características da classe C.
+(E) um objeto da classe B está vinculado a exatamente um objeto da classe A.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 60-026
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um órgão adquiriu novos servidores para os ambientes de produção e desenvolvimento. Os servidores de produção acessarão o storage P, enquanto os servidores de desenvolvimento acessarão o storage D. Existe um equipamento para backup em fita (Tape Library) disponível para realizar as cópias de segurança dos servidores. Todos os dispositivos estão conectados entre si por meio de uma rede de armazenamento (SAN), composta por 2 fabric switches. Para permitir a transmissão de dados na SAN, foram criados zoneamentos (fabric zoning) envolvendo os dispositivos de armazenamento e backup, conforme descrito abaixo: Zona A com Storage P Zona B com Storage D Zona C com Tape Library Para fazer backup dos dados dos servidores de produção armazenados no storage P, é necessário incluir os servidores de produção apenas na(s) zona(s):
+
+[ALTERNATIVAS]
+(A) A;
+(B) B;
+(C) C;
+(D) A e B;
+(E) A e C.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 52-071
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A mineração de dados é um dos principais componentes do processo de descoberta de conhecimento em bases de dados (KDD - Knowledge Discovery in Databases). Seu objetivo é extrair padrões relevantes, previamente desconhecidos, e potencialmente úteis a partir de grandes volumes de dados. Sobre a mineração de dados, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A mineração de dados consiste exclusivamente na coleta e no armazenamento de dados em data warehouses, não envolvendo análises ou descobertas de padrões.
+(B) O principal objetivo da mineração de dados é remover informações redundantes antes que elas sejam carregadas em sistemas transacionais.
+(C) A mineração de dados utiliza técnicas estatísticas, de aprendizado de máquina e inteligência artificial para identificar padrões e relacionamentos em grandes volumes de dados.
+(D) A mineração de dados deve ser aplicada somente em bancos de dados estruturados, sendo incompatível com dados não estruturados como texto ou imagens.
+(E) Diferentemente da análise preditiva, a mineração de dados limita-se a gerar relatórios descritivos previamente definidos por especialistas.
+
+[GABARITO]
+C

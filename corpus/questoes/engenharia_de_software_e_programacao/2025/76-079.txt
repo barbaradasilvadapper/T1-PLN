@@ -1,0 +1,18 @@
+ID: 76-079
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Analista de Sistemas precisa garantir que o histórico de mudanças do código-fonte do novo sistema de gestão de protocolo seja registrado, permitindo que a equipe possa rastrear as alterações, reverter para versões anteriores ou trabalhar em paralelo em diferentes funcionalidades. A ferramenta adotada para isso é o GIT. O seguinte conceito fundamental no GIT representa a cópia isolada e independente do código-fonte, que permite aos desenvolvedores trabalhar em uma nova funcionalidade ou correção sem afetar o código principal:
+
+[ALTERNATIVAS]
+(A) Remote.
+(B) Commit.
+(C) Staging Area.
+(D) Branch.
+(E) Repository.
+
+[GABARITO]
+D

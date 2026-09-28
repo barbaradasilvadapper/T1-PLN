@@ -1,0 +1,18 @@
+ID: 21-080
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um fabricante de certo equipamento diz que o tempo médio de sobrevida de seu produto é de 720 dias. Para verificar se a afirmação do fabricante estava correta, foi realizado um teste de hipótese. Para tanto, foi selecionado uma amostra de 25 equipamentos, em que se observou que o tempo médio e o desvio padrão dessa amostra foi de, aproximadamente, 700 dias e 20 dias respectivamente. Levando em consideração a potência do teste, assinale a opção que apresenta a hipótese alternativa mais adequada para a realização do teste.
+
+[ALTERNATIVAS]
+(A) H A : µ < 720.
+(B) H A : µ ≠ 720.
+(C) H A : µ > 720.
+(D) H A : µ < 700.
+(E) H A : µ ≠ 700.
+
+[GABARITO]
+A

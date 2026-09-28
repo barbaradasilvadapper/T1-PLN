@@ -1,0 +1,18 @@
+ID: 79-069
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O procedimento forense denominado carving, que consiste em algoritmos de reconstrução de arquivos com base na recuperação de fragmentos e reconhecimento de conteúdos típicos, é oferecido em muitas ferramentas forenses. Sobre esse procedimento, o analista forense deve considerar que:
+
+[ALTERNATIVAS]
+(A) a opção de carving deve ser empregada quando disponível na ferramenta de recuperação de dados, já que garante a recuperação de todos os dados que o usuário do dispositivo tenha apagado, incidental ou propositadamente, permitindo relacioná-los diretamente a ele;
+(B) o procedimento de carving deve ser utilizado com critério, pois há o risco de se recuperarem dados de usos anteriores de um dispositivo de armazenamento, sem relação com o usuário ou os fatos sob investigação, podendo ser desaconselhável em algumas situações;
+(C) uma das vantagens do uso de carving é que os algoritmos de reconhecimento seguem um padrão, garantindo o mesmo resultado, independentemente da ferramenta ou versão utilizadas;
+(D) dados recuperados por carving são interessantes para subsidiar uma investigação, mas não têm valor forense real, devido à variabilidade de resultados (a depender da ferramenta ou versão utilizada), além de não recuperarem metadados como nomes dos arquivos ou datas de acesso;
+(E) na maioria dos casos, ele não é de grande utilidade, pois recupera apenas fragmentos de arquivos removidos pelo usuário, não sendo útil no caso de uma formatação lógica do dispositivo, ainda que recente.
+
+[GABARITO]
+B

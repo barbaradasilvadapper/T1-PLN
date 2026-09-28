@@ -1,0 +1,18 @@
+ID: 29-062
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A equipe de TI do TJSE precisa identificar as causas raiz dos problemas de desempenho do banco de dados de RH, decorrentes de uma recente atualização do sistema. De acordo com as práticas do ITIL v.4, a melhor abordagem é:
+
+[ALTERNATIVAS]
+(A) voltar o sistema para a versão anterior à atualização;
+(B) implementar uma política de restrição de acessos ao banco de dados;
+(C) contratar um consultor externo para revisar a configuração do banco de dados;
+(D) utilizar ferramentas de monitoramento de desempenho para identificar gargalos;
+(E) realizar um backup completo do banco de dados antes de fazer qualquer alteração.
+
+[GABARITO]
+D

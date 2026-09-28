@@ -1,0 +1,18 @@
+ID: 65-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A sociedade empresária Max Tech produz um aplicativo de gerenciamento de tarefas para equipes remotas. Após o lançamento, vários usuários relataram problemas de usabilidade e desempenho do aplicativo, especialmente em condições de rede variáveis. A diretoria reconheceu a necessidade de aprimorar a qualidade do software e solicitou uma revisão nos Requisitos Não Funcionais (RNFs) que foram negligenciados. No contexto apresentado, assinale a ação capaz de garantir a qualidade do software
+
+[ALTERNATIVAS]
+(A) Realizar uma pesquisa de mercado para identificar as principais funcionalidades ausentes no aplicativo e integrá-las no menor tempo possível.
+(B) Priorizar a adição de novos recursos ao aplicativo, assumindo que isso automaticamente resolverá os problemas de desempenho e usabilidade relatados pelos usuários.
+(C) Implementar uma estratégia de marketing mais agressiva para melhorar a percepção do produto pelo mercado, desviando a atenção dos problemas de desempenho e usabilidade.
+(D) Focar na otimização do código para melhorar o desempenho do aplicativo, assim como aprimorar a interface com o usuário, garantindo uma execução mais rápida em todas as condições de rede e melhor usabilidade para o usuário.
+(E) Conduzir uma revisão focada nos Requisitos Não Funcionais, especialmente aqueles relacionados à usabilidade e ao desempenho em condições de rede variáveis, para identificar lacunas e oportunidades de melhoria.
+
+[GABARITO]
+E

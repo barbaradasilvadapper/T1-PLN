@@ -1,0 +1,18 @@
+ID: 12-086
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma grande vantagem das cifras assimétricas é permitir a comunicação segura entre duas partes sem combinação prévia de chaves. Isso é possível através do uso de chaves públicas que são divulgadas através da rede insegura e chaves privadas que são mantidas em segredo. Entretanto para que esse processo funcione as partes envolvidas precisam confiar que a outra parte é realmente a dona da chave pública que está apresentado, senão ambos ficam vulneráveis a um certo tipo de ataque durante a troca de chaves. O nome deste ataque e o sistema responsável por garantir a propriedade das chaves públicas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) força bruta e Cadastro Público.
+(B) man in the middle e Autoridade Certificadora.
+(C) inversão de hash e Autoridade Publicadora.
+(D) rainbow attack e Cadastro de Chaves.
+(E) ataque de dicionário e Chaveiro Certificado.
+
+[GABARITO]
+B

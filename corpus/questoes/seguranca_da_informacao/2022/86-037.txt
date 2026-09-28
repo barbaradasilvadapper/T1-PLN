@@ -1,0 +1,18 @@
+ID: 86-037
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Flávio pretende elaborar um plano de recuperação de desastres para um sistema vital de TI, considerando um RPO adequado às necessidades de negócio da sua organização. Para isso, Flávio precisa, necessariamente, conhecer
+
+[ALTERNATIVAS]
+(A) o tempo máximo aceitável para o sistema se recompor e retomar as atividades após sofrer uma interrupção.
+(B) a quantidade de informação que a empresa toleraria perder, porque não seriam recuperadas na retomada do sistema.
+(C) a quantidade de ataques cibernéticos sobre o sistema evitados nos últimos 12 meses.
+(D) o tempo médio necessário para reparar um componente ou dispositivo do sistema com falha.
+(E) o custo de manutenção, para que o sistema continue funcionando adequadamente dentro da empresa.
+
+[GABARITO]
+B

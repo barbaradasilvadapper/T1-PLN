@@ -1,0 +1,18 @@
+ID: 69-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Considerando a definição estabelecida no PMBOK (6ª edição), do Project Management Institute (PMI), as características de projetos incluem
+
+[ALTERNATIVAS]
+(A) esforço temporário feito por meio de uma série de tarefas repetitivas.
+(B) esforço único empreendido para criar um produto, serviço ou resultado único.
+(C) finalidade específica a ser atingida e o uso de vários recursos disponíveis para a sua consecução.
+(D) esforço único feito por meio de uma série de tarefas repetitivas.
+(E) finalidade específica a ser atingida feito por meio de uma série de tarefas repetitivas.
+
+[GABARITO]
+C

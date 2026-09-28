@@ -1,0 +1,18 @@
+ID: 04-046
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto do MySQL 8.x, analise as afirmativas a seguir a respeito da utilização de índices do tipo FULLTEXT. I. Índices FULLTEXT podem ser aplicados somente para tabelas InnoDB e MyISAM. II. Consultas baseadas em índices FULLTEXT devem usar a sintaxe SEARCH(col1, col2, ...) FOR(expressão [modificador]). III. O comando ALTER TABLE não pode ser utilizado para a criação de índices FULLTEXT. Está correto somente o que se afirma em:
+
+[ALTERNATIVAS]
+(A) I;
+(B) II;
+(C) I e II;
+(D) I e III;
+(E) II e III. – Página 12 Tipo
+
+[GABARITO]
+A

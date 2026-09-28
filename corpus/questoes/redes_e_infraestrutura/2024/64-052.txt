@@ -1,0 +1,18 @@
+ID: 64-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de suporte em informatica ale to
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um protocolo define o formato e a ordem das mensagens trocadas entre duas ou mais entidades comunicantes, bem como as ações realizadas na transmissão e/ou no recebimento de uma mensagem ou outro evento. Relacione os protocolos listados a seguir, às respectivas funções. 1. IMAP 2. SMTP 3. ARP 4. POP3 ( ) Enviar mensagens de correio eletrônico de forma confiável e eficiente. ( ) Permite que um cliente acesse e manipule mensagens de correio eletrônico em um servidor. ( ) Não se destina a fornecer operações extensas de manipulação de mensagens de correio eletrônico em um servidor; normalmente, o e-mail é baixado e excluído do servidor. ( ) Conversão de endereços IP para endereços MAC. Assinale a opção que indica a relação correta, segundo a ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 3 – 2 – 4.
+(B) 2 – 1 – 4 – 3.
+(C) 1 – 4 – 3 – 2.
+(D) 2 – 4 – 3 – 1.
+(E) 4 – 1 – 3 – 2.
+
+[GABARITO]
+B

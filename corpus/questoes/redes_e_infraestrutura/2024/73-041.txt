@@ -1,0 +1,18 @@
+ID: 73-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Frederico configurou uma instalação personalizada do Red Hat Enterprise Linux (RHEL) para servidores Intel 64-bit baseados em BIOS. Frederico utilizou ainda o RHEL Kickstart para automatizar a instalação personalizada. A variante do Kickstart utilizada foi a que automatiza completamente o processo de instalação, a partir de um boot loader via rede adequadamente configurado. Para permitir o início automático da instalação Kickstart pelos servidores, Frederico configurou um servidor de boot:
+
+[ALTERNATIVAS]
+(A) ISO;
+(B) PXE;
+(C) CDN;
+(D) VNC;
+(E) HTTP.
+
+[GABARITO]
+B

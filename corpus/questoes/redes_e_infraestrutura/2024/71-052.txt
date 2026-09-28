@@ -1,0 +1,18 @@
+ID: 71-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Algoritmo de controle de congestionamento do protocolo TCP possui três componentes principais. Assinale a opção que indica o componente que é recomendado, mas não é obrigatório.
+
+[ALTERNATIVAS]
+(A) Split.
+(B) Slow start.
+(C) Fast recovery.
+(D) Congestion avoidance.
+(E) Multiplicative decrease.
+
+[GABARITO]
+C

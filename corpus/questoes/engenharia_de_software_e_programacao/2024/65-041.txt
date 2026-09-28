@@ -1,0 +1,18 @@
+ID: 65-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um projeto de desenvolvimento de software orientado a objetos para um sistema de gerenciamento de biblioteca, temos diagramas para capturar tanto os requisitos funcionais quanto os não funcionais. A garantia de tempo de resposta inferior a dois segundos para busca no catálogo de livros é um requisito não funcional. O diagrama UML utilizado para representar as partes do sistema responsável por esse requisito é denominado
+
+[ALTERNATIVAS]
+(A) Diagrama de Classes.
+(B) Diagrama de Casos de Uso.
+(C) Diagrama de Atividades.
+(D) Diagrama de Componentes.
+(E) Diagrama de Sequência.
+
+[GABARITO]
+D

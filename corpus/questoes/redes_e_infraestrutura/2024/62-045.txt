@@ -1,0 +1,18 @@
+ID: 62-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O Zabbix é uma poderosa ferramenta de monitoramento de rede e infraestrutura, amplamente utilizada para acompanhar a performance e a disponibilidade de dispositivos de rede, servidores e outros ativos de TI. Em ambientes distribuídos, usar um Proxy Zabbix é uma maneira segura para coletar dados. Todos os dados coletados pelo Proxy são armazenados de forma local, temporariamente, antes de serem transmitidos para o servidor Zabbix. Dessa forma, nenhum dado será perdido se ocorrerem problemas temporários de comunicação entre as partes. Assinale a opção que lista funcionalidades suportadas por um Proxy Zabbix.
+
+[ALTERNATIVAS]
+(A) Enviar alertas, monitoração de logs, comandos remotos, SNMP checks.
+(B) Calcular triggers, SNMP traps, descoberta de rede, SSH checks.
+(C) Monitoração web, enviar alertas, SNMP traps, verificações internas.
+(D) Descoberta de rede, SNMP checks, IPMI checks, monitoração de logs.
+(E) Telnet checks, SNMP traps, descoberta de rede, enviar alertas.
+
+[GABARITO]
+D

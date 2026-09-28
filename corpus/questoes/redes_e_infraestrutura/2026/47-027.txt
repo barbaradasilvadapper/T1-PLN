@@ -1,0 +1,18 @@
+ID: 47-027
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O MPES registrou reclamações recorrentes de lentidão nos sistemas processuais e travamentos durante audiências virtuais, especialmente entre 9 e 12 horas. A análise técnica apontou saturação dos links MPLS nos horários de pico. Uma das propostas foi a adição de links de internet com gerenciamento SD-WAN. Sobre a tecnologia SD-WAN, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Ela permite direcionar cada fluxo de dados pelo caminho mais adequado, medindo a qualidade dos links em tempo real.
+(B) Ela melhora o desempenho ao comprimir pacotes na camada física, reduzindo o tempo de transmissão nos links MPLS.
+(C) Ela atua substituindo os equipamentos MPLS por roteadores com tabelas de roteamento estático pré-configuradas.
+(D) Ela depende exclusivamente de links MPLS para funcionar, sendo inoperante sobre conexões de internet convencional.
+(E) Ela opera como um protocolo de camada 2, utilizando comutação de rótulos para priorizar o tráfego crítico.
+
+[GABARITO]
+A

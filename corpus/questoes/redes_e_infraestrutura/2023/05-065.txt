@@ -1,0 +1,18 @@
+ID: 05-065
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Fernando estava configurando um Web Server Tomcat para que pudesse hospedar o novo sistema de controle de estoque na rede interna da empresa. Porém, descobriu que o sistema utiliza componentes MDB, e foi obrigado a trocar o Tomcat pelo Application Server JBoss, porque o Tomcat:
+
+[ALTERNATIVAS]
+(A) restringe a gerência de sessões de usuário ao timeout de dez minutos;
+(B) transforma as páginas JSP em Servlets;
+(C) permite apenas o protocolo HTTP, sem suporte ao HTTPS;
+(D) oferece apenas o contêiner de Servlets, sem apresentar um contêiner para componentes EJB;
+(E) inviabiliza o uso de JMS (Java Message Service).
+
+[GABARITO]
+D

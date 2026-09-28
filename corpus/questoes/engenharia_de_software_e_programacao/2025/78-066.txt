@@ -1,0 +1,18 @@
+ID: 78-066
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Na modelagem orientada a objetos, os diagramas de classes da UML são ferramentas essenciais para representar a estrutura estática de um sistema, detalhando classes, atributos, operações e os relacionamentos entre elas. Com relação aos relacionamentos de classes da UML, analise os itens a seguir. I. Composição. II. Agregação. III. Generalização. Sobre os relacionamentos fundamentais nesses diagramas de classes da UML, está correto o que se afirma em
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) I, II e III.
+(E) III, apenas
+
+[GABARITO]
+E

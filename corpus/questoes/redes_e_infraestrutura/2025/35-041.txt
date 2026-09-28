@@ -1,0 +1,18 @@
+ID: 35-041
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de redes e comunicacao de dados classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os endereços IP virtuais oferecem flexibilidade, escalabilidade e alta disponibilidade em redes de computadores. Com relação aos endereços IP virtuais, analise os itens a seguir. I. Um endereço IP virtual pode ser compartilhado entre vários domínios ou vários servidores. II. O endereçamento IP virtual permite que um endereço IP seja usado quando vários sites são hospedados em um mesmo servidor. IPs virtuais também são amplamente usados para balancear o tráfego de entrada para vários servidores. III. Os pacotes de entrada são enviados para o IP virtual e encaminhados para o endereço IP real de um servidor.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+E

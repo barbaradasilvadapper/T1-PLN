@@ -1,0 +1,18 @@
+ID: 78-059
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Com relação a arquitetura e desenvolvimento em nuvem, analise os itens a seguir. I. IaaS, PaaS e SaaS são tecnologias populares conhecidas como modelos de serviço de nuvem (ou modelos de computação em nuvem) que fornecem, respectivamente, infraestrutura, plataforma e aplicações. II. CaaS, é utilizado para desenvolver e implantar aplicativos usando contêineres como serviço, promovendo entrega e gerenciamento de todos os recursos de hardware e software. III. O desenvolvimento em nuvem é a abordagem para criar aplicações e ferramentas de TI usando a computação em nuvem. IV. A adoção da nuvem não é ideal para todos os casos, sendo necessário considerar que tipo de nuvem se quer criar com base nos investimentos em tecnologia, nos requisitos de negócios específicos e nas metas gerais que espera alcançar.
+
+[ALTERNATIVAS]
+(A) I e IV, apenas.
+(B) I e, III, apenas.
+(C) II e III, apenas.
+(D) III e IV, apenas.
+(E) I, II, III e IV.
+
+[GABARITO]
+E

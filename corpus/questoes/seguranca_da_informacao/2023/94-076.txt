@@ -1,0 +1,18 @@
+ID: 94-076
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao pgm rj
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Na estrutura hierárquica de confiança da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), a entidade que tem a competência de encaminhar solicitações de emissão ou revogação de certificados digitais e identificação de seus solicitantes, de forma presencial é o(a):
+
+[ALTERNATIVAS]
+(A) Autoridade Certificadora de 1 º nível;
+(B) Autoridade Certificadora de 2 º nível;
+(C) Comitê Gestor da ICP-Brasil;
+(D) Prestador de Serviço de Suporte;
+(E) Autoridade de Registro.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 71-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo tecnologia da informacao dnit
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma máquina virtual, assim como um computador físico, executa um sistema operacional e aplicativos. O hipervisor de uma serve como plataforma para executar máquinas virtuais e permite a consolidação de recursos de computação. O hipervisor utilizado pelo VMware vSphere é o
+
+[ALTERNATIVAS]
+(A) vCenter Single Sign-On.
+(B) vCenter Server.
+(C) tcServer.
+(D) ESXi.
+(E) STX.
+
+[GABARITO]
+D

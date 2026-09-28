@@ -1,0 +1,18 @@
+ID: 87-063
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Na teoria do projeto de bancos de dados relacionais, o estabelecimento das dependências funcionais tem um papel importante, pois é a partir dessas relações que é possível proceder à normalização dos bancos. Essas dependências funcionais podem ser manipuladas por meio de um conjunto básico de axiomas. Com relação aos atributos X, Y, W e Z, analise as seguintes derivações propostas. I. Se X → Y e Y → Z então X → Z. II. Se X → Y então XW → ZW. III. Se Y está contido num conjunto qualquer de atributos, como XYZW, por exemplo, então XYZW → Y. Sobre essas derivações, está correto o que é proposto em:
+
+[ALTERNATIVAS]
+(A) I, somente;
+(B) I e II, somente;
+(C) I e III, somente;
+(D) II e III, somente;
+(E) I, II e III.
+
+[GABARITO]
+C

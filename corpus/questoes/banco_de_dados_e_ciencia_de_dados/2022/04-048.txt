@@ -1,0 +1,18 @@
+ID: 04-048
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No SQL Server 19, o comando de criação de restrições de chaves estrangeiras (em inglês, foreign key constraints) oferece as cláusulas ON DELETE e ON UPDATE, cujo conjunto de opções permitidas é:
+
+[ALTERNATIVAS]
+(A) CASCADE, NO ACTION, RAISE ERROR e SET NULL;
+(B) CASCADE, NO ACTION, RESTRICT e SET NULL;
+(C) CASCADE, NO ACTION, SET DEFAULT e SET NULL;
+(D) NO ACTION, RAISE ERROR, SET DEFAULT e SET NULL;
+(E) RESTRICT, SET DEFAULT e SET NULL.
+
+[GABARITO]
+C

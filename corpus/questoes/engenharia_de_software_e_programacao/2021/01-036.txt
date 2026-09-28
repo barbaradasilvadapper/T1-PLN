@@ -1,0 +1,18 @@
+ID: 01-036
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere um processo de ordenação dos elementos do array [16,8,6,14,12,4] em ordem crescente. Supõe-se um algoritmo que percorra o array repetidamente até que esteja ordenado, sem utilização de memória auxiliar para os elementos do array (in place). A lista a seguir mostra a disposição dos elementos no array após cada ciclo de iteração. [8, 6, 14, 12, 4, 16] [6, 8, 12, 4, 14, 16] [6, 8, 4, 12, 14, 16] [6, 4, 8, 12, 14, 16] [4, 6, 8, 12, 14, 16] Nesse caso, é correto concluir que foi utilizado o algoritmo:
+
+[ALTERNATIVAS]
+(A) Bubble Sort;
+(B) Insertion Sort;
+(C) QuickSort;
+(D) Selection Sort;
+(E) Shellsort.
+
+[GABARITO]
+A

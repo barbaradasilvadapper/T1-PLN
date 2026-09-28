@@ -1,0 +1,18 @@
+ID: 83-068
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Numa instalação Oracle 11g, o comando SHUTDOWN para uma instância de banco de dados correntemente ativa, admite as seguintes variações sintáticas, à exceção de uma. Assinale-a.
+
+[ALTERNATIVAS]
+(A) ABORT.
+(B) DISMOUNT.
+(C) IMMEDIATE.
+(D) NORMAL.
+(E) TRANSACTIONAL.
+
+[GABARITO]
+B

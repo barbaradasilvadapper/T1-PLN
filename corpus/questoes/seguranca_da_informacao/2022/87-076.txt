@@ -1,0 +1,18 @@
+ID: 87-076
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Para tratar os riscos da segurança da informação, uma organização deve definir e aplicar um processo contendo controles sobre seus ativos de informação. Nesse sentido, para assegurar que a informação receba um nível adequado de proteção, de acordo com a sua importância para a organização, deve-se implementar o(a):
+
+[ALTERNATIVAS]
+(A) controle de acesso;
+(B) classificação da informação;
+(C) responsabilidade pelos ativos;
+(D) gerenciamento de acesso do usuário;
+(E) conformidade com requisitos legais e contratuais.
+
+[GABARITO]
+B

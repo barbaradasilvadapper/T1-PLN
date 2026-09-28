@@ -1,0 +1,18 @@
+ID: 40-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Os protocolos DNS, HTTPS, respectivamente, as portas:
+
+[ALTERNATIVAS]
+(A) 22, 80, 53 e 21;
+(B) 67, 80, 22 e 443;
+(C) 53, 443, 67 e 22;
+(D) 443, 53, 143 e 67;
+(E) 79, 80, 67 e 21. DHCP e SSH utilizam,
+
+[GABARITO]
+C

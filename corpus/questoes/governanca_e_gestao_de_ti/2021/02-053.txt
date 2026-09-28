@@ -1,0 +1,18 @@
+ID: 02-053
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Carlos precisa lidar com o planejamento do escopo de um projeto para assegurar que inclua todo o trabalho, e apenas o necessário, para concluir o projeto com sucesso. No PMBOK 6ª edição, decompor as entregas e o trabalho do projeto em componentes menores e mais facilmente gerenciáveis, fornecendo uma visão estruturada do que deve ser entregue, é expresso pelo processo de:
+
+[ALTERNATIVAS]
+(A) coletar os requisitos;
+(B) orientar e gerenciar o trabalho do projeto;
+(C) planejar o gerenciamento dos recursos;
+(D) controlar o escopo;
+(E) criar EAP (Estrutura Analítica do Projeto).
+
+[GABARITO]
+E

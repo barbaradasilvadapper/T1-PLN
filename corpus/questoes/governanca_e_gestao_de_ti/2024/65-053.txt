@@ -1,0 +1,18 @@
+ID: 65-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analise de sistema ale to
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Considerando os princípios do Gerenciamento de Projetos conforme o PMBOK, 6ª edição, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Projetos operam isoladamente das operações organizacionais, não influenciando nem sendo influenciados pela cultura, estrutura e processos da organização.
+(B) A integração de projetos na organização é uma responsabilidade exclusiva do gerente de projetos, não necessitando de envolvimento de outras partes interessadas.
+(C) Projetos e operações organizacionais são componentes independentes, onde o sucesso de um não afeta o desempenho do outro.
+(D) A integração de projetos na organização é um processo automático, que ocorre sem a necessidade de planejamento ou esforço de adaptação às características organizacionais.
+(E) Os projetos são concebidos de forma a atender objetivos estratégicos da organização, sendo assim, sua integração envolve alinhamento com os objetivos e as estratégias corporativas.
+
+[GABARITO]
+E

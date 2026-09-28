@@ -1,0 +1,18 @@
+ID: 30-039
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Tribunal de Justiça do Mato Grosso do Sul (TJMS) está enviando uma mensagem criptografada para o Conselho Nacional de Justiça (CNJ). Como a mensagem possui um cabeçalho padronizado, o TJMS irá usar, como forma de dificultar qualquer identificação, duas cifras diferentes: uma para o corpo da mensagem (transposição) e outra para o cabeçalho (substituição). Para cifrar o cabeçalho que contém apenas o nome tribunaldejusticadomatogrossodosul, o Tribunal usará a cifra de césar, que é uma cifra de substituição, com chave = 3. Após a cifração, será anexado na mensagem:
+
+[ALTERNATIVAS]
+(A) wulexqdoghmxvwlfdghpdwrjurvvrqruwh;
+(B) wulexqdoghhvsruwhghpdwrjurvvrqruwh;
+(C) wulexqdoghhvsruwhghpdwrjurvvrgrvxo;
+(D) wulexqdoghdfdghpldhpdwrjurvvrgrvxo;
+(E) wulexqdoghmxvwlfdgrpdwrjurvvrgrvxo.
+
+[GABARITO]
+E

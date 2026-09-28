@@ -1,0 +1,18 @@
+ID: 45-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um IPS identificou pacotes maliciosos por meio de escaneamento em busca de assinaturas de ataque no contexto de um conjunto de tráfego de dados, em vez de considerar apenas pacotes individuais. O método empregado denomina-se:
+
+[ALTERNATIVAS]
+(A) bastião duplo em T;
+(B) anomalia de tráfego;
+(C) anomalia estatística;
+(D) correspondência com estado;
+(E) correspondência com padrão.
+
+[GABARITO]
+D

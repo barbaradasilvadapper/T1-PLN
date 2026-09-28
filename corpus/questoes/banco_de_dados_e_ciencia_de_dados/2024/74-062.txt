@@ -1,0 +1,18 @@
+ID: 74-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Data Mining é o processo de explorar grandes conjuntos de dados para identificar padrões, tendências e informações valiosas que não são imediatamente evidentes. Utiliza técnicas de estatística, aprendizado de máquina e análise de dados para extrair conhecimento útil a partir de dados brutos. No contexto de Data Mining, a seguinte técnica é mais adequada para descobrir padrões ocultos em grandes conjuntos de dados categóricos sem a necessidade de rótulos de classe:
+
+[ALTERNATIVAS]
+(A) Regressão Linear.
+(B) Análise de Componentes Principais (PCA).
+(C) K-means.
+(D) Apriori.
+(E) Support Vector Machine (SVM).
+
+[GABARITO]
+D

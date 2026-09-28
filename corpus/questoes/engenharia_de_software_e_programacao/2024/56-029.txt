@@ -1,0 +1,18 @@
+ID: 56-029
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Pedro adotou o algoritmo apresentado a seguir para ordenar um vetor de inteiros V, com índices variando de 1 até n. Para K de 2 até n faça: X <- V[K] W <- (K – 1) Enquanto W > 0 e V[W] > X faça: V[W+1] <- V[W] W <- (W-1) Fim Enquanto V[W+1] <- X Fim Para O algoritmo utilizado por Pedro foi o:
+
+[ALTERNATIVAS]
+(A) Selection Sort;
+(B) Insertion Sort;
+(C) Bubble Sort;
+(D) Merge Sort;
+(E) Quick Sort;
+
+[GABARITO]
+B

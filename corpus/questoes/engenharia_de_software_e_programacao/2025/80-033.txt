@@ -1,0 +1,18 @@
+ID: 80-033
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código JAVA exibido a seguir. public class EV { public static void main(String[] args) { mpR(265.7/3); } public static void mpR(double points) { if (points >= 265.7) { System.out.println("A1"); } else if (points >= 132.4) { System.out.println("A2"); } else if (points >= 62.1) { System.out.println("A3"); } else if (points >= 30.9) { System.out.println("A4"); } else { System.out.println("A5"); } } } Ao executar o código, o resultado impresso é
+
+[ALTERNATIVAS]
+(A) A1.
+(B) A2.
+(C) A3.
+(D) A4.
+(E) A5.
+
+[GABARITO]
+C

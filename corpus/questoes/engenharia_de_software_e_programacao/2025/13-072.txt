@@ -1,0 +1,18 @@
+ID: 13-072
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Carlos gerencia o GitLab do MPU. Carlos adicionou o job microservico_A ao pipeline do projeto A, inserindo no arquivo .gitlab-ci.yml do projeto o seguinte conteúdo: microservico_A: trigger: include: - remote: 'https://gitlab.mpu/grupoA/projetoC/- /raw/main/.gitlab-ci.yml' - project: 'grupoA/projetoB’ ref: 'main' file: 'microservico_b.yml' Considere que os arquivos referenciados são válidos e acessíveis. Com essa configuração, ao ser executado, o job microservico_A irá disparar, ao todo:
+
+[ALTERNATIVAS]
+(A) um novo pipeline do tipo parent-child;
+(B) um novo pipeline do tipo multi-project;
+(C) dois novos pipelines do tipo parent-child;
+(D) dois novos pipelines do tipo multi-project;
+(E) dois novos pipelines dos tipos parent-child e multi-project, respectivamente.
+
+[GABARITO]
+A

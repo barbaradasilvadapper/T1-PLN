@@ -1,0 +1,18 @@
+ID: 38-050
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Empresas privadas e órgãos públicos vêm adequando seus processos de coleta, armazenamento e manipulação dos dados pessoais a fim de operarem em conformidade com os requisitos legais da Lei Geral de Proteção de Dados (LGPD). A LGPD define vários agentes com distintas responsabilidades para o tratamento dos dados pessoais. O titular do dado pessoal tem assegurado direitos diante desses agentes para garantir que seus dados sejam tratados corretamente enquanto se mantiver a necessidade de seu tratamento. De acordo com a LGPD e os “Guias operacionais para adequação à LGPD da Secretaria de Governo Digital”, o titular de dados pode solicitar alguns direitos sobre seus dados pessoais à administração pública. Um dos direitos do titular dos dados relacionado no Art. 18 da Lei, cujas instruções encontram-se no Guia de Boas Práticas relacionado à Lei Geral de Proteção de Dados é:
+
+[ALTERNATIVAS]
+(A) tratamento de seus dados para fins exclusivos de segurança do Estado;
+(B) transferência da titularidade de seus dados de saúde para seu médico;
+(C) dessensibilização de seus dados pessoais sensíveis para igualar o tratamento de seus dados pessoais;
+(D) anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto na LGPD;
+(E) transferência de dados pessoais para país estrangeiro ou organismo internacional do qual o país seja membro por transferência de sede organizacional. Branca – Página 11 Tipo 1
+
+[GABARITO]
+D

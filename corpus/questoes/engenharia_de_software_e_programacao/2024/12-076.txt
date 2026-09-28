@@ -1,0 +1,18 @@
+ID: 12-076
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em relação às métricas de projeto para software orientado a objetos é correto afirmar que
+
+[ALTERNATIVAS]
+(A) conforme o número de métodos cresce para uma dada classe, seu potencial de reutilização também aumenta.
+(B) conforme a extensão da árvore de herança (DIT, do inglês depth of the inheritance tree) cresce, a previsibilidade do comportamento de uma classe aumenta.
+(C) conforme o número de filhas (NOC, do inglês number of children) de uma classe aumenta, a quantidade de teste (necessário para exercitar cada classe filha) será reduzido.
+(D) conforme o acoplamento entre objetos de uma dada classe (CBO, do inglês coupling between object classes) aumenta, a complexidade de testes por modificações dessa classe diminui.
+(E) conforme a resposta para uma classe (RFC, do inglês response for a class) aumenta, a complexidade geral de projeto da classe aumenta.
+
+[GABARITO]
+E

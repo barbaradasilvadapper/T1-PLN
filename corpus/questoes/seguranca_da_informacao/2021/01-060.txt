@@ -1,0 +1,18 @@
+ID: 01-060
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O banco de dados gerenciado por Paulo possui os dados a seguir. id_pessoa nome genero dt_nasc endereco João Masculino 15/08/25 R. N. Silva 12 CEP 20320-190 ea5d0c10 Luiza Feminino 06/08/16 Av. Carlos 30 CEP 22040-320 00fc771f Heitor Masculino 30/06/07 R. Trind 22 CEP 72000-100 e2c5f2dd Para atender a Lei Geral de Proteção de Dados Pessoais (LGPD), Paulo realizou um tratamento nos dados para perder a possibilidade de associação, direta ou indireta, a um indivíduo, e gerou a tabela abaixo. id_pessoa nome genero dt_nasc endereco d1b2d23f REMOVIDO M 80 - CEP 20320-190 c9ee2d5b REMOVIDO F 0 - 20 CEP 22040-320 7a16ca062 REMOVIDO M 0 - 20 CEP 72000-100 À luz da LGPD, o tratamento realizado por Paulo foi:
+
+[ALTERNATIVAS]
+(A) bloqueio;
+(B) anonimização;
+(C) difusão;
+(D) classificação;
+(E) extração.
+
+[GABARITO]
+B

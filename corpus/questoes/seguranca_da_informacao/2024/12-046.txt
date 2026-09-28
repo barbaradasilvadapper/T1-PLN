@@ -1,0 +1,18 @@
+ID: 12-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Para assegurar que o SGSI esteja em conformidade com a norma ABNT NBR ISO/IEC 27001:2022, a organização deve
+
+[ALTERNATIVAS]
+(A) focar na tecnologia, sem considerar o contexto da organização.
+(B) envolver a alta administração e definir políticas claras de segurança da informação.
+(C) implementar controles de segurança sem a necessidade de avaliação de riscos.
+(D) evitar o monitoramento contínuo e a avaliação de desempenho do SGSI.
+(E) ignorar a necessidade de melhorias contínuas após a implementação inicial.
+
+[GABARITO]
+B

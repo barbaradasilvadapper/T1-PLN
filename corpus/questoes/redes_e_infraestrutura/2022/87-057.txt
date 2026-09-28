@@ -1,0 +1,18 @@
+ID: 87-057
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao receber um novo laptop de trabalho da empresa com um sistema operacional Linux, o funcionário notou que não havia instalada uma suíte de aplicativos de escritório, que ele precisaria para o seu trabalho. Considerando o problema acima descrito, uma forma segura de instalar a aplicação desejada nesse laptop é:
+
+[ALTERNATIVAS]
+(A) procurar o pacote de instalação na internet e baixar para o computador;
+(B) transferir o pacote de instalação de um colega, por meio de um pendrive;
+(C) utilizar o gerenciador de certificados digitais do sistema;
+(D) procurar um script de instalação automática em um site Linux oficial;
+(E) utilizar o gerenciador de pacotes do sistema.
+
+[GABARITO]
+E

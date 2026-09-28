@@ -1,0 +1,18 @@
+ID: 86-034
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Manifesto Ágil descreve um conjunto de princípios que servem de guia para o desenvolvimento ágil de software. Segundo esse manifesto,
+
+[ALTERNATIVAS]
+(A) o método mais eficiente e eficaz de transmitir informações para e entre uma equipe de desenvolvimento, é a conversa face a face.
+(B) as reuniões entre pessoas de negócio e desenvolvedores devem ser evitadas a fim de manter um ritmo constante de trabalho.
+(C) o software entregue dentro do prazo é a medida primária de progresso.
+(D) as mudanças nos requisitos após o início do desenvolvimento são inaceitáveis, mesmo havendo repactuação do prazo.
+(E) a contínua atenção à excelência técnica e o bom design reduzem a agilidade.
+
+[GABARITO]
+A

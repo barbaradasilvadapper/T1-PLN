@@ -1,0 +1,18 @@
+ID: 05-056
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Atualmente o Android utiliza um sistema com a solicitação de permissões por demanda, durante a utilização do aplicativo, o que aumenta o controle do usuário sobre o uso de recursos, mas também exige maior nível de interação. João está criando um aplicativo de fiscalização de restaurantes, com a inclusão de fotos nos registros, e diminuiu a quantidade de solicitações de permissão por meio do(a):
+
+[ALTERNATIVAS]
+(A) gerência dos dados apresentados na Activity por meio de um componente do tipo ViewModel;
+(B) utilização do padrão Builder no acesso à câmera;
+(C) acesso à câmera via ACTION_IMAGE_CAPTURE;
+(D) verificação da permissão para a câmera pelo método shouldShowRequestPermissionRationale;
+(E) definição da permissão para a câmera no nível NORMAL.
+
+[GABARITO]
+C

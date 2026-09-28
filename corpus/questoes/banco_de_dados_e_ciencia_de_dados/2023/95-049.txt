@@ -1,0 +1,18 @@
+ID: 95-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia de informacao analise de sistemas tj rn
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Em bancos de dados, especialmente quando distribuídos, surge o problema de garantir que uma certa transação seja processada corretamente quando tem efeitos em diferentes sistemas, ou nós. Um dos algoritmos utilizados nesse tipo de transação é conhecido originalmente como:
+
+[ALTERNATIVAS]
+(A) Common knowledge;
+(B) Lock/unlock;
+(C) Mutual exclusion;
+(D) Transaction Logs;
+(E) Two-phase commit.
+
+[GABARITO]
+E

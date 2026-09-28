@@ -1,0 +1,18 @@
+ID: 25-034
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Caio recebeu a tarefa de melhorar a segurança da rede local do Tribunal de Justiça. A demanda solicitada foi a implementação de um sistema de criptografia que atenda aos requisitos a seguir. 1. receber como entrada um bloco de texto sem formatação; 2. trabalhar com tamanhos de chaves diferentes; 3. movimentar o bloco para uma matriz quadrada onde são executadas suas operações; 4. relacionar o número de rodadas do algoritmo com o tamanho da chave. Para cifrar as mensagens e atender aos critérios determinados, Caio deve utilizar o algoritmo criptográfico:
+
+[ALTERNATIVAS]
+(A) RSA;
+(B) AES;
+(C) DES;
+(D) 3DES;
+(E) ELGAMAL.
+
+[GABARITO]
+B

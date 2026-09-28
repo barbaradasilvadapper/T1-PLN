@@ -1,0 +1,18 @@
+ID: 45-045
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Davi está modificando a forma de trabalho de sua empresa de desenvolvimento para usar o processo de Continuous Delivery e Continuous Integration (CI/CD). As aplicações em desenvolvimento vão passar por um conjunto de etapas nas quais o código passará por alterações até chegar à produção (pipeline). Uma das aplicações de Davi está na fase de certificação de sistema/subsistema em um ambiente de staging. Nesse pipeline de CD/CI, a aplicação de Davi encontra-se na fase de:
+
+[ALTERNATIVAS]
+(A) integração contínua;
+(B) componente;
+(C) subsistema;
+(D) sistema;
+(E) produção.
+
+[GABARITO]
+D

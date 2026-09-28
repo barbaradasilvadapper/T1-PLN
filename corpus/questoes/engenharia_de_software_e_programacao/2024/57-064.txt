@@ -1,0 +1,18 @@
+ID: 57-064
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A área de TI da CVM irá iniciar um novo projeto com as seguintes características: • há baixo grau de inovação, tendo em vista que projetos similares já foram realizados na Administração Pública; • os requisitos estão muito bem definidos; • é muito improvável que o escopo mude; • há uma grande entrega a ser feita, somente ao final do projeto; • os requisitos de segurança são rigorosos; e • a estrutura organizacional do órgão é hierarquizada. A partir das características apresentadas, o projeto deve ser desenvolvido com o emprego da abordagem:
+
+[ALTERNATIVAS]
+(A) ágil;
+(B) adaptativa;
+(C) híbrida;
+(D) preditiva;
+(E) hierárquica.
+
+[GABARITO]
+D

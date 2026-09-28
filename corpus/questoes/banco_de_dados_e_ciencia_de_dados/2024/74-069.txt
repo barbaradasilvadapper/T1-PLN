@@ -1,0 +1,18 @@
+ID: 74-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Processamento de Linguagem Natural (PLN) é uma subárea da inteligência artificial (IA) que se ocupa da interação entre computadores e linguagem humana. O objetivo do PLN é permitir que os computadores compreendam, interpretem, e gerem linguagem natural de maneira que seja útil e significativa. É um campo interdisciplinar que combina linguística, ciência da computação e aprendizado de máquina. Em Processamento de Linguagem Natural (PLN), assinale a técnica mais adequada, entre as listadas, para capturar a dependência contextual de palavras em uma frase, permitindo que o modelo compreenda o significado baseado no contexto.
+
+[ALTERNATIVAS]
+(A) Bag of Words (BoW).
+(B) TF-IDF (Term Frequency-Inverse Document Frequency).
+(C) Word2Vec
+(D) Redes Neurais Recorrentes (RNN).
+(E) Tokenização Simples.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 13-057
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O gestor de pessoal do MPU Antônio precisa da lista dos funcionários contendo diversos dados pessoais. Para agir de acordo com a LGPD, Antônio solicitou ao analista José que realizasse um tratamento no cadastro de pessoal para que o dado perdesse a possibilidade de associação, direta ou indireta, ao indivíduo. Para atender Antônio, José deve realizar nos dados a ação de:
+
+[ALTERNATIVAS]
+(A) difusão;
+(B) bloqueio;
+(C) indexação;
+(D) classificação;
+(E) anonimização.
+
+[GABARITO]
+E

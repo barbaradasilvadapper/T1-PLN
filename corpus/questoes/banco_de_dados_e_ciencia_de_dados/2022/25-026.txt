@@ -1,0 +1,18 @@
+ID: 25-026
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere uma tabela relacional com uma coluna, intitulada Cidade, que contém as strings “São Paulo”, “Rio de Janeiro”, “Manaus”, “Sao Paulo”, “Manaus”, dispostas uma em cada linha. A execução dos comandos SQL SELECT Cidade FROM Locations where Cidade COLLATE Latin1_General_CI_AI in ('São Paulo','Rio de Janeiro', 'MANAUS') SELECT Cidade FROM Locations where Cidade COLLATE Latin1_General_CI_AS in ('São Paulo','Rio de Janeiro', 'MANAUS') SELECT Cidade FROM Locations where Cidade COLLATE Latin1_General_CS_AI in ('São Paulo','Rio de Janeiro', 'MANAUS') no MS SQL Server produz resultados que, além da linha de títulos, contêm, respectivamente:
+
+[ALTERNATIVAS]
+(A) 3, 4 e 5 linhas;
+(B) 4, 3 e 5 linhas;
+(C) 4, 5 e 3 linhas;
+(D) 5, 3 e 4 linhas;
+(E) 5, 4 e 3 linhas.
+
+[GABARITO]
+E

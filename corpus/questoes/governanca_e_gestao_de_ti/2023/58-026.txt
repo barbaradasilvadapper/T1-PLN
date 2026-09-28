@@ -1,0 +1,18 @@
+ID: 58-026
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+As solicitações de mudança em um projeto podem requerer novas estimativas e exigir ajustes no plano de gerenciamento do projeto. De acordo com o Guia PMBok, a técnica de estimativa de custos ou duração que aplica uma média ponderada das estimativas otimistas, pessimistas e mais prováveis, quando existe incerteza em relação às estimativas da atividade em questão, é denominada
+
+[ALTERNATIVAS]
+(A) análoga.
+(B) bottom-up.
+(C) equilibrada.
+(D) paramétrica.
+(E) três pontos.
+
+[GABARITO]
+E

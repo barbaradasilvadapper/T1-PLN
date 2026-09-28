@@ -1,0 +1,18 @@
+ID: 92-035
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+No contexto da organização e arquitetura de computadores, está correto somente o que se afirma em
+
+[ALTERNATIVAS]
+(A) a arquitetura von Neumann é baseada no princípio da separação de dados e instruções em duas memórias distintas.
+(B) o protocolo MESI possui quatro estados: Modificada, Escrita, Sincronizada e Inválida.
+(C) a segmentação de instruções ou “pipelining” é uma técnica em que múltiplas instruções são sobrepostas na execução.
+(D) as GPUs (Graphics Processing Units) são exclusivamente utilizadas para processamento gráfico.
+(E) os processadores baseados na arquitetura ARM utilizam o conjunto de instruções CISC (Complete Instruction Set Computer).
+
+[GABARITO]
+C

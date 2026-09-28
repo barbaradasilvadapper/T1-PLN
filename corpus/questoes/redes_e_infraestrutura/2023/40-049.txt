@@ -1,0 +1,18 @@
+ID: 40-049
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O cabeçalho IPv4 é composto por 12 campos fixos, podendo conter ou não opções, fazendo com que seu tamanho possa variar em função das opções usadas. Nesse contexto, o menor comprimento possível de um cabeçalho IPv4, em bytes, é:
+
+[ALTERNATIVAS]
+(A) 16;
+(B) 20;
+(C) 24;
+(D) 32;
+(E) 60.
+
+[GABARITO]
+B

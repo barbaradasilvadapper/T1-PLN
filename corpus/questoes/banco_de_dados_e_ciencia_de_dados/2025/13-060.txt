@@ -1,0 +1,18 @@
+ID: 13-060
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Observe os registros incluídos na tabela Processo pelo seguinte script SQL: INSERT INTO Processo (processoID, descricao) VALUES (1, 'Tributário'); INSERT INTO Processo (processoID, descricao) VALUES (2, 'Divórcio'); INSERT INTO Processo (processoID, descricao) VALUES (3, 'Trabalhista'); SELECT * FROM PROCESSO; Para consultar apenas os Processos ( Processo ) que possuem o termo “ trabalhista ” no campo descrição ( descricao ), deve-se complementar a consulta com a cláusula WHERE e a seguinte condição:
+
+[ALTERNATIVAS]
+(A) descricao = 'trabalhista';
+(B) descricao ilike 'trabalhista';
+(C) '_trabalhista_' != descricao;
+(D) '%trabalhista%' IN descricao;
+(E) POSITION('trabalhista' IN descricao);
+
+[GABARITO]
+B

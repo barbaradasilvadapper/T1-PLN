@@ -1,0 +1,18 @@
+ID: 14-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista programador classe b dpe ro
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Atualmente existem várias técnicas de aprendizado de máquina. A técnica que usa uma função que recebe como entrada um vetor de valores de atributos e retorna um único resultado como valor de saída, sendo que os valores de entrada e saída podem ser discretos ou contínuo e para cada elemento do vetor será classificado como verdadeira (um exemplo positivo) ou falso (um exemplo negativo). Essa técnica é conhecida como
+
+[ALTERNATIVAS]
+(A) detecção de anomalias.
+(B) árvore de decisão.
+(C) k-means.
+(D) dbscan.
+(E) pca.
+
+[GABARITO]
+B

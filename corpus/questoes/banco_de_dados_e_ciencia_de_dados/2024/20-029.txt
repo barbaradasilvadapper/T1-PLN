@@ -1,0 +1,18 @@
+ID: 20-029
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Considere as seguintes tabelas, com suas respectivas colunas, que se relacionam pela coluna FornecedorID : Produto (ProdutoID, ProdutoNome, FornecedorID) Fornecedor (FornecedorID, FornecedorNome) Para retornar a lista, sem repetições, de Fornecedores que possuem Produtos com preços menores que 20, deve-se executar o comando SQL:
+
+[ALTERNATIVAS]
+(A) SELECT FornecedorNome FROM Fornecedor WHERE EXISTS (SELECT ProdutoNome FROM Produto WHERE Produto.FornecedorID = Fornecedor.FornecedorID AND Preco < 20)
+(B) SELECT COUNT(FornecedorID), FornecedorNome FROM Fornecedor, Produto GROUP BY FornecedorID HAVING COUNT(Preco) < 20
+(C) SELECT FornecedorNome FROM Fornecedor INNER JOIN Produto ON Produto.FornecedorID = Fornecedor.FornecedorID AND Preco < 20
+(D) SELECT FornecedorNome FROM Fornecedor UNION SELECT ProdutoNome FROM Produto WHERE Preco < 20)
+(E) SELECT FornecedorNome FROM Fornecedor WHERE FornecedorID = ANY ( SELECT ProdutoID FROM Produto WHERE Preco < 20)
+
+[GABARITO]
+A

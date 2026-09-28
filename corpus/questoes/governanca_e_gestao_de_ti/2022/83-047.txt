@@ -1,0 +1,18 @@
+ID: 83-047
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+OKR é utilizado em diversas organizações. É uma abordagem simples para criar alinhamento e engajamento em torno de metas e resultados mensuráveis. Os tipos de resultados esperados no OKR são classificados como
+
+[ALTERNATIVAS]
+(A) teóricos e experimentais.
+(B) regulatórios, estratégicos e táticos.
+(C) textuais, sinalizações visuais e métricas numéricas.
+(D) baseline, milestone, métricas positivas e negativas e threshold.
+(E) financeiros, engineering, operations, resources, saúde e tecnológicos.
+
+[GABARITO]
+D

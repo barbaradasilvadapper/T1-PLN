@@ -1,0 +1,18 @@
+ID: 83-031
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao trt 13
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise o código a seguir escrito utilizando o framework Node.js: Ao executar esse programa em um terminal será escrito na saída padrão
+
+[ALTERNATIVAS]
+(A) AC
+(B) AACC
+(C) ABCC
+(D) ABCAC
+(E) ABCABC
+
+[GABARITO]
+C

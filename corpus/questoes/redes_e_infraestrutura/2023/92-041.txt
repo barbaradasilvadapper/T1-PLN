@@ -1,0 +1,18 @@
+ID: 92-041
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de gestao administrativa analista de suporte de rede alema
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O backup é a cópia de segurança dos dados, essencial para proteger informações contra perdas e garantir a recuperação em caso de falhas ou desastres. Nesse contexto, assinale a opção que representa corretamente a política de backup completo.
+
+[ALTERNATIVAS]
+(A) A política de backup completo copia apenas os arquivos modificados desde o último backup incremental.
+(B) A política de backup completo envolve a cópia de todos os dados selecionados em cada execução, independentemente de terem sido modificados ou não.
+(C) A política de backup completo copia apenas os arquivos modificados desde o último backup diferencial.
+(D) A política de backup completo copia apenas os arquivos mais recentes desde o último backup completo.
+(E) A política de backup completo copia apenas os arquivos mais antigos desde o último backup completo.
+
+[GABARITO]
+B

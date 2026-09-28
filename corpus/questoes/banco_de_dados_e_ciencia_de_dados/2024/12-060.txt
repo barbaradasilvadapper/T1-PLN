@@ -1,0 +1,18 @@
+ID: 12-060
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Para garantir que operações complexas sejam executadas de maneira segura e eficiente, assegurando que o banco de dados mantenha sua integridade mesmo em situações adversas, os Sistemas de Gerenciamento de Banco de Dados (SGBD) implementam o conceito de transação. Transação é
+
+[ALTERNATIVAS]
+(A) um conjunto de operações que são executadas sequencialmente para garantir a integridade dos dados.
+(B) um mecanismo que permite a cópia de segurança (backup) automática dos dados do banco.
+(C) um protocolo utilizado para distribuir os dados entre diferentes servidores de banco de dados.
+(D) um conjunto de operações que devem ser tratadas como uma unidade atômica e indivisível.
+(E) um método para criar índices que otimizam o acesso aos dados armazenados. Módulo III - Conhecimentos Específicos Avançados
+
+[GABARITO]
+D

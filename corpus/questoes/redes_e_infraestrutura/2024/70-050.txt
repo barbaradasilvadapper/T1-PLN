@@ -1,0 +1,18 @@
+ID: 70-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de informatica camara de fortaleza ce
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em relação aos sistemas RAID, o arranjo que combina o uso do RAID 0 e o RAID 5 para ter a velocidade do RAID 0 e a tolerância à falhas do RAID 5 é conhecido como RAID 50 (ou RAID 5+0). Nesse contexto, assinale a opção que corresponde ao número mínimo de discos em um arranjo RAID 50.
+
+[ALTERNATIVAS]
+(A) 1.
+(B) 2.
+(C) 4.
+(D) 5.
+(E) 6.
+
+[GABARITO]
+E

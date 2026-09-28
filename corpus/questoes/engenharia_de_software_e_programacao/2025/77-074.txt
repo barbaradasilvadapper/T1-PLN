@@ -1,0 +1,18 @@
+ID: 77-074
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O novo portal da Assembleia utiliza botões verdes para ações primárias como Aprovar e Enviar em todas as páginas, exceto no módulo de votação, onde o botão Votar é vermelho. Assinale a Heurística de Usabilidade de Nielsen que está sendo violada por essa diferença no uso de cores para ações similares
+
+[ALTERNATIVAS]
+(A) Reconhecimento em vez de Recordação.
+(B) Ajuda e Documentação.
+(C) Flexibilidade e Eficiência de Uso.
+(D) Consistência e Padrões.
+(E) Correspondência entre o Sistema e o Mundo Real.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 76-060
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de sistema ale am
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Pair Programming é uma prática central do XP, onde dois desenvolvedores trabalham juntos em um único computador na mesma tarefa. Um atua enquanto Piloto e o outro como Navegador. Além da melhoria imediata na qualidade do código, o benefício intangível de longo prazo mais significativo do Pair Programming para o conhecimento da equipe será
+
+[ALTERNATIVAS]
+(A) a eliminação da necessidade de Unit Tests, já que o código é revisado em tempo real.
+(B) a redução dos custos com licenças de software e computadores.
+(C) o aumento da Coesão do código e redução do Acoplamento Externo.
+(D) a disseminação do conhecimento e expertise do sistema entre os membros da equipe.
+(E) o aumento da velocidade de codificação em 100% por ter dois desenvolvedores.
+
+[GABARITO]
+D

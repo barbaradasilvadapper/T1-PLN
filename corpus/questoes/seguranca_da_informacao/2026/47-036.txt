@@ -1,0 +1,18 @@
+ID: 47-036
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de seguranca da informacao mp es
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No contexto da segurança da informação e da proteção de dados pessoais (LGPD), a classificação da informação é um processo crítico para a gestão de riscos. Sobre esse tema, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) A classificação de um ativo de informação deve ser imutável ao longo de todo o seu ciclo de vida, desde a criação até o descarte.
+(B) O processo de classificação permite a aplicação de controles de segurança proporcionais ao valor da informação e ao impacto potencial de sua divulgação indevida.
+(C) De acordo com a LGPD, todos os dados pessoais devem ser classificados como "Confidenciais", independentemente de serem dados comuns ou sensíveis.
+(D) A responsabilidade pela atribuição do nível de classificação de uma informação cabe exclusivamente ao Encarregado de Dados (DPO).
+(E) Informações classificadas como "Uso Interno" são aquelas cujo acesso é livre para qualquer cidadão, desde que solicitadas via Lei de Acesso à Informação (LAI).
+
+[GABARITO]
+B

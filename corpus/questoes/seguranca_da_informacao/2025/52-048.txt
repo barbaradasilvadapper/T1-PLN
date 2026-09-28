@@ -1,0 +1,18 @@
+ID: 52-048
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A norma ISO/IEC 27001 define diversos tipos de controles de segurança da informação, cujas diretrizes são detalhadas na ISO/IEC 27002. No contexto de uma avaliação realizada no TCE-PE, o analista Jorge está avaliando a implementação de controles tecnológicos no TCE-PE. Com base nesse cenário, assinale a opção que apresenta apenas controles tecnológicos previstos na norma ISO/IEC 27001.
+
+[ALTERNATIVAS]
+(A) Prevenção contra vazamento de dados e manutenção de equipamentos.
+(B) Regulação do trabalho remoto e condições de uso de bancos de dados.
+(C) Proteção de dados e direitos de propriedade intelectual.
+(D) Acesso ao código fonte e proteção contra malwares.
+(E) Trabalho em área segura e mesas limpas.
+
+[GABARITO]
+D

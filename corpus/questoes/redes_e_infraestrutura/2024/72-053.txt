@@ -1,0 +1,18 @@
+ID: 72-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Anderson foi incumbido de introduzir o suporte a paralelismo na aplicação Java NetTRF. Conforme documentação do Java Development Kit usado na NetTRF, Anderson pode implementar threads virtuais ou threads de plataforma. Enquanto um tipo de thread é escalonado diretamente pelo sistema operacional (SO), o outro é escalonado pelo próprio Java runtime (JRE). Para fins de simplicidade, o analista deve escolher apenas um tipo de thread. Na NetTRF, cada thread deve ter uma pilha de chamadas de baixa profundidade. Para permitir o maior número possível de threads na NetTRF, dadas as condições, Anderson deve implementar threads:
+
+[ALTERNATIVAS]
+(A) virtuais, pois as threads de plataforma não possuem pilha de chamadas própria;
+(B) de plataforma, pois as threads virtuais não possuem pilha de chamadas própria;
+(C) virtuais, pois são escalonadas pelo JRE de forma a permitir um número maior de threads;
+(D) de plataforma, pois são escalonadas pelo JRE de forma a permitir um número maior de threads;
+(E) de plataforma, pois são escalonadas pelo SO de forma a permitir um número maior de threads.
+
+[GABARITO]
+C

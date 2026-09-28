@@ -1,0 +1,18 @@
+ID: 72-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Cintia elaborou um diagrama BPMN representando diversas atividades que ocorrem em repetição (loopings). Com isso, o diagrama apresenta longas linhas de sequência de fluxos que se cruzam. Para evitar essas longas linhas ao representar repetições em fluxo normal, o tipo de evento intermediário (Intermediate Event Types) que Cintia deve usar é:
+
+[ALTERNATIVAS]
+(A) link;
+(B) signal;
+(C) message;
+(D) escalation;
+(E) parallel multiple.
+
+[GABARITO]
+A

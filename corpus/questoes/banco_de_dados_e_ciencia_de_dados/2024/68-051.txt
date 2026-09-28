@@ -1,0 +1,18 @@
+ID: 68-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Aplicações possuem diferentes demandas por armazenamento de dados. Dependendo do tipo de necessidade, há a disponibilidade de classes distintas de sistemas gerenciadores de bancos de dados, cada qual oferecendo características que se adequem melhor às diversas demandas. Assinale a opção que indica a classe de sistema gerenciador de banco de dados que oferece a possibilidade de processamento HTAP (Hybrid Transaction and Analytics Processing) sobre um mesmo conjunto de dados.
+
+[ALTERNATIVAS]
+(A) Hierárquico.
+(B) NewSQL.
+(C) NoSQL.
+(D) Polystores.
+(E) Rede.
+
+[GABARITO]
+B

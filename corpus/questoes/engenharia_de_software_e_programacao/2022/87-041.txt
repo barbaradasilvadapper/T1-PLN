@@ -1,0 +1,18 @@
+ID: 87-041
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao mp sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O valor binário resultante da conversão do valor hexadecimal 1000 é:
+
+[ALTERNATIVAS]
+(A) 0100000;
+(B) 010000000000;
+(C) 011100000000;
+(D) 100000000000;
+(E) 0001000000000000.
+
+[GABARITO]
+E

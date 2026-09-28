@@ -1,0 +1,18 @@
+ID: 31-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario infraestrutura de tecnologia da informacao tj rr
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um técnico em informática dispõe de um roteador com uma única interface de rede, e um comutador de rede (Switch) com 24 (vinte e quatro) interfaces para construir uma rede IP conectando 04 (quatro) redes lógicas diferentes. Para atender às demandas desse projeto, o técnico segmentou o switch em quatro redes virtuais para acomodar os dispositivos de cada uma das redes do projeto, e realizou a ligação entre o switch e o roteador por meio de uma ligação do tipo tronco envolvendo uma interface de cada equipamento. A configuração do default gateway de cada uma das quatro redes, e o adequado processo de roteamento entre essas redes foi estabelecido no roteador. Diante do cenário apresentado, analise as afirmativas a seguir. I. O protocolo IEEE 802.1p é utilizado para estabelecer redes tronco, como a realizada entre o roteador e o switch nesse projeto. II. Quando um quadro não marcado (sem TAG) chega a uma porta de tronco, ele é atribuído à rede virtual nativa. III. Uma máquina conectada a uma das redes virtuais existente no switch desse projeto poderá acessar as outras máquinas, conectadas as outras redes virtuais no mesmo switch, sem a necessidade de passar pelo roteador.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I, II e III.
+(D) II, apenas.
+(E) III, apenas.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 48-076
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto de Descoberta do Conhecimento em Bancos de Dados - Knowledge Discovery in Database (KDD), o analista de dados João deverá analisar um conjunto de dados preparado e consolidado com dados financeiros sobre transações, saldos de contas e históricos de crédito de clientes ao longo dos últimos anos. O objetivo é identificar possíveis anomalias ou atividades suspeitas que possam indicar fraudes. Para isso, a fase do processo KDD que João deverá utilizar é:
+
+[ALTERNATIVAS]
+(A) seleção de dados;
+(B) mineração de dados;
+(C) transformação de dados;
+(D) interpretação de resultados;
+(E) pré-processamento de dados.
+
+[GABARITO]
+B

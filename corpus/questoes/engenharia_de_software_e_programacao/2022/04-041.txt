@@ -1,0 +1,18 @@
+ID: 04-041
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas tj dft
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto do JavaScript, analise as afirmativas a seguir a respeito do comportamento do JS de mover declarações para o top (em inglês, Hoisting). I. Variáveis declaradas por meio de var podem ser utilizadas antes de declaradas. II. Variáveis declaradas com let e const são movidas para o topo do bloco somente quando inicializadas na declaração. III. Usar uma constante (const) antes de declarada gera um erro de sintaxe. Está correto o que se afirma em:
+
+[ALTERNATIVAS]
+(A) somente I;
+(B) somente I e II;
+(C) somente I e III;
+(D) somente II e III;
+(E) I, II e III.
+
+[GABARITO]
+C

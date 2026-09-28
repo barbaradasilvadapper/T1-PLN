@@ -1,0 +1,18 @@
+ID: 80-049
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+RPM é um sistema de gerenciamento de pacotes que roda no Red Hat Enterprise Linux. Com relação ao RMP é correto afirmar que
+
+[ALTERNATIVAS]
+(A) permite instalar, reinstalar, remover, atualizar e verificar pacotes com ferramentas padrão de gerenciamento de pacotes, tais como Yum ou APT.
+(B) assina digitalmente seus pacotes usando as chaves de assinatura do GNU Pretty Good Privacy (PGP), garantindo a sua autenticidade e integridade.
+(C) usa metadados para descrever os pacotes, suas instruções de instalação e outros parâmetros de pacotes.
+(D) suporta versões únicas de um mesmo pacote, não permite a instalação de pacotes de diferentes versões.
+(E) permite carregar localmente a base de dados de pacotes caso seja danificada na web, garantindo a funcionalidade do sistema hospedeiro.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 85-063
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista tecnico tecnologia da informacao tce to
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O analista Gideão instalou a ferramenta SecEval no cenário de integração contínua do TCE/TO. A SecEval analisa uma aplicação em execução buscando encontrar vulnerabilidades de segurança por meio de telemetrias coletadas em tempo real de sensores inseridos no interior da aplicação. Porém, SecEval não dispõe de recursos para bloquear ataques contra aplicações em execução. Portanto, SecEval é uma ferramenta de teste de segurança do tipo:
+
+[ALTERNATIVAS]
+(A) Interactive Application Security Testing;
+(B) Static Application Security Testing;
+(C) Dynamic Application Security Testing;
+(D) Software Composition Analysis;
+(E) Runtime Application Self-Protection.
+
+[GABARITO]
+A

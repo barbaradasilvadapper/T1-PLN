@@ -1,0 +1,17 @@
+ID: 23-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Os ativos de informação desempenham um papel vital nas empresas, uma vez que armazenam dados sensíveis e informações estratégicas essenciais. Em relação a esses ativos, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) No cenário cada vez mais digitalizado em que vivemos, as informações se transformaram em ativos de grande valor, no entanto, devido a grande quantidade de dados gerados diariamente, a análise desses dados torna-se impossível.
+(B) Toda informação produzida ou obtida por um indivíduo ou organização deve estar acessível a todos, indistintamente, sempre que necessário, para qualquer finalidade.
+(C) Toda informação deve ser protegida conforme seu nível de confidencialidade, a fim de restringir o acesso e o uso apenas às pessoas autorizadas.
+(D) Toda informação deve ser preservada na condição em que foi disponibilizada pelo seu proprietário, com o objetivo de protegê-la contra qualquer tipo de alteração não autorizada, seja intencional ou acidental.
+
+[GABARITO]
+D

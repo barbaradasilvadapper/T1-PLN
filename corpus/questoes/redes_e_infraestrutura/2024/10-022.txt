@@ -1,0 +1,18 @@
+ID: 10-022
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Adam está avaliando a implementação de um novo Sistema Operacional (SO) para aprimorar a infraestrutura tecnológica do sistema judiciário. Ele precisa escolher um sistema que ofereça robustez em termos de gerenciamento de memória e processos, além de suportar multitarefa eficiente. Considerando esses requisitos, o tipo de SO que Adam deve escolher é o:
+
+[ALTERNATIVAS]
+(A) em lote, que executa tarefas em sequência sem intervenção do usuário;
+(B) de tempo real, que garante a execução de tarefas críticas dentro de um prazo específico;
+(C) multithreads, focado na execução de uma tarefa por vez e com processador escalar;
+(D) multiusuário e multitarefa, capaz de gerenciar eficientemente múltiplas tarefas e usuários simultaneamente;
+(E) de rede, projetado principalmente para facilitar o compartilhamento de recursos em uma rede.
+
+[GABARITO]
+D

@@ -1,0 +1,17 @@
+ID: 23-048
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Gerir riscos constitui uma etapa vital no contexto da segurança da informação, implicando na identificação, avaliação e mitigação dos potenciais riscos que possam impactar a confidencialidade, integridade e disponibilidade dos dados e sistemas organizacionais. Com relação à gerência de risco, assinale (V) para a afirmativa verdadeira e (F) para falsa. ( ) Processos, atividades do negócio e informações são ativos primários de uma organização. ( ) As ameaças podem ter origem humana ou ambiental ( ) Salvaguardas referem-se a medidas de proteção prescritas com o intuito de cumprir os requisitos de segurança, tais como confidencialidade, integridade e disponibilidade, previamente estabelecidos para um sistema de informação. ( ) Reduzir riscos de segurança é um processo iterativo que envolve identificar os riscos, implementar controles para mitigá-los e reavaliar constantemente diante das mudanças.
+
+[ALTERNATIVAS]
+(A) F – F – F – F.
+(B) V – V – V – V.
+(C) F – F – V – V.
+(D) V – V – F – F.
+
+[GABARITO]
+B

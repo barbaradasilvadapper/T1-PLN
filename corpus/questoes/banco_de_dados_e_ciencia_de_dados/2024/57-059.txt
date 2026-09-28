@@ -1,0 +1,18 @@
+ID: 57-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A aplicação JUNTAWeb usa um banco de dados NoSQL para armazenar as relações entre documentos de interesse, tais como: legislações federais e estaduais, normas de comitês internacionais, normas internas e procedimentos de nível operacional, juntamente com seus conjuntos de metadados. O JUNTAWeb possibilita que seus usuários tenham ampla rastreabilidade do ciclo de vida e das relações entre os documentos de interesse. Considerando a necessidade de rastreabilidade entre os documentos de interesse, a estrutura do banco de dados NoSQL, aderente à demanda, deve estar baseada em:
+
+[ALTERNATIVAS]
+(A) conjuntos de links organizados em esquemas semânticos de modo estruturado;
+(B) células agrupadas em colunas organizadas por tipo de documento;
+(C) associações de dados das coleções a registros identificados com chaves exclusivas;
+(D) matrizes associativas utilizadas como um banco de dados semiestruturado na qual uma chave individual é vinculada a um valor em uma coleção;
+(E) modelos que não tenham esquema mas que possibilitem que as associações sejam armazenadas direta e explicitamente na base de dados.
+
+[GABARITO]
+E

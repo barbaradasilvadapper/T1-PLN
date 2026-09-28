@@ -1,0 +1,18 @@
+ID: 51-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O ciclo de vida de um processo de ciência de dados envolve uma série de etapas estruturadas que guiam o desenvolvimento de projetos de ciência de dados desde a definição do problema até a implementação e o monitoramento das soluções. No ciclo de vida de um processo de ciência de dados, na fase de preparação de dados
+
+[ALTERNATIVAS]
+(A) são definidos os objetivos do projeto e formuladas as perguntas que o modelo deve responder.
+(B) o modelo é treinado e avaliado usando algoritmos de aprendizado de máquina.
+(C) são realizadas atividades como limpeza, transformação e formatação dos dados para garantir qualidade e adequação ao modelo.
+(D) os resultados são comunicados aos stakeholders por meio de visualizações e relatórios.
+(E) os dados são coletados diretamente dos usuários para garantir que o modelo esteja alinhado com as necessidades do público.
+
+[GABARITO]
+C

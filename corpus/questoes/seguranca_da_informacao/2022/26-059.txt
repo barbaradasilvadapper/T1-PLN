@@ -1,0 +1,18 @@
+ID: 26-059
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa analise de suporte de sistemas senado federal
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Assuma que os equipamentos listados anteriormente compõem a rede da empresa fictícia Empresa A. Mediante as novas demandas do mercado por segurança, os executivos da Empresa A contrataram uma consultoria para fazer um levantamento de riscos. Um dos riscos indicados foi a possível interrupção do negócio mediante comprometimento do ambiente. A esse respeito, assinale a opção que não apresenta um controle presente no Guia De Aperfeiçoamento Da Segurança Cibernética Para Infraestrutura Crítica V1.1 que pode ajudar a prevenir este risco.
+
+[ALTERNATIVAS]
+(A) PR.AC-4: Permissões de acesso e autorizações são gerenciadas, incorporando os princípios de menor privilégio e divisão de tarefas.
+(B) PR.PT-4: Redes de comunicação e controle são protegidas.
+(C) RS.CO-1: Os colaboradores conhecem seus papéis e a sequência de operações quando uma resposta é necessária.
+(D) PR.PT-2: As mídias removíveis são protegidas e seu uso é restrito de acordo com a política.
+(E) PR.AT-1: Todos os utilizadores são informados a respeito e treinados.
+
+[GABARITO]
+C

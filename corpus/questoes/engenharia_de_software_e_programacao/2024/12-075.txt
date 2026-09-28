@@ -1,0 +1,18 @@
+ID: 12-075
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de sistemas tce pa
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em relação a metodologias de desenvolvimento de software, avalie as afirmativas a seguir: I. O desenvolvimento ágil enfatiza a entrega contínua de software funcional e a adaptação a mudanças de requisitos ao longo do projeto. II. O modelo em cascata segue uma abordagem linear e sequencial onde cada fase deve ser completada antes de passar para a próxima. III. O modelo espiral é uma abordagem rígida e sequencial que não permite revisões ou iterações uma vez que uma fase está concluída.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III apenas.
+
+[GABARITO]
+B

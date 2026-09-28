@@ -1,0 +1,18 @@
+ID: 73-055
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa está desenvolvendo um aplicativo para comunicação interna entre seus funcionários. Para estabelecer uma conexão, o cliente TCP envia um segmento de requisição de estabelecimento de conexão com as linhas: clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,12000)) Nas linhas acima, "12000" refere-se ao(à):
+
+[ALTERNATIVAS]
+(A) porta de origem;
+(B) porta de destino;
+(C) tempo limite para a conexão permanecer ativa;
+(D) tempo limite (timeout) para a conexão ser estabelecida;
+(E) número de conexões simultâneas permitidas pelo servidor.
+
+[GABARITO]
+B

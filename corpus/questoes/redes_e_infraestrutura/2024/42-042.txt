@@ -1,0 +1,18 @@
+ID: 42-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A arquitetura IEEE 802.11 é utilizada em ambientes que necessitam de redes sem fio versáteis e eficientes, como residências, empresas e espaços públicos. Ela oferece uma solução robusta para conectar dispositivos de forma estável. Em redes locais sem fio que utilizam a arquitetura IEEE 802.11, identificamos as seguintes características, exceto uma. Assinale-a.
+
+[ALTERNATIVAS]
+(A) A conexão de uma estação ao ponto de acesso de uma rede infraestruturada demanda identificadores iguais.
+(B) A organização das estações na forma ad hoc permite que as estações de um conjunto se comuniquem diretamente.
+(C) As estações estão agrupadas em conjuntos chamados Basic Service Set (BSS).
+(D) O padrão IEEE 802.11 permite a mobilidade das estações durante sua operação.
+(E) O ponto de acesso (Access Point) conecta um sistema de distribuição a um Service Set Identifier (SSID).
+
+[GABARITO]
+E

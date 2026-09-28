@@ -1,0 +1,18 @@
+ID: 55-034
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Durante o projeto de um sistema, utilizando linguagem orientada a objetos, foram adotadas as seguintes práticas: I. Uma classe define seus atributos como privados e disponibiliza apenas métodos públicos para sua leitura e alteração, permitindo a realização de validações antes de qualquer modificação dos dados. II. Uma classe base é estendida por diversas subclasses que compartilham comportamento comum, mas especializam determinadas operações conforme suas regras específicas. III. Um mesmo método, definido na classe base, é reimplementado nas subclasses, de modo que sua execução produza comportamentos distintos conforme o tipo concreto do objeto em tempo de execução. Com base nos conceitos fundamentais da programação orientada a objetos, assinale a opção que classifica corretamente as práticas descritas.
+
+[ALTERNATIVAS]
+(A) I – abstração; II – herança; III – polimorfismo.
+(B) I – encapsulamento; II – herança; III – sobrescrita.
+(C) I – encapsulamento; II – composição; III – polimorfismo.
+(D) I – encapsulamento; II – herança; III – sobrecarga.
+(E) I – abstração; II – herança; III – sobrecarga.
+
+[GABARITO]
+B

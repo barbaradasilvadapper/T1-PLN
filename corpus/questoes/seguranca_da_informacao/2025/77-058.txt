@@ -1,0 +1,18 @@
+ID: 77-058
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O Analista de Segurança detecta que os web servers da Assembleia ainda suportam as versões antigas do protocolo SSL 3.0 e TLS 1.0/1.1. As versões mais recentes (TLS 1.2 e 1.3) devem ser exigidas. O principal risco de segurança associado à continuação do suporte a versões obsoletas do protocolo SSL/TLS, como o TLS 1.0 ou SSL 3.0 é a(o)
+
+[ALTERNATIVAS]
+(A) violação do princípio de Defense in Depth do sistema.
+(B) exposição a vulnerabilidades e ataques conhecidos, como o POODLE e o BEAST.
+(C) aumento da latência de rede e degradação da performance do handshake.
+(D) incompatibilidade com navegadores modernos como Chrome, Firefox.
+(E) violação do princípio de Menor Privilégio (PoLP) na comunicação.
+
+[GABARITO]
+B

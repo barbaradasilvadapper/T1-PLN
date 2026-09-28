@@ -1,0 +1,17 @@
+ID: 23-067
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+O projeto Application Security Verification Standard (ASVS), da Open Web Application Security Project (OWASP), fornece um padrão de segurança de aplicativo aberto para aplicativos da web e serviços da web de todos os tipos. Ele serve para verificar a efetividade dos controles de segurança. Assinale a opção que indica o requisito de ciclo de vida de desenvolvimento de software seguro.
+
+[ALTERNATIVAS]
+(A) Verificar se todas as chaves e senhas são substituíveis e fazem parte de um processo bem definido para criptografar novamente os dados confidenciais.
+(B) Verificar a documentação e a justificativa de todos os limites de confiança, componentes e fluxos de dados significativos do aplicativo
+(C) Verificar se todos os níveis de proteção têm um conjunto associado de requisitos de proteção, como requisitos de criptografia, requisitos de integridade, retenção, privacidade e outros requisitos de confidencialidade, e que estes são aplicados na arquitetura.
+(D) Verificar se a solução de controle de acesso escolhida é flexível o suficiente para atender às necessidades do aplicativo.
+
+[GABARITO]
+B

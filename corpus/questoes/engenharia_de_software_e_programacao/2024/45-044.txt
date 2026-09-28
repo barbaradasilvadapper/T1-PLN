@@ -1,0 +1,18 @@
+ID: 45-044
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade seguranca da informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+A empresa K está prestando um serviço de consultoria no desenvolvimento de aplicações para o Tribunal Regional Federal da 1ª Região (TRF1). O Tribunal trabalha com a ferramenta de versionamento GIT e, para auxiliar no desenvolvimento, a empresa K deverá ter acesso ao repositório remoto criado pela equipe de desenvolvimento. Ao chegar ao Tribunal, a equipe da empresa K precisará identificar o link de acesso ao repositório remoto e outras configurações: Para isso, deverá ser executado o comando:
+
+[ALTERNATIVAS]
+(A) git remote;
+(B) git remote show;
+(C) git push;
+(D) git init;
+(E) git status.
+
+[GABARITO]
+B

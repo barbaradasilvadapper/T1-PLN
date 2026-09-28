@@ -1,0 +1,18 @@
+ID: 58-048
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+No contexto das interações com o sistema operacional Windows, João recebeu a incumbência de escrever um script Python que, quando executado, deve produzir uma resposta como a que segue, não necessariamente na mesma ordem. C:\TESTE figuras figuraUm.jpg TESTE.HTML testePythonScript.py João considerou três versões do script: import os print (os.getcwd()) path = os.getcwd() z = os.listdir(path) for x in z: print (x) I. import os path = os.chdir(os.getcwd()) print (path) for x in range(1,len(os.listdir(path)),1): print (x) II. import os print (os.getcwd() + "\n" + "\n".join(os.listdir())) III. Dado que a pasta corrente durante a execução, C:\TESTE, contém, além de três arquivos, uma subpasta e um arquivo contendo o código escolhido por João, assinale a opção que indica os scripts que produziriam a resposta desejada.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

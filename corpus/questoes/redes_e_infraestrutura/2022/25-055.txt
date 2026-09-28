@@ -1,0 +1,18 @@
+ID: 25-055
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista João administra o domínio Active Directory ad.tj.dft e precisa atribuir novas permissões ao usuário administrador RaizSD_u. O usuário RaizSD_u é membro de um grupo protegido do Active Directory. Sendo assim, para que esta alteração de permissões persista ao longo do tempo, João deve adicionar as novas permissões no objeto de ad.tj.dft:
+
+[ALTERNATIVAS]
+(A) AdminSDHolder;
+(B) IIS_IUSRS;
+(C) rootDSE;
+(D) Krbtgt;
+(E) Replicator.
+
+[GABARITO]
+A

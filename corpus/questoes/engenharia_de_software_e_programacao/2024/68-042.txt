@@ -1,0 +1,18 @@
+ID: 68-042
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvedor de sistemas alep
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Box Model CSS é essencialmente uma caixa que envolve cada elemento HTML. Ele é formado por
+
+[ALTERNATIVAS]
+(A) height, width, border e padding.
+(B) width, border, padding e margin.
+(C) content, padding, borders e margins.
+(D) height, border, content e margin.
+(E) height, width, border e content.
+
+[GABARITO]
+C

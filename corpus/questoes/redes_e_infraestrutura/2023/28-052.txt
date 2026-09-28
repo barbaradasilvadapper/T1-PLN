@@ -1,0 +1,18 @@
+ID: 28-052
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas redes tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O protocolo IPv6 vem substituindo gradualmente o protocolo IPv4. Uma vantagem do IPv6 em relação ao IPv4 é que ele:
+
+[ALTERNATIVAS]
+(A) permite 256² vezes mais endereços IP;
+(B) possui suporte nativo ao IPSec;
+(C) permite a fragmentação nos roteadores;
+(D) possibilita inserir mais informações no cabeçalho do datagrama;
+(E) permite incluir o endereço do servidor DHCP no cabeçalho do datagrama.
+
+[GABARITO]
+B

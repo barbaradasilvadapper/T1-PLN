@@ -1,0 +1,18 @@
+ID: 09-043
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em relação ao Design e arquitetura de Software, assinale a opção correta.
+
+[ALTERNATIVAS]
+(A) O Design de Software é o processo de codificação de funcionalidades seguindo diretamente os requisitos do usuário, sem envolver abstrações ou estruturas maiores.
+(B) No Design de Software de baixo nível, o foco está na criação da estrutura geral do sistema, incluindo a definição de módulos e sua interação.
+(C) O Design de Software de alto nível trata de decisões relacionadas à implementação de funções e métodos específicos dentro dos componentes de um sistema.
+(D) A principal diferença entre Design e Arquitetura de Software é que a Arquitetura foca em decisões amplas e estruturais, enquanto o Design foca em decisões detalhadas e específicas.
+(E) A Arquitetura de Software é um conceito aplicado apenas em projetos de grande escala, sendo irrelevante para sistemas menores e simples.
+
+[GABARITO]
+D

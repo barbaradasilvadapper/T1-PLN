@@ -1,0 +1,18 @@
+ID: 32-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: auditor de controle externo informatica analista de suporte tce pa
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em uma empresa hipotética, o departamento de TI está realizando uma força tarefa com o objetivo de instalar um programa de criptografia em todos as pastas de documentos dos computadores de seus colaboradores. De modo a informar suas atividades, o departamento de TI coloca em todos os setores da empresa um gráfico de tendência relacionando a proporção de máquinas concluídas. De acordo com a NBR ISO 27004, da ABNT, o descritor da informação empregado pela equipe de TI por meio dos gráficos é
+
+[ALTERNATIVAS]
+(A) o identificador de medida.
+(B) a medida.
+(C) a meta.
+(D) a parte responsável.
+(E) o formato comunicação.
+
+[GABARITO]
+E

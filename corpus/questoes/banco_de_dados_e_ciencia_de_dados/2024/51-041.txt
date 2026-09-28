@@ -1,0 +1,18 @@
+ID: 51-041
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A divisão dos dados por ocasião das tarefas de aprendizado de máquina deve ser feita com todo critério técnico para evitar problemas nos modelos gerados. No contexto dessa divisão dos dados, assinale a afirmativa correta acerca do processo de overfitting em aprendizado de máquina.
+
+[ALTERNATIVAS]
+(A) O modelo generaliza bem para dados novos, apresentando baixa taxa de erro tanto em dados de treino quanto em dados de teste.
+(B) O modelo se ajusta excessivamente aos dados de treino, mas apresenta baixo desempenho em dados de teste.
+(C) O modelo apresenta alto desempenho em dados de teste, mas baixo desempenho em dados de treino.
+(D) O modelo é incapaz de aprender padrões dos dados de treino, resultando em alto erro de treino e de teste.
+(E) O modelo é robusto e apresenta desempenho constante independentemente do conjunto de dados analisado.
+
+[GABARITO]
+B

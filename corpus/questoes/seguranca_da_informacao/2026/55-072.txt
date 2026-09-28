@@ -1,0 +1,18 @@
+ID: 55-072
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma organização mantém um sistema legado crítico, mas com forte dependência de tecnologia obsoleta. Foi identificado um risco relacionado tanto ao comprometimento da segurança quanto à futura indisponibilidade do sistema. Para tratar esse risco, foram propostas as seguintes ações: P1: migrar as funcionalidades para uma plataforma SaaS moderna, desativando o servidor antigo; P2: terceirizar a gestão do legado para um parceiro especializado, com foco em cláusulas de responsabilidade civil em contrato, sem alteração dos controles técnicos ou operacionais do sistema; P3: isolar o sistema em uma VLAN sem acesso à internet e exigir VPN com MFA para qualquer acesso; e P4: manter a operação do sistema legado, estabelecendo um fundo de reserva financeira para cobrir eventuais multas e definindo um plano de resposta a incidentes para recuperação manual, em caso de falha catastrófica. Assinale a opção que associa corretamente cada proposta a uma estratégia de tratamento de risco.
+
+[ALTERNATIVAS]
+(A) P1: evitar; P2: transferir; P3: mitigar; P4: aceitar.
+(B) P1: evitar; P2: mitigar; P3: mitigar; P4: aceitar.
+(C) P1: mitigar; P2: transferir; P3: mitigar; P4: transferir.
+(D) P1: evitar; P2: transferir; P3: mitigar; P4: transferir.
+(E) P1: mitigar; P2: mitigar; P3: mitigar; P4: aceitar.
+
+[GABARITO]
+A

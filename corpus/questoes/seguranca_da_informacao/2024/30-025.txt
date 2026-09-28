@@ -1,0 +1,18 @@
+ID: 30-025
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+No Ubuntu 20.04 LTS, a ferramenta padrão para a configuração do firewall é o “ufw”. Para que sejam listadas as aplicações que instalaram um perfil ufw, é executado o comando:
+
+[ALTERNATIVAS]
+(A) sudo ufw app info;
+(B) sudo ufw app list;
+(C) sudo ufw app profiles;
+(D) sudo ufw info profiles;
+(E) sudo ufw list profiles.
+
+[GABARITO]
+B
