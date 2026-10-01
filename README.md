@@ -1,4 +1,6 @@
-# T1 PLN - Parte 1: corpus de questões de concursos de TI
+# T1 PLN - Corpus de questões de concursos de TI e similaridade de palavras
+
+## Parte 1: corpus de questões
 
 Corpus com 2.506 questões de múltipla escolha de computação, tiradas de 95 provas da FGV (2021 a 2026)
 disponíveis no [PCI Concursos](https://www.pciconcursos.com.br/provas/ti/). Cada questão tem enunciado,
@@ -15,7 +17,7 @@ alternativas, gabarito oficial, ano e subárea.
 Tudo da parte 1 está na pasta `parte 1/`. O dataset card é o `parte 1/DATASET_CARD.xlsx`, e as
 estatísticas estão em `parte 1/estatisticas.ipynb`.
 
-## Organização
+### Organização
 
 ```
 parte 1/
@@ -37,7 +39,7 @@ parte 1/
   DATASET_CARD.xlsx            dataset card
 ```
 
-## Formato do JSON
+### Formato do JSON
 
 `corpus.json` tem um bloco `metadados` e a lista `questoes`. Exemplo de uma questão:
 
@@ -64,7 +66,7 @@ parte 1/
 O `id` é o número da pasta da prova em `parte 1/dados/pdfs` mais o número da questão na prova. `tambem_em` lista
 questões iguais de outras provas do mesmo concurso, que foram removidas como duplicadas.
 
-## Como foi feito
+### Como foi feito
 
 1. **Coleta:** escolhemos 95 provas de TI da FGV entre 2021 e 2026, todas com gabarito. Os PDFs foram
    baixados manualmente, porque o site pede uma verificação de segurança em cada prova.
@@ -86,7 +88,7 @@ questões iguais de outras provas do mesmo concurso, que foram removidas como du
    Das 6.777 questões extraídas, ficaram 2.506.
 5. **Classificação:** a subárea é definida por uma lista de palavras-chave com pesos (`parte 1/scripts/subareas.py`).
 
-## Como rodar
+### Como rodar
 
 Requer Python 3 e o poppler (`pdftotext`). A partir da raiz do repositório:
 
@@ -99,7 +101,7 @@ python3 03_filtrar_classificar_exportar.py
 
 Depois, abra o `parte 1/estatisticas.ipynb` (precisa de `pandas`, `matplotlib` e `pyspellchecker`).
 
-## Limitações
+### Limitações
 
 - A classificação por palavras-chave erra em alguns casos de fronteira. Por exemplo, questões de protocolos
   de segurança (IPSec, SSL) às vezes ficam em Redes.
@@ -107,3 +109,8 @@ Depois, abra o `parte 1/estatisticas.ipynb` (precisa de `pandas`, `matplotlib` e
 - As provas 08 e 46 (CVM, manhã) e 49 (Câmara dos Deputados, manhã) só têm conhecimentos gerais, então não
   contribuíram com questões.
 - Usar só a FGV deixa o formato uniforme, mas limita a variedade de estilos de questão.
+
+## Parte 2: corpus de similaridade de palavras
+
+Os scripts, as anotações, o corpus e o dataset card da parte 2 estão em [`parte 2/`](parte%202/README.md).
+A escala de anotação, a metodologia e os comandos estão no README dessa pasta.
