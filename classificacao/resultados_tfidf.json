@@ -16,6 +16,59 @@
   "ngram=(1, 2),min_df=2": 0.884478102267412,
   "ngram=(1, 2),min_df=5": 0.87971157367736
  },
+ "cv_extra": {
+  "LogReg, sem stopwords": 0.8901402313596604,
+  "LogReg, stopwords spaCy": 0.8903571590904795,
+  "LogReg, stopwords + max_df=0.8": 0.8903571590904795,
+  "k-NN(k=3), sem stopwords": 0.8481139901414938,
+  "k-NN(k=3), stopwords": 0.8528016937095513
+ },
+ "matriz_confusao": {
+  "classes": [
+   "banco_de_dados_e_ciencia_de_dados",
+   "engenharia_de_software_e_programacao",
+   "governanca_e_gestao_de_ti",
+   "redes_e_infraestrutura",
+   "seguranca_da_informacao"
+  ],
+  "valores": [
+   [
+    86,
+    4,
+    0,
+    2,
+    0
+   ],
+   [
+    8,
+    131,
+    6,
+    4,
+    3
+   ],
+   [
+    0,
+    1,
+    23,
+    0,
+    0
+   ],
+   [
+    2,
+    3,
+    3,
+    121,
+    4
+   ],
+   [
+    0,
+    1,
+    1,
+    10,
+    89
+   ]
+  ]
+ },
  "config_final": {
   "max_features": null,
   "ngram_range": [

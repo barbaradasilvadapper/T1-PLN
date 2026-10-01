@@ -8,7 +8,9 @@ from pathlib import Path
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import classification_report, f1_score
+import spacy
+from sklearn.metrics import classification_report, confusion_matrix, f1_score
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import StratifiedKFold, cross_val_score, train_test_split
 from sklearn.pipeline import make_pipeline
 
@@ -37,16 +39,20 @@ Xte, yte = [X[i] for i in i_te], y[i_te]
 cv = StratifiedKFold(5, shuffle=True, random_state=42)
 
 
-def pipe(**tfidf):
+# stopwords do spaCy, como no notebook da professora
+STOP = list(spacy.blank("pt").Defaults.stop_words)
+
+
+def pipe(clf=None, **tfidf):
     return make_pipeline(
         TfidfVectorizer(lowercase=True, sublinear_tf=True, **tfidf),
-        LogisticRegression(max_iter=2000, class_weight="balanced"),
+        clf or LogisticRegression(max_iter=2000, class_weight="balanced"),
     )
 
 
-def cv_f1(**tfidf):
+def cv_f1(clf=None, **tfidf):
     # seleção só no treino (CV); o teste não é tocado até o fim
-    return cross_val_score(pipe(**tfidf), Xtr, ytr, cv=cv, scoring="f1_macro").mean()
+    return cross_val_score(pipe(clf, **tfidf), Xtr, ytr, cv=cv, scoring="f1_macro").mean()
 
 
 # 1) comprimento da BoW (max_features), unigramas
@@ -67,6 +73,19 @@ for ng in [(1, 1), (1, 2)]:
         res_cfg[k] = cv_f1(max_features=mf, ngram_range=ng, min_df=md)
         print(f"  {k}: {res_cfg[k]:.4f}")
 
+# 3) stopwords e max_df (como no notebook), e k-NN vs Regressão Logística
+print("\nstopwords / max_df / classificador")
+res_extra = {}
+for nome, kw, clf in [
+    ("LogReg, sem stopwords", {}, None),
+    ("LogReg, stopwords spaCy", {"stop_words": STOP}, None),
+    ("LogReg, stopwords + max_df=0.8", {"stop_words": STOP, "max_df": 0.8}, None),
+    ("k-NN(k=3), sem stopwords", {}, KNeighborsClassifier(3)),
+    ("k-NN(k=3), stopwords", {"stop_words": STOP}, KNeighborsClassifier(3)),
+]:
+    res_extra[nome] = cv_f1(clf, max_features=mf, **kw)
+    print(f"  {nome}: {res_extra[nome]:.4f}")
+
 melhor = max(res_cfg, key=res_cfg.get)
 ng = (1, 2) if "(1, 2)" in melhor else (1, 1)
 md = int(melhor.split("min_df=")[1])
@@ -77,6 +96,8 @@ print(classification_report(yte, pred, digits=3))
 
 json.dump({
     "cv_max_features": res_mf, "cv_config": res_cfg,
+    "cv_extra": res_extra,
+    "matriz_confusao": {"classes": list(final.classes_), "valores": confusion_matrix(yte, pred, labels=final.classes_).tolist()},
     "config_final": {"max_features": mf, "ngram_range": ng, "min_df": md, "sublinear_tf": True},
     "teste_f1_macro": f1_score(yte, pred, average="macro"),
     "teste_acuracia": float((pred == yte).mean()),
