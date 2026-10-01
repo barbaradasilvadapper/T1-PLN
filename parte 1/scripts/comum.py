@@ -10,7 +10,6 @@ TXT = DADOS / "txt"                        # saída da etapa 1 (PDF -> TXT)
 GABARITOS_MANUAIS = DADOS / "gabaritos_manuais"   # gabaritos transcritos à mão (PDF escaneado)
 INTERMEDIARIO = DADOS / "intermediario"
 CORPUS = RAIZ / "corpus"
-LISTA_PROVAS = DADOS / "lista_provas.csv"
 
 
 def norm(s: str) -> str:

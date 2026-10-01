@@ -10,7 +10,7 @@ import json
 import re
 from collections import Counter
 
-from comum import GABARITOS_MANUAIS, INTERMEDIARIO, LISTA_PROVAS, TXT, pastas_de_provas
+from comum import GABARITOS_MANUAIS, INTERMEDIARIO, TXT, pastas_de_provas
 from gabarito import blocos, escolher
 
 # Provas cujo gabarito publicado no PCI é de OUTRO cargo (conferido manualmente) -> sem gabarito
@@ -217,11 +217,12 @@ def problemas(q, n_alt):
 
 
 def main():
-    info = {r["n"].zfill(2): r for r in csv.DictReader(open(LISTA_PROVAS, encoding="utf-8"))}
     INTERMEDIARIO.mkdir(parents=True, exist_ok=True)
     relatorio, todas = [], []
     for d in pastas_de_provas(TXT):
         n, slug = d.name[:2], d.name[3:]
+        ano = int(re.search(r"-(\d{4})(-\d+)?$", slug).group(1))   # o ano está no fim do nome da pasta
+        url = "https://www.pciconcursos.com.br/provas/download/" + slug
         texto = mapear_simbolos((d / "prova.txt").read_text(encoding="utf-8"))
         qs, total_A = separar(texto)
 
@@ -236,14 +237,14 @@ def main():
         gab_ok = bloco is not None and n not in GABARITO_INVALIDO
         n_alt = Counter(len(q["alternativas_linhas"]) for q in qs).most_common(1)[0][0] if qs else 5
 
-        relatorio.append({"prova": d.name, "ano": info[n]["ano"], "alternativas_por_questao": n_alt,
+        relatorio.append({"prova": d.name, "ano": ano, "alternativas_por_questao": n_alt,
                           "questoes_no_pdf": total_A, "questoes_separadas": len(qs),
                           "bloco_gabarito": bloco["cab"] if bloco else "", "similaridade": round(score, 2),
                           "gabarito_usado": gab_ok, "obs": GABARITO_INVALIDO.get(n, "manual" if manual.exists() else "")})
         for q in qs:
             resp = bloco["resp"].get(q["numero"]) if gab_ok else None
-            rec = {"id": f"{n}-{q['numero']:03d}", "prova": d.name, "ano": int(info[n]["ano"]), "banca": "FGV",
-                   "foco_do_cargo": info[n]["foco_do_cargo"], "url": info[n]["url"], "numero": q["numero"],
+            rec = {"id": f"{n}-{q['numero']:03d}", "prova": d.name, "ano": ano, "banca": "FGV",
+                   "url": url, "numero": q["numero"],
                    "secao": q["secao"], "enunciado": juntar(q["enunciado_linhas"]),
                    "alternativas": {k: juntar(v) for k, v in q["alternativas_linhas"].items()},
                    "gabarito": resp, "problemas": problemas(q, n_alt)}
