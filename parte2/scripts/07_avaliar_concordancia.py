@@ -30,7 +30,7 @@ def ler_anotacao(path, pares):
     nomes = {r.get(campo_nome, "").strip() for r in linhas}
     if len(nomes) != 1 or not next(iter(nomes)):
         raise ValueError(f"{path.name}: preencha {campo_nome} com o mesmo nome/identificador nas 100 linhas.")
-    notas, obs = {}, {}
+    notas = {}
     for r in linhas:
         pid = r["id_par"]
         if (r.get("palavra_1"), r.get("palavra_2")) != (pares[pid]["palavra_1"], pares[pid]["palavra_2"]):
@@ -38,8 +38,8 @@ def ler_anotacao(path, pares):
         nota = r.get("nota", "").strip()
         if nota not in {"1", "2", "3", "4", "5"}:
             raise ValueError(f"{path.name}/{pid}: nota pendente ou inválida; use inteiro de 1 a 5.")
-        notas[pid], obs[pid] = int(nota), r.get("observacao", "")
-    return next(iter(nomes)), notas, obs
+        notas[pid] = int(nota)
+    return next(iter(nomes)), notas
 
 
 def numero_finito(x):
@@ -68,20 +68,20 @@ def avaliar(pasta, arquivos):
     if len(lista) != 100 or len(pares) != 100:
         raise ValueError("O arquivo de pares deve conter 100 pares distintos.")
     alunos = [ler_anotacao(path, pares) for path in arquivos]
-    if len({nome for nome, _, _ in alunos}) != len(alunos):
+    if len({nome for nome, _ in alunos}) != len(alunos):
         raise ValueError("Use identificadores diferentes para anotadores distintos.")
     prefixo = "anotador"
     ids = [r["id_par"] for r in lista]
     comparacoes = []
-    for (n1, a, _), (n2, b, _) in combinations(alunos, 2):
+    for (n1, a), (n2, b) in combinations(alunos, 2):
         comparacoes.append({f"{prefixo}_1": n1, f"{prefixo}_2": n2,
                             **concordancia([a[i] for i in ids], [b[i] for i in ids])})
     resultado = []
     for pid in ids:
         r = dict(pares[pid], tipo_anotacao="humana")
         notas = []
-        for n, (nome, valores, obs) in enumerate(alunos, 1):
-            r.update({f"{prefixo}_{n}": nome, f"nota_{n}": valores[pid], f"observacao_{n}": obs[pid]})
+        for n, (nome, valores) in enumerate(alunos, 1):
+            r.update({f"{prefixo}_{n}": nome, f"nota_{n}": valores[pid]})
             notas.append(valores[pid])
         r.update(similaridade_media=sum(notas)/len(notas), similaridade_mediana=float(np.median(notas)),
                  amplitude=max(notas)-min(notas), revisar="sim" if max(notas)-min(notas) >= 2 else "nao")
@@ -89,7 +89,7 @@ def avaliar(pasta, arquivos):
     relatorio = {"status": "anotado",
                  "tipo_anotacao": "humana", "anotadores": len(alunos), "pares": len(ids),
                  "distribuicao_notas": {nome: {str(n): list(notas.values()).count(n) for n in range(1, 6)}
-                                        for nome, notas, _ in alunos},
+                                        for nome, notas in alunos},
                  "escala": [1, 2, 3, 4, 5], "comparacoes": comparacoes,
                  "pares_para_revisao": [r["id_par"] for r in resultado if r["revisar"] == "sim"],
                  "nota": "null indica estatística indefinida, por exemplo notas constantes; não equivale a zero. "

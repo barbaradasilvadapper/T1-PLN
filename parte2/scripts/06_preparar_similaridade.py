@@ -9,7 +9,7 @@ from pathlib import Path
 import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-from comum import CORPUS, salvar_csv
+from comum import CORPUS, ORIGEM_CORPUS, salvar_csv
 # Palavras do formato de prova, explicitadas para auditoria (não são termos de TI).
 EXTRAS = set("assinalar assinale alternativa correto incorreto afirmar afirmação afirmativa considerar considere seguinte seguir questão item analise analiser respectivamente exemplo opção apresentar utilizar poder dever ser estar ter haver acordo relação referir ii iii iv vi vii viii ix xi xii xiii xiv xv".split())
 
@@ -67,7 +67,7 @@ def preparar(origem, saida, semente=42):
 
 if __name__ == "__main__":
     p = argparse.ArgumentParser(description=__doc__)
-    p.add_argument("--origem", type=Path, default=CORPUS / "corpus.json")
+    p.add_argument("--origem", type=Path, default=ORIGEM_CORPUS)
     p.add_argument("--saida", type=Path, default=CORPUS)
     p.add_argument("--semente", type=int, default=42)
     args = p.parse_args()

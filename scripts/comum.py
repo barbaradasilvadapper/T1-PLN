@@ -1,5 +1,4 @@
 """Caminhos e funções compartilhadas pelo pipeline."""
-import csv
 import re
 import unicodedata
 from pathlib import Path
@@ -22,10 +21,3 @@ def norm(s: str) -> str:
 
 def pastas_de_provas(base: Path):
     return sorted(p for p in base.iterdir() if p.is_dir() and re.match(r"^\d{2}_", p.name))
-
-
-def salvar_csv(path, linhas, campos):
-    with path.open("w", encoding="utf-8-sig", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=campos)
-        writer.writeheader()
-        writer.writerows(linhas)
