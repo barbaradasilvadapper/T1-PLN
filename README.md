@@ -1,4 +1,4 @@
-# T1 PLN – Parte 1: corpus de questões de concursos de TI (QuestõesTI-FGV)
+# T1 PLN – Corpus de questões e similaridade de palavras
 
 Corpus de **2.506 questões de múltipla escolha de computação** de 95 provas da banca FGV (2021–2026),
 coletadas do [PCI Concursos](https://www.pciconcursos.com.br/provas/ti/), com enunciado, alternativas,
@@ -35,12 +35,15 @@ documentação no formato da disciplina em [`DATASET_CARD.xlsx`](DATASET_CARD.xl
 T1/
 ├── rodar_tudo.sh                  # refaz todo o pipeline
 ├── DATASET_CARD.xlsx / .md        # item i
+├── DATASET_CARD_SIMILARIDADE.md   # documentação da parte 2
+├── requirements.txt             # dependências da parte 2
 ├── docs/templateDatasetCard.xlsx  # template da disciplina
 ├── dados/
 │   ├── lista_provas.csv           # as 95 provas: nº, foco do cargo, ano, slug, URL
 │   ├── pdfs/NN_slug/              # PDFs originais (prova + gabarito)
 │   ├── gabaritos_manuais/48.txt   # gabarito transcrito (o PDF é imagem escaneada)
 │   ├── txt/NN_slug/               # textos convertidos
+│   ├── anotacoes_similaridade/    # avaliações dos 100 pares
 │   └── intermediario/             # todas as questões extraídas + relatório por prova
 ├── corpus/
 │   ├── corpus.json                # DATASET FINAL
@@ -50,6 +53,9 @@ T1/
 │   ├── descartadas.json           # questões removidas e o motivo
 │   ├── validacao_manual.json      # conferência da classificação numa amostra
 │   ├── qualidade_lexica.json
+│   ├── palavras_similaridade.csv  # 200 palavras representativas
+│   ├── pares_similaridade.csv     # 100 pares sorteados
+│   ├── corpus_similaridade.csv    # notas e resultado consolidado
 │   └── estatisticas/
 └── scripts/
 ```
@@ -146,3 +152,33 @@ Requer Python 3, poppler (`pdftotext`), `matplotlib` e `openpyxl`. A medida de q
 - **Gabarito da prova 48.** O PDF é uma imagem escaneada; o gabarito foi transcrito manualmente em
   `dados/gabaritos_manuais/48.txt`.
 - **Banca única (FGV).** Isso dá consistência, mas limita a diversidade de estilo das questões.
+
+## Parte 2 — corpus de similaridade de palavras
+
+`scripts/06_preparar_similaridade.py` tokeniza e lematiza enunciados e alternativas com spaCy, remove stopwords e seleciona os 200 lemas com maior média TF-IDF nas questões (`min_df=5`, `max_df=0.8`, TF logarítmico e normalização L2). O sorteio com semente 42 forma 100 pares sem repetição de palavras. Os resultados estão em `corpus/palavras_similaridade.csv` e `corpus/pares_similaridade.csv`.
+
+As avaliações manuais de Luiza e Rafaela estão em `dados/anotacoes_similaridade/`; o resultado consolidado está em `corpus/corpus_similaridade.csv`. A documentação exigida pelo item 2f está em `DATASET_CARD_SIMILARIDADE.md`.
+
+### Escala de anotação
+
+Avalie semelhança de significado no domínio de TI, não apenas associação temática. Cada avaliador usa a escala independentemente, sem consultar as notas do outro, e registra sua interpretação quando o termo é ambíguo.
+
+| Nota | Critério |
+|---|---|
+| 1 | Nenhuma semelhança relevante de significado |
+| 2 | Baixa: ligação principalmente temática ou funcional |
+| 3 | Moderada: propriedades em comum, conceitos distintos |
+| 4 | Alta: significados próximos, com diferenças importantes |
+| 5 | Muito alta: sinônimos ou praticamente equivalentes |
+
+### Executar a parte 2
+
+```bash
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python scripts/06_preparar_similaridade.py --saida /tmp/t1-pln-similaridade
+.venv/bin/python scripts/07_avaliar_concordancia.py
+```
+
+O primeiro script recusa sobrescrever palavras e pares existentes. O segundo lê os arquivos `anotador_*.csv` de `dados/anotacoes_similaridade/`, valida as 100 notas de cada avaliador, atualiza o corpus consolidado e grava as medidas em `corpus/estatisticas/concordancia_similaridade.json`. Os CSVs usam `tipo_anotacao=humana` e identificam a anotadora na coluna `anotador`.
+
+O cálculo inclui kappa de Cohen linear (principal), kappa quadrático, concordância exata, diferença absoluta média e matriz de confusão. As notas individuais são preservadas; a média não é uma nota consensual. `rodar_tudo.sh` continua executando o pipeline da parte 1.

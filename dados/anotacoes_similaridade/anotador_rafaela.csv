@@ -1,0 +1,101 @@
+﻿id_par,palavra_1,palavra_2,anotador,tipo_anotacao,nota,observacao
+P001,ferramenta,plataforma,Rafaela,humana,3,Ambas designam meios computacionais de trabalho; plataforma é uma base mais ampla que uma ferramenta.
+P002,criptografia,chamar,Rafaela,humana,1,"Criptografia transforma dados para proteção; chamar significa invocar algo, como uma função."
+P003,componente,trabalho,Rafaela,humana,1,Componente é uma parte de um sistema; trabalho é uma atividade ou esforço realizado.
+P004,protocolo,segurança,Rafaela,humana,2,"Protocolo estabelece regras de comunicação; segurança é proteção, que alguns protocolos oferecem."
+P005,classe,conjunto,Rafaela,humana,3,Classe e conjunto agrupam elementos; classe costuma definir também tipo e comportamento em programação.
+P006,alto,tráfego,Rafaela,humana,1,Alto indica intensidade ou posição; tráfego é o fluxo de dados em uma rede.
+P007,interno,consulta,Rafaela,humana,1,Interno indica localização ou visibilidade; consulta é uma solicitação de informação.
+P008,tcp,ordem,Rafaela,humana,2,TCP é um protocolo de transporte que preserva a ordem; ordem é apenas uma propriedade da sequência.
+P009,ambiente,tarefa,Rafaela,humana,1,Ambiente é o contexto de execução; tarefa é uma unidade de trabalho.
+P010,padrão,informação,Rafaela,humana,2,Padrão é uma regra ou forma recorrente; informação é o conteúdo interpretável ao qual ele pode se aplicar.
+P011,conteúdo,desenvolvimento,Rafaela,humana,1,Conteúdo é material informacional; desenvolvimento é o processo de construir software.
+P012,identificar,desenvolver,Rafaela,humana,1,Identificar reconhece ou distingue algo; desenvolver constrói ou aperfeiçoa um sistema.
+P013,mecanismo,lógico,Rafaela,humana,1,Mecanismo designa um meio de funcionamento; lógico qualifica uma representação ou regra abstrata.
+P014,tecnologia,from,Rafaela,humana,1,Tecnologia é um conjunto de técnicas; from é uma palavra-chave de origem ou importação.
+P015,código,http,Rafaela,humana,2,"Código pode ser texto de programa; HTTP é um protocolo usado por programas, com significados diferentes."
+P016,endereço,nuvem,Rafaela,humana,1,Endereço localiza um recurso; nuvem designa uma infraestrutura remota de serviços.
+P017,software,web,Rafaela,humana,2,Software é um programa ou conjunto de programas; web é um ambiente de recursos e serviços na internet.
+P018,virtual,linha,Rafaela,humana,1,Virtual qualifica algo representado por software; linha é uma sequência textual ou posição.
+P019,gerenciamento,externo,Rafaela,humana,1,Gerenciamento é atividade de administração; externo indica localização fora de um limite.
+P020,teste,programação,Rafaela,humana,2,Teste verifica o comportamento de software; programação constrói suas instruções.
+P021,funcional,comunicação,Rafaela,humana,1,Funcional qualifica o funcionamento ou um paradigma; comunicação é a troca de informação.
+P022,aplicação,determinar,Rafaela,humana,1,Aplicação significa um programa de uso final; determinar significa estabelecer ou descobrir algo.
+P023,falso,método,Rafaela,humana,1,Falso é um valor lógico; método é uma rotina ou procedimento.
+P024,funcionalidade,joão,Rafaela,humana,1,Funcionalidade é uma capacidade do sistema; João é um nome próprio.
+P025,máquina,receber,Rafaela,humana,1,Máquina é um equipamento de computação; receber é uma ação de obter dados ou mensagens.
+P026,resultado,fornecer,Rafaela,humana,2,Resultado é um produto de uma operação; fornecer é uma ação que pode disponibilizá-lo.
+P027,versão,exibir,Rafaela,humana,1,Versão identifica uma edição do software; exibir apresenta algo visualmente.
+P028,chave,dado,Rafaela,humana,3,Chave é um dado com função especial de identificação ou proteção; dado tem significado mais geral.
+P029,conceito,definição,Rafaela,humana,3,Conceito é uma ideia abstrata; definição é a formulação que delimita essa ideia.
+P030,acesso,prática,Rafaela,humana,1,Acesso é possibilidade ou ato de usar um recurso; prática é uma maneira habitual de agir.
+P031,configuração,organização,Rafaela,humana,3,Configuração e organização envolvem disposição de elementos; configuração especifica parâmetros do sistema.
+P032,texto,relacional,Rafaela,humana,1,Texto é conteúdo de caracteres; relacional qualifica um modelo de dados ou suas relações.
+P033,aplicar,necessidade,Rafaela,humana,1,Aplicar é utilizar algo; necessidade é uma condição que exige atendimento.
+P034,problema,empresa,Rafaela,humana,1,Problema é uma dificuldade ou questão; empresa é uma organização econômica.
+P035,modelo,resposta,Rafaela,humana,1,Modelo é uma representação ou estrutura; resposta é uma informação devolvida a uma solicitação.
+P036,criação,política,Rafaela,humana,1,Criação é produzir algo novo; política é um conjunto de regras ou diretrizes.
+P037,linguagem,implementação,Rafaela,humana,2,Linguagem expressa instruções; implementação é a concretização de um projeto usando essas instruções.
+P038,processamento,controle,Rafaela,humana,2,Processamento transforma ou executa dados; controle regula a execução dessas operações.
+P039,armazenar,público,Rafaela,humana,1,Armazenar é persistir dados; público indica visibilidade ou acesso aberto.
+P040,análise,acessar,Rafaela,humana,1,Análise examina informação; acessar obtém entrada ou disponibilidade de um recurso.
+P041,característica,aplicativo,Rafaela,humana,1,Característica é uma propriedade; aplicativo é um programa que pode possuir propriedades.
+P042,armazenamento,digital,Rafaela,humana,2,Armazenamento é retenção de dados; digital qualifica sua representação computacional.
+P043,modo,arquivo,Rafaela,humana,1,Modo é uma forma de funcionamento; arquivo é uma unidade de dados persistida.
+P044,uso,integridade,Rafaela,humana,1,Uso é a utilização de algo; integridade é a preservação da correção dos dados.
+P045,enviar,suporte,Rafaela,humana,1,Enviar transmite informação; suporte é auxílio técnico ou sustentação de um sistema.
+P046,nome,estrutura,Rafaela,humana,2,Nome é um identificador; estrutura é a organização de elementos que podem ser nomeados.
+P047,atributo,desempenho,Rafaela,humana,2,Atributo é uma propriedade genérica; desempenho é uma qualidade específica mensurável de um sistema.
+P048,incluir,algoritmo,Rafaela,humana,1,Incluir é acrescentar ou incorporar; algoritmo é uma sequência de passos para resolver uma tarefa.
+P049,equipe,administrador,Rafaela,humana,2,Equipe é um grupo de pessoas; administrador é um papel individual que pode integrar o grupo.
+P050,representar,principal,Rafaela,humana,1,Representar é expressar ou modelar algo; principal indica importância ou prioridade.
+P051,saída,processo,Rafaela,humana,2,Saída é o produto ou fluxo emitido; processo é a execução que pode produzi-lo.
+P052,comando,capacidade,Rafaela,humana,1,Comando é uma instrução; capacidade é a aptidão ou limite de um recurso.
+P053,solução,infraestrutura,Rafaela,humana,2,Solução atende a um problema; infraestrutura é a base técnica que pode viabilizar uma solução.
+P054,transação,estabelecer,Rafaela,humana,1,Transação é uma unidade de operações; estabelecer é criar ou fixar uma condição.
+P055,javascript,entrada,Rafaela,humana,1,JavaScript é uma linguagem de programação; entrada são dados recebidos por um sistema.
+P056,java,proteção,Rafaela,humana,1,Java é uma linguagem e plataforma; proteção é uma medida de defesa de recursos.
+P057,operação,ti,Rafaela,humana,2,Operação é uma ação executada; TI é o campo tecnológico em que diversas operações ocorrem.
+P058,princípio,físico,Rafaela,humana,1,Princípio é uma regra fundamental; físico qualifica a materialidade de equipamentos ou recursos.
+P059,ação,registro,Rafaela,humana,2,Ação é um evento ou operação; registro é sua documentação ou uma unidade de dados.
+P060,página,contexto,Rafaela,humana,1,Página é uma unidade de apresentação de conteúdo; contexto é o conjunto de circunstâncias de interpretação.
+P061,ataque,basear,Rafaela,humana,1,Ataque é uma ação ofensiva contra um sistema; basear é fundamentar algo.
+P062,banco,técnica,Rafaela,humana,1,"Banco, entendido como banco de dados, é um repositório; técnica é um procedimento de trabalho."
+P063,trabalhar,único,Rafaela,humana,1,Trabalhar é realizar uma atividade; único indica ausência de outros equivalentes.
+P064,autenticação,sql,Rafaela,humana,2,"Autenticação verifica identidade; SQL é uma linguagem de consulta, podendo participar desse mecanismo."
+P065,objetivo,interface,Rafaela,humana,1,Objetivo é um resultado pretendido; interface é o meio de interação entre entidades.
+P066,específico,possuir,Rafaela,humana,1,Específico indica particularidade; possuir expressa a relação de ter algo.
+P067,internet,gerenciar,Rafaela,humana,1,Internet é uma rede global; gerenciar é administrar recursos ou atividades.
+P068,utilização,coluna,Rafaela,humana,1,Utilização é o ato de usar; coluna é uma divisão vertical de dados em uma tabela.
+P069,analista,script,Rafaela,humana,1,Analista é um profissional; script é um conjunto executável de instruções.
+P070,tratamento,objeto,Rafaela,humana,1,Tratamento é uma operação aplicada a dados; objeto é uma entidade ou instância em programação.
+P071,arquitetura,gerar,Rafaela,humana,1,Arquitetura é a organização estrutural do sistema; gerar é produzir algo.
+P072,implementar,base,Rafaela,humana,2,Implementar concretiza uma solução; base é uma estrutura ou fundamento que pode sustentá-la.
+P073,computador,dispositivo,Rafaela,humana,4,Computador é um dispositivo computacional; dispositivo também abrange equipamentos de funções mais restritas.
+P074,oferecer,projeto,Rafaela,humana,1,Oferecer é disponibilizar algo; projeto é um plano ou empreendimento de desenvolvimento.
+P075,data,realizar,Rafaela,humana,1,"Data, interpretada como informação temporal em português, não se assemelha à ação realizar."
+P076,select,documento,Rafaela,humana,1,SELECT é um comando de consulta SQL; documento é uma unidade de conteúdo informacional.
+P077,permitir,operacional,Rafaela,humana,1,Permitir é autorizar ou viabilizar; operacional qualifica algo relativo à operação.
+P078,negócio,indicar,Rafaela,humana,1,Negócio é uma atividade ou contexto empresarial; indicar é apontar ou sinalizar algo.
+P079,executar,atividade,Rafaela,humana,2,"Executar é realizar uma operação; atividade é o trabalho que pode ser executado, e não a ação verbal em si."
+P080,integração,tamanho,Rafaela,humana,1,Integração conecta componentes ou sistemas; tamanho é uma medida de extensão.
+P081,necessário,adotar,Rafaela,humana,1,Necessário expressa uma condição de exigência; adotar é escolher e passar a utilizar.
+P082,recurso,falha,Rafaela,humana,1,Recurso é um meio disponível ao sistema; falha é a ocorrência de funcionamento inadequado.
+P083,camada,python,Rafaela,humana,1,Camada é um nível de organização do sistema; Python é uma linguagem de programação.
+P084,criar,rede,Rafaela,humana,1,Criar é produzir algo; rede é uma estrutura de entidades conectadas.
+P085,elemento,tribunal,Rafaela,humana,1,"Elemento é uma unidade constituinte; tribunal é uma instituição judicial, sem sentido usual próximo em TI."
+P086,responsável,ip,Rafaela,humana,1,Responsável indica um agente ou atribuição; IP é um protocolo ou identificador de rede.
+P087,pacote,html,Rafaela,humana,2,Pacote é uma unidade de transmissão ou distribuição; HTML é uma linguagem de marcação que pode compor seu conteúdo.
+P088,caso,precisar,Rafaela,humana,1,Caso é uma situação ou cenário; precisar é necessitar de algo.
+P089,manter,trecho,Rafaela,humana,1,Manter é preservar ou sustentar; trecho é uma parte delimitada de texto ou código.
+P090,descrever,configurar,Rafaela,humana,2,"Descrever expõe características; configurar ajusta parâmetros, embora ambos possam especificar um sistema."
+P091,requisito,mensagem,Rafaela,humana,2,"Requisito enuncia uma condição exigida; mensagem comunica conteúdo, podendo expressar essa condição."
+P092,definir,servidor,Rafaela,humana,1,Definir é estabelecer ou delimitar algo; servidor é um sistema que fornece serviços.
+P093,usuário,conexão,Rafaela,humana,2,Usuário é um agente que utiliza o sistema; conexão é o vínculo de comunicação que ele pode estabelecer.
+P094,pessoal,garantir,Rafaela,humana,1,Pessoal indica pessoas ou caráter privado; garantir é assegurar uma condição.
+P095,órgão,erro,Rafaela,humana,1,Órgão é uma unidade institucional; erro é uma incorreção de dados ou funcionamento.
+P096,execução,verificar,Rafaela,humana,2,Execução realiza instruções; verificar examina uma condição e pode ser uma etapa dessa execução.
+P097,tabela,cliente,Rafaela,humana,1,Tabela organiza dados em linhas e colunas; cliente é um consumidor de um serviço.
+P098,risco,gestão,Rafaela,humana,2,Risco é possibilidade de um efeito adverso; gestão é administração que pode tratar esse risco.
+P099,abordagem,serviço,Rafaela,humana,2,Abordagem é uma maneira de enfrentar uma tarefa; serviço é uma capacidade disponibilizada a um consumidor.
+P100,função,domínio,Rafaela,humana,2,Função é uma rotina ou transformação; domínio é seu âmbito ou conjunto de entradas possíveis.

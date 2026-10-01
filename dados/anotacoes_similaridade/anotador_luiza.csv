@@ -1,0 +1,101 @@
+﻿id_par,palavra_1,palavra_2,anotador,tipo_anotacao,nota,observacao
+P001,ferramenta,plataforma,Luiza,humana,3,Ambas podem oferecer recursos de TI; ferramenta é um instrumento e plataforma é uma base para aplicações.
+P002,criptografia,chamar,Luiza,humana,1,Criptografia transforma dados para protegê-los; chamar significa invocar algo.
+P003,componente,trabalho,Luiza,humana,1,Componente é uma parte de um sistema; trabalho é uma atividade ou esforço.
+P004,protocolo,segurança,Luiza,humana,2,"Protocolos podem apoiar a segurança, mas são regras de comunicação e não a proteção em si."
+P005,classe,conjunto,Luiza,humana,3,Classe agrupa objetos com propriedades comuns; conjunto é uma coleção sem exigir essa estrutura.
+P006,alto,tráfego,Luiza,humana,1,Alto expressa magnitude; tráfego é o fluxo de dados em uma rede.
+P007,interno,consulta,Luiza,humana,1,Interno indica localização ou escopo; consulta é uma solicitação de informação.
+P008,tcp,ordem,Luiza,humana,2,"TCP preserva a ordem dos dados, mas o protocolo não equivale ao sequenciamento."
+P009,ambiente,tarefa,Luiza,humana,1,Ambiente é o contexto de execução; tarefa é uma unidade de trabalho.
+P010,padrão,informação,Luiza,humana,1,Padrão é uma convenção ou regularidade; informação é conteúdo com significado.
+P011,conteúdo,desenvolvimento,Luiza,humana,1,Conteúdo é o material informado; desenvolvimento é o processo de construir software.
+P012,identificar,desenvolver,Luiza,humana,1,Identificar reconhece ou distingue algo; desenvolver constrói ou aprimora algo.
+P013,mecanismo,lógico,Luiza,humana,1,Mecanismo é um meio de funcionamento; lógico qualifica raciocínio ou estrutura abstrata.
+P014,tecnologia,from,Luiza,humana,1,Tecnologia designa métodos e recursos; from é uma palavra-chave de seleção de origem.
+P015,código,http,Luiza,humana,2,HTTP é um protocolo que possui especificações implementáveis em código; os conceitos não são equivalentes.
+P016,endereço,nuvem,Luiza,humana,1,Endereço identifica uma localização; nuvem é um ambiente de recursos computacionais remotos.
+P017,software,web,Luiza,humana,2,Software é um programa; web é um sistema de páginas e serviços que utiliza programas.
+P018,virtual,linha,Luiza,humana,1,Virtual indica uma representação abstrata ou simulada; linha é uma sequência textual ou conexão.
+P019,gerenciamento,externo,Luiza,humana,1,Gerenciamento é administrar recursos; externo indica algo fora de um escopo.
+P020,teste,programação,Luiza,humana,2,Teste avalia o comportamento do software; programação cria suas instruções.
+P021,funcional,comunicação,Luiza,humana,1,Funcional qualifica o funcionamento ou um paradigma; comunicação é a troca de informação.
+P022,aplicação,determinar,Luiza,humana,1,Aplicação é um programa; determinar é estabelecer ou descobrir uma condição.
+P023,falso,método,Luiza,humana,1,Falso é um valor lógico; método é um procedimento ou rotina de uma classe.
+P024,funcionalidade,joão,Luiza,humana,1,Funcionalidade é uma capacidade do software; João é um nome de pessoa.
+P025,máquina,receber,Luiza,humana,1,Máquina é um equipamento computacional; receber é aceitar uma entrada.
+P026,resultado,fornecer,Luiza,humana,1,Resultado é o produto de uma operação; fornecer é disponibilizar algo.
+P027,versão,exibir,Luiza,humana,1,Versão identifica uma edição de software; exibir é apresentar informação.
+P028,chave,dado,Luiza,humana,2,Chave pode ser um dado usado para identificar ou cifrar; dado é uma categoria muito mais abrangente.
+P029,conceito,definição,Luiza,humana,3,Conceito é uma ideia abstrata; definição explicita o significado dessa ideia.
+P030,acesso,prática,Luiza,humana,1,Acesso é a possibilidade de usar um recurso; prática é uma atividade habitual ou aplicada.
+P031,configuração,organização,Luiza,humana,3,Ambas dizem respeito ao arranjo de elementos; configuração especifica parâmetros e organização estrutura partes.
+P032,texto,relacional,Luiza,humana,1,Texto é uma sequência de caracteres; relacional qualifica um modelo baseado em relações.
+P033,aplicar,necessidade,Luiza,humana,1,Aplicar é empregar algo; necessidade é uma condição que exige atendimento.
+P034,problema,empresa,Luiza,humana,1,Problema é uma dificuldade a resolver; empresa é uma organização econômica.
+P035,modelo,resposta,Luiza,humana,1,Modelo é uma representação ou estrutura; resposta é o retorno a uma solicitação.
+P036,criação,política,Luiza,humana,1,Criação é produzir algo novo; política é um conjunto de regras de atuação.
+P037,linguagem,implementação,Luiza,humana,2,Linguagem expressa instruções; implementação concretiza uma solução usando essas instruções.
+P038,processamento,controle,Luiza,humana,2,Processamento transforma dados; controle coordena operações e pode orientar esse processamento.
+P039,armazenar,público,Luiza,humana,1,Armazenar é guardar dados; público indica disponibilidade ou visibilidade de acesso.
+P040,análise,acessar,Luiza,humana,1,Análise examina informações; acessar obtém entrada ou disponibilidade de um recurso.
+P041,característica,aplicativo,Luiza,humana,1,Característica é uma propriedade; aplicativo é um programa com finalidade específica.
+P042,armazenamento,digital,Luiza,humana,2,"Armazenamento guarda informação; digital qualifica sua representação discreta, sem significar guardá-la."
+P043,modo,arquivo,Luiza,humana,1,Modo é uma forma de funcionamento; arquivo é uma unidade de dados persistidos.
+P044,uso,integridade,Luiza,humana,1,Uso é empregar um recurso; integridade é preservar sua correção e ausência de alterações indevidas.
+P045,enviar,suporte,Luiza,humana,1,Enviar é transmitir algo; suporte é assistência ou sustentação de um sistema.
+P046,nome,estrutura,Luiza,humana,1,Nome é um identificador; estrutura é a organização das partes.
+P047,atributo,desempenho,Luiza,humana,2,"Desempenho pode ser um atributo de um sistema; atributo é qualquer propriedade, não apenas eficiência."
+P048,incluir,algoritmo,Luiza,humana,1,Incluir acrescenta um elemento; algoritmo é uma sequência de passos para resolver uma tarefa.
+P049,equipe,administrador,Luiza,humana,2,Equipe é um grupo de profissionais; administrador é um papel individual que pode integrar esse grupo.
+P050,representar,principal,Luiza,humana,1,Representar é expressar ou simbolizar algo; principal indica prioridade ou importância.
+P051,saída,processo,Luiza,humana,2,Saída é o resultado emitido; processo é a sequência ou instância de operações que pode produzi-lo.
+P052,comando,capacidade,Luiza,humana,1,Comando é uma instrução executável; capacidade é uma aptidão ou limite de recursos.
+P053,solução,infraestrutura,Luiza,humana,2,Infraestrutura pode compor uma solução de TI; solução é a resposta a uma necessidade específica.
+P054,transação,estabelecer,Luiza,humana,1,Transação é uma unidade de operações; estabelecer é instituir ou iniciar algo.
+P055,javascript,entrada,Luiza,humana,1,JavaScript é uma linguagem de programação; entrada é o dado recebido por um sistema.
+P056,java,proteção,Luiza,humana,1,Java é uma linguagem de programação; proteção é a defesa contra danos ou acessos indevidos.
+P057,operação,ti,Luiza,humana,2,Operação é uma atividade executada; TI é o campo abrangente no qual atividades computacionais ocorrem.
+P058,princípio,físico,Luiza,humana,1,Princípio é uma regra fundamental; físico qualifica a dimensão material do sistema.
+P059,ação,registro,Luiza,humana,2,"Ação é um evento ou ato executado; registro é sua representação persistida, quando documentado."
+P060,página,contexto,Luiza,humana,1,Página é uma unidade de conteúdo web; contexto é o conjunto de circunstâncias de interpretação.
+P061,ataque,basear,Luiza,humana,1,Ataque é uma ação contra a segurança; basear é apoiar algo em um fundamento.
+P062,banco,técnica,Luiza,humana,1,"Interpreto banco como banco de dados; técnica é um procedimento, não o repositório de informações."
+P063,trabalhar,único,Luiza,humana,1,Trabalhar é realizar uma atividade; único qualifica exclusividade ou ausência de duplicatas.
+P064,autenticação,sql,Luiza,humana,1,Autenticação verifica identidade; SQL é uma linguagem para manipular bancos de dados.
+P065,objetivo,interface,Luiza,humana,1,Objetivo é uma finalidade; interface é o ponto de interação entre partes.
+P066,específico,possuir,Luiza,humana,1,Específico qualifica delimitação; possuir indica ter algo.
+P067,internet,gerenciar,Luiza,humana,1,Internet é a rede mundial; gerenciar é administrar recursos ou atividades.
+P068,utilização,coluna,Luiza,humana,1,Utilização é o ato de usar; coluna é uma divisão vertical de uma tabela.
+P069,analista,script,Luiza,humana,1,Analista é um profissional; script é uma sequência de instruções executáveis.
+P070,tratamento,objeto,Luiza,humana,1,Tratamento é uma operação sobre dados; objeto é uma entidade com estado e comportamento.
+P071,arquitetura,gerar,Luiza,humana,1,Arquitetura é a organização fundamental de um sistema; gerar é produzir algo.
+P072,implementar,base,Luiza,humana,1,Implementar é concretizar uma especificação; base é um fundamento ou repositório.
+P073,computador,dispositivo,Luiza,humana,3,Computador é um tipo de dispositivo eletrônico; dispositivo inclui equipamentos de muitas outras funções.
+P074,oferecer,projeto,Luiza,humana,1,Oferecer é disponibilizar algo; projeto é um esforço planejado para um resultado.
+P075,data,realizar,Luiza,humana,1,Interpreto data como indicação temporal; realizar é executar uma ação.
+P076,select,documento,Luiza,humana,1,SELECT é um comando de consulta SQL; documento é um conteúdo organizado para leitura ou armazenamento.
+P077,permitir,operacional,Luiza,humana,1,Permitir é autorizar ou possibilitar; operacional qualifica funcionamento ou operação.
+P078,negócio,indicar,Luiza,humana,1,Negócio é uma atividade empresarial; indicar é apontar ou sinalizar informação.
+P079,executar,atividade,Luiza,humana,2,"Executar é realizar uma ação; atividade é aquilo que se realiza, não o próprio verbo de realização."
+P080,integração,tamanho,Luiza,humana,1,Integração combina ou conecta sistemas; tamanho expressa dimensão ou quantidade.
+P081,necessário,adotar,Luiza,humana,1,Necessário qualifica algo indispensável; adotar é passar a utilizar uma solução.
+P082,recurso,falha,Luiza,humana,1,Recurso é um meio disponível; falha é um funcionamento incorreto ou interrompido.
+P083,camada,python,Luiza,humana,1,Camada é um nível de organização de sistemas; Python é uma linguagem de programação.
+P084,criar,rede,Luiza,humana,1,Criar é produzir algo; rede é um conjunto de elementos conectados.
+P085,elemento,tribunal,Luiza,humana,1,Elemento é uma parte genérica de uma estrutura; tribunal é uma instituição judicial.
+P086,responsável,ip,Luiza,humana,1,Responsável designa quem responde por algo; IP identifica um protocolo ou endereço de rede.
+P087,pacote,html,Luiza,humana,1,Interpreto pacote como unidade de transmissão ou distribuição; HTML é uma linguagem de marcação.
+P088,caso,precisar,Luiza,humana,1,Caso é uma situação ou cenário; precisar indica necessidade.
+P089,manter,trecho,Luiza,humana,1,Manter é conservar um estado; trecho é uma parte de texto ou código.
+P090,descrever,configurar,Luiza,humana,2,Descrever expressa características; configurar especifica parâmetros que determinam o funcionamento.
+P091,requisito,mensagem,Luiza,humana,1,Requisito é uma condição exigida; mensagem é uma unidade de comunicação.
+P092,definir,servidor,Luiza,humana,1,Definir é estabelecer significado ou parâmetros; servidor é um sistema que atende solicitações.
+P093,usuário,conexão,Luiza,humana,1,Usuário é quem utiliza o sistema; conexão é o vínculo de comunicação entre pontos.
+P094,pessoal,garantir,Luiza,humana,1,Interpreto pessoal como relativo a uma pessoa; garantir é assegurar uma condição.
+P095,órgão,erro,Luiza,humana,1,Órgão é uma instituição ou unidade organizacional; erro é uma incorreção.
+P096,execução,verificar,Luiza,humana,2,Execução realiza instruções; verificar examina se uma condição ou resultado está correto.
+P097,tabela,cliente,Luiza,humana,1,Tabela organiza dados em linhas e colunas; cliente é quem solicita um serviço.
+P098,risco,gestão,Luiza,humana,2,Risco é a possibilidade de um efeito adverso; gestão é administrar atividades e pode lidar com riscos.
+P099,abordagem,serviço,Luiza,humana,1,Abordagem é uma forma de tratar um problema; serviço é uma funcionalidade oferecida.
+P100,função,domínio,Luiza,humana,2,Função realiza uma transformação ou tarefa; domínio delimita valores de entrada ou uma área de aplicação.
