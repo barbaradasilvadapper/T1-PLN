@@ -10,10 +10,9 @@ Grupo: Ana Carolina Poletto, Bárbara Dapper, João Pedro Martins, Luiza Pasini 
 | `parte 2/` | corpus de similaridade: scripts, anotações, corpus final e dataset card | scripts em `parte 2/scripts/` |
 | `parte 3/` | classificação das questões (`classificacao.ipynb`) e resultados | notebook |
 | `parte 4/` | similaridade de palavras (`similaridade.ipynb`), dataset de aula, notas do LLM e resultados | notebook |
-| `apresentacao/` | slides da apresentação (Keynote, PowerPoint e PDF) | |
-| `entregaveis/` | cópia do que o enunciado pede para entregar (ver abaixo) | gerada por `gerar_entregaveis.py` |
+| `Trabalho1_PLN.key` / `.pptx` / `.pdf` | apresentação | |
 
-As partes 1 e 2 são pipelines de vários passos, por isso ficaram em scripts numerados. As partes 3 e 4 são
+As partes 1 e 2 são pipelines de vários passos, por isso ficaram em scripts. As partes 3 e 4 são
 notebooks, no mesmo formato dos notebooks da disciplina, e já estão salvos com as saídas.
 
 ### Instalação
@@ -27,16 +26,15 @@ refazer a conversão dos PDFs.
 
 ### Entregáveis
 
-A pasta `entregaveis/` junta o que o enunciado pede, em uma pasta por item. Ela é uma cópia: depois de mudar
-alguma parte, rode `python3 gerar_entregaveis.py` para atualizar.
+Onde está cada item que o enunciado pede:
 
-| Entregável | Pasta | Conteúdo |
-|---|---|---|
-| Corpus de questões | `entregaveis/corpus_questoes/` | `corpus.json`, `corpus.csv`, questões por subárea e ano, descartadas, estatísticas e dataset card |
-| Corpus de similaridade | `entregaveis/corpus_similaridade/` | `corpus_similaridade.csv`, anotações das duas anotadoras, concordância e dataset card |
-| Classificador de questões | `entregaveis/classificador_questoes/` | notebook executado, tabela de resultados e gráficos |
-| Analisador de similaridade | `entregaveis/analisador_similaridade/` | notebook executado, correlações, gráfico e notas do LLM |
-| Apresentação | `entregaveis/apresentacao/` | slides em Keynote, PowerPoint e PDF |
+| Entregável | Onde está |
+|---|---|
+| Corpus de questões | `parte 1/corpus/` (`corpus.json`, `corpus.csv`, `por_subarea/`, `questoes/`, `descartadas.json`), `parte 1/estatisticas.ipynb` e `parte 1/dataset_card.xlsx` |
+| Corpus de similaridade | `parte 2/corpus/corpus_similaridade.csv`, `parte 2/dados/anotacoes_similaridade/`, `parte 2/corpus/concordancia.json` e `parte 2/dataset_card.xlsx` |
+| Classificador de questões | `parte 3/classificacao.ipynb` e `parte 3/resultados/` |
+| Analisador de similaridade | `parte 4/similaridade.ipynb`, `parte 4/resultados/` e `parte 4/dados/` |
+| Apresentação | `Trabalho1_PLN.key`, `Trabalho1_PLN.pptx` e `Trabalho1_PLN.pdf`, na raiz |
 
 ## Parte 1: corpus de questões
 

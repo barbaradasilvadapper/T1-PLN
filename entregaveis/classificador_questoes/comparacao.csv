@@ -1,7 +1,0 @@
-,F1-macro,Acurácia
-TF-IDF + k-NN,0.881,0.892
-TF-IDF + regressão logística,0.91,0.912
-spaCy + k-NN,0.426,0.48
-spaCy + regressão logística,0.832,0.851
-BERTimbau + k-NN,0.753,0.773
-BERTimbau + regressão logística,0.804,0.813
