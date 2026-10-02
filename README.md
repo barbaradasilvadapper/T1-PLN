@@ -1,153 +1,116 @@
-# T1 PLN – Corpus de questões e similaridade de palavras
+# T1 PLN - Corpus de questões de concursos de TI e similaridade de palavras
 
-Corpus de **2.506 questões de múltipla escolha de computação** de 95 provas da banca FGV (2021–2026),
-coletadas do [PCI Concursos](https://www.pciconcursos.com.br/provas/ti/), com enunciado, alternativas,
-gabarito oficial, ano e subárea.
+## Parte 1: corpus de questões
+
+Corpus com 2.506 questões de múltipla escolha de computação, tiradas de 95 provas da FGV (2021 a 2026)
+disponíveis no [PCI Concursos](https://www.pciconcursos.com.br/provas/ti/). Cada questão tem enunciado,
+alternativas, gabarito oficial, ano e subárea.
 
 | Subárea | Questões |
 |---|---:|
 | Engenharia de Software e Programação | 758 |
-| Redes, Sistemas Operacionais e Infraestrutura | 664 |
+| Redes e Infraestrutura | 664 |
 | Segurança da Informação | 507 |
 | Banco de Dados e Ciência de Dados | 459 |
 | Governança e Gestão de TI | 118 |
 
-Estatísticas completas em [`corpus/estatisticas/ESTATISTICAS.md`](corpus/estatisticas/ESTATISTICAS.md) e
-documentação no formato da disciplina em [`DATASET_CARD.xlsx`](DATASET_CARD.xlsx) / [`DATASET_CARD.md`](DATASET_CARD.md).
+Tudo da parte 1 está na pasta `parte 1/`. O dataset card é o `parte 1/DATASET_CARD.xlsx`, e as
+estatísticas estão em `parte 1/estatisticas.ipynb`.
 
-## Como cada item do enunciado foi atendido
-
-| Item | Onde / como |
-|---|---|
-| **a.** ≥ 3 subáreas, ≥ 500 questões cada | 3 subáreas com mais de 500 (Eng. Software 758, Redes 664, Segurança 507) e mais 2 menores (BD 459, Governança 118). A subárea é atribuída por questão (`scripts/subareas.py`). |
-| **b.** concursos dos últimos 6 anos | Todas as provas são de 2021 a 2026. |
-| **c.** PDF → TXT | `scripts/01_pdf_para_txt.py` → `dados/txt/NN_prova/prova.txt` e `gabarito.txt` |
-| **d.** filtrar e pré-processar | `scripts/02_extrair_questoes.py` marca problemas de conversão; `scripts/03_filtrar_classificar_exportar.py` descarta (motivos em `corpus/descartadas.json`) |
-| **e.** organizar por ano, questão e subárea | `corpus/questoes/<subárea>/<ano>/<id>.txt` (seções `[ENUNCIADO]`, `[ALTERNATIVAS]`, `[GABARITO]`) e `corpus/por_subarea/<subárea>.json` (agrupado por ano) |
-| **f.** gabarito | Campo `gabarito` (letra) e `resposta_correta` (texto) em cada questão |
-| **g.** estatísticas | `scripts/04_estatisticas.py` → `corpus/estatisticas/` (JSON, Markdown e 4 gráficos) |
-| **h.** exportar para JSON | `corpus/corpus.json` (estrutura abaixo) |
-| **i.** dataset card | `scripts/05_dataset_card.py` preenche o template da professora → `DATASET_CARD.xlsx` |
-
-## Estrutura das pastas
+### Organização
 
 ```
-T1/
-├── rodar_tudo.sh                  # refaz todo o pipeline
-├── DATASET_CARD.xlsx / .md        # item i
-├── docs/templateDatasetCard.xlsx  # template da disciplina
-├── dados/
-│   ├── lista_provas.csv           # as 95 provas: nº, foco do cargo, ano, slug, URL
-│   ├── pdfs/NN_slug/              # PDFs originais (prova + gabarito)
-│   ├── gabaritos_manuais/48.txt   # gabarito transcrito (o PDF é imagem escaneada)
-│   ├── txt/NN_slug/               # textos convertidos
-│   └── intermediario/             # todas as questões extraídas + relatório por prova
-├── corpus/
-│   ├── corpus.json                # DATASET FINAL
-│   ├── por_subarea/*.json
-│   ├── questoes/<subárea>/<ano>/<id>.txt
-│   ├── corpus.csv
-│   ├── descartadas.json           # questões removidas e o motivo
-│   ├── validacao_manual.json      # conferência da classificação numa amostra
-│   ├── qualidade_lexica.json
-│   └── estatisticas/
-├── scripts/
-└── parte2/                       # scripts, anotações e corpus de similaridade
+parte 1/
+  dados/
+    pdfs/NN_nome-da-prova/     PDFs da prova e do gabarito (baixados do PCI Concursos)
+    txt/NN_nome-da-prova/      texto extraído dos PDFs
+    gabaritos_manuais/48.txt   gabarito da prova 48 digitado à mão (o PDF é uma imagem)
+  corpus/
+    corpus.json                dataset final
+    por_subarea/*.json         as mesmas questões separadas por subárea e agrupadas por ano
+    questoes/<subárea>/<ano>/  um arquivo .txt por questão ([ENUNCIADO], [ALTERNATIVAS], [GABARITO])
+    corpus.csv                 uma linha por questão
+  scripts/
+    01_pdf_para_txt.py         converte os PDFs em texto
+    02_extrair_questoes.py     separa as questões, enunciado e alternativas, e junta o gabarito
+    03_filtrar_classificar_exportar.py   filtra, remove duplicadas, classifica e gera o corpus
+    gabarito.py, subareas.py, comum.py   funções usadas pelos scripts acima
+  estatisticas.ipynb           estatísticas e gráficos do corpus
+  DATASET_CARD.xlsx            dataset card
 ```
 
-## Estrutura do JSON (`corpus/corpus.json`)
+### Formato do JSON
+
+`corpus.json` tem um bloco `metadados` e a lista `questoes`. Exemplo de uma questão:
 
 ```json
 {
-  "metadados": { "nome": "QuestõesTI-FGV", "versao": "1.0", "data": "...", "total_questoes": 2506,
-                 "subareas": { "seguranca_da_informacao": { "nome": "Segurança da Informação", "questoes": 507 }, "...": {} },
-                 "campos": { "...": "descrição de cada campo" } },
-  "questoes": [
-    {
-      "id": "28-061",
-      "subarea": "seguranca_da_informacao",
-      "ano": 2023,
-      "banca": "FGV",
-      "cargo_orgao": "analista judiciario analise de sistemas redes tj se",
-      "prova": "28_analista-judiciario-analise-de-sistemas-redes-tj-se-fgv-2023",
-      "url_prova": "https://www.pciconcursos.com.br/provas/download/...",
-      "numero_na_prova": 61,
-      "secao_na_prova": "Conhecimentos Específicos",
-      "enunciado": "O computador de Elias foi infectado por um rootkit que ...",
-      "alternativas": [ { "letra": "A", "texto": "memória;" }, { "letra": "B", "texto": "kernel;" }, "..." ],
-      "gabarito": "A",
-      "resposta_correta": "memória;",
-      "tambem_em": [],
-      "pontuacao_subareas": { "seguranca_da_informacao": 4, "redes_e_infraestrutura": 3, "...": 0 }
-    }
-  ]
+  "id": "28-061",
+  "subarea": "seguranca_da_informacao",
+  "ano": 2023,
+  "banca": "FGV",
+  "cargo_orgao": "analista judiciario analise de sistemas redes tj se",
+  "prova": "28_analista-judiciario-analise-de-sistemas-redes-tj-se-fgv-2023",
+  "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-analise-de-sistemas-redes-tj-se-fgv-2023",
+  "numero_na_prova": 61,
+  "secao_na_prova": "Conhecimentos Específicos",
+  "enunciado": "O computador de Elias foi infectado por um rootkit que ...",
+  "alternativas": [{"letra": "A", "texto": "memória;"}, {"letra": "B", "texto": "kernel;"}, ...],
+  "gabarito": "A",
+  "resposta_correta": "memória;",
+  "tambem_em": [],
+  "pontuacao_subareas": {"seguranca_da_informacao": 4, "redes_e_infraestrutura": 3, ...}
 }
 ```
 
-`id` = `NN-QQQ` (nº da prova em `lista_provas.csv` e nº da questão). `tambem_em` lista questões idênticas
-de outras provas do mesmo concurso, que foram removidas como duplicatas.
+O `id` é o número da pasta da prova em `parte 1/dados/pdfs` mais o número da questão na prova. `tambem_em` lista
+questões iguais de outras provas do mesmo concurso, que foram removidas como duplicadas.
 
-## Pipeline
+### Como foi feito
 
-1. **Coleta.** Levantamento de todas as provas de TI do PCI Concursos (1.526 de 2021–2026). Foram
-   escolhidas 95 da FGV com gabarito, priorizando cargos cuja prova é quase toda de TI e equilibrando os
-   focos (desenvolvimento, dados, redes, segurança). O site exige uma verificação de segurança (captcha) por
-   prova, então os PDFs foram baixados manualmente para `dados/pdfs/`. Usar uma única banca mantém o
-   formato estável e o parser confiável.
-2. **Conversão (c).** `pdftotext -bbox-layout` com reordenação dos blocos por coluna: as provas FGV são
-   em duas colunas e a conversão direta embaralha as questões. Os gabaritos usam `pdftotext -layout`.
-3. **Separação (d, e, f).**
-   - Remoção de cabeçalhos e rodapés.
-   - Detecção das seções da prova ("Língua Portuguesa", "Conhecimentos Específicos"…).
-   - Início de cada questão pelo número sequencial seguido de "(A)"; separação do enunciado e das alternativas (A)–(E) ou (A)–(D).
-   - Textos compartilhados ("Texto 1", "Considere o código… nas duas questões a seguir") vão para a questão seguinte.
-   - Gabarito: o arquivo traz dezenas de cargos e tipos de prova. O bloco certo é escolhido pelo número de
-     questões, Tipo 1 e similaridade com o nome do cargo, e todas as 95 escolhas foram conferidas
-     (`dados/intermediario/relatorio_extracao.csv`).
-4. **Filtro (d).** Uma questão é descartada se:
-   - é de outra matéria (seção de português, direito, raciocínio lógico etc., ou sem termos de TI);
-   - teve problema de conversão:
-     - símbolo de fonte especial não convertido;
-     - expoente, índice ou tabela quebrados em linhas soltas;
-     - alternativas faltando ou vazias;
-     - duas questões grudadas;
-     - depende de figura;
-     - cita um texto ou tabela que não está no enunciado;
-   - não tem gabarito ou foi anulada;
-   - é duplicata (similaridade ≥ 0,9) de questão já incluída.
-5. **Classificação (a).** Dicionário de termos por subárea com pesos 2 (característicos) e 1 (genéricos, contados uma vez por questão).
-   - A questão precisa de pelo menos um termo característico.
-   - Nos empates apertados, segurança tem prioridade, porque costuma aparecer dentro de contextos de redes ou de software.
-6. **Estatísticas (g), JSON (h) e dataset card (i).**
+1. **Coleta:** escolhemos 95 provas de TI da FGV entre 2021 e 2026, todas com gabarito. Os PDFs foram
+   baixados manualmente, porque o site pede uma verificação de segurança em cada prova.
+2. **Conversão:** as provas da FGV são em duas colunas, então o texto é extraído com
+   `pdftotext -bbox-layout` e os blocos são reordenados por coluna. Os gabaritos usam `pdftotext -layout`.
+3. **Separação:**
+   - Tiramos cabeçalhos e rodapés.
+   - Identificamos a seção de cada questão (Língua Portuguesa, Conhecimentos Específicos etc.).
+   - Separamos o enunciado das alternativas.
+   - Cada arquivo de gabarito tem vários cargos. O bloco certo é escolhido pelo número de questões, pelo
+     tipo de prova (Tipo 1) e pelo nome do cargo.
+4. **Filtragem:** são descartadas as questões que:
+   - não são de computação (português, direito, raciocínio lógico etc.);
+   - tiveram problema na conversão (símbolos perdidos, fórmulas ou tabelas quebradas, alternativa
+     faltando, dependência de figura, texto de apoio que ficou em outra questão);
+   - não têm gabarito ou foram anuladas;
+   - são repetidas.
 
-## Como rodar
+   Das 6.777 questões extraídas, ficaram 2.506.
+5. **Classificação:** a subárea é definida por uma lista de palavras-chave com pesos (`parte 1/scripts/subareas.py`).
+
+### Como rodar
+
+Requer Python 3 e o poppler (`pdftotext`). A partir da raiz do repositório:
 
 ```bash
-cd T1
-./rodar_tudo.sh
+cd "parte 1/scripts"
+python3 01_pdf_para_txt.py
+python3 02_extrair_questoes.py
+python3 03_filtrar_classificar_exportar.py
 ```
 
-Requer Python 3, poppler (`pdftotext`), `matplotlib` e `openpyxl`. A medida de qualidade léxica
-(`04b_qualidade_lexica.py`) precisa de `pip install pyspellchecker`. Sem esse pacote, o script é pulado e o
-último `corpus/qualidade_lexica.json` é mantido.
+Depois, abra o `parte 1/estatisticas.ipynb` (precisa de `pandas`, `matplotlib` e `pyspellchecker`).
 
-## Validação e limitações
+### Limitações
 
-- **Classificação.** Numa amostra aleatória estratificada de 89 questões do corpus final, conferida manualmente
-  com auxílio do Claude (IA), 89/89 são de computação e **83/89 (93%)** estão na subárea correta
-  (`corpus/validacao_manual.json`). Os erros são sobretudo questões de protocolos de segurança (IPSec, SSL,
-  DNSSEC, RADIUS) que ficaram em Redes. As fronteiras entre subáreas são naturalmente difusas (ex.: backup,
-  servidores de aplicação).
-- **Qualidade do texto.** 94,2% dos tokens alfabéticos são reconhecidos por dicionários de português ou
-  inglês. É um limite inferior: os não reconhecidos são siglas e termos técnicos, além de palavras comuns
-  ausentes do dicionário.
-- **Provas sem contribuição.**
-  - 53 (MP/RJ): o gabarito publicado no PCI é de outro cargo, então as questões ficaram sem gabarito.
-  - 08 e 46 (CVM, manhã) e 49 (Câmara dos Deputados, manhã): são provas de conhecimentos gerais, sem questões de TI.
-- **Gabarito da prova 48.** O PDF é uma imagem escaneada; o gabarito foi transcrito manualmente em
-  `dados/gabaritos_manuais/48.txt`.
-- **Banca única (FGV).** Isso dá consistência, mas limita a diversidade de estilo das questões.
+- A classificação por palavras-chave erra em alguns casos de fronteira. Por exemplo, questões de protocolos
+  de segurança (IPSec, SSL) às vezes ficam em Redes.
+- A prova 53 (MP/RJ) ficou sem questões, porque o gabarito disponível no site é de outro cargo.
+- As provas 08 e 46 (CVM, manhã) e 49 (Câmara dos Deputados, manhã) só têm conhecimentos gerais, então não
+  contribuíram com questões.
+- Usar só a FGV deixa o formato uniforme, mas limita a variedade de estilos de questão.
 
-## Parte 2 — corpus de similaridade de palavras
+## Parte 2: corpus de similaridade de palavras
 
-Os scripts, as anotações, o corpus e o dataset card estão em [`parte2/`](parte2/README.md). Consulte o README dessa pasta para a escala, metodologia e comandos.
+Os scripts, as anotações, o corpus e o dataset card da parte 2 estão em [`parte 2/`](parte%202/README.md).
+A escala de anotação, a metodologia e os comandos estão no README dessa pasta.

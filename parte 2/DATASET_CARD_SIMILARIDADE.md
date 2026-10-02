@@ -3,7 +3,7 @@
 | Campo | Valor |
 |---|---|
 | Domínio e idioma | Computação/TI; português com termos técnicos em inglês |
-| Fonte | `../corpus/corpus.json`: 2.506 questões da FGV, 2021–2026 |
+| Fonte | `../parte 1/corpus/corpus.json`: 2.506 questões da FGV, 2021–2026 |
 | Tarefa | Similaridade semântica entre palavras |
 | Tamanho | 200 palavras distintas, 100 pares, duas avaliações por par |
 | Formato | CSV UTF-8 |

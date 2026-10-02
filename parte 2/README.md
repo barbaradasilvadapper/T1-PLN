@@ -30,13 +30,13 @@ Avalie semelhança de significado no domínio de TI, não apenas associação te
 Execute os comandos abaixo a partir da raiz do projeto. Os arquivos de saída já estão incluídos. Para reproduzir os três primeiros passos sem sobrescrevê-los, use saídas temporárias:
 
 ```bash
-.venv/bin/python -m pip install -r parte2/requirements.txt
-.venv/bin/python parte2/scripts/01_preprocessar_textos.py --saida /tmp/t1-pln-step1.jsonl
-.venv/bin/python parte2/scripts/02_selecionar_palavras.py --origem /tmp/t1-pln-step1.jsonl --saida /tmp/t1-pln-step2.csv
-.venv/bin/python parte2/scripts/03_gerar_pares.py --origem /tmp/t1-pln-step2.csv --saida /tmp/t1-pln-step3.csv
-.venv/bin/python parte2/scripts/04_avaliar_concordancia.py
+.venv/bin/python -m pip install -r "parte 2/requirements.txt"
+.venv/bin/python "parte 2/scripts/01_preprocessar_textos.py" --saida /tmp/t1-pln-step1.jsonl
+.venv/bin/python "parte 2/scripts/02_selecionar_palavras.py" --origem /tmp/t1-pln-step1.jsonl --saida /tmp/t1-pln-step2.csv
+.venv/bin/python "parte 2/scripts/03_gerar_pares.py" --origem /tmp/t1-pln-step2.csv --saida /tmp/t1-pln-step3.csv
+.venv/bin/python "parte 2/scripts/04_avaliar_concordancia.py"
 ```
 
 Sem `--origem` e `--saida`, os scripts usam as entradas e saídas da tabela. Os três primeiros recusam sobrescrever arquivos existentes. O quarto lê os arquivos `anotador_*.csv` de `dados/anotacoes_similaridade/`, valida as 100 notas de cada avaliador, atualiza o corpus consolidado e grava as medidas em `corpus/estatisticas/concordancia_similaridade.json`. Os CSVs usam `tipo_anotacao=humana` e identificam a anotadora na coluna `anotador`.
 
-O cálculo inclui kappa de Cohen linear (principal), kappa quadrático, concordância exata, diferença absoluta média e matriz de confusão. As notas individuais são preservadas; a média não é uma nota consensual. O script `../rodar_tudo.sh` executa apenas a parte 1.
+O cálculo inclui kappa de Cohen linear (principal), kappa quadrático, concordância exata, diferença absoluta média e matriz de confusão. As notas individuais são preservadas; a média não é uma nota consensual.

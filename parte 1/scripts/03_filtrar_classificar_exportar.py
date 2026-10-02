@@ -137,7 +137,7 @@ def main():
         "subareas": {a: {"nome": NOMES_SUBAREAS[a], "questoes": sum(len(v) for v in por_area[a].values())}
                      for a in SUBAREAS},
         "campos": {
-            "id": "NN-QQQ: NN = nº da prova em dados/lista_provas.csv, QQQ = nº da questão na prova",
+            "id": "NN-QQQ: NN = nº da pasta da prova em dados/pdfs, QQQ = nº da questão na prova",
             "subarea": "classe atribuída pelo classificador de palavras-chave (scripts/subareas.py)",
             "ano": "ano de aplicação da prova", "banca": "banca organizadora",
             "cargo_orgao": "cargo e órgão do concurso", "prova": "pasta da prova em dados/pdfs",
