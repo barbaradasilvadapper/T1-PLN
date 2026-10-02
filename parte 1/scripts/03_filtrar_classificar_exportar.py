@@ -154,7 +154,7 @@ def main():
                      for a in SUBAREAS},
         "campos": {
             "id": "NN-QQQ: NN = nº da pasta da prova em dados/pdfs, QQQ = nº da questão na prova",
-            "subarea": "classe atribuída por scripts/subareas.py (palavras-chave + modelo treinado nas sementes)",
+            "subarea": "classe atribuída por scripts/subareas.py (palavras-chave + k-NN treinado nas sementes)",
             "origem_subarea": "palavras_chave (margem >= 4) ou modelo_sementes (questão ambígua)",
             "ano": "ano de aplicação da prova", "banca": "banca organizadora",
             "cargo_orgao": "cargo e órgão do concurso", "prova": "pasta da prova em dados/pdfs",

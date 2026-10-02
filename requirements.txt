@@ -11,7 +11,7 @@ jupyter>=1.0
 spacy>=3.8,<3.9
 torch>=2.4
 transformers>=4.45
-anthropic>=1.0
+google-genai>=1.0
 pydantic>=2.7
 pt-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.8.0/pt_core_news_sm-3.8.0-py3-none-any.whl
 pt-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.8.0/pt_core_news_lg-3.8.0-py3-none-any.whl

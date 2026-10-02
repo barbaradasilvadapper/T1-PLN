@@ -139,10 +139,10 @@ MARGEM_SEMENTE = 4   # diferença mínima entre a 1ª e a 2ª subárea para o r�
 
 def refinar(questoes):
     """Segunda etapa da classificação. As questões em que as palavras-chave dão uma subárea com folga
-    (margem >= MARGEM_SEMENTE) viram sementes; um TF-IDF + regressão logística treinado só nelas decide as
-    questões ambíguas. Devolve (subáreas, origens) na ordem de `questoes`."""
+    (margem >= MARGEM_SEMENTE) viram sementes; um TF-IDF + k-NN (k=3, como no notebook de classificação da
+    disciplina) treinado só nelas decide as questões ambíguas. Devolve (subáreas, origens) na ordem de `questoes`."""
     from sklearn.feature_extraction.text import TfidfVectorizer
-    from sklearn.linear_model import LogisticRegression
+    from sklearn.neighbors import KNeighborsClassifier
     from sklearn.pipeline import make_pipeline
 
     areas = list(SUBAREAS)
@@ -155,7 +155,7 @@ def refinar(questoes):
         sementes.append(sc[0][0] - sc[1][0] >= MARGEM_SEMENTE)
         textos.append((q["enunciado"] + " ") * PESO_ENUNCIADO + " ".join(a["texto"] for a in q["alternativas"]))
     modelo = make_pipeline(TfidfVectorizer(sublinear_tf=True, min_df=2),
-                           LogisticRegression(max_iter=3000, class_weight="balanced", C=4))
+                           KNeighborsClassifier(n_neighbors=3))
     modelo.fit([t for t, s in zip(textos, sementes) if s], [r for r, s in zip(rotulos, sementes) if s])
     ambiguas = [i for i, s in enumerate(sementes) if not s]
     for i, r in zip(ambiguas, modelo.predict([textos[i] for i in ambiguas])):

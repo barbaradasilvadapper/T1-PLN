@@ -1,12 +1,13 @@
 """Parte 4: similaridade de palavras com spaCy (estático), BERTimbau e um LLM, comparada às notas humanas.
 
-Conjuntos avaliados:
+Conjuntos avaliados (os dois na escala da aula, 0 a 1, ver comum.py):
   - nosso: parte 2/corpus/corpus_similaridade.csv (100 pares, notas de Luiza e Rafaela)
-  - aula:  parte 4/dados/dataset_aula.csv, se existir (colunas palavra_1, palavra_2, similaridade)
+  - aula:  parte 4/dados/dataset_aula.xlsx, a planilha da aula com a 'Anotação Final' preenchida
 Notas do LLM: parte 4/dados/notas_llm*.csv, geradas pelo 01_notas_llm.py (se ainda não existirem, o LLM fica de fora).
 Saída: parte 4/resultados/
 """
 import json
+import sys
 from pathlib import Path
 
 import matplotlib
@@ -19,9 +20,9 @@ import torch
 from scipy.stats import pearsonr, spearmanr
 from transformers import AutoModel, AutoTokenizer
 
-RAIZ = Path(__file__).resolve().parents[2]
-DADOS = RAIZ / "parte 4" / "dados"
-OUT = RAIZ / "parte 4" / "resultados"
+sys.path.insert(0, str(Path(__file__).parent))
+from comum import DADOS, RESULTADOS as OUT, ler_dataset_aula, ler_nosso_dataset
+
 OUT.mkdir(exist_ok=True)
 
 nlp = spacy.load("pt_core_news_lg")
@@ -51,12 +52,13 @@ def avaliar(nome, d, humanos, arquivo_llm):
     d["spacy"] = [sim_spacy(a, b) for a, b in zip(d.palavra_1, d.palavra_2)]
     d["bert"] = [sim_bert(a, b) for a, b in zip(d.palavra_1, d.palavra_2)]
     modelos = ["spacy", "bert"]
-    if arquivo_llm.exists():
-        llm = pd.read_csv(arquivo_llm)[["palavra_1", "palavra_2", "nota_llm"]]
+    llm = pd.read_csv(arquivo_llm) if arquivo_llm.exists() else pd.DataFrame()
+    if len(llm) < len(d):
+        print(f"[{nome}] o LLM só avaliou {len(llm)} de {len(d)} pares: rode o 01_notas_llm.py para completar")
+    else:
+        llm = llm[["palavra_1", "palavra_2", "nota_llm"]]
         d = d.merge(llm, on=["palavra_1", "palavra_2"], how="left").rename(columns={"nota_llm": "llm"})
         modelos.append("llm")
-    else:
-        print(f"[{nome}] sem {arquivo_llm.name}: rode o 01_notas_llm.py para incluir o LLM")
     d.to_csv(OUT / f"similaridades_{nome}.csv", index=False)
 
     res = {"pares": len(d), "vs_humano": {}, "entre_modelos": {}}
@@ -90,15 +92,14 @@ def avaliar(nome, d, humanos, arquivo_llm):
     return res
 
 
-nosso = pd.read_csv(RAIZ / "parte 2/corpus/corpus_similaridade.csv", encoding="utf-8-sig")
-nosso = nosso.rename(columns={"nota_1": "Luiza", "nota_2": "Rafaela"})
-resultados = {"nosso": avaliar("nosso", nosso, ["similaridade_media", "Luiza", "Rafaela"], DADOS / "notas_llm.csv")}
+nosso = ler_nosso_dataset()
+resultados = {"nosso": avaliar("nosso", nosso, ["similaridade", "Luiza", "Rafaela"], DADOS / "notas_llm.csv")}
 resultados["nosso"]["Luiza x Rafaela"] = spearmanr(nosso.Luiza, nosso.Rafaela)[0]
 
-if (DADOS / "dataset_aula.csv").exists():
-    aula = pd.read_csv(DADOS / "dataset_aula.csv", encoding="utf-8-sig")
+aula = ler_dataset_aula()
+if aula is not None:
     resultados["aula"] = avaliar("aula", aula, ["similaridade"], DADOS / "notas_llm_aula.csv")
 else:
-    print("\nsem parte 4/dados/dataset_aula.csv: o dataset feito em aula ainda não foi incluído")
+    print("\nsem parte 4/dados/dataset_aula.xlsx: o dataset feito em aula ainda não foi incluído")
 
 json.dump(resultados, open(OUT / "correlacoes.json", "w"), indent=1, ensure_ascii=False)

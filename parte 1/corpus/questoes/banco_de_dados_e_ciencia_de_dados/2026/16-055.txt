@@ -1,0 +1,18 @@
+ID: 16-055
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um agente técnico-estatístico na área de Tecnologia da Informação está elaborando um relatório para avaliar o desempenho de um sistema corporativo de gestão de serviços digitais. Para isso, ele utiliza dados oficiais de bases institucionais, como registros de chamados, tempo de resposta, disponibilidade do sistema e índices de satisfação dos usuários. Com base na utilização de estatísticas oficiais e na construção de indicadores de desempenho em ambientes de TI na Administração Pública, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Indicadores de desempenho em TI devem ser utilizados apenas para fins operacionais, não sendo adequados para avaliação estratégica de serviços públicos digitais.
+(B) Indicadores de desempenho permitem avaliar a eficiência e a qualidade dos serviços de TI, apoiando a tomada de decisão e a melhoria contínua dos sistemas.
+(C) Indicadores estatísticos em TI não podem ser utilizados para comparações entre diferentes períodos, devido à variabilidade dos sistemas tecnológicos.
+(D) Relatórios estatísticos na área de TI devem apresentar exclusivamente dados técnicos, sem interpretação ou análise gerencial.
+(E) A utilização de dados institucionais limita a criação de novos indicadores de desempenho em ambientes de TI.
+
+[GABARITO]
+B

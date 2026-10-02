@@ -1,0 +1,18 @@
+ID: 10-054
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) tem como principal objetivo incentivar o desenvolvimento colaborativo entre os tribunais, preservando os sistemas públicos em produção, mas consolidando pragmaticamente a política para a gestão e expansão do Processo Judicial Eletrônico – PJe. Os serviços e aplicações integrados à Plataforma que implementam as funcionalidades essenciais básicas para um sistema de processo judicial de tramitação eletrônica, bem como os serviços necessários à integração, à coreografia e à interoperabilidade entre os serviços e soluções que compõem a Plataforma, são classificados como serviços:
+
+[ALTERNATIVAS]
+(A) de nuvem;
+(B) de comunidade externa;
+(C) de integração;
+(D) negocial;
+(E) estruturantes.
+
+[GABARITO]
+E

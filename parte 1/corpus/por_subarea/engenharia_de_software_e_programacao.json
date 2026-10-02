@@ -1,7 +1,7 @@
 {
   "subarea": "engenharia_de_software_e_programacao",
   "nome": "Engenharia de Software e Programação",
-  "total": 724,
+  "total": 727,
   "anos": {
     "2021": [
       {
@@ -683,51 +683,6 @@
         "pontuacao_subareas": {
           "engenharia_de_software_e_programacao": 2,
           "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "02-043",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2021,
-        "banca": "FGV",
-        "cargo_orgao": "analista de tecnologia da informacao desenvolvimento de sistemas tj ro",
-        "prova": "02_analista-de-tecnologia-da-informacao-desenvolvimento-de-sistemas-tj-ro-fgv-2021",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-desenvolvimento-de-sistemas-tj-ro-fgv-2021",
-        "numero_na_prova": 43,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Com referência ao MongoDB, nas consultas usando o método find é possível exibir o resultado formatado por meio do método:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "format;"
-          },
-          {
-            "letra": "B",
-            "texto": "organize;"
-          },
-          {
-            "letra": "C",
-            "texto": "pretty;"
-          },
-          {
-            "letra": "D",
-            "texto": "structure;"
-          },
-          {
-            "letra": "E",
-            "texto": "tidy."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "pretty;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 1,
-          "banco_de_dados_e_ciencia_de_dados": 2,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
@@ -2268,6 +2223,51 @@
         }
       },
       {
+        "id": "04-034",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2022,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario analise de sistemas tj dft",
+        "prova": "04_analista-judiciario-analise-de-sistemas-tj-dft-fgv-2022",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-analise-de-sistemas-tj-dft-fgv-2022",
+        "numero_na_prova": 34,
+        "secao_na_prova": "CONHECIMENTOS ESPECÍFICOS",
+        "enunciado": "O analista de sistemas Bravo desenvolveu o webservice TJService para o TJDFT sem mecanismos de controle de segurança. A comunicação de TJService ocorre conforme especificações do protocolo SOAP (Simple Object Access Protocol). A fim de proteger a troca de mensagens de TJService, Bravo foi orientado pelo TJDFT a implementar o suporte à autenticação baseada em token. Os mecanismos de proteção de mensagens SOAP baseados em token que Bravo deve implementar são definidos na especificação Web Services:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Dynamic Discovery;"
+          },
+          {
+            "letra": "B",
+            "texto": "Addressing;"
+          },
+          {
+            "letra": "C",
+            "texto": "Reliable Messaging;"
+          },
+          {
+            "letra": "D",
+            "texto": "Security;"
+          },
+          {
+            "letra": "E",
+            "texto": "Make Connection."
+          }
+        ],
+        "gabarito": "D",
+        "resposta_correta": "Security;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 7,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 1,
+          "seguranca_da_informacao": 7,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "04-035",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "modelo_sementes",
@@ -2448,47 +2448,47 @@
         }
       },
       {
-        "id": "25-057",
+        "id": "38-043",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
-        "cargo_orgao": "analista judiciario suporte em tecnologia da informacao tj dft",
-        "prova": "25_analista-judiciario-suporte-em-tecnologia-da-informacao-tj-dft-fgv-2022",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-suporte-em-tecnologia-da-informacao-tj-dft-fgv-2022",
-        "numero_na_prova": 57,
+        "cargo_orgao": "analista judiciario seguranca da informacao tj dft",
+        "prova": "38_analista-judiciario-seguranca-da-informacao-tj-dft-fgv-2022",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-seguranca-da-informacao-tj-dft-fgv-2022",
+        "numero_na_prova": 43,
         "secao_na_prova": "CONHECIMENTOS ESPECÍFICOS",
-        "enunciado": "O analista Pedro definiu no Logstash do TJDFT um novo pipeline de processamento de dados de nome SPipeline. A saída definida em SPipeline exige que os dados sejam estruturados. No entanto, a entrada definida em SPipeline consiste em um arquivo de texto arbitrário e não estruturado. A fim de estruturar a entrada do SPipeline com o uso de expressões regulares, Pedro deve adicionar ao SPipeline o filtro do Logstash:",
+        "enunciado": "Uma equipe de segurança de um órgão público foi designada para realizar testes de penetração no âmbito do Tribunal de Justiça do Distrito Federal e dos Territórios. Como parte da etapa de coleta de informações, a seguinte busca foi realizada em fontes abertas https://www.google.com/search?q=site:tjdft.jus.br. A requisição retornará páginas:",
         "alternativas": [
           {
             "letra": "A",
-            "texto": "drop;"
+            "texto": "que contêm o link tjdft.jus.br;"
           },
           {
             "letra": "B",
-            "texto": "mutate;"
+            "texto": "com a url tjdft.jus.br;"
           },
           {
             "letra": "C",
-            "texto": "grok;"
+            "texto": "que contêm endereços de e-mail tjdft.jus.br;"
           },
           {
             "letra": "D",
-            "texto": "clone;"
+            "texto": "que contêm o título tjdft.jus.br;"
           },
           {
             "letra": "E",
-            "texto": "aggregate."
+            "texto": "dentro do domínio tjdft.jus.br."
           }
         ],
-        "gabarito": "C",
-        "resposta_correta": "grok;",
+        "gabarito": "E",
+        "resposta_correta": "dentro do domínio tjdft.jus.br.",
         "tambem_em": [],
         "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 2,
+          "seguranca_da_informacao": 1,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -3432,6 +3432,51 @@
         "pontuacao_subareas": {
           "engenharia_de_software_e_programacao": 8,
           "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "84-070",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2022,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario area administrativa tecnologia da informacao trt 16",
+        "prova": "84_analista-judiciario-area-administrativa-tecnologia-da-informacao-trt-16-fgv-2022",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-administrativa-tecnologia-da-informacao-trt-16-fgv-2022",
+        "numero_na_prova": 70,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "O Keras é uma API de aprendizado profundo escrita em Python e executada sobre a plataforma de aprendizado de máquina TensorFlow. As principais estruturas de dados do Keras são",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "tensor e pipes."
+          },
+          {
+            "letra": "B",
+            "texto": "layers e model."
+          },
+          {
+            "letra": "C",
+            "texto": "neuron e arrays."
+          },
+          {
+            "letra": "D",
+            "texto": "sets, model e frames."
+          },
+          {
+            "letra": "E",
+            "texto": "sequential, layers e optimizers."
+          }
+        ],
+        "gabarito": "B",
+        "resposta_correta": "layers e model.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 4,
+          "banco_de_dados_e_ciencia_de_dados": 3,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
@@ -5236,9 +5281,103 @@
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
+      },
+      {
+        "id": "88-059",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2022,
+        "banca": "FGV",
+        "cargo_orgao": "perito criminal ciencia da computacao analista de sistema sead ap",
+        "prova": "88_perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
+        "numero_na_prova": 59,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Árvores B são frequentemente utilizadas para indexação de bancos de dados. Nesse contexto, analise as afirmativas a seguir sobre esse tipo de estrutura de dados. I. São balanceadas. II. Os nós podem ter mais de dois filhos. III. A altura da árvore é O(lg(N)). Está correto o que se afirma em",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "I e II, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "I e III, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "II e III, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "I, II e III."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "I, II e III.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 3,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
       }
     ],
     "2023": [
+      {
+        "id": "05-043",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs",
+        "prova": "05_analista-area-de-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-dpe-rs-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-area-de-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-dpe-rs-fgv-2023",
+        "numero_na_prova": 43,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Amanda é técnica da DPE/RS e foi encarregada de conferir os valores de um serviço de nuvem privada prestado à Defensoria. O serviço corresponde ao aluguel do equipamento, chamado de Valor A, mais o serviço de suporte chamado de Valor B. Ao verificar os valores, notou que o software utilizado colocou os valores em bases diferentes, visto que o correto seria decimal, de forma que o Valor A = DBA (hexadecimal) e o valor B = 111011100101 (binário). O valor total (em decimal) que Amanda deverá enviar ao setor de pagamento é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "7326;"
+          },
+          {
+            "letra": "B",
+            "texto": "7327;"
+          },
+          {
+            "letra": "C",
+            "texto": "7328;"
+          },
+          {
+            "letra": "D",
+            "texto": "7329;"
+          },
+          {
+            "letra": "E",
+            "texto": "7330."
+          }
+        ],
+        "gabarito": "B",
+        "resposta_correta": "7327;",
+        "tambem_em": [
+          "17-043",
+          "27-043",
+          "39-043"
+        ],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 3,
+          "banco_de_dados_e_ciencia_de_dados": 2,
+          "redes_e_infraestrutura": 2,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
       {
         "id": "05-047",
         "subarea": "engenharia_de_software_e_programacao",
@@ -5690,6 +5829,51 @@
         }
       },
       {
+        "id": "05-059",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs",
+        "prova": "05_analista-area-de-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-dpe-rs-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-area-de-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-dpe-rs-fgv-2023",
+        "numero_na_prova": 59,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Luana criou um Web Service do tipo RESTful e disponibilizou um conjunto de serviços relacionados ao cadastro de pessoas físicas no sistema de sua empresa, tendo como referência o servidor local, no endereço http://s01. Ao acessar o endereço http://s01/pessoa/1200, pelo método PUT do protocolo HTTP, um sistema cliente:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "consulta os dados da pessoa identificada pelo código 1200, fornecido na URL;"
+          },
+          {
+            "letra": "B",
+            "texto": "solicita a alteração dos dados da pessoa identificada pelo código 1200, fornecido na URL;"
+          },
+          {
+            "letra": "C",
+            "texto": "acessa o descritor de serviços do Web Service, especificando a versão 1.2.00;"
+          },
+          {
+            "letra": "D",
+            "texto": "solicita a exclusão dos dados da pessoa identificada pelo código 1200, fornecido na URL;"
+          },
+          {
+            "letra": "E",
+            "texto": "inclui os dados de uma pessoa usando o identificador 1200, fornecido na URL."
+          }
+        ],
+        "gabarito": "B",
+        "resposta_correta": "solicita a alteração dos dados da pessoa identificada pelo código 1200, fornecido na URL;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 9,
+          "banco_de_dados_e_ciencia_de_dados": 2,
+          "redes_e_infraestrutura": 8,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "05-060",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -5912,51 +6096,6 @@
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 1
-        }
-      },
-      {
-        "id": "05-067",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2023,
-        "banca": "FGV",
-        "cargo_orgao": "analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs",
-        "prova": "05_analista-area-de-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-dpe-rs-fgv-2023",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-area-de-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-dpe-rs-fgv-2023",
-        "numero_na_prova": 67,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "PL/SQL é uma linguagem estruturada em blocos, elemento fundamental para se escrever um código. Em PL/SQL, um bloco é delimitado pelas palavras reservadas:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "BEGIN END;"
-          },
-          {
-            "letra": "B",
-            "texto": "START STOP;"
-          },
-          {
-            "letra": "C",
-            "texto": "OPEN CLOSE;"
-          },
-          {
-            "letra": "D",
-            "texto": "LOOP END LOOP;"
-          },
-          {
-            "letra": "E",
-            "texto": "DECLARE EXCEPTION."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "BEGIN END;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 5,
-          "banco_de_dados_e_ciencia_de_dados": 4,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
         }
       },
       {
@@ -6997,54 +7136,6 @@
           "banco_de_dados_e_ciencia_de_dados": 2,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "06-080",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2023,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap",
-        "prova": "06_analista-judiciario-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-tj-ap-fgv-2023",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-tj-ap-fgv-2023",
-        "numero_na_prova": 80,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A analista Joana implementou o sistema de autorização da aplicação TJApp utilizando o protocolo OAuth2. Joana decidiu por implementar o fluxo do OAuth2 de concessão por código de autorização. A fim de indicar ao servidor de autorização o fluxo de concessão escolhido, Joana atribuiu ao parâmetro response_type da requisição de autorização de TJApp o valor associado ao fluxo implementado, conforme a especificação do OAuth2. Joana atribuiu ao response_type o valor:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "code;"
-          },
-          {
-            "letra": "B",
-            "texto": "token;"
-          },
-          {
-            "letra": "C",
-            "texto": "auth-code;"
-          },
-          {
-            "letra": "D",
-            "texto": "access-token;"
-          },
-          {
-            "letra": "E",
-            "texto": "client-credentials."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "code;",
-        "tambem_em": [
-          "18-080",
-          "40-080"
-        ],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 4,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -9039,6 +9130,51 @@
         }
       },
       {
+        "id": "58-019",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "analista legislativo informatica legislativa tarde camara dos deputados",
+        "prova": "58_analista-legislativo-informatica-legislativa-tarde-camara-dos-deputados-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-informatica-legislativa-tarde-camara-dos-deputados-fgv-2023",
+        "numero_na_prova": 19,
+        "secao_na_prova": "Arquitetura de Sistemas de Informação",
+        "enunciado": "O padrão Saga é uma maneira de gerenciar a consistência de dados entre microsserviços em cenários de transações distribuída. Sobre esse padrão, assinale a afirmativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Uma saga é uma transação de estilo ACID no nível da própria saga mesmo havendo múltiplos microsserviços."
+          },
+          {
+            "letra": "B",
+            "texto": "Como os microsserviços participantes de uma saga não colaboram entre sim, não há risco de dependência cíclica."
+          },
+          {
+            "letra": "C",
+            "texto": "As sagas coreografadas causam maior acoplamento entre microsserviços do que as sagas orquestradas."
+          },
+          {
+            "letra": "D",
+            "texto": "As transações de compensação são iguais a rollback em banco de dados, desfaz tudo como se nada tivessem ocorrido."
+          },
+          {
+            "letra": "E",
+            "texto": "As sagas orquestradas usam um coordenador centralizado para definir a ordem de execução dos microsserviços."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "As sagas orquestradas usam um coordenador centralizado para definir a ordem de execução dos microsserviços.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 8,
+          "banco_de_dados_e_ciencia_de_dados": 8,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 1,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "58-020",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -9303,51 +9439,6 @@
         "pontuacao_subareas": {
           "engenharia_de_software_e_programacao": 16,
           "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "58-041",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2023,
-        "banca": "FGV",
-        "cargo_orgao": "analista legislativo informatica legislativa tarde camara dos deputados",
-        "prova": "58_analista-legislativo-informatica-legislativa-tarde-camara-dos-deputados-fgv-2023",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-informatica-legislativa-tarde-camara-dos-deputados-fgv-2023",
-        "numero_na_prova": 41,
-        "secao_na_prova": "Arquitetura de Sistemas de Informação",
-        "enunciado": "Considere o código em Python que utiliza a biblioteca NLTK (Natural Language Toolkit) a seguir. import nltk from nltk.tokenize import word_tokenize nltk.download('punkt') texto = \"Processamento de Linguagem Natural é uma área da inteligência artificial que lida com a interação entre computadores e linguagem humana.\" tokens = word_tokenize(texto) print(tokens) Assinale a opção que corresponde ao propósito do código apresentado.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Realizar a tradução automática de um texto de um idioma para outro."
-          },
-          {
-            "letra": "B",
-            "texto": "Analisar a estrutura gramatical de um texto."
-          },
-          {
-            "letra": "C",
-            "texto": "Extrair informações relevantes de um texto, como entidades nomeadas."
-          },
-          {
-            "letra": "D",
-            "texto": "Sintetizar um texto a partir de um conjunto de palavraschave."
-          },
-          {
-            "letra": "E",
-            "texto": "Realizar a tokenização do texto, ou seja, dividir o texto em palavras ou unidades significativas."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "Realizar a tokenização do texto, ou seja, dividir o texto em palavras ou unidades significativas.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 4,
-          "banco_de_dados_e_ciencia_de_dados": 4,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
@@ -9890,6 +9981,51 @@
           "banco_de_dados_e_ciencia_de_dados": 3,
           "redes_e_infraestrutura": 2,
           "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "91-040",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "tecnico de gestao administrativa analista de sistemas alema",
+        "prova": "91_tecnico-de-gestao-administrativa-analista-de-sistemas-alema-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-gestao-administrativa-analista-de-sistemas-alema-fgv-2023",
+        "numero_na_prova": 40,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Analise o código a seguir, escrito em linguagem Java e com anotações do Hibernate 6.1. Considere que os métodos de acesso get e set foram omitidos da especificação das classes abaixo para efeitos de brevidade. Sobre o modelo de banco de dados decorrente deste mapeamento objeto-relacional, é correto afirmar que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o atributo nome da tabela Pessoa será do tipo VARCHAR."
+          },
+          {
+            "letra": "B",
+            "texto": "o atributo salario da tabela Professor não poderá ser nulo."
+          },
+          {
+            "letra": "C",
+            "texto": "o atributo id da tabela Aluno será uma chave primária."
+          },
+          {
+            "letra": "D",
+            "texto": "o atributo diurno da tabela Pessoa poderá ter só 2 valores."
+          },
+          {
+            "letra": "E",
+            "texto": "o atributo cpf da tabela Pessoa poderá ter 11 caracteres."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "o atributo id da tabela Aluno será uma chave primária.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 6,
+          "banco_de_dados_e_ciencia_de_dados": 9,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 1,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -11199,6 +11335,51 @@
         }
       },
       {
+        "id": "95-042",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario tecnologia de informacao analise de sistemas tj rn",
+        "prova": "95_analista-judiciario-tecnologia-de-informacao-analise-de-sistemas-tj-rn-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-tecnologia-de-informacao-analise-de-sistemas-tj-rn-fgv-2023",
+        "numero_na_prova": 42,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "No contexto de estruturas de dados e algoritmos de busca, analise as afirmativas a respeito das diferenças entre árvores B e árvores binárias. I. Numa árvore binária toda página folha possui a mesma profundidade. II. Numa árvore B toda página folha possui a mesma profundidade. III. Gerenciadores de bancos de dados utilizam preferencialmente árvores B na indexação de chaves primárias. Está correto o que se afirma em:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "somente II;"
+          },
+          {
+            "letra": "B",
+            "texto": "somente I e II;"
+          },
+          {
+            "letra": "C",
+            "texto": "somente I e III;"
+          },
+          {
+            "letra": "D",
+            "texto": "somente II e III;"
+          },
+          {
+            "letra": "E",
+            "texto": "I, II e III."
+          }
+        ],
+        "gabarito": "D",
+        "resposta_correta": "somente II e III;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 4,
+          "banco_de_dados_e_ciencia_de_dados": 3,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "95-043",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -12419,6 +12600,51 @@
         }
       },
       {
+        "id": "10-025",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms",
+        "prova": "10_tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-sistemas-tj-ms-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-sistemas-tj-ms-fgv-2024",
+        "numero_na_prova": 25,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Analisando os processos de negócio do TJMS, o analista Fausto verificou que alguns fluxos são compostos por atividades executadas por diferentes unidades organizacionais. Para automatizar esses fluxos de trabalho, Fausto começou a modelar o respectivo sistema de informação. Utilizando o Diagrama de Atividades da UML para modelar as atividades, particionando em grupos representando as diferentes unidades organizacionais, Fausto deve usar um(a):",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Join;"
+          },
+          {
+            "letra": "B",
+            "texto": "Fork;"
+          },
+          {
+            "letra": "C",
+            "texto": "Swimlane;"
+          },
+          {
+            "letra": "D",
+            "texto": "Decision Node;"
+          },
+          {
+            "letra": "E",
+            "texto": "Control Flow."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "Swimlane;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 4,
+          "banco_de_dados_e_ciencia_de_dados": 2,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 2
+        }
+      },
+      {
         "id": "10-027",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -12954,55 +13180,6 @@
           "engenharia_de_software_e_programacao": 5,
           "banco_de_dados_e_ciencia_de_dados": 1,
           "redes_e_infraestrutura": 1,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "10-054",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms",
-        "prova": "10_tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-sistemas-tj-ms-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-sistemas-tj-ms-fgv-2024",
-        "numero_na_prova": 54,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) tem como principal objetivo incentivar o desenvolvimento colaborativo entre os tribunais, preservando os sistemas públicos em produção, mas consolidando pragmaticamente a política para a gestão e expansão do Processo Judicial Eletrônico – PJe. Os serviços e aplicações integrados à Plataforma que implementam as funcionalidades essenciais básicas para um sistema de processo judicial de tramitação eletrônica, bem como os serviços necessários à integração, à coreografia e à interoperabilidade entre os serviços e soluções que compõem a Plataforma, são classificados como serviços:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "de nuvem;"
-          },
-          {
-            "letra": "B",
-            "texto": "de comunidade externa;"
-          },
-          {
-            "letra": "C",
-            "texto": "de integração;"
-          },
-          {
-            "letra": "D",
-            "texto": "negocial;"
-          },
-          {
-            "letra": "E",
-            "texto": "estruturantes."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "estruturantes.",
-        "tambem_em": [
-          "20-054",
-          "30-054",
-          "60-054"
-        ],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 2,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
@@ -14466,51 +14643,6 @@
         }
       },
       {
-        "id": "20-024",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de banco de dados tj ms",
-        "prova": "20_tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-banco-de-dados-tj-ms-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-banco-de-dados-tj-ms-fgv-2024",
-        "numero_na_prova": 24,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "O analista Marcos recebeu o arquivo data.csv e precisa analisar o seu conteúdo por meio das seguintes informações: • quantidade de linhas e colunas; • lista das primeiras 5 linhas e das últimas 5 linhas; • nome e tipo das colunas. Para isso, Marcos começou a desenvolver o seguinte trecho de código escrito em Python: import pandas as pd df = pd.read_csv('data.csv') Para obter as informações de que precisa, Marcos deve usar os seguintes comandos:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "myvar = pd.Series(df) print(myvar)"
-          },
-          {
-            "letra": "B",
-            "texto": "pd.options.display.max_rows = 5 pd.options.display.min_rows = 5 pd.options.display.memory_usage = True print(df)"
-          },
-          {
-            "letra": "C",
-            "texto": "print(df.head(), df.tail(), df.info())"
-          },
-          {
-            "letra": "D",
-            "texto": "df.corr() print(df)"
-          },
-          {
-            "letra": "E",
-            "texto": "print(pd.DataFrame(data))"
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "print(df.head(), df.tail(), df.info())",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 5,
-          "banco_de_dados_e_ciencia_de_dados": 5,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "20-025",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -14743,6 +14875,53 @@
         }
       },
       {
+        "id": "21-048",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista de gestao corporativa tecnologia da informacao ciencia de dados epe",
+        "prova": "21_analista-de-gestao-corporativa-tecnologia-da-informacao-ciencia-de-dados-epe-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-gestao-corporativa-tecnologia-da-informacao-ciencia-de-dados-epe-fgv-2024",
+        "numero_na_prova": 48,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Considerando o ciclo de vida de um projeto, analise as afirmativas a seguir. I. No ciclo de vida preditivo, o esforço de planejamento ocorre nas fases intermediárias do projeto. É a abordagem mais tradicional e se trata de processos sequenciais. II. No ciclo de vida iterativo é permitido, de tempos em tempos, algum tipo de retorno por parte das principais partes interessadas engajadas no projeto. A equipe do projeto recebe feedbacks sobre os trabalhos ainda não finalizados, com o objetivo de melhorar o que está sendo produzido. III. O ciclo de vida ágil é formado pela junção dos ciclos de vida preditivo e incremental. As atividades são planejadas somente no início do projeto e as versões incompletas são entregues, de tempos em tempos, para que sejam avaliadas pelo cliente.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "II, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "III, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "I e II, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "II e III, apenas."
+          }
+        ],
+        "gabarito": "B",
+        "resposta_correta": "II, apenas.",
+        "tambem_em": [
+          "62-076"
+        ],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 2
+        }
+      },
+      {
         "id": "21-055",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -14833,51 +15012,6 @@
         }
       },
       {
-        "id": "21-078",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de gestao corporativa tecnologia da informacao ciencia de dados epe",
-        "prova": "21_analista-de-gestao-corporativa-tecnologia-da-informacao-ciencia-de-dados-epe-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-gestao-corporativa-tecnologia-da-informacao-ciencia-de-dados-epe-fgv-2024",
-        "numero_na_prova": 78,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Seja 𝑋 uma variável aleatória, cujo valor esperado é desconhecido e a variância é igual a 123 𝑢 2 , onde 𝑢 é a unidade de medida. Sejam 𝑋 e 𝑆 2 , a média e a variância amostrais de 𝑋, respectivamente. Com o objetivo de estimar o valor esperado de 𝑋, foi coletada uma amostra aleatória de tamanho 300, cuja média e variância são, respectivamente, 34 𝑢 e 52 𝑢 2 . Considerando o exposto, de acordo com os conceitos da inferência estatística, analise os itens a seguir. I. O valor esperado de 𝑋 não depende do tamanho da amostra. II. A estimativa do valor esperado de 𝑋 é 34 𝑢. III. A variância de 𝑋 é 52 𝑢 2 .",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "I, apenas."
-          },
-          {
-            "letra": "B",
-            "texto": "II, apenas."
-          },
-          {
-            "letra": "C",
-            "texto": "III, apenas."
-          },
-          {
-            "letra": "D",
-            "texto": "I e II, apenas."
-          },
-          {
-            "letra": "E",
-            "texto": "II e III, apenas."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "I e II, apenas.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 2,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "22-046",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "modelo_sementes",
@@ -14913,51 +15047,6 @@
         ],
         "gabarito": "C",
         "resposta_correta": "1,7",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 2,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "22-051",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de tecnologia da informacao inteligencia da informacao dataprev",
-        "prova": "22_analista-de-tecnologia-da-informacao-inteligencia-da-informacao-dataprev-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-inteligencia-da-informacao-dataprev-fgv-2024",
-        "numero_na_prova": 51,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Seja X uma variável aleatória discreta com a seguinte distribuição de probabilidade: A variância de X é igual a",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "5,9"
-          },
-          {
-            "letra": "B",
-            "texto": "0,61"
-          },
-          {
-            "letra": "C",
-            "texto": "2,3"
-          },
-          {
-            "letra": "D",
-            "texto": "5,29"
-          },
-          {
-            "letra": "E",
-            "texto": "0,66"
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "0,61",
         "tambem_em": [],
         "pontuacao_subareas": {
           "engenharia_de_software_e_programacao": 2,
@@ -16250,96 +16339,6 @@
         }
       },
       {
-        "id": "50-091",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de controle externo tecnologia da informacao tce go",
-        "prova": "50_analista-de-controle-externo-tecnologia-da-informacao-tce-go-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-controle-externo-tecnologia-da-informacao-tce-go-fgv-2024",
-        "numero_na_prova": 91,
-        "secao_na_prova": "Segurança da Informação",
-        "enunciado": "Dados abertos são informações digitais disponibilizadas ao público sem restrições de uso, geralmente sob formatos acessíveis e licenças que permitem sua livre utilização, redistribuição e modificação. O chamado Sistema de 5 Estrelas classifica por meio de estrelas o grau de abertura dos dados. O nível três estrelas é caracterizado por sua disponibilidade na internet",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "em qualquer formato."
-          },
-          {
-            "letra": "B",
-            "texto": "em formato RDF."
-          },
-          {
-            "letra": "C",
-            "texto": "de maneira estruturada e formato não proprietário."
-          },
-          {
-            "letra": "D",
-            "texto": "em formato SPARQL."
-          },
-          {
-            "letra": "E",
-            "texto": "em formato RDF Conectado."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "de maneira estruturada e formato não proprietário.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 1,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "50-092",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de controle externo tecnologia da informacao tce go",
-        "prova": "50_analista-de-controle-externo-tecnologia-da-informacao-tce-go-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-controle-externo-tecnologia-da-informacao-tce-go-fgv-2024",
-        "numero_na_prova": 92,
-        "secao_na_prova": "Segurança da Informação",
-        "enunciado": "O Processamento de Linguagem Natural (PLN) é uma área de estudo dedicada à pesquisa e desenvolvimento de métodos e sistemas que visam compreender e processar a linguagem humana por meio de computadores. São paradigmas de PLN:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Neural e Simbólico."
-          },
-          {
-            "letra": "B",
-            "texto": "Neural e Regressivo."
-          },
-          {
-            "letra": "C",
-            "texto": "Estatístico e Sentimental."
-          },
-          {
-            "letra": "D",
-            "texto": "Neural e Sentimental."
-          },
-          {
-            "letra": "E",
-            "texto": "Simbólico e Sentimental."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "Neural e Simbólico.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 2,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "50-093",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -16427,6 +16426,51 @@
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 1
+        }
+      },
+      {
+        "id": "51-055",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario tecnologia da informacao tj mt",
+        "prova": "51_analista-judiciario-tecnologia-da-informacao-tj-mt-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-tecnologia-da-informacao-tj-mt-fgv-2024",
+        "numero_na_prova": 55,
+        "secao_na_prova": "C ONHECIMENTOS E SPECÍFICOS",
+        "enunciado": "A arquitetura de sistemas é o design estruturado de um sistema de software que descreve como seus componentes principais se relacionam e interagem para formar um sistema coeso e eficiente. Ela orienta a construção, manutenção e evolução do software, sendo essencial para garantir que o sistema atenda aos requisitos de desempenho, escalabilidade, segurança e usabilidade. Na arquitetura de sistemas cliente-servidor, o cliente",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "é responsável por fornecer serviços de autenticação e controle de acesso, garantindo a segurança do sistema."
+          },
+          {
+            "letra": "B",
+            "texto": "processa as requisições e responde diretamente às solicitações do usuário, sem necessidade de comunicação com o servidor."
+          },
+          {
+            "letra": "C",
+            "texto": "armazena e gerencia centralmente os dados do sistema, facilitando o acesso pelos dispositivos conectados."
+          },
+          {
+            "letra": "D",
+            "texto": "realiza requisições ao servidor, enviando dados e solicitando informações ou serviços específicos, e exibe os resultados ao usuário final."
+          },
+          {
+            "letra": "E",
+            "texto": "é responsável por hospedar os serviços principais do sistema, como banco de dados e processos de negócios complexos."
+          }
+        ],
+        "gabarito": "D",
+        "resposta_correta": "realiza requisições ao servidor, enviando dados e solicitando informações ou serviços específicos, e exibe os resultados ao usuário final.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 3,
+          "banco_de_dados_e_ciencia_de_dados": 3,
+          "redes_e_infraestrutura": 1,
+          "seguranca_da_informacao": 6,
+          "governanca_e_gestao_de_ti": 0
         }
       },
       {
@@ -19447,51 +19491,6 @@
         }
       },
       {
-        "id": "66-045",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista legislativo desenvolvimento de sistema ale to",
-        "prova": "66_analista-legislativo-desenvolvimento-de-sistema-ale-to-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-desenvolvimento-de-sistema-ale-to-fgv-2024",
-        "numero_na_prova": 45,
-        "secao_na_prova": "C ONHECIMENTOS E SPECÍFICOS",
-        "enunciado": "Assinale a opção que indica o procedimento que garante tanto a qualidade quanto a segurança do código em aplicações web.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Implementação de Captchas em todas as páginas do aplicativo ignorando a necessidade de revisões de código e testes de penetração."
-          },
-          {
-            "letra": "B",
-            "texto": "Uso exclusivo de HTTPS para encriptação de dados sem revisões adicionais de código ou práticas de programação segura."
-          },
-          {
-            "letra": "C",
-            "texto": "Adoção de práticas de programação segura e revisão de código por pares, incluindo testes de segurança específicos como SQL Injection e Cross-Site Scripting (XSS)"
-          },
-          {
-            "letra": "D",
-            "texto": "Realização de testes de estresse em servidores de aplicação regularmente, sem realizar testes de segurança específicos ou revisões de código."
-          },
-          {
-            "letra": "E",
-            "texto": "Confiança na obfuscação de código como método principal de segurança, evitando testes de penetração sob a premissa de que código difícil de ler é seguro."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "Adoção de práticas de programação segura e revisão de código por pares, incluindo testes de segurança específicos como SQL Injection e Cross-Site Scripting (XSS)",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 5,
-          "banco_de_dados_e_ciencia_de_dados": 3,
-          "redes_e_infraestrutura": 3,
-          "seguranca_da_informacao": 7,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "66-046",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -19533,6 +19532,51 @@
           "banco_de_dados_e_ciencia_de_dados": 0,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 1,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "66-047",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista legislativo desenvolvimento de sistema ale to",
+        "prova": "66_analista-legislativo-desenvolvimento-de-sistema-ale-to-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-desenvolvimento-de-sistema-ale-to-fgv-2024",
+        "numero_na_prova": 47,
+        "secao_na_prova": "C ONHECIMENTOS E SPECÍFICOS",
+        "enunciado": "No contexto do Modelo de Acessibilidade do Governo Eletrônico (eMAG), assinale a afirmativa que melhor descreve sua principal finalidade.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Estabelecer padrões internacionais de segurança cibernética para websites governamentais, garantindo a proteção de dados sensíveis."
+          },
+          {
+            "letra": "B",
+            "texto": "Fornecer diretrizes para o desenvolvimento de jogos educativos digitais que serão utilizados em escolas públicas."
+          },
+          {
+            "letra": "C",
+            "texto": "Assegurar que as informações e serviços digitais do governo sejam acessíveis a todos os cidadãos, incluindo pessoas com deficiência."
+          },
+          {
+            "letra": "D",
+            "texto": "Promover o uso de software livre na Administração Pública, reduzindo custos com licenças de softwares proprietários."
+          },
+          {
+            "letra": "E",
+            "texto": "Criar um sistema unificado de e-mails para todos os servidores públicos, melhorando a comunicação interna do governo."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "Assegurar que as informações e serviços digitais do governo sejam acessíveis a todos os cidadãos, incluindo pessoas com deficiência.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 3,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 1,
+          "seguranca_da_informacao": 5,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -19668,6 +19712,51 @@
           "banco_de_dados_e_ciencia_de_dados": 2,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "66-052",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista legislativo desenvolvimento de sistema ale to",
+        "prova": "66_analista-legislativo-desenvolvimento-de-sistema-ale-to-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-desenvolvimento-de-sistema-ale-to-fgv-2024",
+        "numero_na_prova": 52,
+        "secao_na_prova": "C ONHECIMENTOS E SPECÍFICOS",
+        "enunciado": "Analise as afirmativas relativas ao desenvolvimento de serviços web, considerando aspectos de segurança. I. Para implementar um EndPoint SOAP, é necessário utilizar um arquivo WSDL para definir os serviços e suas operações. II. Em REST, a segurança contra injeção de SQL pode ser reforçada pelo uso da JPA, que permite consultas parametrizadas, reduzindo os riscos. III. Na segurança de serviços SOAP, os mecanismos como WS- Security para autenticação e criptografia já são automaticamente pré-configurados pelo protocolo https.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "I e II, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "I e III, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "II e III, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "I, II e III."
+          }
+        ],
+        "gabarito": "B",
+        "resposta_correta": "I e II, apenas.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 7,
+          "banco_de_dados_e_ciencia_de_dados": 2,
+          "redes_e_infraestrutura": 3,
+          "seguranca_da_informacao": 8,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -20884,6 +20973,51 @@
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 1,
           "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "69-064",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista administrativo iii analista de sistemas alesc",
+        "prova": "69_analista-administrativo-iii-analista-de-sistemas-alesc-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-administrativo-iii-analista-de-sistemas-alesc-fgv-2024",
+        "numero_na_prova": 64,
+        "secao_na_prova": "M ÓDULO DE C ONHECIMENTOS",
+        "enunciado": "Com relação a Gestão de Projetos, analise os itens a seguir: I. O gerenciamento de projetos, para o resultado final, envolve a seguinte série de atividades fundamentais: planejamento, execução, monitoramento e controle e encerramento. II. Dentre as metodologias para a gestão de projetos podem ser identificados métodos clássicos, como cascata (ou waterfall), e metodologias ágeis, como scrum. III. Como parte essencial da engenharia de software o gerenciamento de projetos de software precisa garantir as restrições de cronograma e de orçamento da organização, entretanto, nem mesmo o bom gerenciamento consegue garantir o sucesso do projeto.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "II apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "I e II, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "I e III, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "II e III, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "I, II e III."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "I, II e III.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 5,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 2,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 6
         }
       },
       {
@@ -22417,6 +22551,51 @@
         }
       },
       {
+        "id": "72-059",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1",
+        "prova": "72_analista-judiciario-area-apoio-especializado-especialidade-analise-de-sistemas-de-informacao-trf-1-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-especialidade-analise-de-sistemas-de-informacao-trf-1-fgv-2024",
+        "numero_na_prova": 59,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Em um ambiente de microsserviços, é muito comum utilizar o RabbitMQ como plataforma de mensageria. Trata-se de um produto de fácil configuração para execução em contêineres. Sobre o RabbitMQ, é correto afirmar que:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "por ter sido criado na linguagem Erlang, exige a utilização de consumidores implementados na mesma linguagem;"
+          },
+          {
+            "letra": "B",
+            "texto": "permite trabalhar apenas com AMQP 0.9.1, inviabilizando qualquer forma de utilização do STOMP ou MQTT;"
+          },
+          {
+            "letra": "C",
+            "texto": "embora gerencie internamente os privilégios dos usuários, permite o uso de LDAP para autenticação;"
+          },
+          {
+            "letra": "D",
+            "texto": "trabalha apenas com filas duráveis, o que garante que todas as mensagens se recuperem de eventuais quedas do servidor;"
+          },
+          {
+            "letra": "E",
+            "texto": "oferece diversos tipos de exchange, como topic exchange, que direciona a mensagem de forma automática para todas as filas associadas, no modelo broadcast."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "embora gerencie internamente os privilégios dos usuários, permite o uso de LDAP para autenticação;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 3,
+          "seguranca_da_informacao": 2,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "72-061",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -22862,51 +23041,6 @@
           "engenharia_de_software_e_programacao": 6,
           "banco_de_dados_e_ciencia_de_dados": 3,
           "redes_e_infraestrutura": 5,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "74-053",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev",
-        "prova": "74_analista-previdenciario-especialidade-analista-de-sistemas-prefeitura-macae-rj-macaeprev-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-previdenciario-especialidade-analista-de-sistemas-prefeitura-macae-rj-macaeprev-fgv-2024",
-        "numero_na_prova": 53,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": ".NET é uma plataforma de desenvolvimento de software criada pela Microsoft que fornece um conjunto de ferramentas, bibliotecas e serviços para criar e executar aplicativos e serviços. A plataforma é conhecida por seu suporte a várias linguagens de programação e por permitir o desenvolvimento de uma ampla variedade de aplicativos, desde aplicativos web até aplicativos desktop e móveis. Uma das funcionalidades principais do Entity Framework (EF) no contexto de um aplicativo .NET reside no fato de que o Entity Framework",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "exige a criação manual de SQL para todas as operações de banco de dados."
-          },
-          {
-            "letra": "B",
-            "texto": "é restrito ao uso com bancos de dados SQL Server apenas."
-          },
-          {
-            "letra": "C",
-            "texto": "suporta o desenvolvimento de aplicações utilizando o padrão de Design MVC (Model-View-Controller)."
-          },
-          {
-            "letra": "D",
-            "texto": "oferece suporte para mapeamento objeto-relacional e permite interagir com bancos de dados usando objetos .NET."
-          },
-          {
-            "letra": "E",
-            "texto": "não permite a realização de consultas complexas e avançadas sobre os dados."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "oferece suporte para mapeamento objeto-relacional e permite interagir com bancos de dados usando objetos .NET.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 10,
-          "banco_de_dados_e_ciencia_de_dados": 17,
-          "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
@@ -27459,51 +27593,6 @@
         }
       },
       {
-        "id": "77-072",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista legislativo programador ale am",
-        "prova": "77_analista-legislativo-programador-ale-am-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-programador-ale-am-fgv-2025",
-        "numero_na_prova": 72,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A área de TI está avaliando a adoção de plataformas Low-Code para agilizar o desenvolvimento de aplicações internas de baixo impacto. A principal desvantagem ou limitação que o Analista de Programação deve considerar ao utilizar plataformas Low-Code para desenvolver um sistema com requisitos de integração complexos ou regras de negócio altamente específicas é",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "a falta de documentação automática e de relatórios de compliance."
-          },
-          {
-            "letra": "B",
-            "texto": "o custo de licença é geralmente zero para aplicações corporativas."
-          },
-          {
-            "letra": "C",
-            "texto": "a dificuldade em acessar ou modificar o código-fonte subjacente, limitando a customização profunda e a extensibilidade."
-          },
-          {
-            "letra": "D",
-            "texto": "a impossibilidade de deploy em ambiente de nuvem pública como AWS e Azure."
-          },
-          {
-            "letra": "E",
-            "texto": "a incompatibilidade inerente com APIs RESTful e Web Services existentes."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "a dificuldade em acessar ou modificar o código-fonte subjacente, limitando a customização profunda e a extensibilidade.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 7,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 6,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "77-073",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -28809,6 +28898,51 @@
         }
       },
       {
+        "id": "79-054",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista do mpu perito em tecnologia da informacao e comunicacao mpu",
+        "prova": "79_analista-do-mpu-perito-em-tecnologia-da-informacao-e-comunicacao-mpu-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-do-mpu-perito-em-tecnologia-da-informacao-e-comunicacao-mpu-fgv-2025",
+        "numero_na_prova": 54,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Ao estabelecer uma VPN institucional entre o MPT, o MPF e n procuradores com notebooks conectados remotamente, é necessário configurar associações de segurança (SAs) para suportar o tráfego IPsec bidirecional. Essas associações são estabelecidas entre: • o roteador de borda do MPF e o roteador de borda do MPT; • o roteador de borda do MPF e cada notebook dos n procuradores. Nesse caso, o número total de associações de segurança necessárias para suportar o tráfego IPsec bidirecional é de:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2n;"
+          },
+          {
+            "letra": "B",
+            "texto": "4n;"
+          },
+          {
+            "letra": "C",
+            "texto": "2+n;"
+          },
+          {
+            "letra": "D",
+            "texto": "2+2n;"
+          },
+          {
+            "letra": "E",
+            "texto": "2+3n."
+          }
+        ],
+        "gabarito": "D",
+        "resposta_correta": "2+2n;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 7,
+          "seguranca_da_informacao": 7,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "79-061",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -29208,6 +29342,51 @@
         "pontuacao_subareas": {
           "engenharia_de_software_e_programacao": 6,
           "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "80-042",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao",
+        "prova": "80_analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
+        "numero_na_prova": 42,
+        "secao_na_prova": "Conhecimentos Específicos Avançados",
+        "enunciado": "O analista Raimundo sabe que a indução de árvores de decisão é uma das formas mais simples, e ainda assim mais bem sucedidas, de aprendizagem de máquina. No entanto, ao aplicá-la em alguns problemas da empresa em que atua, o algoritmo de aprendizagem-em-árvore-de-decisão gera uma grande árvore quando realmente não há padrão a ser encontrado nos dados. O nome do problema encontrado por Raimundo é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "suposição de estacionaridade."
+          },
+          {
+            "letra": "B",
+            "texto": "poda de árvore de decisão."
+          },
+          {
+            "letra": "C",
+            "texto": "superadaptação."
+          },
+          {
+            "letra": "D",
+            "texto": "hipótese nula."
+          },
+          {
+            "letra": "E",
+            "texto": "hiperárvore."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "superadaptação.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 3,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
@@ -30627,51 +30806,6 @@
         }
       },
       {
-        "id": "47-032",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2026,
-        "banca": "FGV",
-        "cargo_orgao": "agente especializado analista de seguranca da informacao mp es",
-        "prova": "47_agente-especializado-analista-de-seguranca-da-informacao-mp-es-fgv-2026",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/agente-especializado-analista-de-seguranca-da-informacao-mp-es-fgv-2026",
-        "numero_na_prova": 32,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Considere os seguintes logs coletados durante o processamento de requisições em um sistema distribuído de e-commerce. </> JSON {\"time\":\"10:01:02\",\"service\":\"gateway\",\"level\":\"INFO\",\"message\" :\"Requisição recebida\",\"request_id\":\"abc123\"} {\"time\":\"10:01:02\",\"service\":\"A\",\"level\":\"INFO\",\"message\":\"Pedid o recebido\",\"request_id\":\"abc123\"} {\"time\":\"10:01:03\",\"service\":\"B\",\"level\":\"INFO\",\"message\":\"Proce ssando pagamento\",\"request_id\":\"abc123\"} {\"time\":\"10:01:03\",\"service\":\"C\",\"level\":\"ERROR\",\"message\":\"Err o no estoque\",\"request_id\":\"abc123\"} {\"time\":\"10:01:04\",\"service\":\"B\",\"level\":\"WARN\",\"message\":\"Retr y pagamento\",\"request_id\":\"abc123\"} {\"time\":\"10:01:05\",\"service\":\"D\",\"level\":\"INFO\",\"message\":\"Notifi cação enviada\",\"request_id\":\"abc123\"} {\"time\":\"10:01:06\",\"service\":\"gateway\",\"level\":\"ERROR\",\"messag e\":\"Falha na requisição\",\"request_id\":\"abc123\"} Durante a análise de um incidente, a equipe conseguiu reconstruir o fluxo completo da requisição entre os diferentes serviços envolvidos, identificando o ponto exato de falha e as tentativas de recuperação. Nesse cenário, assinale a opção que identifica corretamente a prática de estruturação de logs que foi determinante para viabilizar essa análise.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Separação dos logs por serviço, facilitando a análise individualizada de cada componente."
-          },
-          {
-            "letra": "B",
-            "texto": "Inclusão de níveis de severidade nos registros, possibilitando a priorização dos eventos relevantes."
-          },
-          {
-            "letra": "C",
-            "texto": "Registro de timestamps consistentes entre os serviços, viabilizando a ordenação cronológica dos eventos."
-          },
-          {
-            "letra": "D",
-            "texto": "Padronização do formato dos logs em estrutura JSON, permitindo a indexação e a consulta eficiente dos registros."
-          },
-          {
-            "letra": "E",
-            "texto": "Utilização de identificador único de requisição propagado entre os serviços, permitindo a correlação determinística dos eventos."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "Utilização de identificador único de requisição propagado entre os serviços, permitindo a correlação determinística dos eventos.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 6,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 4,
-          "seguranca_da_informacao": 1,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "47-053",
         "subarea": "engenharia_de_software_e_programacao",
         "origem_subarea": "palavras_chave",
@@ -30714,51 +30848,6 @@
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 6,
           "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "55-031",
-        "subarea": "engenharia_de_software_e_programacao",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2026,
-        "banca": "FGV",
-        "cargo_orgao": "analista de sistemas tj sc",
-        "prova": "55_analista-de-sistemas-tj-sc-fgv-2026",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-sistemas-tj-sc-fgv-2026",
-        "numero_na_prova": 31,
-        "secao_na_prova": "Conhecimentos Específicos Engenharia de Software e Desenvolvimento",
-        "enunciado": "O Tribunal de Justiça iniciou o desenvolvimento de um sistema corporativo cujos requisitos são apenas parcialmente conhecidos, havendo elevado grau de incerteza quanto à integração com bases de dados e serviços de outros órgãos, ao desempenho sob carga e aos mecanismos de segurança. Em razão dessas características, a equipe optou por um processo de desenvolvimento no qual, a cada ciclo, são definidos objetivos, identificados e analisados riscos, desenvolvidas soluções parciais e planejada a etapa subsequente, permitindo que decisões arquiteturais sejam tomadas progressivamente com base no conhecimento adquirido ao longo do projeto. Nessa situação, o processo de desenvolvimento mais aderente é o",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "modelo em cascata."
-          },
-          {
-            "letra": "B",
-            "texto": "modelo espiral."
-          },
-          {
-            "letra": "C",
-            "texto": "modelo V."
-          },
-          {
-            "letra": "D",
-            "texto": "Scrum."
-          },
-          {
-            "letra": "E",
-            "texto": "modelo de prototipação descartável."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "modelo espiral.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 2,
-          "governanca_e_gestao_de_ti": 1
         }
       },
       {
@@ -31253,6 +31342,51 @@
           "banco_de_dados_e_ciencia_de_dados": 0,
           "redes_e_infraestrutura": 1,
           "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "55-050",
+        "subarea": "engenharia_de_software_e_programacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2026,
+        "banca": "FGV",
+        "cargo_orgao": "analista de sistemas tj sc",
+        "prova": "55_analista-de-sistemas-tj-sc-fgv-2026",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-sistemas-tj-sc-fgv-2026",
+        "numero_na_prova": 50,
+        "secao_na_prova": "Arquitetura de Sistemas e Integração",
+        "enunciado": "Em arquiteturas de microsserviços voltadas para tribunais, a comunicação baseada em mensageria (como o uso de Message Brokers) é frequentemente adotada para aumentar a resiliência do ecossistema. Ao utilizar um modelo de comunicação assíncrona para o processamento de petições e atos processuais, o sistema busca mitigar o risco de falhas em cascata e lidar com picos de demanda. Uma característica fundamental e intrínseca a esse modelo de interação é o",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Acoplamento Temporal, que exige que o serviço de destino esteja em estado operacional e pronto para processamento no exato momento em que o produtor realiza o envio da mensagem."
+          },
+          {
+            "letra": "B",
+            "texto": "Bloqueio da Thread de Execução, em que o serviço emissor suspende suas atividades e aguarda a confirmação de recebimento e o processamento final da tarefa pelo consumidor para retomar sua lógica."
+          },
+          {
+            "letra": "C",
+            "texto": "Desacoplamento espacial e temporal, permitindo que o produtor envie a mensagem e prossiga com seu fluxo de execução, sem a necessidade de que o serviço consumidor esteja disponível ou que sua localização seja conhecida no momento da emissão."
+          },
+          {
+            "letra": "D",
+            "texto": "Protocolo de RPC (Remote Procedure Call), que visa garantir que a chamada entre serviços distribuídos ocorra de forma transparente, mimetizando uma chamada de função local e síncrona."
+          },
+          {
+            "letra": "E",
+            "texto": "Mecanismo de Idempotência Nativa, característica garantida obrigatoriamente pela camada de transporte que impede, de forma automática e sem necessidade de lógica no consumidor, o processamento de mensagens duplicadas."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "Desacoplamento espacial e temporal, permitindo que o produtor envie a mensagem e prossiga com seu fluxo de execução, sem a necessidade de que o serviço consumidor esteja disponível ou que sua localização seja conhecida no momento da emissão.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 5,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 5,
+          "seguranca_da_informacao": 1,
           "governanca_e_gestao_de_ti": 0
         }
       },

@@ -870,7 +870,7 @@
         }
       },
       {
-        "id": "86-067",
+        "id": "86-066",
         "subarea": "governanca_e_gestao_de_ti",
         "origem_subarea": "modelo_sementes",
         "ano": 2022,
@@ -878,40 +878,40 @@
         "cargo_orgao": "analista de tecnologia da informacao da fazenda estadual sefaz am",
         "prova": "86_analista-de-tecnologia-da-informacao-da-fazenda-estadual-sefaz-am-fgv-2022",
         "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-da-fazenda-estadual-sefaz-am-fgv-2022",
-        "numero_na_prova": 67,
+        "numero_na_prova": 66,
         "secao_na_prova": "Banco de Dados e Gestão da Informação",
-        "enunciado": "Durante o processo de mapeamento dos negócios de uma empresa que trabalha com projetos de engenharia, a equipe responsável pela identificação dos processos realizou uma entrevista com os integrantes da área de TI. Nessa entrevista, os integrantes da equipe de TI informaram que seus processos visam prestar apoio a todos os setores da empresa garantindo a continuidade dos serviços de Internet, gerenciar o funcionamento das licenças dos softwares usados pela empresa e realizar a manutenção dos equipamentos. Após essa entrevista, pode-se concluir que seus processos podem ser classificados como",
+        "enunciado": "A respeito do Robotic Process Automation (RPA), assinale a afirmativa correta.",
         "alternativas": [
           {
             "letra": "A",
-            "texto": "gerenciais."
+            "texto": "Possui baixa precisão nos resultados."
           },
           {
             "letra": "B",
-            "texto": "organizacionais."
+            "texto": "Executa tarefas humanas de rotina."
           },
           {
             "letra": "C",
-            "texto": "de suporte."
+            "texto": "Realiza tarefas desde que envolva cálculos."
           },
           {
             "letra": "D",
-            "texto": "de negócios."
+            "texto": "Necessita de customização para interagir com outros sistemas."
           },
           {
             "letra": "E",
-            "texto": "finalísticos."
+            "texto": "Dispensa a utilização de controlroom (sala de controle)."
           }
         ],
-        "gabarito": "C",
-        "resposta_correta": "de suporte.",
+        "gabarito": "B",
+        "resposta_correta": "Executa tarefas humanas de rotina.",
         "tambem_em": [],
         "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 2,
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 1
+          "governanca_e_gestao_de_ti": 0
         }
       },
       {
@@ -2087,6 +2087,51 @@
         }
       },
       {
+        "id": "93-057",
+        "subarea": "governanca_e_gestao_de_ti",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "consultor tecnico legislativo informatica camara de sao paulo sp",
+        "prova": "93_consultor-tecnico-legislativo-informatica-camara-de-sao-paulo-sp-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/consultor-tecnico-legislativo-informatica-camara-de-sao-paulo-sp-fgv-2023",
+        "numero_na_prova": 57,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "As três métricas utilizadas nos sistemas operacionais que estão relacionadas com avaliações de tolerância a falhas são:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "confiabilidade, tempo médio até falha e disponibilidade."
+          },
+          {
+            "letra": "B",
+            "texto": "computabilidade, tempo médio até recuperação e responsividade."
+          },
+          {
+            "letra": "C",
+            "texto": "page faults, tempo médio até recuperação e tempo de indisponibilidade."
+          },
+          {
+            "letra": "D",
+            "texto": "número máximo de falhas, tempo médio entre falhas e tempo de mínimo de recuperação."
+          },
+          {
+            "letra": "E",
+            "texto": "confiança, tempo máximo até falha e tempo médio até recuperação."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "confiabilidade, tempo médio até falha e disponibilidade.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 2,
+          "seguranca_da_informacao": 1,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "93-074",
         "subarea": "governanca_e_gestao_de_ti",
         "origem_subarea": "palavras_chave",
@@ -2358,51 +2403,6 @@
       }
     ],
     "2024": [
-      {
-        "id": "10-025",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms",
-        "prova": "10_tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-sistemas-tj-ms-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-sistemas-tj-ms-fgv-2024",
-        "numero_na_prova": 25,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Analisando os processos de negócio do TJMS, o analista Fausto verificou que alguns fluxos são compostos por atividades executadas por diferentes unidades organizacionais. Para automatizar esses fluxos de trabalho, Fausto começou a modelar o respectivo sistema de informação. Utilizando o Diagrama de Atividades da UML para modelar as atividades, particionando em grupos representando as diferentes unidades organizacionais, Fausto deve usar um(a):",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Join;"
-          },
-          {
-            "letra": "B",
-            "texto": "Fork;"
-          },
-          {
-            "letra": "C",
-            "texto": "Swimlane;"
-          },
-          {
-            "letra": "D",
-            "texto": "Decision Node;"
-          },
-          {
-            "letra": "E",
-            "texto": "Control Flow."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "Swimlane;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 4,
-          "banco_de_dados_e_ciencia_de_dados": 2,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 2
-        }
-      },
       {
         "id": "10-046",
         "subarea": "governanca_e_gestao_de_ti",
@@ -2727,53 +2727,6 @@
           "redes_e_infraestrutura": 3,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 14
-        }
-      },
-      {
-        "id": "21-048",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de gestao corporativa tecnologia da informacao ciencia de dados epe",
-        "prova": "21_analista-de-gestao-corporativa-tecnologia-da-informacao-ciencia-de-dados-epe-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-gestao-corporativa-tecnologia-da-informacao-ciencia-de-dados-epe-fgv-2024",
-        "numero_na_prova": 48,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Considerando o ciclo de vida de um projeto, analise as afirmativas a seguir. I. No ciclo de vida preditivo, o esforço de planejamento ocorre nas fases intermediárias do projeto. É a abordagem mais tradicional e se trata de processos sequenciais. II. No ciclo de vida iterativo é permitido, de tempos em tempos, algum tipo de retorno por parte das principais partes interessadas engajadas no projeto. A equipe do projeto recebe feedbacks sobre os trabalhos ainda não finalizados, com o objetivo de melhorar o que está sendo produzido. III. O ciclo de vida ágil é formado pela junção dos ciclos de vida preditivo e incremental. As atividades são planejadas somente no início do projeto e as versões incompletas são entregues, de tempos em tempos, para que sejam avaliadas pelo cliente.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "I, apenas."
-          },
-          {
-            "letra": "B",
-            "texto": "II, apenas."
-          },
-          {
-            "letra": "C",
-            "texto": "III, apenas."
-          },
-          {
-            "letra": "D",
-            "texto": "I e II, apenas."
-          },
-          {
-            "letra": "E",
-            "texto": "II e III, apenas."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "II, apenas.",
-        "tambem_em": [
-          "62-076"
-        ],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 2
         }
       },
       {
@@ -3906,51 +3859,6 @@
         }
       },
       {
-        "id": "57-067",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm",
-        "prova": "57_analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
-        "numero_na_prova": 67,
-        "secao_na_prova": "Banco de Dados",
-        "enunciado": "A CVM necessita desenvolver o Plano de Tecnologia da Informação. Esse plano deverá, também, contemplar as informações de:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "escopo de negócios, competências requeridas, investimentos e custeio;"
-          },
-          {
-            "letra": "B",
-            "texto": "organização das operações de serviços de TI, arquitetura de TI e balanced scorecard;"
-          },
-          {
-            "letra": "C",
-            "texto": "necessidade de aplicações, estratégia para fornecedores de serviços e relacionamento com o cliente;"
-          },
-          {
-            "letra": "D",
-            "texto": "princípios de TI, Roadmap de TI e capacidade requerida de atendimento em relação a RH e infraestrutura;"
-          },
-          {
-            "letra": "E",
-            "texto": "estratégia para fornecedores de serviço, gestão de negócios e políticas de segurança da informação."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "princípios de TI, Roadmap de TI e capacidade requerida de atendimento em relação a RH e infraestrutura;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 3,
-          "governanca_e_gestao_de_ti": 4
-        }
-      },
-      {
         "id": "57-068",
         "subarea": "governanca_e_gestao_de_ti",
         "origem_subarea": "palavras_chave",
@@ -4536,51 +4444,6 @@
         }
       },
       {
-        "id": "69-064",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "modelo_sementes",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista administrativo iii analista de sistemas alesc",
-        "prova": "69_analista-administrativo-iii-analista-de-sistemas-alesc-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-administrativo-iii-analista-de-sistemas-alesc-fgv-2024",
-        "numero_na_prova": 64,
-        "secao_na_prova": "M ÓDULO DE C ONHECIMENTOS",
-        "enunciado": "Com relação a Gestão de Projetos, analise os itens a seguir: I. O gerenciamento de projetos, para o resultado final, envolve a seguinte série de atividades fundamentais: planejamento, execução, monitoramento e controle e encerramento. II. Dentre as metodologias para a gestão de projetos podem ser identificados métodos clássicos, como cascata (ou waterfall), e metodologias ágeis, como scrum. III. Como parte essencial da engenharia de software o gerenciamento de projetos de software precisa garantir as restrições de cronograma e de orçamento da organização, entretanto, nem mesmo o bom gerenciamento consegue garantir o sucesso do projeto.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "II apenas."
-          },
-          {
-            "letra": "B",
-            "texto": "I e II, apenas."
-          },
-          {
-            "letra": "C",
-            "texto": "I e III, apenas."
-          },
-          {
-            "letra": "D",
-            "texto": "II e III, apenas."
-          },
-          {
-            "letra": "E",
-            "texto": "I, II e III."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "I, II e III.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 5,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 6
-        }
-      },
-      {
         "id": "69-065",
         "subarea": "governanca_e_gestao_de_ti",
         "origem_subarea": "palavras_chave",
@@ -5123,6 +4986,51 @@
         }
       },
       {
+        "id": "14-043",
+        "subarea": "governanca_e_gestao_de_ti",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista programador classe b dpe ro",
+        "prova": "14_analista-programador-classe-b-dpe-ro-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-programador-classe-b-dpe-ro-fgv-2025",
+        "numero_na_prova": 43,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A capacidade de sistemas informatizados se comunicarem com outros sistemas, por meio do compartilhamento de dados chamase interoperabilidade. O padrão de interoperabilidade que define o conjunto mínimo de premissas, políticas e especificações técnicas que regulamentam a utilização da Tecnologia de Informação e Comunicação no Poder Executivo Federal e que estabelece as condições de interação com os demais Poderes e esferas de governo e com a sociedade em geral se chama",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "open data."
+          },
+          {
+            "letra": "B",
+            "texto": "sougov."
+          },
+          {
+            "letra": "C",
+            "texto": "eping."
+          },
+          {
+            "letra": "D",
+            "texto": "inda."
+          },
+          {
+            "letra": "E",
+            "texto": "lgpd."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "eping.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 2,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "36-047",
         "subarea": "governanca_e_gestao_de_ti",
         "origem_subarea": "palavras_chave",
@@ -5255,6 +5163,51 @@
           "redes_e_infraestrutura": 1,
           "seguranca_da_informacao": 1,
           "governanca_e_gestao_de_ti": 6
+        }
+      },
+      {
+        "id": "52-049",
+        "subarea": "governanca_e_gestao_de_ti",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista de controle externo tecnologia da informacao tce pe",
+        "prova": "52_analista-de-controle-externo-tecnologia-da-informacao-tce-pe-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-controle-externo-tecnologia-da-informacao-tce-pe-fgv-2025",
+        "numero_na_prova": 49,
+        "secao_na_prova": "Governança e Gestão de TI",
+        "enunciado": "Após uma falha crítica no datacenter principal de um tribunal, o Comitê de Governança de TI foi acionado para deliberar sobre medidas estratégicas que mitiguem riscos futuros. Considerando as atribuições próprias da governança de TI, uma das ações cabíveis a esse comitê seria:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "aprovar novo orçamento para hardware de contingência."
+          },
+          {
+            "letra": "B",
+            "texto": "diagnosticar a causa-raiz da falha do datacenter."
+          },
+          {
+            "letra": "C",
+            "texto": "restaurar servidores e reconfigurar balanceadores de carga."
+          },
+          {
+            "letra": "D",
+            "texto": "treinar equipes em monitoramento proativo."
+          },
+          {
+            "letra": "E",
+            "texto": "aplicar patches emergenciais nos sistemas."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "aprovar novo orçamento para hardware de contingência.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 9,
+          "seguranca_da_informacao": 1,
+          "governanca_e_gestao_de_ti": 5
         }
       },
       {
@@ -6069,6 +6022,54 @@
       }
     ],
     "2026": [
+      {
+        "id": "16-054",
+        "subarea": "governanca_e_gestao_de_ti",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2026,
+        "banca": "FGV",
+        "cargo_orgao": "agente especializado analista de sistemas mp es",
+        "prova": "16_agente-especializado-analista-de-sistemas-mp-es-fgv-2026",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/agente-especializado-analista-de-sistemas-mp-es-fgv-2026",
+        "numero_na_prova": 54,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Em relação à Legislação e aos aspectos éticos na área de Tecnologia da Informação, assinale a afirmativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica."
+          },
+          {
+            "letra": "B",
+            "texto": "A Responsabilidade Técnica limita-se à garantia de que os sistemas estejam disponíveis, não abrangendo as falhas de configuração que resultem em acessos indevidos."
+          },
+          {
+            "letra": "C",
+            "texto": "O profissional de TI pode compartilhar dados internos da organização, desde que não haja identificação direta dos titulares das informações."
+          },
+          {
+            "letra": "D",
+            "texto": "O dever de sigilo profissional cessa após o desligamento do colaborador, exceto se houver cláusula contratual específica de não divulgação."
+          },
+          {
+            "letra": "E",
+            "texto": "A Ética Profissional em TI foca na eficiência técnica dos algoritmos, sendo as questões de privacidade de responsabilidade do setor jurídico."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica.",
+        "tambem_em": [
+          "47-047",
+          "82-040"
+        ],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 2,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
       {
         "id": "16-056",
         "subarea": "governanca_e_gestao_de_ti",

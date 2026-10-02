@@ -3,13 +3,13 @@
   "pares": 100,
   "vs_humano": {
    "spacy": {
-    "similaridade_media": {
+    "similaridade": {
      "spearman": 0.30161112484805136,
      "pearson": 0.3908935401506694
     },
     "Luiza": {
      "spearman": 0.33352067863626084,
-     "pearson": 0.40528172169319443
+     "pearson": 0.4052817216931944
     },
     "Rafaela": {
      "spearman": 0.28378922163909115,
@@ -17,22 +17,38 @@
     }
    },
    "bert": {
-    "similaridade_media": {
+    "similaridade": {
      "spearman": 0.22692483175873748,
      "pearson": 0.3178084419383583
     },
     "Luiza": {
      "spearman": 0.27987443579592336,
-     "pearson": 0.33254475066871925
+     "pearson": 0.3325447506687192
     },
     "Rafaela": {
      "spearman": 0.21102756874116793,
      "pearson": 0.2851872629730691
     }
+   },
+   "llm": {
+    "similaridade": {
+     "spearman": 0.6768379812274374,
+     "pearson": 0.7621779812159223
+    },
+    "Luiza": {
+     "spearman": 0.6664426021550017,
+     "pearson": 0.7510653264412271
+    },
+    "Rafaela": {
+     "spearman": 0.6543491340647746,
+     "pearson": 0.724743195407626
+    }
    }
   },
   "entre_modelos": {
-   "spacy x bert": 0.3747854785478547
+   "spacy x bert": 0.3747854785478547,
+   "spacy x llm": 0.39242425574005596,
+   "bert x llm": 0.24190427101005935
   },
   "Luiza x Rafaela": 0.8304482044218172
  }

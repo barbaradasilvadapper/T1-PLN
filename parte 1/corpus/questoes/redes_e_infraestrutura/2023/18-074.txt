@@ -1,0 +1,18 @@
+ID: 18-074
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A empresa de consultoria de segurança Y emitiu um comunicado aos seus clientes sobre um golpe na Internet. O golpe consistia no seguinte: - Os clientes recebem mensagens por e-mail com links maliciosos, abordando temas como aproveitar ofertas de um determinado produto; - O link redireciona para uma página falsa, semelhante ao site da instituição dona do produto, e solicita dados (agência, conta, nº do cartão, celular e senhas) para efetuar a compra; - O impostor liga para a vítima; - Durante a ligação, o impostor solicita que o cliente execute uma atualização de segurança que será enviada; - Após a atualização, o criminoso realiza transações em nome da vítima. O golpe descrito pela empresa Y aos seus clientes é:
+
+[ALTERNATIVAS]
+(A) hoax;
+(B) email spoofing;
+(C) interceptação de tráfego;
+(D) site de comércio eletrônico fraudulento;
+(E) phishing.
+
+[GABARITO]
+E
