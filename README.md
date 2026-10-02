@@ -10,7 +10,7 @@ Grupo: Ana Carolina Poletto, Bárbara Dapper, João Pedro Martins, Luiza Pasini 
 | `parte 2/` | corpus de similaridade: scripts, anotações, corpus final e dataset card | scripts em `parte 2/scripts/` |
 | `parte 3/` | classificação das questões (`classificacao.ipynb`) e resultados | notebook |
 | `parte 4/` | similaridade de palavras (`similaridade.ipynb`), dataset de aula, notas do LLM e resultados | notebook |
-| `Trabalho1_PLN.key` / `.pptx` / `.pdf` | apresentação | |
+| `entregaveis/` | os arquivos finais pedidos no enunciado, todos juntos (ver abaixo) | |
 
 As partes 1 e 2 são pipelines de vários passos, por isso ficaram em scripts. As partes 3 e 4 são
 notebooks, no mesmo formato dos notebooks da disciplina, e já estão salvos com as saídas.
@@ -26,15 +26,17 @@ refazer a conversão dos PDFs.
 
 ### Entregáveis
 
-Onde está cada item que o enunciado pede:
+A pasta `entregaveis/` junta os arquivos finais pedidos no enunciado. Os dados e notebooks dela são cópias dos
+arquivos das pastas `parte 1` a `parte 4`, que são os que os scripts usam; se alguma parte for refeita, copie o
+arquivo novo para lá.
 
-| Entregável | Onde está |
+| Entregável | Arquivos em `entregaveis/` |
 |---|---|
-| Corpus de questões | `parte 1/corpus/` (`corpus.json`, `corpus.csv`, `por_subarea/`, `questoes/`, `descartadas.json`), `parte 1/estatisticas.ipynb` e `parte 1/dataset_card.xlsx` |
-| Corpus de similaridade | `parte 2/corpus/corpus_similaridade.csv`, `parte 2/dados/anotacoes_similaridade/`, `parte 2/corpus/concordancia.json` e `parte 2/dataset_card.xlsx` |
-| Classificador de questões | `parte 3/classificacao.ipynb` e `parte 3/resultados/` |
-| Analisador de similaridade | `parte 4/similaridade.ipynb`, `parte 4/resultados/` e `parte 4/dados/` |
-| Apresentação | `Trabalho1_PLN.key`, `Trabalho1_PLN.pptx` e `Trabalho1_PLN.pdf`, na raiz |
+| Corpus de questões | `corpus_questoes.json`, `corpus_questoes.csv`, `estatisticas_questoes.ipynb`, `dataset_card_questoes.xlsx` |
+| Corpus de similaridade | `corpus_similaridade.csv`, `dataset_card_similaridade.xlsx` |
+| Classificador de questões | `classificador_questoes.ipynb` |
+| Analisador de similaridade | `analisador_similaridade.ipynb` |
+| Apresentação | `Trabalho1_PLN.key`, `Trabalho1_PLN.pptx`, `Trabalho1_PLN.pdf` |
 
 ## Parte 1: corpus de questões
 
