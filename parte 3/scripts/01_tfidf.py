@@ -2,7 +2,7 @@
 
 Segue o notebook da professora (ExemploClassificação_representacaoBoW): split estratificado 80/20 com
 random_state=42, TfidfVectorizer com sublinear_tf, relatório por classe e matriz de confusão.
-Saída: parte 3/resultados/split.json (mesmo split p/ os outros modelos) e resultados_tfidf.json.
+Saída: parte 3/resultados/divisao_treino_teste.json (mesmo split p/ os outros modelos) e tfidf.json.
 """
 import json
 from pathlib import Path
@@ -34,7 +34,7 @@ X_lem = [lemas[i] for i in ids]
 
 # Split 80/20 estratificado, fixo: todos os modelos (TF-IDF, spaCy, BERT) usam o mesmo teste.
 i_tr, i_te = train_test_split(range(len(qs)), test_size=0.2, stratify=y, random_state=42)
-json.dump({"treino": [ids[i] for i in i_tr], "teste": [ids[i] for i in i_te]}, open(OUT / "split.json", "w"))
+json.dump({"treino": [ids[i] for i in i_tr], "teste": [ids[i] for i in i_te]}, open(OUT / "divisao_treino_teste.json", "w"))
 ytr, yte = y[i_tr], y[i_te]
 cortar = lambda X, idx: [X[i] for i in idx]
 
@@ -109,7 +109,7 @@ json.dump({
     "matriz_confusao": {"classes": list(final.classes_),
                         "valores": confusion_matrix(yte, pred, labels=final.classes_).tolist()},
     "predicoes_teste": dict(zip(cortar(ids, i_te), pred.tolist())),
-}, open(OUT / "resultados_tfidf.json", "w"), indent=1, ensure_ascii=False)
+}, open(OUT / "tfidf.json", "w"), indent=1, ensure_ascii=False)
 
 # termos mais pesados por classe (interpretabilidade)
 nomes = np.array(final[0].get_feature_names_out())

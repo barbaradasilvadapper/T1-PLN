@@ -23,8 +23,8 @@ def gerar_pares(origem, saida, semente=42):
 
 if __name__ == "__main__":
     p = argparse.ArgumentParser(description=__doc__)
-    p.add_argument("--origem", type=Path, default=CORPUS / "palavras_similaridade.csv")
-    p.add_argument("--saida", type=Path, default=CORPUS / "pares_similaridade.csv")
+    p.add_argument("--origem", type=Path, default=CORPUS / "palavras.csv")
+    p.add_argument("--saida", type=Path, default=CORPUS / "pares.csv")
     p.add_argument("--semente", type=int, default=42)
     args = p.parse_args()
     try:

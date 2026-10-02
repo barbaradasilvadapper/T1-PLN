@@ -63,7 +63,7 @@ def concordancia(a, b):
 def avaliar(pasta, arquivos):
     if len(arquivos) < 2:
         raise ValueError("São necessários pelo menos dois arquivos de anotadores distintos.")
-    lista = ler_csv(pasta / "pares_similaridade.csv")
+    lista = ler_csv(pasta / "pares.csv")
     pares = {r["id_par"]: r for r in lista}
     if len(lista) != 100 or len(pares) != 100:
         raise ValueError("O arquivo de pares deve conter 100 pares distintos.")
@@ -95,9 +95,7 @@ def avaliar(pasta, arquivos):
                  "nota": "null indica estatística indefinida, por exemplo notas constantes; não equivale a zero. "
                          "A concordância usa notas independentes originais, antes de discutir divergências."}
     salvar_csv(pasta / "corpus_similaridade.csv", resultado, list(resultado[0]))
-    estatisticas = pasta / "estatisticas"
-    estatisticas.mkdir(exist_ok=True)
-    (estatisticas / "concordancia_similaridade.json").write_text(
+    (pasta / "concordancia.json").write_text(
         json.dumps(relatorio, ensure_ascii=False, indent=2, allow_nan=False) + "\n", encoding="utf-8")
     print(json.dumps(comparacoes, ensure_ascii=False, indent=2))
 

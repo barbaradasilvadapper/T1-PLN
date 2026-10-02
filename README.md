@@ -41,7 +41,7 @@ python3 "parte 1/scripts/02_extrair_questoes.py"
 python3 "parte 1/scripts/03_filtrar_classificar_exportar.py"
 ```
 
-As estatísticas estão em `parte 1/estatisticas.ipynb` e o dataset card em `parte 1/DATASET_CARD.xlsx`
+As estatísticas estão em `parte 1/estatisticas.ipynb` e o dataset card em `parte 1/dataset_card.xlsx`
 (template da disciplina).
 
 ### Organização
@@ -65,7 +65,7 @@ parte 1/
     03_filtrar_classificar_exportar.py   filtra, remove duplicadas, classifica e gera o corpus
     gabarito.py, subareas.py, comum.py   funções usadas pelos scripts acima
   estatisticas.ipynb           estatísticas e gráficos do corpus
-  DATASET_CARD.xlsx            dataset card
+  dataset_card.xlsx            dataset card
 ```
 
 ### Formato do JSON
@@ -168,9 +168,9 @@ Sem esses argumentos, usam os caminhos padrão da tabela.
 | Passo | Script | O que faz | Saída |
 |---|---|---|---|
 | 2a.i | `01_preprocessar_textos.py` | tokeniza, lematiza (spaCy `pt_core_news_sm`) e remove stopwords e termos de instrução ("assinale", "alternativa"...) | `dados/intermediario/questoes_lematizadas.jsonl` |
-| 2a.ii | `02_selecionar_palavras.py` | escolhe os 200 lemas de maior TF-IDF médio (`min_df=5`, `max_df=0.8`, TF logarítmico) | `corpus/palavras_similaridade.csv` |
-| 2a.iii | `03_gerar_pares.py` | embaralha as 200 palavras (semente 42) e forma 100 pares sem repetição | `corpus/pares_similaridade.csv` |
-| 2d/e | `04_avaliar_concordancia.py` | valida as notas, calcula a concordância e gera o corpus final | `corpus/corpus_similaridade.csv` |
+| 2a.ii | `02_selecionar_palavras.py` | escolhe os 200 lemas de maior TF-IDF médio (`min_df=5`, `max_df=0.8`, TF logarítmico) | `corpus/palavras.csv` |
+| 2a.iii | `03_gerar_pares.py` | embaralha as 200 palavras (semente 42) e forma 100 pares sem repetição | `corpus/pares.csv` |
+| 2d/e | `04_avaliar_concordancia.py` | valida as notas, calcula a concordância e gera o corpus final | `corpus/corpus_similaridade.csv` e `corpus/concordancia.json` |
 
 A escala de anotação (2b) mede semelhança de significado no domínio de TI, não só associação de tema:
 
@@ -185,7 +185,7 @@ A escala de anotação (2b) mede semelhança de significado no domínio de TI, n
 A Luiza e a Rafaela anotaram os 100 pares separadamente (`dados/anotacoes_similaridade/`). Elas deram a mesma
 nota em 89 pares e, nos outros 11, a diferença foi de um ponto. O kappa de Cohen linear foi 0,79 (quadrático
 0,85) e o Spearman entre as duas, 0,83. Como os pares foram sorteados, a maioria das notas ficou baixa: 66 pares
-receberam 1 das duas. O dataset card está em `parte 2/DATASET_CARD_SIMILARIDADE.md`.
+receberam 1 das duas. O dataset card está em `parte 2/dataset_card.xlsx`, no mesmo template da parte 1.
 
 
 A escala da parte 2 tem os mesmos cinco graus da planilha de anotação feita em aula, só que com outros números:
@@ -272,7 +272,7 @@ O TF-IDF ganhou com folga, e vemos três motivos:
 
 Governança é a classe mais difícil para os embeddings: é a menor e divide vocabulário com Engenharia de
 Software (projeto, processo, requisito). Das 502 questões de teste, 370 foram acertadas pelos três modelos e
-26 foram erradas pelos três (`parte 3/resultados/COMPARACAO.md`). Lendo essas 26, várias são rótulos errados
+26 foram erradas pelos três (`parte 3/resultados/comparacao.md`). Lendo essas 26, várias são rótulos errados
 do corpus, não erros dos modelos: uma questão sobre COBIT marcada como Engenharia de Software, uma sobre Ajax
 marcada como Banco de Dados, uma sobre o LibreOffice Writer, que nem é de computação. Ou seja, os modelos
 apontam onde o rótulo automático da parte 1 falha.
@@ -286,38 +286,45 @@ python3 "parte 4/scripts/02_similaridade.py"     # spaCy, BERT e comparação co
 ```
 
 Os dois datasets ficam na escala da aula (0 a 1). As notas da parte 2 são convertidas como explicado acima
-(`parte 4/scripts/comum.py`). Comparamos a similaridade de cada modelo com a média das notas da Luiza e da
-Rafaela usando a correlação de Spearman, que compara a ordem dos pares e por isso funciona mesmo quando as
+(`parte 4/scripts/comum.py`). Comparamos a similaridade de cada modelo com a nota humana de referência (no nosso dataset, a média da
+Luiza e da Rafaela; no de aula, a anotação final da turma) usando a correlação de Spearman, que compara a ordem dos pares e por isso funciona mesmo quando as
 escalas são diferentes (cosseno de -1 a 1 × grau de 0 a 1).
 
 | Modelo | Como calculamos a similaridade |
 |---|---|
-| spaCy `pt_core_news_lg` | cosseno entre os vetores das duas palavras (`token.similarity`, como no notebook da aula) |
+| spaCy `pt_core_news_lg` | cosseno entre os vetores das duas palavras (`similarity`, como no notebook da aula); termo composto vira a média dos vetores |
 | BERTimbau | cosseno entre os vetores de cada palavra isolada (média dos subtokens da última camada) |
 | LLM (Gemini 3.5 Flash) | recebe os graus e os exemplos da planilha da aula e dá um grau para cada par, em lotes de 25 |
 
-| Modelo | Spearman com a média | com a Luiza | com a Rafaela |
-|---|---:|---:|---:|
-| spaCy | 0,30 | 0,33 | 0,28 |
-| BERTimbau | 0,23 | 0,28 | 0,21 |
-| Gemini | **0,68** | 0,67 | 0,65 |
-| Luiza × Rafaela (referência) | 0,83 | | |
+Avaliamos os dois datasets: o nosso (100 pares da parte 2) e o feito em aula (80 pares, planilha
+`parte 4/dados/dataset_aula.xlsx`, aba `AmostraParaAnotar`, coluna "Anotação Final").
 
-- **O LLM ficou muito mais perto das pessoas.** Ele deu exatamente a mesma nota da Luiza em 65 pares e da
-  Rafaela em 68, e sabe que, em TI, "tcp" e "ordem" têm relação (o TCP garante a ordem dos pacotes). Ele foi um
-  pouco mais generoso que as anotadoras (média 0,16 × 0,09): deu 0,5 para pares como teste/programação e
-  risco/gestão, que elas avaliaram como 0,25. Mesmo assim, não chega à concordância entre as duas (0,83).
-- **O spaCy mede outra coisa.** Os vetores dele vêm de textos gerais (notícias, web), não de TI, e medem se
-  as palavras aparecem em contextos parecidos. Por isso "operação" e "ti" ficam com similaridade negativa.
-- **O BERT foi o pior.** Ele foi feito para representar palavras dentro de frases. Com a palavra sozinha,
-  quase todos os pares têm cosseno alto e parecido (metade entre 0,55 e 0,69), então sobra pouca diferença entre
-  um par e outro.
-- **A distribuição das notas atrapalha todos.** Como 66 pares têm nota 0 das duas anotadoras, há muitos
-  empates e poucos pares com similaridade alta, o que baixa qualquer correlação.
+| Modelo | Nosso dataset (Spearman) | Dataset de aula (Spearman) |
+|---|---:|---:|
+| spaCy | 0,30 | 0,07 |
+| BERTimbau | 0,23 | 0,11 |
+| Gemini | **0,68** | **0,53** |
+| Concordância entre as pessoas (referência) | 0,83 (Luiza × Rafaela) | 0,35 a 0,40 (entre as três alunas) |
 
-O item 4a também pede o dataset feito em aula. Para incluir, salve a planilha da aula com a coluna
-"Anotação Final" preenchida como `parte 4/dados/dataset_aula.xlsx` e rode os dois scripts de novo. Eles leem a
-aba `AmostraParaAnotar` e calculam tudo também para esse dataset.
+No nosso dataset, o Spearman do Gemini com cada anotadora foi 0,67 (Luiza) e 0,65 (Rafaela).
+
+- **O LLM ficou muito mais perto das pessoas nos dois datasets.** No nosso, deu a mesma nota da Luiza em 65
+  pares e da Rafaela em 68, e sabe que, em TI, "tcp" e "ordem" têm relação (o TCP garante a ordem dos
+  pacotes). Foi um pouco mais generoso que as anotadoras (média 0,16 × 0,09): deu 0,5 para pares como
+  teste/programação e risco/gestão, que elas avaliaram como 0,25.
+- **O spaCy mede outra coisa.** Os vetores dele vêm de textos gerais (notícias, web), não de TI, e medem se as
+  palavras aparecem em contextos parecidos. "Operação" e "ti" ficam com similaridade negativa. No dataset de
+  aula ainda falta vocabulário: "deployar", "comitar", "parsear", "tokenizar" e "desalocar" não têm vetor (contam
+  como similaridade 0), e por isso deployar/publicar, que a turma marcou como sinônimos, sai como nada similar.
+- **O BERT foi o pior no nosso dataset.** Ele foi feito para representar palavras dentro de frases. Com a
+  palavra sozinha, quase todos os pares têm cosseno alto e parecido (metade entre 0,55 e 0,69), então sobra
+  pouca diferença entre um par e outro. Ele também confunde palavras do mesmo assunto com sinônimos: dá 0,78
+  para vetor/matriz, que a turma marcou como nada similar.
+- **Os dois datasets são bem diferentes.** O nosso foi sorteado, então quase todos os pares são pouco
+  similares (66 pares com nota 0 das duas). O de aula foi montado com pares escolhidos, quase todos parecidos
+  (média 0,69, só 5 pares abaixo de 0,5). Com notas tão concentradas no alto, separar 0,5 de 0,75 ou de 1 é
+  difícil até para as pessoas: entre as três alunas o Spearman ficou entre 0,35 e 0,40. O Gemini (0,53) concorda
+  mais com a anotação final do que as alunas concordam entre si, enquanto spaCy e BERT ficam perto de zero.
 
 ### Como pegar a chave do Gemini
 

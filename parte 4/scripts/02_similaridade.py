@@ -31,8 +31,16 @@ bt, bm = AutoTokenizer.from_pretrained(NOME_BERT), AutoModel.from_pretrained(NOM
 
 
 def sim_spacy(a, b):
-    # cosseno entre os vetores estáticos (300d), como no notebook similaridadeEntreTokens
-    return nlp(a)[0].similarity(nlp(b)[0])
+    # cosseno entre os vetores estáticos (300d), como no notebook similaridadeEntreTokens;
+    # termo composto ("banco de dados") vira a média dos vetores; palavra sem vetor no modelo dá 0
+    da, db = nlp(a), nlp(b)
+    if not (da.has_vector and db.has_vector and da.vector_norm and db.vector_norm):
+        return 0.0
+    return da.similarity(db)
+
+
+def sem_vetor(palavras):
+    return sorted({p for p in palavras if not all(t.has_vector for t in nlp(p))})
 
 
 def vetor_bert(p):
@@ -61,7 +69,8 @@ def avaliar(nome, d, humanos, arquivo_llm):
         modelos.append("llm")
     d.to_csv(OUT / f"similaridades_{nome}.csv", index=False)
 
-    res = {"pares": len(d), "vs_humano": {}, "entre_modelos": {}}
+    res = {"pares": len(d), "sem_vetor_spacy": sem_vetor(set(d.palavra_1) | set(d.palavra_2)),
+           "vs_humano": {}, "entre_modelos": {}}
     for m in modelos:
         res["vs_humano"][m] = {h: {"spearman": spearmanr(d[m], d[h])[0], "pearson": pearsonr(d[m], d[h])[0]}
                                for h in humanos}
@@ -80,7 +89,7 @@ def avaliar(nome, d, humanos, arquivo_llm):
     plt.tight_layout()
     plt.savefig(OUT / f"dispersao_{nome}.png", dpi=130)
 
-    print(f"\n== {nome} ({len(d)} pares)")
+    print(f"\n== {nome} ({len(d)} pares; sem vetor no spaCy: {', '.join(res['sem_vetor_spacy']) or 'nenhuma'})")
     for m in modelos:
         r = res["vs_humano"][m]
         print(f"{m:6} " + " | ".join(f"{h}: Spearman {v['spearman']:.3f}, Pearson {v['pearson']:.3f}" for h, v in r.items()))
@@ -93,7 +102,7 @@ def avaliar(nome, d, humanos, arquivo_llm):
 
 
 nosso = ler_nosso_dataset()
-resultados = {"nosso": avaliar("nosso", nosso, ["similaridade", "Luiza", "Rafaela"], DADOS / "notas_llm.csv")}
+resultados = {"nosso": avaliar("nosso", nosso, ["similaridade", "Luiza", "Rafaela"], DADOS / "notas_llm_nosso.csv")}
 resultados["nosso"]["Luiza x Rafaela"] = spearmanr(nosso.Luiza, nosso.Rafaela)[0]
 
 aula = ler_dataset_aula()

@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 
 RAIZ = Path(__file__).resolve().parents[2]
 OUT = RAIZ / "parte 3" / "resultados"
-tf = json.load(open(OUT / "resultados_tfidf.json"))
-emb = json.load(open(OUT / "resultados_embeddings.json"))
+tf = json.load(open(OUT / "tfidf.json"))
+emb = json.load(open(OUT / "embeddings.json"))
 modelos = {"TF-IDF + LogReg": tf, "spaCy pt_core_news_lg": emb["spacy_pt_core_news_lg"],
            "BERTimbau (mean pooling)": emb["bert_base_portuguese_cased"]}
 qs = {q["id"]: q for q in json.load(open(RAIZ / "parte 1/corpus/corpus.json"))["questoes"]}
@@ -40,5 +40,5 @@ linhas += [f"\nTeste: {len(erros)} questões. Erradas por nenhum modelo: {sum(no
 for i in todos[:12]:
     q = qs[i]
     linhas.append(f"- `{i}` real=**{q['subarea']}**, TF-IDF previu **{tf['predicoes_teste'][i]}**: {q['enunciado'][:160]}…")
-open(OUT / "COMPARACAO.md", "w").write("\n".join(linhas))
+open(OUT / "comparacao.md", "w").write("\n".join(linhas))
 print("\n".join(linhas))

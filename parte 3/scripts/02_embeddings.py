@@ -18,7 +18,7 @@ from transformers import AutoModel, AutoTokenizer
 RAIZ = Path(__file__).resolve().parents[2]
 OUT = RAIZ / "parte 3" / "resultados"
 qs = {q["id"]: q for q in json.load(open(RAIZ / "parte 1/corpus/corpus.json"))["questoes"]}
-split = json.load(open(OUT / "split.json"))
+split = json.load(open(OUT / "divisao_treino_teste.json"))
 
 
 def texto(q):
@@ -66,4 +66,4 @@ for nome, f in [("spacy_pt_core_news_lg", spacy_vecs), ("bert_base_portuguese_ca
         "predicoes_teste": dict(zip(split["teste"], pred.tolist())),
     }
 
-json.dump(resultados, open(OUT / "resultados_embeddings.json", "w"), indent=1, ensure_ascii=False)
+json.dump(resultados, open(OUT / "embeddings.json", "w"), indent=1, ensure_ascii=False)

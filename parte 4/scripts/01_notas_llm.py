@@ -3,7 +3,7 @@
 Usa a escala da anotação feita em aula (0, 0.25, 0.5, 0.75, 1), a mesma para os dois datasets.
 Os pares vão em lotes de 25 por pedido, porque o plano gratuito só permite 20 pedidos por dia em cada modelo.
 Precisa da chave do Gemini (gratuita, Google AI Studio): export GEMINI_API_KEY=...
-Saída: parte 4/dados/notas_llm.csv (e notas_llm_aula.csv, se existir o dataset de aula)
+Saída: parte 4/dados/notas_llm_nosso.csv (e notas_llm_aula.csv, se existir o dataset de aula)
 """
 import csv
 import os
@@ -88,7 +88,7 @@ if __name__ == "__main__":
     cliente = genai.Client()  # lê GEMINI_API_KEY do ambiente
     DADOS.mkdir(exist_ok=True)
     nosso = ler_nosso_dataset()
-    rodar(cliente, list(zip(nosso.palavra_1, nosso.palavra_2)), DADOS / "notas_llm.csv")
+    rodar(cliente, list(zip(nosso.palavra_1, nosso.palavra_2)), DADOS / "notas_llm_nosso.csv")
     aula = ler_dataset_aula()
     if aula is not None:
         rodar(cliente, list(zip(aula.palavra_1, aula.palavra_2)), DADOS / "notas_llm_aula.csv")

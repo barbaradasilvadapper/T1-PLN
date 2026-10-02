@@ -49,7 +49,7 @@ def selecionar(origem, saida):
 if __name__ == "__main__":
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--origem", type=Path, default=QUESTOES_LEMATIZADAS)
-    p.add_argument("--saida", type=Path, default=CORPUS / "palavras_similaridade.csv")
+    p.add_argument("--saida", type=Path, default=CORPUS / "palavras.csv")
     args = p.parse_args()
     try:
         selecionar(args.origem, args.saida)
