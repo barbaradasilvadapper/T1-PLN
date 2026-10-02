@@ -1,0 +1,54 @@
+{
+ "n_pares": 100,
+ "palavras_sem_vetor_spacy": [],
+ "vs_humano": {
+  "spacy": {
+   "humano_media": {
+    "spearman": 0.30161112484805136,
+    "pearson": 0.3908935401506694
+   },
+   "Luiza": {
+    "spearman": 0.33352067863626084,
+    "pearson": 0.40528172169319443
+   },
+   "Rafaela": {
+    "spearman": 0.28378922163909115,
+    "pearson": 0.3540526295357244
+   }
+  },
+  "bert": {
+   "humano_media": {
+    "spearman": 0.22692483175873748,
+    "pearson": 0.3178084419383583
+   },
+   "Luiza": {
+    "spearman": 0.27987443579592336,
+    "pearson": 0.33254475066871925
+   },
+   "Rafaela": {
+    "spearman": 0.21102756874116793,
+    "pearson": 0.2851872629730691
+   }
+  },
+  "llm": {
+   "humano_media": {
+    "spearman": 0.8440557806315366,
+    "pearson": 0.8579943711524947
+   },
+   "Luiza": {
+    "spearman": 0.8768571745426256,
+    "pearson": 0.853609653089088
+   },
+   "Rafaela": {
+    "spearman": 0.7989885620447694,
+    "pearson": 0.8087177114304107
+   }
+  }
+ },
+ "entre_modelos": {
+  "spacy~bert": 0.3747854785478547,
+  "spacy~llm": 0.35104696647266287,
+  "bert~llm": 0.3208794804336972
+ },
+ "humano_Luiza~Rafaela": 0.8304482044218172
+}
