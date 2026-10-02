@@ -41,6 +41,7 @@ ARQUIVOS = {
     "apresentacao": [
         "apresentacao/Trabalho1_PLN.key",
         "apresentacao/Trabalho1_PLN.pdf",
+        "apresentacao/Trabalho1_PLN.pptx",
     ],
 }
 

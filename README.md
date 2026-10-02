@@ -10,7 +10,7 @@ Grupo: Ana Carolina Poletto, Bárbara Dapper, João Pedro Martins, Luiza Pasini 
 | `parte 2/` | corpus de similaridade: scripts, anotações, corpus final e dataset card | scripts em `parte 2/scripts/` |
 | `parte 3/` | classificação das questões (`classificacao.ipynb`) e resultados | notebook |
 | `parte 4/` | similaridade de palavras (`similaridade.ipynb`), dataset de aula, notas do LLM e resultados | notebook |
-| `apresentacao/` | slides da apresentação (Keynote e PDF) | |
+| `apresentacao/` | slides da apresentação (Keynote, PowerPoint e PDF) | |
 | `entregaveis/` | cópia do que o enunciado pede para entregar (ver abaixo) | gerada por `gerar_entregaveis.py` |
 
 As partes 1 e 2 são pipelines de vários passos, por isso ficaram em scripts numerados. As partes 3 e 4 são
@@ -36,7 +36,7 @@ alguma parte, rode `python3 gerar_entregaveis.py` para atualizar.
 | Corpus de similaridade | `entregaveis/corpus_similaridade/` | `corpus_similaridade.csv`, anotações das duas anotadoras, concordância e dataset card |
 | Classificador de questões | `entregaveis/classificador_questoes/` | notebook executado, tabela de resultados e gráficos |
 | Analisador de similaridade | `entregaveis/analisador_similaridade/` | notebook executado, correlações, gráfico e notas do LLM |
-| Apresentação | `entregaveis/apresentacao/` | slides em Keynote e em PDF |
+| Apresentação | `entregaveis/apresentacao/` | slides em Keynote, PowerPoint e PDF |
 
 ## Parte 1: corpus de questões
 
@@ -362,8 +362,8 @@ e `similarity` do spaCy para a similaridade entre palavras. O que foi além:
 
 ## Uso de IA
 
-- **Partes 1, 3 e 4:** usamos o Claude (Anthropic), pelo Claude Code, como assistente de programação, para
-  escrever e depurar os scripts e os notebooks e para revisar o texto deste README. A conferência das 336
+- **Partes 1, 3 e 4:** usamos o Claude (Anthropic), pelo Claude Code, para escrever e depurar os scripts e os
+  notebooks, e para escrever o texto deste README e da apresentação, incluindo a análise dos resultados. A conferência das 336
   questões de `parte 1/dados/validacao_rotulos.csv`, usada para medir o acerto da subárea e escolher o
   método de classificação, foi feita com o Claude. Nenhum rótulo do corpus vem dessa conferência.
 - **Parte 2:** o Codex (OpenAI) ajudou a implementar e documentar os scripts. As notas dos 100 pares foram
