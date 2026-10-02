@@ -1,0 +1,18 @@
+ID: 30-027
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de infraestrutura de redes tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Ao acessar um computador usando o Windows Admin Center, um usuário final tem acesso à maioria dos recursos, mas não tem acesso à Área de Trabalho Remota. Sabendo que está implementado o controle de acesso baseado em função, a função desse usuário é:
+
+[ALTERNATIVAS]
+(A) administrador;
+(B) administrador do Hyper-V;
+(C) escritor;
+(D) leitor;
+(E) semiadministrador.
+
+[GABARITO]
+A

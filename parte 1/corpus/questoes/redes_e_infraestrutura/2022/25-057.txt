@@ -1,0 +1,18 @@
+ID: 25-057
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista Pedro definiu no Logstash do TJDFT um novo pipeline de processamento de dados de nome SPipeline. A saída definida em SPipeline exige que os dados sejam estruturados. No entanto, a entrada definida em SPipeline consiste em um arquivo de texto arbitrário e não estruturado. A fim de estruturar a entrada do SPipeline com o uso de expressões regulares, Pedro deve adicionar ao SPipeline o filtro do Logstash:
+
+[ALTERNATIVAS]
+(A) drop;
+(B) mutate;
+(C) grok;
+(D) clone;
+(E) aggregate.
+
+[GABARITO]
+C

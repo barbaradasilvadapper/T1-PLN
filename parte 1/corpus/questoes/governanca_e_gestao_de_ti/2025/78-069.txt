@@ -1,0 +1,18 @@
+ID: 78-069
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas classe b dpe ro
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A análise e a simulação de processos de negócio são fundamentais para compreender, avaliar e aprimorar a eficiência operacional de uma organização. A técnica que busca identificar as causas fundamentais de problemas ou falhas dentro de um processo é
+
+[ALTERNATIVAS]
+(A) simulação de eventos discretos.
+(B) simulação de Monte Carlo.
+(C) análise de séries temporais.
+(D) análise de valor agregado.
+(E) análise de causa raiz.
+
+[GABARITO]
+E

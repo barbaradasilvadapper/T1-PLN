@@ -1,0 +1,18 @@
+ID: 13-069
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu desenvolvimento de sistemas mpu
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O framework COBIT 2019 faz uma distinção clara entre governança e gestão. O domínio BAI – Build, Acquire and Implement (Construir, Adquirir e Implementar) trata da definição, aquisição e implementação de soluções de Informação e Tecnologia (I&T) e sua integração em processos de negócios. Uma prática de gerenciamento aderente aos objetivos de gerenciamento do domínio BAI pode ser executada pela(s) atividade(s):
+
+[ALTERNATIVAS]
+(A) compreender a visão, direção e estratégia da organização, bem como seu contexto e desafios atuais;
+(B) estabelecer uma função responsável por gerenciar atividades que dão suporte aos objetivos de gerenciamento de dados;
+(C) desenvolver e manter procedimentos operacionais e atividades relacionadas para dar suporte a todos os serviços prestados;
+(D) criar um plano de inovação que inclua grau de tolerância a riscos, com orçamento proposto para iniciativas de inovação e objetivos de inovação;
+(E) especificar e priorizar informações, requisitos funcionais e técnicos, com base na experiência do usuário e nos requisitos confirmados das partes interessadas.
+
+[GABARITO]
+E

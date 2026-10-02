@@ -1,116 +1,110 @@
 # T1 PLN - Corpus de questões de concursos de TI e similaridade de palavras
 
+Grupo: Ana Carolina Poletto, Bárbara Dapper, João Pedro Martins, Luiza Pasini e Rafaela Remião.
+
+## Entregáveis
+
+Todos os arquivos finais estão em `entregaveis/`:
+
+| Entregável | Arquivos |
+|---|---|
+| Corpus de questões | `corpus_questoes.json`, `corpus_questoes.csv`, `estatisticas_questoes.ipynb`, `dataset_card_questoes.xlsx` |
+| Corpus de similaridade | `corpus_similaridade.csv`, `dataset_card_similaridade.xlsx` |
+| Classificador de questões | `classificador_questoes.ipynb` |
+| Analisador de similaridade | `analisador_similaridade.ipynb` |
+| Apresentação | `Trabalho1_PLN.key`, `Trabalho1_PLN.pptx`, `Trabalho1_PLN.pdf` |
+
+As pastas `parte 1` a `parte 4` têm o código e os dados que geram esses arquivos.
+
+## Como rodar
+
+```bash
+pip install -r requirements.txt
+```
+
+**Parte 1** (precisa do `pdftotext`: `brew install poppler`):
+
+```bash
+python3 "parte 1/scripts/converter_pdfs.py"
+python3 "parte 1/scripts/extrair_questoes.py"
+python3 "parte 1/scripts/montar_corpus.py"
+```
+
+**Parte 2:**
+
+```bash
+python3 "parte 2/scripts/preprocessar.py"
+python3 "parte 2/scripts/escolher_palavras.py"
+python3 "parte 2/scripts/sortear_pares.py"
+python3 "parte 2/scripts/concordancia.py"
+```
+
+**Partes 3 e 4:** notebooks `parte 3/classificacao.ipynb` e `parte 4/similaridade.ipynb`. As notas do Gemini já
+estão salvas em `parte 4/dados/`; para pedir de novo, apague os arquivos `notas_llm_*.csv` e defina
+`GEMINI_API_KEY` (chave gratuita em https://aistudio.google.com).
+
 ## Parte 1: corpus de questões
 
-Corpus com 2.506 questões de múltipla escolha de computação, tiradas de 95 provas da FGV (2021 a 2026)
-disponíveis no [PCI Concursos](https://www.pciconcursos.com.br/provas/ti/). Cada questão tem enunciado,
-alternativas, gabarito oficial, ano e subárea.
+2.506 questões de múltipla escolha de 95 provas de TI da FGV (2021 a 2026), baixadas do
+[PCI Concursos](https://www.pciconcursos.com.br/provas/ti/), com enunciado, alternativas, gabarito, ano e subárea.
+Das 6.777 questões extraídas dos PDFs, 4.271 foram descartadas (fora de computação, problema de conversão, sem
+gabarito, anuladas ou repetidas).
 
 | Subárea | Questões |
 |---|---:|
-| Engenharia de Software e Programação | 758 |
-| Redes e Infraestrutura | 664 |
-| Segurança da Informação | 507 |
-| Banco de Dados e Ciência de Dados | 459 |
-| Governança e Gestão de TI | 118 |
+| Engenharia de Software e Programação | 727 |
+| Redes e Infraestrutura | 669 |
+| Segurança da Informação | 502 |
+| Banco de Dados e Ciência de Dados | 469 |
+| Governança e Gestão de TI | 139 |
 
-Tudo da parte 1 está na pasta `parte 1/`. O dataset card é o `parte 1/DATASET_CARD.xlsx`, e as
-estatísticas estão em `parte 1/estatisticas.ipynb`.
+As três primeiras atendem ao mínimo de 500 questões; BD e Governança são subáreas extras.
 
-### Organização
+A subárea é definida em duas etapas (`parte 1/scripts/subareas.py`): pontuação por palavras-chave, com o
+enunciado valendo o dobro, e um TF-IDF + k-NN (k=3, como no notebook da aula) para as questões em que duas
+subáreas ficam quase empatadas. Numa amostra aleatória de 100 questões conferidas, 97 estavam na subárea certa.
 
-```
-parte 1/
-  dados/
-    pdfs/NN_nome-da-prova/     PDFs da prova e do gabarito (baixados do PCI Concursos)
-    txt/NN_nome-da-prova/      texto extraído dos PDFs
-    gabaritos_manuais/48.txt   gabarito da prova 48 digitado à mão (o PDF é uma imagem)
-  corpus/
-    corpus.json                dataset final
-    por_subarea/*.json         as mesmas questões separadas por subárea e agrupadas por ano
-    questoes/<subárea>/<ano>/  um arquivo .txt por questão ([ENUNCIADO], [ALTERNATIVAS], [GABARITO])
-    corpus.csv                 uma linha por questão
-  scripts/
-    01_pdf_para_txt.py         converte os PDFs em texto
-    02_extrair_questoes.py     separa as questões, enunciado e alternativas, e junta o gabarito
-    03_filtrar_classificar_exportar.py   filtra, remove duplicadas, classifica e gera o corpus
-    gabarito.py, subareas.py, comum.py   funções usadas pelos scripts acima
-  estatisticas.ipynb           estatísticas e gráficos do corpus
-  DATASET_CARD.xlsx            dataset card
-```
+## Parte 2: corpus de similaridade
 
-### Formato do JSON
+As questões foram tokenizadas, lematizadas e sem stopwords (spaCy). Os 200 lemas de maior TF-IDF médio foram
+sorteados em 100 pares, e a Luiza e a Rafaela anotaram cada par de 1 a 5, sem ver as notas uma da outra
+(1 nenhuma semelhança, 2 baixa, 3 moderada, 4 alta, 5 sinônimos; equivale a 0, 0,25, 0,5, 0,75 e 1 na escala
+da aula). Concordância: kappa linear de 0,79 e Spearman de 0,83.
 
-`corpus.json` tem um bloco `metadados` e a lista `questoes`. Exemplo de uma questão:
+## Parte 3: classificação
 
-```json
-{
-  "id": "28-061",
-  "subarea": "seguranca_da_informacao",
-  "ano": 2023,
-  "banca": "FGV",
-  "cargo_orgao": "analista judiciario analise de sistemas redes tj se",
-  "prova": "28_analista-judiciario-analise-de-sistemas-redes-tj-se-fgv-2023",
-  "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-analise-de-sistemas-redes-tj-se-fgv-2023",
-  "numero_na_prova": 61,
-  "secao_na_prova": "Conhecimentos Específicos",
-  "enunciado": "O computador de Elias foi infectado por um rootkit que ...",
-  "alternativas": [{"letra": "A", "texto": "memória;"}, {"letra": "B", "texto": "kernel;"}, ...],
-  "gabarito": "A",
-  "resposta_correta": "memória;",
-  "tambem_em": [],
-  "pontuacao_subareas": {"seguranca_da_informacao": 4, "redes_e_infraestrutura": 3, ...}
-}
-```
+Mesma divisão do notebook da aula (80/20, estratificada, `random_state=42`), com k-NN (k=3) e regressão
+logística. Parâmetros do TF-IDF escolhidos com validação cruzada no treino: 10.000 termos, unigramas e
+stopwords do spaCy.
 
-O `id` é o número da pasta da prova em `parte 1/dados/pdfs` mais o número da questão na prova. `tambem_em` lista
-questões iguais de outras provas do mesmo concurso, que foram removidas como duplicadas.
+| Representação | F1-macro (k-NN) | F1-macro (regressão logística) |
+|---|---:|---:|
+| TF-IDF | 0,881 | **0,910** |
+| spaCy `pt_core_news_lg` | 0,426 | 0,832 |
+| BERTimbau | 0,753 | 0,804 |
 
-### Como foi feito
+O TF-IDF ganha porque os termos técnicos ("SELECT", "ITIL") decidem a subárea, e a média dos embeddings dilui
+esses termos.
 
-1. **Coleta:** escolhemos 95 provas de TI da FGV entre 2021 e 2026, todas com gabarito. Os PDFs foram
-   baixados manualmente, porque o site pede uma verificação de segurança em cada prova.
-2. **Conversão:** as provas da FGV são em duas colunas, então o texto é extraído com
-   `pdftotext -bbox-layout` e os blocos são reordenados por coluna. Os gabaritos usam `pdftotext -layout`.
-3. **Separação:**
-   - Tiramos cabeçalhos e rodapés.
-   - Identificamos a seção de cada questão (Língua Portuguesa, Conhecimentos Específicos etc.).
-   - Separamos o enunciado das alternativas.
-   - Cada arquivo de gabarito tem vários cargos. O bloco certo é escolhido pelo número de questões, pelo
-     tipo de prova (Tipo 1) e pelo nome do cargo.
-4. **Filtragem:** são descartadas as questões que:
-   - não são de computação (português, direito, raciocínio lógico etc.);
-   - tiveram problema na conversão (símbolos perdidos, fórmulas ou tabelas quebradas, alternativa
-     faltando, dependência de figura, texto de apoio que ficou em outra questão);
-   - não têm gabarito ou foram anuladas;
-   - são repetidas.
+## Parte 4: similaridade de palavras
 
-   Das 6.777 questões extraídas, ficaram 2.506.
-5. **Classificação:** a subárea é definida por uma lista de palavras-chave com pesos (`parte 1/scripts/subareas.py`).
+Correlação de Spearman com as notas humanas, no nosso dataset e no feito em aula:
 
-### Como rodar
+| Modelo | Nosso dataset | Dataset de aula |
+|---|---:|---:|
+| spaCy | 0,30 | 0,07 |
+| BERTimbau | 0,23 | 0,11 |
+| Gemini 3.5 Flash | **0,68** | **0,53** |
+| Concordância entre as pessoas | 0,83 | 0,35 a 0,40 |
 
-Requer Python 3 e o poppler (`pdftotext`). A partir da raiz do repositório:
+Só o Gemini usa o sentido das palavras em TI. O spaCy foi treinado em textos gerais e não conhece vários
+termos técnicos, e o BERT não foi feito para palavras isoladas.
 
-```bash
-cd "parte 1/scripts"
-python3 01_pdf_para_txt.py
-python3 02_extrair_questoes.py
-python3 03_filtrar_classificar_exportar.py
-```
+## Uso de IA
 
-Depois, abra o `parte 1/estatisticas.ipynb` (precisa de `pandas`, `matplotlib` e `pyspellchecker`).
+- revisão de parte do código (a classificação de subárea da
+  parte 1, a simplificação dos scripts da parte 2 e os notebooks das partes 3 e 4), dos textos e 
+- conferência das 336 questões usadas para medir o acerto da subárea.
+- **Gemini:** é um dos modelos avaliados na parte 4.
 
-### Limitações
-
-- A classificação por palavras-chave erra em alguns casos de fronteira. Por exemplo, questões de protocolos
-  de segurança (IPSec, SSL) às vezes ficam em Redes.
-- A prova 53 (MP/RJ) ficou sem questões, porque o gabarito disponível no site é de outro cargo.
-- As provas 08 e 46 (CVM, manhã) e 49 (Câmara dos Deputados, manhã) só têm conhecimentos gerais, então não
-  contribuíram com questões.
-- Usar só a FGV deixa o formato uniforme, mas limita a variedade de estilos de questão.
-
-## Parte 2: corpus de similaridade de palavras
-
-Os scripts, as anotações, o corpus e o dataset card da parte 2 estão em [`parte 2/`](parte%202/README.md).
-A escala de anotação, a metodologia e os comandos estão no README dessa pasta.
+Foram feitos sem IA o download das provas e todas as anotações (os 100 pares e o dataset de aula).

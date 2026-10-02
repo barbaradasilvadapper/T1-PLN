@@ -1,0 +1,18 @@
+ID: 34-060
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo analista de redes de comunicacao de dados ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em arquiteturas de banco de dados de alta disponibilidade, a característica de um sistema continuar operando normalmente mesmo quando componentes individuais falham, através de redundância e failover automático, é conhecida como:
+
+[ALTERNATIVAS]
+(A) Escalabilidade.
+(B) Disaster Recovery.
+(C) Load Balancing.
+(D) Tolerância a falhas.
+(E) Replicação síncrona.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 52-052
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Um Tribunal de Contas adotou a notação BPMN para modelar seus processos e utiliza uma plataforma BPMS para automatizar fluxos críticos. Um dos processos automatizados refere-se à análise e concessão de prazos para defesa de jurisdicionados, e inclui os seguintes elementos: • uma tarefa manual em que o analista jurídico avalia o pedido do jurisdicionado. • um gateway exclusivo que decide entre conceder ou negar o prazo solicitado. • uma tarefa de serviço que consulta automaticamente o histórico processual do jurisdicionado no sistema de controle de processos. • um evento de mensagem intermediário que aguarda o envio de documentação complementar pelo jurisdicionado. • indicadores de desempenho mostrando que o tempo médio de resposta dos jurisdicionados compromete o prazo legal para emissão de parecer. Com base nos conceitos de modelagem BPMN e automação com BPMS, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Apenas tarefas automatizadas, como consultas a sistemas, devem constar no BPMS; tarefas manuais como avaliação jurídica devem ocorrer fora da plataforma.
+(B) O uso de gateway exclusivo no processo é inadequado, pois sempre resulta em atrasos; o correto seria adotar um gateway paralelo para execução simultânea.
+(C) O evento de mensagem intermediário compromete a automação do processo e não deve ser usado em BPMS.
+(D) A modelagem apresentada está alinhada às práticas de BPMN e permite automação parcial e monitoramento eficaz via BPMS.
+(E) Para que o gargalo identificado possa ser tratado, seria necessário modelar o processo como coreografia BPMN, o que não é possível em processos internos.
+
+[GABARITO]
+D

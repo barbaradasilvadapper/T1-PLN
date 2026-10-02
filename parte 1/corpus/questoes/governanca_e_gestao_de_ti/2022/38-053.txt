@@ -1,0 +1,18 @@
+ID: 38-053
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+De acordo com os princípios que norteiam o COBIT 2019, um sistema de governança de tecnologia de informação empresarial deve:
+
+[ALTERNATIVAS]
+(A) unificar as estruturas de governança e gestão para evitar responsabilidades divididas entre diferentes colaboradores;
+(B) concentrar-se apenas nas funções de TI para garantir que cumpram seus deveres e atendam as áreas de negócio;
+(C) ser estático e imutável, visto que mudanças na estratégia tecnológica da empresa são previsíveis;
+(D) satisfazer as necessidades dos stakeholders e gerar valor a partir do uso da informação e da tecnologia;
+(E) seguir as práticas do framework de referência, sem modificações em função de peculiaridades de cada empresa.
+
+[GABARITO]
+D

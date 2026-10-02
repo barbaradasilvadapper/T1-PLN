@@ -1,0 +1,18 @@
+ID: 69-059
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista administrativo iii analista de sistemas alesc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A fraude na Internet que usa softwares maliciosos nos quais as vítimas recebem e-mails ou mensagens eletrônicas instantâneas pedindo para verificar ou confirmar uma conta junto a um banco ou provedor de serviços se denomina
+
+[ALTERNATIVAS]
+(A) hoax.
+(B) spam.
+(C) trojan.
+(D) phishing.
+(E) ranzomware.
+
+[GABARITO]
+D
