@@ -102,10 +102,9 @@ termos técnicos, e o BERT não foi feito para palavras isoladas.
 
 ## Uso de IA
 
-- **Claude (Anthropic, pelo Claude Code):** escrita e revisão de parte do código (a classificação de subárea da
-  parte 1, a simplificação dos scripts da parte 2 e os notebooks das partes 3 e 4), dos textos (README,
-  dataset cards e slides) e conferência das 336 questões usadas para medir o acerto da subárea.
-- **Codex (OpenAI):** implementação dos scripts da parte 2.
+- revisão de parte do código (a classificação de subárea da
+  parte 1, a simplificação dos scripts da parte 2 e os notebooks das partes 3 e 4), dos textos e 
+- conferência das 336 questões usadas para medir o acerto da subárea.
 - **Gemini:** é um dos modelos avaliados na parte 4.
 
 Foram feitos sem IA o download das provas e todas as anotações (os 100 pares e o dataset de aula).
