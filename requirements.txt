@@ -1,0 +1,17 @@
+# Dependências de todas as partes (Python 3.11+).
+# Parte 1 também precisa do poppler (pdftotext) instalado no sistema: brew install poppler
+pandas>=2.2
+numpy>=2.0
+scipy>=1.13
+scikit-learn>=1.5
+matplotlib>=3.9
+openpyxl>=3.1
+pyspellchecker>=0.8
+jupyter>=1.0
+spacy>=3.8,<3.9
+torch>=2.4
+transformers>=4.45
+anthropic>=1.0
+pydantic>=2.7
+pt-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.8.0/pt_core_news_sm-3.8.0-py3-none-any.whl
+pt-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.8.0/pt_core_news_lg-3.8.0-py3-none-any.whl

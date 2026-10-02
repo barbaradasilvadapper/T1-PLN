@@ -1,0 +1,18 @@
+ID: 79-066
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista do mpu perito em tecnologia da informacao e comunicacao mpu
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista André está avaliando a consistência do drive de dados de um dispositivo que roda o sistema iOS. Para apoiar tecnicamente sua avaliação, ele deve empregar ferramentas especializadas no sistema de arquivos utilizado atualmente pelo iOS. Sendo assim, André deve empregar ferramentas especializadas em:
+
+[ALTERNATIVAS]
+(A) Unix File System;
+(B) Apple File System;
+(C) Extended File System;
+(D) Hierarchical File System;
+(E) Hierarchical File System Plus.
+
+[GABARITO]
+B

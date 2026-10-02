@@ -1,0 +1,18 @@
+ID: 25-044
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario suporte em tecnologia da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Um órgão que lida com muitos documentos sigilosos sinalizou para sua equipe de Tecnologia da Informação (TI) sua preocupação quanto a uma invasão cibernética e roubo desses documentos. Para incrementar a segurança da rede desse órgão, a equipe de TI instalou um equipamento capaz de verificar as conexões TCP em andamento antes de permitir a passagem de um determinado pacote. O equipamento instalado pela equipe de TI utiliza recursos de:
+
+[ALTERNATIVAS]
+(A) IDS (Intrusion Detection System);
+(B) gateway VPN;
+(C) gateway de aplicação;
+(D) filtro de pacotes tradicionais;
+(E) filtro de estado.
+
+[GABARITO]
+E

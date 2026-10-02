@@ -1,0 +1,18 @@
+ID: 38-043
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Uma equipe de segurança de um órgão público foi designada para realizar testes de penetração no âmbito do Tribunal de Justiça do Distrito Federal e dos Territórios. Como parte da etapa de coleta de informações, a seguinte busca foi realizada em fontes abertas https://www.google.com/search?q=site:tjdft.jus.br. A requisição retornará páginas:
+
+[ALTERNATIVAS]
+(A) que contêm o link tjdft.jus.br;
+(B) com a url tjdft.jus.br;
+(C) que contêm endereços de e-mail tjdft.jus.br;
+(D) que contêm o título tjdft.jus.br;
+(E) dentro do domínio tjdft.jus.br.
+
+[GABARITO]
+E

@@ -1,0 +1,18 @@
+ID: 54-053
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Puppet (versão 8.10.0) é uma ferramenta de automação que possui código-aberto que ajuda tanto administradores quanto os DevOps no gerenciamento e automatização das configurações de servidores. Com relação ao Puppet, avalie afirmativas a seguir. I. É configurado em uma arquitetura agente-servidor, onde um nó primário (sistema) controla informações de configuração para um ou mais nós (agentes) gerenciados. II. Servidores e agentes se comunicam por intermédio do protocolo HTTPS usando certificados SSL. Ele utiliza uma autoridade de certificação oferecida por terceiros para gerenciar seus certificados. III. Todos as configurações e dados gerados pelo Puppet são armazenados no seu repositório de dados e metadados (que pode ser instanciado em qualquer tipo de banco NoSQL). Armazenar os dados e metadados permite que o Puppet opere mais rapidamente e fornece uma API para que outros aplicativos acessarem o repositório com mais segurança. Está correto apenas o que se afirma em
+
+[ALTERNATIVAS]
+(A) I e II.
+(B) I e III.
+(C) II e III.
+(D) II.
+(E) I.
+
+[GABARITO]
+E

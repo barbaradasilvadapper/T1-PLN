@@ -1,0 +1,18 @@
+ID: 57-066
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A gestão de riscos relacionados à TI deve ser realizada de forma integrada à gestão corporativa de riscos, com uma abordagem de balanceamento de custos e benefícios. Diante do contexto apresentado, é correto afirmar que:
+
+[ALTERNATIVAS]
+(A) o investimento necessário para a mitigação do risco deverá ser balizado pelo desejo do gerente de TI. É importante comunicar a tolerância e as probabilidades de ocorrência do risco correspondente;
+(B) em organizações com qualquer nível de governança corporativa, é estabelecido um sistema de gestão de riscos operacionais já com metodologias estabelecidas e com mapas de risco por processo de negócio ou por serviços;
+(C) a avaliação de riscos implica coletar dados e identificar eventos (importantes ameaças reais que exploram significativas vulnerabilidades) com potenciais impactos negativos nos objetivos ou nas operações da organização;
+(D) a manutenção e monitoramento do plano de ação de risco envolvem também a obtenção de aprovações para ações recomendadas, a aceitação de quaisquer riscos residuais e a garantia de que as ações aprovadas sejam assumidas pelos donos dos processos afetados;
+(E) qualquer impacto em potencial, independente de afetar ou não os objetivos da empresa, causado por um evento não planejado deve ser identificado, analisado e avaliado. Estratégias de mitigação de risco devem ser adotadas para minimizar o risco residual a níveis aceitáveis.
+
+[GABARITO]
+D

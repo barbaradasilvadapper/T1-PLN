@@ -31,3 +31,6 @@ venv/
 
 # ---- Arquivos temporários do Office (ex.: ~$DATASET_CARD.xlsx aberto no Excel) ----
 ~$*
+
+# gerado pelo 02_extrair_questoes.py
+parte 1/dados/intermediario/

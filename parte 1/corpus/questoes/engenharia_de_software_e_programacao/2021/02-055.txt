@@ -1,0 +1,18 @@
+ID: 02-055
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de sistemas tj ro
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Joana é a arquiteta de software da equipe de desenvolvimento de sistemas (EDS) de um tribunal e definiu a utilização do REST (REpresentational State Transfer) como estilo arquitetural para a API (Application Programming Interface) que será consumida por aplicações distintas disponibilizadas via Internet. Para atender ao estilo arquitetural definido por Joana, os desenvolvedores devem criar endpoints capazes de:
+
+[ALTERNATIVAS]
+(A) receber requisições que contenham todas as informações necessárias para o servidor entender e responder;
+(B) manter os dados das sessões dos usuários previamente autenticados;
+(C) utilizar WSDL (Web Services Description Language) como protocolo de comunicação entre o cliente e o servidor;
+(D) atender às requisições HTTP/1.1 (Hypertext Transfer Protocol) de buscas de dados, que sejam mais frequentes, de forma otimizada, buscando primeiro no cache mantido no servidor;
+(E) responder às requisições de busca de dados, disponibilizando-os ao cliente como serviços WSDL (Web Services Description Language).
+
+[GABARITO]
+A

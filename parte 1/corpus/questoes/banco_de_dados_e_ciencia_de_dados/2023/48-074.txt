@@ -1,0 +1,18 @@
+ID: 48-074
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O TCE SP contratou a empresa DataAnalysis para analisar as características dos candidatos que estão participando do seu concurso. Para realizar o pré-processamento dos dados, a DataAnalysis coletou e classificou as seguintes informações das variáveis relacionadas aos candidatos: • • • • • Profissão do candidato Nome completo do candidato Número de anos de experiência profissional Idade do candidato, considerando ano e meses Nível de escolaridade (Ensino Médio, Graduação, Pós- Graduação) A variável classificada como qualitativa ordinal pela empresa DataAnalysis foi:
+
+[ALTERNATIVAS]
+(A) Profissão do candidato;
+(B) Nome completo do candidato;
+(C) Número de anos de experiência profissional;
+(D) Idade do candidato, considerando ano e meses;
+(E) Nível de escolaridade (Ensino Médio, Graduação, Pós- Graduação).
+
+[GABARITO]
+E

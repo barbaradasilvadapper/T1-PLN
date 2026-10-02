@@ -1,0 +1,18 @@
+ID: 55-076
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Gerenciar projetos envolve diversos desafios, entretanto há boas práticas que fornecem técnicas e ferramentas que auxiliam no planejamento, na execução e no monitoramento e controle das ações. A esse respeito, assinale a opção correta.
+
+[ALTERNATIVAS]
+(A) O ciclo de vida ágil elimina todos os riscos do projeto, dado que o gerenciamento de mudanças fica facilitado quando se compara com um ciclo de vida preditivo.
+(B) As estratégias de respostas aos riscos dos projetos devem ser prevenir, mitigar, aceitar, transferir e escalar, objetivando diminuir a probabilidade de o risco acontecer ou diminuir o impacto no projeto.
+(C) Metodologias ágeis só devem ser utilizadas em projetos de tecnologia da informação.
+(D) Scrum e Kanban não podem ser utilizados juntos pois o scrum possui papéis e responsabilidades e o Kanban foca em fluxo contínuo de atividades.
+(E) O ciclo de vida de um projeto pode ser escolhido com base na complexidade do projeto, no conhecimento do escopo do que será produzido ou fornecido, na cultura organizacional e na maturidade da equipe técnica que irá trabalhar no projeto.
+
+[GABARITO]
+E

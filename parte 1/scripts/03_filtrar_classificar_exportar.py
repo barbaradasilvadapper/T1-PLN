@@ -17,10 +17,10 @@ from collections import defaultdict
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from comum import CORPUS, INTERMEDIARIO, norm
+from comum import CORPUS, DADOS, INTERMEDIARIO, norm
 from subareas import SUBAREAS, classificar
 
-VERSAO = "1.0"
+VERSAO = "1.1"
 
 # Seções de outras matérias. A questão é descartada se estiver numa dessas seções, a menos que a seção
 # cite TI/dados/segurança ou que a questão seja claramente de TI (pontuação >= 8, cobre títulos de seção
@@ -86,6 +86,12 @@ class Deduplicador:
             self.por_chave.setdefault(k, []).append((texto, q))
 
 
+def ler_revisao():
+    """Rótulos corrigidos à mão (dados/revisao_rotulos.csv). Valem por cima do classificador."""
+    with open(DADOS / "revisao_rotulos.csv", encoding="utf-8") as f:
+        return {l["id"]: l["subarea_revisada"] for l in csv.DictReader(f)}
+
+
 def cargo_orgao(slug):
     return re.sub(r"-fgv-\d{4}(-\d+)?$", "", slug).replace("-", " ")
 
@@ -93,14 +99,20 @@ def cargo_orgao(slug):
 def main():
     brutas = [json.loads(l) for l in open(INTERMEDIARIO / "questoes_brutas.jsonl", encoding="utf-8")]
     boas, descartadas, dedup = [], [], Deduplicador()
+    revisao = ler_revisao()
     for r in brutas:
         sec = r["secao"] or ""
         texto = r["enunciado"] + " " + " ".join(r["alternativas"].values())
         secao_de_ti = bool(SECAO_COMP.search(sec) or SECAO_ESPECIFICA.search(sec))
         area, pont = classificar(texto, secao_de_ti)
+        origem = "palavras_chave"
+        if r["id"] in revisao:
+            area, origem = revisao[r["id"]], "revisao_manual"
         motivos = [p for p in r["problemas"] if p in PROBLEMAS_QUE_DESCARTAM]
         if SECAO_LINGUA.search(sec) or (SECAO_NAO_COMP.search(sec) and not SECAO_COMP.search(sec) and max(pont.values()) < 8):
             motivos.append("fora_de_computacao_secao")
+        elif area == "fora_de_computacao":
+            motivos.append("fora_de_computacao_revisao_manual")
         elif area is None:
             motivos.append("fora_de_computacao_sem_termos_de_TI")
         original = dedup.verificar(r) if not motivos else None
@@ -113,7 +125,7 @@ def main():
                                 "gabarito": r["gabarito"], "pontuacao_subareas": pont})
             continue
         slug = r["prova"][3:]
-        q = {"id": r["id"], "subarea": area, "ano": r["ano"], "banca": r["banca"], "cargo_orgao": cargo_orgao(slug),
+        q = {"id": r["id"], "subarea": area, "origem_subarea": origem, "ano": r["ano"], "banca": r["banca"], "cargo_orgao": cargo_orgao(slug),
              "prova": r["prova"], "url_prova": r["url"], "numero_na_prova": r["numero"], "secao_na_prova": r["secao"],
              "enunciado": r["enunciado"],
              "alternativas": [{"letra": l, "texto": t} for l, t in r["alternativas"].items()],
@@ -138,7 +150,8 @@ def main():
                      for a in SUBAREAS},
         "campos": {
             "id": "NN-QQQ: NN = nº da pasta da prova em dados/pdfs, QQQ = nº da questão na prova",
-            "subarea": "classe atribuída pelo classificador de palavras-chave (scripts/subareas.py)",
+            "subarea": "classe atribuída pelo classificador de palavras-chave (scripts/subareas.py) ou pela revisão manual",
+            "origem_subarea": "palavras_chave ou revisao_manual (dados/revisao_rotulos.csv)",
             "ano": "ano de aplicação da prova", "banca": "banca organizadora",
             "cargo_orgao": "cargo e órgão do concurso", "prova": "pasta da prova em dados/pdfs",
             "url_prova": "página da prova no PCI Concursos", "numero_na_prova": "número da questão no caderno",

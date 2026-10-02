@@ -1,0 +1,18 @@
+ID: 41-057
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas seguranca da informacao tj se
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Yanni, analista de segurança, necessita prever e testar tipos potenciais de entradas não padronizadas que poderiam ser exploradas por um atacante para subverter um programa. Nesse contexto, Yanni afirma que:
+
+[ALTERNATIVAS]
+(A) a técnica de fuzzing é um protocolo de teste de software que usa dados gerados aleatoriamente como entradas para um programa;
+(B) a técnica de fuzzing é também usada por atacantes para identificar bugs potencialmente úteis em softwares comumente utilizados;
+(C) a principal desvantagem da técnica de fuzzing é sua complexidade e o fato de ser livre de suposições sobre a entrada esperada por qualquer programa;
+(D) a capacidade de aplicação em argumentos passados em linhas de comando e protocolos de rede são algumas vulnerabilidades da técnica de fuzzing;
+(E) as saídas também podem ser geradas de acordo com algum gabarito. Tais gabaritos são projetados para examinar cenários com baixa probabilidade de bugs.
+
+[GABARITO]
+B

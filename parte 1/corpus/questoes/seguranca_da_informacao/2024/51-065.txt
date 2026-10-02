@@ -1,0 +1,18 @@
+ID: 51-065
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A Blockchain é uma tecnologia conhecida por sua segurança e transparência. Uma de suas principais características é a descentralização, que elimina a necessidade de uma autoridade central para validar as transações. Um conceito diretamente relacionado a essa característica da Blockchain é o de
+
+[ALTERNATIVAS]
+(A) Contratos Inteligentes.
+(B) Mineração de Dados.
+(C) Machine Learning.
+(D) Tokens de Utilidade.
+(E) Livro-razão distribuído.
+
+[GABARITO]
+E

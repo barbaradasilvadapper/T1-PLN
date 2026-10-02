@@ -1,0 +1,17 @@
+ID: 23-071
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas administrador de banco de dados infraestrutura o m ses mt
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Relacione os algoritmos populares listados a seguir, às suas respectivas definições. 1. Algoritmos de classificação 2. Algoritmos de clustering 3. Algoritmos de gradient boosting 4. Algoritmos de regressão linear ( ) Usam cálculos preditivos para atribuir dados a categorias predefinidas. ( ) mostram ou preveem a relação entre duas variáveis ou dois fatores ajustando uma linha reta contínua aos dados. ( ) Produzem um modelo de previsão que agrupa modelos de previsão fracos por meio de um processo de ensembling que aprimora o desempenho geral do modelo ( ) Dividem os dados em vários grupos determinando o nível de similaridade entre os pontos de dados. apresentada.
+
+[ALTERNATIVAS]
+(A) 2, 3, 4 e 1.
+(B) 3, 2, 1 e 4.
+(C) 1, 4, 3 e 2.
+(D) 4, 1, 2 e 3.
+
+[GABARITO]
+C

@@ -31,7 +31,7 @@ plt.tight_layout(); plt.savefig(OUT / "matrizes_confusao.png", dpi=130)
 # erros: quantos modelos erraram cada questão do teste
 erros = {i: [n for n, r in modelos.items() if r["predicoes_teste"][i] != qs[i]["subarea"]] for i in tf["predicoes_teste"]}
 todos = [i for i, e in erros.items() if len(e) == 3]
-linhas = ["# Parte 3 — comparação dos modelos\n", "| Modelo | F1-macro | Acurácia |", "|---|---:|---:|"]
+linhas = ["# Parte 3 - comparação dos modelos\n", "| Modelo | F1-macro | Acurácia |", "|---|---:|---:|"]
 linhas += [f"| {n} | {r['teste_f1_macro']:.3f} | {r['teste_acuracia']:.3f} |" for n, r in modelos.items()]
 linhas += [f"\nTeste: {len(erros)} questões. Erradas por nenhum modelo: {sum(not e for e in erros.values())}; "
            f"por todos os 3: {len(todos)}; só pelos embeddings (TF-IDF acertou): "

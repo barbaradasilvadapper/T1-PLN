@@ -1,0 +1,18 @@
+ID: 52-079
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Uma forma de garantir que um modelo de linguagem revise cláusulas de confidencialidade em contratos com alta precisão é fornecer exemplos concretos de cláusulas corretas e incorretas, para que o modelo aprenda o padrão desejado antes de analisar novas cláusulas. A técnica de Engenharia de Prompt que descreve corretamente esse processo é chamada:
+
+[ALTERNATIVAS]
+(A) zero-shot prompt.
+(B) self-consistency prompt.
+(C) chain-of-thought prompt.
+(D) soft prompt.
+(E) few-shot prompt.
+
+[GABARITO]
+E

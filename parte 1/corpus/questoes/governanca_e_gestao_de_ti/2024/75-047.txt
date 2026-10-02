@@ -1,0 +1,18 @@
+ID: 75-047
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Considere a modelagem de processos usando BPMN. Seja C um conjunto de construções de fluxo de controle. P = (N,E, tipo) é um modelo de processo se consistir em um conjunto N de nós e um conjunto E de arestas. Nesse caso, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). ( ) N = NA ∩ NE ∩ NG, onde NA é um conjunto de modelos de atividades, NE é um conjunto de modelos de eventos e NG é um conjunto de modelos de gateway. Esses conjuntos são mutuamente disjunto. ( ) E é um conjunto de arestas direcionadas entre nós, tal que E ⊆ N × N, representando controle de fluxo. ( ) tipo : NG → C atribui a cada modelo de gateway uma construção de fluxo de controle.
+
+[ALTERNATIVAS]
+(A) F – F – F.
+(B) F – F – V.
+(C) F – V – V.
+(D) V – F – V.
+(E) V – V – V.
+
+[GABARITO]
+C

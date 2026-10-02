@@ -1,0 +1,18 @@
+ID: 80-036
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Um modelo de índice é uma maneira de informar ao Elasticsearch como configurar um índice quando ele for criado. Os tipos de modelos de índice disponíveis no Elasticsearch são
+
+[ALTERNATIVAS]
+(A) file e directory.
+(B) index e component.
+(C) log, metric e profiler.
+(D) file, volume e dataset.
+(E) blob, hash e collection.
+
+[GABARITO]
+B

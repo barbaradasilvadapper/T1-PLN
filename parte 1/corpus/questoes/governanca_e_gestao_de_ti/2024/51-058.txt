@@ -1,0 +1,18 @@
+ID: 51-058
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+O alinhamento estratégico entre TI e negócios é fundamental para que a TI agregue valor aos objetivos organizacionais e contribua para o sucesso da empresa. Uma prática recomendada para alcançar um alinhamento estratégico eficaz entre TI e os objetivos de negócio é
+
+[ALTERNATIVAS]
+(A) definir indicadores de desempenho que conectem os resultados de TI diretamente aos objetivos estratégicos da organização, revisando-os periodicamente com a alta administração.
+(B) focar o orçamento de TI em inovações tecnológicas de ponta para garantir que a organização seja líder em seu setor.
+(C) ter uma equipe de TI dedicada exclusivamente ao desenvolvimento de novas tecnologias e à automação dos processos internos.
+(D) elaborar um plano de recuperação de desastres para reduzir o tempo de inatividade em caso de incidentes, garantindo continuidade operacional.
+(E) delegar toda a responsabilidade das decisões de TI para a área técnica, permitindo que o setor de TI opere com independência da administração executiva.
+
+[GABARITO]
+A

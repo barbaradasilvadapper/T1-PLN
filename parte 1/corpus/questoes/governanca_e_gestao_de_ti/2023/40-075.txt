@@ -1,0 +1,18 @@
+ID: 40-075
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Como parte da Governança e Gestão de Tecnologia da Informação (TI), um Tribunal de Justiça desenvolveu novos serviços digitais para a sociedade. Após a entrega dos serviços digitais, foram criados meios para o monitoramento da qualidade com o intuito de capturar a percepção de benefícios pela sociedade e atender a melhoria contínua dos serviços. O monitoramento da qualidade dos serviços digitais disponibilizados à sociedade representa uma ação estratégica de:
+
+[ALTERNATIVAS]
+(A) implantação dos serviços;
+(B) sustentação dos serviços;
+(C) otimização do processo do serviço;
+(D) priorização de serviços;
+(E) abrangência dos resultados dos serviços.
+
+[GABARITO]
+B

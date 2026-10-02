@@ -1,0 +1,18 @@
+ID: 10-033
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em um servidor web Apache, o administrador de um host virtual, cujo conteúdo está no diretório “/var/www/html/meusistema/”, utiliza o e-mail admin@meusistema.com.br. O host virtual serve de conteúdo para o domínio meusistema.com.br. No arquivo de configuração do host virtual, essas informações são definidas a partir dos seguintes parâmetros:
+
+[ALTERNATIVAS]
+(A) EmailAdmin admin@meusistema.com.br DocumentRoot /var/www/html/meusistema/ ServerName meusistema.com.br;
+(B) EmailAdmin admin@meusistema.com.br DirectoryRoot /var/www/html/meusistema/ DomainName meusistema.com.br;
+(C) ServerAdmin admin@meusistema.com.br DirectoryRoot /var/www/html/meusistema/ ServerName meusistema.com.br;
+(D) ServerAdmin admin@meusistema.com.br DocumentRoot /var/www/html/meusistema/ DomainName meusistema.com.br;
+(E) ServerAdmin admin@meusistema.com.br DocumentRoot /var/www/html/meusistema/ ServerName meusistema.com.br.
+
+[GABARITO]
+E
