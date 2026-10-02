@@ -1,13 +1,11 @@
-"""Etapa 1 (item c): converte os PDFs em texto.
+"""Converte os PDFs das provas e dos gabaritos em texto (dados/pdfs -> dados/txt).
 
-- Provas: `pdftotext -bbox-layout` (poppler) devolve os blocos de texto com coordenadas. Em cada
-  página os blocos são ordenados por coluna (esquerda -> direita) e, dentro da coluna, de cima para
-  baixo; blocos de largura total (cabeçalho) vêm antes. Sem isso, o texto das provas em duas colunas
-  sai embaralhado. Quebras de página são marcadas com \\f.
-- Gabaritos: `pdftotext -layout`, que preserva o alinhamento da tabela número/resposta.
-- Gabaritos escaneados (imagem) não têm texto: ficam em dados/gabaritos_manuais/NN.txt (transcrição).
+As provas da FGV têm duas colunas. Com o `pdftotext -bbox-layout`, pegamos cada bloco de texto com a
+posição dele na página e montamos o texto coluna por coluna (primeiro a da esquerda, depois a da direita).
+Sem isso, as linhas das duas colunas saem misturadas. As quebras de página viram \f.
 
-Entrada: dados/pdfs/NN_slug/*.pdf      Saída: dados/txt/NN_slug/{prova.txt, gabarito.txt}
+Os gabaritos são tabelas, então usamos o `pdftotext -layout`, que mantém o alinhamento.
+O gabarito da prova 48 é uma imagem escaneada; ele foi digitado à mão em dados/gabaritos_manuais/48.txt.
 """
 import html
 import re

@@ -57,9 +57,9 @@ Banco de Dados e Governança ficaram como subáreas extras, porque tirar essas q
 e o classificador da parte 3 com menos classes.
 
 ```bash
-python3 "parte 1/scripts/01_pdf_para_txt.py"                  # precisa do poppler (pdftotext)
-python3 "parte 1/scripts/02_extrair_questoes.py"
-python3 "parte 1/scripts/03_filtrar_classificar_exportar.py"
+python3 "parte 1/scripts/converter_pdfs.py"     # PDF -> texto (precisa do poppler)
+python3 "parte 1/scripts/extrair_questoes.py"   # separa as questões e junta o gabarito
+python3 "parte 1/scripts/montar_corpus.py"      # filtra, define a subárea e gera o corpus
 ```
 
 As estatísticas estão em `parte 1/estatisticas.ipynb` e o dataset card em `parte 1/dataset_card.xlsx`
@@ -81,9 +81,9 @@ parte 1/
     corpus.csv                 uma linha por questão
     descartadas.json           questões removidas e o motivo
   scripts/
-    01_pdf_para_txt.py         converte os PDFs em texto
-    02_extrair_questoes.py     separa as questões, enunciado e alternativas, e junta o gabarito
-    03_filtrar_classificar_exportar.py   filtra, remove duplicadas, classifica e gera o corpus
+    converter_pdfs.py          converte os PDFs em texto
+    extrair_questoes.py        separa as questões, enunciado e alternativas, e junta o gabarito
+    montar_corpus.py           filtra, remove duplicadas, define a subárea e gera o corpus
     gabarito.py, subareas.py, comum.py   funções usadas pelos scripts acima
   estatisticas.ipynb           estatísticas e gráficos do corpus
   dataset_card.xlsx            dataset card
@@ -161,7 +161,7 @@ qual etapa da classificação decidiu a subárea (ver abaixo).
    | **enunciado 2x + k-NN nas ambíguas (usada)** | **97%** | **69%** |
 
    O stemming piorou porque, reduzindo as palavras ao radical, termos de áreas diferentes passam a coincidir.
-   O arquivo de validação só serve para medir: o script 03 imprime o acerto, mas nenhum rótulo do corpus vem
+   O arquivo de validação só serve para medir: o `montar_corpus.py` imprime o acerto, mas nenhum rótulo do corpus vem
    dele.
 
 ### Limitações
@@ -177,21 +177,20 @@ qual etapa da classificação decidiu a subárea (ver abaixo).
 ## Parte 2: corpus de similaridade de palavras
 
 ```bash
-python3 "parte 2/scripts/01_preprocessar_textos.py" --saida /tmp/passo1.jsonl
-python3 "parte 2/scripts/02_selecionar_palavras.py" --origem /tmp/passo1.jsonl --saida /tmp/passo2.csv
-python3 "parte 2/scripts/03_gerar_pares.py" --origem /tmp/passo2.csv --saida /tmp/passo3.csv
-python3 "parte 2/scripts/04_avaliar_concordancia.py"
+python3 "parte 2/scripts/preprocessar.py"       # tokeniza, lematiza e tira stopwords
+python3 "parte 2/scripts/escolher_palavras.py"  # 200 palavras de maior TF-IDF médio
+python3 "parte 2/scripts/sortear_pares.py"      # 100 pares (semente 42)
+python3 "parte 2/scripts/concordancia.py"       # junta as anotações e mede a concordância
 ```
 
-Os três primeiros scripts não sobrescrevem as saídas que já estão no repositório (por isso o `--saida`).
-Sem esses argumentos, usam os caminhos padrão da tabela.
+Como o sorteio usa semente fixa, rodar de novo gera exatamente os mesmos pares que foram anotados.
 
 | Passo | Script | O que faz | Saída |
 |---|---|---|---|
-| 2a.i | `01_preprocessar_textos.py` | tokeniza, lematiza (spaCy `pt_core_news_sm`) e remove stopwords e termos de instrução ("assinale", "alternativa"...) | `dados/intermediario/questoes_lematizadas.jsonl` |
-| 2a.ii | `02_selecionar_palavras.py` | escolhe os 200 lemas de maior TF-IDF médio (`min_df=5`, `max_df=0.8`, TF logarítmico) | `corpus/palavras.csv` |
-| 2a.iii | `03_gerar_pares.py` | embaralha as 200 palavras (semente 42) e forma 100 pares sem repetição | `corpus/pares.csv` |
-| 2d/e | `04_avaliar_concordancia.py` | valida as notas, calcula a concordância e gera o corpus final | `corpus/corpus_similaridade.csv` e `corpus/concordancia.json` |
+| 2a.i | `preprocessar.py` | tokeniza, lematiza (spaCy `pt_core_news_sm`) e remove stopwords e termos de instrução ("assinale", "alternativa"...) | `dados/intermediario/questoes_lematizadas.jsonl` |
+| 2a.ii | `escolher_palavras.py` | escolhe os 200 lemas de maior TF-IDF médio (`min_df=5`, `max_df=0.8`, TF logarítmico) | `corpus/palavras.csv` |
+| 2a.iii | `sortear_pares.py` | embaralha as 200 palavras (semente 42) e forma 100 pares sem repetição | `corpus/pares.csv` |
+| 2d/e | `concordancia.py` | junta as notas, calcula a concordância e gera o corpus final | `corpus/corpus_similaridade.csv` e `corpus/concordancia.json` |
 
 A escala de anotação (2b) mede semelhança de significado no domínio de TI, não só associação de tema:
 

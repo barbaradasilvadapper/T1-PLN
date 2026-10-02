@@ -1,9 +1,11 @@
-"""Etapa 2 (itens d, e, f): separa as questões (enunciado x alternativas), identifica a seção da
-prova, junta o gabarito e marca questões com problemas de conversão.
+"""Separa as questões de cada prova e junta o gabarito.
 
-Entrada: dados/txt/NN_slug/{prova.txt, gabarito.txt}, dados/gabaritos_manuais/NN.txt
-Saída  : dados/intermediario/questoes_brutas.jsonl  (todas as questões, com a lista de problemas)
-         dados/intermediario/relatorio_extracao.csv (por prova: nº de questões, bloco de gabarito usado)
+Para cada prova em dados/txt: tira cabeçalhos e rodapés, acha a seção de cada questão (Língua Portuguesa,
+Conhecimentos Específicos...), separa o enunciado das alternativas, pega a resposta no gabarito e marca os
+problemas de conversão (símbolo perdido, tabela quebrada, alternativa faltando...).
+
+Saída: dados/intermediario/questoes_brutas.jsonl (todas as questões, com os problemas encontrados)
+       dados/intermediario/relatorio_extracao.csv (por prova: quantas questões e qual bloco do gabarito)
 """
 import csv
 import json
@@ -13,12 +15,12 @@ from collections import Counter
 from comum import GABARITOS_MANUAIS, INTERMEDIARIO, TXT, pastas_de_provas
 from gabarito import blocos, escolher
 
-# Provas cujo gabarito publicado no PCI é de OUTRO cargo (conferido manualmente) -> sem gabarito
+# provas em que o gabarito publicado no PCI é de outro cargo (conferimos à mão); ficam sem gabarito
 GABARITO_INVALIDO = {"53": "o arquivo do PCI traz só o gabarito dos cargos de Técnico, não o de Analista de TI"}
 
 ALT = re.compile(r"^\(([A-E])\)\s*(.*)$")
 
-# Fontes Symbol/Wingdings viram caracteres da área de uso privado (U+F0xx) -> mapeia os inequívocos
+# símbolos das fontes Symbol/Wingdings saem como caracteres estranhos (U+F0xx); trocamos os que dá para saber
 SIMBOLOS = {"": " ", "": "•", "": "•", "": "▪", "": "→", "": "←",
             "": "≥", "": "≤", "": "≠", "": "×", "": "÷", "": "⇒",
             "": "⇔", "": "±", "": "∞", "": "√", "": "∑", "": "∈"}
@@ -83,7 +85,7 @@ def separar(texto):
     linhas = limpar_cabecalhos(brutas)
     total_A = sum(1 for l in linhas if l.startswith("(A)"))
 
-    # número colado no fim da linha anterior ("...réus.8") -> separa
+    # número da questão grudado no fim da linha anterior ("...réus.8"): separa
     sep = []
     for l in linhas:
         m = re.match(r"^(.*[.;:)”\"?!])(\d{1,3})$", l)
@@ -141,7 +143,7 @@ def separar(texto):
                 alts[atual].append(l)
             else:
                 enun.append(l)
-        # texto compartilhado grudado na última alternativa -> vai para o enunciado da próxima questão
+        # texto de apoio da próxima questão grudado na última alternativa: passa para a próxima questão
         contexto_proxima = []
         if atual:
             for k, l in enumerate(alts[atual]):

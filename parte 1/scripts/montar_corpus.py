@@ -1,12 +1,12 @@
-"""Etapa 3 (itens a, d, e, h): filtra, remove duplicatas, classifica por subárea, organiza e exporta.
+"""Monta o corpus final a partir das questões extraídas (dados/intermediario/questoes_brutas.jsonl).
 
-Entrada: dados/intermediario/questoes_brutas.jsonl
-Saídas (pasta corpus/):
-  corpus.json                         -> dataset final (metadados + lista de questões)       [item h]
-  por_subarea/<subarea>.json          -> mesmas questões agrupadas por subárea e ano           [item e]
-  questoes/<subarea>/<ano>/<id>.txt   -> uma questão por arquivo: [ENUNCIADO] [ALTERNATIVAS] [GABARITO]
-  corpus.csv                          -> uma linha por questão (para planilha)
-  descartadas.json                    -> questões removidas e o motivo                          [item d]
+Descarta as questões que não são de computação, que tiveram problema na conversão, que não têm gabarito
+ou que são repetidas, define a subárea de cada uma e grava em corpus/:
+  corpus.json        corpus final (metadados + lista de questões)
+  corpus.csv         uma linha por questão
+  por_subarea/       as mesmas questões separadas por subárea e agrupadas por ano
+  questoes/          um .txt por questão, em pastas de subárea e ano
+  descartadas.json   as questões removidas e o motivo
 """
 import csv
 import difflib
@@ -18,36 +18,28 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from comum import CORPUS, DADOS, INTERMEDIARIO, norm
-from subareas import SUBAREAS, classificar, refinar
+from subareas import SUBAREAS, eh_de_computacao, refinar
 
 VERSAO = "1.1"
 
-# Seções de outras matérias. A questão é descartada se estiver numa dessas seções, a menos que a seção
-# cite TI/dados/segurança ou que a questão seja claramente de TI (pontuação >= 8, cobre títulos de seção
-# que não puderam ser extraídos do PDF).
+# Seções de outras matérias. A questão dessas seções é descartada, a não ser que o título da seção fale de
+# TI ou que a questão tenha muitos termos de TI (8 pontos ou mais; acontece quando o título da seção não
+# foi extraído direito do PDF).
 SECAO_NAO_COMP = re.compile(
     r"portugu|ingl|direito|legisla|racioc|matem|atualidad|hist[oó]ria|geografia|[ée]tica|sustentab|"
     r"administra[cç][aã]o p[uú]blica|administra[cç][aã]o financeira|contab|auditoria governamental|controle externo|"
     r"banc[aá]rio|sus\b|normas espec|organiza[cç][aã]o do minist|filosofia|estat[ií]stica|"
     r"conhecimentos gerais|conhecimentos b[aá]sicos|CONHECIMENTOS (GERAIS|B[AÁ]SICOS)|C ONHECIMENTOS (G|B)", re.I)
 SECAO_COMP = re.compile(r"inform[aá]|tecnolog|\bTI\b|T\. ?I\.|seguran[cç]a da informa|dados|sistemas de informa|governan[cç]a", re.I)
-SECAO_LINGUA = re.compile(r"l[íi]ngua|portugu|ingl|L[ÍI]NGUA|PORTUGU|INGL", re.I)   # nunca é de TI (sem exceção)
+SECAO_LINGUA = re.compile(r"l[íi]ngua|portugu|ingl|L[ÍI]NGUA|PORTUGU|INGL", re.I)   # sempre descartada
 SECAO_ESPECIFICA = re.compile(r"espec[ií]fic|ESPEC", re.I)
 
+# problemas marcados pelo extrair_questoes.py que fazem a questão ser descartada
 PROBLEMAS_QUE_DESCARTAM = {
-    "simbolo_nao_convertido": "símbolo de fonte especial não convertido",
-    "fragmento_solto": "expoente/índice/tabela quebrados na conversão",
-    "alternativas_incompletas": "alternativas faltando",
-    "questoes_mescladas": "duas questões grudadas na conversão",
-    "alternativa_vazia": "alternativa sem texto",
-    "espaco_de_simbolo_perdido": "símbolo perdido (espaço duplo)",
-    "caracteres_estranhos": "excesso de caracteres estranhos",
-    "enunciado_curto": "enunciado curto/incompleto",
-    "depende_de_imagem": "depende de figura/imagem",
-    "depende_de_texto_de_outra_questao": "cita texto/tabela que não está no enunciado",
-    "alternativa_com_texto_extra": "alternativa com texto de outra questão grudado",
-    "sem_gabarito": "sem gabarito",
-    "questao_anulada": "questão anulada",
+    "simbolo_nao_convertido", "fragmento_solto", "alternativas_incompletas", "questoes_mescladas",
+    "alternativa_vazia", "espaco_de_simbolo_perdido", "caracteres_estranhos", "enunciado_curto",
+    "depende_de_imagem", "depende_de_texto_de_outra_questao", "alternativa_com_texto_extra",
+    "sem_gabarito", "questao_anulada",
 }
 
 NOMES_SUBAREAS = {
@@ -64,9 +56,9 @@ def _n(t):
 
 
 class Deduplicador:
-    """Quase-duplicatas: mesma questão em provas diferentes do mesmo concurso, às vezes com uma frase
-    a mais ou a menos. Candidatas = mesmo início de enunciado OU mesmas alternativas; confirmadas se o
-    texto completo tiver similaridade >= 0.9 (difflib)."""
+    """Acha questões repetidas: a mesma questão aparece em provas diferentes do mesmo concurso, às vezes
+    com uma frase a mais ou a menos. Comparamos só as questões com o mesmo começo de enunciado ou as mesmas
+    alternativas, e consideramos repetida quando o texto inteiro é pelo menos 90% igual (difflib)."""
 
     def __init__(self):
         self.por_chave = {}
@@ -109,11 +101,11 @@ def main():
         sec = r["secao"] or ""
         texto = r["enunciado"] + " " + " ".join(r["alternativas"].values())
         secao_de_ti = bool(SECAO_COMP.search(sec) or SECAO_ESPECIFICA.search(sec))
-        area, pont = classificar(texto, secao_de_ti)
+        computacao, pont = eh_de_computacao(texto, secao_de_ti)
         motivos = [p for p in r["problemas"] if p in PROBLEMAS_QUE_DESCARTAM]
         if SECAO_LINGUA.search(sec) or (SECAO_NAO_COMP.search(sec) and not SECAO_COMP.search(sec) and max(pont.values()) < 8):
             motivos.append("fora_de_computacao_secao")
-        elif area is None:
+        elif not computacao:
             motivos.append("fora_de_computacao_sem_termos_de_TI")
         original = dedup.verificar(r) if not motivos else None
         if original is not None:
@@ -125,7 +117,7 @@ def main():
                                 "gabarito": r["gabarito"], "pontuacao_subareas": pont})
             continue
         slug = r["prova"][3:]
-        q = {"id": r["id"], "subarea": area, "origem_subarea": "palavras_chave", "ano": r["ano"], "banca": r["banca"], "cargo_orgao": cargo_orgao(slug),
+        q = {"id": r["id"], "subarea": None, "origem_subarea": None, "ano": r["ano"], "banca": r["banca"], "cargo_orgao": cargo_orgao(slug),
              "prova": r["prova"], "url_prova": r["url"], "numero_na_prova": r["numero"], "secao_na_prova": r["secao"],
              "enunciado": r["enunciado"],
              "alternativas": [{"letra": l, "texto": t} for l, t in r["alternativas"].items()],
@@ -134,7 +126,6 @@ def main():
         dedup.registrar(r, q)
         boas.append(q)
 
-    # 2ª etapa: as questões ambíguas para as palavras-chave são decididas por um k-NN treinado nas outras
     subareas, origens = refinar(boas)
     for q, subarea, origem in zip(boas, subareas, origens):
         q["subarea"] = subarea
@@ -172,7 +163,7 @@ def main():
     with open(CORPUS / "corpus.json", "w", encoding="utf-8") as f:
         json.dump({"metadados": metadados, "questoes": boas}, f, ensure_ascii=False, indent=2)
 
-    # recria as pastas de saída do zero (evita arquivos de execuções anteriores)
+    # apaga as pastas antes, para não sobrar arquivo de uma execução anterior
     for pasta in ("por_subarea", "questoes"):
         shutil.rmtree(CORPUS / pasta, ignore_errors=True)
     (CORPUS / "por_subarea").mkdir(exist_ok=True)

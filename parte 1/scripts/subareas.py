@@ -1,14 +1,16 @@
-"""Classificador de subárea por dicionário de termos (palavras-chave ponderadas).
+"""Classificação das questões por subárea.
 
-Cada termo tem peso 2 (característico da subárea) ou 1 (genérico). A pontuação de uma subárea é a
-soma dos pesos dos termos encontrados no texto (enunciado + alternativas), comparando sem acento, em
-minúsculas e com limites de palavra. Termos de peso 1 contam só uma vez por questão. A questão vai para a subárea de maior pontuação se
-houver ao menos um termo de peso 2 dessa subárea e:
-  - pontuação >= 3; ou
-  - a questão está numa seção de TI da prova e pontuação >= 2.
-Caso contrário, é considerada fora de computação.
+Primeiro, cada subárea ganha pontos pelos termos dela que aparecem na questão: peso 2 para termos
+característicos ("cobit", "ipsec", "select") e peso 1 para termos genéricos ("dados", "projeto").
+A comparação é feita sem acento e em minúsculas. Essa pontuação também decide se a questão é de computação.
+
+Depois, as questões em que duas subáreas ficam quase empatadas são decididas por um k-NN treinado nas
+outras (função refinar).
 """
 import re
+
+from sklearn import neighbors
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 from comum import norm
 
@@ -110,13 +112,13 @@ _PADROES = {area: [(peso, re.compile(r"(?<![\w])" + re.escape(norm(t)) + r"(?![\
 
 
 def _preparar(texto):
-    # expressão de redes que contém um termo de segurança ("controle de acesso")
+    # "controle de acesso ao meio" é de redes, mas contém "controle de acesso", que é termo de segurança
     return re.sub(r"controle de acesso ao meio", "mac_camada_enlace csma/cd", norm(texto))
 
 
 def pontuar(texto):
-    """Termos de peso 2 contam cada ocorrência (até 3 vezes); termos de peso 1 contam só a presença,
-    para que uma palavra genérica repetida ("dados", "projeto", "servidor") não decida sozinha."""
+    """Pontos de cada subárea. Termos de peso 2 contam até 3 vezes; termos de peso 1 contam uma vez só,
+    para que uma palavra genérica repetida ("dados", "servidor") não decida sozinha."""
     t = _preparar(texto)
     sc = {}
     for a, pads in _PADROES.items():
@@ -133,21 +135,26 @@ def termos_fortes(texto, area):
     return sum(1 for p, rx in _PADROES[area] if p == 2 and rx.search(t))
 
 
-PESO_ENUNCIADO = 2   # o assunto da questão está no enunciado; as alternativas trazem termos de outras áreas
-MARGEM_SEMENTE = 4   # diferença mínima entre a 1ª e a 2ª subárea para o rótulo por palavras-chave ser confiável
+def eh_de_computacao(texto, secao_de_ti=False):
+    """A questão é de computação se a subárea com mais pontos tem pelo menos um termo de peso 2 e soma
+    pelo menos 3 pontos (ou 2, quando a questão está numa seção de TI da prova)."""
+    pontos = pontuar(texto)
+    area = max(pontos, key=pontos.get)
+    minimo = 2 if secao_de_ti else LIMIAR
+    return termos_fortes(texto, area) >= 1 and pontos[area] >= minimo, pontos
+
+
+PESO_ENUNCIADO = 2   # o assunto está no enunciado; as alternativas costumam citar termos de outras áreas
+MARGEM = 4           # diferença mínima entre a 1ª e a 2ª subárea para confiar nas palavras-chave
 
 
 def refinar(questoes):
-    """Segunda etapa da classificação, para as questões ambíguas.
+    """Define a subárea de cada questão.
 
-    1. Pontua cada questão pelas palavras-chave, com o enunciado valendo o dobro das alternativas.
-    2. Se a 1ª subárea tem pelo menos MARGEM_SEMENTE pontos a mais que a 2ª, o rótulo é confiável.
-    3. As questões confiáveis treinam um TF-IDF + k-NN (k=3, como no notebook de classificação da aula),
-       que decide a subárea das ambíguas.
-    Devolve duas listas: a subárea de cada questão e de onde ela veio ("palavras_chave" ou "knn")."""
-    from sklearn import neighbors
-    from sklearn.feature_extraction.text import TfidfVectorizer
-
+    Soma os pontos das palavras-chave, com o enunciado valendo o dobro. Se a 1ª subárea tem pelo menos
+    MARGEM pontos a mais que a 2ª, fica ela. As questões que não passam disso são classificadas por um
+    TF-IDF + k-NN (k=3, como no notebook de classificação da aula) treinado nas outras.
+    Devolve a subárea de cada questão e de onde ela veio ("palavras_chave" ou "knn")."""
     subareas, confiavel, textos = [], [], []
     for q in questoes:
         alternativas = " ".join(a["texto"] for a in q["alternativas"])
@@ -156,7 +163,7 @@ def refinar(questoes):
         total = {a: PESO_ENUNCIADO * pontos_enunciado[a] + pontos_alternativas[a] for a in SUBAREAS}
         ordem = sorted(total, key=total.get, reverse=True)
         subareas.append(ordem[0])
-        confiavel.append(total[ordem[0]] - total[ordem[1]] >= MARGEM_SEMENTE)
+        confiavel.append(total[ordem[0]] - total[ordem[1]] >= MARGEM)
         textos.append(q["enunciado"] + " " + q["enunciado"] + " " + alternativas)
 
     treino = [i for i in range(len(questoes)) if confiavel[i]]
@@ -172,19 +179,3 @@ def refinar(questoes):
 
     origens = ["palavras_chave" if c else "knn" for c in confiavel]
     return subareas, origens
-
-
-def classificar(texto, secao_de_ti=False):
-    """Exige ao menos um termo característico (peso 2) da subárea vencedora e pontuação >= 3
-    (>= 2 quando a questão está numa seção de TI da prova)."""
-    sc = pontuar(texto)
-    area, s = max(sc.items(), key=lambda kv: kv[1])
-    if not (termos_fortes(texto, area) >= 1 and (s >= LIMIAR or (secao_de_ti and s >= 2))):
-        return None, sc
-    # desempate: questões de segurança costumam vir num contexto de redes ou de software, cujos termos
-    # genéricos inflam a pontuação dessas subáreas. Se segurança está a no máximo 1 ponto da vencedora e
-    # a questão tem >= 2 termos característicos distintos de segurança, fica em segurança.
-    seg = "seguranca_da_informacao"
-    if area != seg and sc[seg] >= s - 1 and termos_fortes(texto, seg) >= 2:
-        area = seg
-    return area, sc
