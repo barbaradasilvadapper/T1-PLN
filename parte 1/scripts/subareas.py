@@ -138,30 +138,40 @@ MARGEM_SEMENTE = 4   # diferença mínima entre a 1ª e a 2ª subárea para o r�
 
 
 def refinar(questoes):
-    """Segunda etapa da classificação. As questões em que as palavras-chave dão uma subárea com folga
-    (margem >= MARGEM_SEMENTE) viram sementes; um TF-IDF + k-NN (k=3, como no notebook de classificação da
-    disciplina) treinado só nelas decide as questões ambíguas. Devolve (subáreas, origens) na ordem de `questoes`."""
-    from sklearn.feature_extraction.text import TfidfVectorizer
-    from sklearn.neighbors import KNeighborsClassifier
-    from sklearn.pipeline import make_pipeline
+    """Segunda etapa da classificação, para as questões ambíguas.
 
-    areas = list(SUBAREAS)
-    rotulos, sementes, textos = [], [], []
+    1. Pontua cada questão pelas palavras-chave, com o enunciado valendo o dobro das alternativas.
+    2. Se a 1ª subárea tem pelo menos MARGEM_SEMENTE pontos a mais que a 2ª, o rótulo é confiável.
+    3. As questões confiáveis treinam um TF-IDF + k-NN (k=3, como no notebook de classificação da aula),
+       que decide a subárea das ambíguas.
+    Devolve duas listas: a subárea de cada questão e de onde ela veio ("palavras_chave" ou "knn")."""
+    from sklearn import neighbors
+    from sklearn.feature_extraction.text import TfidfVectorizer
+
+    subareas, confiavel, textos = [], [], []
     for q in questoes:
-        enun = pontuar(q["enunciado"])
-        alts = pontuar(" ".join(a["texto"] for a in q["alternativas"]))
-        sc = sorted(((PESO_ENUNCIADO * enun[a] + alts[a], a) for a in areas), reverse=True)
-        rotulos.append(sc[0][1])
-        sementes.append(sc[0][0] - sc[1][0] >= MARGEM_SEMENTE)
-        textos.append((q["enunciado"] + " ") * PESO_ENUNCIADO + " ".join(a["texto"] for a in q["alternativas"]))
-    modelo = make_pipeline(TfidfVectorizer(sublinear_tf=True, min_df=2),
-                           KNeighborsClassifier(n_neighbors=3))
-    modelo.fit([t for t, s in zip(textos, sementes) if s], [r for r, s in zip(rotulos, sementes) if s])
-    ambiguas = [i for i, s in enumerate(sementes) if not s]
-    for i, r in zip(ambiguas, modelo.predict([textos[i] for i in ambiguas])):
-        rotulos[i] = r
-    origens = ["palavras_chave" if s else "modelo_sementes" for s in sementes]
-    return rotulos, origens
+        alternativas = " ".join(a["texto"] for a in q["alternativas"])
+        pontos_enunciado = pontuar(q["enunciado"])
+        pontos_alternativas = pontuar(alternativas)
+        total = {a: PESO_ENUNCIADO * pontos_enunciado[a] + pontos_alternativas[a] for a in SUBAREAS}
+        ordem = sorted(total, key=total.get, reverse=True)
+        subareas.append(ordem[0])
+        confiavel.append(total[ordem[0]] - total[ordem[1]] >= MARGEM_SEMENTE)
+        textos.append(q["enunciado"] + " " + q["enunciado"] + " " + alternativas)
+
+    treino = [i for i in range(len(questoes)) if confiavel[i]]
+    ambiguas = [i for i in range(len(questoes)) if not confiavel[i]]
+
+    vectorizer = TfidfVectorizer(sublinear_tf=True, min_df=2)
+    X_treino = vectorizer.fit_transform([textos[i] for i in treino])
+    X_ambiguas = vectorizer.transform([textos[i] for i in ambiguas])
+    knn = neighbors.KNeighborsClassifier(n_neighbors=3)
+    knn.fit(X_treino, [subareas[i] for i in treino])
+    for i, subarea in zip(ambiguas, knn.predict(X_ambiguas)):
+        subareas[i] = subarea
+
+    origens = ["palavras_chave" if c else "knn" for c in confiavel]
+    return subareas, origens
 
 
 def classificar(texto, secao_de_ti=False):

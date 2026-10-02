@@ -87,14 +87,15 @@ class Deduplicador:
 
 
 def validar(questoes):
-    """Mede o acerto da classificação em dados/validacao_rotulos.csv (questões conferidas à mão; só avaliação)."""
+    """Mostra o acerto da subárea nas questões conferidas à mão (dados/validacao_rotulos.csv).
+    Esse arquivo só serve para medir; nenhum rótulo do corpus vem dele."""
+    subarea = {q["id"]: q["subarea"] for q in questoes}
     with open(DADOS / "validacao_rotulos.csv", encoding="utf-8") as f:
-        ref = list(csv.DictReader(f))
-    atual = {q["id"]: q["subarea"] for q in questoes}
-    for conjunto in sorted({r["conjunto"] for r in ref}):
-        rs = [r for r in ref if r["conjunto"] == conjunto and r["id"] in atual]
-        ok = sum(atual[r["id"]] == r["subarea_correta"] for r in rs)
-        print(f"validação ({conjunto}): {ok}/{len(rs)} = {ok / len(rs):.1%}")
+        conferidas = list(csv.DictReader(f))
+    for conjunto in ["amostra_aleatoria", "questoes_dificeis"]:
+        linhas = [l for l in conferidas if l["conjunto"] == conjunto]
+        acertos = sum(subarea.get(l["id"]) == l["subarea_correta"] for l in linhas)
+        print(f"validação ({conjunto}): {acertos}/{len(linhas)} = {acertos / len(linhas):.1%}")
 
 
 def cargo_orgao(slug):
@@ -133,9 +134,11 @@ def main():
         dedup.registrar(r, q)
         boas.append(q)
 
-    # 2ª etapa: questões ambíguas para as palavras-chave são decididas por um modelo treinado nas não ambíguas
-    for q, (area, origem) in zip(boas, zip(*refinar(boas))):
-        q["subarea"], q["origem_subarea"] = area, origem
+    # 2ª etapa: as questões ambíguas para as palavras-chave são decididas por um k-NN treinado nas outras
+    subareas, origens = refinar(boas)
+    for q, subarea, origem in zip(boas, subareas, origens):
+        q["subarea"] = subarea
+        q["origem_subarea"] = origem
     validar(boas)
 
     boas.sort(key=lambda q: (q["subarea"], q["ano"], q["id"]))
@@ -155,7 +158,7 @@ def main():
         "campos": {
             "id": "NN-QQQ: NN = nº da pasta da prova em dados/pdfs, QQQ = nº da questão na prova",
             "subarea": "classe atribuída por scripts/subareas.py (palavras-chave + k-NN treinado nas sementes)",
-            "origem_subarea": "palavras_chave (margem >= 4) ou modelo_sementes (questão ambígua)",
+            "origem_subarea": "palavras_chave (margem >= 4) ou knn (questão ambígua)",
             "ano": "ano de aplicação da prova", "banca": "banca organizadora",
             "cargo_orgao": "cargo e órgão do concurso", "prova": "pasta da prova em dados/pdfs",
             "url_prova": "página da prova no PCI Concursos", "numero_na_prova": "número da questão no caderno",

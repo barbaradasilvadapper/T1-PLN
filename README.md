@@ -2,20 +2,40 @@
 
 Grupo: Ana Carolina Poletto, Bárbara Dapper, João Pedro Martins, Luiza Pasini e Rafaela Remião.
 
-| Parte | Pasta | Entregável |
-|---|---|---|
-| 1. Corpus de questões | `parte 1/` | 2.506 questões da FGV com gabarito e subárea, estatísticas e dataset card |
-| 2. Corpus de similaridade | `parte 2/` | 100 pares de palavras anotados por duas pessoas, concordância e dataset card |
-| 3. Classificação | `parte 3/` | classificador de questões por subárea (TF-IDF, spaCy e BERT) |
-| 4. Similaridade de palavras | `parte 4/` | analisador de similaridade (spaCy, BERT e LLM) comparado com as notas humanas |
+## Organização do repositório
 
-Todas as partes seguem a mesma estrutura: `scripts/` com os scripts numerados na ordem em que rodam, e as
-saídas em `corpus/` (partes 1 e 2) ou `resultados/` (partes 3 e 4). Os comandos abaixo rodam a partir da raiz
-do repositório.
+| Pasta | O que tem | Como roda |
+|---|---|---|
+| `parte 1/` | corpus de questões: PDFs, textos, scripts, corpus final, estatísticas e dataset card | scripts em `parte 1/scripts/` |
+| `parte 2/` | corpus de similaridade: scripts, anotações, corpus final e dataset card | scripts em `parte 2/scripts/` |
+| `parte 3/` | classificação das questões (`classificacao.ipynb`) e resultados | notebook |
+| `parte 4/` | similaridade de palavras (`similaridade.ipynb`), dataset de aula, notas do LLM e resultados | notebook |
+| `entregaveis/` | cópia do que o enunciado pede para entregar (ver abaixo) | gerada por `gerar_entregaveis.py` |
+
+As partes 1 e 2 são pipelines de vários passos, por isso ficaram em scripts numerados. As partes 3 e 4 são
+notebooks, no mesmo formato dos notebooks da disciplina, e já estão salvos com as saídas.
+
+### Instalação
 
 ```bash
 pip install -r requirements.txt
 ```
+
+Testado com Python 3.13. A parte 1 também usa o `pdftotext` (no macOS: `brew install poppler`), mas só para
+refazer a conversão dos PDFs.
+
+### Entregáveis
+
+A pasta `entregaveis/` junta o que o enunciado pede, em uma pasta por item. Ela é uma cópia: depois de mudar
+alguma parte, rode `python3 gerar_entregaveis.py` para atualizar.
+
+| Entregável | Pasta | Conteúdo |
+|---|---|---|
+| Corpus de questões | `entregaveis/1_corpus_questoes/` | `corpus.json`, `corpus.csv`, questões por subárea e ano, descartadas, estatísticas e dataset card |
+| Corpus de similaridade | `entregaveis/2_corpus_similaridade/` | `corpus_similaridade.csv`, anotações das duas anotadoras, concordância e dataset card |
+| Classificador de questões | `entregaveis/3_classificador_questoes/` | notebook executado, tabela de resultados e gráficos |
+| Analisador de similaridade | `entregaveis/4_analisador_similaridade/` | notebook executado, correlações, gráfico e notas do LLM |
+| Apresentação | `entregaveis/5_apresentacao/` | (a fazer) |
 
 ## Parte 1: corpus de questões
 
@@ -187,117 +207,105 @@ nota em 89 pares e, nos outros 11, a diferença foi de um ponto. O kappa de Cohe
 0,85) e o Spearman entre as duas, 0,83. Como os pares foram sorteados, a maioria das notas ficou baixa: 66 pares
 receberam 1 das duas. O dataset card está em `parte 2/dataset_card.xlsx`, no mesmo template da parte 1.
 
-
 A escala da parte 2 tem os mesmos cinco graus da planilha de anotação feita em aula, só que com outros números:
 1 (nenhuma) = 0 (nada similar), 2 (baixa) = 0,25, 3 (moderada) = 0,5, 4 (alta) = 0,75 e 5 (muito alta) = 1
 (sinônimos). Na parte 4 convertemos as notas para a escala da aula, para comparar os dois datasets do mesmo jeito.
 
 ## Parte 3: classificação das questões por subárea
 
-```bash
-python3 "parte 3/scripts/01_tfidf.py"        # 3a: BoW + TF-IDF
-python3 "parte 3/scripts/02_embeddings.py"   # 3b: spaCy e BERT
-python3 "parte 3/scripts/03_analise.py"      # 3c: comparação e matrizes de confusão
-```
+Notebook: `parte 3/classificacao.ipynb`. Ele segue o notebook de exemplo da disciplina (*Exemplo de
+Categorização de Texto usando k-nn e Bow com Tfidf*): mesma divisão treino/teste (80/20, estratificada,
+`random_state=42`), `TfidfVectorizer` com as stopwords do spaCy e classificador k-NN com k=3. Para cada
+representação testamos também a regressão logística, que costuma se sair melhor com vetores de muitas
+dimensões. O texto de cada questão é o enunciado mais as alternativas.
 
-Todos os modelos usam o mesmo texto (enunciado + alternativas) e a mesma divisão: 80% treino e 20% teste,
-estratificada, com `random_state=42`, como no notebook de exemplo da disciplina. Os parâmetros foram
-escolhidos com validação cruzada de 5 partes só no treino, e o teste foi usado uma vez, no fim. Como as
-classes são desbalanceadas, a métrica principal é o F1-macro. As saídas ficam em `parte 3/resultados/`.
+Os parâmetros foram escolhidos com validação cruzada de 5 partes, só no treino; o teste foi usado uma vez, no
+fim. A métrica principal é o F1-macro, porque as classes são desbalanceadas (Governança tem 139 questões).
 
-### 3a. BoW + TF-IDF
+### 3a. Bag of Words + TF-IDF
 
-`TfidfVectorizer` com minúsculas e TF logarítmico (`sublinear_tf=True`), e regressão logística com
-`class_weight="balanced"` por causa de Governança.
-
-| Tamanho da BoW (`max_features`) | 200 | 500 | 1.000 | 2.000 | 5.000 | 10.000 | todas |
+| `max_features` (comprimento da BoW) | 200 | 500 | 1.000 | 2.000 | 5.000 | 10.000 | todas |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| F1-macro (validação cruzada) | 0,754 | 0,837 | 0,876 | 0,896 | 0,908 | **0,909** | 0,909 |
+| k-NN (k=3) | 0,548 | 0,515 | 0,829 | 0,868 | 0,889 | **0,892** | 0,891 |
+| Regressão logística | 0,791 | 0,849 | 0,890 | 0,910 | **0,915** | 0,914 | 0,913 |
 
-O resultado sobe rápido até umas 2.000 palavras e quase não muda depois de 5.000. Ficamos com 10.000, o melhor
-valor, que corresponde a uns 60% do vocabulário (~17 mil types): as palavras que ficam de fora aparecem uma
-ou duas vezes no corpus e não ajudam a separar as subáreas.
+Os dois classificadores melhoram até umas 5.000 palavras e depois estabilizam. Ficamos com 10.000: é o
+melhor valor do k-NN e praticamente o mesmo da regressão logística. As palavras que ficam de fora (o
+vocabulário tem ~17 mil) aparecem uma ou duas vezes no corpus e não ajudam a separar as subáreas. Com uma BoW
+muito pequena o k-NN vai mal, porque muitas questões ficam com o vetor quase vazio.
 
-| Variação (com 10.000 termos) | F1-macro (validação cruzada) |
-|---|---:|
-| unigramas, `min_df=1` | 0,909 |
-| unigramas + bigramas | 0,901 |
-| stopwords do spaCy | **0,914** |
-| stopwords do spaCy + `max_df=0.8` | 0,914 |
-| lemas sem stopwords (pré-processamento da parte 2) | 0,909 |
-| k-NN (k=3) no lugar da regressão logística | 0,885 |
+| Variação (10.000 termos) | k-NN | Regressão logística |
+|---|---:|---:|
+| sem stopwords | 0,888 | 0,909 |
+| stopwords do spaCy | **0,892** | 0,914 |
+| stopwords + bigramas | 0,876 | **0,918** |
+| stopwords + `max_df=0.8` | 0,892 | 0,914 |
 
-Bigramas e lematização não ajudaram: com 2 mil questões de treino os bigramas ficam raros, e o lematizador do
-spaCy erra muito termo técnico. As stopwords ajudaram um pouco. O `max_df=0.8` não mudou nada, porque depois
-de tirar as stopwords nenhuma palavra aparece em 80% das questões. O k-NN do notebook da disciplina ficou
-2 a 3 pontos atrás: em vetores com milhares de dimensões, a distância entre duas questões diz pouco, e a
-regressão logística aprende quais palavras importam para cada classe.
+As stopwords ajudam um pouco. O `max_df=0.8` do notebook da aula não muda nada, porque depois de tirar as
+stopwords nenhuma palavra aparece em 80% das questões. Os bigramas melhoram um pouco a regressão logística,
+mas pioram o k-NN e deixam o vocabulário bem maior; ficamos com unigramas.
 
-Modelo final: 10.000 termos, unigramas, stopwords do spaCy e regressão logística. As palavras de maior peso
-em cada classe fazem sentido (BD: dados, banco, sql, tabela; Redes: rede, nuvem, linux, ip; Segurança:
-segurança, autenticação, criptografia, ataque; Governança: itil, processos, projetos, governança).
+Vetorizador final: `max_features=10000`, unigramas, stopwords do spaCy, `sublinear_tf=True` e normalização L2.
+As palavras de maior peso em cada classe na regressão logística fazem sentido (BD: dados, banco, sql;
+Eng. Software: código, desenvolvimento, scrum; Governança: itil, cobit, bpmn; Redes: rede, nuvem, linux;
+Segurança: segurança, autenticação, criptografia).
 
 ### 3b. Word embeddings
 
-Cada questão vira um vetor, que vai para a mesma regressão logística (com padronização). Os modelos não foram
-ajustados (sem fine-tuning); só geram os vetores.
+Cada questão vira um único vetor, que vai para os mesmos classificadores. Os modelos não foram ajustados
+(sem fine-tuning); só geram os vetores.
 
-- **Estático, spaCy `pt_core_news_lg`:** média dos vetores de 300 dimensões das palavras da questão.
+- **Estático, spaCy `pt_core_news_lg`:** `doc.vector`, a média dos vetores de 300 dimensões das palavras.
 - **Transformer, BERTimbau (`neuralmind/bert-base-portuguese-cased`):** usamos o BERT treinado em português em
-  vez do `bert-base-uncased`, que é em inglês. Média dos vetores de 768 dimensões dos tokens da última camada
-  (sem o padding), com o texto cortado em 512 tokens.
+  vez do `bert-base-uncased`, que é em inglês. Vetor de 768 dimensões, média dos tokens da última camada, com
+  o texto cortado em 512 tokens.
 
 ### 3c. Resultados no teste (502 questões)
 
-| Modelo | F1-macro | Acurácia | BD | Eng. Software | Governança | Redes | Segurança |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| TF-IDF + regressão logística | **0,910** | **0,912** | 0,91 | 0,92 | 0,89 | 0,90 | 0,93 |
-| spaCy `pt_core_news_lg` | 0,832 | 0,851 | 0,81 | 0,86 | 0,73 | 0,87 | 0,89 |
-| BERTimbau | 0,804 | 0,813 | 0,77 | 0,83 | 0,76 | 0,80 | 0,86 |
+| Representação | k-NN (F1-macro) | Regressão logística (F1-macro) | Regressão logística (acurácia) |
+|---|---:|---:|---:|
+| TF-IDF | 0,881 | **0,910** | **0,912** |
+| spaCy | 0,426 | 0,832 | 0,851 |
+| BERTimbau | 0,753 | 0,804 | 0,813 |
 
-As colunas por subárea são o F1 de cada classe. As matrizes de confusão estão em
-`parte 3/resultados/matrizes_confusao.png`.
+Os relatórios por classe e as matrizes de confusão estão no notebook e em `parte 3/resultados/`.
 
-O TF-IDF ganhou com folga, e vemos três motivos:
+- **O TF-IDF ganhou com folga, com os dois classificadores.** Termos técnicos decidem a subárea: uma questão
+  com "SELECT" ou "ITIL" quase não deixa dúvida, e o TF-IDF dá peso direto a esses termos raros. Nos
+  embeddings, a média de todas as palavras dilui esses termos no meio de palavras comuns de prova ("analise",
+  "afirmativas", "correto").
+- **O rótulo também vem de palavras.** A subárea do corpus foi definida por palavras-chave e, nas questões
+  ambíguas, por um TF-IDF com k-NN. O TF-IDF daqui aprende quase a mesma regra que gerou os rótulos, o que
+  favorece ele na comparação.
+- **O k-NN depende muito da representação.** Com TF-IDF, que já vem normalizado, ele fica perto da regressão
+  logística. Com os vetores do spaCy ele desaba (0,43): a média dos vetores das palavras deixa todas as
+  questões muito parecidas, e a distância entre elas acaba medindo mais o tamanho do texto que o assunto. A
+  regressão logística aprende quais dimensões importam e não sofre com isso.
+- **O BERT não foi ajustado.** Sem fine-tuning, ele dá um vetor genérico da frase, que não foi treinado para
+  separar assuntos de TI. Com regressão logística ficou um pouco abaixo do spaCy; com k-NN, bem acima.
 
-1. **Termos técnicos decidem a subárea.** Uma questão com "SELECT" ou "ITIL" quase não deixa dúvida, e o
-   TF-IDF dá peso direto a esses termos raros. Nos embeddings, a média de todas as palavras dilui esses termos
-   no meio de palavras comuns de prova ("analise", "afirmativas", "correto").
-2. **O rótulo também vem de palavras.** A subárea foi definida por palavras-chave e, nas questões ambíguas,
-   por um TF-IDF com k-NN. O TF-IDF da parte 3 aprende praticamente a mesma regra que gerou os rótulos, o que
-   favorece ele na comparação.
-3. **O BERT não foi ajustado.** Sem fine-tuning, ele dá um vetor genérico da frase, que não foi treinado para
-   separar assuntos de TI. Ficou abaixo do spaCy em quase tudo e só ganhou em Governança (0,76 × 0,73), onde o
-   contexto da frase pesa mais que palavras isoladas.
-
-Governança é a classe mais difícil para os embeddings: é a menor e divide vocabulário com Engenharia de
-Software (projeto, processo, requisito). Das 502 questões de teste, 370 foram acertadas pelos três modelos e
-26 foram erradas pelos três (`parte 3/resultados/comparacao.md`). Lendo essas 26, várias são rótulos errados
-do corpus, não erros dos modelos: uma questão sobre COBIT marcada como Engenharia de Software, uma sobre Ajax
-marcada como Banco de Dados, uma sobre o LibreOffice Writer, que nem é de computação. Ou seja, os modelos
-apontam onde o rótulo automático da parte 1 falha.
+Governança é a classe mais difícil: é a menor e divide vocabulário com Engenharia de Software (projeto,
+processo, requisito). No teste, 26 questões foram erradas pelos três modelos com regressão logística. Lendo
+essas questões no fim do notebook, várias são rótulos errados do corpus, não erros dos modelos: uma sobre
+COBIT marcada como Engenharia de Software, uma sobre Ajax marcada como Banco de Dados, uma sobre o LibreOffice
+Writer, que nem é de computação. Ou seja, os modelos apontam onde o rótulo automático da parte 1 falha.
 
 ## Parte 4: similaridade de palavras
 
-```bash
-export GEMINI_API_KEY="..."                      # ver "Como pegar a chave do Gemini" abaixo
-python3 "parte 4/scripts/01_notas_llm.py"        # notas do LLM
-python3 "parte 4/scripts/02_similaridade.py"     # spaCy, BERT e comparação com as notas humanas
-```
-
-Os dois datasets ficam na escala da aula (0 a 1). As notas da parte 2 são convertidas como explicado acima
-(`parte 4/scripts/comum.py`). Comparamos a similaridade de cada modelo com a nota humana de referência (no nosso dataset, a média da
-Luiza e da Rafaela; no de aula, a anotação final da turma) usando a correlação de Spearman, que compara a ordem dos pares e por isso funciona mesmo quando as
-escalas são diferentes (cosseno de -1 a 1 × grau de 0 a 1).
+Notebook: `parte 4/similaridade.ipynb`. Testamos três modelos nos dois datasets: o nosso (100 pares da parte 2)
+e o feito em aula (80 pares, planilha `parte 4/dados/dataset_aula.xlsx`, aba `AmostraParaAnotar`, coluna
+"Anotação Final").
 
 | Modelo | Como calculamos a similaridade |
 |---|---|
-| spaCy `pt_core_news_lg` | cosseno entre os vetores das duas palavras (`similarity`, como no notebook da aula); termo composto vira a média dos vetores |
+| spaCy `pt_core_news_lg` | cosseno entre os vetores das duas palavras (`similarity`, como no notebook *similaridadeEntreTokens* da aula); termo composto vira a média dos vetores |
 | BERTimbau | cosseno entre os vetores de cada palavra isolada (média dos subtokens da última camada) |
-| LLM (Gemini 3.5 Flash) | recebe os graus e os exemplos da planilha da aula e dá um grau para cada par, em lotes de 25 |
+| LLM (Gemini 3.5 Flash) | recebe os graus e os exemplos da planilha da aula e dá um grau para cada par |
 
-Avaliamos os dois datasets: o nosso (100 pares da parte 2) e o feito em aula (80 pares, planilha
-`parte 4/dados/dataset_aula.xlsx`, aba `AmostraParaAnotar`, coluna "Anotação Final").
+Os dois datasets ficam na escala da aula (0 a 1): as nossas notas de 1 a 5 viram `(nota - 1) / 4`. A
+comparação com as pessoas usa a correlação de Spearman, que compara a ordem dos pares e por isso funciona
+mesmo com escalas diferentes (cosseno de -1 a 1 e graus de 0 a 1). A referência humana é a média da Luiza e
+da Rafaela no nosso dataset e a anotação final da turma no de aula.
 
 | Modelo | Nosso dataset (Spearman) | Dataset de aula (Spearman) |
 |---|---:|---:|
@@ -306,16 +314,15 @@ Avaliamos os dois datasets: o nosso (100 pares da parte 2) e o feito em aula (80
 | Gemini | **0,68** | **0,53** |
 | Concordância entre as pessoas (referência) | 0,83 (Luiza × Rafaela) | 0,35 a 0,40 (entre as três alunas) |
 
-No nosso dataset, o Spearman do Gemini com cada anotadora foi 0,67 (Luiza) e 0,65 (Rafaela).
-
 - **O LLM ficou muito mais perto das pessoas nos dois datasets.** No nosso, deu a mesma nota da Luiza em 65
   pares e da Rafaela em 68, e sabe que, em TI, "tcp" e "ordem" têm relação (o TCP garante a ordem dos
   pacotes). Foi um pouco mais generoso que as anotadoras (média 0,16 × 0,09): deu 0,5 para pares como
   teste/programação e risco/gestão, que elas avaliaram como 0,25.
 - **O spaCy mede outra coisa.** Os vetores dele vêm de textos gerais (notícias, web), não de TI, e medem se as
   palavras aparecem em contextos parecidos. "Operação" e "ti" ficam com similaridade negativa. No dataset de
-  aula ainda falta vocabulário: "deployar", "comitar", "parsear", "tokenizar" e "desalocar" não têm vetor (contam
-  como similaridade 0), e por isso deployar/publicar, que a turma marcou como sinônimos, sai como nada similar.
+  aula ainda falta vocabulário: "deployar", "comitar", "parsear", "tokenizar" e "desalocar" não têm vetor
+  (contam como similaridade 0), e por isso deployar/publicar, que a turma marcou como sinônimos, sai como
+  nada similar.
 - **O BERT foi o pior no nosso dataset.** Ele foi feito para representar palavras dentro de frases. Com a
   palavra sozinha, quase todos os pares têm cosseno alto e parecido (metade entre 0,55 e 0,69), então sobra
   pouca diferença entre um par e outro. Ele também confunde palavras do mesmo assunto com sinônimos: dá 0,78
@@ -323,25 +330,43 @@ No nosso dataset, o Spearman do Gemini com cada anotadora foi 0,67 (Luiza) e 0,6
 - **Os dois datasets são bem diferentes.** O nosso foi sorteado, então quase todos os pares são pouco
   similares (66 pares com nota 0 das duas). O de aula foi montado com pares escolhidos, quase todos parecidos
   (média 0,69, só 5 pares abaixo de 0,5). Com notas tão concentradas no alto, separar 0,5 de 0,75 ou de 1 é
-  difícil até para as pessoas: entre as três alunas o Spearman ficou entre 0,35 e 0,40. O Gemini (0,53) concorda
-  mais com a anotação final do que as alunas concordam entre si, enquanto spaCy e BERT ficam perto de zero.
+  difícil até para as pessoas: entre as três alunas o Spearman ficou entre 0,35 e 0,40. O Gemini (0,53)
+  concorda mais com a anotação final do que as alunas concordam entre si, enquanto spaCy e BERT ficam perto
+  de zero.
 
-### Como pegar a chave do Gemini
+### Gemini
 
-1. Entre em https://aistudio.google.com com uma conta Google.
-2. Clique em **Get API key** e depois em **Create API key**. É grátis, sem cartão.
-3. No terminal, antes de rodar o script: `export GEMINI_API_KEY="..."`. Não coloque a chave em nenhum arquivo
-   do repositório.
+As notas do Gemini já estão salvas em `parte 4/dados/notas_llm_nosso.csv` e `notas_llm_aula.csv`, então o
+notebook roda sem chamar a API. Para pedir as notas de novo, apague esses arquivos e defina a chave antes de
+abrir o notebook:
 
-O plano gratuito permite 20 pedidos por dia em cada modelo. Por isso o script manda 25 pares por pedido (4
-pedidos para o nosso dataset) e, se for interrompido, continua de onde parou na próxima vez que rodar.
+```bash
+export GEMINI_API_KEY="..."
+```
+
+A chave é grátis: entre em https://aistudio.google.com, clique em **Get API key** e depois em
+**Create API key**. Não coloque a chave em nenhum arquivo do repositório. O plano gratuito permite 20 pedidos
+por dia em cada modelo, por isso o notebook manda 25 pares por pedido.
+
+## O que usamos além dos notebooks da disciplina
+
+Seguimos os notebooks da aula sempre que eles cobriam a tarefa: `TfidfVectorizer` com os mesmos parâmetros,
+stopwords do spaCy, divisão treino/teste e k-NN do exemplo de classificação, lematização e stopwords com spaCy,
+e `similarity` do spaCy para a similaridade entre palavras. O que foi além:
+
+- **Regressão logística (parte 3):** testada ao lado do k-NN, porque costuma ir melhor com TF-IDF e embeddings.
+- **Validação cruzada (partes 1 e 3):** para escolher os parâmetros sem usar o conjunto de teste.
+- **BERTimbau e Gemini (partes 3 e 4):** pedidos pelo enunciado; os notebooks da aula não tinham exemplo.
+- **Kappa de Cohen e correlação de Spearman (partes 2 e 4):** para medir a concordância entre anotadores e
+  entre modelos e pessoas.
 
 ## Uso de IA
 
 - **Partes 1, 3 e 4:** usamos o Claude (Anthropic), pelo Claude Code, como assistente de programação, para
-  escrever e depurar os scripts e revisar o texto deste README. A conferência das 336 questões de
-  `validacao_rotulos.csv`, usada para medir o acerto da subárea e escolher o método de classificação, foi
-  feita com o Claude. Nenhum rótulo do corpus vem dessa conferência.
-- **Parte 2:** o Codex (OpenAI) ajudou a implementar e documentar os scripts. As notas dos 100 pares foram dadas
-  pela Luiza e pela Rafaela, sem IA.
-- **Parte 4:** o LLM avaliado é o Gemini 3.5 Flash, chamado pela API.
+  escrever e depurar os scripts e os notebooks e para revisar o texto deste README. A conferência das 336
+  questões de `parte 1/dados/validacao_rotulos.csv`, usada para medir o acerto da subárea e escolher o
+  método de classificação, foi feita com o Claude. Nenhum rótulo do corpus vem dessa conferência.
+- **Parte 2:** o Codex (OpenAI) ajudou a implementar e documentar os scripts. As notas dos 100 pares foram
+  dadas pela Luiza e pela Rafaela, sem IA.
+- **Parte 4:** o LLM avaliado é o Gemini 3.5 Flash, chamado pela API. As notas do dataset de aula foram dadas
+  pelas alunas, em aula, sem IA.
