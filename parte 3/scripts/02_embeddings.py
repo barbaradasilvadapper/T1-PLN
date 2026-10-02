@@ -10,14 +10,14 @@ import numpy as np
 import spacy
 import torch
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import classification_report, f1_score
+from sklearn.metrics import classification_report, confusion_matrix, f1_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import make_pipeline
 from transformers import AutoModel, AutoTokenizer
 
-RAIZ = Path(__file__).resolve().parent.parent
-OUT = RAIZ / "classificacao"
-qs = {q["id"]: q for q in json.load(open(RAIZ / "corpus/corpus.json"))["questoes"]}
+RAIZ = Path(__file__).resolve().parents[2]
+OUT = RAIZ / "parte 3" / "classificacao"
+qs = {q["id"]: q for q in json.load(open(RAIZ / "parte 1/corpus/corpus.json"))["questoes"]}
 split = json.load(open(OUT / "split.json"))
 
 
@@ -61,6 +61,9 @@ for nome, f in [("spacy_pt_core_news_lg", spacy_vecs), ("bert_base_portuguese_ca
         "teste_f1_macro": f1_score(yte, pred, average="macro"),
         "teste_acuracia": float((pred == yte).mean()),
         "relatorio": classification_report(yte, pred, output_dict=True),
+        "matriz_confusao": {"classes": list(clf.classes_),
+                            "valores": confusion_matrix(yte, pred, labels=clf.classes_).tolist()},
+        "predicoes_teste": dict(zip(split["teste"], pred.tolist())),
     }
 
 json.dump(resultados, open(OUT / "resultados_embeddings.json", "w"), indent=1, ensure_ascii=False)
