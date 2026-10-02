@@ -107,4 +107,3 @@ termos técnicos, e o BERT não foi feito para palavras isoladas.
 - conferência das 336 questões usadas para medir o acerto da subárea.
 - **Gemini:** é um dos modelos avaliados na parte 4.
 
-Foram feitos sem IA o download das provas e todas as anotações (os 100 pares e o dataset de aula).
