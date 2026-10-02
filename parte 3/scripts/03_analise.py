@@ -1,4 +1,4 @@
-"""Parte 3c: compara os 3 modelos (tabela, matrizes de confusão, erros em comum). Saída: parte 3/classificacao/."""
+"""Parte 3c: compara os 3 modelos (tabela, matrizes de confusão, erros em comum). Saída: parte 3/resultados/."""
 import json
 from pathlib import Path
 
@@ -7,7 +7,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 RAIZ = Path(__file__).resolve().parents[2]
-OUT = RAIZ / "parte 3" / "classificacao"
+OUT = RAIZ / "parte 3" / "resultados"
 tf = json.load(open(OUT / "resultados_tfidf.json"))
 emb = json.load(open(OUT / "resultados_embeddings.json"))
 modelos = {"TF-IDF + LogReg": tf, "spaCy pt_core_news_lg": emb["spacy_pt_core_news_lg"],

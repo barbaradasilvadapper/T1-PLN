@@ -1,0 +1,18 @@
+ID: 57-034
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Um órgão implementou o Zabbix para monitoramento de sua infraestrutura crítica de Tecnologia da Informação (TI). Para incrementar a segurança, foi implementada criptografia usando o Protocolo Transport Layer Security (TLS) v.1.3 na comunicação entre os seus componentes. A criptografia implementada no Zabbix pela equipe de TI permite:
+
+[ALTERNATIVAS]
+(A) armazenar as chaves privadas criptografadas em arquivos legíveis pelos componentes do Zabbix durante a inicialização;
+(B) proteger as comunicações entre o servidor web rodando o frontend Zabbix e a web do usuário navegador;
+(C) usar diferentes configurações de criptografia nos servidores (proxy) para diferentes anfitriões;
+(D) abrir uma conexão criptografada com um handshake TLS completo, implementando cache de sessão e tickets;
+(E) realizar a descoberta de rede de ativos com criptografia ativada.
+
+[GABARITO]
+C

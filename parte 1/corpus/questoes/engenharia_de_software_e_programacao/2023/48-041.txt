@@ -1,0 +1,18 @@
+ID: 48-041
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: agente da fiscalizacao ti tce sp
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Tabelas Hash (e assemelhadas) são utilizadas frequentemente em implementações de bancos NoSQL do tipo “Key-value”, enquanto B-trees são preferencialmente utilizadas em bancos de dados relacionais. Nesse contexto, analise as afirmativas a seguir. I. Algoritmos de busca a partir de chaves em tabelas Hash têm complexidade O(N/2), enquanto em B-trees têm complexidade O(log N). II. B-trees suportam buscas por intervalo de chaves. III. Tabelas Hash admitem e gerenciam múltiplas chaves para o mesmo objeto indexado sem redundância. Está correto somente o que se afirma em:
+
+[ALTERNATIVAS]
+(A) I;
+(B) II;
+(C) III;
+(D) I e II;
+(E) II e III.
+
+[GABARITO]
+B

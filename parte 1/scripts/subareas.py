@@ -133,6 +133,37 @@ def termos_fortes(texto, area):
     return sum(1 for p, rx in _PADROES[area] if p == 2 and rx.search(t))
 
 
+PESO_ENUNCIADO = 2   # o assunto da questão está no enunciado; as alternativas trazem termos de outras áreas
+MARGEM_SEMENTE = 4   # diferença mínima entre a 1ª e a 2ª subárea para o rótulo por palavras-chave ser confiável
+
+
+def refinar(questoes):
+    """Segunda etapa da classificação. As questões em que as palavras-chave dão uma subárea com folga
+    (margem >= MARGEM_SEMENTE) viram sementes; um TF-IDF + regressão logística treinado só nelas decide as
+    questões ambíguas. Devolve (subáreas, origens) na ordem de `questoes`."""
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.pipeline import make_pipeline
+
+    areas = list(SUBAREAS)
+    rotulos, sementes, textos = [], [], []
+    for q in questoes:
+        enun = pontuar(q["enunciado"])
+        alts = pontuar(" ".join(a["texto"] for a in q["alternativas"]))
+        sc = sorted(((PESO_ENUNCIADO * enun[a] + alts[a], a) for a in areas), reverse=True)
+        rotulos.append(sc[0][1])
+        sementes.append(sc[0][0] - sc[1][0] >= MARGEM_SEMENTE)
+        textos.append((q["enunciado"] + " ") * PESO_ENUNCIADO + " ".join(a["texto"] for a in q["alternativas"]))
+    modelo = make_pipeline(TfidfVectorizer(sublinear_tf=True, min_df=2),
+                           LogisticRegression(max_iter=3000, class_weight="balanced", C=4))
+    modelo.fit([t for t, s in zip(textos, sementes) if s], [r for r, s in zip(rotulos, sementes) if s])
+    ambiguas = [i for i, s in enumerate(sementes) if not s]
+    for i, r in zip(ambiguas, modelo.predict([textos[i] for i in ambiguas])):
+        rotulos[i] = r
+    origens = ["palavras_chave" if s else "modelo_sementes" for s in sementes]
+    return rotulos, origens
+
+
 def classificar(texto, secao_de_ti=False):
     """Exige ao menos um termo característico (peso 2) da subárea vencedora e pontuação >= 3
     (>= 2 quando a questão está numa seção de TI da prova)."""

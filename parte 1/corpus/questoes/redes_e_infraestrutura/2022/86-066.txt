@@ -1,0 +1,18 @@
+ID: 86-066
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A respeito do Robotic Process Automation (RPA), assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Possui baixa precisão nos resultados.
+(B) Executa tarefas humanas de rotina.
+(C) Realiza tarefas desde que envolva cálculos.
+(D) Necessita de customização para interagir com outros sistemas.
+(E) Dispensa a utilização de controlroom (sala de controle).
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 58-019
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+O padrão Saga é uma maneira de gerenciar a consistência de dados entre microsserviços em cenários de transações distribuída. Sobre esse padrão, assinale a afirmativa correta.
+
+[ALTERNATIVAS]
+(A) Uma saga é uma transação de estilo ACID no nível da própria saga mesmo havendo múltiplos microsserviços.
+(B) Como os microsserviços participantes de uma saga não colaboram entre sim, não há risco de dependência cíclica.
+(C) As sagas coreografadas causam maior acoplamento entre microsserviços do que as sagas orquestradas.
+(D) As transações de compensação são iguais a rollback em banco de dados, desfaz tudo como se nada tivessem ocorrido.
+(E) As sagas orquestradas usam um coordenador centralizado para definir a ordem de execução dos microsserviços.
+
+[GABARITO]
+E

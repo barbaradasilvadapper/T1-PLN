@@ -1,0 +1,18 @@
+ID: 42-049
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Em um ambiente de rede de computadores, utilizado para transmissão e recepção de mensagens, implementou-se um sistema para envio e admissão segura das mesmas, utilizando algoritmos com funções criptográficas, que são aplicados para prover a integridade das mensagens, permitindo-se verificar se a mensagem enviada foi ou não alterada. Um exemplo de algoritmo que utiliza esse modelo de função é o
+
+[ALTERNATIVAS]
+(A) CRC3.
+(B) DSA.
+(C) L2TP.
+(D) PPTP.
+(E) SHA-1.
+
+[GABARITO]
+E

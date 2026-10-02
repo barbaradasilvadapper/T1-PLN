@@ -28,8 +28,6 @@ O sorteio combinou palavras sem considerar sua proximidade semântica. Essa esco
 
 O corpus consolidado contém IDs e palavras, tipo de anotação, identificadores dos avaliadores, notas, média, mediana, amplitude e indicação de divergências de pelo menos dois pontos. A média resume notas independentes; não representa consenso.
 
-## Limitações e uso de IA
-
-Codex/OpenAI auxiliou na implementação e documentação do código. A anotação dos valores foi realizada por Luiza e Rafaela.
+## Limitações
 
 O ranking global favorece termos e subáreas frequentes. A lematização pode errar com termos técnicos e inglês; unigramas separam expressões compostas, e o filtro alfabético exclui C++, C# e IPv6. Palavras sem contexto podem ser ambíguas. Pares aleatórios concentrados em baixa similaridade limitam a avaliação dos níveis altos da escala.

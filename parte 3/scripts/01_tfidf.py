@@ -2,7 +2,7 @@
 
 Segue o notebook da professora (ExemploClassificação_representacaoBoW): split estratificado 80/20 com
 random_state=42, TfidfVectorizer com sublinear_tf, relatório por classe e matriz de confusão.
-Saída: parte 3/classificacao/split.json (mesmo split p/ os outros modelos) e resultados_tfidf.json.
+Saída: parte 3/resultados/split.json (mesmo split p/ os outros modelos) e resultados_tfidf.json.
 """
 import json
 from pathlib import Path
@@ -17,7 +17,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.pipeline import make_pipeline
 
 RAIZ = Path(__file__).resolve().parents[2]
-OUT = RAIZ / "parte 3" / "classificacao"
+OUT = RAIZ / "parte 3" / "resultados"
 OUT.mkdir(exist_ok=True)
 
 qs = json.load(open(RAIZ / "parte 1/corpus/corpus.json"))["questoes"]

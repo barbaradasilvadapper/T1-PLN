@@ -1,0 +1,18 @@
+ID: 33-050
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+João não sabe fazer consultas em banco de dados e buscou a literatura para fazer uma junção interna otimizada. Um dos pontos observados por João foi que suas relações não tinham seus registros fisicamente organizados, necessitando de uma ordenação externa. Os atributos de junção são atributos chave. Pares de blocos de arquivo são copiados para buffers de memória na ordem, e os registros de cada arquivo são varridos apenas uma vez cada um, para combinar com o outro arquivo. O método de implementação da junção utilizado por João foi o(a):
+
+[ALTERNATIVAS]
+(A) loop alinhado;
+(B) bloco alinhado;
+(C) ordenação - intercalação;
+(D) único loop;
+(E) partição - hash.
+
+[GABARITO]
+C

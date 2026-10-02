@@ -1,7 +1,7 @@
 {
   "subarea": "governanca_e_gestao_de_ti",
   "nome": "Governança e Gestão de TI",
-  "total": 151,
+  "total": 139,
   "anos": {
     "2021": [
       {
@@ -332,7 +332,7 @@
       {
         "id": "38-053",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "palavras_chave",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario seguranca da informacao tj dft",
@@ -368,51 +368,6 @@
         "tambem_em": [],
         "pontuacao_subareas": {
           "engenharia_de_software_e_programacao": 3,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 3
-        }
-      },
-      {
-        "id": "83-045",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2022,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario tecnologia da informacao trt 13",
-        "prova": "83_analista-judiciario-tecnologia-da-informacao-trt-13-fgv-2022",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-tecnologia-da-informacao-trt-13-fgv-2022",
-        "numero_na_prova": 45,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "O COBIT 2019 é um framework utilizado em muitas organizações. Sobre este framework, é correto afirmar que",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "é uma estrutura para organizar os processos de negócios do ambiente de TI."
-          },
-          {
-            "letra": "B",
-            "texto": "descreve as ferramentas tecnológicas indispensáveis para construir e manter software com qualidade."
-          },
-          {
-            "letra": "C",
-            "texto": "indica as certificações de sustentabilidade necessárias para demonstrar que a empresa respeita as questões ambientais."
-          },
-          {
-            "letra": "D",
-            "texto": "prescreve as decisões técnicas e administrativas que devem implementadas no departamento de TI."
-          },
-          {
-            "letra": "E",
-            "texto": "define os componentes para construir e sustentar um sistema de governança e gestão da informação."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "define os componentes para construir e sustentar um sistema de governança e gestão da informação.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 5,
           "banco_de_dados_e_ciencia_de_dados": 0,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
@@ -602,7 +557,7 @@
       {
         "id": "86-036",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao da fazenda estadual sefaz am",
@@ -737,7 +692,7 @@
       {
         "id": "86-042",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao da fazenda estadual sefaz am",
@@ -917,7 +872,7 @@
       {
         "id": "86-067",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao da fazenda estadual sefaz am",
@@ -1052,7 +1007,7 @@
       {
         "id": "88-038",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "perito criminal ciencia da computacao analista de sistema sead ap",
@@ -1142,57 +1097,9 @@
     ],
     "2023": [
       {
-        "id": "06-078",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2023,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap",
-        "prova": "06_analista-judiciario-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-tj-ap-fgv-2023",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-tj-ap-fgv-2023",
-        "numero_na_prova": 78,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A Resolução CNJ nº 335, de 29 de setembro de 2020, que institui política pública para a governança e a gestão de processo judicial eletrônico, no seu Art. 4º, considera que a plataforma digital do Poder Judiciário Brasileiro (PDPJ-BR) adotará obrigatoriamente soluções que abranjam o(s) seguinte(s) conceito(s):",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "utilização preferencial de tecnologias com código fechado;"
-          },
-          {
-            "letra": "B",
-            "texto": "desenvolvimento que possibilite o compartilhamento em segmentos específicos e esferas do Poder Judiciário;"
-          },
-          {
-            "letra": "C",
-            "texto": "ampla cobertura de testes, alto acoplamento, baixa coesão e modularização;"
-          },
-          {
-            "letra": "D",
-            "texto": "processo eletrônico em plataforma privada;"
-          },
-          {
-            "letra": "E",
-            "texto": "adaptável ao uso de ferramentas de aprendizado de máquina (machine learning) e de I.A. (Inteligência Artificial)"
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "adaptável ao uso de ferramentas de aprendizado de máquina (machine learning) e de I.A. (Inteligência Artificial)",
-        "tambem_em": [
-          "18-078",
-          "40-078"
-        ],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 5,
-          "banco_de_dados_e_ciencia_de_dados": 6,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 1
-        }
-      },
-      {
         "id": "07-056",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "palavras_chave",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario analise de sistemas tj se",
@@ -1462,7 +1369,7 @@
       {
         "id": "27-062",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs",
@@ -1552,7 +1459,7 @@
       {
         "id": "28-070",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario analise de sistemas redes tj se",
@@ -1597,7 +1504,7 @@
       {
         "id": "39-063",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs",
@@ -1637,51 +1544,6 @@
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 4
-        }
-      },
-      {
-        "id": "40-075",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2023,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap",
-        "prova": "40_analista-judiciario-apoio-especializado-tecnologia-da-informacao-seguranca-da-informacao-tj-ap-fgv-2023",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-apoio-especializado-tecnologia-da-informacao-seguranca-da-informacao-tj-ap-fgv-2023",
-        "numero_na_prova": 75,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Como parte da Governança e Gestão de Tecnologia da Informação (TI), um Tribunal de Justiça desenvolveu novos serviços digitais para a sociedade. Após a entrega dos serviços digitais, foram criados meios para o monitoramento da qualidade com o intuito de capturar a percepção de benefícios pela sociedade e atender a melhoria contínua dos serviços. O monitoramento da qualidade dos serviços digitais disponibilizados à sociedade representa uma ação estratégica de:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "implantação dos serviços;"
-          },
-          {
-            "letra": "B",
-            "texto": "sustentação dos serviços;"
-          },
-          {
-            "letra": "C",
-            "texto": "otimização do processo do serviço;"
-          },
-          {
-            "letra": "D",
-            "texto": "priorização de serviços;"
-          },
-          {
-            "letra": "E",
-            "texto": "abrangência dos resultados dos serviços."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "sustentação dos serviços;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 4,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 2
         }
       },
       {
@@ -1732,7 +1594,7 @@
       {
         "id": "41-068",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario analise de sistemas seguranca da informacao tj se",
@@ -2135,6 +1997,51 @@
         }
       },
       {
+        "id": "91-037",
+        "subarea": "governanca_e_gestao_de_ti",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "tecnico de gestao administrativa analista de sistemas alema",
+        "prova": "91_tecnico-de-gestao-administrativa-analista-de-sistemas-alema-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-gestao-administrativa-analista-de-sistemas-alema-fgv-2023",
+        "numero_na_prova": 37,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "De acordo com o COBIT 2019, considera-se um Fator de Design que pode influenciar na adequação do sistema de governança de uma empresa:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "computação em nuvem."
+          },
+          {
+            "letra": "B",
+            "texto": "cultura e comportamento."
+          },
+          {
+            "letra": "C",
+            "texto": "estrutura organizacional."
+          },
+          {
+            "letra": "D",
+            "texto": "pessoas e competências."
+          },
+          {
+            "letra": "E",
+            "texto": "perfil de risco."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "perfil de risco.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 4,
+          "seguranca_da_informacao": 1,
+          "governanca_e_gestao_de_ti": 3
+        }
+      },
+      {
         "id": "91-042",
         "subarea": "governanca_e_gestao_de_ti",
         "origem_subarea": "palavras_chave",
@@ -2452,6 +2359,51 @@
     ],
     "2024": [
       {
+        "id": "10-025",
+        "subarea": "governanca_e_gestao_de_ti",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms",
+        "prova": "10_tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-sistemas-tj-ms-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-sistemas-tj-ms-fgv-2024",
+        "numero_na_prova": 25,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Analisando os processos de negócio do TJMS, o analista Fausto verificou que alguns fluxos são compostos por atividades executadas por diferentes unidades organizacionais. Para automatizar esses fluxos de trabalho, Fausto começou a modelar o respectivo sistema de informação. Utilizando o Diagrama de Atividades da UML para modelar as atividades, particionando em grupos representando as diferentes unidades organizacionais, Fausto deve usar um(a):",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Join;"
+          },
+          {
+            "letra": "B",
+            "texto": "Fork;"
+          },
+          {
+            "letra": "C",
+            "texto": "Swimlane;"
+          },
+          {
+            "letra": "D",
+            "texto": "Decision Node;"
+          },
+          {
+            "letra": "E",
+            "texto": "Control Flow."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "Swimlane;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 4,
+          "banco_de_dados_e_ciencia_de_dados": 2,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 2
+        }
+      },
+      {
         "id": "10-046",
         "subarea": "governanca_e_gestao_de_ti",
         "origem_subarea": "palavras_chave",
@@ -2499,7 +2451,7 @@
       {
         "id": "10-051",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms",
@@ -2542,58 +2494,9 @@
         }
       },
       {
-        "id": "10-054",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms",
-        "prova": "10_tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-sistemas-tj-ms-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-sistemas-tj-ms-fgv-2024",
-        "numero_na_prova": 54,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) tem como principal objetivo incentivar o desenvolvimento colaborativo entre os tribunais, preservando os sistemas públicos em produção, mas consolidando pragmaticamente a política para a gestão e expansão do Processo Judicial Eletrônico – PJe. Os serviços e aplicações integrados à Plataforma que implementam as funcionalidades essenciais básicas para um sistema de processo judicial de tramitação eletrônica, bem como os serviços necessários à integração, à coreografia e à interoperabilidade entre os serviços e soluções que compõem a Plataforma, são classificados como serviços:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "de nuvem;"
-          },
-          {
-            "letra": "B",
-            "texto": "de comunidade externa;"
-          },
-          {
-            "letra": "C",
-            "texto": "de integração;"
-          },
-          {
-            "letra": "D",
-            "texto": "negocial;"
-          },
-          {
-            "letra": "E",
-            "texto": "estruturantes."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "estruturantes.",
-        "tambem_em": [
-          "20-054",
-          "30-054",
-          "60-054"
-        ],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "11-052",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario desenvolvimento de sistemas tj rr",
@@ -2829,7 +2732,7 @@
       {
         "id": "21-048",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de gestao corporativa tecnologia da informacao ciencia de dados epe",
@@ -3058,54 +2961,9 @@
         }
       },
       {
-        "id": "33-065",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1",
-        "prova": "33_analista-judiciario-area-apoio-especializado-especialidade-suporte-em-tecnologia-da-informacao-trf-1-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-especialidade-suporte-em-tecnologia-da-informacao-trf-1-fgv-2024",
-        "numero_na_prova": 65,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A análise SWOT é uma ferramenta de gestão. No contexto do planejamento de tecnologia da informação e comunicação (TIC), tal ferramenta avalia as características:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "negativas, que podem restringir o desempenho da TIC (ameaça), em relação ao ambiente interno;"
-          },
-          {
-            "letra": "B",
-            "texto": "positivas, que a TIC pode explorar para atingir suas metas (oportunidades), em relação ao ambiente interno;"
-          },
-          {
-            "letra": "C",
-            "texto": "não controláveis pela TIC, que a podem impedir de atingir as metas planejadas e comprometer o crescimento organizacional (ameaças), em relação ao ambiente externo;"
-          },
-          {
-            "letra": "D",
-            "texto": "não controláveis pela TIC, com potencial para ajudar a organização a crescer e atingir ou exceder as metas planejadas (oportunidades), em relação ao ambiente interno;"
-          },
-          {
-            "letra": "E",
-            "texto": "não controláveis pela TIC, que a podem impedir de atingir as metas planejadas e comprometer o crescimento organizacional (vulnerabilidades), em relação ao ambiente externo."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "não controláveis pela TIC, que a podem impedir de atingir as metas planejadas e comprometer o crescimento organizacional (ameaças), em relação ao ambiente externo;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 4,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "33-069",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1",
@@ -3238,51 +3096,6 @@
         }
       },
       {
-        "id": "42-057",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev",
-        "prova": "42_analista-de-tecnologia-da-informacao-seguranca-cibernetica-e-protecao-de-dados-dataprev-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-seguranca-cibernetica-e-protecao-de-dados-dataprev-fgv-2024",
-        "numero_na_prova": 57,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Caso uma empresa, aplicando a NBR ISO 31000:2018, que trata de gestão de riscos, esteja trabalhando no processo de compreensão da natureza de riscos físicos e tecnológicos da empresa, procurando considerar de forma detalhada, incertezas, fontes de risco, consequências, cenários, controles e eficácia dos controles, significa que está se trabalhando com o processo de",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Avaliação de riscos."
-          },
-          {
-            "letra": "B",
-            "texto": "Definição de escopo."
-          },
-          {
-            "letra": "C",
-            "texto": "Monitoramento dos riscos."
-          },
-          {
-            "letra": "D",
-            "texto": "Seleção das soluções contra riscos."
-          },
-          {
-            "letra": "E",
-            "texto": "Tratamento das situações de riscos."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "Avaliação de riscos.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 2,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "42-060",
         "subarea": "governanca_e_gestao_de_ti",
         "origem_subarea": "palavras_chave",
@@ -3325,6 +3138,51 @@
           "redes_e_infraestrutura": 2,
           "seguranca_da_informacao": 2,
           "governanca_e_gestao_de_ti": 8
+        }
+      },
+      {
+        "id": "43-053",
+        "subarea": "governanca_e_gestao_de_ti",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms",
+        "prova": "43_tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-seguranca-de-ti-tj-ms-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-seguranca-de-ti-tj-ms-fgv-2024",
+        "numero_na_prova": 53,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A analista Maria é gerente do projeto XYZ, que possui grande complexidade e não possui similaridades com outros projetos já executados em seu órgão. Durante o processo de determinar o orçamento do projeto , ela utilizou a técnica de estimativa bottom-up, estimando os valores de cada pacote de trabalho. Diante desse cenário, para produzir a linha de base dos custos e o orçamento do projeto, Maria deve:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "somar todos os valores de cada pacote de trabalho, pois o resultado encontrado representará a linha de base dos custos e o orçamento do projeto, que são sinônimos;"
+          },
+          {
+            "letra": "B",
+            "texto": "estimar a reserva de contingência das atividades e somar com os valores de cada pacote de trabalho, pois o resultado encontrado representará a linha de base dos custos e o orçamento do projeto, que são sinônimos;"
+          },
+          {
+            "letra": "C",
+            "texto": "somar todos os valores de cada pacote de trabalho, para determinar a linha de base dos custos, e estimar a reserva de contingência das atividades, que, adicionada à linha de base dos custos, determina o orçamento do projeto;"
+          },
+          {
+            "letra": "D",
+            "texto": "estimar a reserva de contingência das atividades e somar com os valores de cada pacote de trabalho, pois o resultado encontrado representará a linha de base dos custos, e estimar a reserva de contingência, que, adicionada à linha de base dos custos, determina o orçamento do projeto;"
+          },
+          {
+            "letra": "E",
+            "texto": "estimar as reservas de contingência das atividades e de contingência e somar com os valores de cada pacote de trabalho, pois o resultado encontrado representará a linha de base dos custos, e estimar a reserva gerencial, que, adicionada à linha de base, determina o orçamento do projeto."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "estimar as reservas de contingência das atividades e de contingência e somar com os valores de cada pacote de trabalho, pois o resultado encontrado representará a linha de base dos custos, e estimar a reserva gerencial, que, adicionada à linha de base, determina o orçamento do projeto.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 1,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 2
         }
       },
       {
@@ -3600,7 +3458,7 @@
       {
         "id": "51-046",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "palavras_chave",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario tecnologia da informacao tj mt",
@@ -3733,51 +3591,6 @@
         }
       },
       {
-        "id": "51-058",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario tecnologia da informacao tj mt",
-        "prova": "51_analista-judiciario-tecnologia-da-informacao-tj-mt-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-tecnologia-da-informacao-tj-mt-fgv-2024",
-        "numero_na_prova": 58,
-        "secao_na_prova": "C ONHECIMENTOS E SPECÍFICOS",
-        "enunciado": "O alinhamento estratégico entre TI e negócios é fundamental para que a TI agregue valor aos objetivos organizacionais e contribua para o sucesso da empresa. Uma prática recomendada para alcançar um alinhamento estratégico eficaz entre TI e os objetivos de negócio é",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "definir indicadores de desempenho que conectem os resultados de TI diretamente aos objetivos estratégicos da organização, revisando-os periodicamente com a alta administração."
-          },
-          {
-            "letra": "B",
-            "texto": "focar o orçamento de TI em inovações tecnológicas de ponta para garantir que a organização seja líder em seu setor."
-          },
-          {
-            "letra": "C",
-            "texto": "ter uma equipe de TI dedicada exclusivamente ao desenvolvimento de novas tecnologias e à automação dos processos internos."
-          },
-          {
-            "letra": "D",
-            "texto": "elaborar um plano de recuperação de desastres para reduzir o tempo de inatividade em caso de incidentes, garantindo continuidade operacional."
-          },
-          {
-            "letra": "E",
-            "texto": "delegar toda a responsabilidade das decisões de TI para a área técnica, permitindo que o setor de TI opere com independência da administração executiva."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "definir indicadores de desempenho que conectem os resultados de TI diretamente aos objetivos estratégicos da organização, revisando-os periodicamente com a alta administração.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 5,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "51-059",
         "subarea": "governanca_e_gestao_de_ti",
         "origem_subarea": "palavras_chave",
@@ -3825,7 +3638,7 @@
       {
         "id": "56-062",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm",
@@ -3870,7 +3683,7 @@
       {
         "id": "56-063",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm",
@@ -3915,7 +3728,7 @@
       {
         "id": "56-065",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm",
@@ -4093,54 +3906,9 @@
         }
       },
       {
-        "id": "57-066",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm",
-        "prova": "57_analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
-        "numero_na_prova": 66,
-        "secao_na_prova": "Banco de Dados",
-        "enunciado": "A gestão de riscos relacionados à TI deve ser realizada de forma integrada à gestão corporativa de riscos, com uma abordagem de balanceamento de custos e benefícios. Diante do contexto apresentado, é correto afirmar que:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "o investimento necessário para a mitigação do risco deverá ser balizado pelo desejo do gerente de TI. É importante comunicar a tolerância e as probabilidades de ocorrência do risco correspondente;"
-          },
-          {
-            "letra": "B",
-            "texto": "em organizações com qualquer nível de governança corporativa, é estabelecido um sistema de gestão de riscos operacionais já com metodologias estabelecidas e com mapas de risco por processo de negócio ou por serviços;"
-          },
-          {
-            "letra": "C",
-            "texto": "a avaliação de riscos implica coletar dados e identificar eventos (importantes ameaças reais que exploram significativas vulnerabilidades) com potenciais impactos negativos nos objetivos ou nas operações da organização;"
-          },
-          {
-            "letra": "D",
-            "texto": "a manutenção e monitoramento do plano de ação de risco envolvem também a obtenção de aprovações para ações recomendadas, a aceitação de quaisquer riscos residuais e a garantia de que as ações aprovadas sejam assumidas pelos donos dos processos afetados;"
-          },
-          {
-            "letra": "E",
-            "texto": "qualquer impacto em potencial, independente de afetar ou não os objetivos da empresa, causado por um evento não planejado deve ser identificado, analisado e avaliado. Estratégias de mitigação de risco devem ser adotadas para minimizar o risco residual a níveis aceitáveis."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "a manutenção e monitoramento do plano de ação de risco envolvem também a obtenção de aprovações para ações recomendadas, a aceitação de quaisquer riscos residuais e a garantia de que as ações aprovadas sejam assumidas pelos donos dos processos afetados;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 5,
-          "governanca_e_gestao_de_ti": 3
-        }
-      },
-      {
         "id": "57-067",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm",
@@ -4365,7 +4133,7 @@
       {
         "id": "60-038",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms",
@@ -4455,7 +4223,7 @@
       {
         "id": "60-050",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms",
@@ -4545,7 +4313,7 @@
       {
         "id": "62-055",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe",
@@ -4725,7 +4493,7 @@
       {
         "id": "65-064",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista legislativo analise de sistema ale to",
@@ -4770,7 +4538,7 @@
       {
         "id": "69-064",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista administrativo iii analista de sistemas alesc",
@@ -4995,7 +4763,7 @@
       {
         "id": "71-071",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista administrativo tecnologia da informacao dnit",
@@ -5261,96 +5029,6 @@
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 6
         }
-      },
-      {
-        "id": "73-073",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1",
-        "prova": "73_analista-judiciario-area-apoio-especializado-especialidade-tecnologia-da-informacao-trf-1-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-especialidade-tecnologia-da-informacao-trf-1-fgv-2024",
-        "numero_na_prova": 73,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A plataforma digital do Poder Judiciário brasileiro (PDPJ-Br) é composta por um conjunto de aplicações e microsserviços que devem funcionar de forma harmônica. O TRF1 coordena um sistema processual público que pretende manter e aprimorar para se adequar à PDPJ-Br. Juntamente com os coordenadores dos projetos vigentes do sistema de tramitação processual eletrônica, o TRF1 deverá:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "promover ações que possibilitem a troca de informações com os demais sistemas e redução dos custos de tecnologia da informação;"
-          },
-          {
-            "letra": "B",
-            "texto": "estabelecer planos de trabalho para descontinuar seus sistemas de tramitação processual eletrônica e adotar o sistema padronizado para uso na PDPJ-Br;"
-          },
-          {
-            "letra": "C",
-            "texto": "adequar as regras de negócio que atendem às peculiaridades regionais contempladas pelo sistema do tribunal para substituí-lo pelo sistema padronizado da PDPJ-Br;"
-          },
-          {
-            "letra": "D",
-            "texto": "hospedar o sistema do tribunal na PDPJ-Br na forma de um módulo ou microsserviço para uso exclusivo do tribunal e uso compartilhado dos recursos de nuvem da PDPJ-Br;"
-          },
-          {
-            "letra": "E",
-            "texto": "evoluir o sistema de tramitação processual do tribunal para os requisitos e conceitos da PDPJ-Br, com custos rateados entre os integrantes da rede do Poder Judiciário nacional."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "promover ações que possibilitem a troca de informações com os demais sistemas e redução dos custos de tecnologia da informação;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 1
-        }
-      },
-      {
-        "id": "75-047",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp",
-        "prova": "75_analista-em-gestao-municipal-tecnologia-da-informacao-prefeitura-sao-jose-dos-campos-sp-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-em-gestao-municipal-tecnologia-da-informacao-prefeitura-sao-jose-dos-campos-sp-fgv-2024",
-        "numero_na_prova": 47,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Considere a modelagem de processos usando BPMN. Seja C um conjunto de construções de fluxo de controle. P = (N,E, tipo) é um modelo de processo se consistir em um conjunto N de nós e um conjunto E de arestas. Nesse caso, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). ( ) N = NA ∩ NE ∩ NG, onde NA é um conjunto de modelos de atividades, NE é um conjunto de modelos de eventos e NG é um conjunto de modelos de gateway. Esses conjuntos são mutuamente disjunto. ( ) E é um conjunto de arestas direcionadas entre nós, tal que E ⊆ N × N, representando controle de fluxo. ( ) tipo : NG → C atribui a cada modelo de gateway uma construção de fluxo de controle.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "F – F – F."
-          },
-          {
-            "letra": "B",
-            "texto": "F – F – V."
-          },
-          {
-            "letra": "C",
-            "texto": "F – V – V."
-          },
-          {
-            "letra": "D",
-            "texto": "V – F – V."
-          },
-          {
-            "letra": "E",
-            "texto": "V – V – V."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "F – V – V.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 4,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 2
-        }
       }
     ],
     "2025": [
@@ -5402,7 +5080,7 @@
       {
         "id": "13-069",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista do mpu desenvolvimento de sistemas mpu",
@@ -5582,7 +5260,7 @@
       {
         "id": "52-050",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista de controle externo tecnologia da informacao tce pe",
@@ -5672,7 +5350,7 @@
       {
         "id": "52-052",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista de controle externo tecnologia da informacao tce pe",
@@ -6302,7 +5980,7 @@
       {
         "id": "78-069",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista de sistemas classe b dpe ro",
@@ -6342,51 +6020,6 @@
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 2
-        }
-      },
-      {
-        "id": "80-022",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao",
-        "prova": "80_analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
-        "numero_na_prova": 22,
-        "secao_na_prova": "Conhecimentos Específicos Básicos",
-        "enunciado": "A gestão de resultados nos serviços públicos busca eficiência, transparência e atendimento às demandas sociais por meio de monitoramento e avaliação contínuos. Assinale a opção que apresenta, corretamente, itens da agenda para a estruturação da gestão de resultados na produção de serviços públicos.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Foco nos resultados e políticas públicas formuladas a partir de processo de organização governamental."
-          },
-          {
-            "letra": "B",
-            "texto": "Caráter centralizado da tomada de decisão e flexibilização de recursos com cobrança de responsabilidade de gestores."
-          },
-          {
-            "letra": "C",
-            "texto": "Utilização de planejamento estratégico nas organizações públicas e otimização dos processos administrativos."
-          },
-          {
-            "letra": "D",
-            "texto": "Mudanças metodológicas no processo de formulação do orçamento privado e sistemas de monitoramento da gestão, prestação de contas e avaliação."
-          },
-          {
-            "letra": "E",
-            "texto": "Desenvolvimento de indicadores que permitam medir o insumo da ação governamental e indicar os desvios para introdução de medidas preventivas."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "Utilização de planejamento estratégico nas organizações públicas e otimização dos processos administrativos.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 4,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
         }
       },
       {
@@ -6433,154 +6066,13 @@
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 4
         }
-      },
-      {
-        "id": "80-058",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao",
-        "prova": "80_analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
-        "numero_na_prova": 58,
-        "secao_na_prova": "Conhecimentos Específicos Avançados",
-        "enunciado": "A Portaria 252/2020 do Conselho Nacional de Justiça dispõe sobre o Modelo de Governança e Gestão da Plataforma Digital do Poder Judiciário (PDPJ-Br). A respeito das atribuições que competem ao Comitê Gestor Nacional do PDPJ-Br, que exerce a supervisão geral da Plataforma, avalie as afirmativas a seguir. I. Homologar e propor ajustes aos projetos de desenvolvimento de microsserviços sugeridos pela Gerência Executiva e pelos Comitês Gestores dos tribunais. II. Propor à Presidência, mediante sugestão do Comitê Gestor Nacional da PDPJ, a política de tecnologia da informação a ser seguida pela PDPJ-Br. III. Propor normas regulamentadoras à Comissão Permanente de Tecnologia da Informação e Infraestrutura do Conselho Nacional de Justiça.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "I, apenas."
-          },
-          {
-            "letra": "B",
-            "texto": "II, apenas."
-          },
-          {
-            "letra": "C",
-            "texto": "III, apenas."
-          },
-          {
-            "letra": "D",
-            "texto": "I e III, apenas."
-          },
-          {
-            "letra": "E",
-            "texto": "II e III, apenas."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "I e III, apenas.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 2
-        }
       }
     ],
     "2026": [
       {
-        "id": "16-054",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2026,
-        "banca": "FGV",
-        "cargo_orgao": "agente especializado analista de sistemas mp es",
-        "prova": "16_agente-especializado-analista-de-sistemas-mp-es-fgv-2026",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/agente-especializado-analista-de-sistemas-mp-es-fgv-2026",
-        "numero_na_prova": 54,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Em relação à Legislação e aos aspectos éticos na área de Tecnologia da Informação, assinale a afirmativa correta.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica."
-          },
-          {
-            "letra": "B",
-            "texto": "A Responsabilidade Técnica limita-se à garantia de que os sistemas estejam disponíveis, não abrangendo as falhas de configuração que resultem em acessos indevidos."
-          },
-          {
-            "letra": "C",
-            "texto": "O profissional de TI pode compartilhar dados internos da organização, desde que não haja identificação direta dos titulares das informações."
-          },
-          {
-            "letra": "D",
-            "texto": "O dever de sigilo profissional cessa após o desligamento do colaborador, exceto se houver cláusula contratual específica de não divulgação."
-          },
-          {
-            "letra": "E",
-            "texto": "A Ética Profissional em TI foca na eficiência técnica dos algoritmos, sendo as questões de privacidade de responsabilidade do setor jurídico."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica.",
-        "tambem_em": [
-          "47-047",
-          "82-040"
-        ],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 2,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "16-055",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
-        "ano": 2026,
-        "banca": "FGV",
-        "cargo_orgao": "agente especializado analista de sistemas mp es",
-        "prova": "16_agente-especializado-analista-de-sistemas-mp-es-fgv-2026",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/agente-especializado-analista-de-sistemas-mp-es-fgv-2026",
-        "numero_na_prova": 55,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Um agente técnico-estatístico na área de Tecnologia da Informação está elaborando um relatório para avaliar o desempenho de um sistema corporativo de gestão de serviços digitais. Para isso, ele utiliza dados oficiais de bases institucionais, como registros de chamados, tempo de resposta, disponibilidade do sistema e índices de satisfação dos usuários. Com base na utilização de estatísticas oficiais e na construção de indicadores de desempenho em ambientes de TI na Administração Pública, assinale a afirmativa correta.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Indicadores de desempenho em TI devem ser utilizados apenas para fins operacionais, não sendo adequados para avaliação estratégica de serviços públicos digitais."
-          },
-          {
-            "letra": "B",
-            "texto": "Indicadores de desempenho permitem avaliar a eficiência e a qualidade dos serviços de TI, apoiando a tomada de decisão e a melhoria contínua dos sistemas."
-          },
-          {
-            "letra": "C",
-            "texto": "Indicadores estatísticos em TI não podem ser utilizados para comparações entre diferentes períodos, devido à variabilidade dos sistemas tecnológicos."
-          },
-          {
-            "letra": "D",
-            "texto": "Relatórios estatísticos na área de TI devem apresentar exclusivamente dados técnicos, sem interpretação ou análise gerencial."
-          },
-          {
-            "letra": "E",
-            "texto": "A utilização de dados institucionais limita a criação de novos indicadores de desempenho em ambientes de TI."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "Indicadores de desempenho permitem avaliar a eficiência e a qualidade dos serviços de TI, apoiando a tomada de decisão e a melhoria contínua dos sistemas.",
-        "tambem_em": [
-          "47-048",
-          "82-041"
-        ],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 2,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 1,
-          "governanca_e_gestao_de_ti": 3
-        }
-      },
-      {
         "id": "16-056",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2026,
         "banca": "FGV",
         "cargo_orgao": "agente especializado analista de sistemas mp es",
@@ -6670,7 +6162,7 @@
       {
         "id": "47-022",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2026,
         "banca": "FGV",
         "cargo_orgao": "agente especializado analista de seguranca da informacao mp es",
@@ -6715,7 +6207,7 @@
       {
         "id": "47-049",
         "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2026,
         "banca": "FGV",
         "cargo_orgao": "agente especializado analista de seguranca da informacao mp es",
@@ -6802,51 +6294,6 @@
           "redes_e_infraestrutura": 2,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 11
-        }
-      },
-      {
-        "id": "55-076",
-        "subarea": "governanca_e_gestao_de_ti",
-        "origem_subarea": "revisao_manual",
-        "ano": 2026,
-        "banca": "FGV",
-        "cargo_orgao": "analista de sistemas tj sc",
-        "prova": "55_analista-de-sistemas-tj-sc-fgv-2026",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-sistemas-tj-sc-fgv-2026",
-        "numero_na_prova": 76,
-        "secao_na_prova": "Governança Projetos e TI no Setor",
-        "enunciado": "Gerenciar projetos envolve diversos desafios, entretanto há boas práticas que fornecem técnicas e ferramentas que auxiliam no planejamento, na execução e no monitoramento e controle das ações. A esse respeito, assinale a opção correta.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "O ciclo de vida ágil elimina todos os riscos do projeto, dado que o gerenciamento de mudanças fica facilitado quando se compara com um ciclo de vida preditivo."
-          },
-          {
-            "letra": "B",
-            "texto": "As estratégias de respostas aos riscos dos projetos devem ser prevenir, mitigar, aceitar, transferir e escalar, objetivando diminuir a probabilidade de o risco acontecer ou diminuir o impacto no projeto."
-          },
-          {
-            "letra": "C",
-            "texto": "Metodologias ágeis só devem ser utilizadas em projetos de tecnologia da informação."
-          },
-          {
-            "letra": "D",
-            "texto": "Scrum e Kanban não podem ser utilizados juntos pois o scrum possui papéis e responsabilidades e o Kanban foca em fluxo contínuo de atividades."
-          },
-          {
-            "letra": "E",
-            "texto": "O ciclo de vida de um projeto pode ser escolhido com base na complexidade do projeto, no conhecimento do escopo do que será produzido ou fornecido, na cultura organizacional e na maturidade da equipe técnica que irá trabalhar no projeto."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "O ciclo de vida de um projeto pode ser escolhido com base na complexidade do projeto, no conhecimento do escopo do que será produzido ou fornecido, na cultura organizacional e na maturidade da equipe técnica que irá trabalhar no projeto.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 14,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 2,
-          "governanca_e_gestao_de_ti": 3
         }
       }
     ]

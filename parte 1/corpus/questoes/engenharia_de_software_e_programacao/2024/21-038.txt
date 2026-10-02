@@ -1,0 +1,18 @@
+ID: 21-038
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao ciencia de dados epe
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Microsoft 365 é um conjunto de serviços de assinatura oferecido pela Microsoft que inclui uma gama de produtos e serviços voltados para a produtividade, a colaboração e a segurança. Correlacione as ferramentas, aplicativos ou produtos do Microsoft 365 listados a seguir, às suas respectivas funcionalidades ou descrições. 1. Microsoft Planner 2. Microsoft SharePoint 3. Microsoft to Do 4. Microsoft Sway ( ) É utilizado para criar sites, de forma fácil, nos quais é possível compartilhar, de forma segura, dados, notícias, aplicativos e informações com membros de sua equipe, dentro e fora da organização. Esses dados podem ser acessados por qualquer dispositivo com um navegador web. ( ) É utilizada para a criação e o compartilhamento de relatórios interativos, de histórias pessoais e de apresentações, permitindo a integração de texto, imagens e outros conteúdos de multimídia de forma moderna, interativa e atraente. ( ) É uma ferramenta intuitiva e colaborativa de gerenciamento de tarefas que permite que as pessoas planejem, gerenciem e concluam iniciativas baseadas em tarefas, atribuídas por meio de um painel do tipo Kanban. ( ) É projetada para ajudar o usuário a organizar e priorizar suas atividades diárias por meio de listas de tarefas. Assinale a opção que indica a relação correta, segundo a ordem apresentada.
+
+[ALTERNATIVAS]
+(A) 1 – 4 – 2 – 3.
+(B) 4 – 2 – 3 – 1.
+(C) 2 – 1 – 3 – 4.
+(D) 4 – 3 – 1 – 2.
+(E) 2 – 4 – 1 – 3.
+
+[GABARITO]
+E

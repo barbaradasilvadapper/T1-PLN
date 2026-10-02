@@ -11368,31 +11368,6 @@
     }
   },
   {
-    "id": "11-029",
-    "prova": "11_analista-judiciario-desenvolvimento-de-sistemas-tj-rr-fgv-2024",
-    "numero": 29,
-    "secao": null,
-    "motivos": [
-      "fora_de_computacao_revisao_manual"
-    ],
-    "enunciado": "Os Guias de Contratações Sustentáveis devem observar a legislação vigente e as normas técnicas para aferição e garantia da aplicação dos requisitos mínimos de qualidade, utilidade, resistência, segurança e acessibilidade dos materiais utilizados de acordo com as orientações dos seguintes órgãos competentes, à exceção de um. Assinale-o.",
-    "alternativas": {
-      "A": "Agência Nacional de Saúde Suplementar (ANS).",
-      "B": "Instituto Brasileiro do Meio Ambiente e Recursos (Ibama).",
-      "C": "Associação Brasileira de Normas Técnicas (ABNT NBR).",
-      "D": "Sistema Brasileiro de Avaliação de Conformidade (SBAC).",
-      "E": "Agência Nacional do Petróleo (ANP)."
-    },
-    "gabarito": "A",
-    "pontuacao_subareas": {
-      "engenharia_de_software_e_programacao": 3,
-      "banco_de_dados_e_ciencia_de_dados": 0,
-      "redes_e_infraestrutura": 0,
-      "seguranca_da_informacao": 1,
-      "governanca_e_gestao_de_ti": 0
-    }
-  },
-  {
     "id": "11-030",
     "prova": "11_analista-judiciario-desenvolvimento-de-sistemas-tj-rr-fgv-2024",
     "numero": 30,
@@ -34197,7 +34172,7 @@
     "numero": 29,
     "secao": null,
     "motivos": [
-      "fora_de_computacao_revisao_manual"
+      "duplicada"
     ],
     "enunciado": "Os Guias de Contratações Sustentáveis devem observar a legislação vigente e as normas técnicas para aferição e garantia da aplicação dos requisitos mínimos de qualidade, utilidade, resistência, segurança e acessibilidade dos materiais utilizados de acordo com as orientações dos seguintes órgãos competentes, à exceção de um. Assinale-o.",
     "alternativas": {
@@ -101104,31 +101079,6 @@
       "engenharia_de_software_e_programacao": 0,
       "banco_de_dados_e_ciencia_de_dados": 0,
       "redes_e_infraestrutura": 1,
-      "seguranca_da_informacao": 0,
-      "governanca_e_gestao_de_ti": 0
-    }
-  },
-  {
-    "id": "90-034",
-    "prova": "90_analista-especializado-analista-de-sistemas-imbel-fgv-2021",
-    "numero": 34,
-    "secao": "Noções de Informática",
-    "motivos": [
-      "fora_de_computacao_revisao_manual"
-    ],
-    "enunciado": "Rodrigo preparou um documento no LO Writer, no qual inseriu trechos oriundos da Internet, copiando e colando, sendo que alguns desses trechos tinham diferentes estilos de formatação. Para manter a uniformidade do documento, Rodrigo executou as operações usando o recurso do Writer denominado",
-    "alternativas": {
-      "A": "Alterar Estilos.",
-      "B": "Colar Especial.",
-      "C": "Copiar Especial.",
-      "D": "Converter em Texto.",
-      "E": "Pincel de Formatação. Μ1"
-    },
-    "gabarito": "B",
-    "pontuacao_subareas": {
-      "engenharia_de_software_e_programacao": 0,
-      "banco_de_dados_e_ciencia_de_dados": 0,
-      "redes_e_infraestrutura": 2,
       "seguranca_da_informacao": 0,
       "governanca_e_gestao_de_ti": 0
     }

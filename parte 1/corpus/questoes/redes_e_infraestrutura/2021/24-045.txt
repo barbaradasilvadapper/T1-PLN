@@ -1,0 +1,18 @@
+ID: 24-045
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao suporte e infraestrutura banestes
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Uma empresa startup precisa implementar uma conexão segura para apoiar o trabalho remoto (home office) de seus funcionários. Diante das diversas formas de implementação da segurança, o CIO (Chief Information Officer) elencou os seguintes critérios, que devem ser mandatórios: - implementar a segurança em camadas mais baixas do modelo TCP (Transmission Control Protocol) / IP (Internet Protocol) de forma a não ter perda relevante de performance da rede; - ser transparente aos usuários finais sem afetar suas aplicações; - garantir o sigilo, a integridade e a autenticidade; e - reduzir o overhead de gerenciamento de rede. Baseado nos critérios definidos pelo CIO, a segurança da rede deve ser implementada por meio do uso do:
+
+[ALTERNATIVAS]
+(A) IPSec (Internet Protocol Security) no formato AH (Authentication Header) no modo transporte instalado em um firewall;
+(B) IPSec (Internet Protocol Security) no formato ESP (Encapsulating Security Payload) completo no modo túnel instalado em um roteador;
+(C) SSL (Secure Socket Layer) rodando sob o HTTP (Hypertext Transfer Protocol) para garantir o tráfego seguro na Web;
+(D) algoritmo de criptografia DES (Data Encryption Standart) antes de enviar pela rede ao destinatário;
+(E) IPSec (Internet Protocol Security) no formato ESP (Encapsulating Security Payload) completo no modo transporte instalado em um switch.
+
+[GABARITO]
+B

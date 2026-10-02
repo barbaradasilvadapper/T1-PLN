@@ -1,0 +1,18 @@
+ID: 10-025
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: tecnico de nivel superior analista de sistemas computacionais analista de sistemas tj ms
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Analisando os processos de negócio do TJMS, o analista Fausto verificou que alguns fluxos são compostos por atividades executadas por diferentes unidades organizacionais. Para automatizar esses fluxos de trabalho, Fausto começou a modelar o respectivo sistema de informação. Utilizando o Diagrama de Atividades da UML para modelar as atividades, particionando em grupos representando as diferentes unidades organizacionais, Fausto deve usar um(a):
+
+[ALTERNATIVAS]
+(A) Join;
+(B) Fork;
+(C) Swimlane;
+(D) Decision Node;
+(E) Control Flow.
+
+[GABARITO]
+C

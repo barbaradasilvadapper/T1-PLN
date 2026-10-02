@@ -1,0 +1,18 @@
+ID: 54-059
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O Conjunto Mínimo de Dados da Atenção à Saúde (CMD) é o documento público que coleta os dados dos atendimentos em saúde realizados em qualquer estabelecimento de saúde público ou privado do Brasil. Trata-se de uma estratégia assumida pelos gestores do Sistema Nacional de Saúde das três esferas de gestão para redução da fragmentação dos sistemas de informação que possuem dados de caráter clínico-administrativo da atenção à saúde. Com relação ao CMD, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) O CMD substitui os principais sistemas de informação da atenção à saúde do país, a saber: Sistema de Informações Ambulatoriais(SIA), Sistema de Informação Hospitalar (SIH) e Comunicação de Informação Hospitalar e Ambulatorial (CIHA), além de subsistemas de coleta e apoio. O CMD tem adoção obrigatória em todo o Sistema Nacional de Saúde, abrangendo pessoas físicas e jurídicas que realizam atenção à saúde nas esferas pública ou privada, integrantes ou não do SUS. ( ) A coleta dos contatos assistenciais pode ser realizado de duas formas: Sistemas próprios ou pelo Sistema de Cartão Nacional de Saúde (CADSUSWEB), aplicativo móvel desenvolvido pelo Ministério da Saúde. ( ) Com relação à integração das bases do SISAB (AB/SUS) e TISS/ANS (saúde suplementar) com a base do CMD, os contatos assistenciais provenientes dos atendimentos da Saúde Suplementar, enviados à ANS através da TISS, ou os contatos assistenciais realizados pelas Equipes de Atenção Básica do SUS, que compõem a base do Sistema de Informação em Saúde para a Atenção Básica (SISAB), não precisam ser coletados e enviados para o CMD. Essas bases de dados serão integradas diretamente à base do CMD por meio de serviços Web RESTFul de integração com arquivos XML. As afirmativas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) V – F – V.
+(B) F – V – V.
+(C) V – F – F.
+(D) F – F – V.
+(E) V – V – F.
+
+[GABARITO]
+C

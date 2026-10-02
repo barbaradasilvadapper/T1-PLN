@@ -1,0 +1,18 @@
+ID: 63-080
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de gestao corporativa tecnologia da informacao solucoes epe
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Testes de carga são fundamentais para definir a capacidade e garantir o desempenho esperado de um sistema. Sobre a ferramenta Apache JMeter, analise as afirmativas a seguir. I. Samplers no JMeter são responsáveis por enviar requisições para os servidores, e cada tipo de Sampler é projetado para testar um protocolo ou serviço específico. II. Os usuários virtuais de um Thread Group são iniciados simultaneamente, e o JMeter utiliza Timers para adicionar atrasos nas suas requisições, simulando o comportamento realista dos usuários. III. Assertions são usadas no JMeter para verificar se as respostas dos servidores atendem aos critérios esperados, como conteúdo, tempo de resposta e código de status.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) II, apenas.
+(C) III, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas.
+
+[GABARITO]
+D

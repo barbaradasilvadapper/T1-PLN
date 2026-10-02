@@ -16,7 +16,7 @@ from sklearn.pipeline import make_pipeline
 from transformers import AutoModel, AutoTokenizer
 
 RAIZ = Path(__file__).resolve().parents[2]
-OUT = RAIZ / "parte 3" / "classificacao"
+OUT = RAIZ / "parte 3" / "resultados"
 qs = {q["id"]: q for q in json.load(open(RAIZ / "parte 1/corpus/corpus.json"))["questoes"]}
 split = json.load(open(OUT / "split.json"))
 

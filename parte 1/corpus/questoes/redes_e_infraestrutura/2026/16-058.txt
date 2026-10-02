@@ -1,0 +1,18 @@
+ID: 16-058
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente especializado analista de sistemas mp es
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Comunicação assíncrona é um modelo de interação entre sistemas, em que o emissor envia uma mensagem sem precisar aguardar uma resposta imediata do receptor para continuar sua execução. O receptor processa a mensagem quando estiver disponível e, por vezes, há um intermediário. Em outras palavras, o envio e o processamento da mensagem ocorrem em momentos independentes. Tal abordagem é comumente aplicada em cenários de mensageria, tais como notificações, filas e event streamings. As tecnologias que se associam as aplicações mencionadas são, respectivamente,
+
+[ALTERNATIVAS]
+(A) API Gateway, RabbitMQ e Kafka.
+(B) Kafka, RabbitMQ e Webhooks.
+(C) Webhooks, Kafka e API Gateway.
+(D) Webhooks, RabbitMQ e Kafka.
+(E) RabbitMQ, Kafka e Webhooks.
+
+[GABARITO]
+D

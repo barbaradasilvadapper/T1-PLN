@@ -1,0 +1,18 @@
+ID: 73-069
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+O analista André está reforçando a segurança de um site do TRF1 que é servido pelo nginx. André deve configurar o nginx de forma que as respostas do Hypertext Transfer Protocol (HTTP) incluam o cabeçalho do HTTP que orienta o browser do cliente a carregar o site apenas se o acesso for feito via HTTPS. André deve configurar no nginx a inclusão do cabeçalho do HTTP:
+
+[ALTERNATIVAS]
+(A) Referrer-Policy;
+(B) X-XSS-Protection;
+(C) X-Frame-Options;
+(D) Content-Security-Policy;
+(E) Strict-Transport-Security.
+
+[GABARITO]
+E

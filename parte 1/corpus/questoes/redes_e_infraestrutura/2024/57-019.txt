@@ -1,0 +1,18 @@
+ID: 57-019
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Para reduzir o recebimento de e-mails falsos de outros domínios, a equipe de Tecnologia da Informação (TI) do órgão configurou o SPF (Sender Policy Framework) em seus servidores de domínio que estão hospedados na nuvem. Foi realizada uma configuração no SPF para permitir que uma mensagem não seja rejeitada caso a consulta ao domínio de origem informe que o IP do servidor de e-mail não está cadastrado, implementando-se assim a técnica de greylisting. A configuração SPF realizada pela equipe de TI foi:
+
+[ALTERNATIVAS]
+(A) Fail;
+(B) SoftFail;
+(C) Pass;
+(D) Neutral;
+(E) TempError.
+
+[GABARITO]
+B

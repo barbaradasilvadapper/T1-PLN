@@ -1,57 +1,9 @@
 {
   "subarea": "seguranca_da_informacao",
   "nome": "Segurança da Informação",
-  "total": 517,
+  "total": 505,
   "anos": {
     "2021": [
-      {
-        "id": "01-040",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2021,
-        "banca": "FGV",
-        "cargo_orgao": "analista em tecnologia da informacao desenvolvimento de sistemas banestes",
-        "prova": "01_analista-em-tecnologia-da-informacao-desenvolvimento-de-sistemas-banestes-fgv-2021",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-em-tecnologia-da-informacao-desenvolvimento-de-sistemas-banestes-fgv-2021",
-        "numero_na_prova": 40,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "No contexto das aplicações web, Ajax é uma tecnologia que destina-se primordialmente a:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "criptografar dados que são transmitidos pela rede;"
-          },
-          {
-            "letra": "B",
-            "texto": "enviar e receber dados do servidor sem precisar recarregar a página inteira;"
-          },
-          {
-            "letra": "C",
-            "texto": "evitar ataques por meio de aplicativo web;"
-          },
-          {
-            "letra": "D",
-            "texto": "implementar mecanismos de login de duas etapas;"
-          },
-          {
-            "letra": "E",
-            "texto": "controlar aplicativos web que operam em diferentes plataformas."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "enviar e receber dados do servidor sem precisar recarregar a página inteira;",
-        "tambem_em": [
-          "24-040",
-          "37-040"
-        ],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 1,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 1,
-          "seguranca_da_informacao": 2,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
       {
         "id": "01-060",
         "subarea": "seguranca_da_informacao",
@@ -190,7 +142,7 @@
       {
         "id": "02-063",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2021,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao desenvolvimento de sistemas tj ro",
@@ -274,51 +226,6 @@
           "banco_de_dados_e_ciencia_de_dados": 0,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 5,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "24-045",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2021,
-        "banca": "FGV",
-        "cargo_orgao": "analista em tecnologia da informacao suporte e infraestrutura banestes",
-        "prova": "24_analista-em-tecnologia-da-informacao-suporte-e-infraestrutura-banestes-fgv-2021",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-em-tecnologia-da-informacao-suporte-e-infraestrutura-banestes-fgv-2021",
-        "numero_na_prova": 45,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Uma empresa startup precisa implementar uma conexão segura para apoiar o trabalho remoto (home office) de seus funcionários. Diante das diversas formas de implementação da segurança, o CIO (Chief Information Officer) elencou os seguintes critérios, que devem ser mandatórios: - implementar a segurança em camadas mais baixas do modelo TCP (Transmission Control Protocol) / IP (Internet Protocol) de forma a não ter perda relevante de performance da rede; - ser transparente aos usuários finais sem afetar suas aplicações; - garantir o sigilo, a integridade e a autenticidade; e - reduzir o overhead de gerenciamento de rede. Baseado nos critérios definidos pelo CIO, a segurança da rede deve ser implementada por meio do uso do:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "IPSec (Internet Protocol Security) no formato AH (Authentication Header) no modo transporte instalado em um firewall;"
-          },
-          {
-            "letra": "B",
-            "texto": "IPSec (Internet Protocol Security) no formato ESP (Encapsulating Security Payload) completo no modo túnel instalado em um roteador;"
-          },
-          {
-            "letra": "C",
-            "texto": "SSL (Secure Socket Layer) rodando sob o HTTP (Hypertext Transfer Protocol) para garantir o tráfego seguro na Web;"
-          },
-          {
-            "letra": "D",
-            "texto": "algoritmo de criptografia DES (Data Encryption Standart) antes de enviar pela rede ao destinatário;"
-          },
-          {
-            "letra": "E",
-            "texto": "IPSec (Internet Protocol Security) no formato ESP (Encapsulating Security Payload) completo no modo transporte instalado em um switch."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "IPSec (Internet Protocol Security) no formato ESP (Encapsulating Security Payload) completo no modo túnel instalado em um roteador;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 3,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 18,
-          "seguranca_da_informacao": 15,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -916,7 +823,7 @@
       {
         "id": "03-069",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista legislativo informatica legislativa analise de sistemas senado federal",
@@ -961,54 +868,9 @@
         }
       },
       {
-        "id": "04-029",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2022,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario analise de sistemas tj dft",
-        "prova": "04_analista-judiciario-analise-de-sistemas-tj-dft-fgv-2022",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-analise-de-sistemas-tj-dft-fgv-2022",
-        "numero_na_prova": 29,
-        "secao_na_prova": "CONHECIMENTOS ESPECÍFICOS",
-        "enunciado": "PedidosSemEstresse é uma aplicação Web destinada a digitalizar o processo de pedidos de serviços de um órgão da administração pública. A interface de PedidosSemEstresse utilizada pelos usuários faz chamadas a uma API RESTful e não utiliza facilidades de login único (single sign-on – SSO). Recentemente, o usuário interno João utilizou suas próprias credenciais com privilégios somente de execução de métodos GET para explorar vulnerabilidades e teve acesso direto a API RESTful. Assim, João fez chamadas a métodos POST com sucesso. Com base no OWASP Top Ten, a vulnerabilidade explorada por João é da categoria:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Injection;"
-          },
-          {
-            "letra": "B",
-            "texto": "Broken Access Control;"
-          },
-          {
-            "letra": "C",
-            "texto": "Software and Data Integrity Failures;"
-          },
-          {
-            "letra": "D",
-            "texto": "Vulnerable and Outdated Components;"
-          },
-          {
-            "letra": "E",
-            "texto": "Identification and Authentication Failures."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "Broken Access Control;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 11,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 7,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "04-034",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario analise de sistemas tj dft",
@@ -1280,7 +1142,7 @@
       {
         "id": "25-035",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario suporte em tecnologia da informacao tj dft",
@@ -1319,51 +1181,6 @@
           "banco_de_dados_e_ciencia_de_dados": 0,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 2,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "25-044",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2022,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario suporte em tecnologia da informacao tj dft",
-        "prova": "25_analista-judiciario-suporte-em-tecnologia-da-informacao-tj-dft-fgv-2022",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-suporte-em-tecnologia-da-informacao-tj-dft-fgv-2022",
-        "numero_na_prova": 44,
-        "secao_na_prova": "CONHECIMENTOS ESPECÍFICOS",
-        "enunciado": "Um órgão que lida com muitos documentos sigilosos sinalizou para sua equipe de Tecnologia da Informação (TI) sua preocupação quanto a uma invasão cibernética e roubo desses documentos. Para incrementar a segurança da rede desse órgão, a equipe de TI instalou um equipamento capaz de verificar as conexões TCP em andamento antes de permitir a passagem de um determinado pacote. O equipamento instalado pela equipe de TI utiliza recursos de:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "IDS (Intrusion Detection System);"
-          },
-          {
-            "letra": "B",
-            "texto": "gateway VPN;"
-          },
-          {
-            "letra": "C",
-            "texto": "gateway de aplicação;"
-          },
-          {
-            "letra": "D",
-            "texto": "filtro de pacotes tradicionais;"
-          },
-          {
-            "letra": "E",
-            "texto": "filtro de estado."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "filtro de estado.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 1,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 8,
-          "seguranca_da_informacao": 5,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -1460,7 +1277,7 @@
       {
         "id": "38-033",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario seguranca da informacao tj dft",
@@ -1505,7 +1322,7 @@
       {
         "id": "38-036",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario seguranca da informacao tj dft",
@@ -1773,9 +1590,54 @@
         }
       },
       {
+        "id": "38-042",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2022,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario seguranca da informacao tj dft",
+        "prova": "38_analista-judiciario-seguranca-da-informacao-tj-dft-fgv-2022",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-seguranca-da-informacao-tj-dft-fgv-2022",
+        "numero_na_prova": 42,
+        "secao_na_prova": "CONHECIMENTOS ESPECÍFICOS",
+        "enunciado": "A equipe de segurança de um órgão público detectou em seus sistemas de monitoramento a seguinte requisição em direção a um site do órgão: http://www.site.gov.br/index.php?username=1'%20or%20'1'%20 =%20'1'))/*&password=t&$t3. O tipo e a técnica de ataque detectados são, respectivamente:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "HTML injection, com o objetivo de alterar a página de login;"
+          },
+          {
+            "letra": "B",
+            "texto": "SQL injection, com o objetivo de bypassar a página de login;"
+          },
+          {
+            "letra": "C",
+            "texto": "SQL injection, com o objetivo de forçar o banco de dados a gerar um erro;"
+          },
+          {
+            "letra": "D",
+            "texto": "Command injection, com o objetivo de realizar a execução de código na página de login;"
+          },
+          {
+            "letra": "E",
+            "texto": "Command injection, com o objetivo de forçar o banco de dados a gerar um erro."
+          }
+        ],
+        "gabarito": "B",
+        "resposta_correta": "SQL injection, com o objetivo de bypassar a página de login;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 5,
+          "banco_de_dados_e_ciencia_de_dados": 9,
+          "redes_e_infraestrutura": 4,
+          "seguranca_da_informacao": 7,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "38-043",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario seguranca da informacao tj dft",
@@ -2495,7 +2357,7 @@
       {
         "id": "83-062",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario tecnologia da informacao trt 13",
@@ -2720,7 +2582,7 @@
       {
         "id": "85-063",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista tecnico tecnologia da informacao tce to",
@@ -2900,7 +2762,7 @@
       {
         "id": "85-069",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista tecnico tecnologia da informacao tce to",
@@ -3573,51 +3435,6 @@
         }
       },
       {
-        "id": "87-079",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2022,
-        "banca": "FGV",
-        "cargo_orgao": "analista em tecnologia da informacao mp sc",
-        "prova": "87_analista-em-tecnologia-da-informacao-mp-sc-fgv-2022",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-em-tecnologia-da-informacao-mp-sc-fgv-2022",
-        "numero_na_prova": 79,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "O analista em TI Pedro constatou que o site principal do MPSC www.mpsc.mp.br está direcionando os usuários a uma página que apresenta o aspecto visual correto, mas que possui um endereço IP desconhecido pela equipe de infraestrutura de TI do MPSC. Pedro logo concluiu que a infraestrutura de TI do MPSC está sofrendo um ataque do tipo:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "backdoor;"
-          },
-          {
-            "letra": "B",
-            "texto": "negação de serviço;"
-          },
-          {
-            "letra": "C",
-            "texto": "ransonware;"
-          },
-          {
-            "letra": "D",
-            "texto": "cavalo de troia;"
-          },
-          {
-            "letra": "E",
-            "texto": "spoofing."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "spoofing.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 4,
-          "seguranca_da_informacao": 8,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "88-037",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -3665,7 +3482,7 @@
       {
         "id": "88-039",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "perito criminal ciencia da computacao analista de sistema sead ap",
@@ -3841,186 +3658,6 @@
           "seguranca_da_informacao": 12,
           "governanca_e_gestao_de_ti": 0
         }
-      },
-      {
-        "id": "88-047",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2022,
-        "banca": "FGV",
-        "cargo_orgao": "perito criminal ciencia da computacao analista de sistema sead ap",
-        "prova": "88_perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
-        "numero_na_prova": 47,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Um perito de um órgão público realizou a seguinte análise em um arquivo de memória volátil (RAM) denominado mem.dmp, obtido em tempo real em um sistema em execução: $ python vol.py –f mem.dmp --profile=Win7SP1x64 pslist O possível objetivo do perito com a execução do comando foi listar",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "o relacionamento entre os processos pais e filhos."
-          },
-          {
-            "letra": "B",
-            "texto": "os comandos executados no console."
-          },
-          {
-            "letra": "C",
-            "texto": "os processos em execução."
-          },
-          {
-            "letra": "D",
-            "texto": "os processos ocultos."
-          },
-          {
-            "letra": "E",
-            "texto": "as conexões de rede."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "os processos em execução.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 1,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "88-048",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2022,
-        "banca": "FGV",
-        "cargo_orgao": "perito criminal ciencia da computacao analista de sistema sead ap",
-        "prova": "88_perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
-        "numero_na_prova": 48,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "O formato de arquivo chamado Raw, padrão para a saída gerada pelo comando dd do Linux/UNIX, é uma cópia bit a bit dos dados brutos da unidade que está sob investigação, que pode ser usado na criação de uma imagem da unidade completa ou de um único volume (partição). Assinale a opção que apresenta a principal desvantagem do formato Raw.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Não ser suportado na maioria dos programas de computação forense."
-          },
-          {
-            "letra": "B",
-            "texto": "Requerer o mesmo espaço de armazenamento da unidade de origem."
-          },
-          {
-            "letra": "C",
-            "texto": "Ignorar erros de leitura menores a partir da unidade de origem."
-          },
-          {
-            "letra": "D",
-            "texto": "Realizar uma rápida transferência de dados."
-          },
-          {
-            "letra": "E",
-            "texto": "Realizar a compactação dos dados."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "Requerer o mesmo espaço de armazenamento da unidade de origem.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 4,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "88-049",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2022,
-        "banca": "FGV",
-        "cargo_orgao": "perito criminal ciencia da computacao analista de sistema sead ap",
-        "prova": "88_perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
-        "numero_na_prova": 49,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "O perito José copiou dados brutos do DiscoA, que possui tamanho de setor de 4096 bytes, para o arquivoB do DiscoC. Para este fim, José utilizou a ferramenta dd, executando no sistema operacional do DiscoC o seguinte comando: dd if=DiscoA of=arquivoB bs=4096w count=1 seek=6 O argumento bs definiu o tamanho do bloco utilizado pelo dd para a entrada e para a saída. Portanto, o comando executado por José copiou do DiscoA",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "1 setor, iniciando no 6º bloco do DiscoA, para o DiscoC, iniciando no 1º bloco do arquivoB."
-          },
-          {
-            "letra": "B",
-            "texto": "2 setores, iniciando no 1º bloco do DiscoA, para o DiscoC, iniciando no 7º bloco do arquivoB."
-          },
-          {
-            "letra": "C",
-            "texto": "2 setores, iniciando no 6º bloco do DiscoA, para o DiscoC, iniciando no 1º bloco do arquivoB."
-          },
-          {
-            "letra": "D",
-            "texto": "4096 setores, iniciando no 1º bloco do DiscoA, para o DiscoC, iniciando no 6º bloco do arquivoB."
-          },
-          {
-            "letra": "E",
-            "texto": "4096 setores, iniciando no 7º bloco do DiscoA, para o DiscoC, iniciando no 1º bloco do arquivoB."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "2 setores, iniciando no 1º bloco do DiscoA, para o DiscoC, iniciando no 7º bloco do arquivoB.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "88-051",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2022,
-        "banca": "FGV",
-        "cargo_orgao": "perito criminal ciencia da computacao analista de sistema sead ap",
-        "prova": "88_perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
-        "numero_na_prova": 51,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A perita criminal Joana suspeitou que o ramdisk genérico do sistema operacional Android 12 de CelularB havia sido maliciosamente modificado. A fim de realizar uma análise mais aprofundada, Joana copiou do CelularB a partição do Android 12 que guarda o ramdisk genérico, efetuando assim a cópia da partição do Android",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "boot."
-          },
-          {
-            "letra": "B",
-            "texto": "cache."
-          },
-          {
-            "letra": "C",
-            "texto": "system."
-          },
-          {
-            "letra": "D",
-            "texto": "vendor."
-          },
-          {
-            "letra": "E",
-            "texto": "recovery."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "boot.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 6,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 4,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
       }
     ],
     "2023": [
@@ -4163,54 +3800,6 @@
         }
       },
       {
-        "id": "06-080",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2023,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario apoio especializado tecnologia da informacao desenvolvimento de sistemas tj ap",
-        "prova": "06_analista-judiciario-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-tj-ap-fgv-2023",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-apoio-especializado-tecnologia-da-informacao-desenvolvimento-de-sistemas-tj-ap-fgv-2023",
-        "numero_na_prova": 80,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A analista Joana implementou o sistema de autorização da aplicação TJApp utilizando o protocolo OAuth2. Joana decidiu por implementar o fluxo do OAuth2 de concessão por código de autorização. A fim de indicar ao servidor de autorização o fluxo de concessão escolhido, Joana atribuiu ao parâmetro response_type da requisição de autorização de TJApp o valor associado ao fluxo implementado, conforme a especificação do OAuth2. Joana atribuiu ao response_type o valor:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "code;"
-          },
-          {
-            "letra": "B",
-            "texto": "token;"
-          },
-          {
-            "letra": "C",
-            "texto": "auth-code;"
-          },
-          {
-            "letra": "D",
-            "texto": "access-token;"
-          },
-          {
-            "letra": "E",
-            "texto": "client-credentials."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "code;",
-        "tambem_em": [
-          "18-080",
-          "40-080"
-        ],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 4,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "07-065",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -4303,7 +3892,7 @@
       {
         "id": "18-074",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario apoio especializado tecnologia da informacao banco de dados tj ap",
@@ -4483,7 +4072,7 @@
       {
         "id": "27-048",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista area de apoio especializado tecnologia da informacao infraestrutura e redes dpe rs",
@@ -5158,7 +4747,7 @@
       {
         "id": "39-052",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs",
@@ -5242,51 +4831,6 @@
           "banco_de_dados_e_ciencia_de_dados": 0,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 10,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "39-055",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2023,
-        "banca": "FGV",
-        "cargo_orgao": "analista area de apoio especializado tecnologia da informacao seguranca da informacao dpe rs",
-        "prova": "39_analista-area-de-apoio-especializado-tecnologia-da-informacao-seguranca-da-informacao-dpe-rs-fgv-2023",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-area-de-apoio-especializado-tecnologia-da-informacao-seguranca-da-informacao-dpe-rs-fgv-2023",
-        "numero_na_prova": 55,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "O sistema DefProc permite o acesso aos processos que ficam armazenados na intranet da DPE/RS e será disponibilizado para o público geral na internet. Para isso, o DefProc será hospedado em um servidor em ambiente de DMZ. O analista Lucas, responsável pela implementação do sistema, verificou que as especificações determinam que devem ser usadas duas placas de rede nesse servidor: uma para acesso à intranet e outra para acesso à internet. A utilização dessas duas placas possibilita a:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "melhoria de performance, pois permite aumento na velocidade da rede;"
-          },
-          {
-            "letra": "B",
-            "texto": "preservação de integridade, pois garante a checagem dos dados;"
-          },
-          {
-            "letra": "C",
-            "texto": "manutenção de confidencialidade, pois assegura a encriptação dos dados;"
-          },
-          {
-            "letra": "D",
-            "texto": "segurança adicional, pois inclui uma separação na camada física das redes;"
-          },
-          {
-            "letra": "E",
-            "texto": "garantia de disponibilidade, pois permite redundância no acesso ao servidor."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "segurança adicional, pois inclui uma separação na camada física das redes;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 7,
-          "seguranca_da_informacao": 8,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -5563,7 +5107,7 @@
       {
         "id": "40-042",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap",
@@ -5878,7 +5422,7 @@
       {
         "id": "40-067",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap",
@@ -6418,7 +5962,7 @@
       {
         "id": "41-055",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario analise de sistemas seguranca da informacao tj se",
@@ -6463,7 +6007,7 @@
       {
         "id": "41-056",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario analise de sistemas seguranca da informacao tj se",
@@ -6508,7 +6052,7 @@
       {
         "id": "41-057",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario analise de sistemas seguranca da informacao tj se",
@@ -6553,7 +6097,7 @@
       {
         "id": "41-058",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario analise de sistemas seguranca da informacao tj se",
@@ -6823,7 +6367,7 @@
       {
         "id": "41-067",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario analise de sistemas seguranca da informacao tj se",
@@ -7003,7 +6547,7 @@
       {
         "id": "48-029",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "agente da fiscalizacao ti tce sp",
@@ -7046,9 +6590,54 @@
         }
       },
       {
+        "id": "48-030",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "palavras_chave",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "agente da fiscalizacao ti tce sp",
+        "prova": "48_agente-da-fiscalizacao-ti-tce-sp-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/agente-da-fiscalizacao-ti-tce-sp-fgv-2023",
+        "numero_na_prova": 30,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "O Ataque “Ping da morte\" é um ataque de negação de serviço (DoS) em que o invasor visa interromper uma máquina alvo enviando um pacote maior que o tamanho máximo permitido, fazendo com que a máquina visada trave ou falhe. De forma a evitar esse ataque, o Departamento de Segurança do Tribunal de Contas do Estado de São Paulo (TCE SP) resolveu bloquear as requisições de PING, impedindo que outro computador utilize esse comando para obter informações sobre o servidor. Para isso, efetuará o bloqueio com o Iptables. Sabendo-se que a interface do servidor é eth0, o comando de aplicação da regra de bloqueio no IPTABLES é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "$ iptables -A INPUT -p icmp -i eth0 -j DROP;"
+          },
+          {
+            "letra": "B",
+            "texto": "$ iptables -A OUTPUT -p snmp -i eth0 -j DROP;"
+          },
+          {
+            "letra": "C",
+            "texto": "# iptables -A INPUT -p icmp -i eth0 -j DROP;"
+          },
+          {
+            "letra": "D",
+            "texto": "# iptables -A OUTPUT -p icmp -i eth0 -j DROP;"
+          },
+          {
+            "letra": "E",
+            "texto": "# iptables -A INPUT -p snmp -i eth0 -j DROP."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "# iptables -A INPUT -p icmp -i eth0 -j DROP;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 1,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 12,
+          "seguranca_da_informacao": 10,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "48-044",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "agente da fiscalizacao ti tce sp",
@@ -7093,7 +6682,7 @@
       {
         "id": "48-046",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "agente da fiscalizacao ti tce sp",
@@ -7363,7 +6952,7 @@
       {
         "id": "58-023",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista legislativo informatica legislativa tarde camara dos deputados",
@@ -7762,6 +7351,51 @@
           "banco_de_dados_e_ciencia_de_dados": 1,
           "redes_e_infraestrutura": 7,
           "seguranca_da_informacao": 9,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "59-062",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario apoio especializado tecnologia da informacao telecomunicacoes tj ap",
+        "prova": "59_analista-judiciario-apoio-especializado-tecnologia-da-informacao-telecomunicacoes-tj-ap-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-apoio-especializado-tecnologia-da-informacao-telecomunicacoes-tj-ap-fgv-2023",
+        "numero_na_prova": 62,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Um diretório ativo hipotético, baseado no LDAP, foi criado para registrar os funcionários dos Tribunais de Justiça dos Estados do Amapá e Amazonas. A lista a seguir apresenta todas as entradas do diretório, em ordem alfabética: cn=Andressa, ou=Departamento de Processo Judicial, o=TJ do Amazonas, c=Brasil cn=Bruno, ou=Departamento de Gestão de TIC, o=TJ do Amapá, c=Brasil cn=Claudio, ou=Departamento de Processo Judicial, o=TJ do Amapá, c=Brasil cn=Debora, ou=Departamento de Processo Judicial, o=TJ do Amapá, c=Brasil cn=Elaine, ou=Departamento de Gestão de TIC, o=TJ do Amapá, c=Brasil cn=Flavio, ou=Departamento de Processo Judicial, o=TJ do Amapá, c=Brasil cn=Gabriel, ou=Departamento de Gestão de TIC, o=TJ do Amazonas, c=Brasil cn=Heitor, ou=Departamento de Processo Judicial, o=TJ do Amapá, c=Brasil Com relação aos dados apresentados, é correto afirmar que:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Andressa e Flavio trabalham na mesma organização."
+          },
+          {
+            "letra": "B",
+            "texto": "o TJ do Amazonas possui 3 funcionários;"
+          },
+          {
+            "letra": "C",
+            "texto": "Bruno e Elaine trabalham no mesmo Departamento;"
+          },
+          {
+            "letra": "D",
+            "texto": "o Departamento de Gestão de TIC do TJ do Amazonas possui 2 funcionários;"
+          },
+          {
+            "letra": "E",
+            "texto": "o Departamento de Processo Judicial do TJ do Amapá possui 3 funcionários."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "Bruno e Elaine trabalham no mesmo Departamento;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 2,
+          "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -8353,7 +7987,7 @@
       {
         "id": "94-077",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao pgm rj",
@@ -8674,7 +8308,7 @@
       {
         "id": "09-038",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao desenvolvimento de software dataprev",
@@ -8866,7 +8500,7 @@
       {
         "id": "09-056",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao desenvolvimento de software dataprev",
@@ -8995,51 +8629,6 @@
           "banco_de_dados_e_ciencia_de_dados": 0,
           "redes_e_infraestrutura": 1,
           "seguranca_da_informacao": 11,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "09-064",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de tecnologia da informacao desenvolvimento de software dataprev",
-        "prova": "09_analista-de-tecnologia-da-informacao-desenvolvimento-de-software-dataprev-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-desenvolvimento-de-software-dataprev-fgv-2024",
-        "numero_na_prova": 64,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A arquitetura de segurança X.800 para o modelo OSI define mecanismos de segurança próprios, que podem ser incorporados à uma camada de protocolo específica com o objetivo de oferecer serviços de segurança OSI, ou mecanismos de segurança disseminados, que não são específicos de uma camada ou serviço. Assinale a opção que indica um mecanismo de segurança específico.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Detecção de evento."
-          },
-          {
-            "letra": "B",
-            "texto": "Funcionalidade confiável."
-          },
-          {
-            "letra": "C",
-            "texto": "Preenchimento de tráfego."
-          },
-          {
-            "letra": "D",
-            "texto": "Rótulo de segurança."
-          },
-          {
-            "letra": "E",
-            "texto": "Trilha de auditoria de segurança."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "Preenchimento de tráfego.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 6,
-          "seguranca_da_informacao": 1,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -9234,7 +8823,7 @@
       {
         "id": "11-064",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario desenvolvimento de sistemas tj rr",
@@ -9614,7 +9203,7 @@
       {
         "id": "12-047",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "auditor de controle externo informatica analista de sistemas tce pa",
@@ -10159,7 +9748,7 @@
       {
         "id": "23-050",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de sistemas administrador de banco de dados infraestrutura o m ses mt",
@@ -12317,6 +11906,51 @@
         }
       },
       {
+        "id": "33-065",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "palavras_chave",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1",
+        "prova": "33_analista-judiciario-area-apoio-especializado-especialidade-suporte-em-tecnologia-da-informacao-trf-1-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-especialidade-suporte-em-tecnologia-da-informacao-trf-1-fgv-2024",
+        "numero_na_prova": 65,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A análise SWOT é uma ferramenta de gestão. No contexto do planejamento de tecnologia da informação e comunicação (TIC), tal ferramenta avalia as características:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "negativas, que podem restringir o desempenho da TIC (ameaça), em relação ao ambiente interno;"
+          },
+          {
+            "letra": "B",
+            "texto": "positivas, que a TIC pode explorar para atingir suas metas (oportunidades), em relação ao ambiente interno;"
+          },
+          {
+            "letra": "C",
+            "texto": "não controláveis pela TIC, que a podem impedir de atingir as metas planejadas e comprometer o crescimento organizacional (ameaças), em relação ao ambiente externo;"
+          },
+          {
+            "letra": "D",
+            "texto": "não controláveis pela TIC, com potencial para ajudar a organização a crescer e atingir ou exceder as metas planejadas (oportunidades), em relação ao ambiente interno;"
+          },
+          {
+            "letra": "E",
+            "texto": "não controláveis pela TIC, que a podem impedir de atingir as metas planejadas e comprometer o crescimento organizacional (vulnerabilidades), em relação ao ambiente externo."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "não controláveis pela TIC, que a podem impedir de atingir as metas planejadas e comprometer o crescimento organizacional (ameaças), em relação ao ambiente externo;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 4,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "33-072",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -12501,51 +12135,6 @@
           "banco_de_dados_e_ciencia_de_dados": 0,
           "redes_e_infraestrutura": 4,
           "seguranca_da_informacao": 5,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "42-049",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev",
-        "prova": "42_analista-de-tecnologia-da-informacao-seguranca-cibernetica-e-protecao-de-dados-dataprev-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-seguranca-cibernetica-e-protecao-de-dados-dataprev-fgv-2024",
-        "numero_na_prova": 49,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Em um ambiente de rede de computadores, utilizado para transmissão e recepção de mensagens, implementou-se um sistema para envio e admissão segura das mesmas, utilizando algoritmos com funções criptográficas, que são aplicados para prover a integridade das mensagens, permitindo-se verificar se a mensagem enviada foi ou não alterada. Um exemplo de algoritmo que utiliza esse modelo de função é o",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "CRC3."
-          },
-          {
-            "letra": "B",
-            "texto": "DSA."
-          },
-          {
-            "letra": "C",
-            "texto": "L2TP."
-          },
-          {
-            "letra": "D",
-            "texto": "PPTP."
-          },
-          {
-            "letra": "E",
-            "texto": "SHA-1."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "SHA-1.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 5,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 1,
-          "seguranca_da_informacao": 3,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -12817,6 +12406,51 @@
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 22,
           "governanca_e_gestao_de_ti": 2
+        }
+      },
+      {
+        "id": "42-057",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista de tecnologia da informacao seguranca cibernetica e protecao de dados dataprev",
+        "prova": "42_analista-de-tecnologia-da-informacao-seguranca-cibernetica-e-protecao-de-dados-dataprev-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-seguranca-cibernetica-e-protecao-de-dados-dataprev-fgv-2024",
+        "numero_na_prova": 57,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Caso uma empresa, aplicando a NBR ISO 31000:2018, que trata de gestão de riscos, esteja trabalhando no processo de compreensão da natureza de riscos físicos e tecnológicos da empresa, procurando considerar de forma detalhada, incertezas, fontes de risco, consequências, cenários, controles e eficácia dos controles, significa que está se trabalhando com o processo de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Avaliação de riscos."
+          },
+          {
+            "letra": "B",
+            "texto": "Definição de escopo."
+          },
+          {
+            "letra": "C",
+            "texto": "Monitoramento dos riscos."
+          },
+          {
+            "letra": "D",
+            "texto": "Seleção das soluções contra riscos."
+          },
+          {
+            "letra": "E",
+            "texto": "Tratamento das situações de riscos."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "Avaliação de riscos.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 2,
+          "seguranca_da_informacao": 2,
+          "governanca_e_gestao_de_ti": 0
         }
       },
       {
@@ -13272,7 +12906,7 @@
       {
         "id": "43-040",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de seguranca de ti tj ms",
@@ -14127,7 +13761,7 @@
       {
         "id": "45-049",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area apoio especializado especialidade seguranca da informacao trf 1",
@@ -14352,7 +13986,7 @@
       {
         "id": "45-059",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area apoio especializado especialidade seguranca da informacao trf 1",
@@ -15252,7 +14886,7 @@
       {
         "id": "51-055",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario tecnologia da informacao tj mt",
@@ -15295,9 +14929,54 @@
         }
       },
       {
+        "id": "51-058",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "palavras_chave",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario tecnologia da informacao tj mt",
+        "prova": "51_analista-judiciario-tecnologia-da-informacao-tj-mt-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-tecnologia-da-informacao-tj-mt-fgv-2024",
+        "numero_na_prova": 58,
+        "secao_na_prova": "C ONHECIMENTOS E SPECÍFICOS",
+        "enunciado": "O alinhamento estratégico entre TI e negócios é fundamental para que a TI agregue valor aos objetivos organizacionais e contribua para o sucesso da empresa. Uma prática recomendada para alcançar um alinhamento estratégico eficaz entre TI e os objetivos de negócio é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "definir indicadores de desempenho que conectem os resultados de TI diretamente aos objetivos estratégicos da organização, revisando-os periodicamente com a alta administração."
+          },
+          {
+            "letra": "B",
+            "texto": "focar o orçamento de TI em inovações tecnológicas de ponta para garantir que a organização seja líder em seu setor."
+          },
+          {
+            "letra": "C",
+            "texto": "ter uma equipe de TI dedicada exclusivamente ao desenvolvimento de novas tecnologias e à automação dos processos internos."
+          },
+          {
+            "letra": "D",
+            "texto": "elaborar um plano de recuperação de desastres para reduzir o tempo de inatividade em caso de incidentes, garantindo continuidade operacional."
+          },
+          {
+            "letra": "E",
+            "texto": "delegar toda a responsabilidade das decisões de TI para a área técnica, permitindo que o setor de TI opere com independência da administração executiva."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "definir indicadores de desempenho que conectem os resultados de TI diretamente aos objetivos estratégicos da organização, revisando-os periodicamente com a alta administração.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 5,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "51-065",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario tecnologia da informacao tj mt",
@@ -15522,7 +15201,7 @@
       {
         "id": "56-049",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm",
@@ -15970,51 +15649,6 @@
         }
       },
       {
-        "id": "57-009",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm",
-        "prova": "57_analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
-        "numero_na_prova": 9,
-        "secao_na_prova": "Segurança da Informação",
-        "enunciado": "Alguns usuários da rede local de um órgão perceberam que, ao tentar acessar um determinado site, eram sempre direcionados para uma página diferente da dos outros usuários do mesmo órgão. O incidente foi relatado para a ETIR (Equipe de Tratamento de Incidentes em Redes), que identificou que o servidor de DNS que esses usuários consultavam estava desviando o tráfego para um site falso, pois o endereço IP que constava na tabela de tradução de nomes havia sido alterado. A ETIR analisou o incidente e detectou que o servidor DNS consultado havia sofrido um ataque devido a uma vulnerabilidade do DNS. A vulnerabilidade explorada permitiu que o servidor sofresse um ataque do tipo:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "IP spoofing;"
-          },
-          {
-            "letra": "B",
-            "texto": "DNS spoofing;"
-          },
-          {
-            "letra": "C",
-            "texto": "phishing;"
-          },
-          {
-            "letra": "D",
-            "texto": "defacement;"
-          },
-          {
-            "letra": "E",
-            "texto": "sniffing."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "DNS spoofing;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 16,
-          "seguranca_da_informacao": 12,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "57-010",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -16195,51 +15829,6 @@
         }
       },
       {
-        "id": "57-019",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm",
-        "prova": "57_analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
-        "numero_na_prova": 19,
-        "secao_na_prova": "Segurança da Informação",
-        "enunciado": "Para reduzir o recebimento de e-mails falsos de outros domínios, a equipe de Tecnologia da Informação (TI) do órgão configurou o SPF (Sender Policy Framework) em seus servidores de domínio que estão hospedados na nuvem. Foi realizada uma configuração no SPF para permitir que uma mensagem não seja rejeitada caso a consulta ao domínio de origem informe que o IP do servidor de e-mail não está cadastrado, implementando-se assim a técnica de greylisting. A configuração SPF realizada pela equipe de TI foi:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Fail;"
-          },
-          {
-            "letra": "B",
-            "texto": "SoftFail;"
-          },
-          {
-            "letra": "C",
-            "texto": "Pass;"
-          },
-          {
-            "letra": "D",
-            "texto": "Neutral;"
-          },
-          {
-            "letra": "E",
-            "texto": "TempError."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "SoftFail;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 6,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "57-020",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -16332,7 +15921,7 @@
       {
         "id": "57-022",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm",
@@ -16465,51 +16054,6 @@
         }
       },
       {
-        "id": "57-034",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm",
-        "prova": "57_analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
-        "numero_na_prova": 34,
-        "secao_na_prova": "Infraestrutura de Servidores",
-        "enunciado": "Um órgão implementou o Zabbix para monitoramento de sua infraestrutura crítica de Tecnologia da Informação (TI). Para incrementar a segurança, foi implementada criptografia usando o Protocolo Transport Layer Security (TLS) v.1.3 na comunicação entre os seus componentes. A criptografia implementada no Zabbix pela equipe de TI permite:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "armazenar as chaves privadas criptografadas em arquivos legíveis pelos componentes do Zabbix durante a inicialização;"
-          },
-          {
-            "letra": "B",
-            "texto": "proteger as comunicações entre o servidor web rodando o frontend Zabbix e a web do usuário navegador;"
-          },
-          {
-            "letra": "C",
-            "texto": "usar diferentes configurações de criptografia nos servidores (proxy) para diferentes anfitriões;"
-          },
-          {
-            "letra": "D",
-            "texto": "abrir uma conexão criptografada com um handshake TLS completo, implementando cache de sessão e tickets;"
-          },
-          {
-            "letra": "E",
-            "texto": "realizar a descoberta de rede de ativos com criptografia ativada."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "usar diferentes configurações de criptografia nos servidores (proxy) para diferentes anfitriões;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 3,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 18,
-          "seguranca_da_informacao": 11,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "57-038",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -16557,7 +16101,7 @@
       {
         "id": "57-045",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm",
@@ -16645,48 +16189,48 @@
         }
       },
       {
-        "id": "60-028",
+        "id": "57-066",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
         "ano": 2024,
         "banca": "FGV",
-        "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms",
-        "prova": "60_tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-suporte-de-ti-tj-ms-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-suporte-de-ti-tj-ms-fgv-2024",
-        "numero_na_prova": 28,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Um sistema possui uma política de backup que estabelece cópias incrementais executadas diariamente às 6 horas e às 18 horas, de segunda-feira a sábado. Aos domingos é realizada uma cópia completa semanal às 5 horas e uma cópia incremental às 18 horas. O tempo disponível para a equipe de Tecnologia da Informação (TI) recuperar o backup é de 4 horas. Supondo que o sistema tenha sofrido uma avaria às 3 horas de uma quarta-feira e considerando o backup disponível para recuperação de acordo com a política de backup estabelecida, é correto afirmar que:",
+        "cargo_orgao": "analista cvm perfil 9 ti infraestrutura e seguranca tarde cvm",
+        "prova": "57_analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-cvm-perfil-9-ti-infraestrutura-e-seguranca-tarde-cvm-fgv-2024",
+        "numero_na_prova": 66,
+        "secao_na_prova": "Banco de Dados",
+        "enunciado": "A gestão de riscos relacionados à TI deve ser realizada de forma integrada à gestão corporativa de riscos, com uma abordagem de balanceamento de custos e benefícios. Diante do contexto apresentado, é correto afirmar que:",
         "alternativas": [
           {
             "letra": "A",
-            "texto": "o RTO (Recovery Time Objective) do sistema é de 3 horas;"
+            "texto": "o investimento necessário para a mitigação do risco deverá ser balizado pelo desejo do gerente de TI. É importante comunicar a tolerância e as probabilidades de ocorrência do risco correspondente;"
           },
           {
             "letra": "B",
-            "texto": "o RPO (Recovery Point Object) do sistema é de 6 horas;"
+            "texto": "em organizações com qualquer nível de governança corporativa, é estabelecido um sistema de gestão de riscos operacionais já com metodologias estabelecidas e com mapas de risco por processo de negócio ou por serviços;"
           },
           {
             "letra": "C",
-            "texto": "o backup disponível para recuperação atenderá ao RPO do sistema;"
+            "texto": "a avaliação de riscos implica coletar dados e identificar eventos (importantes ameaças reais que exploram significativas vulnerabilidades) com potenciais impactos negativos nos objetivos ou nas operações da organização;"
           },
           {
             "letra": "D",
-            "texto": "haverá perda de dados além do RPO do sistema;"
+            "texto": "a manutenção e monitoramento do plano de ação de risco envolvem também a obtenção de aprovações para ações recomendadas, a aceitação de quaisquer riscos residuais e a garantia de que as ações aprovadas sejam assumidas pelos donos dos processos afetados;"
           },
           {
             "letra": "E",
-            "texto": "o MTBF (Mean Time Between Failures) é de 7 dias."
+            "texto": "qualquer impacto em potencial, independente de afetar ou não os objetivos da empresa, causado por um evento não planejado deve ser identificado, analisado e avaliado. Estratégias de mitigação de risco devem ser adotadas para minimizar o risco residual a níveis aceitáveis."
           }
         ],
-        "gabarito": "C",
-        "resposta_correta": "o backup disponível para recuperação atenderá ao RPO do sistema;",
+        "gabarito": "D",
+        "resposta_correta": "a manutenção e monitoramento do plano de ação de risco envolvem também a obtenção de aprovações para ações recomendadas, a aceitação de quaisquer riscos residuais e a garantia de que as ações aprovadas sejam assumidas pelos donos dos processos afetados;",
         "tambem_em": [],
         "pontuacao_subareas": {
           "engenharia_de_software_e_programacao": 0,
           "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 6,
-          "seguranca_da_informacao": 8,
-          "governanca_e_gestao_de_ti": 0
+          "redes_e_infraestrutura": 2,
+          "seguranca_da_informacao": 5,
+          "governanca_e_gestao_de_ti": 3
         }
       },
       {
@@ -16777,6 +16321,51 @@
           "redes_e_infraestrutura": 1,
           "seguranca_da_informacao": 12,
           "governanca_e_gestao_de_ti": 1
+        }
+      },
+      {
+        "id": "60-043",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms",
+        "prova": "60_tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-suporte-de-ti-tj-ms-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-suporte-de-ti-tj-ms-fgv-2024",
+        "numero_na_prova": 43,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "João, administrador do banco de dados (DBA) do Tribunal de Justiça de Mato Grosso do Sul (TJMS), é responsável pela implementação da política de segurança do Tribunal. A ele cabem as tarefas de efetuar o controle de acesso às informações e atribuir permissões a quem for necessário. Tiago é técnico do TJMS. Embora insista em ter acesso à tabela pagamento, ele só precisa dos dados de parte dessa tabela, incluindo: nome, matrícula e função. Como forma de implementar a política de segurança e manter o acesso de Tiago, João poderá:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "criar uma conta para o técnico, atribuir uma role pra ele e adicionar a permissão de select a role para a tabela pagamento;"
+          },
+          {
+            "letra": "B",
+            "texto": "criar uma visão por meio de uma consulta que seleciona apenas as tuplas necessárias para o técnico executar seu trabalho;"
+          },
+          {
+            "letra": "C",
+            "texto": "atribuir para Tiago as mesmas permissões existentes do usuário João, de modo que Tiago tenha acesso aos dados necessários;"
+          },
+          {
+            "letra": "D",
+            "texto": "atribuir a permissão de selecionar qualquer tabela dentro da base de dados, liberando o acesso à tabela pagamento para Tiago efetuar seu trabalho;"
+          },
+          {
+            "letra": "E",
+            "texto": "usar uma visão que será criada a partir de uma consulta à tabela pagamento que seleciona as colunas necessárias ao trabalho do técnico."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "usar uma visão que será criada a partir de uma consulta à tabela pagamento que seleciona as colunas necessárias ao trabalho do técnico.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 1,
+          "banco_de_dados_e_ciencia_de_dados": 11,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 8,
+          "governanca_e_gestao_de_ti": 0
         }
       },
       {
@@ -17001,6 +16590,53 @@
           "banco_de_dados_e_ciencia_de_dados": 1,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 4,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "62-039",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista de gestao corporativa tecnologia da informacao infraestrutura e seguranca epe",
+        "prova": "62_analista-de-gestao-corporativa-tecnologia-da-informacao-infraestrutura-e-seguranca-epe-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-gestao-corporativa-tecnologia-da-informacao-infraestrutura-e-seguranca-epe-fgv-2024",
+        "numero_na_prova": 39,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A respeito dos objetivos da utilização de processamento distribuído, avalie as afirmativas a seguir. I. Garante que os dados e processos sejam protegidos contra acessos não autorizados e falhas. II. Facilita o acesso e compartilhamento de recursos remotos, como periféricos, instalações de armazenamento e serviços III. Busca ocultar a complexidade da distribuição dos processos e recursos.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "I e II, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "I e III, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "II e III, apenas"
+          },
+          {
+            "letra": "E",
+            "texto": "I, II e III."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "I, II e III.",
+        "tambem_em": [
+          "63-036"
+        ],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 1,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -17465,7 +17101,7 @@
       {
         "id": "64-045",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista legislativo analise de suporte em informatica ale to",
@@ -17510,54 +17146,9 @@
         }
       },
       {
-        "id": "66-045",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista legislativo desenvolvimento de sistema ale to",
-        "prova": "66_analista-legislativo-desenvolvimento-de-sistema-ale-to-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-desenvolvimento-de-sistema-ale-to-fgv-2024",
-        "numero_na_prova": 45,
-        "secao_na_prova": "C ONHECIMENTOS E SPECÍFICOS",
-        "enunciado": "Assinale a opção que indica o procedimento que garante tanto a qualidade quanto a segurança do código em aplicações web.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Implementação de Captchas em todas as páginas do aplicativo ignorando a necessidade de revisões de código e testes de penetração."
-          },
-          {
-            "letra": "B",
-            "texto": "Uso exclusivo de HTTPS para encriptação de dados sem revisões adicionais de código ou práticas de programação segura."
-          },
-          {
-            "letra": "C",
-            "texto": "Adoção de práticas de programação segura e revisão de código por pares, incluindo testes de segurança específicos como SQL Injection e Cross-Site Scripting (XSS)"
-          },
-          {
-            "letra": "D",
-            "texto": "Realização de testes de estresse em servidores de aplicação regularmente, sem realizar testes de segurança específicos ou revisões de código."
-          },
-          {
-            "letra": "E",
-            "texto": "Confiança na obfuscação de código como método principal de segurança, evitando testes de penetração sob a premissa de que código difícil de ler é seguro."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "Adoção de práticas de programação segura e revisão de código por pares, incluindo testes de segurança específicos como SQL Injection e Cross-Site Scripting (XSS)",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 5,
-          "banco_de_dados_e_ciencia_de_dados": 3,
-          "redes_e_infraestrutura": 3,
-          "seguranca_da_informacao": 7,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "66-047",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista legislativo desenvolvimento de sistema ale to",
@@ -17602,7 +17193,7 @@
       {
         "id": "66-052",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista legislativo desenvolvimento de sistema ale to",
@@ -17645,54 +17236,9 @@
         }
       },
       {
-        "id": "69-053",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista administrativo iii analista de sistemas alesc",
-        "prova": "69_analista-administrativo-iii-analista-de-sistemas-alesc-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-administrativo-iii-analista-de-sistemas-alesc-fgv-2024",
-        "numero_na_prova": 53,
-        "secao_na_prova": "M ÓDULO DE C ONHECIMENTOS",
-        "enunciado": "O Network Control Access (NAC) é um recurso utilizado por provedores de serviços de nuvens de computadores para a autenticação de usuários. Com relação ao NAC, avalie se as afirmativas a seguir são ( ) O NAC pode ser implementado de três maneiras distintas. ( ) Numa primeira maneira de se implementar o NAC, um pequeno arquivo de configuração é carregado nas estações de trabalho individuais; essa implementação é recomendada para nuvens do tipo IaaS. ( ) A segunda maneira envolve uma série de solicitações do tipo piggy-back entre os servidores, o cliente e o NAC quando um usuário tenta acessar a rede. Essa implementação é recomendada para nuvens do tipo PaaS. ( ) Na terceira, por padrão, o usuário precisa utilizar um token, conjuntamente com seu login e senha. Essa implementação é recomendada para nuvens do tipo SaaS.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "V – V – V – V."
-          },
-          {
-            "letra": "B",
-            "texto": "V – V – F – F."
-          },
-          {
-            "letra": "C",
-            "texto": "F – V – F – F."
-          },
-          {
-            "letra": "D",
-            "texto": "F – F – V – V."
-          },
-          {
-            "letra": "E",
-            "texto": "F – F – F – F."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "F – F – F – F.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 7,
-          "seguranca_da_informacao": 6,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "69-059",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista administrativo iii analista de sistemas alesc",
@@ -17776,51 +17322,6 @@
           "banco_de_dados_e_ciencia_de_dados": 1,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 10,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "70-057",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de informatica camara de fortaleza ce",
-        "prova": "70_analista-de-informatica-camara-de-fortaleza-ce-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-informatica-camara-de-fortaleza-ce-fgv-2024",
-        "numero_na_prova": 57,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "No passado, a empresa XPTO enfrentou uma série de desafios de segurança cibernética que abalaram sua confiança e reputação. Entre esses desafios estavam os ataques sofisticados de cache poisoning em seu sistema de nomes de domínio (DNS), que resultaram na interrupção dos serviços online e na exposição de dados sensíveis dos clientes. Para aprimorar a integridade e autenticidade de seu sistema de nomes de domínio (DNS), mitigando potenciais ameaças de falsificação de cache e reforçando a segurança da infraestrutura de rede, a empresa deve adotar",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "SPF (Sender Policy Framework)."
-          },
-          {
-            "letra": "B",
-            "texto": "DMARC (Domain-based Message Authentication, Reporting and Conformance)."
-          },
-          {
-            "letra": "C",
-            "texto": "DKIM (DomainKeys Identified Mail)."
-          },
-          {
-            "letra": "D",
-            "texto": "DNSSEC (Domain Name System Security Extensions)."
-          },
-          {
-            "letra": "E",
-            "texto": "HTTPS (Hypertext Transfer Protocol Secure)."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "DNSSEC (Domain Name System Security Extensions).",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 10,
-          "seguranca_da_informacao": 7,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -18232,7 +17733,7 @@
       {
         "id": "71-073",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista administrativo tecnologia da informacao dnit",
@@ -18410,54 +17911,9 @@
         }
       },
       {
-        "id": "72-048",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1",
-        "prova": "72_analista-judiciario-area-apoio-especializado-especialidade-analise-de-sistemas-de-informacao-trf-1-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-especialidade-analise-de-sistemas-de-informacao-trf-1-fgv-2024",
-        "numero_na_prova": 48,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A CERTI_Online é uma aplicação Web que viabiliza a solicitação de certidões e comprovantes para pessoas físicas. A CERTI_Online requer que o usuário se autentique para que possa preencher formulários para cada solicitação. Júlia, ao utilizar a CERT_ Online, precisou de bastante tempo para preencher um dos formulários. Quando ela tentou enviar a solicitação, a CERT_ Online apresentou uma mensagem dizendo que o tempo de preenchimento havia expirado. Para que Júlia tenha uma experiência consonante às recomendações do WCAG (World Content Accessibility Guide), a CERT_ Online deve:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "reter dados do formulário no servidor, disponibilizar a opção de novo processo de autenticação e aguardar novo login de Júlia bem-sucedido dentro do prazo de expiração do token;"
-          },
-          {
-            "letra": "B",
-            "texto": "dispensar a reautenticação caso Júlia esteja interagindo com a aplicação por meio de um leitor de tela, visto que ela pode precisar de mais tempo para navegar e preencher o formulário;"
-          },
-          {
-            "letra": "C",
-            "texto": "verificar se o processo usado para passar os dados para a página de reautenticação está configurado e iniciar nova contagem de tempo em separado para expiração do processo de novo login de Júlia;"
-          },
-          {
-            "letra": "D",
-            "texto": "viabilizar a reautenticação de Júlia, a qual, se bem sucedida, permite que o processo continue e seja concluído sem perda de dados, incluindo os dados originais e quaisquer alterações feitas após a reautenticação;"
-          },
-          {
-            "letra": "E",
-            "texto": "fornecer uma funcionalidade para verificar se Júlia deseja receber um código por e-mail ou telefone para dar continuidade ao preenchimento do formulário e preservar os dados digitados no modo oculto na página até que Júlia decida o que fazer."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "viabilizar a reautenticação de Júlia, a qual, se bem sucedida, permite que o processo continue e seja concluído sem perda de dados, incluindo os dados originais e quaisquer alterações feitas após a reautenticação;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 5,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 1,
-          "seguranca_da_informacao": 4,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "72-070",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area apoio especializado especialidade analise de sistemas de informacao trf 1",
@@ -18725,6 +18181,51 @@
         }
       },
       {
+        "id": "73-061",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "palavras_chave",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1",
+        "prova": "73_analista-judiciario-area-apoio-especializado-especialidade-tecnologia-da-informacao-trf-1-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-especialidade-tecnologia-da-informacao-trf-1-fgv-2024",
+        "numero_na_prova": 61,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A empresa \"CompraCerta\", uma nova plataforma de ecommerce, está implementando SSL (Secure Sockets Layer) para garantir a segurança das transações entre seus clientes e servidores. Em relação aos aspectos técnicos do SSL, é correto afirmar que:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o SSL é um protocolo único projetado para fazer uso do TCP de modo a prover um serviço fim a fim seguro e confiável;"
+          },
+          {
+            "letra": "B",
+            "texto": "entre qualquer par de participantes (aplicações como HTTP no cliente e no servidor), pode haver apenas uma conexão segura;"
+          },
+          {
+            "letra": "C",
+            "texto": "o Protocolo de Apresentação SSL consiste em uma série de mensagens trocadas entre cliente e servidor. Pode-se considerar que essa troca possui sete fases;"
+          },
+          {
+            "letra": "D",
+            "texto": "na operação global do protocolo de registro SSL, a primeira etapa é fragmentação. Cada mensagem de camada superior é fragmentada em blocos de 214 bytes (16.384 bytes) ou menos;"
+          },
+          {
+            "letra": "E",
+            "texto": "a etapa final de processamento do Protocolo de Registro SSL é anexar um cabeçalho ao início da mensagem, consistindo nos campos: tipo de conteúdo, versão principal, comprimento comprimido e handshake."
+          }
+        ],
+        "gabarito": "D",
+        "resposta_correta": "na operação global do protocolo de registro SSL, a primeira etapa é fragmentação. Cada mensagem de camada superior é fragmentada em blocos de 214 bytes (16.384 bytes) ou menos;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 8,
+          "seguranca_da_informacao": 7,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "73-062",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -18860,54 +18361,9 @@
         }
       },
       {
-        "id": "73-069",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1",
-        "prova": "73_analista-judiciario-area-apoio-especializado-especialidade-tecnologia-da-informacao-trf-1-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-especialidade-tecnologia-da-informacao-trf-1-fgv-2024",
-        "numero_na_prova": 69,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "O analista André está reforçando a segurança de um site do TRF1 que é servido pelo nginx. André deve configurar o nginx de forma que as respostas do Hypertext Transfer Protocol (HTTP) incluam o cabeçalho do HTTP que orienta o browser do cliente a carregar o site apenas se o acesso for feito via HTTPS. André deve configurar no nginx a inclusão do cabeçalho do HTTP:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Referrer-Policy;"
-          },
-          {
-            "letra": "B",
-            "texto": "X-XSS-Protection;"
-          },
-          {
-            "letra": "C",
-            "texto": "X-Frame-Options;"
-          },
-          {
-            "letra": "D",
-            "texto": "Content-Security-Policy;"
-          },
-          {
-            "letra": "E",
-            "texto": "Strict-Transport-Security."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "Strict-Transport-Security.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 8,
-          "seguranca_da_informacao": 4,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "73-070",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1",
@@ -19357,54 +18813,9 @@
         }
       },
       {
-        "id": "14-043",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista programador classe b dpe ro",
-        "prova": "14_analista-programador-classe-b-dpe-ro-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-programador-classe-b-dpe-ro-fgv-2025",
-        "numero_na_prova": 43,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A capacidade de sistemas informatizados se comunicarem com outros sistemas, por meio do compartilhamento de dados chamase interoperabilidade. O padrão de interoperabilidade que define o conjunto mínimo de premissas, políticas e especificações técnicas que regulamentam a utilização da Tecnologia de Informação e Comunicação no Poder Executivo Federal e que estabelece as condições de interação com os demais Poderes e esferas de governo e com a sociedade em geral se chama",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "open data."
-          },
-          {
-            "letra": "B",
-            "texto": "sougov."
-          },
-          {
-            "letra": "C",
-            "texto": "eping."
-          },
-          {
-            "letra": "D",
-            "texto": "inda."
-          },
-          {
-            "letra": "E",
-            "texto": "lgpd."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "eping.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 2,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "14-059",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista programador classe b dpe ro",
@@ -19443,6 +18854,51 @@
           "banco_de_dados_e_ciencia_de_dados": 0,
           "redes_e_infraestrutura": 9,
           "seguranca_da_informacao": 8,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "14-060",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista programador classe b dpe ro",
+        "prova": "14_analista-programador-classe-b-dpe-ro-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-programador-classe-b-dpe-ro-fgv-2025",
+        "numero_na_prova": 60,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A infraestrutura blockchain mantém cadeias de blocos, que representam a construção básica na infraestrutura. Estes blocos são constituídos de cabeçalho e corpo. No cabeçalho de um bloco o componente (ou estrutura de campo) Nbits representa",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o hash criptográfico do bloco anterior na cadeia"
+          },
+          {
+            "letra": "B",
+            "texto": "um campo que representa a dificuldade de mineração."
+          },
+          {
+            "letra": "C",
+            "texto": "uma estrutura de dados usada para resumir todas as transações no bloco de forma eficiente e segura"
+          },
+          {
+            "letra": "D",
+            "texto": "uma marca temporal que indica quando o bloco foi minerado"
+          },
+          {
+            "letra": "E",
+            "texto": "um valor que os mineradores ajustam para tentar encontrar um hash válido para o bloco."
+          }
+        ],
+        "gabarito": "B",
+        "resposta_correta": "um campo que representa a dificuldade de mineração.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 6,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 4,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -19488,6 +18944,51 @@
           "banco_de_dados_e_ciencia_de_dados": 0,
           "redes_e_infraestrutura": 1,
           "seguranca_da_informacao": 7,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "34-069",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista legislativo analista de redes de comunicacao de dados ale am",
+        "prova": "34_analista-legislativo-analista-de-redes-de-comunicacao-de-dados-ale-am-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-analista-de-redes-de-comunicacao-de-dados-ale-am-fgv-2025",
+        "numero_na_prova": 69,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Um portal de notícias sofreu ataque DDoS utilizando amplificação DNS e NTP. Para mitigar efetivamente ataques de amplificação, a estratégia mais apropriada inclui",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "desabilitar completamente DNS e NTP na organização."
+          },
+          {
+            "letra": "B",
+            "texto": "utilizar apenas servidores Windows."
+          },
+          {
+            "letra": "C",
+            "texto": "aumentar largura de banda sem outras medidas."
+          },
+          {
+            "letra": "D",
+            "texto": "migrar todos os serviços para IPv6."
+          },
+          {
+            "letra": "E",
+            "texto": "implementar BCP 38, rate limiting em servidores e separar servidores DNS autoritativos dos recursivos."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "implementar BCP 38, rate limiting em servidores e separar servidores DNS autoritativos dos recursivos.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 13,
+          "seguranca_da_informacao": 6,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -19897,54 +19398,9 @@
         }
       },
       {
-        "id": "36-064",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista do mpu suporte e infraestrutura mpu",
-        "prova": "36_analista-do-mpu-suporte-e-infraestrutura-mpu-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-do-mpu-suporte-e-infraestrutura-mpu-fgv-2025",
-        "numero_na_prova": 64,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Virgínia enviará uma informação confidencial a João por um canal não seguro. Ela fará uso de algoritmos simétricos com dois modos de operação diferentes para cada objetivo. O modo de operação A será utilizado para transmitir uma mensagem de baixa entropia (caracteres de inicialização para o modo de operação B) e poderá usar o paralelismo. Já o modo de operação B deverá cifrar o conteúdo da mensagem usando o número de inicialização enviado pelo modo de operação A e, mesmo que a mensagem tenha baixa entropia, o modo de operação B conseguirá remover as estatísticas da mensagem. Os modos A e B fazem uso do completamento da mensagem ao seu final para adequar ao tamanho do bloco. Portanto, Virgínia fará uso dos modos de operação A e B, respectivamente:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Counter - OFB;"
-          },
-          {
-            "letra": "B",
-            "texto": "OFB - CFB;"
-          },
-          {
-            "letra": "C",
-            "texto": "CFB - CBC;"
-          },
-          {
-            "letra": "D",
-            "texto": "ECB - CBC;"
-          },
-          {
-            "letra": "E",
-            "texto": "ECB - CFB."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "ECB - CBC;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "36-065",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista do mpu suporte e infraestrutura mpu",
@@ -20034,7 +19490,7 @@
       {
         "id": "36-074",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista do mpu suporte e infraestrutura mpu",
@@ -20254,6 +19710,51 @@
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 18,
           "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "52-049",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista de controle externo tecnologia da informacao tce pe",
+        "prova": "52_analista-de-controle-externo-tecnologia-da-informacao-tce-pe-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-controle-externo-tecnologia-da-informacao-tce-pe-fgv-2025",
+        "numero_na_prova": 49,
+        "secao_na_prova": "Governança e Gestão de TI",
+        "enunciado": "Após uma falha crítica no datacenter principal de um tribunal, o Comitê de Governança de TI foi acionado para deliberar sobre medidas estratégicas que mitiguem riscos futuros. Considerando as atribuições próprias da governança de TI, uma das ações cabíveis a esse comitê seria:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "aprovar novo orçamento para hardware de contingência."
+          },
+          {
+            "letra": "B",
+            "texto": "diagnosticar a causa-raiz da falha do datacenter."
+          },
+          {
+            "letra": "C",
+            "texto": "restaurar servidores e reconfigurar balanceadores de carga."
+          },
+          {
+            "letra": "D",
+            "texto": "treinar equipes em monitoramento proativo."
+          },
+          {
+            "letra": "E",
+            "texto": "aplicar patches emergenciais nos sistemas."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "aprovar novo orçamento para hardware de contingência.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 9,
+          "seguranca_da_informacao": 1,
+          "governanca_e_gestao_de_ti": 5
         }
       },
       {
@@ -20617,51 +20118,6 @@
         }
       },
       {
-        "id": "54-056",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista de tecnologia da informacao ebserh",
-        "prova": "54_analista-de-tecnologia-da-informacao-ebserh-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-ebserh-fgv-2025",
-        "numero_na_prova": 56,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Aplicativos de software ou scripts que executam tarefas sob comando de terceiros, permitindo que um invasor assuma remotamente o controle total do computador afetado, em que a máquina comprometida também pode ser chamada de zumbi são rotulados pelo termo:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "web drive-by."
-          },
-          {
-            "letra": "B",
-            "texto": "backdoor."
-          },
-          {
-            "letra": "C",
-            "texto": "scraper."
-          },
-          {
-            "letra": "D",
-            "texto": "trojan."
-          },
-          {
-            "letra": "E",
-            "texto": "bot."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "bot.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 5,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "76-080",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -20703,6 +20159,51 @@
           "banco_de_dados_e_ciencia_de_dados": 3,
           "redes_e_infraestrutura": 3,
           "seguranca_da_informacao": 13,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "77-049",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "palavras_chave",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista legislativo programador ale am",
+        "prova": "77_analista-legislativo-programador-ale-am-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-programador-ale-am-fgv-2025",
+        "numero_na_prova": 49,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A equipe de desenvolvimento do sistema de votação remota na Assembleia definiu os seguintes requisitos: 1. O sistema deve registrar o voto de cada parlamentar em até 1 segundo. 2. O sistema deve permanecer operacional 99,99% do tempo durante as sessões plenárias. 3. O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD). Estes requisitos acima, que descrevem critérios de desempenho, qualidade e restrição, são classificados como:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Requisitos Não-Funcionais."
+          },
+          {
+            "letra": "B",
+            "texto": "Requisitos de Usuário."
+          },
+          {
+            "letra": "C",
+            "texto": "Regras de Negócio."
+          },
+          {
+            "letra": "D",
+            "texto": "Requisitos de Domínio."
+          },
+          {
+            "letra": "E",
+            "texto": "Requisitos Funcionais."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "Requisitos Não-Funcionais.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 4,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -20842,51 +20343,6 @@
         }
       },
       {
-        "id": "77-060",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista legislativo programador ale am",
-        "prova": "77_analista-legislativo-programador-ale-am-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-programador-ale-am-fgv-2025",
-        "numero_na_prova": 60,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Apesar das vantagens de imutabilidade e descentralização, as blockchains públicas como Bitcoin ou Ethereum enfrentam desafios significativos de escalabilidade, manifestados pela baixa taxa de transações por segundo (TPS). A principal razão técnica pela qual as blockchains públicas, baseadas em algoritmos de consenso como Proof-of-Work (PoW), têm inerentemente baixa escalabilidade é",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "o uso de criptografia simétrica no payload das transações."
-          },
-          {
-            "letra": "B",
-            "texto": "a exigência de que todos os nodes na rede processem, validem e armazenem todas as transações."
-          },
-          {
-            "letra": "C",
-            "texto": "a limitação física do tamanho do bloco."
-          },
-          {
-            "letra": "D",
-            "texto": "a ausência de Smart Contracts na maioria das blockchains de primeira geração."
-          },
-          {
-            "letra": "E",
-            "texto": "o baixo custo computacional para minerar novos blocos (PoW)."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "a exigência de que todos os nodes na rede processem, validem e armazenem todas as transações.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 0,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 4,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "78-050",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -20979,7 +20435,7 @@
       {
         "id": "79-054",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista do mpu perito em tecnologia da informacao e comunicacao mpu",
@@ -21292,51 +20748,6 @@
         }
       },
       {
-        "id": "79-078",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista do mpu perito em tecnologia da informacao e comunicacao mpu",
-        "prova": "79_analista-do-mpu-perito-em-tecnologia-da-informacao-e-comunicacao-mpu-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-do-mpu-perito-em-tecnologia-da-informacao-e-comunicacao-mpu-fgv-2025",
-        "numero_na_prova": 78,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A tecnologia Blockchain tem se tornado cada vez mais presente em diversas áreas, impulsionando a inovação e a transformação digitais. Essa tecnologia permite a criação de tokens não fungíveis (NFTs), que podem funcionar como certificados digitais de autenticidade e propriedade de itens digitais. O crescente interesse global por essa tecnologia reflete seu potencial para revolucionar diversos setores, impulsionando a economia digital e criando novas possibilidades. A tecnologia Blockchain é adequada para uso, quando consideramos suas limitações e características, no cenário de:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "registro e execução de votação em uma sociedade anônima (S/A);"
-          },
-          {
-            "letra": "B",
-            "texto": "organização e armazenamento de dados multimídia de alta fidelidade;"
-          },
-          {
-            "letra": "C",
-            "texto": "agendamento de consultas médicas em consultórios privados;"
-          },
-          {
-            "letra": "D",
-            "texto": "organização e armazenamento de mensagens instantâneas entre usuários de um aplicativo;"
-          },
-          {
-            "letra": "E",
-            "texto": "edição de textos e documentos sigilosos de forma colaborativa em tempo real."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "registro e execução de votação em uma sociedade anônima (S/A);",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 2,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "80-025",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -21517,51 +20928,6 @@
         }
       },
       {
-        "id": "80-054",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao",
-        "prova": "80_analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
-        "numero_na_prova": 54,
-        "secao_na_prova": "Conhecimentos Específicos Avançados",
-        "enunciado": "A tecnologia que usa inteligência artificial, aprendizado de máquina e análises comportamentais para proteger endpoints de malwares e outros tipos de ameaças cibernéticas é denominada",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "WebProxy."
-          },
-          {
-            "letra": "B",
-            "texto": "Firewall."
-          },
-          {
-            "letra": "C",
-            "texto": "NGAV."
-          },
-          {
-            "letra": "D",
-            "texto": "IDS."
-          },
-          {
-            "letra": "E",
-            "texto": "IPS."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "NGAV.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 4,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 7,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "80-057",
         "subarea": "seguranca_da_informacao",
         "origem_subarea": "palavras_chave",
@@ -21604,6 +20970,51 @@
           "redes_e_infraestrutura": 1,
           "seguranca_da_informacao": 3,
           "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "80-058",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao",
+        "prova": "80_analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
+        "numero_na_prova": 58,
+        "secao_na_prova": "Conhecimentos Específicos Avançados",
+        "enunciado": "A Portaria 252/2020 do Conselho Nacional de Justiça dispõe sobre o Modelo de Governança e Gestão da Plataforma Digital do Poder Judiciário (PDPJ-Br). A respeito das atribuições que competem ao Comitê Gestor Nacional do PDPJ-Br, que exerce a supervisão geral da Plataforma, avalie as afirmativas a seguir. I. Homologar e propor ajustes aos projetos de desenvolvimento de microsserviços sugeridos pela Gerência Executiva e pelos Comitês Gestores dos tribunais. II. Propor à Presidência, mediante sugestão do Comitê Gestor Nacional da PDPJ, a política de tecnologia da informação a ser seguida pela PDPJ-Br. III. Propor normas regulamentadoras à Comissão Permanente de Tecnologia da Informação e Infraestrutura do Conselho Nacional de Justiça.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "II, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "III, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "I e III, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "II e III, apenas."
+          }
+        ],
+        "gabarito": "D",
+        "resposta_correta": "I e III, apenas.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 0,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 2
         }
       },
       {
@@ -21653,6 +21064,51 @@
       }
     ],
     "2026": [
+      {
+        "id": "15-045",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2026,
+        "banca": "FGV",
+        "cargo_orgao": "analista legislativo desenvolvedor de sistemas alego",
+        "prova": "15_analista-legislativo-desenvolvedor-de-sistemas-alego-fgv-2026",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-desenvolvedor-de-sistemas-alego-fgv-2026",
+        "numero_na_prova": 45,
+        "secao_na_prova": "Direito Administrativo",
+        "enunciado": "A Assembleia Legislativa precisa compartilhar informações de forma segura com parceiros externos e, ao avaliar a implementação ou melhoria de seu ambiente corporativo, deve compreender claramente suas características para garantir acesso controlado, integração adequada e proteção dos dados. Algumas características são: • Deve permitir acesso apenas a usuários autorizados, utilizando autenticação e permissões de acesso para proteger informações sensíveis. • Integrado a sistemas internos da empresa, como ERP ou CRM, para fornecer dados em tempo real. • Medidas de segurança, incluindo criptografia e firewalls, são implementadas para proteger as informações transmitidas e armazenadas. • Proporciona um ambiente onde as partes externas podem acessar documentos, compartilhar informações e realizar atividades colaborativas, como gestão de projetos. • Pode ser ajustada e expandida conforme necessário para atender às necessidades de diferentes parceiras ou modificar o acesso. • Interfaces amigáveis são comuns, permitindo que usuários não técnicos acessem informações sem dificuldades, o que é importante para a adoção desse ambiente. Estas características descrevem um ambiente:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Internet."
+          },
+          {
+            "letra": "B",
+            "texto": "Redes sem Fio (Wireless)."
+          },
+          {
+            "letra": "C",
+            "texto": "Extranet."
+          },
+          {
+            "letra": "D",
+            "texto": "Intranet."
+          },
+          {
+            "letra": "E",
+            "texto": "Redes Locais (LAN)."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "Extranet.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 10,
+          "seguranca_da_informacao": 6,
+          "governanca_e_gestao_de_ti": 1
+        }
+      },
       {
         "id": "15-068",
         "subarea": "seguranca_da_informacao",
@@ -21839,7 +21295,7 @@
       {
         "id": "16-041",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2026,
         "banca": "FGV",
         "cargo_orgao": "agente especializado analista de sistemas mp es",
@@ -21880,6 +21336,54 @@
           "banco_de_dados_e_ciencia_de_dados": 2,
           "redes_e_infraestrutura": 7,
           "seguranca_da_informacao": 11,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "16-054",
+        "subarea": "seguranca_da_informacao",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2026,
+        "banca": "FGV",
+        "cargo_orgao": "agente especializado analista de sistemas mp es",
+        "prova": "16_agente-especializado-analista-de-sistemas-mp-es-fgv-2026",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/agente-especializado-analista-de-sistemas-mp-es-fgv-2026",
+        "numero_na_prova": 54,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Em relação à Legislação e aos aspectos éticos na área de Tecnologia da Informação, assinale a afirmativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica."
+          },
+          {
+            "letra": "B",
+            "texto": "A Responsabilidade Técnica limita-se à garantia de que os sistemas estejam disponíveis, não abrangendo as falhas de configuração que resultem em acessos indevidos."
+          },
+          {
+            "letra": "C",
+            "texto": "O profissional de TI pode compartilhar dados internos da organização, desde que não haja identificação direta dos titulares das informações."
+          },
+          {
+            "letra": "D",
+            "texto": "O dever de sigilo profissional cessa após o desligamento do colaborador, exceto se houver cláusula contratual específica de não divulgação."
+          },
+          {
+            "letra": "E",
+            "texto": "A Ética Profissional em TI foca na eficiência técnica dos algoritmos, sendo as questões de privacidade de responsabilidade do setor jurídico."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica.",
+        "tambem_em": [
+          "47-047",
+          "82-040"
+        ],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 2,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -21926,51 +21430,6 @@
           "redes_e_infraestrutura": 2,
           "seguranca_da_informacao": 5,
           "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "47-028",
-        "subarea": "seguranca_da_informacao",
-        "origem_subarea": "revisao_manual",
-        "ano": 2026,
-        "banca": "FGV",
-        "cargo_orgao": "agente especializado analista de seguranca da informacao mp es",
-        "prova": "47_agente-especializado-analista-de-seguranca-da-informacao-mp-es-fgv-2026",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/agente-especializado-analista-de-seguranca-da-informacao-mp-es-fgv-2026",
-        "numero_na_prova": 28,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Em uma rede sem fio corporativa usada também para ramais VoIP, a equipe técnica decidiu empregar autenticação individualizada de usuários, mantendo criptografia adequada para proteção do tráfego na WLAN. Nesse contexto, assinale a opção que distingue corretamente as propriedades do EAP e do WPA2.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "O EAP é responsável por criptografar diretamente os quadros de dados transmitidos na WLAN; o WPA2 define mecanismos de proteção para redes sem fio baseados no IEEE 802.11i."
-          },
-          {
-            "letra": "B",
-            "texto": "O EAP é um protocolo de roteamento usado para encaminhar pacotes entre redes sem fio; o WPA2 pode empregar criptografia para proteger o tráfego transmitido na WLAN."
-          },
-          {
-            "letra": "C",
-            "texto": "O EAP pode ser utilizado em ambientes corporativos para autenticação de usuários; o WPA2 não oferece mecanismos de confidencialidade, atuando apenas na identificação do SSID da rede."
-          },
-          {
-            "letra": "D",
-            "texto": "O EAP possui uma estrutura que permite o uso de diferentes métodos de autenticação; o WPA2 utiliza mecanismos de segurança baseados no padrão IEEE 802.11i, com criptografia forte, como AES/CCMP."
-          },
-          {
-            "letra": "E",
-            "texto": "O EAP permite o uso de métodos variados de autenticação em redes de acesso; o WPA2 é utilizado exclusivamente para autenticação por endereço MAC, sem emprego de criptografia de dados."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "O EAP possui uma estrutura que permite o uso de diferentes métodos de autenticação; o WPA2 utiliza mecanismos de segurança baseados no padrão IEEE 802.11i, com criptografia forte, como AES/CCMP.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 23,
-          "seguranca_da_informacao": 18,
-          "governanca_e_gestao_de_ti": 6
         }
       },
       {
@@ -22921,7 +22380,7 @@
       {
         "id": "55-069",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2026,
         "banca": "FGV",
         "cargo_orgao": "analista de sistemas tj sc",
@@ -22966,7 +22425,7 @@
       {
         "id": "55-072",
         "subarea": "seguranca_da_informacao",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2026,
         "banca": "FGV",
         "cargo_orgao": "analista de sistemas tj sc",

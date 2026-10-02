@@ -1,7 +1,7 @@
 {
   "subarea": "banco_de_dados_e_ciencia_de_dados",
   "nome": "Banco de Dados e Ciência de Dados",
-  "total": 465,
+  "total": 464,
   "anos": {
     "2021": [
       {
@@ -141,51 +141,6 @@
           "engenharia_de_software_e_programacao": 2,
           "banco_de_dados_e_ciencia_de_dados": 5,
           "redes_e_infraestrutura": 1,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "02-043",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
-        "ano": 2021,
-        "banca": "FGV",
-        "cargo_orgao": "analista de tecnologia da informacao desenvolvimento de sistemas tj ro",
-        "prova": "02_analista-de-tecnologia-da-informacao-desenvolvimento-de-sistemas-tj-ro-fgv-2021",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-desenvolvimento-de-sistemas-tj-ro-fgv-2021",
-        "numero_na_prova": 43,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Com referência ao MongoDB, nas consultas usando o método find é possível exibir o resultado formatado por meio do método:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "format;"
-          },
-          {
-            "letra": "B",
-            "texto": "organize;"
-          },
-          {
-            "letra": "C",
-            "texto": "pretty;"
-          },
-          {
-            "letra": "D",
-            "texto": "structure;"
-          },
-          {
-            "letra": "E",
-            "texto": "tidy."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "pretty;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 1,
-          "banco_de_dados_e_ciencia_de_dados": 2,
-          "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
@@ -418,7 +373,7 @@
       {
         "id": "37-045",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2021,
         "banca": "FGV",
         "cargo_orgao": "analista em tecnologia da informacao seguranca da informacao banestes",
@@ -688,7 +643,7 @@
       {
         "id": "90-051",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2021,
         "banca": "FGV",
         "cargo_orgao": "analista especializado analista de sistemas imbel",
@@ -1191,7 +1146,7 @@
       {
         "id": "25-032",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario suporte em tecnologia da informacao tj dft",
@@ -1324,47 +1279,47 @@
         }
       },
       {
-        "id": "38-042",
+        "id": "83-040",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
-        "cargo_orgao": "analista judiciario seguranca da informacao tj dft",
-        "prova": "38_analista-judiciario-seguranca-da-informacao-tj-dft-fgv-2022",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-seguranca-da-informacao-tj-dft-fgv-2022",
-        "numero_na_prova": 42,
-        "secao_na_prova": "CONHECIMENTOS ESPECÍFICOS",
-        "enunciado": "A equipe de segurança de um órgão público detectou em seus sistemas de monitoramento a seguinte requisição em direção a um site do órgão: http://www.site.gov.br/index.php?username=1'%20or%20'1'%20 =%20'1'))/*&password=t&$t3. O tipo e a técnica de ataque detectados são, respectivamente:",
+        "cargo_orgao": "analista judiciario tecnologia da informacao trt 13",
+        "prova": "83_analista-judiciario-tecnologia-da-informacao-trt-13-fgv-2022",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-tecnologia-da-informacao-trt-13-fgv-2022",
+        "numero_na_prova": 40,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Sobre a ferramenta de monitoramento Prometheus, analise as afirmativas a seguir. I. Armazena fundamentalmente todos os dados como séries temporais. II. Possui uma linguagem para consulta das métricas armazenadas denominada PromQL. III. Coleta métricas através do protocolo HTTP. Está correto o que se afirma em",
         "alternativas": [
           {
             "letra": "A",
-            "texto": "HTML injection, com o objetivo de alterar a página de login;"
+            "texto": "I, apenas."
           },
           {
             "letra": "B",
-            "texto": "SQL injection, com o objetivo de bypassar a página de login;"
+            "texto": "II, apenas."
           },
           {
             "letra": "C",
-            "texto": "SQL injection, com o objetivo de forçar o banco de dados a gerar um erro;"
+            "texto": "III, apenas."
           },
           {
             "letra": "D",
-            "texto": "Command injection, com o objetivo de realizar a execução de código na página de login;"
+            "texto": "I e II, apenas."
           },
           {
             "letra": "E",
-            "texto": "Command injection, com o objetivo de forçar o banco de dados a gerar um erro."
+            "texto": "I, II e III."
           }
         ],
-        "gabarito": "B",
-        "resposta_correta": "SQL injection, com o objetivo de bypassar a página de login;",
+        "gabarito": "E",
+        "resposta_correta": "I, II e III.",
         "tambem_em": [],
         "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 5,
-          "banco_de_dados_e_ciencia_de_dados": 9,
-          "redes_e_infraestrutura": 4,
-          "seguranca_da_informacao": 7,
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 4,
+          "redes_e_infraestrutura": 5,
+          "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -1416,7 +1371,7 @@
       {
         "id": "83-053",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario tecnologia da informacao trt 13",
@@ -1866,7 +1821,7 @@
       {
         "id": "84-053",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area administrativa tecnologia da informacao trt 16",
@@ -2046,7 +2001,7 @@
       {
         "id": "84-066",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area administrativa tecnologia da informacao trt 16",
@@ -2091,7 +2046,7 @@
       {
         "id": "84-070",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area administrativa tecnologia da informacao trt 16",
@@ -2721,7 +2676,7 @@
       {
         "id": "87-059",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "analista em tecnologia da informacao mp sc",
@@ -2899,6 +2854,51 @@
         }
       },
       {
+        "id": "88-046",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2022,
+        "banca": "FGV",
+        "cargo_orgao": "perito criminal ciencia da computacao analista de sistema sead ap",
+        "prova": "88_perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/perito-criminal-ciencia-da-computacao-analista-de-sistema-sead-ap-fgv-2022",
+        "numero_na_prova": 46,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A aquisição de imagens de unidades de disco rígido é considerada uma das partes principais em uma investigação de computação forense, uma vez que a maioria dos dados que podem conter evidências para a investigação está neste tipo de dispositivo de armazenamento. O FTK Imager é uma ferramenta que pode ser utilizada para a criação de imagens dos tipos",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Raw (dd), NTFS, E01, AFF."
+          },
+          {
+            "letra": "B",
+            "texto": "Raw (dd), NTFS, E01, SMART."
+          },
+          {
+            "letra": "C",
+            "texto": "Raw (dd), SMART, E01, AFF."
+          },
+          {
+            "letra": "D",
+            "texto": "Raw (dd), SMART, E01, VMDK."
+          },
+          {
+            "letra": "E",
+            "texto": "Raw (dd), SMART, NTFS, VMDK."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "Raw (dd), SMART, E01, AFF.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 7,
+          "seguranca_da_informacao": 4,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "88-057",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
@@ -2991,7 +2991,7 @@
       {
         "id": "88-059",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2022,
         "banca": "FGV",
         "cargo_orgao": "perito criminal ciencia da computacao analista de sistema sead ap",
@@ -6325,51 +6325,6 @@
         }
       },
       {
-        "id": "48-041",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
-        "ano": 2023,
-        "banca": "FGV",
-        "cargo_orgao": "agente da fiscalizacao ti tce sp",
-        "prova": "48_agente-da-fiscalizacao-ti-tce-sp-fgv-2023",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/agente-da-fiscalizacao-ti-tce-sp-fgv-2023",
-        "numero_na_prova": 41,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Tabelas Hash (e assemelhadas) são utilizadas frequentemente em implementações de bancos NoSQL do tipo “Key-value”, enquanto B-trees são preferencialmente utilizadas em bancos de dados relacionais. Nesse contexto, analise as afirmativas a seguir. I. Algoritmos de busca a partir de chaves em tabelas Hash têm complexidade O(N/2), enquanto em B-trees têm complexidade O(log N). II. B-trees suportam buscas por intervalo de chaves. III. Tabelas Hash admitem e gerenciam múltiplas chaves para o mesmo objeto indexado sem redundância. Está correto somente o que se afirma em:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "I;"
-          },
-          {
-            "letra": "B",
-            "texto": "II;"
-          },
-          {
-            "letra": "C",
-            "texto": "III;"
-          },
-          {
-            "letra": "D",
-            "texto": "I e II;"
-          },
-          {
-            "letra": "E",
-            "texto": "II e III."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "II;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 13,
-          "banco_de_dados_e_ciencia_de_dados": 6,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "48-042",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
@@ -6552,7 +6507,7 @@
       {
         "id": "48-074",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "agente da fiscalizacao ti tce sp",
@@ -6910,9 +6865,54 @@
         }
       },
       {
+        "id": "58-019",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "analista legislativo informatica legislativa tarde camara dos deputados",
+        "prova": "58_analista-legislativo-informatica-legislativa-tarde-camara-dos-deputados-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-informatica-legislativa-tarde-camara-dos-deputados-fgv-2023",
+        "numero_na_prova": 19,
+        "secao_na_prova": "Arquitetura de Sistemas de Informação",
+        "enunciado": "O padrão Saga é uma maneira de gerenciar a consistência de dados entre microsserviços em cenários de transações distribuída. Sobre esse padrão, assinale a afirmativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Uma saga é uma transação de estilo ACID no nível da própria saga mesmo havendo múltiplos microsserviços."
+          },
+          {
+            "letra": "B",
+            "texto": "Como os microsserviços participantes de uma saga não colaboram entre sim, não há risco de dependência cíclica."
+          },
+          {
+            "letra": "C",
+            "texto": "As sagas coreografadas causam maior acoplamento entre microsserviços do que as sagas orquestradas."
+          },
+          {
+            "letra": "D",
+            "texto": "As transações de compensação são iguais a rollback em banco de dados, desfaz tudo como se nada tivessem ocorrido."
+          },
+          {
+            "letra": "E",
+            "texto": "As sagas orquestradas usam um coordenador centralizado para definir a ordem de execução dos microsserviços."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "As sagas orquestradas usam um coordenador centralizado para definir a ordem de execução dos microsserviços.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 8,
+          "banco_de_dados_e_ciencia_de_dados": 8,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 1,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "58-031",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "analista legislativo informatica legislativa tarde camara dos deputados",
@@ -7090,51 +7090,6 @@
         }
       },
       {
-        "id": "58-042",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
-        "ano": 2023,
-        "banca": "FGV",
-        "cargo_orgao": "analista legislativo informatica legislativa tarde camara dos deputados",
-        "prova": "58_analista-legislativo-informatica-legislativa-tarde-camara-dos-deputados-fgv-2023",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-informatica-legislativa-tarde-camara-dos-deputados-fgv-2023",
-        "numero_na_prova": 42,
-        "secao_na_prova": "Arquitetura de Sistemas de Informação",
-        "enunciado": "Considere o trecho de código em Python a seguir, que define uma rede neural usando TensorFlow e Keras. import tensorflow as tf from tensorflow.keras import layers, models modelo = models.Sequential() modelo.add(layers.Conv2D(32, (3, 3), activation='relu', input_shape=(64, 64, 3))) modelo.add(layers.MaxPooling2D((2, 2))) modelo.add(layers.Conv2D(64, (3, 3), activation='relu')) modelo.add(layers.MaxPooling2D((2, 2))) modelo.add(layers.Conv2D(64, (3, 3), activation='relu')) modelo.add(layers.Flatten()) modelo.add(layers.Dense(64, activation='relu')) modelo.add(layers.Dense(10, activation='softmax')) Com base no código apresentado, assinale a afirmativa incorreta.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "A rede neural definida no código é do tipo convolucional (CNN)."
-          },
-          {
-            "letra": "B",
-            "texto": "O código define uma arquitetura de rede neural para realizar classificação de imagens em duas classes."
-          },
-          {
-            "letra": "C",
-            "texto": "A entrada para a rede deve ser uma imagem de dimensões 64 x 64 pixels com 3 canais de cor."
-          },
-          {
-            "letra": "D",
-            "texto": "A camada de saída da rede possui 10 unidades e utiliza a função de ativação softmax."
-          },
-          {
-            "letra": "E",
-            "texto": "Todas as camadas convolucionais utilizam filtros de tamanho 3 x 3 e função de ativação ReLU."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "O código define uma arquitetura de rede neural para realizar classificação de imagens em duas classes.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 6,
-          "banco_de_dados_e_ciencia_de_dados": 7,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "58-046",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
@@ -7272,7 +7227,7 @@
       {
         "id": "91-040",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "tecnico de gestao administrativa analista de sistemas alema",
@@ -7497,7 +7452,7 @@
       {
         "id": "93-052",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2023,
         "banca": "FGV",
         "cargo_orgao": "consultor tecnico legislativo informatica camara de sao paulo sp",
@@ -7810,51 +7765,6 @@
         }
       },
       {
-        "id": "94-056",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
-        "ano": 2023,
-        "banca": "FGV",
-        "cargo_orgao": "analista de tecnologia da informacao pgm rj",
-        "prova": "94_analista-de-tecnologia-da-informacao-pgm-rj-fgv-2023",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-pgm-rj-fgv-2023",
-        "numero_na_prova": 56,
-        "secao_na_prova": "CONHECIMENTOS ESPECÍFICOS",
-        "enunciado": "Num ambiente Flyway, a linha de comando (command line) permite, dentre outros, o uso dos comandos:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Apply, Check, Include;"
-          },
-          {
-            "letra": "B",
-            "texto": "Baseline, Clean, Migrate;"
-          },
-          {
-            "letra": "C",
-            "texto": "Clear, Define, Exec;"
-          },
-          {
-            "letra": "D",
-            "texto": "Info, Quit, Start;"
-          },
-          {
-            "letra": "E",
-            "texto": "Load, Schema, View."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "Baseline, Clean, Migrate;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 2,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "94-058",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
@@ -8074,6 +7984,51 @@
         "pontuacao_subareas": {
           "engenharia_de_software_e_programacao": 2,
           "banco_de_dados_e_ciencia_de_dados": 4,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "95-042",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2023,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario tecnologia de informacao analise de sistemas tj rn",
+        "prova": "95_analista-judiciario-tecnologia-de-informacao-analise-de-sistemas-tj-rn-fgv-2023",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-tecnologia-de-informacao-analise-de-sistemas-tj-rn-fgv-2023",
+        "numero_na_prova": 42,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "No contexto de estruturas de dados e algoritmos de busca, analise as afirmativas a respeito das diferenças entre árvores B e árvores binárias. I. Numa árvore binária toda página folha possui a mesma profundidade. II. Numa árvore B toda página folha possui a mesma profundidade. III. Gerenciadores de bancos de dados utilizam preferencialmente árvores B na indexação de chaves primárias. Está correto o que se afirma em:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "somente II;"
+          },
+          {
+            "letra": "B",
+            "texto": "somente I e II;"
+          },
+          {
+            "letra": "C",
+            "texto": "somente I e III;"
+          },
+          {
+            "letra": "D",
+            "texto": "somente II e III;"
+          },
+          {
+            "letra": "E",
+            "texto": "I, II e III."
+          }
+        ],
+        "gabarito": "D",
+        "resposta_correta": "somente II e III;",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 4,
+          "banco_de_dados_e_ciencia_de_dados": 3,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
@@ -8626,7 +8581,7 @@
       {
         "id": "09-060",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao desenvolvimento de software dataprev",
@@ -9738,7 +9693,7 @@
       {
         "id": "12-064",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "auditor de controle externo informatica analista de sistemas tce pa",
@@ -10961,7 +10916,7 @@
       {
         "id": "21-043",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de gestao corporativa tecnologia da informacao ciencia de dados epe",
@@ -11190,7 +11145,7 @@
       {
         "id": "21-061",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de gestao corporativa tecnologia da informacao ciencia de dados epe",
@@ -11368,51 +11323,6 @@
         }
       },
       {
-        "id": "21-078",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de gestao corporativa tecnologia da informacao ciencia de dados epe",
-        "prova": "21_analista-de-gestao-corporativa-tecnologia-da-informacao-ciencia-de-dados-epe-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-gestao-corporativa-tecnologia-da-informacao-ciencia-de-dados-epe-fgv-2024",
-        "numero_na_prova": 78,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Seja 𝑋 uma variável aleatória, cujo valor esperado é desconhecido e a variância é igual a 123 𝑢 2 , onde 𝑢 é a unidade de medida. Sejam 𝑋 e 𝑆 2 , a média e a variância amostrais de 𝑋, respectivamente. Com o objetivo de estimar o valor esperado de 𝑋, foi coletada uma amostra aleatória de tamanho 300, cuja média e variância são, respectivamente, 34 𝑢 e 52 𝑢 2 . Considerando o exposto, de acordo com os conceitos da inferência estatística, analise os itens a seguir. I. O valor esperado de 𝑋 não depende do tamanho da amostra. II. A estimativa do valor esperado de 𝑋 é 34 𝑢. III. A variância de 𝑋 é 52 𝑢 2 .",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "I, apenas."
-          },
-          {
-            "letra": "B",
-            "texto": "II, apenas."
-          },
-          {
-            "letra": "C",
-            "texto": "III, apenas."
-          },
-          {
-            "letra": "D",
-            "texto": "I e II, apenas."
-          },
-          {
-            "letra": "E",
-            "texto": "II e III, apenas."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "I e II, apenas.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 2,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "21-080",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
@@ -11550,7 +11460,7 @@
       {
         "id": "22-055",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao inteligencia da informacao dataprev",
@@ -12088,47 +11998,6 @@
         }
       },
       {
-        "id": "23-071",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de sistemas administrador de banco de dados infraestrutura o m ses mt",
-        "prova": "23_analista-de-sistemas-administrador-de-banco-de-dados-infraestrutura-o-m-ses-mt-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-sistemas-administrador-de-banco-de-dados-infraestrutura-o-m-ses-mt-fgv-2024",
-        "numero_na_prova": 71,
-        "secao_na_prova": "C ONHECIMENTOS E SPECÍFICOS",
-        "enunciado": "Relacione os algoritmos populares listados a seguir, às suas respectivas definições. 1. Algoritmos de classificação 2. Algoritmos de clustering 3. Algoritmos de gradient boosting 4. Algoritmos de regressão linear ( ) Usam cálculos preditivos para atribuir dados a categorias predefinidas. ( ) mostram ou preveem a relação entre duas variáveis ou dois fatores ajustando uma linha reta contínua aos dados. ( ) Produzem um modelo de previsão que agrupa modelos de previsão fracos por meio de um processo de ensembling que aprimora o desempenho geral do modelo ( ) Dividem os dados em vários grupos determinando o nível de similaridade entre os pontos de dados. apresentada.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "2, 3, 4 e 1."
-          },
-          {
-            "letra": "B",
-            "texto": "3, 2, 1 e 4."
-          },
-          {
-            "letra": "C",
-            "texto": "1, 4, 3 e 2."
-          },
-          {
-            "letra": "D",
-            "texto": "4, 1, 2 e 3."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "1, 4, 3 e 2.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 6,
-          "banco_de_dados_e_ciencia_de_dados": 4,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "23-079",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
@@ -12391,51 +12260,6 @@
         }
       },
       {
-        "id": "33-050",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1",
-        "prova": "33_analista-judiciario-area-apoio-especializado-especialidade-suporte-em-tecnologia-da-informacao-trf-1-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-especialidade-suporte-em-tecnologia-da-informacao-trf-1-fgv-2024",
-        "numero_na_prova": 50,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "João não sabe fazer consultas em banco de dados e buscou a literatura para fazer uma junção interna otimizada. Um dos pontos observados por João foi que suas relações não tinham seus registros fisicamente organizados, necessitando de uma ordenação externa. Os atributos de junção são atributos chave. Pares de blocos de arquivo são copiados para buffers de memória na ordem, e os registros de cada arquivo são varridos apenas uma vez cada um, para combinar com o outro arquivo. O método de implementação da junção utilizado por João foi o(a):",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "loop alinhado;"
-          },
-          {
-            "letra": "B",
-            "texto": "bloco alinhado;"
-          },
-          {
-            "letra": "C",
-            "texto": "ordenação - intercalação;"
-          },
-          {
-            "letra": "D",
-            "texto": "único loop;"
-          },
-          {
-            "letra": "E",
-            "texto": "partição - hash."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "ordenação - intercalação;",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 11,
-          "banco_de_dados_e_ciencia_de_dados": 3,
-          "redes_e_infraestrutura": 1,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "50-069",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
@@ -12528,7 +12352,7 @@
       {
         "id": "50-087",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de controle externo tecnologia da informacao tce go",
@@ -12706,99 +12530,9 @@
         }
       },
       {
-        "id": "50-091",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de controle externo tecnologia da informacao tce go",
-        "prova": "50_analista-de-controle-externo-tecnologia-da-informacao-tce-go-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-controle-externo-tecnologia-da-informacao-tce-go-fgv-2024",
-        "numero_na_prova": 91,
-        "secao_na_prova": "Segurança da Informação",
-        "enunciado": "Dados abertos são informações digitais disponibilizadas ao público sem restrições de uso, geralmente sob formatos acessíveis e licenças que permitem sua livre utilização, redistribuição e modificação. O chamado Sistema de 5 Estrelas classifica por meio de estrelas o grau de abertura dos dados. O nível três estrelas é caracterizado por sua disponibilidade na internet",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "em qualquer formato."
-          },
-          {
-            "letra": "B",
-            "texto": "em formato RDF."
-          },
-          {
-            "letra": "C",
-            "texto": "de maneira estruturada e formato não proprietário."
-          },
-          {
-            "letra": "D",
-            "texto": "em formato SPARQL."
-          },
-          {
-            "letra": "E",
-            "texto": "em formato RDF Conectado."
-          }
-        ],
-        "gabarito": "C",
-        "resposta_correta": "de maneira estruturada e formato não proprietário.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 2,
-          "seguranca_da_informacao": 1,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "50-092",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista de controle externo tecnologia da informacao tce go",
-        "prova": "50_analista-de-controle-externo-tecnologia-da-informacao-tce-go-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-controle-externo-tecnologia-da-informacao-tce-go-fgv-2024",
-        "numero_na_prova": 92,
-        "secao_na_prova": "Segurança da Informação",
-        "enunciado": "O Processamento de Linguagem Natural (PLN) é uma área de estudo dedicada à pesquisa e desenvolvimento de métodos e sistemas que visam compreender e processar a linguagem humana por meio de computadores. São paradigmas de PLN:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "Neural e Simbólico."
-          },
-          {
-            "letra": "B",
-            "texto": "Neural e Regressivo."
-          },
-          {
-            "letra": "C",
-            "texto": "Estatístico e Sentimental."
-          },
-          {
-            "letra": "D",
-            "texto": "Neural e Sentimental."
-          },
-          {
-            "letra": "E",
-            "texto": "Simbólico e Sentimental."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "Neural e Simbólico.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 2,
-          "banco_de_dados_e_ciencia_de_dados": 2,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "50-094",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "palavras_chave",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de controle externo tecnologia da informacao tce go",
@@ -13107,6 +12841,51 @@
           "banco_de_dados_e_ciencia_de_dados": 7,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 2,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "51-052",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario tecnologia da informacao tj mt",
+        "prova": "51_analista-judiciario-tecnologia-da-informacao-tj-mt-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-tecnologia-da-informacao-tj-mt-fgv-2024",
+        "numero_na_prova": 52,
+        "secao_na_prova": "C ONHECIMENTOS E SPECÍFICOS",
+        "enunciado": "A linguagem de programação R é uma linguagem especializada em análise estatística e manipulação de dados, muito popular em áreas como ciência de dados, estatísticas, biotecnologia, econometria e inteligência artificial. Desenvolvida por Ross Ihaka e Robert Gentleman na década de 1990, R foi projetada para fornecer um ambiente de desenvolvimento para análise de dados, com um foco particular em estatísticas e gráficos. Em R, o operador %in%",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "compara dois vetores e retorna TRUE se todos os elementos do primeiro vetor estiverem contidos no segundo."
+          },
+          {
+            "letra": "B",
+            "texto": "realiza a união de dois vetores, retornando um vetor com todos os elementos exclusivos dos dois vetores."
+          },
+          {
+            "letra": "C",
+            "texto": "verifica se dois vetores têm exatamente os mesmos elementos e na mesma ordem, retornando TRUE ou FALSE."
+          },
+          {
+            "letra": "D",
+            "texto": "calcula a interseção entre dois vetores, retornando apenas os elementos que são comuns entre eles."
+          },
+          {
+            "letra": "E",
+            "texto": "verifica se um elemento ou conjunto de elementos do primeiro vetor está presente no segundo vetor, retornando um vetor lógico."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "verifica se um elemento ou conjunto de elementos do primeiro vetor está presente no segundo vetor, retornando um vetor lógico.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 9,
+          "banco_de_dados_e_ciencia_de_dados": 6,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -13741,51 +13520,6 @@
         }
       },
       {
-        "id": "60-043",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "tecnico de nivel superior analista de sistemas computacionais analista de suporte de ti tj ms",
-        "prova": "60_tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-suporte-de-ti-tj-ms-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-analista-de-suporte-de-ti-tj-ms-fgv-2024",
-        "numero_na_prova": 43,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "João, administrador do banco de dados (DBA) do Tribunal de Justiça de Mato Grosso do Sul (TJMS), é responsável pela implementação da política de segurança do Tribunal. A ele cabem as tarefas de efetuar o controle de acesso às informações e atribuir permissões a quem for necessário. Tiago é técnico do TJMS. Embora insista em ter acesso à tabela pagamento, ele só precisa dos dados de parte dessa tabela, incluindo: nome, matrícula e função. Como forma de implementar a política de segurança e manter o acesso de Tiago, João poderá:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "criar uma conta para o técnico, atribuir uma role pra ele e adicionar a permissão de select a role para a tabela pagamento;"
-          },
-          {
-            "letra": "B",
-            "texto": "criar uma visão por meio de uma consulta que seleciona apenas as tuplas necessárias para o técnico executar seu trabalho;"
-          },
-          {
-            "letra": "C",
-            "texto": "atribuir para Tiago as mesmas permissões existentes do usuário João, de modo que Tiago tenha acesso aos dados necessários;"
-          },
-          {
-            "letra": "D",
-            "texto": "atribuir a permissão de selecionar qualquer tabela dentro da base de dados, liberando o acesso à tabela pagamento para Tiago efetuar seu trabalho;"
-          },
-          {
-            "letra": "E",
-            "texto": "usar uma visão que será criada a partir de uma consulta à tabela pagamento que seleciona as colunas necessárias ao trabalho do técnico."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "usar uma visão que será criada a partir de uma consulta à tabela pagamento que seleciona as colunas necessárias ao trabalho do técnico.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 1,
-          "banco_de_dados_e_ciencia_de_dados": 11,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 8,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "60-046",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
@@ -14148,7 +13882,7 @@
       {
         "id": "61-068",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao arquitetura engenharia e sustentacao tecnologica dataprev",
@@ -14371,6 +14105,51 @@
           "banco_de_dados_e_ciencia_de_dados": 11,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 1,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "63-065",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "palavras_chave",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista de gestao corporativa tecnologia da informacao solucoes epe",
+        "prova": "63_analista-de-gestao-corporativa-tecnologia-da-informacao-solucoes-epe-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-gestao-corporativa-tecnologia-da-informacao-solucoes-epe-fgv-2024",
+        "numero_na_prova": 65,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A arquitetura MVC (Model-View-Controller) sugere a divisão de aplicações em três principais grupos de componentes: Models, Views e Controllers, o que ajuda a atingir a separação de interesses. Em relação aos Controllers, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Atua como ponto de entrada inicial, sendo responsável por escolher os Models que serão empregados na execução bem como qual View será renderizada. ( ) Caso a lógica do Controller esteja muito complexa, é recomendável mover lógica de negócios para fora do mesmo, insira-a no modelo de domínio, por exemplo. ( ) Caso um Controller execute com frequência os mesmos tipos de ações, é uma boa prática mover essas ações comuns para filtros.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "V – F – V."
+          },
+          {
+            "letra": "B",
+            "texto": "V – V – F."
+          },
+          {
+            "letra": "C",
+            "texto": "F – V – F."
+          },
+          {
+            "letra": "D",
+            "texto": "F – F – V."
+          },
+          {
+            "letra": "E",
+            "texto": "V – V – V."
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "V – V – V.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 4,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
       },
@@ -15189,7 +14968,7 @@
       {
         "id": "70-046",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista de informatica camara de fortaleza ce",
@@ -15547,6 +15326,51 @@
         }
       },
       {
+        "id": "71-077",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "palavras_chave",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista administrativo tecnologia da informacao dnit",
+        "prova": "71_analista-administrativo-tecnologia-da-informacao-dnit-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-administrativo-tecnologia-da-informacao-dnit-fgv-2024",
+        "numero_na_prova": 77,
+        "secao_na_prova": "C ONHECIMENTOS E SPECÍFICOS",
+        "enunciado": "Na Infraestrutura de rede da Oracle (OCI, Oracle Cloud Infrastructure), o serviço de auditoria (Audit service), baseado no registro de logs, inclui as seguintes informações:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "fonte da atividade, alvo da atividade e tipo de resposta."
+          },
+          {
+            "letra": "B",
+            "texto": "tipo de heatwave, tipo de ação e tipo de resposta."
+          },
+          {
+            "letra": "C",
+            "texto": "fonte da atividade, hora em que ocorreu a atividade da API, tipo de streaming."
+          },
+          {
+            "letra": "D",
+            "texto": "hora em que ocorreu a atividade da API, tipo de redis e tipo de ação."
+          },
+          {
+            "letra": "E",
+            "texto": "tipo do goldengate, alvo da atividade e tipo de resposta."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "fonte da atividade, alvo da atividade e tipo de resposta.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 4,
+          "banco_de_dados_e_ciencia_de_dados": 6,
+          "redes_e_infraestrutura": 2,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "72-064",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
@@ -15684,7 +15508,7 @@
       {
         "id": "73-046",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1",
@@ -15721,96 +15545,6 @@
         "pontuacao_subareas": {
           "engenharia_de_software_e_programacao": 2,
           "banco_de_dados_e_ciencia_de_dados": 2,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "74-053",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev",
-        "prova": "74_analista-previdenciario-especialidade-analista-de-sistemas-prefeitura-macae-rj-macaeprev-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-previdenciario-especialidade-analista-de-sistemas-prefeitura-macae-rj-macaeprev-fgv-2024",
-        "numero_na_prova": 53,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": ".NET é uma plataforma de desenvolvimento de software criada pela Microsoft que fornece um conjunto de ferramentas, bibliotecas e serviços para criar e executar aplicativos e serviços. A plataforma é conhecida por seu suporte a várias linguagens de programação e por permitir o desenvolvimento de uma ampla variedade de aplicativos, desde aplicativos web até aplicativos desktop e móveis. Uma das funcionalidades principais do Entity Framework (EF) no contexto de um aplicativo .NET reside no fato de que o Entity Framework",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "exige a criação manual de SQL para todas as operações de banco de dados."
-          },
-          {
-            "letra": "B",
-            "texto": "é restrito ao uso com bancos de dados SQL Server apenas."
-          },
-          {
-            "letra": "C",
-            "texto": "suporta o desenvolvimento de aplicações utilizando o padrão de Design MVC (Model-View-Controller)."
-          },
-          {
-            "letra": "D",
-            "texto": "oferece suporte para mapeamento objeto-relacional e permite interagir com bancos de dados usando objetos .NET."
-          },
-          {
-            "letra": "E",
-            "texto": "não permite a realização de consultas complexas e avançadas sobre os dados."
-          }
-        ],
-        "gabarito": "D",
-        "resposta_correta": "oferece suporte para mapeamento objeto-relacional e permite interagir com bancos de dados usando objetos .NET.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 10,
-          "banco_de_dados_e_ciencia_de_dados": 17,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 0,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
-        "id": "74-056",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
-        "ano": 2024,
-        "banca": "FGV",
-        "cargo_orgao": "analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev",
-        "prova": "74_analista-previdenciario-especialidade-analista-de-sistemas-prefeitura-macae-rj-macaeprev-fgv-2024",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-previdenciario-especialidade-analista-de-sistemas-prefeitura-macae-rj-macaeprev-fgv-2024",
-        "numero_na_prova": 56,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "A arquitetura de software com 3 camadas combinada com o padrão de design MVC (Model-View-Controller) é uma abordagem comum para o desenvolvimento de aplicações que promove a separação de preocupações e a modularidade. Na arquitetura de software com 3 camadas combinada com o padrão de design MVC (Model-View-Controller), em relação à responsabilidade de cada camada é correto afirmar que a camada",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "de visão (View) gerencia a lógica de negócios, a camada de controlador (Controller) realiza a persistência de dados, e a camada de modelo (Model) exibe a interface ao usuário."
-          },
-          {
-            "letra": "B",
-            "texto": "de modelo (Model) é responsável pela interação com o banco de dados e lógica de negócios, a camada de visão (View) apresenta os dados ao usuário, e a camada de controlador (Controller) gerencia as interações entre a visão e o modelo."
-          },
-          {
-            "letra": "C",
-            "texto": "de controlador (Controller) realiza a persistência de dados, a camada de visão (View) lida com a lógica de negócios e a camada de modelo (Model) exibe a interface ao usuário."
-          },
-          {
-            "letra": "D",
-            "texto": "de visão (View) lida com a lógica de negócios, a camada de modelo (Model) realiza a comunicação com o banco de dados, e a camada de controlador (Controller) exibe os dados ao usuário."
-          },
-          {
-            "letra": "E",
-            "texto": "modelo (Model) gerencia a apresentação dos dados ao usuário, a camada de visão (View) realiza a lógica de negócios, e a camada de controlador (Controller) faz a persistência de dados."
-          }
-        ],
-        "gabarito": "B",
-        "resposta_correta": "de modelo (Model) é responsável pela interação com o banco de dados e lógica de negócios, a camada de visão (View) apresenta os dados ao usuário, e a camada de controlador (Controller) gerencia as interações entre a visão e o modelo.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 9,
-          "banco_de_dados_e_ciencia_de_dados": 11,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
@@ -16494,7 +16228,7 @@
       {
         "id": "75-048",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp",
@@ -16627,9 +16361,54 @@
         }
       },
       {
-        "id": "75-061",
+        "id": "75-053",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp",
+        "prova": "75_analista-em-gestao-municipal-tecnologia-da-informacao-prefeitura-sao-jose-dos-campos-sp-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-em-gestao-municipal-tecnologia-da-informacao-prefeitura-sao-jose-dos-campos-sp-fgv-2024",
+        "numero_na_prova": 53,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A integração do sistema ORACLE com a linguagem de programação R foi resultado da adesão da empresa ao R Consortium R/Database. A integração do R com Oracle Database e Oracle Autonomous Database, promovida por R API (Application Programming Interface) é denominada:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Oracle Exadata"
+          },
+          {
+            "letra": "B",
+            "texto": "Oracle Database API for R (ODAPI4R)"
+          },
+          {
+            "letra": "C",
+            "texto": "Oracle Hyperion"
+          },
+          {
+            "letra": "D",
+            "texto": "Oracle API for R (OAPI4R)"
+          },
+          {
+            "letra": "E",
+            "texto": "Oracle Machine Learning for R (OML4R)"
+          }
+        ],
+        "gabarito": "E",
+        "resposta_correta": "Oracle Machine Learning for R (OML4R)",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 9,
+          "banco_de_dados_e_ciencia_de_dados": 8,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "75-061",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "modelo_sementes",
         "ano": 2024,
         "banca": "FGV",
         "cargo_orgao": "analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp",
@@ -16667,6 +16446,51 @@
           "engenharia_de_software_e_programacao": 0,
           "banco_de_dados_e_ciencia_de_dados": 2,
           "redes_e_infraestrutura": 2,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "75-066",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "palavras_chave",
+        "ano": 2024,
+        "banca": "FGV",
+        "cargo_orgao": "analista em gestao municipal tecnologia da informacao prefeitura sao jose dos campos sp",
+        "prova": "75_analista-em-gestao-municipal-tecnologia-da-informacao-prefeitura-sao-jose-dos-campos-sp-fgv-2024",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-em-gestao-municipal-tecnologia-da-informacao-prefeitura-sao-jose-dos-campos-sp-fgv-2024",
+        "numero_na_prova": 66,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Avalie o fragmento de texto a seguir e, em seguida, assinale com (V) para a técnica verdadeira e (F) para a falsa. O Web Design Responsivo é uma técnica de web design que permite que um site se adapte e seja exibido adequadamente em diferentes dispositivos, como smartphones, tablets e desktops. A criação de um layout que possa ajustar e otimizar sua apresentação em uma variedade de telas envolve o uso de técnicas como ( ) layout de grade rígido; Imagens e mídias flexíveis; Consultas a bancos de dados. ( ) layout de grade flexível; Imagens e mídias flexíveis; Consultas midiáticas. ( ) layout de grade rígido; Imagens e mídias rígidas; Consultas midiáticas. As técnicas são, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "V – V – F."
+          },
+          {
+            "letra": "B",
+            "texto": "F – V – F."
+          },
+          {
+            "letra": "C",
+            "texto": "V – F – F."
+          },
+          {
+            "letra": "D",
+            "texto": "F – F – V."
+          },
+          {
+            "letra": "E",
+            "texto": "V – F – V."
+          }
+        ],
+        "gabarito": "B",
+        "resposta_correta": "F – V – F.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 1,
+          "banco_de_dados_e_ciencia_de_dados": 3,
+          "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
@@ -16901,7 +16725,7 @@
       {
         "id": "13-048",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista do mpu desenvolvimento de sistemas mpu",
@@ -17441,7 +17265,7 @@
       {
         "id": "14-052",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista programador classe b dpe ro",
@@ -17711,7 +17535,7 @@
       {
         "id": "34-060",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista legislativo analista de redes de comunicacao de dados ale am",
@@ -17889,54 +17713,9 @@
         }
       },
       {
-        "id": "34-073",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista legislativo analista de redes de comunicacao de dados ale am",
-        "prova": "34_analista-legislativo-analista-de-redes-de-comunicacao-de-dados-ale-am-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-analista-de-redes-de-comunicacao-de-dados-ale-am-fgv-2025",
-        "numero_na_prova": 73,
-        "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "Uma instituição financeira possui ambiente SQL Server AlwaysOn com quatro réplicas síncronas. O DBA está configurando estratégia de backup para RPO de 5 minutos e RTO de 10 minutos. Sobre backups em AlwaysOn Availability Groups, analise as seguintes afirmativas: I. Backups completos podem ser executados em réplicas secundárias configuradas para backup, reduzindo carga na primária. II. Backups de log devem ser executados apenas na réplica primária para manter cadeia consistente de LSN. III. O parâmetro BACKUP PRIORITY define preferência de réplicas para backups automáticos.",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "I e III, apenas."
-          },
-          {
-            "letra": "B",
-            "texto": "I, apenas."
-          },
-          {
-            "letra": "C",
-            "texto": "II e III, apenas."
-          },
-          {
-            "letra": "D",
-            "texto": "I, II e III."
-          },
-          {
-            "letra": "E",
-            "texto": "III, apenas."
-          }
-        ],
-        "gabarito": "A",
-        "resposta_correta": "I e III, apenas.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 6,
-          "redes_e_infraestrutura": 6,
-          "seguranca_da_informacao": 4,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "34-075",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista legislativo analista de redes de comunicacao de dados ale am",
@@ -18791,7 +18570,7 @@
       {
         "id": "36-073",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista do mpu suporte e infraestrutura mpu",
@@ -18881,7 +18660,7 @@
       {
         "id": "52-018",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista de controle externo tecnologia da informacao tce pe",
@@ -19329,51 +19108,6 @@
         }
       },
       {
-        "id": "52-079",
-        "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
-        "ano": 2025,
-        "banca": "FGV",
-        "cargo_orgao": "analista de controle externo tecnologia da informacao tce pe",
-        "prova": "52_analista-de-controle-externo-tecnologia-da-informacao-tce-pe-fgv-2025",
-        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-controle-externo-tecnologia-da-informacao-tce-pe-fgv-2025",
-        "numero_na_prova": 79,
-        "secao_na_prova": "Ciência de Dados e Inteligência Artificial",
-        "enunciado": "Uma forma de garantir que um modelo de linguagem revise cláusulas de confidencialidade em contratos com alta precisão é fornecer exemplos concretos de cláusulas corretas e incorretas, para que o modelo aprenda o padrão desejado antes de analisar novas cláusulas. A técnica de Engenharia de Prompt que descreve corretamente esse processo é chamada:",
-        "alternativas": [
-          {
-            "letra": "A",
-            "texto": "zero-shot prompt."
-          },
-          {
-            "letra": "B",
-            "texto": "self-consistency prompt."
-          },
-          {
-            "letra": "C",
-            "texto": "chain-of-thought prompt."
-          },
-          {
-            "letra": "D",
-            "texto": "soft prompt."
-          },
-          {
-            "letra": "E",
-            "texto": "few-shot prompt."
-          }
-        ],
-        "gabarito": "E",
-        "resposta_correta": "few-shot prompt.",
-        "tambem_em": [],
-        "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 0,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 0,
-          "seguranca_da_informacao": 2,
-          "governanca_e_gestao_de_ti": 0
-        }
-      },
-      {
         "id": "54-049",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
         "origem_subarea": "palavras_chave",
@@ -19509,46 +19243,91 @@
         }
       },
       {
-        "id": "54-059",
+        "id": "54-053",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "palavras_chave",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista de tecnologia da informacao ebserh",
         "prova": "54_analista-de-tecnologia-da-informacao-ebserh-fgv-2025",
         "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-de-tecnologia-da-informacao-ebserh-fgv-2025",
-        "numero_na_prova": 59,
+        "numero_na_prova": 53,
         "secao_na_prova": "Conhecimentos Específicos",
-        "enunciado": "O Conjunto Mínimo de Dados da Atenção à Saúde (CMD) é o documento público que coleta os dados dos atendimentos em saúde realizados em qualquer estabelecimento de saúde público ou privado do Brasil. Trata-se de uma estratégia assumida pelos gestores do Sistema Nacional de Saúde das três esferas de gestão para redução da fragmentação dos sistemas de informação que possuem dados de caráter clínico-administrativo da atenção à saúde. Com relação ao CMD, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) O CMD substitui os principais sistemas de informação da atenção à saúde do país, a saber: Sistema de Informações Ambulatoriais(SIA), Sistema de Informação Hospitalar (SIH) e Comunicação de Informação Hospitalar e Ambulatorial (CIHA), além de subsistemas de coleta e apoio. O CMD tem adoção obrigatória em todo o Sistema Nacional de Saúde, abrangendo pessoas físicas e jurídicas que realizam atenção à saúde nas esferas pública ou privada, integrantes ou não do SUS. ( ) A coleta dos contatos assistenciais pode ser realizado de duas formas: Sistemas próprios ou pelo Sistema de Cartão Nacional de Saúde (CADSUSWEB), aplicativo móvel desenvolvido pelo Ministério da Saúde. ( ) Com relação à integração das bases do SISAB (AB/SUS) e TISS/ANS (saúde suplementar) com a base do CMD, os contatos assistenciais provenientes dos atendimentos da Saúde Suplementar, enviados à ANS através da TISS, ou os contatos assistenciais realizados pelas Equipes de Atenção Básica do SUS, que compõem a base do Sistema de Informação em Saúde para a Atenção Básica (SISAB), não precisam ser coletados e enviados para o CMD. Essas bases de dados serão integradas diretamente à base do CMD por meio de serviços Web RESTFul de integração com arquivos XML. As afirmativas são, respectivamente,",
+        "enunciado": "Puppet (versão 8.10.0) é uma ferramenta de automação que possui código-aberto que ajuda tanto administradores quanto os DevOps no gerenciamento e automatização das configurações de servidores. Com relação ao Puppet, avalie afirmativas a seguir. I. É configurado em uma arquitetura agente-servidor, onde um nó primário (sistema) controla informações de configuração para um ou mais nós (agentes) gerenciados. II. Servidores e agentes se comunicam por intermédio do protocolo HTTPS usando certificados SSL. Ele utiliza uma autoridade de certificação oferecida por terceiros para gerenciar seus certificados. III. Todos as configurações e dados gerados pelo Puppet são armazenados no seu repositório de dados e metadados (que pode ser instanciado em qualquer tipo de banco NoSQL). Armazenar os dados e metadados permite que o Puppet opere mais rapidamente e fornece uma API para que outros aplicativos acessarem o repositório com mais segurança. Está correto apenas o que se afirma em",
         "alternativas": [
           {
             "letra": "A",
-            "texto": "V – F – V."
+            "texto": "I e II."
           },
           {
             "letra": "B",
-            "texto": "F – V – V."
+            "texto": "I e III."
           },
           {
             "letra": "C",
-            "texto": "V – F – F."
+            "texto": "II e III."
           },
           {
             "letra": "D",
-            "texto": "F – F – V."
+            "texto": "II."
           },
           {
             "letra": "E",
-            "texto": "V – V – F."
+            "texto": "I."
           }
         ],
-        "gabarito": "C",
-        "resposta_correta": "V – F – F.",
+        "gabarito": "E",
+        "resposta_correta": "I.",
         "tambem_em": [],
         "pontuacao_subareas": {
-          "engenharia_de_software_e_programacao": 7,
-          "banco_de_dados_e_ciencia_de_dados": 1,
-          "redes_e_infraestrutura": 0,
+          "engenharia_de_software_e_programacao": 5,
+          "banco_de_dados_e_ciencia_de_dados": 7,
+          "redes_e_infraestrutura": 5,
+          "seguranca_da_informacao": 3,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "76-053",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "palavras_chave",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista legislativo analista de sistema ale am",
+        "prova": "76_analista-legislativo-analista-de-sistema-ale-am-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-analista-de-sistema-ale-am-fgv-2025",
+        "numero_na_prova": 53,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Após a entrega do sistema de Protocolo Eletrônico, o Analista de Sistemas é acionado para realizar três tipos de intervenção: 1) Correção de um bug em uma regra de tramitação; 2) Adaptação do sistema para funcionar com a nova versão do Banco de Dados; 3) Adição de um novo relatório estatístico solicitado pela Presidência. Essas atividades se enquadram na Fase de Manutenção do Ciclo de Vida do Software e são classificadas, respectivamente, como:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Preventiva, Corretiva, Adaptativa."
+          },
+          {
+            "letra": "B",
+            "texto": "Corretiva, Adaptativa, Evolutiva."
+          },
+          {
+            "letra": "C",
+            "texto": "Adaptativa, Evolutiva, Corretiva."
+          },
+          {
+            "letra": "D",
+            "texto": "Preventiva, Evolutiva, Adaptativa."
+          },
+          {
+            "letra": "E",
+            "texto": "Corretiva, Evolutiva, Preventiva."
+          }
+        ],
+        "gabarito": "B",
+        "resposta_correta": "Corretiva, Adaptativa, Evolutiva.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 1,
+          "banco_de_dados_e_ciencia_de_dados": 3,
+          "redes_e_infraestrutura": 1,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
@@ -19641,6 +19420,51 @@
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 1
+        }
+      },
+      {
+        "id": "77-045",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "palavras_chave",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista legislativo programador ale am",
+        "prova": "77_analista-legislativo-programador-ale-am-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-legislativo-programador-ale-am-fgv-2025",
+        "numero_na_prova": 45,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "O Analista em desenvolvimento está avaliando o sistema de rotulação (labeling system) do portal da Assembleia. Ele percebe que o uso de rótulos muito genéricos, como Documentos Diversos e Recursos, gera ambiguidade e sobrecarga cognitiva, pois o usuário não sabe exatamente o que esperar ao clicar. Além disso, os rótulos internos nos metadados são diferentes dos rótulos visíveis no menu. Assinale em qual dos componentes da Arquitetura da Informação, essa ambiguidade e a falta de coerência entre os rótulos do menu e o conteúdo real estão relacionados.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Navigation Systems."
+          },
+          {
+            "letra": "B",
+            "texto": "Searching Systems."
+          },
+          {
+            "letra": "C",
+            "texto": "Labeling Systems."
+          },
+          {
+            "letra": "D",
+            "texto": "Organization Systems."
+          },
+          {
+            "letra": "E",
+            "texto": "Metadata Systems."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "Labeling Systems.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 2,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
         }
       },
       {
@@ -19869,9 +19693,54 @@
         }
       },
       {
+        "id": "79-078",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista do mpu perito em tecnologia da informacao e comunicacao mpu",
+        "prova": "79_analista-do-mpu-perito-em-tecnologia-da-informacao-e-comunicacao-mpu-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-do-mpu-perito-em-tecnologia-da-informacao-e-comunicacao-mpu-fgv-2025",
+        "numero_na_prova": 78,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "A tecnologia Blockchain tem se tornado cada vez mais presente em diversas áreas, impulsionando a inovação e a transformação digitais. Essa tecnologia permite a criação de tokens não fungíveis (NFTs), que podem funcionar como certificados digitais de autenticidade e propriedade de itens digitais. O crescente interesse global por essa tecnologia reflete seu potencial para revolucionar diversos setores, impulsionando a economia digital e criando novas possibilidades. A tecnologia Blockchain é adequada para uso, quando consideramos suas limitações e características, no cenário de:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "registro e execução de votação em uma sociedade anônima (S/A);"
+          },
+          {
+            "letra": "B",
+            "texto": "organização e armazenamento de dados multimídia de alta fidelidade;"
+          },
+          {
+            "letra": "C",
+            "texto": "agendamento de consultas médicas em consultórios privados;"
+          },
+          {
+            "letra": "D",
+            "texto": "organização e armazenamento de mensagens instantâneas entre usuários de um aplicativo;"
+          },
+          {
+            "letra": "E",
+            "texto": "edição de textos e documentos sigilosos de forma colaborativa em tempo real."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "registro e execução de votação em uma sociedade anônima (S/A);",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 1,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 2,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
         "id": "80-036",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao",
@@ -19916,7 +19785,7 @@
       {
         "id": "80-041",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao",
@@ -19961,7 +19830,7 @@
       {
         "id": "80-042",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "palavras_chave",
+        "origem_subarea": "modelo_sementes",
         "ano": 2025,
         "banca": "FGV",
         "cargo_orgao": "analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao",
@@ -20182,6 +20051,51 @@
           "seguranca_da_informacao": 0,
           "governanca_e_gestao_de_ti": 0
         }
+      },
+      {
+        "id": "80-054",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "modelo_sementes",
+        "ano": 2025,
+        "banca": "FGV",
+        "cargo_orgao": "analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao",
+        "prova": "80_analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/analista-judiciario-area-apoio-especializado-tecnologia-da-informacao-trt-da-24-regiao-fgv-2025",
+        "numero_na_prova": 54,
+        "secao_na_prova": "Conhecimentos Específicos Avançados",
+        "enunciado": "A tecnologia que usa inteligência artificial, aprendizado de máquina e análises comportamentais para proteger endpoints de malwares e outros tipos de ameaças cibernéticas é denominada",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "WebProxy."
+          },
+          {
+            "letra": "B",
+            "texto": "Firewall."
+          },
+          {
+            "letra": "C",
+            "texto": "NGAV."
+          },
+          {
+            "letra": "D",
+            "texto": "IDS."
+          },
+          {
+            "letra": "E",
+            "texto": "IPS."
+          }
+        ],
+        "gabarito": "C",
+        "resposta_correta": "NGAV.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 0,
+          "banco_de_dados_e_ciencia_de_dados": 4,
+          "redes_e_infraestrutura": 0,
+          "seguranca_da_informacao": 7,
+          "governanca_e_gestao_de_ti": 0
+        }
       }
     ],
     "2026": [
@@ -20368,7 +20282,7 @@
       {
         "id": "16-045",
         "subarea": "banco_de_dados_e_ciencia_de_dados",
-        "origem_subarea": "revisao_manual",
+        "origem_subarea": "palavras_chave",
         "ano": 2026,
         "banca": "FGV",
         "cargo_orgao": "agente especializado analista de sistemas mp es",
@@ -20992,6 +20906,51 @@
           "banco_de_dados_e_ciencia_de_dados": 12,
           "redes_e_infraestrutura": 0,
           "seguranca_da_informacao": 0,
+          "governanca_e_gestao_de_ti": 0
+        }
+      },
+      {
+        "id": "82-058",
+        "subarea": "banco_de_dados_e_ciencia_de_dados",
+        "origem_subarea": "palavras_chave",
+        "ano": 2026,
+        "banca": "FGV",
+        "cargo_orgao": "agente tecnico desenvolvedor mp es",
+        "prova": "82_agente-tecnico-desenvolvedor-mp-es-fgv-2026",
+        "url_prova": "https://www.pciconcursos.com.br/provas/download/agente-tecnico-desenvolvedor-mp-es-fgv-2026",
+        "numero_na_prova": 58,
+        "secao_na_prova": "Conhecimentos Específicos",
+        "enunciado": "Uma organização migrou sua aplicação de um modelo monolítico para uma arquitetura distribuída. O novo ambiente conta com um componente A, que atua como ponto de entrada das requisições dos clientes web e as encaminha ao componente B, responsável por processar transações, validar regras de negócio e coordenar o acesso ao banco de dados. Considerando as características técnicas típicas de cada componente, assinale a afirmativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "O componente A é tipicamente responsável pela entrega de conteúdo estático e pela terminação SSL, enquanto B tipicamente hospeda e executa a lógica de negócio da aplicação."
+          },
+          {
+            "letra": "B",
+            "texto": "O componente A tipicamente gerencia transações ACID e pool de conexões com o banco de dados, enquanto B tipicamente atua como proxy reverso para balanceamento de carga."
+          },
+          {
+            "letra": "C",
+            "texto": "O componente B tipicamente processa páginas dinâmicas e gera conteúdo estático, enquanto A tipicamente coordena a comunicação entre componentes distribuídos."
+          },
+          {
+            "letra": "D",
+            "texto": "O componente A tipicamente executa lógica de negócio da aplicação em um ambiente de runtime, enquanto B tipicamente gerencia exclusivamente a entrega de conteúdo estático."
+          },
+          {
+            "letra": "E",
+            "texto": "O componente B tipicamente implementa filas de mensageria para comunicação assíncrona, enquanto A tipicamente traduz mensagens entre protocolos de rede distintos."
+          }
+        ],
+        "gabarito": "A",
+        "resposta_correta": "O componente A é tipicamente responsável pela entrega de conteúdo estático e pela terminação SSL, enquanto B tipicamente hospeda e executa a lógica de negócio da aplicação.",
+        "tambem_em": [],
+        "pontuacao_subareas": {
+          "engenharia_de_software_e_programacao": 2,
+          "banco_de_dados_e_ciencia_de_dados": 7,
+          "redes_e_infraestrutura": 5,
+          "seguranca_da_informacao": 3,
           "governanca_e_gestao_de_ti": 0
         }
       }

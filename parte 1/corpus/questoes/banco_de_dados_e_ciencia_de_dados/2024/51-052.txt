@@ -1,0 +1,18 @@
+ID: 51-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario tecnologia da informacao tj mt
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+A linguagem de programação R é uma linguagem especializada em análise estatística e manipulação de dados, muito popular em áreas como ciência de dados, estatísticas, biotecnologia, econometria e inteligência artificial. Desenvolvida por Ross Ihaka e Robert Gentleman na década de 1990, R foi projetada para fornecer um ambiente de desenvolvimento para análise de dados, com um foco particular em estatísticas e gráficos. Em R, o operador %in%
+
+[ALTERNATIVAS]
+(A) compara dois vetores e retorna TRUE se todos os elementos do primeiro vetor estiverem contidos no segundo.
+(B) realiza a união de dois vetores, retornando um vetor com todos os elementos exclusivos dos dois vetores.
+(C) verifica se dois vetores têm exatamente os mesmos elementos e na mesma ordem, retornando TRUE ou FALSE.
+(D) calcula a interseção entre dois vetores, retornando apenas os elementos que são comuns entre eles.
+(E) verifica se um elemento ou conjunto de elementos do primeiro vetor está presente no segundo vetor, retornando um vetor lógico.
+
+[GABARITO]
+E

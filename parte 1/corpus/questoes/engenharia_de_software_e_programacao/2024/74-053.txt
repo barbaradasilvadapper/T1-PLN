@@ -1,0 +1,18 @@
+ID: 74-053
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista previdenciario especialidade analista de sistemas prefeitura macae rj macaeprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+.NET é uma plataforma de desenvolvimento de software criada pela Microsoft que fornece um conjunto de ferramentas, bibliotecas e serviços para criar e executar aplicativos e serviços. A plataforma é conhecida por seu suporte a várias linguagens de programação e por permitir o desenvolvimento de uma ampla variedade de aplicativos, desde aplicativos web até aplicativos desktop e móveis. Uma das funcionalidades principais do Entity Framework (EF) no contexto de um aplicativo .NET reside no fato de que o Entity Framework
+
+[ALTERNATIVAS]
+(A) exige a criação manual de SQL para todas as operações de banco de dados.
+(B) é restrito ao uso com bancos de dados SQL Server apenas.
+(C) suporta o desenvolvimento de aplicações utilizando o padrão de Design MVC (Model-View-Controller).
+(D) oferece suporte para mapeamento objeto-relacional e permite interagir com bancos de dados usando objetos .NET.
+(E) não permite a realização de consultas complexas e avançadas sobre os dados.
+
+[GABARITO]
+D

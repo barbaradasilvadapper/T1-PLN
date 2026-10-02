@@ -1,0 +1,18 @@
+ID: 05-043
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista area de apoio especializado tecnologia da informacao desenvolvimento de sistemas dpe rs
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Amanda é técnica da DPE/RS e foi encarregada de conferir os valores de um serviço de nuvem privada prestado à Defensoria. O serviço corresponde ao aluguel do equipamento, chamado de Valor A, mais o serviço de suporte chamado de Valor B. Ao verificar os valores, notou que o software utilizado colocou os valores em bases diferentes, visto que o correto seria decimal, de forma que o Valor A = DBA (hexadecimal) e o valor B = 111011100101 (binário). O valor total (em decimal) que Amanda deverá enviar ao setor de pagamento é:
+
+[ALTERNATIVAS]
+(A) 7326;
+(B) 7327;
+(C) 7328;
+(D) 7329;
+(E) 7330.
+
+[GABARITO]
+B

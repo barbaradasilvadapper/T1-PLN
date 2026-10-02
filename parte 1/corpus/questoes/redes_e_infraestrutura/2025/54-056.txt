@@ -1,0 +1,18 @@
+ID: 54-056
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao ebserh
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Aplicativos de software ou scripts que executam tarefas sob comando de terceiros, permitindo que um invasor assuma remotamente o controle total do computador afetado, em que a máquina comprometida também pode ser chamada de zumbi são rotulados pelo termo:
+
+[ALTERNATIVAS]
+(A) web drive-by.
+(B) backdoor.
+(C) scraper.
+(D) trojan.
+(E) bot.
+
+[GABARITO]
+E

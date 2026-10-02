@@ -18,7 +18,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from comum import CORPUS, DADOS, INTERMEDIARIO, norm
-from subareas import SUBAREAS, classificar
+from subareas import SUBAREAS, classificar, refinar
 
 VERSAO = "1.1"
 
@@ -86,10 +86,15 @@ class Deduplicador:
             self.por_chave.setdefault(k, []).append((texto, q))
 
 
-def ler_revisao():
-    """Rótulos corrigidos à mão (dados/revisao_rotulos.csv). Valem por cima do classificador."""
-    with open(DADOS / "revisao_rotulos.csv", encoding="utf-8") as f:
-        return {l["id"]: l["subarea_revisada"] for l in csv.DictReader(f)}
+def validar(questoes):
+    """Mede o acerto da classificação em dados/validacao_rotulos.csv (questões conferidas à mão; só avaliação)."""
+    with open(DADOS / "validacao_rotulos.csv", encoding="utf-8") as f:
+        ref = list(csv.DictReader(f))
+    atual = {q["id"]: q["subarea"] for q in questoes}
+    for conjunto in sorted({r["conjunto"] for r in ref}):
+        rs = [r for r in ref if r["conjunto"] == conjunto and r["id"] in atual]
+        ok = sum(atual[r["id"]] == r["subarea_correta"] for r in rs)
+        print(f"validação ({conjunto}): {ok}/{len(rs)} = {ok / len(rs):.1%}")
 
 
 def cargo_orgao(slug):
@@ -99,20 +104,14 @@ def cargo_orgao(slug):
 def main():
     brutas = [json.loads(l) for l in open(INTERMEDIARIO / "questoes_brutas.jsonl", encoding="utf-8")]
     boas, descartadas, dedup = [], [], Deduplicador()
-    revisao = ler_revisao()
     for r in brutas:
         sec = r["secao"] or ""
         texto = r["enunciado"] + " " + " ".join(r["alternativas"].values())
         secao_de_ti = bool(SECAO_COMP.search(sec) or SECAO_ESPECIFICA.search(sec))
         area, pont = classificar(texto, secao_de_ti)
-        origem = "palavras_chave"
-        if r["id"] in revisao:
-            area, origem = revisao[r["id"]], "revisao_manual"
         motivos = [p for p in r["problemas"] if p in PROBLEMAS_QUE_DESCARTAM]
         if SECAO_LINGUA.search(sec) or (SECAO_NAO_COMP.search(sec) and not SECAO_COMP.search(sec) and max(pont.values()) < 8):
             motivos.append("fora_de_computacao_secao")
-        elif area == "fora_de_computacao":
-            motivos.append("fora_de_computacao_revisao_manual")
         elif area is None:
             motivos.append("fora_de_computacao_sem_termos_de_TI")
         original = dedup.verificar(r) if not motivos else None
@@ -125,7 +124,7 @@ def main():
                                 "gabarito": r["gabarito"], "pontuacao_subareas": pont})
             continue
         slug = r["prova"][3:]
-        q = {"id": r["id"], "subarea": area, "origem_subarea": origem, "ano": r["ano"], "banca": r["banca"], "cargo_orgao": cargo_orgao(slug),
+        q = {"id": r["id"], "subarea": area, "origem_subarea": "palavras_chave", "ano": r["ano"], "banca": r["banca"], "cargo_orgao": cargo_orgao(slug),
              "prova": r["prova"], "url_prova": r["url"], "numero_na_prova": r["numero"], "secao_na_prova": r["secao"],
              "enunciado": r["enunciado"],
              "alternativas": [{"letra": l, "texto": t} for l, t in r["alternativas"].items()],
@@ -133,6 +132,11 @@ def main():
              "tambem_em": [], "pontuacao_subareas": pont}
         dedup.registrar(r, q)
         boas.append(q)
+
+    # 2ª etapa: questões ambíguas para as palavras-chave são decididas por um modelo treinado nas não ambíguas
+    for q, (area, origem) in zip(boas, zip(*refinar(boas))):
+        q["subarea"], q["origem_subarea"] = area, origem
+    validar(boas)
 
     boas.sort(key=lambda q: (q["subarea"], q["ano"], q["id"]))
     CORPUS.mkdir(exist_ok=True)
@@ -150,8 +154,8 @@ def main():
                      for a in SUBAREAS},
         "campos": {
             "id": "NN-QQQ: NN = nº da pasta da prova em dados/pdfs, QQQ = nº da questão na prova",
-            "subarea": "classe atribuída pelo classificador de palavras-chave (scripts/subareas.py) ou pela revisão manual",
-            "origem_subarea": "palavras_chave ou revisao_manual (dados/revisao_rotulos.csv)",
+            "subarea": "classe atribuída por scripts/subareas.py (palavras-chave + modelo treinado nas sementes)",
+            "origem_subarea": "palavras_chave (margem >= 4) ou modelo_sementes (questão ambígua)",
             "ano": "ano de aplicação da prova", "banca": "banca organizadora",
             "cargo_orgao": "cargo e órgão do concurso", "prova": "pasta da prova em dados/pdfs",
             "url_prova": "página da prova no PCI Concursos", "numero_na_prova": "número da questão no caderno",

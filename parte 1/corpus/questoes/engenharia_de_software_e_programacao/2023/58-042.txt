@@ -1,0 +1,18 @@
+ID: 58-042
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo informatica legislativa tarde camara dos deputados
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considere o trecho de código em Python a seguir, que define uma rede neural usando TensorFlow e Keras. import tensorflow as tf from tensorflow.keras import layers, models modelo = models.Sequential() modelo.add(layers.Conv2D(32, (3, 3), activation='relu', input_shape=(64, 64, 3))) modelo.add(layers.MaxPooling2D((2, 2))) modelo.add(layers.Conv2D(64, (3, 3), activation='relu')) modelo.add(layers.MaxPooling2D((2, 2))) modelo.add(layers.Conv2D(64, (3, 3), activation='relu')) modelo.add(layers.Flatten()) modelo.add(layers.Dense(64, activation='relu')) modelo.add(layers.Dense(10, activation='softmax')) Com base no código apresentado, assinale a afirmativa incorreta.
+
+[ALTERNATIVAS]
+(A) A rede neural definida no código é do tipo convolucional (CNN).
+(B) O código define uma arquitetura de rede neural para realizar classificação de imagens em duas classes.
+(C) A entrada para a rede deve ser uma imagem de dimensões 64 x 64 pixels com 3 canais de cor.
+(D) A camada de saída da rede possui 10 unidades e utiliza a função de ativação softmax.
+(E) Todas as camadas convolucionais utilizam filtros de tamanho 3 x 3 e função de ativação ReLU.
+
+[GABARITO]
+B

@@ -1,0 +1,18 @@
+ID: 55-050
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: analista de sistemas tj sc
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Em arquiteturas de microsserviços voltadas para tribunais, a comunicação baseada em mensageria (como o uso de Message Brokers) é frequentemente adotada para aumentar a resiliência do ecossistema. Ao utilizar um modelo de comunicação assíncrona para o processamento de petições e atos processuais, o sistema busca mitigar o risco de falhas em cascata e lidar com picos de demanda. Uma característica fundamental e intrínseca a esse modelo de interação é o
+
+[ALTERNATIVAS]
+(A) Acoplamento Temporal, que exige que o serviço de destino esteja em estado operacional e pronto para processamento no exato momento em que o produtor realiza o envio da mensagem.
+(B) Bloqueio da Thread de Execução, em que o serviço emissor suspende suas atividades e aguarda a confirmação de recebimento e o processamento final da tarefa pelo consumidor para retomar sua lógica.
+(C) Desacoplamento espacial e temporal, permitindo que o produtor envie a mensagem e prossiga com seu fluxo de execução, sem a necessidade de que o serviço consumidor esteja disponível ou que sua localização seja conhecida no momento da emissão.
+(D) Protocolo de RPC (Remote Procedure Call), que visa garantir que a chamada entre serviços distribuídos ocorra de forma transparente, mimetizando uma chamada de função local e síncrona.
+(E) Mecanismo de Idempotência Nativa, característica garantida obrigatoriamente pela camada de transporte que impede, de forma automática e sem necessidade de lógica no consumidor, o processamento de mensagens duplicadas.
+
+[GABARITO]
+C
