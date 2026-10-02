@@ -1,0 +1,18 @@
+ID: 09-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Em um sistema de blockchain tradicional, cada bloco armazena informações importantes para garantir a integridade e a validação das transações. Considerando a estrutura de blockchains públicas como Bitcoin e Ethereum, o elemento que não é armazenado diretamente em um bloco
+
+[ALTERNATIVAS]
+(A) é o Hash do bloco anterior.
+(B) são as Assinaturas digitais das transações.
+(C) é o Registro de saldo das carteiras participantes.
+(D) é o Timestamp (carimbo de tempo).
+(E) são os Dados das transações.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 33-056
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade suporte em tecnologia da informacao trf 1
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A equipe de gestão de infraestrutura está analisando equipamentos de armazenamento de dados de diferentes arquiteturas para substituir o atual storage obsoleto. Uma vantagem do equipamento do tipo CAS (Content Addressable Storage) é:
+
+[ALTERNATIVAS]
+(A) acesso aos dados por meio de WWN (World Wide Name);
+(B) eliminação de duplicação de dados;
+(C) recuperação dos dados com base no endereço lógico;
+(D) hash criptográfico aplicado ao endereço físico do dado;
+(E) hash criptográfico aplicado ao endereço lógico do dado.
+
+[GABARITO]
+B

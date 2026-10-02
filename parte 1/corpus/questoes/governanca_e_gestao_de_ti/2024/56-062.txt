@@ -1,0 +1,18 @@
+ID: 56-062
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista cvm perfil 8 ti sistemas e desenvolvimento tarde cvm
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+A analista Helena é a gerente de um projeto de alta complexidade. Uma grande empresa foi contratada para executar diferentes atividades relacionadas a ele. Essa empresa não está acompanhando o projeto e apresenta atrasos constantes. Helena acredita que os atrasos se devem ao fato de o preposto da empresa não estar devidamente comprometido com o projeto, o que o leva a não gerenciar corretamente a sua equipe. Para resolver esse problema, e tendo em vista que o atraso do projeto deve ser o menor possível, Helena deve:
+
+[ALTERNATIVAS]
+(A) tomar ações para engajar mais o preposto, pois ele é uma parte interessada de grande importância para o projeto, além de compreender e analisar as partes interessadas de forma contínua;
+(B) informar à empresa contratada que o preposto não está desempenhando a sua função corretamente e solicitar que ele seja trocado o quanto antes, pois é função da empresa colocar profissionais capacitados em seus quadros;
+(C) continuar normalmente com o projeto, pois o maior interessado em realizar as entregas é a empresa e, ao não realizá-las, a empresa não receberá o pagamento devido;
+(D) parar de comunicar-se com o preposto e tratar somente com o pessoal técnico da empresa, pois quem, de fato, faz as entregas são eles, de modo que não há necessidade de interação com o preposto;
+(E) alterar o cronograma do projeto estimando que haverá atraso nas entregas dessa empresa, pois isso impactará menos do que a troca do preposto.
+
+[GABARITO]
+A

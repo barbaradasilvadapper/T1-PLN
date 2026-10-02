@@ -1,11 +1,9 @@
-"""Leitura dos gabaritos da FGV (texto gerado com `pdftotext -layout`).
+"""Leitura dos gabaritos da FGV.
 
-Cada arquivo de gabarito traz vários blocos, um por cargo/tipo de prova:
-    <cabeçalho: cargo - Tipo/Prova N>          (às vezes quebrado em 2 linhas)
-     1   2   3 ...  20                          <- linha de números
-     A   D   B ...  C                           <- linha de respostas (A-E, * ou X = anulada)
-`blocos()` extrai todos; `escolher()` acha o bloco da prova: mesmo número de questões,
-Tipo/Prova 1 (versão publicada no site) e cabeçalho mais parecido com o nome do cargo.
+Cada arquivo de gabarito tem vários blocos, um por cargo e tipo de prova: um cabeçalho com o nome do
+cargo, uma linha com os números das questões e outra com as respostas (A a E; * ou X quando foi anulada).
+blocos() lê todos os blocos e escolher() acha o da nossa prova: mesmo número de questões, prova Tipo 1
+(a que está no site) e cabeçalho mais parecido com o nome do cargo.
 """
 import re
 
@@ -43,7 +41,7 @@ def blocos(texto):
                 j += 1
             resp = L[j].split() if j < len(L) else []
             if resp and all(RESP.match(r) for r in resp) and len(resp) == len(nums):
-                if buf:                                  # novo cabeçalho -> novo bloco
+                if buf:                                  # apareceu um cabeçalho novo: começa outro bloco
                     atual = {"cab": " ".join(buf), "turno": turno, "resp": {}}
                     out.append(atual)
                     buf = []

@@ -1,4 +1,4 @@
-"""Caminhos e funções compartilhadas pelo pipeline."""
+"""Caminhos e funções usados pelos scripts da parte 1."""
 import re
 import unicodedata
 from pathlib import Path
@@ -6,7 +6,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 DADOS = RAIZ / "dados"
 PDFS = DADOS / "pdfs"                      # entrada: dados/pdfs/NN_slug/{prova.pdf, gabarito.pdf}
-TXT = DADOS / "txt"                        # saída da etapa 1 (PDF -> TXT)
+TXT = DADOS / "txt"                        # textos gerados pelo converter_pdfs.py
 GABARITOS_MANUAIS = DADOS / "gabaritos_manuais"   # gabaritos transcritos à mão (PDF escaneado)
 INTERMEDIARIO = DADOS / "intermediario"
 CORPUS = RAIZ / "corpus"

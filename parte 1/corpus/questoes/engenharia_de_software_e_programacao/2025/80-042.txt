@@ -1,0 +1,18 @@
+ID: 80-042
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado tecnologia da informacao trt da 24 regiao
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+O analista Raimundo sabe que a indução de árvores de decisão é uma das formas mais simples, e ainda assim mais bem sucedidas, de aprendizagem de máquina. No entanto, ao aplicá-la em alguns problemas da empresa em que atua, o algoritmo de aprendizagem-em-árvore-de-decisão gera uma grande árvore quando realmente não há padrão a ser encontrado nos dados. O nome do problema encontrado por Raimundo é
+
+[ALTERNATIVAS]
+(A) suposição de estacionaridade.
+(B) poda de árvore de decisão.
+(C) superadaptação.
+(D) hipótese nula.
+(E) hiperárvore.
+
+[GABARITO]
+C

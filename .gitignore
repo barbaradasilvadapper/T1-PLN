@@ -1,33 +1,10 @@
-# ---- macOS ----
 .DS_Store
-.AppleDouble
-.LSOverride
-Icon?
-._*
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
-# ---- Python ----
 __pycache__/
-*.py[cod]
-.venv/
-venv/
 .ipynb_checkpoints/
-
-# ---- Editores ----
+.venv/
 .vscode/
 .idea/
-*.swp
-
-# ---- Arquivos temporários do Office (ex.: ~$DATASET_CARD.xlsx aberto no Excel) ----
 ~$*
+
+# gerados pelos scripts (dá para refazer)
+parte 1/dados/intermediario/

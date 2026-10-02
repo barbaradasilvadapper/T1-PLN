@@ -1,0 +1,18 @@
+ID: 29-057
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario analise de sistemas suporte tecnico em infraestrutura tj se
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+Davi é funcionário da empresa Z, que foi contratada para implementar criptografia e compactação de dados na rede SAN (Storage Area Network) do Tribunal de Justiça de Sergipe (TJSE). A rede SAN do Tribunal foi implementada com o protocolo de comunicação Fibre Channel (FC). Esse modelo define uma arquitetura com múltiplas camadas para o transporte de dados pela rede. De forma a atender às premissas de criptografia e compactação, Davi deverá implementar essas funções na camada:
+
+[ALTERNATIVAS]
+(A) FC-0;
+(B) FC-1;
+(C) FC-2;
+(D) FC-3;
+(E) FC-4.
+
+[GABARITO]
+D

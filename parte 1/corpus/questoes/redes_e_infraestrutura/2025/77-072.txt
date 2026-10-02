@@ -1,0 +1,18 @@
+ID: 77-072
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo programador ale am
+SUBÁREA: Redes, Sistemas Operacionais e Infraestrutura
+
+[ENUNCIADO]
+A área de TI está avaliando a adoção de plataformas Low-Code para agilizar o desenvolvimento de aplicações internas de baixo impacto. A principal desvantagem ou limitação que o Analista de Programação deve considerar ao utilizar plataformas Low-Code para desenvolver um sistema com requisitos de integração complexos ou regras de negócio altamente específicas é
+
+[ALTERNATIVAS]
+(A) a falta de documentação automática e de relatórios de compliance.
+(B) o custo de licença é geralmente zero para aplicações corporativas.
+(C) a dificuldade em acessar ou modificar o código-fonte subjacente, limitando a customização profunda e a extensibilidade.
+(D) a impossibilidade de deploy em ambiente de nuvem pública como AWS e Azure.
+(E) a incompatibilidade inerente com APIs RESTful e Web Services existentes.
+
+[GABARITO]
+C

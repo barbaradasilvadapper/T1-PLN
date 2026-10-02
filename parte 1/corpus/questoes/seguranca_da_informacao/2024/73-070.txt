@@ -1,0 +1,18 @@
+ID: 73-070
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A analista Ana implementou o fluxo Authorization Code do OAuth2, conforme a RFC 6749. Ela está realizando sessões de debug na execução do fluxo, a fim de constatar inconsistências. Durante a sessão de debug 31, Ana pausou a execução do fluxo logo após o servidor retornar um código de autorização. Com base na RFC 6749, Ana sabe que o próximo passo esperado no fluxo da sessão 31 é:
+
+[ALTERNATIVAS]
+(A) o servidor autenticar o cliente;
+(B) o cliente solicitar um token de acesso;
+(C) o servidor autenticar o dono do recurso;
+(D) o cliente direcionar o dono do recurso ao endpoint de autorização;
+(E) o servidor solicitar ao dono do recurso a concessão de acesso do cliente ao recurso.
+
+[GABARITO]
+B

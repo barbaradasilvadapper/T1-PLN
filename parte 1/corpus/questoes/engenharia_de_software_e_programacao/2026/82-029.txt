@@ -1,0 +1,18 @@
+ID: 82-029
+ANO: 2026
+BANCA: FGV
+CARGO/ÓRGÃO: agente tecnico desenvolvedor mp es
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Durante o desenvolvimento de um sistema, foi adotado o SonarQube para apoiar a qualidade do código, permitindo a análise automática do código-fonte e a geração de relatórios com métricas e apontamentos sobre possíveis problemas. Com base nesse contexto, analise as afirmativas a seguir. I. O SonarQube realiza análise estática do código, sendo capaz de identificar vulnerabilidades, bugs e más práticas sem a necessidade de executar o software. II. O SonarQube executa o sistema em ambientes de integração contínua para identificar vulnerabilidades que dependem do comportamento em tempo de execução, ampliando a cobertura da análise de segurança. III. O uso do SonarQube auxilia na padronização da qualidade do código, mas não substitui completamente a revisão manual realizada por desenvolvedores.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+C

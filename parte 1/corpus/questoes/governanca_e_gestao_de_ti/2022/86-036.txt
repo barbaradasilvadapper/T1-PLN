@@ -1,0 +1,18 @@
+ID: 86-036
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao da fazenda estadual sefaz am
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Segundo o ITIL versão 4, o objetivo da prática de gerenciamento de ativos de TI é
+
+[ALTERNATIVAS]
+(A) minimizar o impacto dos incidentes de hardware, restaurando a operação normal o mais rápido possível.
+(B) maximizar o número de mudanças bem-sucedidas nos serviços, gerenciando bem o cronograma de mudanças.
+(C) planejar e gerenciar o ciclo de vida completo de todos os ativos de TI para ajudar a organização a controlar custos.
+(D) garantir que os serviços atinjam o desempenho acordado e esperado de maneira econômica.
+(E) monitorar a infraestrutura e responder às condições que possam levar a possíveis falhas ou incidentes.
+
+[GABARITO]
+C

@@ -1,0 +1,18 @@
+ID: 01-040
+ANO: 2021
+BANCA: FGV
+CARGO/ÓRGÃO: analista em tecnologia da informacao desenvolvimento de sistemas banestes
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+No contexto das aplicações web, Ajax é uma tecnologia que destina-se primordialmente a:
+
+[ALTERNATIVAS]
+(A) criptografar dados que são transmitidos pela rede;
+(B) enviar e receber dados do servidor sem precisar recarregar a página inteira;
+(C) evitar ataques por meio de aplicativo web;
+(D) implementar mecanismos de login de duas etapas;
+(E) controlar aplicativos web que operam em diferentes plataformas.
+
+[GABARITO]
+B

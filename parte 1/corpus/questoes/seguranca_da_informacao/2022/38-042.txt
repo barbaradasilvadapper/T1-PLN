@@ -1,0 +1,18 @@
+ID: 38-042
+ANO: 2022
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario seguranca da informacao tj dft
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+A equipe de segurança de um órgão público detectou em seus sistemas de monitoramento a seguinte requisição em direção a um site do órgão: http://www.site.gov.br/index.php?username=1'%20or%20'1'%20 =%20'1'))/*&password=t&$t3. O tipo e a técnica de ataque detectados são, respectivamente:
+
+[ALTERNATIVAS]
+(A) HTML injection, com o objetivo de alterar a página de login;
+(B) SQL injection, com o objetivo de bypassar a página de login;
+(C) SQL injection, com o objetivo de forçar o banco de dados a gerar um erro;
+(D) Command injection, com o objetivo de realizar a execução de código na página de login;
+(E) Command injection, com o objetivo de forçar o banco de dados a gerar um erro.
+
+[GABARITO]
+B

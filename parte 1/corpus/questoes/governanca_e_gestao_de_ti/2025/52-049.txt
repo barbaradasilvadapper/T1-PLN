@@ -1,0 +1,18 @@
+ID: 52-049
+ANO: 2025
+BANCA: FGV
+CARGO/ÓRGÃO: analista de controle externo tecnologia da informacao tce pe
+SUBÁREA: Governança e Gestão de TI
+
+[ENUNCIADO]
+Após uma falha crítica no datacenter principal de um tribunal, o Comitê de Governança de TI foi acionado para deliberar sobre medidas estratégicas que mitiguem riscos futuros. Considerando as atribuições próprias da governança de TI, uma das ações cabíveis a esse comitê seria:
+
+[ALTERNATIVAS]
+(A) aprovar novo orçamento para hardware de contingência.
+(B) diagnosticar a causa-raiz da falha do datacenter.
+(C) restaurar servidores e reconfigurar balanceadores de carga.
+(D) treinar equipes em monitoramento proativo.
+(E) aplicar patches emergenciais nos sistemas.
+
+[GABARITO]
+A

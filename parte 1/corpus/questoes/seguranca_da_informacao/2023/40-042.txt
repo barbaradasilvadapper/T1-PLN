@@ -1,0 +1,18 @@
+ID: 40-042
+ANO: 2023
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario apoio especializado tecnologia da informacao seguranca da informacao tj ap
+SUBÁREA: Segurança da Informação
+
+[ENUNCIADO]
+Redes Wi-Fi se tornaram populares pela mobilidade que oferecem e pela facilidade de instalação e de uso em diferentes tipos de ambientes. Embora sejam muito convenientes, há alguns riscos que você deve considerar ao usá-las. Para resolver alguns desses riscos, foram desenvolvidos mecanismos de segurança, e o primeiro mecanismo de segurança a ser lançado que, atualmente, é considerado frágil e, por isso, o seu uso deve ser evitado é o:
+
+[ALTERNATIVAS]
+(A) WEP (Wired Equivalent Privacy);
+(B) WPA (Wi-Fi Protected Access);
+(C) WPA-2;
+(D) Bluetooth;
+(E) Modem ADSL.
+
+[GABARITO]
+A

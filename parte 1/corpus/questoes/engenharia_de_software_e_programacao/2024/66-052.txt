@@ -1,0 +1,18 @@
+ID: 66-052
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista legislativo desenvolvimento de sistema ale to
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Analise as afirmativas relativas ao desenvolvimento de serviços web, considerando aspectos de segurança. I. Para implementar um EndPoint SOAP, é necessário utilizar um arquivo WSDL para definir os serviços e suas operações. II. Em REST, a segurança contra injeção de SQL pode ser reforçada pelo uso da JPA, que permite consultas parametrizadas, reduzindo os riscos. III. Na segurança de serviços SOAP, os mecanismos como WS- Security para autenticação e criptografia já são automaticamente pré-configurados pelo protocolo https.
+
+[ALTERNATIVAS]
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III.
+
+[GABARITO]
+B

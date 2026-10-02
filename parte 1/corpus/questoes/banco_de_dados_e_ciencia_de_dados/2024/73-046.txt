@@ -1,0 +1,18 @@
+ID: 73-046
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista judiciario area apoio especializado especialidade tecnologia da informacao trf 1
+SUBÁREA: Banco de Dados e Ciência de Dados
+
+[ENUNCIADO]
+Jonathan recebeu um conjunto de dados e precisa manipulá-los em uma planilha eletrônica como uma tabela interativa. No LibreOffice, para combinar, comparar e analisar um grande volume de dados, permitindo a visualização dos dados com diferentes agrupamentos e/ou detalhes, Jonathan deve criar um(a):
+
+[ALTERNATIVAS]
+(A) array;
+(B) macro;
+(C) matrix;
+(D) pivot table;
+(E) database range.
+
+[GABARITO]
+D

@@ -1,0 +1,18 @@
+ID: 09-051
+ANO: 2024
+BANCA: FGV
+CARGO/ÓRGÃO: analista de tecnologia da informacao desenvolvimento de software dataprev
+SUBÁREA: Engenharia de Software e Programação
+
+[ENUNCIADO]
+Considerando as definições e características de SPA (Single Page Application) e PWA (Progressive Web Application), assinale a opção correta sobre suas principais diferenças e aplicações.
+
+[ALTERNATIVAS]
+(A) Ambas SPA e PWA dependem exclusivamente de frameworks JavaScript para funcionar, sendo que sem eles essas tecnologias não podem ser implementadas.
+(B) Uma SPA carrega todas as interações do usuário em uma única página sem a necessidade de recarregar a página, enquanto uma PWA é projetada para funcionar como um site com funcionalidades nativas.
+(C) O foco principal de uma PWA é fornecer uma experiência de página única similar a uma SPA, com o objetivo de evitar recarregamentos completos de página.
+(D) SPAs requerem Service Workers para fornecer funcionalidades como cache e notificações, característica fundamental para seu funcionamento offline.
+(E) Uma SPA depende exclusivamente de um navegador para ser executada, enquanto uma PWA pode ser instalada diretamente no sistema operacional do dispositivo como um aplicativo nativo.
+
+[GABARITO]
+B
