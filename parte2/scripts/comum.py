@@ -5,6 +5,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 CORPUS = RAIZ / "corpus"
 DADOS = RAIZ / "dados"
+QUESTOES_LEMATIZADAS = DADOS / "intermediario" / "questoes_lematizadas.jsonl"
 ORIGEM_CORPUS = RAIZ.parent / "corpus" / "corpus.json"
 
 
