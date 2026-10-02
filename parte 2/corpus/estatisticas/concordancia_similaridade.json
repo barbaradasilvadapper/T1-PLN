@@ -1,0 +1,82 @@
+{
+  "status": "anotado",
+  "tipo_anotacao": "humana",
+  "anotadores": 2,
+  "pares": 100,
+  "distribuicao_notas": {
+    "Luiza": {
+      "1": 75,
+      "2": 20,
+      "3": 5,
+      "4": 0,
+      "5": 0
+    },
+    "Rafaela": {
+      "1": 66,
+      "2": 28,
+      "3": 5,
+      "4": 1,
+      "5": 0
+    }
+  },
+  "escala": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "comparacoes": [
+    {
+      "anotador_1": "Luiza",
+      "anotador_2": "Rafaela",
+      "kappa_linear": 0.7940074906367041,
+      "kappa_quadratico": 0.8480662983425414,
+      "kappa_sem_pesos": 0.7536394176931691,
+      "n": 100,
+      "concordancia_exata": 0.89,
+      "diferenca_ate_1": 1.0,
+      "diferenca_absoluta_media": 0.11,
+      "spearman": 0.8304482044218172,
+      "matriz_confusao": [
+        [
+          66,
+          9,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          19,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          4,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    }
+  ],
+  "pares_para_revisao": [],
+  "nota": "null indica estatística indefinida, por exemplo notas constantes; não equivale a zero. A concordância usa notas independentes originais, antes de discutir divergências."
+}
