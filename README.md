@@ -362,11 +362,16 @@ e `similarity` do spaCy para a similaridade entre palavras. O que foi além:
 
 ## Uso de IA
 
-- **Partes 1, 3 e 4:** usamos o Claude (Anthropic), pelo Claude Code, para escrever e depurar os scripts e os
-  notebooks, e para escrever o texto deste README e da apresentação, incluindo a análise dos resultados. A conferência das 336
-  questões de `parte 1/dados/validacao_rotulos.csv`, usada para medir o acerto da subárea e escolher o
-  método de classificação, foi feita com o Claude. Nenhum rótulo do corpus vem dessa conferência.
-- **Parte 2:** o Codex (OpenAI) ajudou a implementar e documentar os scripts. As notas dos 100 pares foram
-  dadas pela Luiza e pela Rafaela, sem IA.
-- **Parte 4:** o LLM avaliado é o Gemini 3.5 Flash, chamado pela API. As notas do dataset de aula foram dadas
-  pelas alunas, em aula, sem IA.
+Usamos IA em partes específicas do trabalho:
+
+- **Parte 1:** a classificação de subárea em duas etapas (`subareas.py`, função `refinar`) e os ajustes no
+  `montar_corpus.py` foram escritos com o Claude (Anthropic, pelo Claude Code). A conferência das 336 questões
+  de `parte 1/dados/validacao_rotulos.csv`, que só serve para medir o acerto da subárea, também foi feita com
+  o Claude; nenhum rótulo do corpus vem dela.
+- **Parte 2:** os scripts foram feitos com o Codex (OpenAI) e depois simplificados com o Claude.
+- **Parte 3:** o notebook `classificacao.ipynb` foi escrito com o Claude.
+- **Parte 4:** o notebook `similaridade.ipynb` foi escrito com o Claude. O Gemini é um dos modelos avaliados
+  (o LLM da parte 4), não foi usado para escrever nada.
+- **Textos:** o README, os dataset cards e o conteúdo dos slides foram escritos com o Claude.
+
+Sem IA: o download das provas e as anotações (os 100 pares da Luiza e da Rafaela e o dataset de aula).
