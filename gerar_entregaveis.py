@@ -10,7 +10,7 @@ RAIZ = Path(__file__).parent
 DESTINO = RAIZ / "entregaveis"
 
 ARQUIVOS = {
-    "1_corpus_questoes": [
+    "corpus_questoes": [
         "parte 1/corpus/corpus.json",
         "parte 1/corpus/corpus.csv",
         "parte 1/corpus/por_subarea",
@@ -18,25 +18,29 @@ ARQUIVOS = {
         "parte 1/estatisticas.ipynb",
         "parte 1/dataset_card.xlsx",
     ],
-    "2_corpus_similaridade": [
+    "corpus_similaridade": [
         "parte 2/corpus/corpus_similaridade.csv",
         "parte 2/corpus/concordancia.json",
         "parte 2/dados/anotacoes_similaridade/anotador_luiza.csv",
         "parte 2/dados/anotacoes_similaridade/anotador_rafaela.csv",
         "parte 2/dataset_card.xlsx",
     ],
-    "3_classificador_questoes": [
+    "classificador_questoes": [
         "parte 3/classificacao.ipynb",
         "parte 3/resultados/comparacao.csv",
         "parte 3/resultados/comprimento_bow.png",
         "parte 3/resultados/matrizes_confusao.png",
     ],
-    "4_analisador_similaridade": [
+    "analisador_similaridade": [
         "parte 4/similaridade.ipynb",
         "parte 4/resultados/correlacoes.csv",
         "parte 4/resultados/dispersao.png",
         "parte 4/dados/notas_llm_nosso.csv",
         "parte 4/dados/notas_llm_aula.csv",
+    ],
+    "apresentacao": [
+        "apresentacao/Trabalho1_PLN.key",
+        "apresentacao/Trabalho1_PLN.pdf",
     ],
 }
 
@@ -50,5 +54,3 @@ for pasta, arquivos in ARQUIVOS.items():
         else:
             shutil.copy2(origem, DESTINO / pasta / origem.name)
     print(f"{pasta}: {len(arquivos)} itens")
-(DESTINO / "5_apresentacao").mkdir()
-print("5_apresentacao: colocar aqui os slides")

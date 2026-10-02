@@ -10,6 +10,7 @@ Grupo: Ana Carolina Poletto, Bárbara Dapper, João Pedro Martins, Luiza Pasini 
 | `parte 2/` | corpus de similaridade: scripts, anotações, corpus final e dataset card | scripts em `parte 2/scripts/` |
 | `parte 3/` | classificação das questões (`classificacao.ipynb`) e resultados | notebook |
 | `parte 4/` | similaridade de palavras (`similaridade.ipynb`), dataset de aula, notas do LLM e resultados | notebook |
+| `apresentacao/` | slides da apresentação (Keynote e PDF) | |
 | `entregaveis/` | cópia do que o enunciado pede para entregar (ver abaixo) | gerada por `gerar_entregaveis.py` |
 
 As partes 1 e 2 são pipelines de vários passos, por isso ficaram em scripts numerados. As partes 3 e 4 são
@@ -31,11 +32,11 @@ alguma parte, rode `python3 gerar_entregaveis.py` para atualizar.
 
 | Entregável | Pasta | Conteúdo |
 |---|---|---|
-| Corpus de questões | `entregaveis/1_corpus_questoes/` | `corpus.json`, `corpus.csv`, questões por subárea e ano, descartadas, estatísticas e dataset card |
-| Corpus de similaridade | `entregaveis/2_corpus_similaridade/` | `corpus_similaridade.csv`, anotações das duas anotadoras, concordância e dataset card |
-| Classificador de questões | `entregaveis/3_classificador_questoes/` | notebook executado, tabela de resultados e gráficos |
-| Analisador de similaridade | `entregaveis/4_analisador_similaridade/` | notebook executado, correlações, gráfico e notas do LLM |
-| Apresentação | `entregaveis/5_apresentacao/` | (a fazer) |
+| Corpus de questões | `entregaveis/corpus_questoes/` | `corpus.json`, `corpus.csv`, questões por subárea e ano, descartadas, estatísticas e dataset card |
+| Corpus de similaridade | `entregaveis/corpus_similaridade/` | `corpus_similaridade.csv`, anotações das duas anotadoras, concordância e dataset card |
+| Classificador de questões | `entregaveis/classificador_questoes/` | notebook executado, tabela de resultados e gráficos |
+| Analisador de similaridade | `entregaveis/analisador_similaridade/` | notebook executado, correlações, gráfico e notas do LLM |
+| Apresentação | `entregaveis/apresentacao/` | slides em Keynote e em PDF |
 
 ## Parte 1: corpus de questões
 
