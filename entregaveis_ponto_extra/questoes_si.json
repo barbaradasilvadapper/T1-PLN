@@ -1,0 +1,639 @@
+{
+    "origem": "FGV",
+    "enunciado": "A Lei Geral de Proteção de Dados Pessoais (LGPD) dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais. Segundo a LGPD, a utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo é o(a):",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "bloqueio;"
+          },
+          {
+            "letra": "B",
+            "texto": "difusão;"
+          },
+          {
+            "letra": "C",
+            "texto": "anonimização;"
+          },
+          {
+            "letra": "D",
+            "texto": "eliminação;"
+          },
+          {
+            "letra": "E",
+            "texto": "extração."
+          }
+        ],
+    "gabarito": "C",
+    "classe": "seguranca_da_informacao",
+    "ano":"2021",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Kátia, engenheira de segurança, recebeu de seu chefe uma mensagem a ser criptografada e enviada para uma das filiais da empresa em outro estado, de forma segura. A mensagem não é crítica para a empresa, logo o sistema de criptografia a ser utilizado pode ser computacionalmente simples. Kátia resolveu então usar uma cifra de transposição que não altera o conteúdo da mensagem, alterando apenas suas posições. Considerando que a chave utilizada foi MEGABUCK e o texto cifrado é ISODAIAORPSOROPCUOCLSASMDSRENOLVOTIRCSMDTOIFROEEE RBUIATROSONOO a alternativa que apresenta o texto em claro correto para o texto cifrado acima é:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "EMVIRTUDEDOSPROTESTOSOCORRIDOSLIBERAROSFUNCION ARIOSAPOSOALMOCO;"
+          },
+          {
+            "letra": "B",
+            "texto": "EFETUARODEPOSITONACONTADAFILIALDERONDONIAHOJEIM PRETERIVELMENTE;"
+          },
+          {
+            "letra": "C",
+            "texto": "ALTERARASFOLHASDEPAGAMENTOEDAROAUMENTOACORDA DONAREUNIAODEONTEM;"
+          },
+          {
+            "letra": "D",
+            "texto": "TRANSFERIROFUNCIONARIOROBERTODODEPARTAMENTOBP ARAODEPARTAMENTOA;"
+          },
+          {
+            "letra": "E",
+            "texto": "ENCAMINHARPOREMAILOPLANEJAMENTODEFERIASDODEPA RTAMENTOACADEMICO."
+          }
+        ],
+    "gabarito": "A",
+    "classe": "seguranca_da_informacao",
+    "ano":"2021",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Antônio recebeu uma mensagem SMS supostamente enviada pela segurança corporativa, orientando-o a clicar em um link para atualizar um cadastro. Ao fazê-lo, Antônio cai em um site falso, mas bastante parecido com o da sua empresa, e fornece dados sigilosos como nome de usuário e senha. Esse tipo de técnica de engenharia social que se aproveita da confiança depositada por um usuário para roubar dados é denominado:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "trojan;"
+          },
+          {
+            "letra": "B",
+            "texto": "phishing;"
+          },
+          {
+            "letra": "C",
+            "texto": "spoofing;"
+          },
+          {
+            "letra": "D",
+            "texto": "backdoor;"
+          },
+          {
+            "letra": "E",
+            "texto": "ransomware."
+          }
+        ],
+    "gabarito": "B",
+    "classe": "seguranca_da_informacao",
+    "ano":"2021",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Uma técnica de criptografia largamente empregada para garantir segurança em transações digitais, que utiliza uma chave pública para ciframento de dados e uma outra chave privada para deciframento desses dados previamente cifrados, é:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "DES;"
+          },
+          {
+            "letra": "B",
+            "texto": "AES;"
+          },
+          {
+            "letra": "C",
+            "texto": "RSA;"
+          },
+          {
+            "letra": "D",
+            "texto": "SHA;"
+          },
+          {
+            "letra": "E",
+            "texto": "MD5."
+          }
+        ],
+    "gabarito": "C",
+    "classe": "seguranca_da_informacao",
+    "ano":"2021",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Para acessar a intranet corporativa, um colaborador informa seu CPF, senha pessoal e um código enviado para o seu celular cadastrado. O mecanismo de reforço implementado nessa intranet para confirmar a identidade do usuário contra acessos indevidos é a autenticação:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "biométrica;"
+          },
+          {
+            "letra": "B",
+            "texto": "Kerberos;"
+          },
+          {
+            "letra": "C",
+            "texto": "Oauth2;"
+          },
+          {
+            "letra": "D",
+            "texto": "2FA;"
+          },
+          {
+            "letra": "E",
+            "texto": "Openid."
+          }
+        ],
+    "gabarito": "D",
+    "classe": "seguranca_da_informacao",
+    "ano":"2021",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "A Lei Geral de Proteção de Dados Pessoais (LGPD) em vigor no Brasil tem por fundamento o respeito à privacidade e a autodeterminação informativa. Segundo a legislação brasileira, a pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais é denominada:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "controlador;"
+          },
+          {
+            "letra": "B",
+            "texto": "operador;"
+          },
+          {
+            "letra": "C",
+            "texto": "titular;"
+          },
+          {
+            "letra": "D",
+            "texto": "encarregado;"
+          },
+          {
+            "letra": "E",
+            "texto": "programador."
+          }
+        ],
+    "gabarito": "A",
+    "classe": "seguranca_da_informacao",
+    "ano":"2021",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Com referência à segurança de dados sigilosos, uma das técnicas utilizadas por hackers é a adição de código quando da entrada de dados em sistemas de informação. Essa técnica é conhecida como",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "Man-in-the-middle."
+          },
+          {
+            "letra": "B",
+            "texto": "Cavalo de Troia."
+          },
+          {
+            "letra": "C",
+            "texto": "SQL injection."
+          },
+          {
+            "letra": "D",
+            "texto": "Phishing."
+          },
+          {
+            "letra": "E",
+            "texto": "DDoS."
+          }
+        ],
+    "gabarito": "C",
+    "classe": "seguranca_da_informacao",
+    "ano":"2021",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Os executivos responsáveis por uma empresa decidiram, recentemente, migrar toda sua força de trabalho para o modelo de home-office. Para facilitar essa migração, os serviços de diretório de identidades e armazenamento de arquivos foram migrados para provedores de serviços externos (nuvem pública), em que os usuários têm acesso diretamente aos serviços, sem necessidade de estar na rede da empresa. Nesse sentido, assinale a opção que indica a ação efetiva para prover visibilidade sobre o uso dos serviços externos; controle sobre os cumprimentos das políticas de segurança da informação; e proteção contra vazamento de identidades.",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "Implementar uma ferramenta de DLP no firewall da empresa e uma ferramenta de controle de contas com acesso privilegiado."
+          },
+          {
+            "letra": "B",
+            "texto": "Implementar uma ferramenta de CASB, uma ferramenta de controle de contas com acesso privilegiado e uma ferramenta de login centralizado (SSO) com uso de um segundo fator de autenticação."
+          },
+          {
+            "letra": "C",
+            "texto": "Implementar uma ferramenta de controle de configurações, implementar monitoramento na VPN corporativa."
+          },
+          {
+            "letra": "D",
+            "texto": "Implementar política solicitando que os usuários criptografem os dados antes de utilizarem os serviços externos."
+          },
+          {
+            "letra": "E",
+            "texto": "Implementar uma ferramenta de antivírus com sandboxing em todas as estações da rede da empresa."
+          }
+        ],
+    "gabarito": "B",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Ana precisa enviar a mensagem M para Bráulio de forma sigilosa pela rede do Tribunal de Justiça atendendo aos requisitos de segurança: autenticidade, não repúdio, integridade e confidencialidade. Para isso, Ana deve enviar uma chave secreta K para Bráulio e gerar uma assinatura digital AD(M). Considerando que a chave K deve ser conhecida apenas por Ana e Bráulio, após esse processo deve-se cifrar K e AD(M) com a chave:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "privada de Bráulio;"
+          },
+          {
+            "letra": "B",
+            "texto": "privada de Ana;"
+          },
+          {
+            "letra": "C",
+            "texto": "pública de Ana;"
+          },
+          {
+            "letra": "D",
+            "texto": "pública de Bráulio;"
+          },
+          {
+            "letra": "E",
+            "texto": "secreta de Ana."
+          }
+        ],
+    "gabarito": "D",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "A Estratégia Nacional de Segurança da Informação e Cibernética do Poder Judiciário (ENSEC-PJ) foi instituída com o objetivo de incrementar a segurança cibernética nos órgãos do Poder Judiciário, abrangendo aspectos essenciais da segurança da informação e definindo objetivos para fortalecer o espaço cibernético do Poder Judiciário, assim como divulgar ações para os órgãos em seu âmbito de atuação. Um dos objetivos da ENSEC-PJ, instituída pela Resolução CNJ nº 396/2021, é:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "estabelecer modelo centralizado de governança cibernética nacional;"
+          },
+          {
+            "letra": "B",
+            "texto": "permitir a manutenção e a continuidade dos serviços, ou o seu restabelecimento em menor tempo possível;"
+          },
+          {
+            "letra": "C",
+            "texto": "fortalecer as ações de governança cibernética;"
+          },
+          {
+            "letra": "D",
+            "texto": "realizar prática em gestão de incidentes e efetivar o aprimoramento contínuo do processo;"
+          },
+          {
+            "letra": "E",
+            "texto": "estabelecer rede de cooperação do Judiciário para a segurança cibernética."
+          }
+        ],
+    "gabarito": "B",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Caio recebeu a tarefa de melhorar a segurança da rede local do Tribunal de Justiça. A demanda solicitada foi a implementação de um sistema de criptografia que atenda aos requisitos a seguir. 1. receber como entrada um bloco de texto sem formatação; 2. trabalhar com tamanhos de chaves diferentes; 3. movimentar o bloco para uma matriz quadrada onde são executadas suas operações; 4. relacionar o número de rodadas do algoritmo com o tamanho da chave. Para cifrar as mensagens e atender aos critérios determinados, Caio deve utilizar o algoritmo criptográfico:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "RSA;"
+          },
+          {
+            "letra": "B",
+            "texto": "AES;"
+          },
+          {
+            "letra": "C",
+            "texto": "DES;"
+          },
+          {
+            "letra": "D",
+            "texto": "3DES;"
+          },
+          {
+            "letra": "E",
+            "texto": "ELGAMAL."
+          }
+        ],
+    "gabarito": "B",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Um sistema criptográfico tipicamente depende de duas partes: seu algoritmo, que determina as operações que precisam ser feitas para proteger uma mensagem, e sua chave, que age como entropia para a proteção da mensagem. De forma geral, o algoritmo deverá ser capaz de, ao receber uma mensagem em texto legível, aciona a chave que gerará uma nova mensagem não compreensível para qualquer um que não possua a chave. Porém, durante os anos, criptoanalistas desenvolveram métodos para tentar descobrir as chaves secretas. Nesse sentido, analise os métodos a seguir. I. Ataque de texto cifrado (cyphertext-only): o criptoanalista tem uma grande biblioteca de mensagens cifradas, mas desconhece as originais e as chaves utilizadas. Seu objetivo é recuperar as mensagens normais (deduzir as chaves utilizadas). II. Ataque de texto conhecido (known-plaintext): o criptoanalista possui uma grande biblioteca de mensagens criptografadas e também as mensagens originais equivalentes. Seu objetivo é deduzir as chaves utilizadas. III. Ataque adaptativo do texto escolhido (adaptative-choosenplaintext): neste método o criptoanalista utiliza blocos de informações em texto puro para descobrir através da tentativa e erro entre todas as combinações possíveis as chaves de criptografia. IV. Ataque do texto cifrado escolhido (choosen-cyphertext): o criptoanalista tem uma grande quantidade de mensagens e seus equivalentes criptografados e pode produzir uma mensagem criptografada específica para ser decifrada e obter o resultado produzido. É utilizado quando se tem uma \"caixapreta\" que faz descriptografia automática. Sua tarefa é deduzir chaves utilizadas. Os métodos que estão corretamente descritos são:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "I, II e III, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "II e IV, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "II, III e IV, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "I, II e IV, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "I, III e IV, apenas."
+          }
+        ],
+    "gabarito": "D",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Marina recebeu uma ligação de um suposto funcionário que dizia estar fazendo uma pesquisa sanitária sobre uma pandemia. Marina passou suas informações pessoais e profissionais, que permitiram ao falso funcionário acessar um sistema com suas credenciais. A técnica empregada pelo falso funcionário para conseguir as informações de Marina é:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "poisoning;"
+          },
+          {
+            "letra": "B",
+            "texto": "flooding;"
+          },
+          {
+            "letra": "C",
+            "texto": "engenharia social;"
+          },
+          {
+            "letra": "D",
+            "texto": "suborno;"
+          },
+          {
+            "letra": "E",
+            "texto": "sniffer."
+          }
+        ],
+    "gabarito": "C",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Carlos recebeu um e-mail que parecia pertencer ao seu banco e, sem perceber, baixou e instalou um software malicioso no seu computador. A partir desse software, um criminoso cibernético passou a ter o controle do computador de Carlos. O software malicioso instalado no computador de Carlos é:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "phishing;"
+          },
+          {
+            "letra": "B",
+            "texto": "DoS;"
+          },
+          {
+            "letra": "C",
+            "texto": "ransomware;"
+          },
+          {
+            "letra": "D",
+            "texto": "rootkit;"
+          },
+          {
+            "letra": "E",
+            "texto": "sandbox."
+          }
+        ],
+    "gabarito": "D",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Os analistas de segurança da informação estão pesquisando como mitigar riscos e monitorar ameaças que podem surgir no futuro. No modelo de ameaças STRIDE, a ameaça que tenta violar o princípio da confidencialidade é:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "spoofing;"
+          },
+          {
+            "letra": "B",
+            "texto": "tampering;"
+          },
+          {
+            "letra": "C",
+            "texto": "repudiation;"
+          },
+          {
+            "letra": "D",
+            "texto": "information disclosure;"
+          },
+          {
+            "letra": "E",
+            "texto": "elevation of privilege. Branca – Página 9 Tipo 1"
+          }
+        ],
+    "gabarito": "D",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Marcelo está elaborando a política de segurança em seu órgão e incluiu orientações sobre criação de senhas fortes para acesso aos sistemas, principalmente aqueles acessados pela internet. A orientação do Marcelo visa proteger seus usuários contra ataques de hackers que utilizam software automático para descobrir senhas fracas. A técnica para obtenção de senhas da qual Marcelo está tentando proteger seus usuários é:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "man-in-the-middle;"
+          },
+          {
+            "letra": "B",
+            "texto": "brute force;"
+          },
+          {
+            "letra": "C",
+            "texto": "backdoors;"
+          },
+          {
+            "letra": "D",
+            "texto": "session hijacking;"
+          },
+          {
+            "letra": "E",
+            "texto": "XSS."
+          }
+        ],
+    "gabarito": "B",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Um novo sistema operacional foi instalado nos servidores de um Centro de Dados, e a equipe de segurança recebeu a informação de que o novo sistema pode ter uma vulnerabilidade dia-zero. As vulnerabilidades dia-zero são perigosas porque são desconhecidas e suas correções ainda não foram produzidas. Durante o período de espera pela correção, os usuários ficam sujeitos às tentativas de explorações dessas vulnerabilidades pelos hackers. Uma das formas utilizadas pelos hackers para a descoberta das vulnerabilidades dia-zero é o fuzzing, cujo processo de funcionamento consiste em:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "inserir muitos dados em intervalos diferentes e verificar como um programa responde;"
+          },
+          {
+            "letra": "B",
+            "texto": "adaptar vulnerabilidades anteriores a novos programas;"
+          },
+          {
+            "letra": "C",
+            "texto": "roubar a identidade de um desenvolvedor para ter acesso ao código-fonte do programa;"
+          },
+          {
+            "letra": "D",
+            "texto": "confundir um roteador a fim de se passar por um ativo da rede;"
+          },
+          {
+            "letra": "E",
+            "texto": "enviar um código malicioso através de uma porta aberta na aplicação."
+          }
+        ],
+    "gabarito": "A",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "A equipe de segurança de um órgão público detectou em seus sistemas de monitoramento a seguinte requisição em direção a um site do órgão: http://www.site.gov.br/index.php?username=1'%20or%20'1'%20 =%20'1'))/*&password=t&$t3. O tipo e a técnica de ataque detectados são, respectivamente:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "HTML injection, com o objetivo de alterar a página de login;"
+          },
+          {
+            "letra": "B",
+            "texto": "SQL injection, com o objetivo de bypassar a página de login;"
+          },
+          {
+            "letra": "C",
+            "texto": "SQL injection, com o objetivo de forçar o banco de dados a gerar um erro;"
+          },
+          {
+            "letra": "D",
+            "texto": "Command injection, com o objetivo de realizar a execução de código na página de login;"
+          },
+          {
+            "letra": "E",
+            "texto": "Command injection, com o objetivo de forçar o banco de dados a gerar um erro."
+          }
+        ],
+    "gabarito": "B",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "Uma equipe de segurança de um órgão público designada para realizar testes de penetração conseguiu obter um arquivo de senhas pré-computadas em seus hashes correspondentes de um servidor de banco de dados. O tipo de ataque mais efetivo para descobrir as senhas a partir desses hashes é o:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "Pass the hash;"
+          },
+          {
+            "letra": "B",
+            "texto": "Rainbow Table;"
+          },
+          {
+            "letra": "C",
+            "texto": "Ataque de força bruta;"
+          },
+          {
+            "letra": "D",
+            "texto": "Hashcat;"
+          },
+          {
+            "letra": "E",
+            "texto": "Password Spraying."
+          }
+        ],
+    "gabarito": "B",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
+
+{
+    "origem": "FGV",
+    "enunciado": "O Comitê de Segurança Cibernética do Poder Judiciário instituiu o Protocolo de Prevenção a Incidentes Cibernéticos do Poder Judiciário (PPINC-PJ) com diretrizes para a prevenção a incidentes cibernéticos em seu mais alto nível. O PPINC-PJ baseia-se em um conjunto de boas práticas de segurança cibernéticas para melhor detectar, conter e eliminar ataques cibernéticos, minimizando eventuais impactos na operação das atividades dos órgãos. De acordo com o Anexo I, da Portaria CNJ nº 162/2021, o princípio crítico da PPINC-PJ que tem foco na formação, na revisão de controles/acessos, nos processos e na disseminação da cultura de segurança cibernética é:",
+    "respostas": [
+          {
+            "letra": "A",
+            "texto": "priorização;"
+          },
+          {
+            "letra": "B",
+            "texto": "diagnóstico contínuo;"
+          },
+          {
+            "letra": "C",
+            "texto": "formação, capacitação e conscientização;"
+          },
+          {
+            "letra": "D",
+            "texto": "automação;"
+          },
+          {
+            "letra": "E",
+            "texto": "resiliência."
+          }
+        ],
+    "gabarito": "A",
+    "classe": "seguranca_da_informacao",
+    "ano":"2022",
+    "responsavel": "rafaela"
+
+}
